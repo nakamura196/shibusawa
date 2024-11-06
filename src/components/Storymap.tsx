@@ -13,7 +13,7 @@ export default function Storymap({ date }: storymapProps) {
   > | null>(null);
   const containerRef = useRef<HTMLDivElement>(null);
 
-  const initializestorymap = useCallback(() => {
+  const initializeStorymap = useCallback(() => {
     if (window.KLStoryMap) {
       const storymap_data = `/data/storymap/date/${date}.json`;
       const storymap_options = {
@@ -24,11 +24,11 @@ export default function Storymap({ date }: storymapProps) {
       // 古いタイムライン要素がある場合は削除
       if (containerRef.current) {
         containerRef.current.innerHTML = ""; // containerRef内をクリア
-        const newstorymapElement = document.createElement("div");
-        newstorymapElement.id = "storymap-embed";
-        newstorymapElement.style.width = "100%";
-        newstorymapElement.style.height = "70vh";
-        containerRef.current.appendChild(newstorymapElement);
+        const newStorymapElement = document.createElement("div");
+        newStorymapElement.id = "storymap-embed";
+        newStorymapElement.style.width = "100%";
+        newStorymapElement.style.height = "70vh";
+        containerRef.current.appendChild(newStorymapElement);
       }
 
       // 新しいタイムラインを生成し、参照を保存
@@ -41,15 +41,15 @@ export default function Storymap({ date }: storymapProps) {
   }, [date]);
 
   useEffect(() => {
-    initializestorymap();
-  }, [initializestorymap]);
+    initializeStorymap();
+  }, [initializeStorymap]);
 
   return (
     <div>
       <Script
         src="https://cdn.knightlab.com/libs/storymapjs/latest/js/storymap-min.js"
         strategy="afterInteractive"
-        onLoad={initializestorymap}
+        onLoad={initializeStorymap}
       />
       <link
         rel="stylesheet"
