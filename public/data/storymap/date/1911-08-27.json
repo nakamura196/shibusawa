@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-08-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ、朝飧ヲ食ス、後、 <persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> ノ来訪ニ接シテ <persname corresp=\"#pers_清光院\"> 清光院 </persname> 墓碑ノ事ヲ談ス、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏来リ <orgname> 東洋汽船会社 </orgname> ノ事ヲ談ス、 <persname corresp=\"#pers_犬丸鉄太郎\">\n<surname> 犬丸 </surname>\n<forename> 鉄太郎 </forename>\n</persname> 氏来訪ス、寛永寺住職来リテ昇勲ノ事ヲ賀ス、 <persname corresp=\"#pers_佐竹作太郎\">\n<surname> 佐竹 </surname>\n<forename> 作太郎 </forename>\n</persname> 氏来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<persname corresp=\"#pers_小村\">\n<surname> 小村 </surname>\n</persname> 外務大臣官舎ニ抵リ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 大使送別会ニ列席ス、午飧畢リテ\n        <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰リ、暫時休息シテ更ニ <persname corresp=\"#pers_新渡戸\">\n<surname> 新渡戸 </surname>\n</persname> 氏宅ヲ <placename corresp=\"#place_小日向\"> 小日向 </placename>\n<placename corresp=\"#place_台町\"> 台町 </placename> ニ訪ヘ、 <placename corresp=\"#place_アメリカ合衆国\"> 米国\n       </placename> 人スタンホルト大学総長タル <persname corresp=\"#pers_ジヨルダン\">\n<surname> ジヨルダン </surname>\n</persname> 氏招宴ニ列席ス、種々ノ談話アリ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7140083,
+                    "lon": 139.7347139,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 頃 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 氏ヲ訪ヘ要務ヲ談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

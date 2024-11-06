@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1884-06-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<placename corresp=\"#place_宮川\"> 宮川 </placename> 洪水ノ為メニ十文字屋ニ滞留ス、午後、雨ヲ冒シテ内宮ニ詣ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

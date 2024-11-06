@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-02-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 過汽車 <placename corresp=\"#place_京都\"> 京都 </placename>\n       ヲ通過ス、京都支店長来訪セラル、明日 <placename corresp=\"#place_京都\"> 京都 </placename> ニ於テ集会ノ事ヲ談シ其周旋ヲ托ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 過車中ニテ朝飧ヲ食シ、直ニ <placename corresp=\"#place_大阪\"> 大阪 </placename>\n       着、来リ迎フル者多シ、馬車ニテ <placename corresp=\"#place_松塚\"> 松塚 </placename> 旅宿ニ入ル、 <persname corresp=\"#pers_大久保\">\n<surname> 大久保 </surname>\n</persname> 知事 <persname corresp=\"#pers_池上\">\n<surname> 池上 </surname>\n</persname> 市長、 <placename corresp=\"#place_今西\"> 今西 </placename> 商業会議所議員等来リ、本日 <placename corresp=\"#place_大阪\"> 大阪 </placename> ホテルニ於ル地方人士集会ノ手続ヲ告ケラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時\n       </time> 頃 <persname corresp=\"#pers_野崎\">\n<surname> 野崎 </surname>\n</persname> 氏ハ <persname corresp=\"#pers_藤田\">\n<surname> 藤田 </surname>\n</persname> 、 <persname corresp=\"#pers_村山\">\n<surname> 村山 </surname>\n</persname> 氏等ヘ、 <persname corresp=\"#pers_野口\">\n<surname> 野口 </surname>\n</persname> 氏ハ <persname corresp=\"#pers_住友\">\n<surname> 住友 </surname>\n</persname> 、 <persname corresp=\"#pers_小山\">\n<surname> 小山 </surname>\n</persname> 氏等ヘ余ノ来阪ヲ報シ、且、本日ノ出席ヲ勧誘ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 過 <placename corresp=\"#place_大阪\"> 大阪 </placename>\n       ホテルニ抵リ会場ニ臨ム、来会者七八十名、先ツ府知事ヨリ紹介演説アリ、尋テ余ノ本会設立ニ関スル沿革ト本会ノ企望トニ付詳細ニ演説アリ、後、内務参事官潮氏、 <persname corresp=\"#pers_河原田\">\n<surname> 河原田 </surname>\n</persname> 氏ヨリ <placename corresp=\"#place_東北地方\"> 東北 </placename> 、 <placename corresp=\"#place_九州\"> 九州 </placename> 惨害ノ実況ヲ報告セラル、畢テ一同午飧ヲ共ニシ、卓上 <persname corresp=\"#pers_野崎\">\n<surname> 野崎 </surname>\n</persname> 氏ヨリ <placename corresp=\"#place_東京\"> 東京 </placename> ニ於ル寄附金ノ現況ヲ報告ス、畢テ <persname corresp=\"#pers_岩本\">\n<surname> 岩本 </surname>\n</persname> 氏公会堂建設工事ヲ一覧ス後旅宿ニ帰リテ来人ニ接ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 33.0,
+                    "lon": 131.0,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<persname corresp=\"#pers_野崎\">\n<surname> 野崎 </surname>\n</persname> 氏ト共ニ <orgname> 灘万楼 </orgname> ニ抵リ、 <placename corresp=\"#place_大阪\"> 大阪\n       </placename> 商業会議所ノ招宴ニ臨ム、知事、市長及地方富豪来会シテ、寄附会募集ニ関スル手続ヲ協議ス、宴散シテ帰宿、後、 <placename corresp=\"#place_東京\"> 東京 </placename> ヘ電報ヲ発ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

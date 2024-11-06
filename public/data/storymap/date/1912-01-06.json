@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-01-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シテ朝飧ヲ食ス、 <persname corresp=\"#pers_遠賀亮中\">\n<surname> 遠賀 </surname>\n<forename> 亮中 </forename>\n</persname> 師来話ス、保勝会寄附金勧募ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 午前十時半 </time>\n<placename corresp=\"#place_本郷\"> 本郷 </placename> ニ抵リ午飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n       事務所ニ抵リ事務ヲ処理ス、 <persname corresp=\"#pers_尾高幸五郎\">\n<surname> 尾高 </surname>\n<forename> 幸五郎 </forename>\n</persname> 氏ト内事ヲ談話ス、 <persname corresp=\"#pers_大倉喜八郎\">\n<surname> 大倉 </surname>\n<forename> 喜八郎 </forename>\n</persname> 氏来リテ <placename corresp=\"#place_支那\"> 支那 </placename> 鉄道ニ貸付金ノ事ヲ談話ス、夕方 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 午後六時半 </time> 帰宿、夜飧後、 <persname corresp=\"#pers_皆川晃雄\">\n<surname> 皆川 </surname>\n<forename> 晃雄 </forename>\n</persname> 氏来リ新約全書ヲ会読シ且其解説ヲ聴ク、畢テ児童等ト遊戯ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

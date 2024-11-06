@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-04-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 慈善会演劇ニ抵ル、此日ハ <orgname> 第一銀行 </orgname>\n       本支店ノ人々二十名余ヲ案内シテ観劇セシムル筈ナリシニヨリ、終日劇場ニ在テ来賓ト共ニ劇ヲ観ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time> 畢テ\n        <orgname> 銀行倶楽部 </orgname> ニ於テ晩餐シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散会ス此夜 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 宅ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

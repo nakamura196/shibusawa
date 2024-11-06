@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-12-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前深川鷗盟会評議会ヲ開ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 日本鉄道会社重役会ニ列 <pb corresp=\"#pageB1115\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/141/full/max/0/default.jpg\" n=\"B1115\" source=\"#pageB1115\"></pb> ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 銀行集会所例会ニ出席ス、夜\n        <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

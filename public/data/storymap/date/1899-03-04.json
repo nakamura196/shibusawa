@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-03-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<persname corresp=\"#pers_谷敬三\">\n<surname> 谷 </surname>\n<forename> 敬三 </forename>\n</persname> 来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 過宮内省ニ抵リ <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 宮内大臣ニ面シテ <persname corresp=\"#pers_徳川慶喜\"> 一位公 </persname> ノ事ヲ話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 帝国議会ニ於テ <persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 大蔵大臣ニ面シテ商業学校々長ノ事ヲ談ス、 <persname corresp=\"#pers_早川千吉郎\">\n<surname> 早川 </surname>\n<forename> 千吉郎 </forename>\n</persname> 氏ヲ校長タラシムルノ議ハ <persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 大臣ニ於テ不承諾トノ確答ヲ受ク、帰路 <persname corresp=\"#pers_青木\">\n<surname> 青木 </surname>\n</persname> 大臣ヲ外務省ニ、 <persname corresp=\"#pers_大浦\">\n<surname> 大浦 </surname>\n</persname> 総監ヲ <pb corresp=\"#pageB1079\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/105/full/max/0/default.jpg\" n=\"B1079\" source=\"#pageB1079\"></pb> 警視庁ニ訪フモ不在面会ヲ得ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n       銀行ニ抵リ事務ヲ視ル、 <persname corresp=\"#pers_岡田良平\">\n<surname> 岡田 </surname>\n<forename> 良平 </forename>\n</persname> 、 <persname corresp=\"#pers_日下義雄\">\n<surname> 日下 </surname>\n<forename> 義雄 </forename>\n</persname> ニ書状ヲ発ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リ製麻会社ノ重役数氏ト会シテ同会社ノ将来ヲ協議ス、 <persname corresp=\"#pers_渋沢成一郎\">\n<surname> 渋沢 </surname>\n<forename> 喜作 </forename>\n</persname> 、 <persname corresp=\"#pers_田中源太郎\">\n<surname> 田中 </surname>\n<forename> 源太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_宇野保太郎\">\n<surname> 宇野 </surname>\n<forename> 保太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_本野小平\">\n<surname> 本野 </surname>\n<forename> 小平 </forename>\n</persname> 、 <persname corresp=\"#pers_長尾三十郎\">\n<surname> 長尾 </surname>\n<forename> 三十郎 </forename>\n</persname> 、 <persname corresp=\"#pers_浜田善吉\">\n<surname> 浜田 </surname>\n<forename> 善吉 </forename>\n</persname> 等来会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time> 過 <placename corresp=\"#place_浜町\"> 浜町\n       </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

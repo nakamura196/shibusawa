@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-12-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<date evidence=\"year inferenced\" when=\"1901-12-21\"> 十二月廿一日 </date> 、 <placename corresp=\"#place_神戸市\"> 神戸市 </placename> 水道公債ニ関シ米人 <persname corresp=\"#pers_モールス\">\n<surname> モールス </surname>\n</persname> 氏ト紛議ヲ生シ、現ニ控訴院ニ於テ審理中ナルヲ仲裁和解セシム "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.69017,
+                    "lon": 135.19544,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

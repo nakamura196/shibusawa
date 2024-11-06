@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-03-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴ヲ廃シ直ニ朝飧ヲ食シテ、来人ニ接ス、 <persname corresp=\"#pers_熊谷辰太郎\">\n<surname> 熊谷 </surname>\n<forename> 辰 <pb corresp=\"#pageB1662\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/688/full/max/0/default.jpg\" n=\"B1662\" source=\"#pageB1662\"></pb> 太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 、 <persname corresp=\"#pers_松井\">\n<surname> 松井 </surname>\n</persname> ノ諸氏来話ス、 <persname corresp=\"#pers_岩本\">\n<surname> 岩本 </surname>\n</persname> 、 <persname corresp=\"#pers_栗山\">\n<surname> 栗山 </surname>\n</persname> 、 <persname corresp=\"#pers_田辺貞吉\">\n<surname> 田辺 </surname>\n<forename> 貞吉 </forename>\n</persname> ノ諸氏来訪ス <persname corresp=\"#pers_今井清彦\">\n<surname> 今井 </surname>\n<forename> 清彦 </forename>\n</persname> 氏来リ、 <orgname> 国学院大学 </orgname> 維持資金募集講会ノ事ヲ談ス、午飧後引続キタル来客ニ接待シテ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 過 <orgname> 堺卯楼 </orgname> ニ抵リ講会ニ出席ス、 <placename corresp=\"#place_高崎\"> 高崎 </placename> 知事、 <persname corresp=\"#pers_土居通夫\">\n<surname> 土居 </surname>\n<forename> 通夫 </forename>\n</persname> 氏等来会ス、講会加名者一同ニ向テ一場ノ挨拶ヲ為ス、夜飧後 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 過 <placename corresp=\"#place_梅田\"> 梅田 </placename> 停車場ニ抵リ夜行列車ニ搭ス、送行ノ人多数来会ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.7005611,
+                    "lon": 135.4957444,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 七時三十分\n       </time> 発車、 <persname corresp=\"#pers_土居通夫\">\n<surname> 土居 </surname>\n<forename> 通夫 </forename>\n</persname> 、 <persname corresp=\"#pers_松方幸次郎\">\n<surname> 松方 </surname>\n<forename> 幸次郎 </forename>\n</persname> 氏等同車ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 寝ニ就ク汽車中温度強クシテ恰モ夏ノ如ク、夜中為メニ発汗シテ眠ヲ妨ケラレタリ\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

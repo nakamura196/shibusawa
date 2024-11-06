@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-01-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、風邪気全愈ニ至ラス褥中ニテ日記ヲ編成シ、又、当用ニ付テ諸方ヘ電話ノ交換ヲ為ス、 <persname corresp=\"#pers_増田明六\">\n<surname> 増田 </surname>\n<forename> 明六 </forename>\n</persname> 来リテ昨日開カレタル救済会ノ景況ヲ述ヘラル、救済会ニ関シテ、 <placename corresp=\"#place_大岡\"> 大岡 </placename>\n       議長、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 等ヨリ続々電話来ル、同件ニ付、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_安田\">\n<surname> 安田 </surname>\n</persname> 二氏ヘ寄附金ノ勧誘ヲ出状ス、 <persname corresp=\"#pers_北原種忠\">\n<surname> 北原 </surname>\n<forename> 種忠 </forename>\n</persname> 氏ノ来書ニ回答ス、種々ノ来書ヲ点撿シテ <persname corresp=\"#pers_増田\">\n<surname> 増田 </surname>\n</persname> ニ付托ス <lb></lb> 午前後《（飧カ）》ニ於テ御伝記稿本ヲ熟読シ第十三章ヲ了リ十四章ニ及フ、夜食後、家人ノ音楽ヲ聞ク、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 就寝 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

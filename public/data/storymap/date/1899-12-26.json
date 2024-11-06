@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-12-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前数多ノ来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 東京瓦斯会社 </orgname> 重役会ニ列ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 根岸 <persname corresp=\"#pers_益田克徳\">\n<surname> 益田 </surname>\n<forename> 克徳 </forename>\n</persname> 氏ノ招ニ応シ其邸ニ於テ催ス処ノ歳暮ノ茶事ニ会ス、 <persname corresp=\"#pers_真野\">\n<surname> 真野 </surname>\n</persname> 、 <persname corresp=\"#pers_河崎\">\n<surname> 河崎 </surname>\n</persname> 、 <persname corresp=\"#pers_山澄\">\n<surname> 山澄 </surname>\n</persname> 三氏ト同伴ス、賓主歓ヲ尽シテ散会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

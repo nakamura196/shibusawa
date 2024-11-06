@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-10-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、朝 <persname corresp=\"#pers_松平隼太郎\">\n<surname> 松平 </surname>\n<forename> 隼太郎 </forename>\n</persname> ニ命シテ昨夜ノ書状ヲ発送セシム、 <persname corresp=\"#pers_北垣国道\">\n<surname> 北垣 </surname>\n<forename> 国道 </forename>\n</persname> 氏来リ函樽鉄道重役ノ事ヲ再話セラル、堅ク之ヲ謝絶ス、 <persname corresp=\"#pers_木村一是\">\n<surname> 木村 </surname>\n<forename> 一是 </forename>\n</persname> 来ル、日本鉄道会社ノ評議書ヲ示サル、同意ノ旨ヲ答フ、 <persname corresp=\"#pers_佐々木和亮\">\n<surname> 佐々木 </surname>\n<forename> 和亮 </forename>\n</persname> 来ル、 <persname corresp=\"#pers_中村清蔵\">\n<surname> 中村 </surname>\n<forename> 清蔵 </forename>\n</persname> ノ事ヲ話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 商業会議所聯合会ニ列ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\">\n        午後五時 </time> 全般ノ議事ヲ議了セシヲ以テ聯合会ヲ閉会スル旨ノ短演説ヲ為シテ散会ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 五時半 </time>\n       銀行集会所例会ニ列シ議案数項ヲ議決ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

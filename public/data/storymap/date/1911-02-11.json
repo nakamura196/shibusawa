@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-02-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、風邪気ナルヲ以テ半身浴ニ止メ、畢テ朝飧ヲ食ス、後 <persname corresp=\"#pers_武田仁恕\">\n<surname> 武田 </surname>\n<forename> 仁恕 </forename>\n</persname> 氏、 <persname corresp=\"#pers_塙忠雄\">\n<surname> 塙 </surname>\n<forename> 忠雄 </forename>\n</persname> 氏等ノ来訪ニ接ス、 <persname corresp=\"#pers_渋沢保太郎\">\n<surname> 渋沢 </surname>\n<forename> 保太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_水谷\">\n<surname> 水谷 </surname>\n</persname> 生等来話ス <persname corresp=\"#pers_中野武営\">\n<surname> 中野 </surname>\n<forename> 武営 </forename>\n</persname> 氏来リ、株式取引所ノ事、其他ノ要務ヲ談ス、喜多院住職 <persname corresp=\"#pers_遠賀亮中\">\n<surname> 遠賀 </surname>\n<forename> 亮中 </forename>\n</persname> 氏来訪ス、午飧後 <placename corresp=\"#place_牛込\"> 牛込 </placename> 区ナル <orgname> 埼玉学生誘掖会\n       </orgname> ニ抵リ、 <placename corresp=\"#place_埼玉\"> 埼玉 </placename>\n       学生会ノ大会ニ出席シ一場ノ演説ヲ為ス、但演説ニ先テ教育勅語ヲ奉読シ又、学生ニ賞品ヲ授与ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n       過帰宿ス、小仁所氏及児童等《（ <persname corresp=\"#pers_古仁所\">\n<surname> 古仁所 </surname>\n</persname> 氏）》ト夜飧ヲ共ニシ、夜、各種ノ新聞紙ヲ読マシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

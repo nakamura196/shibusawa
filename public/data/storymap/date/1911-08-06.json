@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-08-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:30:00",
+                    "text": "<time when=\"05:30:00\"> 午前五時半 </time> 起床、入浴シテ、朝飧ヲ食ス、後、旅装ヲ整ヘ、留守居ノ人々ヘ注意ノ事ヲ訓示シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:17:00",
+                    "text": "<time when=\"07:17:00\"> 七時十七分 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> 発ノ汽車ニ搭ス、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢秀雄\">\n<forename> 秀 </forename>\n</persname> 二男同伴ス、車中天晴風涼ク旅況快活ナリ、 <placename corresp=\"#place_前橋\"> 前橋 </placename>\n       ニテ下車シ直ニ電車ニ搭シテ <placename corresp=\"#place_渋川\"> 渋川 </placename> ニ抵リ、更ニ電車ヲ乗替ヘテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<placename corresp=\"#place_伊香保\"> 伊香保 </placename> ニ着ス、 <pb corresp=\"#pageB1689\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/715/full/max/0/default.jpg\" n=\"B1689\" source=\"#pageB1689\"></pb>\n<persname corresp=\"#pers_木暮祐雄\">\n<surname> 木暮 </surname>\n<forename> 祐雄 </forename>\n</persname>\n<placename corresp=\"#place_高崎\"> 高崎 </placename> マテ迎ノ為メ来訪セラル、 <persname corresp=\"#pers_木暮武太夫\">\n<surname> 木暮 </surname>\n<forename> 武太夫 </forename>\n</persname> 方ニ投宿ス、午飧後先ツ湯元ノ地ニ抵リ更ニ市街ヲ散歩ス、帰宿後入浴シテ読書ス、夜飧後、 <placename corresp=\"#place_軽井沢\"> 軽井沢 </placename>\n<persname corresp=\"#pers_新渡戸\">\n<surname> 新渡戸 </surname>\n</persname> 氏ヨリ電報来ル、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 行ノ事ニ関シテナリ、夜、\n        <persname corresp=\"#pers_渋沢秀雄\">\n<forename> 秀雄 </forename>\n</persname> ニ新論語ヲ読マシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

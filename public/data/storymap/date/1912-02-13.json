@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-02-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_井口正之\">\n<surname> 井口 </surname>\n<forename> 正之 </forename>\n</persname> 氏来リ百話ニ関スル談話ヲ為ス、 <persname corresp=\"#pers_塙忠雄\">\n<surname> 塙 </surname>\n<forename> 忠雄 </forename>\n</persname> 氏来リ群書類集印刷《（従）》ノ事ヲ依頼セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 九時半 </time>\n<placename corresp=\"#place_巣鴨\"> 巣鴨 </placename> 分院ニ抵リ <persname corresp=\"#pers_高田\">\n<surname> 高田 </surname>\n</persname> 氏ト談話ス、更ニ本院ニ抵リ、 <persname corresp=\"#pers_安達\">\n<surname> 安達 </surname>\n</persname> 、 <persname corresp=\"#pers_高畠\">\n<surname> 高畠 </surname>\n</persname> 、 <placename corresp=\"#place_桜井\"> 桜井 </placename>\n<persname corresp=\"#pers_大橋\">\n<surname> 大橋 </surname>\n</persname> ノ諸氏ト院務ヲ談ス、午飧後、 <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯ヲ早稲田ニ訪問シテ、来ル <date evidence=\"year inferenced, day\" when=\"1912-04\"> 四月 </date> 上旬\n        <placename corresp=\"#place_大里\"> 大里 </placename> 教育会大会出席ノ事ヲ依頼ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7337972,
+                    "lon": 139.7390889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時\n       </time> 事務所ニ抵リ事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<persname corresp=\"#pers_穂積歌子\">\n<surname> 穂積 </surname>\n<forename> 歌子 </forename>\n</persname> 、 <persname corresp=\"#pers_阪谷琴子\">\n<surname> 阪谷 </surname>\n<forename> 琴子 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢市郎\">\n<surname> 渋沢 </surname>\n<forename> 市郎 </forename>\n</persname> 、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 四人ト内事ヲ談話ス、後、 <placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リ <persname corresp=\"#pers_浜口\">\n<surname> 浜口 </surname>\n</persname> 氏ノ宴会ニ出席ス、 <persname corresp=\"#pers_山本達雄_(政治家)\">\n<surname> 山本 </surname>\n<forename> 達雄 </forename>\n</persname> 、 <persname corresp=\"#pers_高橋是清\">\n<surname> 高橋 </surname>\n<forename> 是清 </forename>\n</persname> 氏等来会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

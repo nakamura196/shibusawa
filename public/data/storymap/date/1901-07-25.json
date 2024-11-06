@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-07-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前、 <persname corresp=\"#pers_永田正義\">\n<surname> 永田 </surname>\n<forename> 正義 </forename>\n</persname> 来ル、蓋シ両三日前 <persname corresp=\"#pers_大浦\">\n<surname> 大浦 </surname>\n</persname> 氏ヨリ紹介セラレシ大学卒業生ナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 東京市役所ニ抵リ <persname corresp=\"#pers_山口\">\n<surname> 山口 </surname>\n</persname> 中将以下歓迎ノ事ニ関シ府知事、警視総監及市長諸氏ト其開宴ノ手続ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 邸ニ抵リ午餐シ、 <orgname> 第一銀行 </orgname> ニ出勤ス、\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 更ニ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 邸ニ於テ\n        <orgname> 第一銀行 </orgname> 重役会ヲ開ク、畢テ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ株主総会ヲ開キ当季決算ノ事ヲ報告ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 三井集会所ニ抵リ <persname corresp=\"#pers_野津鎮武\">\n<surname> 野津 </surname>\n<forename> 鎮武 </forename>\n</persname> 氏ト共ニ夜餐ス、此夜 <orgname> 銀行倶楽部 </orgname> 晩餐会アリシモ <persname corresp=\"#pers_野津\">\n<surname> 野津 </surname>\n</persname> 氏ト先約アルヲ以テ出席ヲ断リ遣ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

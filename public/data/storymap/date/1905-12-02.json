@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-12-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、書類ヲ調査シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 入浴、畢テ朝飧ヲ喫シ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 東京市役所ニ抵リ陸軍凱旋ノ歓迎ニ関シ種々ノ協議ヲ為シ、発企人ノ総会ヲ開ク、畢テ午飧ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename> 水交社ニ抵リ <persname corresp=\"#pers_東郷\">\n<surname> 東郷 </surname>\n</persname> 海軍大将ノ園遊会ニ列ス、先ツ水兵ノ相撲アリ、次ニ仮装舞踏会アリ、終ニ庭前ノ池ニテ水雷ヲ発シ、又ハ炮台破壊《（砲）》ノ状ヲ為シ、其他種々ノ海軍戦争ノ状ヲ示シ、\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 食堂ニ入リテ立食ス、来会スル者官吏、軍人、実業家等無慮六七百人許リナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

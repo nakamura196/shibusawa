@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-06-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、午前、 <persname corresp=\"#pers_戸田宇八\">\n<surname> 戸田 </surname>\n<forename> 宇八 </forename>\n</persname> 氏来ル、 <date evidence=\"year inferenced\" when=\"1901-07-05\"> 七月五日 </date>\n       大蔵大臣招宴ノ事ニ関シ協議ス <persname corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persname> 来ル、 <persname corresp=\"#pers_清水釘吉\">\n<surname> 清水 </surname>\n<forename> 釘吉 </forename>\n</persname> 、同 <persname corresp=\"#pers_清水一雄\">\n<forename> 一雄 </forename>\n</persname> 、 <persname corresp=\"#pers_原林之助\">\n<surname> 原 </surname>\n<forename> 林之助 </forename>\n</persname> 来ル、同組当季ノ決算ヲ調査ス、 <persname corresp=\"#pers_桃井\">\n<surname> 桃井 </surname>\n</persname> 兄弟来訪ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ <placename corresp=\"#place_青山高木町\"> 青山高木町 </placename>\n<persname corresp=\"#pers_ステット\">\n<surname> ステット </surname>\n</persname> 氏ノ寓居ヲ訪ヒ、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 、 <persname corresp=\"#pers_都築\">\n<surname> 都築 </surname>\n</persname> 二氏来会シテ午餐ノ饗アリ、食後 <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename>\n       ニ帰宿ス、終日雨強ク降リテ行程頗ル困難ナリキ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

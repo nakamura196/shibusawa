@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-02-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、室内運動ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 過朝飧ヲ畢ル <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 偕楽園ニ抵リ帽子会社株主総会ニ出席ス、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n       銀行集会所ニ抵リ <persname corresp=\"#pers_安田\">\n<surname> 安田 </surname>\n</persname> 、 <persname corresp=\"#pers_相馬\">\n<surname> 相馬 </surname>\n</persname> 、 <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 、 <persname corresp=\"#pers_園田\">\n<surname> 園田 </surname>\n</persname> 、 <persname corresp=\"#pers_早川\">\n<surname> 早川 </surname>\n</persname> 、 <persname corresp=\"#pers_添田\">\n<surname> 添田 </surname>\n</persname> 、 <persname corresp=\"#pers_池田\">\n<surname> 池田 </surname>\n</persname> 、 <persname corresp=\"#pers_馬越\">\n<surname> 馬越 </surname>\n</persname> ノ諸氏ト国庫債券募集ニ関スル割合方法等ヲ内議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> ニ至リテ概略決定セシニヨリ、直ニ\n        <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ヲ <placename corresp=\"#place_麻布\"> 麻布 </placename> 邸ニ訪フテ其協議ノ次第ヲ報告シ、相共ニ三井集会所ニ抵リ、更ニ\n        <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 総理、 <persname corresp=\"#pers_曾根\">\n<surname> 曾根 </surname>\n</persname> 《（ <persname corresp=\"#pers_曾禰\">\n<surname> 曾禰 </surname>\n</persname> ）》大蔵、 <persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 両伯、 <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 総裁ト共ニ協議シテ、来ル <date when=\"1905-02-20\"> 廿日 </date> ヲ以テ <placename corresp=\"#place_京坂\"> 京坂 </placename> 其他ノ各地銀行者会同ノ事ト定ム、夜、 <persname corresp=\"#pers_高橋副総裁\">\n<surname> 高橋 </surname> 副総裁 </persname> 再ヒ <placename corresp=\"#place_イギリス\"> 英国 </placename>\n       行ノ送別会ニ出席シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス <lb></lb>\n<persname corresp=\"#pers_日下義雄\">\n<surname> 日下 </surname>\n<forename> 義雄 </forename>\n</persname> 氏集会所ニ来訪ス、其身上ノ事ヲ談話ス、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 氏来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

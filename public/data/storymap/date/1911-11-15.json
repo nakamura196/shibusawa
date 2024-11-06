@@ -1,0 +1,96 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-11-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ朝飧ヲ食シ、後、来書ヲ点撿シ又日記ヲ編成ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n<persname corresp=\"#pers_山下弥七郎\">\n<surname> 山下 </surname>\n<forename> 弥七郎 </forename>\n</persname> 、 <persname corresp=\"#pers_新野伝吉\">\n<surname> 新野 </surname>\n<forename> 伝吉 </forename>\n</persname> 二氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<orgname> 日本銀行 </orgname> ニ抵リ、昨日 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯邸ニ於テ会議ノ趣旨ニヨリ、 <persname corresp=\"#pers_水町\">\n<surname> 水町 </surname>\n</persname> 、 <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 二氏ト共ニ財政改釐ニ関スル意見書起草ノ事ヲ協議シ、 <persname corresp=\"#pers_片山\">\n<surname> 片山 </surname>\n</persname> 氏ニ托シテ文案ノ起稿ヲ為サシムル事トシテ余ヨリ其要点ヲ口授ス、畢テ事務所ニ抵リテ来書ヲ点撿シ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 銀行倶楽部 </orgname> ニ抵リテ午飧シ、畢テ <orgname> 東京興信所 </orgname> 評議員会ヲ開キ要件ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 赤阪離宮観菊御宴《（坂）》ニ出席シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 辞シ去リテ\n        <orgname> 帝国座 </orgname> ニ抵リ、更ニ商業会議所ニ抵リテ <placename corresp=\"#place_アメリカ合衆国\"> 米国\n       </placename> 鉱業団ノ接伴会ニ出席ス、賓主ノ握手及演説畢リテ立食アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 散会、事務所ニ帰リ夜飧シ、\n        <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ノ来着ヲ待テ共ニ <orgname> 帝国座 </orgname> ニ抵リテ観劇ス、 <placename corresp=\"#place_アメリカ合衆国\">\n        米国 </placename> 鉱業団ノ為メ、 <persname corresp=\"#pers_三井\">\n<surname> 三井 </surname>\n</persname> 、 <persname corresp=\"#pers_岩崎\">\n<surname> 岩崎 </surname>\n</persname> 、 <persname corresp=\"#pers_古河\">\n<surname> 古河 </surname>\n</persname> 三家ヨリ招宴スルナリ、劇畢リテ階上ニテ立食ノ饗アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散宴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1911-11-16T00:00+0900\"> 十二時 </time> 頃 <placename corresp=\"#place_王子\"> 王子\n       </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,95 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-05-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ衣服ヲ更メ、旅宿ノ食堂ニテ朝飧ヲ食ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<persname corresp=\"#pers_黒沢\">\n<surname> 黒沢 </surname>\n</persname> 氏来ル、同伴シテ英人 <persname corresp=\"#pers_アグレン\">\n<surname> アグレン </surname>\n</persname> 氏ヲ訪問ス、氏ハ <placename corresp=\"#place_支那\"> 支那 </placename> 総税務司 <pb corresp=\"#pageB1780\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/806/full/max/0/default.jpg\" n=\"B1780\" source=\"#pageB1780\"></pb> ナリ、目下問題タル <placename corresp=\"#place_支那\"> 支那 </placename>\n       関税改正ノ事ニ付種々ノ談話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 過日本人倶楽部ニ抵リ、同文書院ノ学生一同会合セル席ニ於テ一場ノ訓示演説ヲ為ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 領事館ニ於テ茶会ニ出席シ、支那人中特ニ有力ナル <persname corresp=\"#pers_唐紹儀\">\n<surname> 唐 </surname>\n<forename> 紹儀 </forename>\n</persname> 、 <persname corresp=\"#pers_伍庭芳\">\n<surname> 伍 </surname>\n<forename> 庭芳 </forename>\n</persname> 等《（ <persname corresp=\"#pers_伍廷芳\">\n<surname> 伍 </surname>\n<forename> 廷芳 </forename>\n</persname> ）》ノ諸氏ト会話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time>\n       再ヒ倶楽部ニ於テ実業協会ヨリノ饗宴ヲ受ケ、又、一場ノ講演ヲ為ス、畢テ六三公園、 <placename corresp=\"#place_上海市\"> 上海 </placename>\n       小学校等ヲ一覧シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 31.16667,
+                    "lon": 121.48333,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 過旅宿ニテ衣服ヲ更メ、 <placename corresp=\"#place_支那\"> 支那\n       </placename> 官憲ノ開催ニ係ル晩飧会ニ出席ス、食卓上主人側ニテ <persname corresp=\"#pers_鄭如成\">\n<surname> 鄭 </surname>\n<forename> 如成 </forename>\n</persname> ノ演説アリ、余モ之ニ答辞ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 宴散シテ、月ノ屋ト称スル料理店ニ小憩シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 停車場ニ抵リ、同時半発車ニテ南京ニ向フ、来リ送ル者頗ル多シ、発車後衣服ヲ更メテ汽車ニテ就寝ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

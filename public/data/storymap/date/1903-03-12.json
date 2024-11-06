@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-03-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢リ、 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 総理大臣ヲ訪フテ <persname corresp=\"#pers_矢野二郎\">\n<surname> 矢野 </surname>\n<forename> 次郎 </forename>\n</persname> 氏《（ <persname corresp=\"#pers_矢野二郎\">\n<surname> 矢野 </surname>\n<forename> 二郎 </forename>\n</persname> 氏）》ノ事ヲ依頼ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リテ来人ニ接ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<orgname> 第一銀行 </orgname> 重役会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ紅葉館ニ抵リ米国人電気会社々長 <persname corresp=\"#pers_ワツトソン\">\n<surname> ワツトソン </surname>\n</persname> 氏ノ歓迎会ニ列ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

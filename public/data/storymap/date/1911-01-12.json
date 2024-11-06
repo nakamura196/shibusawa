@@ -1,0 +1,94 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-01-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 起床、直ニ入浴シテ、朝飧ヲ食ス、 <persname corresp=\"#pers_平岡\">\n<surname> 平岡 </surname>\n</persname> 氏ヨリ電話アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ヘ来訪ノ事ヲ回答ス、養育院 <persname corresp=\"#pers_安達\">\n<surname> 安達 </surname>\n</persname> 氏ヘ電話ヲ通シテ明日巡回ノ事ヲ申遣ス、 <persname corresp=\"#pers_成瀬仁蔵\">\n<surname> 成瀬 </surname>\n<forename> 仁蔵 </forename>\n</persname> 氏来リテ <orgname> 女子大学 </orgname> ノ事ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ抵リ来人ニ接シ事務ヲ処理ス、又、書状ヲ発送ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time> 事務所ニテ午飧シテ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ、重役会ヲ開キ要件ヲ議決ス、畢テ来人ニ接ス、又、 <persname corresp=\"#pers_浦田\">\n<surname> 浦田 </surname>\n</persname> 氏ヨリ依頼シ来レル小学読本ノ修正ヲ <persname corresp=\"#pers_大沢\">\n<surname> 大沢 </surname>\n</persname> 氏ニ托ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_日本橋\"> 日本橋 </placename> 倶楽部ニ抵リ <orgname> 清水組 </orgname>\n       宴会ニ出席ス、席上一場ノ答辞ヲ述フ、種々ノ余興アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

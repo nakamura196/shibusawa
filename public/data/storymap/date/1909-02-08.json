@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-02-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シ、畢テ朝飧ヲ食シ、来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<orgname> 東京瓦斯会社 </orgname> ニ抵リ、日韓瓦斯会社重役会ヲ開キ要件ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <persname corresp=\"#pers_酒匂\">\n<surname> 酒匂 </surname>\n</persname> 、 <persname corresp=\"#pers_瓜生\">\n<surname> 瓜生 </surname>\n</persname> 、 <persname corresp=\"#pers_藤本\">\n<surname> 藤本 </surname>\n</persname> 氏等ト日糖会社ノ事ヲ談ス、又、人造 <pb corresp=\"#pageB1563\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/589/full/max/0/default.jpg\" n=\"B1563\" source=\"#pageB1563\"></pb> 肥料会社ノ事ニ関シ、 <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 、 <persname corresp=\"#pers_植村\">\n<surname> 植村 </surname>\n</persname> 、 <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 三氏ト要件ヲ協議ス、 <persname corresp=\"#pers_中野武営\">\n<surname> 中野 </surname>\n<forename> 武営 </forename>\n</persname> 氏来リテ <orgname> 帝商銀行 </orgname> ノ事ヲ談ス、 <persname corresp=\"#pers_仙石貢\">\n<surname> 仙石 </surname>\n<forename> 貢 </forename>\n</persname> 氏来リ東鉄ノ事ヲ談ス、東鉄ノ事ニ関シ、 <persname corresp=\"#pers_栗生\">\n<surname> 栗生 </surname>\n</persname> 、 <persname corresp=\"#pers_織田\">\n<surname> 織田 </surname>\n</persname> 、 <persname corresp=\"#pers_半田\">\n<surname> 半田 </surname>\n</persname> 氏等来話ス、又、 <persname corresp=\"#pers_須永\">\n<surname> 須永 </surname>\n</persname> 、 <persname corresp=\"#pers_斎藤\">\n<surname> 斎藤 </surname>\n</persname> 二氏来話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 過 <placename corresp=\"#place_王子\"> 王子\n       </placename> ニ帰宿ス <lb></lb> 朝、 <persname corresp=\"#pers_福島甲子三\">\n<surname> 福島 </surname>\n<forename> 甲子三 </forename>\n</persname> 氏来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

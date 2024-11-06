@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-02-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後、 <persname corresp=\"#pers_白岩竜平\">\n<surname> 白岩 </surname>\n<forename> 竜平 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 過朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ来人ニ接シ事務ヲ処理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\">\n        正午 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、食後来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n       銀行集会所ニ抵リ、日本汽船会社創立ノ事ニ関シ発起人会ヲ開キ、一場ノ演説ヲ為ス、畢テ創立委員会ヲ開キ要務ヲ決議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n       頃事務所ニ抵リ書類ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 再ヒ銀行集会所ニ抵リ興信所ノ総会ヲ開キ、夜飧後、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

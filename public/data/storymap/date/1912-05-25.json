@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-05-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、風邪気ニ付半身浴ヲナシ、後、朝飧ヲ食シ、畢テ <persname corresp=\"#pers_井口正之\">\n<surname> 井口 </surname>\n<forename> 正之 </forename>\n</persname> 氏ノ来訪ニ接シ、百話ノ編纂ヲ談話ス、又、来書ヲ撿閲ス、諸方ヨリ電話ノ往答アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n       事務所ニ抵リ来人ニ接シ又庶務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト行務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> ニ於テ午飧シ、児童修学ノ事ニ関シテ種々ノ訓示ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<placename corresp=\"#place_一橋\"> 一橋 </placename> 教育会ニ抵リ、簡易図書館ノ為メ一場ノ講演ヲ為ス、 <placename corresp=\"#place_東京\"> 東京 </placename> 市ヨリノ依托ニ応シタルナリ、畢テ <placename corresp=\"#place_日本橋\"> 日本橋\n       </placename> 倶楽部ニ抵リ、 <persname corresp=\"#pers_吉岡新五郎\">\n<surname> 吉岡 </surname>\n<forename> 新五郎 </forename>\n</persname> 氏ノ催フセル宴会ニ出席ス、同族悉ク会同ス、洋風ノ饗宴アリ、食卓上一場ノ懐旧談話ヲ為シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n       散会、帰宿ス、帰宅後、百話ニ附属スル小伝ノ原稿修正ニ勉ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-03-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後入浴シ、畢テ朝飧ヲ喫ス、 <placename corresp=\"#place_四日市\"> 四日市 </placename>\n<persname corresp=\"#pers_九鬼紋七\">\n<surname> 九鬼 </surname>\n<forename> 紋七 </forename>\n</persname> 氏来リ三重紡績会社ノ事ヲ談ス、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 氏来リ養育院ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 東京帽子会社ニ抵リ重役会ヲ開キ、要務ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 公爵ヲ <placename corresp=\"#place_第六天町\"> 大六天《（第）》 </placename> ニ訪ヒ小話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、食後重役会ヲ開キ要務ヲ決ス、畢テ事務所ニ抵リ、来人ニ接シ事務ヲ処理ス、諸方ヘ出状ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リ、 <persname corresp=\"#pers_福島浪蔵\">\n<surname> 福島 </surname>\n<forename> 浪蔵 </forename>\n</persname> 氏ノ招宴ニ出席ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過 <placename corresp=\"#place_浜町\"> 浜町\n       </placename> 宅ヲ訪ヒ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<persname corresp=\"#pers_郷誠之助\">\n<surname> 郷 </surname>\n<forename> 誠之助 </forename>\n</persname> 氏来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

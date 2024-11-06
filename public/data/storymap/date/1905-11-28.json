@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-11-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、冷水摩擦ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 七時半 </time>\n       朝飧ヲ喫ス、食後新聞紙ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n       東京市役所ニ抵リ市内有力ナル銀行会社ノ主任者ヲ会同シテ凱旋陸軍歓迎ノ事ヲ談ス、午飧後 <orgname> 第一銀行 </orgname> ニ抵リ要務ヲ談シ、更ニ事務所ニ於テ事務ヲ処理シ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 午後二時半 </time> 麻布 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯園遊会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 立食後、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時\n       </time> 過 <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

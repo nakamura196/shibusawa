@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-11-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、後、修養団員タル <persname corresp=\"#pers_遠藤賢次郎\">\n<surname> 遠藤 </surname>\n<forename> 賢次郎 </forename>\n</persname> 氏 <pb corresp=\"#pageB1708\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/734/full/max/0/default.jpg\" n=\"B1708\" source=\"#pageB1708\"></pb> ニ会話ス、銀行集会所ヨリ委托セラレタル著書ノ題字ヲ揮毫ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 午前十時半 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 人 <persname corresp=\"#pers_ラツセル\">\n<surname> ラツセル </surname>\n</persname> 、 <persname corresp=\"#pers_ホルト\">\n<surname> ホルト </surname>\n</persname> 二氏ト会話ス、 <persname corresp=\"#pers_小野英二郎\">\n<surname> 小野 </surname>\n<forename> 英二郎 </forename>\n</persname> 、 <persname corresp=\"#pers_福井菊三郎\">\n<surname> 福井 </surname>\n<forename> 菊三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_今西兼二\">\n<surname> 今西 </surname>\n<forename> 兼二 </forename>\n</persname> 三氏来会ス、談話ハ主トシテ日米ノ政事及商工業ノ親睦ニアリ、共ニ胸襟ヲ披キテ談論ヲ尽シ、且、送別ノ意ヲ以テ其夫人等ヲモ会シテ午飧ヲ共ニス、畢テ <placename corresp=\"#place_麻布\"> 麻布 </placename> 教育会ノ総会ニ出席シテ、教育ニ関スル弊害ヲ指摘シテ一場ノ演説ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:30:00",
+                    "text": "<time when=\"16:30:00\"> 午後四時半 </time> 事務所ニ抵リ多数ノ来訪者ニ接見ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、 <persname corresp=\"#pers_皆川晃雄\">\n<surname> 皆川 </surname>\n<forename> 晃雄 </forename>\n</persname> 氏来リ、夜食後、新約全書ヲ会読ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

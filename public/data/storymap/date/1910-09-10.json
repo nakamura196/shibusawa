@@ -1,0 +1,103 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-09-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、風邪気ニテ入浴ヲ廃ス、朝来、 <persname corresp=\"#pers_中川\">\n<surname> 中川 </surname>\n</persname> 、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 、 <persname corresp=\"#pers_岡崎\">\n<surname> 岡崎 </surname>\n</persname> 氏等ノ訪問ヲ受ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 旅装ヲ理シ、 <persname corresp=\"#pers_藤田伝三郎\">\n<surname> 藤田 </surname>\n<forename> 伝三郎 </forename>\n</persname> 氏ノ別荘ヲ訪ヘ、寄附金ノ事ヲ依頼ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:20:00",
+                    "text": "<time when=\"09:20:00\"> 午前九時二十分 </time>\n<placename corresp=\"#place_京都\"> 京都 </placename> 発ノ汽車ニテ <placename corresp=\"#place_名古屋\"> 名古屋\n       </placename> ニ赴ク、停車場ニ送別スル者頗ル多シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 頃 <placename corresp=\"#place_名古屋\"> 名古屋 </placename> 着、下車シテ旅宿丸文ニ抵ル、停車場ニ来リ迎フ者多シ、直ニ午飧ヲ食シ、来人ニ接シ、後、 <placename corresp=\"#place_名古屋\"> 名古屋 </placename> 市長、県知事、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 、 <persname corresp=\"#pers_岡谷\">\n<surname> 岡谷 </surname>\n</persname> 、 <persname corresp=\"#pers_神野\">\n<surname> 神野 </surname>\n</persname> ノ諸氏ヲ訪問ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 旅宿ニテ <placename corresp=\"#place_大阪\">\n        大坂 </placename> 、神戸支店長ヘ書状ヲ送ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<placename corresp=\"#place_名古屋\"> 名古屋 </placename> 銀行集会所ニ抵リ夜飧ス、組合銀行ヨリノ再三請求アルニヨレルナリ、食後 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time> 《（場）》ノ経済演説ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半 </time>\n       当地商業会議所ニ開カレタル寄附金勧募ノ会合ニ出席シ一場ノ勧誘演説ヲ為シ、畢テ別席ニ委員会ヲ開キ将来ノ手続ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n       帰宿、 <persname corresp=\"#pers_奥田\">\n<surname> 奥田 </surname>\n</persname> 氏来訪ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1910-09-11T00:00+0900\"> 十二時 </time> 就寝ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

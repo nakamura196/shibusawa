@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1884-06-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time>\n<placename corresp=\"#place_敦賀\"> 敦賀 </placename> ヲ発シ汽車場ニテ諸子ニ別ヲ告ケ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n<placename corresp=\"#place_長浜\"> 長浜 </placename> ニ抵ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n       湖上ノ汽船ニ搭シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 過 <placename corresp=\"#place_大津\"> 大津\n       </placename> ニ達ス、 <persname corresp=\"#pers_堀口嘉右衛門\">\n<surname> 堀口 </surname>\n<forename> 嘉右衛門 </forename>\n</persname> 、 <persname corresp=\"#pers_森弥三郎\">\n<surname> 森 </surname>\n<forename> 弥三郎 </forename>\n</persname> 来リ迎ヒ一楼ニ誘引シテ小酌ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 両氏ニ辞シテ汽車ニ駕シ西京ニ抵ル、 <persname corresp=\"#pers_三木安三郎\">\n<surname> 三木 </surname>\n<forename> 安三郎 </forename>\n</persname> 其他諸子来リ迎フ、 <placename corresp=\"#place_木屋町通\"> 木屋町 </placename>\n<orgname> 松力楼 </orgname> ニ投宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

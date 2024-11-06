@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-01-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<persname corresp=\"#pers_白岩竜平\">\n<surname> 白岩 </surname>\n<forename> 竜平 </forename>\n</persname> 氏来ル、 <placename corresp=\"#place_清\"> 清国 </placename>\n<placename corresp=\"#place_湖南\"> 湖南 </placename> 航路ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 十時半 </time>\n<placename corresp=\"#place_三崎町\"> 三崎町 </placename> ニ抵リ <persname corresp=\"#pers_安達\">\n<surname> 安達 </surname>\n</persname> 、 <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 両氏ト共ニ汽車ニ搭シ <placename corresp=\"#place_井ノ頭\"> 井ノ頭 </placename>\n       御料地ニ抵リ実地ヲ巡検ス、蓋シ感化部別置ニ付曾テ此地ヲ卜スル処アルヲ以テナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_吉祥寺\"> 吉祥寺 </placename> 停車場ノ小店ニ於テ午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時\n       </time> 発ノ汽車ニテ帰京ス、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-04-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、室内運動ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ畢ル <lb></lb>\n       食後庭園内ヲ散歩シ掃除向ノ事ヲ指揮ス、此日 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> ヨリ韓国特派大使一行ヲ <orgname> 第一銀行\n       </orgname> ヨ《（リ脱）》招宴スルニ付此別荘ヲ以テスル筈ナレハ、朝来頻ニ室内及庭中ノ装飾ヲ指揮ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n       頃大使一行、 <persname corresp=\"#pers_小村\">\n<surname> 小村 </surname>\n</persname> 外相其他ノ来賓参集セシニヨリ庭園ヲ案内シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time>\n       頃ヨリ書院ニテ午飧ノ宴ヲ開キ余興トシテ長歌及踊数番ヲ演セシメ、各歓ヲ尽シ、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 退散ス <lb></lb> 此日\n        <orgname> 加島銀行 </orgname> ヨリ <placename corresp=\"#place_築地\"> 築地 </placename> 瓢屋ニ案内セラレシモ謝絶ス\n      "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

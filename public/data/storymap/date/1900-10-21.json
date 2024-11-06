@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-10-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、此日ハ休日ナルヲ以テ <placename corresp=\"#place_浜町\"> 浜町 </placename>\n       宅ニ於テ読書遊戯ニ消閑ス、深川鷗盟会秋季総会ニ出席ノ約アリシモ微恙ノ為メ之ヲ辞ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

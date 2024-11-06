@@ -1,0 +1,72 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-11-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前 <orgname> 東京商業会議所 </orgname> 建築要覧ヲ揮毫シテ <persname corresp=\"#pers_萩原\">\n<surname> 萩原 </surname>\n</persname> 氏ニ送ル、 <persname corresp=\"#pers_阪谷芳郎\">\n<surname> 阪谷 </surname>\n<forename> 芳郎 </forename>\n</persname> ニ書状ヲ送リテ鉄道国有ニ関スル <persname corresp=\"#pers_石黒\">\n<surname> 石黒 </surname>\n</persname> 氏ノ意見ヲ転致ス、京釜鉄道ノ事ヲ書送ス、市街鉄道ニ関シ曾テ市役所ニ於テ縷述セシ筆記ノ事ヲ <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ニ命ス、 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 氏ニ一書ヲ送ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<placename corresp=\"#place_新宿\"> 新宿 </placename> 禁苑ニ於テ催ス処ノ <persname corresp=\"#pers_曾根\">\n<surname> 曾根 </surname>\n</persname> 《（ <persname corresp=\"#pers_曾禰\">\n<surname> 曾禰 </surname>\n</persname> ）》氏菊花観覧会ニ赴ク、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6909194,
+                    "lon": 139.7060639,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:25:00",
+                    "text": "<time when=\"15:25:00\"> 三時二十五分 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 発ノ汽車ニテ <placename corresp=\"#place_大磯町\"> 大磯\n       </placename> ニ抵ル、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 侯、 <persname corresp=\"#pers_松本壮一郎\">\n<surname> 松本 </surname>\n<forename> 壮一郎 </forename>\n</persname> 《（ <persname corresp=\"#pers_松本荘一郎\">\n<surname> 松本 </surname>\n<forename> 荘一郎 </forename>\n</persname> ）》、 <persname corresp=\"#pers_長谷川一彦\">\n<surname> 長谷川 </surname>\n<forename> 一彦 </forename>\n</persname> 諸氏同車ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 五時半 </time>\n<placename corresp=\"#place_大磯町\"> 大磯 </placename> ニ着ス、長生館ニ投宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

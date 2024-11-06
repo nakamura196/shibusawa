@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-01-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、衣服ヲ改メテ家人ノ年賀ヲ受ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time>\n       家人ト共ニ朝飧ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 十時半 </time>\n<persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト同車シテ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       邸ニ抵リ、事務所員、倉庫部員及外来人ノ年賀ヲ受ク、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ、例年ノ如ク新年ヲ祝シテ行員ト共ニ祝盃ヲ挙ク、畢リテ再ヒ事務所ニ来リテ午飧ヲ食シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:20:00",
+                    "text": "<time when=\"13:20:00\">\n        午後一時二十分 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 発ノ汽車ニ搭シテ <placename corresp=\"#place_国府津\"> 国府津\n       </placename> ニ抵リ、 <placename corresp=\"#place_国府津\"> 国府津 </placename> 館ニ投宿ス、汽車中 <placename corresp=\"#place_平塚\"> 平塚 </placename> 辺ヨリ雪降リテ寒威甚シ、投宿後入浴シ、新聞紙其他ノ書類ヲ読ム、夜食後、読書ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.280139,
+                    "lon": 139.2116278,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

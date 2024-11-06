@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-10-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、今朝蚤起日光ノ波間ニ出ルヲ見ル、朝来更ニ涼風多ク殆ント暑中ヲ忘ルヽニ至ル、是レ <placename corresp=\"#place_喜望峰\"> 喜望峰\n       </placename> ヨリ来ル潮流寒冷ナルヲ以テナリト云フ午後船長室ニ於テ航行ノ位地ニ関シテ説明ヲ聞ク、終日読書ト談話ニ <pb corresp=\"#pageB1279\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/305/full/max/0/default.jpg\" n=\"B1279\" source=\"#pageB1279\"></pb> 消閑ス、二等船客ノ作レル船中新聞紙ヲ一覧ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": -34.35806,
+                    "lon": 18.47194,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

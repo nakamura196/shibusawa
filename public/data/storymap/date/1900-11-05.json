@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-11-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<placename corresp=\"#place_仁川広域市\"> 仁川港 </placename> 着、 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 、 <persname corresp=\"#pers_足立\">\n<surname> 足立 </surname>\n</persname> ノ二氏ヲ始トシ <orgname> 第一銀行 </orgname>\n       員及京仁鉄道会社員其他仁川商業者等来リ迎フ、郵船会社ノ小蒸気船成歓号ニテ上陸シ、駐車場前稲田ニ投宿ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 37.483,
+                    "lon": 126.633,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n       頃朝餐ヲ喫シ直ニ領事館ヲ訪ヒ <persname corresp=\"#pers_伊集院\">\n<surname> 伊集院 </surname>\n</persname> 氏ニ面話ス、領事館ヲ辞シテ京仁鉄道停車場内ノ事務所ニ抵リ <persname corresp=\"#pers_足立\">\n<surname> 足立 </surname>\n</persname> 氏ノ案内ニテ場内各所ヲ一覧シ、来ル <date evidence=\"year inferenced, month\" when=\"1900-11-10\"> 十日\n       </date> ニ開設スル開業式ノ手続ヲ協議ス、畢テ稲田屋ニ帰ル、 <persname corresp=\"#pers_伊集院\">\n<surname> 伊集院 </surname>\n</persname> 領事来ル、地方商業者数各来リ訪フ、是ヨリ <orgname> 第一銀行 </orgname> 支店ヲ一覧ス、夜、 <persname corresp=\"#pers_古田良三\">\n<surname> 古田 </surname>\n<forename> 良三 </forename>\n</persname> 来、稷山金鉱ノ事ヲ話ス、同地ヘ使ヲ発シテ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 、前川ノ出京ヲ促ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

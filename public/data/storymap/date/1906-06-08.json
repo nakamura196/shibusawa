@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-06-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後身体ヲ摩擦シ、畢リテ朝飧ヲ喫ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 六時半 </time> 家ヲ出テ <placename corresp=\"#place_新橋\"> 新橋 </placename> 停車場ニ抵ル、行ヲ送ル人数百場ニ満ツ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 発車ス、 <placename corresp=\"#place_平沼\"> 平沼 </placename> 駅ニテ <persname corresp=\"#pers_渋沢作太郎\">\n<surname> 渋沢 </surname>\n<forename> 作太郎 </forename>\n</persname> 等来リ話ス、 <placename corresp=\"#place_静岡\"> 静岡 </placename> ニテ <persname corresp=\"#pers_平尾徳太郎\">\n<surname> 平尾 </surname>\n<forename> 徳太郎 </forename>\n</persname> 来ル、 <placename corresp=\"#place_名古屋\"> 名古屋 </placename> ニテ <persname corresp=\"#pers_伊藤伝七\">\n<surname> 伊藤 </surname>\n<forename> 伝七 </forename>\n</persname> 来リ同車シテ <placename corresp=\"#place_大垣\"> 大垣 </placename> ニ抵ル、車中種々ノ事務ヲ談ス、 <placename corresp=\"#place_大津\"> 大津 </placename> ニテ <persname corresp=\"#pers_原田金之祐\">\n<surname> 原田 </surname>\n<forename> 金之祐 </forename>\n</persname> 来ル、 <placename corresp=\"#place_京都\"> 京都 </placename> ニテ <persname corresp=\"#pers_中川\">\n<surname> 中川 </surname>\n</persname> 其他ノ支店員来リテ行ヲ送ル、 <placename corresp=\"#place_大阪\"> 大阪 </placename> ニ於テ <persname corresp=\"#pers_熊谷\">\n<surname> 熊谷 </surname>\n</persname> 、 <persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 、神戸店 <persname corresp=\"#pers_岸崎\">\n<surname> 岸崎 </surname>\n</persname> 氏等来リ同車シテ <placename corresp=\"#place_神戸\"> 神戸 </placename> ニ抵ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:40:00",
+                    "text": "<time when=\"21:40:00\"> 九時四十分 </time>\n<placename corresp=\"#place_神戸\"> 神戸 </placename> 着ス、西常盤花壇ニ投宿ス、入浴後晩飧ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1906-06-09T00:00+0900\"> 十二時 </time> 一同就寝ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

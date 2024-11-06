@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-01-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇又晴、 <orgname> 人造肥料会社 </orgname>\n<persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 来ル、三重紡績会社 <persname corresp=\"#pers_斎藤恒三\">\n<surname> 斎藤 </surname>\n<forename> 恒三 </forename>\n</persname> 来ル、同会社織布工場拡張ノ事、重役報酬額増加ニ付其分配割合取究ノ事、及賞与金改正配当案ノ事ヲ協議セラレ、依テ意見ヲ陳述シ、且 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 氏ヘモ書通スヘキ事ヲ約ス、 <placename corresp=\"#place_東京\"> 東京 </placename> 留守宅ヨリ書状来ル、留守宅ヨリ\n        <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> 訪ヒ来ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

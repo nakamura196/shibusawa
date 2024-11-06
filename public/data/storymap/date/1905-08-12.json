@@ -1,0 +1,86 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-08-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:00:00",
+                    "text": "<time when=\"05:00:00\"> 午前五時 </time> 起床、庭内ヲ散歩シ、入浴後朝飧ヲ為ス、此日ハ <placename corresp=\"#place_箱根\"> 箱根\n       </placename> 旅行ノ予定ナリシニ付、朝来旅装ヲ整フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 過キ別荘ヲ発シ、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 、 <persname corresp=\"#pers_明石愛子\">\n<forename> 愛子 </forename>\n</persname> 同伴ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 発ノ汽車ニ搭ス、送行ノ人二十人許リ停車場ニ来集ス、汽車 <placename corresp=\"#place_横浜\"> 横浜 </placename> ヲ経テ <placename corresp=\"#place_国府津\"> 国府津 </placename>\n       ニ於テ汽車ヲ降リ、更ニ電車ニテ <placename corresp=\"#place_湯本\"> 湯本 </placename> ニ抵リ <orgname> 小川楼 </orgname>\n       ニ午飧ス、蓋シ旅客群集シテ <orgname> 福住楼 </orgname> ニ余地ナキヲ以テナリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.280139,
+                    "lon": 139.2116278,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 過キ\n        <placename corresp=\"#place_湯本\"> 湯本 </placename> ヲ発シ腕車ニテ <placename corresp=\"#place_塔之澤\"> 塔ノ沢\n       </placename> 、 <placename corresp=\"#place_宮ノ下\"> 宮ノ下 </placename> ヲ経テ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.234444,
+                    "lon": 139.093972,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\">\n        五時 </time>\n<placename corresp=\"#place_小涌谷\"> 小涌谷 </placename>\n<orgname> 三河楼 </orgname> ニ投宿ス、楼ハ <placename corresp=\"#place_箱根\"> 箱根 </placename>\n       山中稍開豁ノ地ニアリテ四望頗ル佳ナリ、薄暮ノ気候秋涼ヲ覚フ、頓ニ時気ノ変化ニ驚ク、夜ニ入テ風尚強ク冷気殊ニ爽快ナリ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.240361,
+                    "lon": 139.053028,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

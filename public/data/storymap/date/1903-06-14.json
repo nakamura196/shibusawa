@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-06-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ書状ヲ裁ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_白金台町\"> 白金台町 </placename> ニ抵リ <persname corresp=\"#pers_池田\">\n<surname> 池田 </surname>\n</persname> 侯爵ノ葬儀ニ出席ス、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 過 <placename corresp=\"#place_神田橋\"> 神田橋 </placename> 畔東京府教育会講談会ニ抵リ一場ノ演説ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時\n       </time> 過 <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宅シテ後書状ヲ裁シ且ツ書類ヲ整理ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

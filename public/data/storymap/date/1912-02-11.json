@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-02-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ス、畢テ <persname corresp=\"#pers_加藤知正\">\n<surname> 加藤 </surname>\n<forename> 知正 </forename>\n</persname> 氏ノ来訪ニ接シ、製糸業者ノ大会ニ臨席シテ一場ノ講話セラレン事ヲ請ハル、依テ承諾ノ旨ヲ答フ、 <persname corresp=\"#pers_蓮沼門三\">\n<surname> 蓮沼 </surname>\n<forename> 門三 </forename>\n</persname> 氏来話ス、向上雑誌修正拡張ノ事ヲ談ス、 <persname corresp=\"#pers_中村歌右衛門_(5代目)\">\n<surname> 中村 </surname>\n<forename> 歌右衛門 </forename>\n</persname> 優来話ス、過日ノ会見ヲ謝スル為メナリ、 <persname corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persname> 氏来訪ス、午飧後直ニ <persname corresp=\"#pers_諸井\">\n<surname> 諸井 </surname>\n</persname> 氏ト共ニ <orgname> 埼玉学生誘掖会 </orgname>\n       ニ抵リ、学友会例年大会ヲ開キ勅語ヲ朗読シ学生ニ賞品ヲ授与ス、後、学生一同ニ人格修養ニ付一場ノ訓示演説ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:30:00",
+                    "text": "<time when=\"15:30:00\"> 三時半 </time> 内田山\n        <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯ヲ訪フ、 <persname corresp=\"#pers_高橋\">\n<surname> 高橋 </surname>\n</persname> 、 <persname corresp=\"#pers_水町\">\n<surname> 水町 </surname>\n</persname> 、 <persname corresp=\"#pers_添田\">\n<surname> 添田 </surname>\n</persname> 諸氏ト共ニ日仏銀行設立ニ関シ種々ノ談話アリ、 <placename corresp=\"#place_支那\"> 支那 </placename>\n       問題ヲモ協議シ夜飧ヲ共ニシ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過帰宿、 <persname corresp=\"#pers_篠原三千郎\">\n<surname> 篠原 </surname>\n<forename> 三千郎 </forename>\n</persname> 氏来話ス <lb></lb>\n<persname corresp=\"#pers_猪飼正雄\">\n<surname> 猪飼 </surname>\n<forename> 正雄 </forename>\n</persname> 氏来リ其父正為氏ノ為メ種々ノ談話ヲ為ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

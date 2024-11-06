@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-03-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、風邪気少シク愈フルモ快方ニ至ラス、褥中ニ在テ食事ヲ為シ且来書ヲ検閲ス <lb></lb>\n       時々家人ニ小説ヲ読マシメ、又ハ自ラ新聞紙其他ノ雑書ヲ覧閲ス <lb></lb>\n<persname corresp=\"#pers_皆川四郎\">\n<surname> 皆川 </surname>\n<forename> 四郎 </forename>\n</persname> 氏来話ス <lb></lb>\n<persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,89 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-03-24",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴ヲ畢リテ朝飧ヲ食ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 外務大臣ヲ官舎ニ訪ヒ、 <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 公爵御伝記ノ事ニ関シ沿革ヲ詳叙シ、紀料其他ノ書類ヲ示シテ一考ヲ乞フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n       虎之門女学館ニ抵リ、学校敷地トスヘキ土地ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_麻布\"> 麻布 </placename> 市兵衛町ニ <placename corresp=\"#place_大韓民国\"> 韓国\n       </placename> 農商工部大臣 <persname corresp=\"#pers_宋秉ジュン\">\n<surname> 宋 </surname>\n<forename> 秉畯 </forename>\n</persname> 氏ヲ訪ヒ談話シ、曩ニ其贈品アリシニ酬ユル為メ和服ヲ製シテ之ヲ送ル、学部大臣 <persname corresp=\"#pers_李載〓\">\n<surname> 李 </surname>\n<forename> 載〓 </forename>\n</persname> 氏モ来リ会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、食後、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname>\n<persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 二氏ト要務ヲ談ス、午飧後銀行集会所ニ抵リ、 <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 、 <persname corresp=\"#pers_池田\">\n<surname> 池田 </surname>\n</persname> 等ノ諸氏ニ会見シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<placename corresp=\"#place_日本橋\"> 日本橋 </placename> 倶楽部ニ抵リ、 <orgname> 東洋汽船会社 </orgname>\n       重役ト会見シテ優先増資ノ事ヲ協議ス、畢テ <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ休息シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ <persname corresp=\"#pers_都築\">\n<surname> 都築 </surname>\n</persname> 大使歓迎会ニ出席シ、更ニ華族会館ニ抵リ <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 公爵ノ招宴ニ列ス会スル者十数人、多クハ <placename corresp=\"#place_欧洲\"> 欧洲 </placename>\n       人、支那人等リ《（ナ脱カ）》、食後、席画等アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

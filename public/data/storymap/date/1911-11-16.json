@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-11-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、風邪気ナルニヨリ、半身浴ヲ為シ、畢テ朝飧ヲ食ス <persname corresp=\"#pers_堀口嘉右衛門\">\n<surname> 堀口 </surname>\n<forename> 嘉右衛門 </forename>\n</persname> 氏来訪ス、二十年来ノ旧知ニシテ <placename corresp=\"#place_朝鮮\"> 朝鮮 </placename>\n       事業ニ苦辛セシ人ナリ、依テ種々ノ往事ヲ談話シ、共ニ庭園ヲ散歩シテ辞シ去ル、 <persname corresp=\"#pers_大野正\">\n<surname> 大野 </surname>\n<forename> 正 </forename>\n</persname> 氏来リ発明ノ機械ニ付其発展ニ付意見ヲ詳叙セラル、 <persname corresp=\"#pers_尾高幸五郎\">\n<surname> 尾高 </surname>\n<forename> 幸五郎 </forename>\n</persname> 氏来リ家政上ニ付種々ノ意見ヲ陳ヘラル、且、其身上ニ付従来ノ企望ヲ遂行セラレン事ヲ具陳ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ午飧シ、後、重役会ヲ開キ要件ヲ議決ス、更ニ貯蓄銀行ノ経営ニ関シテ、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <persname corresp=\"#pers_日下\">\n<surname> 日下 </surname>\n</persname> 二氏ト要務ヲ談ス、畢テ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ノ身上ニ関シテ談話シ、又、 <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> ニモ同件ニ付内話スル所アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 首相ヲ官邸ニ訪ヘ財政上ノ事ニ関シ頃日来 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 邸小集ノ顚末ヲ述フ、来ル <date when=\"1911-11-20\"> 廿日 </date> 其官邸ニ来会ノ請求アリタリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 侯爵ヲ訪ヘ財政ノ事及米人紹介ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 五時半 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ <orgname> 竜門社 </orgname> ノ評議員会ニ出席ス、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 帰朝歓迎会アリ、中途余ハ華族会館ニ抵リ <persname corresp=\"#pers_石井\">\n<surname> 石井 </surname>\n</persname> 次官ノ招宴ニ出席ス、米人デヨング氏招待ノ晩飧会ナリ、ヨング氏ト種々談話ヲ交換シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散会\n       <lb></lb> （欄外） <lb></lb> ［早稲田大学 <persname corresp=\"#pers_田中唯一郎\">\n<surname> 田中 </surname>\n<forename> 唯一郎 </forename>\n</persname> 氏来リ寄附金速納ノ事ヲ依頼セラル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

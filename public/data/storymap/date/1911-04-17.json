@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-04-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、風邪未タ愈ヘス、褥中ニ在テ朝飧ヲ食ス、畢テ <persname corresp=\"#pers_大川平三郎\">\n<surname> 大川 </surname>\n<forename> 平三郎 </forename>\n</persname> 氏ノ来訪ニ接ス、木曾興業会社ノ事業経営ニ関スル事、 <orgname> 東洋汽船会社 </orgname> ノ事、浅野セメント会社ノ事及 <persname corresp=\"#pers_佐藤毅\">\n<surname> 佐藤 </surname>\n<forename> 毅 </forename>\n</persname> 氏ノ身上ニ付種々ノ談話ヲ為ス、 <persname corresp=\"#pers_山田要造\">\n<surname> 山田 </surname>\n<forename> 要造 </forename>\n</persname> 氏来リ、独立学派ノ事ニ付従来ノ苦心談アリ、且、同人発明ノ新字体ノ一書ヲ示サレ、右ニ関スル意見ヲ縷述セラル、医師 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 氏来診セラル、後、日記ヲ編成ス、吸入ノ治療ヲ為ス <lb></lb> 此夜外務大臣ヨリ晩飧会ノ案内アリシモ、病ヲ以テ之ヲ謝絶ス、書新聞紙《（マ、）》ヲ読ム <lb></lb>\n<persname corresp=\"#pers_増田明六\">\n<surname> 増田 </surname>\n<forename> 明六 </forename>\n</persname> 来リテ <placename corresp=\"#place_朝鮮\"> 朝鮮 </placename> 稷山金鉱ニ関スル書状ヲ数通記載シテ逓送方ヲ托ス、\n        <persname corresp=\"#pers_前原\">\n<surname> 前原 </surname>\n</persname> 、 <persname corresp=\"#pers_前川\">\n<surname> 前川 </surname>\n</persname> 、 <persname corresp=\"#pers_竹山\">\n<surname> 竹山 </surname>\n</persname> 、 <persname corresp=\"#pers_葛原\">\n<surname> 葛原 </surname>\n</persname> ノ四氏ニ宛テタルモノナリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

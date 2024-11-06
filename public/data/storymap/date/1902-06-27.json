@@ -1,0 +1,93 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-06-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 船 <placename corresp=\"#place_ホールリバー\"> ホールリバー\n       </placename> ニ着ス、船ヲ下リテ汽車ニ搭ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n<placename corresp=\"#place_ボストン\"> ボストン </placename>\n       ニ着ス、直ニ同地旅館ホテル［　　　　　　　］《（○欠字。ツーリーン）》ニ投シテ朝飧ス、此地ノ停車場ニオルソム時計製造場副社長［　　　　　　　　］《（○欠字。アツプルトン）》及事務主任\n        <persname corresp=\"#pers_ダンカン\">\n<surname> ダンカン </surname>\n</persname> 外数名来リ迎フ、食後時計製造場一覧ノ為メ汽車ニテ <placename corresp=\"#place_ボストン\"> ボストン </placename>\n       ヲ発シ四十五分ニシテ <placename corresp=\"#place_オルソム\"> オルソム </placename>\n       ニ着ス、工場ノ事務員数名来リ迎フ、一同工場ニ抵リ各室ヲ巡覧ス、其器械ノ精巧ナル驚ニ堪ヘタリ、工場ノ後面ハ河ニ沿フテ小邱アリ、其前面ハ市街ニ通スル大道ニシテ路傍ニハ緑樹鬱叢トシテ恰モ公園ノ趣アリ、工場ノ男女職工凡ソ三千人ニシテ一日ノ製造高三千個ナリト云フ、工場ニ於テ職工ヲ待遇スル極テ懇切ニシテ殆ント家人ニ遇スルノ状アリ、一覧畢テ工場ニ隣レル事務室ニ於テ立食ノ午飧ヲ饗セラル、副社長、工場長其他ノ事務員数名接伴ス、工場ノ前面ニテ新聞紙《（社カ）》ノ請求ニ応シテ撮影シ、\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 42.35778,
+                    "lon": -71.06167,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<placename corresp=\"#place_オルソム\"> オルソム </placename> ヲ去リ汽車ニテ <placename corresp=\"#place_ボストン\">\n        ボストン </placename> ニ帰ル、ボストン商業会議所ニ抵リ、会頭及会員数名ニ会見シ寸間談話ヲ為シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 42.35778,
+                    "lon": -71.06167,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n       過ヨリリント云フ地方ニ抵リ靴製造工場ヲ一覧ス、ボストン人 <persname corresp=\"#pers_ウエード\">\n<surname> ウエード </surname>\n</persname> 氏案内ス、此地ニハ数所ノ製靴場アリ、其中ノ巨大ナル一工場ヲ見ル、器械ノ設備頗ル整頓セリ、一覧畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n<placename corresp=\"#place_ボストン\"> ボストン </placename> ニ帰リ馬車ヲ僦フテ市街及公園等ヲ遊覧ス、馬車巡遊中 <persname corresp=\"#pers_ウエード\">\n<surname> ウエード </surname>\n</persname> 氏同伴シテ日米人ノ性質風俗等ニ関スル種々ノ議論アリ、頗ル趣味アルヲ覚フ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 42.35778,
+                    "lon": -71.06167,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time>\n       ホテルニ於テ夜飧ス、此夜 <orgname> ホストンナル新聞 </orgname> 紙ノ探訪者来リテ種々ノ談話ヲ為ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

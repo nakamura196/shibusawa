@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-07-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、朝数多ノ来客ニ接ス、午前銀行ニ出勤シテ事務ヲ視ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<persname corresp=\"#pers_山縣有朋\">\n<surname> 山県 </surname>\n</persname> 総理大臣ヲ訪フテ京釜鉄道ノ事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ於テ抹茶ノ客ヲ招ク、 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 、 <persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> 、 <persname corresp=\"#pers_佐々木清麿\">\n<surname> 佐々木 </surname>\n<forename> 清麿 </forename>\n</persname> 、 <persname corresp=\"#pers_西園寺亀次郎\">\n<surname> 西園寺 </surname>\n<forename> 亀次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_清水泰吉\">\n<surname> 清水 </surname>\n<forename> 泰吉 </forename>\n</persname> 、 <persname corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persname> 六氏来会ス、各歓ヲ尽シ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過散会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時\n       </time> 過 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

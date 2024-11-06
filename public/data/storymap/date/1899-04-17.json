@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-04-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇夜大雨、午前数人ノ来客ニ接ス、午後慈善会演劇ニ抵ル、此日ハ銀行各支店ノ支配人及本店ノ人々ヲ劇場招宴《（ニ脱カ）》セシヲ以テ、家人数名ヲ伴フテ其饗応ヲ為ス、演劇畢テ後\n        <placename corresp=\"#place_浜町\"> 浜町 </placename> 藤屋ニテ夜宴ヲ開ク、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1899-04-18T00:00+0900\"> 十二時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-05-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " （欄外） <lb></lb> ［ <orgname> 東亜製粉会社 </orgname> ニテ午飧、日本人クラブニテ晩飧 <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ後、書類ヲ調査ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       朝飧ヲ食ス、畢テ日記ヲ編成シ、明日 <placename corresp=\"#place_北京市\"> 北京 </placename> 行ニ付鉄路ノ列車及荷物等ノ事ヲ指揮ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 39.90556,
+                    "lon": 116.39139,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> ヨリ小蒸気船ニテ <placename corresp=\"#place_漢江_(中国)\"> 漢水 </placename>\n       ヲ遡ル事三里許リシテ《（ニ脱）》 <orgname> 東亜製粉会社 </orgname> ニ抵リ <persname corresp=\"#pers_田村\">\n<surname> 田村 </surname>\n</persname>\n       主任迎ヘテ直ニ工場ヲ一覧ス、四層楼アリ、楼上田園ノ光景佳絶ナリ、工場ノ状況ヲ一覧ス、頗ル整頓セリ、原料ノ供給、工務ノ順序及販売ノ方法等順次説明セラル、頗ル要ヲ得タリ、一覧了リテ午飧ヲ饗セラル、食後揮毫ヲ試ミ、畢リテ船ニテ往路ヲ下リ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 旅宿ニ帰ル、後、 <orgname> 高等商業学校 </orgname>\n       出身者ノ開催セル同窓会ニ出席シテ一場ノ談話ヲ為ス、畢テ <persname corresp=\"#pers_高如松\">\n<surname> 高 </surname>\n<forename> 如松 </forename>\n</persname> 氏ノ来訪ヲ受ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n       日本人倶楽部ノ開催セル歓迎会ニ出席ス、来会者百余名ニテ盛況ナリ、食卓上会長ノ歓迎辞ニ答ヘテ一場ノ演説ヲ為ス、畢テ三芳ト称スル割烹店ニ抵リ、暫時休憩シ且夜食ヲナシ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 頃帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

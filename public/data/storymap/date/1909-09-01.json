@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-09-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シ、畢テ甲板上ニ抵リ四方ノ山光水容ヲ眺望ス、 <persname corresp=\"#pers_水野幸吉\">\n<surname> 水野 </surname>\n</persname> 、 <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 及 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 側ノ人々ニ会話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time> 朝飧ス、後、本船 <placename corresp=\"#place_シアトル\"> シヤトル </placename>\n       湾内ニ入ル、港口今日ノ歓迎ノ準備頗ル盛況ヲ極ム、本船埠頭ニ着スルヤ、州知事ノ代理者、市長 <persname corresp=\"#pers_ミラー\">\n<surname> ミラー </surname>\n</persname> 及 <placename corresp=\"#place_シアトル\"> シヤトル </placename> 商業会議所会頭 <persname corresp=\"#pers_ローマン\">\n<surname> ローマン </surname>\n</persname> 、其他多数ノ歓迎員来リ迎フ、知事、市長、会頭ヨリ各歓迎ノ詞ヲ朗読セラル、依テ一々之ヲ《（ニ）》答辞ヲ述ヘ、式畢テ相共ニ万歳ヲ唱ヘ、船中歓声湧カ如シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 47.60972,
+                    "lon": -122.33306,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 自動車ニテ上陸シ《（マヽ）》、旅館 <placename corresp=\"#place_ワシントン\"> ワシントン\n       </placename> ニ投宿ス、一行ノ各室定マリテ後、 <persname corresp=\"#pers_水野幸吉\">\n<surname> 水野 </surname>\n</persname> 氏ト共ニ午飧ス、畢テ此地滞在中ノ事務処理ノ方法ニ関シ、 <persname corresp=\"#pers_水野幸吉\">\n<surname> 水野 </surname>\n</persname> 、 <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 、 <persname corresp=\"#pers_中野武営\">\n<surname> 中野 </surname>\n</persname> 、 <persname corresp=\"#pers_頭本元貞\">\n<surname> 頭本 </surname>\n</persname> 、 <persname corresp=\"#pers_堀越善重郎\">\n<surname> 堀越 </surname>\n</persname> ノ諸氏ト種々協議ヲ為ス、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n       此地ニ開設セラルヽ博覧会場ニ抵リ、台湾館ニテ日本食ノ晩飧ヲ饗セラル、但シ <persname corresp=\"#pers_織田一\">\n<surname> 織田 </surname>\n<forename> 一 </forename>\n</persname> 氏博覧会掛トシテ滞在セラレ、一行ヲ慰労ノ為メナリ、食後会場ノ夜景ヲ一覧シ、一ノパノラマ式南北戦争ノ際実地ニ演シタル海軍闘争ノ模様ヲ写真シタルモノヲ見ル、夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰館、就寝ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

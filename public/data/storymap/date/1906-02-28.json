@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-02-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後直ニ書斎ニ於テ日誌ヲ整理シ書類ヲ検閲ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ畢リ新聞紙ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> ヨリ <persname corresp=\"#pers_梨本宮\">\n<surname> 梨本宮 </surname>\n</persname> 、 <persname corresp=\"#pers_閑院宮\">\n<surname> 閑院宮 </surname>\n</persname> 、 <persname corresp=\"#pers_有栖川宮\">\n<surname> 有栖川宮 </surname>\n</persname> 、 <persname corresp=\"#pers_久邇宮邦彦王\"> 久邇宮 </persname> 、 <persname corresp=\"#pers_東伏見宮依仁親王\">\n<surname> 東伏見宮 </surname>\n</persname> ノ五邸ヲ訪問シ過日歌舞伎座ヘ賁臨ノ謝辞ヲ述フ、 <placename corresp=\"#place_ドイツ\"> 独乙 </placename>\n       公使館ヲ訪ヒ告別ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time> 銀行集会所ニ抵リ <persname corresp=\"#pers_園田\">\n<surname> 園田 </surname>\n</persname> 、 <persname corresp=\"#pers_早川\">\n<surname> 早川 </surname>\n</persname> 、 <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 、 <persname corresp=\"#pers_池田\">\n<surname> 池田 </surname>\n</persname> 諸氏ト臨時事件公債ノ事ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> ニ知人ヲ訪ヒ夜食ヲ為ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時\n       </time> 過 <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス、夜、種々ノ雑誌ヲ一覧ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

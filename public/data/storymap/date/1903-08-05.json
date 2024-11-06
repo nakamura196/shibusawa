@@ -1,0 +1,101 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-08-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<orgname> 日本銀行 </orgname> ニ於テ京釜鉄道会社々債ノ事ヲ協議ス、 <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 総裁ヨリ種々各行主任者ニ依頼アリ、余ハ京釜ノ重役ヲ代表シテ事情ヲ縷陳ス、来会スル者七名、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n       散会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename>\n       メトルホール・ホテルニ抵リ英人ホジソン氏ノ招宴ニ列ス、ホジソン氏ハベヤリング銀行重役長男ニシテ、過般我邦ニ来遊シ数日前 <placename corresp=\"#place_飛鳥山邸\">\n        王子別荘 </placename> ニ訪問セラレシ人ナリ、畢テ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<orgname> 日本郵船会社 </orgname> 重役会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 銀行集会所ニ抵リ手形交換所ノ月 <pb corresp=\"#pageB1318\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/344/full/max/0/default.jpg\" n=\"B1318\" source=\"#pageB1318\"></pb> 次会ニ列ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

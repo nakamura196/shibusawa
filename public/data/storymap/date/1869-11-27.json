@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-11-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 此日ハ政事庁休日なれハ、早朝より仮役所出勤、此程より申談残せし諸事并御用書類等逐一取調、以後取扱之者共江相渡し、御備金并緊要之御用書類券文之類迄相改引渡す、御用書類之内\n        <persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤 </forename>\n</persname> の所持すへき分ハ写取らせ、請取、清水附御用達ヘハ後事丁寧ニ書付上にて申示し引取らす、夕方清水出役之 <persname corresp=\"#pers_黒柳徳三郎\">\n<surname> 黒柳 </surname>\n<forename> 徳三郎 </forename>\n</persname> 来、諸事申談し書類認方抔申付遣す "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

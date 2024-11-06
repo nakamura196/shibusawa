@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-06-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 宅ニ於テ来人ニ接ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\">\n        十一時 </time>\n<persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 総理大臣ヲ官舎ニ訪ヒ京釜鉄道会社重役ノ事ヲ談ス、午後 <orgname> 第一銀行 </orgname> ニ出勤ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\">\n        三時 </time> 日本鉄道会社重役会ニ列ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> ノ汽車ニテ <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス、夜 <persname corresp=\"#pers_土屋\">\n<surname> 土屋 </surname>\n</persname> 医師来ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

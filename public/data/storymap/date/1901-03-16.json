@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-03-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1183\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/209/full/max/0/default.jpg\" n=\"B1183\" source=\"#pageB1183\"></pb>\n<lb></lb> 雨、此日ハ歯痛甚キヲ以テ書状ヲ以テ大蔵省 <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 氏ヘ銀行条例改正法案ノ事ヲ申通ス、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 商業会議所定期会ヲ開キシモ出席ヲ断リ遣ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-03-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 風、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 朝飧ヲ畢リ書類ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ愛国婦人会総会ニ出席スル為メ <placename corresp=\"#place_九段\"> 九段 </placename> 偕行社ニ抵ル、会畢テ\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<placename corresp=\"#place_牛込\"> 牛込 </placename>\n<persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 邸ノ招宴ニ列席ス、親戚相集リテ共ニ歓ヲ尽ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス此夜雨 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-11-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 風少しく炎蒸殊に甚し、終日 <placename corresp=\"#place_シユマトラ\"> シユマトラ </placename> 、 <placename corresp=\"#place_マレー\"> マアレヱー </placename> の海峡を〓行、時々両沿の島嶼及帆前船又は猟船抔の〓行するを見る、〓行随意にして船動揺の憂なし "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

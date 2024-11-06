@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-08-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴ヲ為シ、浴後 <placename corresp=\"#place_仙元山\"> 仙元山\n       </placename> ニ散歩ス、行程一里余、山ハ僑居ノ前面ニ在リテ眺望絶佳ナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time> 帰寓朝飧ヲ為ス、\n        <persname corresp=\"#pers_西村勝三\">\n<surname> 西村 </surname>\n<forename> 勝三 </forename>\n</persname> 氏今日到着ノ由ニテ来訪セラル <lb></lb> 夕方ヨリ雨降リ出ス、終日読書遊戯ニ閑ヲ消ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-01-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、例ノ如ク入浴シ、畢テ新聞紙ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       過キ朝飧ヲ食シ、後、紀念帖ヲ浄書シ、又、色紙ニ短歌ヲ認ム <lb></lb>\n<placename corresp=\"#place_東京\"> 東京 </placename> ヨリ <persname corresp=\"#pers_穂積歌子\">\n<forename> 歌子 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 及 <persname corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_高松豊吉\">\n<surname> 高松 </surname>\n<forename> 豊吉 </forename>\n</persname> 氏等ノ書状数通送リ来ル午飧後郊外ヲ散歩シ、終ニ海岸ニ抵リ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 過帰寓ス、夫ヨリ揮毫ヲ為 <pb corresp=\"#pageB1487\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/513/full/max/0/default.jpg\" n=\"B1487\" source=\"#pageB1487\"></pb> ス、夜ニ入リテ激ム、 <persname corresp=\"#pers_長谷川\">\n<surname> 長谷川 </surname>\n</persname> 未亡人来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

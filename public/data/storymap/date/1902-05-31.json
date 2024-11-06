@@ -1,0 +1,95 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-05-31",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、朝少シク雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起テ <persname corresp=\"#pers_高平\">\n<surname> 高平 </surname>\n</persname> 公使、 <persname corresp=\"#pers_能勢辰五郎\">\n<surname> 能勢 </surname>\n</persname> 領事及 <persname corresp=\"#pers_白石元治郎\">\n<surname> 白石 </surname>\n<forename> 元治郎 </forename>\n</persname> 氏等ヘノ書状ヲ裁シテ郵便ニ附ス、留宅宅 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ヘモ一書ヲ認メ過日船中ニテ裁セシモノヲ補足ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time> 一行ト共ニ朝飧ヲ為ス、畢テ\n        <orgname> 正金銀行 </orgname>\n<persname corresp=\"#pers_戸沢\">\n<surname> 戸沢 </surname>\n</persname> 氏来リ当地商業会議所会頭 <persname corresp=\"#pers_ニユーホール\">\n<surname> ニユーホール </surname>\n</persname> 氏今日面会セラレタキ事ヲ報シ来ル、依テ <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 氏ヲシテ <orgname> 東洋汽船会社 </orgname>\n<persname corresp=\"#pers_エブリー\">\n<surname> エブリー </surname>\n</persname>\n       ニ電話ヲ以テ通告シ早々ホテルニ帰ラシムル事トシ其間倉長某ノ来訪ニ接ス、蓋シ倉永ハ日本移住民ヲ南部鉄道事務ニ服役スル事ヲ受負フノ営業ヲ為ス者ノ由ナリ、談話中領事ニ対スル不満ノ言語アルニヨリ切ニ之ニ注意ヲ与フ、雑貨業練習生\n        <persname corresp=\"#pers_葛原\">\n<surname> 葛原 </surname>\n</persname> 及学校生二人来話ス、 <orgname> 正金銀行 </orgname>\n<persname corresp=\"#pers_戸沢\">\n<surname> 戸沢 </surname>\n</persname> 氏来リ <persname corresp=\"#pers_ニューホール\">\n<surname> ニューホール </surname>\n</persname> 今日 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> マデニ面会ノ事ヲ報シ来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 氏同伴 <persname corresp=\"#pers_ニューホール\">\n<surname> ニューホール </surname>\n</persname> 氏ヲ其事務所ニ訪ヒ商業会議所聯合会ヨリ委托セラレタル意志疎通ノ事ヲ款話ス、同氏ヨリモ懇切ナル回答アリ、談話三十分 <pb corresp=\"#pageB1241\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/267/full/max/0/default.jpg\" n=\"B1241\" source=\"#pageB1241\"></pb>\n       許リシテ其会議所書記長ニ誘引セラレテ桑港商業会議所ヲ一覧ス、会議室其他ノ事務室ヲ見概略ノ手続ヲ聞知ス、後ニ警察本部ヲ一覧ス、罪人処分ノ手続等各事務処ニ於テ悉ク説明セラル、牢獄ヲモ一覧ス、頗ル簡易ニシテ周到ナリ、畢テ\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> ホテルニ帰ル、 <persname corresp=\"#pers_上野\">\n<surname> 上野 </surname>\n</persname> 領事来訪ス <lb></lb> 午飧 <placename corresp=\"#place_日本\"> 日本 </placename> ニ発スル書状一通ヲ裁シ、且、\n        <persname corresp=\"#pers_高平\">\n<surname> 高平 </surname>\n</persname> 、 <persname corresp=\"#pers_能勢\">\n<surname> 能勢 </surname>\n</persname> 両氏ヘ来書ノ回答ヲ発ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 過キ旅宿ヲ出テ電気車又ハケーブル車ニ乗リテ <persname corresp=\"#pers_上野\">\n<surname> 上野 </surname>\n</persname> 領事ノ居住ヲ訪フ、其招宴ニ応スルナリ、一行悉ク随伴ス、 <persname corresp=\"#pers_上野\">\n<surname> 上野 </surname>\n</persname> 氏ノ居住ハ <placename corresp=\"#place_サンフランシスコ\"> 桑港 </placename>\n       市街中ノ上層高所ニ在リ、東北海面ヲ一覧スルヲ得ル、眺望頗ル佳ナリ、此夜日本料理ノ饗応ヲ受ケ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 37.76667,
+                    "lon": -122.43333,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 辞シテ徒歩市中ヲ散策シ\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1902-06-01T00:00+0900\"> 十二時 </time> 頃帰寓ス、但、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ハ馬車ニテ先ツ帰寓ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

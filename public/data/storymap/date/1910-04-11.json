@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-04-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ新聞紙ヲ一読ス、朝来 <placename corresp=\"#place_中津\"> 中津\n       </placename> 人数名来リテ明日同地ニ赴ク事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ食シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> ヨリ <placename corresp=\"#place_大曾根町\"> 大曾根町 </placename>\n<persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 侯爵邸ニ抵リ、其家宝ノ陳列ヲ一覧ス、藩祖又ハ東照公ノ甲冑及ヒ種々ノ武器アリ、又、古書籍、茶器等ニ頗ル名品アリ、絵画類ニモ名筆多カリキ、一覧畢リテ\n        <orgname> 第一銀行 </orgname> 支店ニ抵リ店員ニ訓示シ、又、三重紡績会社営業所ニ抵リ、同シク店員ニ一場ノ訓諭ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\">\n        十二時 </time> 旅亭ニテ午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> ヨリ <persname corresp=\"#pers_神野金之助\">\n<surname> 神野 </surname>\n<forename> 金之助 </forename>\n</persname> 氏邸ノ園遊会ニ抵ル、庭園家屋悉ク新構造ニシテ美麗ナリ、種々ノ饗応アリ、余興トシテ能狂言アリ、畢テ <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 氏ノ呉服店ニ抵ル、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       式ノデパルトメント・ストアニテ設備又盛大ナリ、三階上ノ一室ニテ <placename corresp=\"#place_名古屋\"> 名古屋 </placename>\n       婦人会ノ集会アリテ、一場ノ講演ヲ乞ハレシニヨリ、婦人ニ対スル感想ノ一班ヲ演説ス、畢テ旅亭ニ帰リ、晩飧後、実業団誌ヲ一読シテ字句ノ修正ニ勉ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

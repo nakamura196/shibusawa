@@ -1,0 +1,95 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-06-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ食シ、後、 <placename corresp=\"#place_大韓民国\"> 韓国\n       </placename> 統監ニ進達スヘキ請願書ヲ起草ス（ <orgname> 第一銀行 </orgname> ノ事ニ関スルナリ）、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時\n       </time> 過一来人ニ接シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 東洋硝子会社ノ重役会ニ出席シ、種々ノ議事ニ参与ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ於テ午飧シ、直ニ <placename corresp=\"#place_ベルギー\"> 白耳義国 </placename> 公使館ニ抵リ男爵ダヌタン氏ニ会見ス、後、\n        <persname corresp=\"#pers_曾禰\">\n<surname> 曾禰 </surname>\n</persname> 副統監ヲ <placename corresp=\"#place_麻布\"> 麻布 </placename> 私邸ニ訪ヒ、 <orgname> 第一銀行\n       </orgname> ノ事、日韓瓦斯会社ノ事及小栗銀行ノ事等ニテ種々ノ談話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:30:00",
+                    "text": "<time when=\"15:30:00\"> 午後三時半 </time>\n       愛国婦人会ニ出席シ議事ニ参与ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ、重役会ヲ開キ要件ヲ議決シ、後、 <orgname> 七十七銀行 </orgname> ノ事ニ関シ要務ヲ内議ス、畢テ\n        <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト統監府ニ提出スヘキ文書ノ事及 <orgname> 二十銀行 </orgname> ノ事ヲ内議シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ書類ヲ調査シ事務ヲ処理シ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-02-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<persname corresp=\"#pers_石川雄吉\">\n<surname> 石川 </surname>\n<forename> 雄吉 </forename>\n</persname> 、 <persname corresp=\"#pers_原文次郎\">\n<surname> 原 </surname>\n<forename> 文次郎 </forename>\n</persname> 来、 <persname corresp=\"#pers_古荘韜\">\n<surname> 古荘 </surname>\n<forename> 韜 </forename>\n</persname> 来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 過 <orgname> 東京商業会議所 </orgname>\n       ニ於テ役員会ヲ開ク、蓋シ本月改撰スル会員ノ当撰通知アリタルニ付、 <date evidence=\"year inferenced\" when=\"1899-03-02\"> 三月二日\n       </date> ヲ以テ会頭以下改撰ノ為臨時会ヲ開クノ要アルヲ以テナリ、右役員会畢テ後博覧会開設地ノ事ニ付、市会議員 <persname corresp=\"#pers_町田\">\n<surname> 町田 </surname>\n</persname> 氏及横浜商業会議所ヨリ出京スル委員四名ニ面会シテ、向後運動ノ手続ヲ協議ス、午後外務省ニ抵リ、 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 通商局長ニ面会シテ布哇銀行支店出張ノ事ヲ話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 帝国議会ニ至リテ博覧会ノ事ニ関スル運動ヲ為ス、\n        <persname corresp=\"#pers_松田\">\n<surname> 松田 </surname>\n</persname> 市長ト共ニ右件ニ関シテ <persname corresp=\"#pers_曾根\">\n<surname> 曾根 </surname>\n</persname> 《（ <persname corresp=\"#pers_曾禰\">\n<surname> 曾禰 </surname>\n</persname> ）》農商務大臣、 <persname corresp=\"#pers_山縣有朋\">\n<surname> 山県 </surname>\n</persname> 総理大臣ニ面会シテ <orgname> 東京商業会議所 </orgname> ヲ代表シテ企望ヲ縷陳ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<placename corresp=\"#place_猿楽町\"> 猿楽町 </placename>\n<persname corresp=\"#pers_皆川\">\n<surname> 皆川 </surname>\n</persname> 氏宅ニ至ル、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 老母　○ <persname corresp=\"#pers_渋沢栄一\">\n<forename> 栄一 </forename>\n</persname> 夫人 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 母ノ病死ヲ訪フ為メナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 帰宅、 <persname corresp=\"#pers_谷敬三\">\n<surname> 谷 </surname>\n<forename> 敬三 </forename>\n</persname> 氏来ル、 <orgname> 人造肥料会社 </orgname> ノ事ヲ議ス、 <persname corresp=\"#pers_安田善次郎\">\n<surname> 安田 </surname>\n<forename> 善次郎 </forename>\n</persname> 氏来リ <orgname> 日本銀行 </orgname> 内情ノ事ヲ話ス、夜、 <orgname> 石川島造船所 </orgname>\n<persname corresp=\"#pers_進経太\">\n<surname> 進 </surname>\n<forename> 経太 </forename>\n</persname> 来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

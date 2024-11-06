@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-08-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、 <placename corresp=\"#place_函館\"> 函館 </placename>\n       公園ヲ散歩ス、園ハ旗亭ニ接スレハナリ、後、入浴シテ日記ヲ編成ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ食シ、食後、 <persname corresp=\"#pers_山田\">\n<surname> 山田 </surname>\n</persname> 区長、 <persname corresp=\"#pers_柳田藤吉\">\n<surname> 柳田 </surname>\n<forename> 藤吉 </forename>\n</persname> 、 <persname corresp=\"#pers_遠藤吉平\">\n<surname> 遠藤 </surname>\n<forename> 吉平 </forename>\n</persname> 、 <placename corresp=\"#place_函館\"> 函館 </placename> 支庁長、其他数多ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 過午飧シ、後 <persname corresp=\"#pers_植村\">\n<surname> 植村 </surname>\n</persname> 、 <persname corresp=\"#pers_犬丸\">\n<surname> 犬丸 </surname>\n</persname> 二氏及家人モ皆相伴フテ五稜廓ニ抵リ、堤上ニ於テ眺望ス蓋シ廓ハ維新ノ際 <persname corresp=\"#pers_榎本\">\n<surname> 榎本 </surname>\n</persname> 氏等ノ官軍ニ抗シテ戦闘セシ所ナリ、旧型全ク存シテ転懐旧ノ情ニ堪ヘサリキ、一覧後 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 等ト分袂シテ、 <orgname> 人造肥料会社 </orgname> 工場ニ抵リ各所ヲ一覧シ、詰合員ニ一場ノ訓誠ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_函館\"> 函館 </placename> 慈恵院ニ抵リ、貧児及行路病者等ノ収容救護ノ現状ヲ一覧ス、院ハ <persname corresp=\"#pers_寺井四郎兵衛\">\n<surname> 寺井 </surname>\n<forename> 四郎兵衛 </forename>\n</persname> 氏専ラ任シテ経営スル所ナリ、而シテ現今ハ本区ノ管理ニ属スト云フ、新築等アリテ拡張ニ勉メ居レリ、一覧畢テ児童ニ訓諭シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\">\n        午後六時 </time> 過旅宿ニ帰ル、夜、児女等ト遊戯ス <lb></lb> 今朝、 <placename corresp=\"#place_東京\"> 東京 </placename> 留守宅\n        <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ヘ一書ヲ送リテ、 <persname corresp=\"#pers_秋光院\"> 秋光院 </persname> 墓碑ノ文字修正ノ事ヲ申通ス <lb></lb>\n       きり出たす夏の氷はますらをのときしやひはのかけにやあるらむ《（い）》 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

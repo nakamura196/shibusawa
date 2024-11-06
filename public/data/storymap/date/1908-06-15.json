@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-06-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、例ニヨリ入浴シ、後、朝飧ヲ食ス、畢テ新聞紙其他ノ書類ヲ一覧シ又庭園ヲ散歩ス、 <placename corresp=\"#place_深川\"> 深川 </placename> 区会議員 <persname corresp=\"#pers_福島\">\n<surname> 福島 </surname>\n</persname> 、 <persname corresp=\"#pers_岡田\">\n<surname> 岡田 </surname>\n</persname> 、 <persname corresp=\"#pers_松本\">\n<surname> 松本 </surname>\n</persname> 、 <persname corresp=\"#pers_服部\">\n<surname> 服部 </surname>\n</persname> 四氏来リ、 <persname corresp=\"#pers_溝口\">\n<surname> 溝口 </surname>\n</persname> 区長ノ身上ニ関シ種々ノ談話アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 午前十一時半 </time> ヨリ招客来リ会ス、 <placename corresp=\"#place_フランス\"> 仏国 </placename> 伯爵夫人ベヤルン氏及其一行六人、 <placename corresp=\"#place_フランス\"> 仏国\n       </placename> 大使并ニ母堂、 <placename corresp=\"#place_オランダ\"> 和蘭国 </placename> 公使夫婦、邦人ニテハ <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏夫妻、喜賓会員等ナリキ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 頃ヨリ庭園ヲ散歩シ、茶席ニテ抹茶ノ式アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 書院ニテ食卓ニ就キ、食事中三曲及芸妓ノ踊等アリテ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n       頃散宴、後 <placename corresp=\"#place_フランス\"> 仏国 </placename> 大使其他ノ人々ト養育院、 <orgname> 女子大学\n       </orgname> ヲ一覧シ、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 頃帰宿ス、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> モ同伴ス、此夜、 <persname corresp=\"#pers_大島\">\n<surname> 大島 </surname>\n</persname>\n<placename corresp=\"#place_台湾\"> 台湾 </placename> 民政長官ヨリ案内アリシモ、時間切迫セシニ付断リ遣ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 23.767,
+                    "lon": 121.0,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

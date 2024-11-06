@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-01-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後直ニ入浴シ、了テ日記ヲ編成ス、朝飧後、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 各地、 <persname corresp=\"#pers_木内\">\n<surname> 木内 </surname>\n</persname> 、 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 、 <persname corresp=\"#pers_太田\">\n<surname> 太田 </surname>\n</persname> 、 <persname corresp=\"#pers_麻生\">\n<surname> 麻生 </surname>\n</persname> ノ四氏、其他内地各方面ヘノ書状ヲ裁ス <lb></lb> 客年 <persname corresp=\"#pers_西澤之助\">\n<surname> 西 </surname>\n<forename> 沢之助 </forename>\n</persname> 氏ノ依頼ニヨリテ蓄音器ニ吹入レタル商業道徳ニ関スル演説ノ筆記ヲ浄書ス、午飧後モ尚其浄書ヲ努メ、夜ニ入リテ筆ヲ止ム夜飧後読書ニ消閑ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

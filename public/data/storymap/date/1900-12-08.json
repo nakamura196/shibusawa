@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-12-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、風強ク寒甚シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<persname corresp=\"#pers_大川英太郎\">\n<surname> 大川 </surname>\n<forename> 英太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> 二氏ヲ伴フテ汽 <pb corresp=\"#pageB1170\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/196/full/max/0/default.jpg\" n=\"B1170\" source=\"#pageB1170\"></pb> 車製造合資会社ヲ一覧ス、 <persname corresp=\"#pers_長谷川正五\">\n<surname> 長谷川 </surname>\n<forename> 正五 </forename>\n</persname> 、 <persname corresp=\"#pers_大原春次郎\">\n<surname> 大原 </surname>\n<forename> 春次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_井関百合蔵\">\n<surname> 井関 </surname>\n<forename> 百合蔵 </forename>\n</persname> 諸氏等、各工場ヲ誘引ス、畢テ三軒屋大坂紡績会社ニ抵ル、 <persname corresp=\"#pers_山辺丈夫\">\n<surname> 山辺 </surname>\n<forename> 丈夫 </forename>\n</persname>\n       其他ノ諸氏来リ迎フ、工場ヲ一覧シ、諸計算ノ得失ヲ聴了シ、来春総会ニ提出スヘキ議案ノ事ヲ協議ス、蓋シ優先株発行ニ関スル方法ナリ、談話畢テ午餐後大坂ホテルニ抵リ同地商業会議所会員集合ノ席ニ抵ル、特別会員\n        <persname corresp=\"#pers_外山修造\">\n<surname> 外山 </surname>\n<forename> 修造 </forename>\n</persname> 、 <persname corresp=\"#pers_森作太郎\">\n<surname> 森 </surname>\n<forename> 作太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_村山竜平\">\n<surname> 村山 </surname>\n<forename> 竜平 </forename>\n</persname> 、副会頭 <persname corresp=\"#pers_小泉清左衛門\">\n<surname> 小泉 </surname>\n<forename> 清左衛門 </forename>\n</persname> 、 <persname corresp=\"#pers_三谷軌秀\">\n<surname> 三谷 </surname>\n<forename> 軌秀 </forename>\n</persname> 、 <persname corresp=\"#pers_今西林三郎\">\n<surname> 今西 </surname>\n<forename> 林三郎 </forename>\n</persname> 諸氏、会員一同ヲ率ヘテ来リ迎フ、午餐ノ饗宴アリテ後、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n       視察ニ係ル一場ノ演説ヲ為ス、畢テ会議所連合会ノ件ニ関シ <persname corresp=\"#pers_三谷\">\n<surname> 三谷 </surname>\n</persname> 、 <persname corresp=\"#pers_今西\">\n<surname> 今西 </surname>\n</persname> 諸氏ヨリ内話アリシモ帰京後 <orgname> 東京商業会議所 </orgname> ニ於テ評議ノ上回答スヘキ旨ヲ約シテ去ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 銀行支店ニ抵リ行員一同ヘ一場ノ説示的演説ヲ為ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n       伝法屋ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-02-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前、 <persname corresp=\"#pers_外山修造\">\n<surname> 外山 </surname>\n<forename> 修造 </forename>\n</persname> 、 <persname corresp=\"#pers_平岡熙\">\n<surname> 平岡 </surname>\n<forename> 熙 </forename>\n</persname> 、 <persname corresp=\"#pers_有賀長文\">\n<surname> 有賀 </surname>\n<forename> 長文 </forename>\n</persname> 其他数多ノ来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<orgname> 第一銀行 </orgname> 上棟式ニ列ス、新築家屋ノ頂上ニ於テ式場ヲ設ケ神官来リテ祭典ヲ行フ、畢テ一場ノ演説ヲ為ス、式後大蔵省ニ抵リ <persname corresp=\"#pers_松尾臣善\">\n<surname> 松尾 </surname>\n<forename> 臣善 </forename>\n</persname> 氏ニ面会シテ貯蓄銀行法案修正ノ事ニ関シテ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<placename corresp=\"#place_高田\"> 高田 </placename>\n<placename corresp=\"#place_豊川町\"> 豊川町 </placename> ニ抵リ <orgname> 女子大学 </orgname> 新築ヲ一覧ス、\n        <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯、 <persname corresp=\"#pers_児島\">\n<surname> 児島 </surname>\n</persname> 、 <persname corresp=\"#pers_広岡\">\n<surname> 広岡 </surname>\n</persname> 、 <persname corresp=\"#pers_三井\">\n<surname> 三井 </surname>\n</persname> 、 <persname corresp=\"#pers_嘉納\">\n<surname> 嘉納 </surname>\n</persname> 等ノ委員来会ス、教場及寄宿舎等悉ク巡覧シ且会計ニ関スル意見ヲ陳述シ、委員一同ト共ニ開校前後ニ於ル会計ノ事ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\">\n        午後五時 </time> 帰宅、此夜 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 邸ニ同族会議ヲ開キ各種ノ議事ヲ決定ス\n      "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

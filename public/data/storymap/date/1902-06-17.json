@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-06-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 紐克着、 <orgname> マゼスチツク・ホテル </orgname> ニ投宿ス、\n        <persname corresp=\"#pers_内田\">\n<surname> 内田 </surname>\n</persname> 領事、 <persname corresp=\"#pers_堀越\">\n<surname> 堀越 </surname>\n</persname> 氏其他諸氏来リ訪フ、午後瓦斯会社ノ事業ニ関シ曾テ <placename corresp=\"#place_東京\"> 東京 </placename> ニ於テ\n        <persname corresp=\"#pers_チゾン\">\n<surname> チゾン </surname>\n</persname> 氏ト談判セシ手続ニヨリ <persname corresp=\"#pers_ブレチ\">\n<surname> ブレチ </surname>\n</persname> 氏来話ス、種々談判ノ末会社株式ノ増額及割増金ノ払入其他ノ事、全ク協議整了ス、依テ <orgname> 東京瓦斯会社 </orgname> 及 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏等ヘ発電ス、是レヨリ先午前煙草会社ニ抵リ <persname corresp=\"#pers_ヂユーク\">\n<surname> ヂユーク </surname>\n</persname> 氏ニ面会ス、蓋シ <placename corresp=\"#place_東京\"> 東京 </placename> ニ於テ <persname corresp=\"#pers_チゾン\">\n<surname> チゾン </surname>\n</persname> 氏ヨリ紹介アリシ一人ナリ、会談ノ後旅宿ニ帰ル、此夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time>\n<persname corresp=\"#pers_ライヤン\">\n<surname> ライヤン </surname>\n</persname> 氏来話ス、 <persname corresp=\"#pers_ライヤン\">\n<surname> ライヤン </surname>\n</persname> 氏ハ <orgname> モルトン信托会社 </orgname> 重役ノ一人ニシテ、 <orgname>\n<surname> チゾン </surname>\n</orgname> ヨリ紹介アリシ人ナリ、面会ノ際種々ノ談話ヲ為シ、殊ニ金融談ト <orgname> 興業銀行 </orgname> ノ事ニ関シテ細話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

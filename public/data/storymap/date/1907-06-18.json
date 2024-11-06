@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-06-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後入浴シ、畢テ庭園ヲ散歩シ又理髪ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 過朝飧ヲ為シ書類ヲ調査シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 過 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <persname corresp=\"#pers_郷隆三郎\">\n<surname> 郷 </surname>\n<forename> 隆三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_江間政発\">\n<surname> 江間 </surname>\n<forename> 政発 </forename>\n</persname> 、 <persname corresp=\"#pers_土岐〓\">\n<surname> 土岐 </surname>\n<forename> 〓 </forename>\n</persname> 氏等ノ来訪ニ接ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧ス、食後、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 氏等ト行務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 東京瓦斯会社 </orgname> 重役会ニ出席ス、畢テ海上保険会社発起人会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename> ニ抵リテ夜飧シ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過\n        <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス <lb></lb> 小樽木材会社 <persname corresp=\"#pers_田中清一\">\n<surname> 田中 </surname>\n<forename> 清一 </forename>\n</persname> 氏来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

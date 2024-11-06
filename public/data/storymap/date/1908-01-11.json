@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-01-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、先ツ入浴シ畢テ朝飧ヲ食ス、食後揮毫ヲ始メ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n       マテ数十枚ヲ認ム、午飧後同シク揮毫ス、夕方 <persname corresp=\"#pers_江間政発\">\n<surname> 江間 </surname>\n<forename> 政発 </forename>\n</persname> 来リ、紀料編纂事務及 <persname corresp=\"#pers_楽翁\"> 楽翁 </persname>\n       公ニ関スル談話アリ、同氏ト夜食ヲ共ニシ且談シ且食ス、 <persname corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persname> 氏ヨリ来書アリ、直ニ返書シテ、学友増員ノ事ハ帰京後協議ノ後ニ決セシムルコトトス、 <persname corresp=\"#pers_渋沢秀雄\">\n<forename> 秀雄 </forename>\n</persname> 学友 <persname corresp=\"#pers_秋葉義衛\">\n<surname> 秋葉 </surname>\n<forename> 義衛 </forename>\n</persname> ノ事ニ関シ、 <persname corresp=\"#pers_横山\">\n<surname> 横山 </surname>\n</persname> 氏ヨリ来状アリ、依テ電話ニテ回答シ、明日 <persname corresp=\"#pers_遠藤\">\n<surname> 遠藤 </surname>\n</persname> 氏ヲ来磯セシムル事ニ申遣ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

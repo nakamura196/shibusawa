@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-08-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n       旅宿ヲ出テ、ビカース会社ニ抵リ、軍艦ニ装置スヘキ大砲ノ製造及其防衛ニ充ツル鋼鉄板等ノ工場ヲ覧ル、大砲ノ大ナルモノ口径十四吋ナリト云フ、又鉄板ハ凡長二十尺、巾十五尺程ニシテ厚サ尺以上ノモノアリ、其重力ノ多クシテ取扱ヒ困難ナルニモ拘ハラス電気仕掛ノクレンヲ以テ自由ニ之ヲ焼キ、之ヲ鍛ヒ又ハ切断スル等サナガラ切餅ヲ為ス如クナリ、鎔鉱、鋳造、鍛練、硺磨《（琢）》、切断等種々ノ工場ヲ一覧シ、畢テ\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 帰宿シ、午飧後 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:18:00",
+                    "text": "<time when=\"15:18:00\"> 三時十八分 </time>\n       ノ汽車ニテセヒルドヲ発シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 過 <placename corresp=\"#place_ロンドン\"> 倫敦\n       </placename> 帰着、曾テ止宿セシユーホルグ・ホテルニ投宿ス <lb></lb> 此夜本邦ヨリノ来状及 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n<persname corresp=\"#pers_内田\">\n<surname> 内田 </surname>\n</persname> 領事其他ノ来状ヲ一覧ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 51.50778,
+                    "lon": -0.12806,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

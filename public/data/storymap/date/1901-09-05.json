@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-09-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、午前 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ニ出勤ス、午後銀行集会所ニ於テ手形交換所ノ月次会ニ出席シ、今般渡来セシ謝罪使那桐招待ノ事ヲ談話ス、夕方 <placename corresp=\"#place_飛鳥山邸\"> 王子別荘\n       </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

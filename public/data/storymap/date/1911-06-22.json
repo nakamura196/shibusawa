@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-06-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ、朝飧ヲ食ス、後、 <persname corresp=\"#pers_犬丸鉄太郎\">\n<surname> 犬丸 </surname>\n<forename> 鉄太郎 </forename>\n</persname> 氏来訪シテ其身上ノ談話アリ、 <persname corresp=\"#pers_塘茂太郎\">\n<surname> 塘 </surname>\n<forename> 茂太郎 </forename>\n</persname> 氏来リ <orgname> 女子大学 </orgname> ノ事ニ関シ <placename corresp=\"#place_岡山\"> 岡山\n       </placename> 地方ノ諸氏ニ書状ヲ交付ス、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 氏来リ養育院ノ事ヲ談ス、 <placename corresp=\"#place_大阪\"> 大阪 </placename>\n<persname corresp=\"#pers_藪田忠次郎\">\n<surname> 藪田 </surname>\n<forename> 忠次郎 </forename>\n</persname> 夫妻、 <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 某来訪セラル、談話ノ後、庭園ヲ散歩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 事務所ニ抵リ来人ニ接シ事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_イギリス\"> 英国 </placename> 大使館ニ抵リ戴冠式祝賀会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\">\n        午後五時 </time> ヨリ帝国劇場ニ抵リ家人ト共ニ観劇ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1911-06-23T00:00+0900\"> 十二時 </time> 頃帰宿ス\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

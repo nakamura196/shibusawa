@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-03-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、直ニ入浴シ、後、朝飧ヲ食ス、日記ヲ編成ス、又、髪ヲ理シ、書類ヲ整理シ、演説筆記ヲ修正ス、 <orgname>\n        埼玉学生誘掖会 </orgname> 学生 <persname corresp=\"#pers_秋山栄次郎\">\n<surname> 秋山 </surname>\n<forename> 栄次郎 </forename>\n</persname> 来話ス、 <persname corresp=\"#pers_山下弥七郎\">\n<surname> 山下 </surname>\n<forename> 弥七郎 </forename>\n</persname> 氏来リ、シヤハン・マガシン雑誌ノ事ヲ談ス、 <persname corresp=\"#pers_塩島仁吉\">\n<surname> 塩島 </surname>\n<forename> 仁吉 </forename>\n</persname> 、 <persname corresp=\"#pers_磯江潤\">\n<surname> 磯江 </surname>\n<forename> 潤 </forename>\n</persname> 二氏来リテ高等女学校ノ事ヲ談ス、 <persname corresp=\"#pers_瓜生治\">\n<surname> 瓜生 </surname>\n<forename> 治 </forename>\n</persname> 氏来リ身上ノ事ヲ依頼ス、午飧後又書類ヲ整理ス、渡米実業団誌ノ稿本ヲ一覧シテ修正ス、 <persname corresp=\"#pers_伊藤半次郎\">\n<surname> 伊藤 </surname>\n<forename> 半次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_川田鉄弥\">\n<surname> 川田 </surname>\n<forename> 鉄弥 </forename>\n</persname> 氏等来話ス、夜飧後モ書類ノ整理ト雑誌一覧トニ従事ス、又、机上ノ雑書ヲ読ム、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1910-03-21T00:00+0900\">\n        十二時 </time> ニ至リテ止ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

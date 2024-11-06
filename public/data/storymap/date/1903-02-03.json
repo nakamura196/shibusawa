@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-02-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 大雪、朝来降雪強ク庭前一望白世界ヲ為ス、不快未タ平愈セサルヲ以テ家ニ在テ休養ス、午後 <persname corresp=\"#pers_竹内綱\">\n<surname> 竹内 </surname>\n<forename> 綱 </forename>\n</persname> 、 <persname corresp=\"#pers_日下義雄\">\n<surname> 日下 </surname>\n<forename> 義雄 </forename>\n</persname> 二氏来リ京釜鉄道会社ノ社債ノ事ニ関シテ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<persname corresp=\"#pers_大谷嘉兵衛\">\n<surname> 大谷 </surname>\n<forename> 嘉兵衛 </forename>\n</persname> 、 <persname corresp=\"#pers_茂木保平\">\n<surname> 茂木 </surname>\n<forename> 保平 </forename>\n</persname> 、 <persname corresp=\"#pers_左右田金作\">\n<surname> 左右田 </surname>\n<forename> 金作 </forename>\n</persname> ノ諸氏来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

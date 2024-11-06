@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-09-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、郊外ヲ散歩ス、此日ハ <placename corresp=\"#place_井頭\"> 井頭\n       </placename> 感化部一覧ノ積ニテ蚤起、朝飧ヲ畢リシモ <persname corresp=\"#pers_安達\">\n<surname> 安達 </surname>\n</persname> 幹事病気ノ由ニ付其行ヲ見合ハス、朝飧散歩ノ後英人 <persname corresp=\"#pers_キルビ\">\n<surname> キルビ </surname>\n</persname> 氏及 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト電話ニテ要務ヲ談シ且新聞紙ヲ一覧ス、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 在学ノ\n        <persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> 、 <persname corresp=\"#pers_小田川全之\">\n<surname> 小田川 </surname>\n<forename> 全之 </forename>\n</persname> 等ヘ書状ヲ裁シ、又 <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n<persname corresp=\"#pers_渡瀬常吉\">\n<surname> 渡瀬 </surname>\n<forename> 常吉 </forename>\n</persname> 其他諸方ヘノ書状ヲ裁ス、午後ニ至ルマテ書類調査ノ為メ家ニ在テ終日拮据ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

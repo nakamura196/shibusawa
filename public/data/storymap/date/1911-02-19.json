@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-02-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シテ、朝飧ヲ食ス、後、来書ヲ点検シ、又、日記ヲ編成ス、二三ノ来客ニ接シテ、 <placename corresp=\"#place_三田\"> 三田 </placename> 邸ニ抵リ、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 身上ニ付テ種々ノ訓戒ヲ為ス、 <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> 来会ス、畢テ帝国劇場会社ニ抵リ、開場前ノ披露会ヲ開ク、 <persname corresp=\"#pers_岡部\">\n<surname> 岡部 </surname>\n</persname> 、 <persname corresp=\"#pers_大浦\">\n<surname> 大浦 </surname>\n</persname> 、 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 、 <persname corresp=\"#pers_末松\">\n<surname> 末松 </surname>\n</persname> ノ諸氏来会ス、午飧中一場ノ挨拶ヲ述ヘ、食後、劇場ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 過キ散会、夫ヨリ\n        <placename corresp=\"#place_深川\"> 深川 </placename> 区ニ抵リセメント降灰ノ事ニ関シ地方人ノ請求ニ応シテ実地ヲ一覧ス、 <persname corresp=\"#pers_中村\">\n<surname> 中村 </surname>\n</persname> 、 <persname corresp=\"#pers_岡田\">\n<surname> 岡田 </surname>\n</persname> 、 <persname corresp=\"#pers_山崎\">\n<surname> 山崎 </surname>\n</persname> 其他ノ諸氏案内シテ、各町ノ実況ヲ視察ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 一覧畢テ <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

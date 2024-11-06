@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-03-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、朝、 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 宅ヘ書状ヲ発ス、此夕 <persname corresp=\"#pers_皆川\">\n<surname> 皆川 </surname>\n</persname> 氏 <placename corresp=\"#place_東京\"> 東京 </placename> ヨリ来着ス、終日読書又ハ遊戯ニ消閑ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

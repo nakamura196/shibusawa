@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-05-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ス、後、種々ノ来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 九時半 </time>\n<pb corresp=\"#pageB1620\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/646/full/max/0/default.jpg\" n=\"B1620\" source=\"#pageB1620\"></pb> 事務所ニ抵リ事務ヲ処理ス、又、来人ニ接見ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ午飧シ、後、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト行務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<placename corresp=\"#place_上野\"> 上野 </placename> 常盤花壇ニ抵リ、 <placename corresp=\"#place_深川\"> 深川\n       </placename> 鷗盟会ヨリ案内セラレタル集会ニ出席ス、余興アリ、後、宴会ニ際シテ常議員総代ヨリ歓迎ノ辞アリ、依テ之ニ答ヘテ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 旅行談ト本会設立当時ヨリノ地方自治制ニ関スル意見ヲ演説ス、畢テ <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、夜、新聞紙ヲ一覧ス、 <placename corresp=\"#place_血洗島\"> 血洗島\n       </placename> ナル <persname corresp=\"#pers_渋沢貞子\">\n<forename> 貞子 </forename>\n</persname> ○ <persname corresp=\"#pers_渋沢栄一\">\n<forename> 栄一 </forename>\n</persname> 妹ノ病気近頃重体ナル由ニテ本日 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 見舞ノ為メ往訪セシカ、其模様宜シカラストノ事ニ付明日出張ノ事トシ、 <persname corresp=\"#pers_入沢\">\n<surname> 入沢 </surname>\n</persname> 博士同行診察ヲ請フヘキ事トシテ <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ト打合ハセ、此夜其手配ヲ為シタリ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

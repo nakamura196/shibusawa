@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-02-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、例ニヨリテ入浴シ畢テ朝飧ヲ食シ、日記ヲ編成シ、又新聞紙雑誌類ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ、浅野セメント会社ノ総会ニ出席シ株式組織ノ改正ヲ議決ス、畢テ午飧ヲ食シ、後、 <placename corresp=\"#place_鶴見\"> 鶴見\n       </placename> 埋築会社設立ニ付協議会ヲ開キ創立委員ヲ撰定ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ行務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 事務所ニ抵リテ庶務ヲ理ス、又、来状ヲ撿閲ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 五時半 </time> 矢ノ倉 <orgname> 福井楼 </orgname> ニ抵リテ観山会ニ出席ス、 <persname corresp=\"#pers_諸井\">\n<surname> 諸井 </surname>\n</persname> 、 <persname corresp=\"#pers_高田\">\n<surname> 高田 </surname>\n</persname> ノ諸氏来会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会、帰宿ス、 <orgname> 福井楼 </orgname>\n       ハ昨年冬ノ新築ニテ階上大広間アリ、頗ル壮大華麗ノ酒楼タリ、近時洋式ノ建築多キニ反シ純然タル <placename corresp=\"#place_日本\"> 日本 </placename>\n       風ナルハ旧観ノ美ヲ増スノ想アリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

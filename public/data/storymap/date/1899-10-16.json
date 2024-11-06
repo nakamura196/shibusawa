@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-10-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、朝、 <persname corresp=\"#pers_北垣国道\">\n<surname> 北垣 </surname>\n<forename> 国道 </forename>\n</persname> 氏来リ函樽鉄道会社重役ノ事ヲ依頼セラル、依テ之ヲ謝絶ス、 <persname corresp=\"#pers_日下義雄\">\n<surname> 日下 </surname>\n<forename> 義雄 </forename>\n</persname> 氏来ル、明日 <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n       ニ発途スルニ付各支店ニ対スル要務及京仁鉄道ニ関スル <persname corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persname> ヘノ訓令ヲ托ス、又京釜鉄道ノ《（ニ）》関スル意見ヲ内示ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 商業会議所聯合会ニ出席シ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 閉会ス、帰路 <persname corresp=\"#pers_日下義雄\">\n<surname> 日下 </surname>\n<forename> 義雄 </forename>\n</persname> 氏ヲ訪ヒ、夜 <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

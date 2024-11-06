@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-05-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前数多ノ来人ニ接ス、午後 <orgname> 第一銀行 </orgname> ニ於テ重役会ヲ開ク、是ヨリ先、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_銀座\"> 三十間堀 </placename>\n       京釜鉄道事務所ニ於テ創立委員会ヲ開キ、出張委員ヨリノ来信ニ対スル答案ニ付テ種々ノ協議ヲ為ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.671222,
+                    "lon": 139.765,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 伯ヲ訪フ、京釜鉄道其他ノ事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_深川\"> 深川 </placename> 宅ニ帰宿ス、夜 <persname corresp=\"#pers_清水泰吉\">\n<surname> 清水 </surname>\n<forename> 泰吉 </forename>\n</persname> 来ル、 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 老人ノ病ヲ訪フ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-05-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " （欄外） <lb></lb> ［ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 過朝飧ス <lb></lb> 朝来入浴シテ衣服ヲ整ヘ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 過朝飧ヲ食ス、後、 <placename corresp=\"#place_日本\"> 日本 </placename>\n       ヨリ到来セル書状ヲ一覧シ返信ノ事ヲ処理ス、又、日記ヲ編成ス、本邦 <persname corresp=\"#pers_中野武営\">\n<surname> 中野 </surname>\n<forename> 武営 </forename>\n</persname> 氏及 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> 氏等ヘ詳細ノ書状ヲ送ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time> ヨリ <orgname> 正金銀行 </orgname> 支店\n        <persname corresp=\"#pers_小田切\">\n<surname> 小田切 </surname>\n</persname> 氏ヨリノ案内ニテ其宅ニ於テ午飧会アリ、民国官民中有力ノ人士多ク来会ス、食卓上主人ノ挨拶ニ答ヘテ一場ノ演説ヲ為ス、食後、 <persname corresp=\"#pers_山座\">\n<surname> 山座 </surname>\n</persname> 公使公使ト共ニ民間官憲諸方ヲ訪問ス、国務卿、外交総長其他数所ナリ、到処日支実業聯絡ニ付テ種々意見ヲ交換ス、夕方旅宿ニ帰リテ暫時休憩シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> ヨリ本邦居留民ノ開催セル宴会ニ出席ス、食事畢テ <persname corresp=\"#pers_亀井\">\n<surname> 亀井 </surname>\n</persname> 順三時報社主挨拶アリ、余モ一場ノ答詞ヲ述ヘ、来会者一同歓声中ニ散会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過帰寓、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1914-05-21T00:00+0900\"> 十二時 </time> 就寝 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

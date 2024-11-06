@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-07-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 前起床、東京本店 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ヘ一書ヲ裁シテ旅行中ノ概況及当地着後ノ景況ヲ申シ送ル、 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 宛ニ一書ヲ作リテ旅中ノ景状ヲ通知ス、朝飧後種々ノ来客ニ接ス、 <persname corresp=\"#pers_水野禎三\">\n<surname> 水野 </surname>\n<forename> 禎三 </forename>\n</persname> ナル狂人 <placename corresp=\"#place_五泉町\"> 五泉町 </placename> ヨリノ来書ニ対シ返翰ヲ発セシム、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 過 <persname corresp=\"#pers_鍵富\">\n<surname> 鍵富 </surname>\n</persname> 氏ノ案内ニテ浜手ノ会々楼ニ宴ス、 <persname corresp=\"#pers_渡邊嘉一\">\n<surname> 渡辺 </surname>\n<forename> 嘉一 </forename>\n</persname> 、 <persname corresp=\"#pers_松井吉太郎\">\n<surname> 松井 </surname>\n<forename> 吉太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> モ同伴ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 宴散シテ <pb corresp=\"#pageB1375\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/401/full/max/0/default.jpg\" n=\"B1375\" source=\"#pageB1375\"></pb> 帰宿ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 鍋茶屋ニ抵リ県知事其他高等官ヲ招宴ス、\n        <persname corresp=\"#pers_鍵富\">\n<surname> 鍵富 </surname>\n</persname> 父子 <persname corresp=\"#pers_渡邊嘉一\">\n<surname> 渡辺 </surname>\n<forename> 嘉一 </forename>\n</persname> 氏、 <orgname> 六十九銀行 </orgname> ノ人々来会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散宴、帰宿ス\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-08-31",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床スルモ、昨夜ヨリ少シク風邪気アルヲ以テ入浴ヲ罷メ、船室ニ在テ日記ヲ編成シ又米国史ヲ読ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time> 朝飧ス、食後、甲板上ヲ散歩ス、此日夕方ニハ本船着港ノ事ヲ船内ニ伝聞スルヨリ、一行上陸ノ手配ニ忙殺ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> ホード・タウンセントニ到着ス、是ヨリ先無線電信ニテ <persname corresp=\"#pers_水野幸吉\">\n<surname> 水野 </surname>\n</persname> 紐克総領事、 <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 領事、 <persname corresp=\"#pers_織田一\">\n<surname> 織田 </surname>\n<forename> 一 </forename>\n</persname> （博覧会掛官）、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 人 <persname corresp=\"#pers_セームム_ヒル\">\n<forename> セームム </forename> ・ <surname> ヒル </surname>\n</persname> 氏《（ <persname corresp=\"#pers_セームス_ヒル\">\n<forename> セームス </forename> ・ <surname> ヒル </surname>\n</persname> 氏）》、其他諸方ヨリ電報ノ祝詞来ル、 <placename corresp=\"#place_タウンセント\">\n<surname> タウンセント </surname>\n</placename> 到着後本船ノ速力ヲ緩メ、終ニ同港ニ一泊ス、蓋シ明日 <placename corresp=\"#place_シアトル\"> シヤトル </placename>\n       ニ於ル歓迎ノ手筈ニ関シ、本船ノ入港ヲ少シク遅カラシムル為メナリト云フ、夜、 <persname corresp=\"#pers_水野幸吉\">\n<surname> 水野 </surname>\n</persname> 、 <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 、 <persname corresp=\"#pers_頭本元貞\">\n<surname> 頭本 </surname>\n</persname> 、 <persname corresp=\"#pers_中野武営\">\n<surname> 中野 </surname>\n</persname> 、其他ノ諸氏ト本船着後歓迎ノ手続ニ関シ祝詞ニ答フル辞令ヲ協議シ、其文案ヲ草定ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 47.60972,
+                    "lon": -122.33306,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1909-09-01T00:00+0900\">\n        十二時 </time> 過ニ至リテ漸ク寝ニ就クヲ得タリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-09-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、朝二三ノ来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<placename corresp=\"#place_中橋\"> 中橋 </placename> ニ於テ <placename corresp=\"#place_フランス\"> 仏国\n       </placename> 博覧出品物《（会脱）》ノ陳列ヲ見ル、 <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 兄弟、 <persname corresp=\"#pers_林忠正\">\n<surname> 林 </surname>\n<forename> 忠正 </forename>\n</persname> 氏等ト会話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ <persname corresp=\"#pers_雨宮敬次郎\">\n<surname> 雨宮 </surname>\n<forename> 敬次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_麻生太吉\">\n<surname> 麻生 </surname>\n<forename> 太吉 </forename>\n</persname> 二氏ト共ニ九州鉄道会社ノ紛議調停ノ事ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<orgname> 第一銀行 </orgname> ニ於テ重役会ヲ開ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 深川区役所ニ於テ区会ヲ開ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 午後八時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス、此夜 <persname corresp=\"#pers_麻生太吉\">\n<surname> 麻生 </surname>\n<forename> 太吉 </forename>\n</persname> 氏来ル "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

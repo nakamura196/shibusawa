@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-11-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 美晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 発ノ汽車ニ搭シテ <placename corresp=\"#place_京城府\"> 京城\n       </placename> ニ抵ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<placename corresp=\"#place_南大門\"> 南大門 </placename> 着、 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 、 <persname corresp=\"#pers_原田\">\n<surname> 原田 </surname>\n</persname> 両氏来リ迎フ、 <orgname> 第一銀行 </orgname> 出張所ニ於テ小憩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n       景福宮前英語学校ニ抵ル、蓋シ <persname corresp=\"#pers_閔泳喆\">\n<surname> 閔 </surname>\n<forename> 泳喆 </forename>\n</persname>\n       氏ヨリ案内セラレタル鉄道会社、鉄道用達会社等ノ設立ニ付我京仁、京釜両鉄道会社ト懇親ヲ厚フシ事業上ノ保庇ヲ乞ハントノ趣旨ナリシヨリ此宴ヲ設ケテ、強ク余ノ出席ヲ望マレタルナリ、席上韓国大官ノ人々多ク来会シ官妓ノ舞踏アリテ後洋食ノ饗応アリ、食卓上社長\n        <persname corresp=\"#pers_閔泳喆\">\n<surname> 閔 </surname>\n<forename> 泳喆 </forename>\n</persname> 祝辞ヲ朗読ス、依テ挨拶ノ為一場ノ演説ヲ為シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 散宴ス、畢テ再ヒ銀行出張所ニ小憩シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:25:00",
+                    "text": "<time when=\"17:25:00\"> 五時二十五分 </time> ノ汽車ニ搭シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_仁川\"> 仁川 </placename> 着、直ニ <orgname> 八坂楼 </orgname>\n       ニ抵リ此夕催シタル仁川商業者饗宴ニ出席ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過 <orgname> 稲田楼 </orgname> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

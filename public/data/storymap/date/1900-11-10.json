@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-11-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 、 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 二氏ト <persname corresp=\"#pers_ブラオン\">\n<surname> ブラオン </surname>\n</persname> 氏ヘ覚書通知ノ事ニ付其手続ヲ議決ス、 <persname corresp=\"#pers_大三輪長兵衛\">\n<surname> 大三輪 </surname>\n<forename> 長兵衛 </forename>\n</persname> 氏来ル、 <persname corresp=\"#pers_閔\">\n<surname> 閔 </surname>\n</persname> 氏面会ノ上京仁鉄道ニ関スル要務ヲ話ス、依テ明日会見ノ事ヲ約シ其旨ヲ <placename corresp=\"#place_仁川\"> 仁川 </placename>\n<persname corresp=\"#pers_足立\">\n<surname> 足立 </surname>\n</persname> 氏ヘ書通ス、稷山出張ノ技師 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 、 <persname corresp=\"#pers_前川\">\n<surname> 前川 </surname>\n</persname> 二氏来着ス、依テ <persname corresp=\"#pers_古田\">\n<surname> 古田 </surname>\n</persname> 、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ト共ニ面会シテ爾来調査ノ要領ヲ聞キ向後処理ノ手続ヲ談話ス、 <persname corresp=\"#pers_鹿島岩蔵\">\n<surname> 鹿島 </surname>\n<forename> 岩蔵 </forename>\n</persname> 氏来韓セシトテ来訪ス、午後 <persname corresp=\"#pers_金圭弘\">\n<surname> 金 </surname>\n<forename> 圭弘 </forename>\n</persname> （学部大臣）、 <persname corresp=\"#pers_朴琪淙\">\n<surname> 朴 </surname>\n<forename> 琪淙 </forename>\n</persname> 、 <persname corresp=\"#pers_権在衡\">\n<surname> 権 </surname>\n<forename> 在衡 </forename>\n</persname> 等来訪ス、郵船会社仁川支店長吉末庫輔来ル、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 航路ノ事ヲ談ス、\n        <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ヨリ書状来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<persname corresp=\"#pers_大三輪\">\n<surname> 大三輪 </surname>\n</persname> 氏ヲ訪ヒ京釜鉄道ニ関スル要務ヲ協議ス、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 過 <persname corresp=\"#pers_大江\">\n<surname> 大江 </surname>\n</persname> 氏ヲ履洞ノ居ニ訪ヒ京釜鉄道ノ要務其他同氏身上ノ事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 午後六時半 </time> 帰寓、衣服ヲ更メテ\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 七時半 </time>\n<persname corresp=\"#pers_清安君\"> 清安君 </persname> ノ夜宴ニ抵ル、 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 公使、 <persname corresp=\"#pers_山座\">\n<surname> 山座 </surname>\n</persname> 公使書記官、 <persname corresp=\"#pers_国府\">\n<surname> 国府 </surname>\n</persname> 、 <persname corresp=\"#pers_塩川\">\n<surname> 塩川 </surname>\n</persname> 両通訳官、 <persname corresp=\"#pers_大江\">\n<surname> 大江 </surname>\n</persname> 、 <persname corresp=\"#pers_大三輪\">\n<surname> 大三輪 </surname>\n</persname> 二氏、 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 、 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 、 <persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> 等同席ス、 <persname corresp=\"#pers_朴\">\n<surname> 朴 </surname>\n</persname> 外部、 <persname corresp=\"#pers_閔丙奭\">\n<surname> 閔 </surname>\n<forename> 丙奭 </forename>\n</persname> 、 <persname corresp=\"#pers_金光準\">\n<surname> 金 </surname>\n<forename> 光準 </forename>\n</persname> 氏等来会ス、洋食ノ夜餐アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

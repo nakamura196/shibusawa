@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-10-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、昨日来ノ下痢症未タ愈ヘス、終日家ニ在テ書類ヲ整理ス、 <placename corresp=\"#place_水戸\"> 水戸 </placename> 行ヲ見合セタルニ付\n        <persname corresp=\"#pers_河野\">\n<surname> 河野 </surname>\n</persname> 茨城県知事、土浦 <persname corresp=\"#pers_桜井平兵衛\">\n<surname> 桜井 </surname>\n<forename> 平兵衛 </forename>\n</persname> 氏ヘ書状ヲ送致ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

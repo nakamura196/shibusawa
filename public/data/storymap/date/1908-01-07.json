@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-01-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床直ニ入浴ス、畢テ朝飧ヲ児童ト共ニス、食後 <persname corresp=\"#pers_穂積歌子\">\n<surname> 穂積 </surname>\n<forename> 歌子 </forename>\n</persname> ニ電話ヲ以テ要務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 過青山五丁目東京貯蓄銀行支店ニ抵リ、 <persname corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persname> 氏ニ面話ス、更ニ其役宅ヲ訪問シ、又 <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> 等ノ寄宿舎ニ抵リ、 <persname corresp=\"#pers_遠藤\">\n<surname> 遠藤 </surname>\n</persname> 及 <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> 等学業精励ノ事ヲ訓示ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、食後、行務ヲ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト談ス、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ニ家事ヲ談シ、又事務所ニ抵リテ諸方ヨリノ来書ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:40:00",
+                    "text": "<time when=\"15:40:00\"> 午後三時四十分 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 発ノ汽車ニ搭シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 過\n        <placename corresp=\"#place_大磯町\"> 大磯 </placename> 長生館ニ抵リ投宿ス <lb></lb> （欄外） <lb></lb>\n       ［朝来雪降リテ寒威強シ、夕方ニ至リ雨トナル "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

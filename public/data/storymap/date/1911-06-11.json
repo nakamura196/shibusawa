@@ -1,0 +1,73 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-06-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ、朝飧ヲ食シ、後、 <persname corresp=\"#pers_井上雅二\">\n<surname> 井上 </surname>\n<forename> 雅二 </forename>\n</persname> 氏ノ来訪ニ接シテ南洋ニ於テ事業経営ノ事ヲ談ス、 <persname corresp=\"#pers_井口正之\">\n<surname> 井口 </surname>\n<forename> 正之 </forename>\n</persname> 氏外一名来リテ養育院事務ヲ談ス、 <persname corresp=\"#pers_佐藤毅\">\n<surname> 佐藤 </surname>\n<forename> 毅 </forename>\n</persname> 氏来リ <placename corresp=\"#place_サンフランシスコ\"> 桑港 </placename>\n<orgname> クロニクル新聞 </orgname> 投書及書翰ノ文案ヲ協議ス、 <persname corresp=\"#pers_渋沢元治\">\n<surname> 渋沢 </surname>\n<forename> 元治 </forename>\n</persname> 氏来ル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 37.76667,
+                    "lon": -122.43333,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 人 <persname corresp=\"#pers_ボンバーレン\">\n<surname> ボンバーレン </surname>\n</persname> 氏夫妻来訪ス、 <persname corresp=\"#pers_佐藤\">\n<surname> 佐藤 </surname>\n</persname> 、 <persname corresp=\"#pers_加藤\">\n<surname> 加藤 </surname>\n</persname> 、 <persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> 等ト共ニ接伴シ、庭園ヲ散歩シ茶席ニテ喫茶シ書院ニテ一場ノ談話ヲ為シ、盃ヲ挙テ同人等近日帰途ニ上ルニ付其健康ヲ <pb corresp=\"#pageB1677\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/703/full/max/0/default.jpg\" n=\"B1677\" source=\"#pageB1677\"></pb> 祝ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time> 、 <persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> 、 <persname corresp=\"#pers_横山\">\n<surname> 横山 </surname>\n</persname> 氏等ト午飧シ、共ニ自働車ニテ <placename corresp=\"#place_高輪\"> 高輪 </placename>\n<persname corresp=\"#pers_森村\">\n<surname> 森村 </surname>\n</persname> 氏邸ニ抵ル修養団ノ懇親会ニ列スル為メナリ、雨中ナルモ来会者頗ル多ク、余モ一場ノ演説ヲ為シ、夜飧畢テ <placename corresp=\"#place_三田\">\n        三田 </placename> 邸ニ立寄リ <persname corresp=\"#pers_渋沢敦子\">\n<forename> 敦子 </forename>\n</persname> ニ訓示シテ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6385306,
+                    "lon": 139.737167,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過 <placename corresp=\"#place_王子\"> 王子\n       </placename> ニ帰宿ス、修養団ノ懇親会ニハ、 <persname corresp=\"#pers_後藤\">\n<surname> 後藤 </surname>\n</persname> 男爵、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 、 <persname corresp=\"#pers_添田\">\n<surname> 添田 </surname>\n</persname> 、 <persname corresp=\"#pers_大橋\">\n<surname> 大橋 </surname>\n</persname> 氏等種々ノ貴紳来会シ、盛会ヲ極メタリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

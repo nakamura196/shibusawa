@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-08-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シ畢テ朝飧ヲ食ス、後、旅装ヲ整ヘ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:22:00",
+                    "text": "<time when=\"08:22:00\"> 八時二十二分 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> 発ノ汽車ニ搭ス、 <placename corresp=\"#place_信越地方\"> 信越\n       </placename> 地方ヲ巡回シテ女子教育ノ必要ヲ説キ、且 <orgname> 女子大学 </orgname> ノ為寄附金勧募ヲ勉ムルニ在リ、 <placename corresp=\"#place_王子\"> 王子 </placename> ヨリ <persname corresp=\"#pers_森村市左衛門\">\n<surname> 森村 </surname>\n<forename> 市左衛門 </forename>\n</persname> 、 <persname corresp=\"#pers_成瀬\">\n<surname> 成瀬 </surname>\n</persname> 校長同行ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 汽車中ニテ午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<placename corresp=\"#place_軽井沢\"> 軽井沢 </placename> ニ抵リ下車シ、先ツ三泉寮ニ於テ在学中ノ生徒ニ面会シ、且勉学ノ事ヲ訓示ス又、\n        <persname corresp=\"#pers_広岡\">\n<surname> 広岡 </surname>\n</persname> 夫人ノ寓居ヲ訪フ、後、三笠ホテルニ抵リ、更ニ <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 総理大臣ノ別業ヲ訪ヘ種々ノ談話ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> ホテルニ帰宿ス <lb></lb> 夜、冷気衣ヲ重ルニ至ル、\n        <placename corresp=\"#place_東京\"> 東京 </placename> ト気候ノ相異セル知ルヘキナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:30:00",
+                    "text": "<time when=\"22:30:00\"> 十時半\n       </time> 就寝 <lb></lb> 夕方ヨリ雷鳴アリシモ降雨ハ至テ少カリキ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

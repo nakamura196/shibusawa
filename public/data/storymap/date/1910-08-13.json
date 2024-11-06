@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-08-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、先ツ入浴シ、畢テ昨夜 <persname corresp=\"#pers_大山\">\n<surname> 大山 </surname>\n</persname> 知事ヨリノ来書ニ回答ヲ発ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 過朝飧ヲ食シ、後、来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 県吏 <persname corresp=\"#pers_前田\">\n<surname> 前田 </surname>\n</persname> 氏等ノ案内ニテ <placename corresp=\"#place_善光寺\"> 善光寺 </placename>\n       ヲ参拝ス、又、大勧進ニ抵リテ宝物ヲ一覧ス、畢テ旅宿ニ帰リ直ニ旅装ヲ整ヒ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 36.6617,
+                    "lon": 138.1877111,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_長野\"> 長野 </placename> 発ノ汽車ニ搭シテ上 <placename corresp=\"#place_諏訪\"> 諏訪\n       </placename> ニ赴ク、鉄道線路中姥捨ノ名所、 <placename corresp=\"#place_松本市\"> 松本市 </placename>\n       等アリ、此道路ハ全ク初回ノ通行ニシテ見ル物皆目ヲ怡ハスノミ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 36.238,
+                    "lon": 137.97197,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 過上 <placename corresp=\"#place_諏訪\"> 諏訪 </placename> ニ達ス、牡丹屋ニ投宿ス、 <pb corresp=\"#pageB1637\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/663/full/max/0/default.jpg\" n=\"B1637\" source=\"#pageB1637\"></pb>\n<placename corresp=\"#place_諏訪\"> 諏訪 </placename>\n       ニ接近セル地方ハ有名ノ製糸業繁盛ノ地ニシテ、比屋白壁粲然、戸々頗ル殷富ノ状アリ、蚕業ノ地方ヲ潤沢スル一見其概況ヲ知ルニ足ル、牡丹屋ニ、 <persname corresp=\"#pers_藍田\">\n<surname> 藍田 </surname>\n</persname> 、 <persname corresp=\"#pers_股野\">\n<surname> 股野 </surname>\n</persname> 氏来リ寓ス、又、浜半別荘ニハ <persname corresp=\"#pers_三島中洲\">\n<surname> 三島 </surname>\n<forename> 中洲 </forename>\n</persname> 翁モ来リテ <persname corresp=\"#pers_股野\">\n<surname> 股野 </surname>\n</persname> 氏ト共ニ観月ノ約アリト云フ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

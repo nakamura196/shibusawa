@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-11-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝早く御用達も揃ふたれハ、 <persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤 </forename>\n</persname>\n<placename corresp=\"#place_東京\"> 東京 </placename> 行之儀相達し、御書付を拝見せしむ、一同驚愕之体なり、昨夜 <persname corresp=\"#pers_平岡四郎\">\n<surname> 平岡 </surname>\n<forename> 四郎 </forename>\n</persname> お訪へ残候後事お談話す <lb></lb> 御用達共への議事お遂て、又政事庁に罷越し、来 <date when=\"1869-11-26\"> 廿六日 </date>\n       発程之儀申立る、常平倉当所務ニ付見込品々 <persname corresp=\"#pers_大久保一翁\">\n<surname> 大久保 </surname>\n<forename> 一翁 </forename>\n</persname> へ申立る、更に <persname corresp=\"#pers_平岡四郎\">\n<surname> 平岡 </surname>\n<forename> 四郎 </forename>\n</persname>\n<persname corresp=\"#pers_小栗尚三\">\n<surname> 小栗 </surname>\n<forename> 尚三 </forename>\n</persname> へ議す、一同可然旨答へしかば退出後御用達へも達し、留守中御用取扱方手続廉書可認旨を申付、一同の心得方等丁寧反復ニ申談す "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

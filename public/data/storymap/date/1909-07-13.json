@@ -1,0 +1,94 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-07-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴後、庭園ヲ散歩ス、又、日記ヲ編成ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       朝飧ヲ食シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<placename corresp=\"#place_巣鴨\"> 巣鴨 </placename> 養育院分院ニ抵リ、児童教育其他ノ事ニ関シテ <persname corresp=\"#pers_安達\">\n<surname> 安達 </surname>\n</persname> 幹事以下ノ人々ト協議ス、畢テ <placename corresp=\"#place_大塚\"> 大塚 </placename> ニ抵リ本院ヲ見分ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7337972,
+                    "lon": 139.7390889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_霞町\"> 麻布霞町 </placename> ニ <persname corresp=\"#pers_酒匂\">\n<surname> 酒匂 </surname>\n</persname> 氏ヲ訪ヒ弔詞ヲ述ヘ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、後、 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ニ抵リ書類ヲ調査ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<persname corresp=\"#pers_酒匂常明\">\n<surname> 酒匂 </surname>\n<forename> 常明 </forename>\n</persname> 氏ノ葬儀ニ会ス、後、三井集会所ニ抵リ、日清興業会社創立ノ事ニ関シテ、 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 、 <persname corresp=\"#pers_小村\">\n<surname> 小村 </surname>\n</persname> 二大臣ヨリノ招集ニ出席ス、畢テ <placename corresp=\"#place_日本橋\"> 日本橋 </placename> 倶楽部ニ抵リ\n        <orgname> 清水組 </orgname> 宴会ニ出席ス、種々ノ余興アリ、夜食前、店員ニ一場ノ訓示演説ヲ為シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時\n       </time> 散会、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,89 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-11-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、書斎ニ於テ書類ヲ整理シ、日誌ヲ編纂ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time>\n       入浴 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 朝飧ヲ喫ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<persname corresp=\"#pers_伊藤半次郎\">\n<surname> 伊藤 </surname>\n<forename> 半次郎 </forename>\n</persname> 来話ス、 <persname corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persname> 氏、 <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> 同伴来訪ス、両児ニ訓誡ヲ与ヘ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 午飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\">\n        午後一時 </time> ヨリ紅葉館ニ於テ開催スル瓦斯会社園遊会ニ赴ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 頃館ノ余興場ニ於 <pb corresp=\"#pageB1390\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/416/full/max/0/default.jpg\" n=\"B1390\" source=\"#pageB1390\"></pb> テ謝辞ヲ述ヘ、畢テ庭中ヲ散歩シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 午後五時半 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

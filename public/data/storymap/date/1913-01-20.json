@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-01-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_東敬治\">\n<surname> 東 </surname>\n<forename> 敬治 </forename>\n</persname> 氏ノ来訪ニ接ス、陽明学会ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 東洋移民会社ニ抵リ、 <placename corresp=\"#place_ブラジル\"> 伯剌西爾 </placename> 殖民会社創立ノ事ヲ協議ス、 <persname corresp=\"#pers_武井\">\n<surname> 武井 </surname>\n</persname> 、 <persname corresp=\"#pers_田\">\n<surname> 田 </surname>\n</persname> 、 <persname corresp=\"#pers_大橋\">\n<surname> 大橋 </surname>\n</persname> 、 <persname corresp=\"#pers_川田\">\n<surname> 川田 </surname>\n</persname> 諸氏来会ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": -15.783,
+                    "lon": -47.867,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト行務ヲ談ス、午飧後事務所ニ抵リ、来人ニ接シ又書類ヲ調査ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n       編纂所事務ニ付主任及顧問諸氏ヲ会シテ、第一巻仮印刷ノ分ニ付種々ノ修正意見ヲ徴ス、 <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 、 <persname corresp=\"#pers_三上\">\n<surname> 三上 </surname>\n</persname> 二氏ヨリ逐条ノ意見陳述アリ、夜飧後更ニ協議会ヲ継続シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n       散会、帰宿ス、御伝記編纂ヲ着手シテヨリ十七八年ノ歳月ヲ経過シ、玆ニ至リテ僅ニ仮印刷ノ第一巻ヲ見ルヲ得タリ、修史ノ労実ニ容易ナラサルモノアルヲ覚フ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

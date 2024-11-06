@@ -1,0 +1,96 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-04-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後庭園ヲ散歩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 朝飧ヲ畢ル、 <persname corresp=\"#pers_川田竜吉\">\n<surname> 川田 </surname>\n<forename> 竜吉 </forename>\n</persname> 、 <persname corresp=\"#pers_岡本忠蔵\">\n<surname> 岡本 </surname>\n<forename> 忠蔵 </forename>\n</persname> 二氏来リ函館船渠会社ノ相談役ヲ依頼セラル、懇望ニヨリテ之ヲ承諾ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<persname corresp=\"#pers_林権助\">\n<surname> 林 </surname>\n<forename> 権助 </forename>\n</persname> 氏ヲ <placename corresp=\"#place_富士見町\"> 富士見町 </placename> ノ宅ニ訪ヒ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 事務所ニ抵リ書類ヲ検閲ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 十時半 </time> 、サー・ <persname corresp=\"#pers_マルコム\">\n<surname> マルコム </surname>\n</persname> 氏、 <persname corresp=\"#pers_川田鷹\">\n<surname> 川田 </surname>\n<forename> 鷹 </forename>\n</persname> 氏来話ス、事業ニ関スル種々ノ意見ヲ述ヘ、曾テ <persname corresp=\"#pers_フランキー\">\n<surname> フランキー </surname>\n</persname> 氏ヨリノ来状ニ関スル事柄ヲモ談話ス、 <persname corresp=\"#pers_田中元三郎\">\n<surname> 田中 </surname>\n<forename> 元三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_戸田宇八\">\n<surname> 戸田 </surname>\n<forename> 宇八 </forename>\n</persname> 、 <persname corresp=\"#pers_山中譲三\">\n<surname> 山中 </surname>\n<forename> 譲三 </forename>\n</persname> 、 <persname corresp=\"#pers_山田昌邦\">\n<surname> 山田 </surname>\n<forename> 昌邦 </forename>\n</persname> 氏等来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 、 <persname corresp=\"#pers_島田三郎\">\n<surname> 島田 </surname>\n<forename> 三郎 </forename>\n</persname> 氏来リテ癩病予防法及回春病院ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<orgname> 第一銀行 </orgname> 重役会ヲ開ク、畢リテ事務所ニ抵リテ書状ヲ裁ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 管船局長ヲ訪ヒ\n        <persname corresp=\"#pers_福地文一郎\">\n<surname> 福地 </surname>\n<forename> 文一郎 </forename>\n</persname> 氏ノ事ヲ談ス、 <orgname> 人造肥料会社 </orgname> ノ事ニ関シ警視総監ヲ訪フモ面会ヲ得ス、東京市庁ニ抵リ <persname corresp=\"#pers_尾崎\">\n<surname> 尾崎 </surname>\n</persname> 市長ト会話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 瓢屋ニ抵リ演劇改良ノ件ニ関スル会同ニ列ス、 <persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 侯爵来会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会、 <placename corresp=\"#place_飛鳥山邸\">\n        王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

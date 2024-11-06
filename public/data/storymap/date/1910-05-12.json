@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-05-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ後、朝飧ス、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 氏来リ養育院ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 逓信大臣ヲ官舎ニ訪フテ、 <orgname> 東洋汽船会社\n       </orgname> ノ事ヲ談ス、 <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 氏同伴ス、 <persname corresp=\"#pers_内田\">\n<surname> 内田 </surname>\n</persname> 局長モ来会ス、後、有栖川宮御邸ニ伺候ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ午飧シ、後、重役会ヲ開キ要件ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n       銀行集会所ニ抵リ、東亜興業会社ノ需ニ応シテ、同業者六行会同シテ <placename corresp=\"#place_清\"> 清国 </placename>\n       塩商ニ対スル借款ノ事ヲ協議ス、畢テ <orgname> 第一銀行 </orgname> ニ抵リ、 <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 氏ト共ニ、 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 、 <persname corresp=\"#pers_大川\">\n<surname> 大川 </surname>\n</persname> 二氏ニ会見シテ <orgname> 東洋汽船会社 </orgname> ノ事ヲ談ス、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_日本橋\"> 日本橋 </placename> 倶楽部ニ抵リ、 <persname corresp=\"#pers_清水\">\n<surname> 清水 </surname>\n</persname> 氏ヨリ招宴セラレタル宴会ニ出席ス、同族及 <orgname> 第一銀行 </orgname> 員来会ス、種々余興アリ、食卓上挨拶又ハ答詞等アリテ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

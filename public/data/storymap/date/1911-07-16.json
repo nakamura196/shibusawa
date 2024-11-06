@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-07-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ、朝飧ヲ食ス、後、 <persname corresp=\"#pers_亀井忠一\">\n<surname> 亀井 </surname>\n<forename> 忠一 </forename>\n</persname> 氏外一名ノ来訪ニ接ス、又、 <persname corresp=\"#pers_西村直\">\n<surname> 西村 </surname>\n<forename> 直 </forename>\n</persname> 氏来話ス、深水十八氏来リテ正隆銀行ノ事ヲ談ス、 <persname corresp=\"#pers_萩原源太郎\">\n<surname> 萩原 </surname>\n<forename> 源太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_猪飼正雄\">\n<surname> 猪飼 </surname>\n<forename> 正雄 </forename>\n</persname> 氏等来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯ヲ <placename corresp=\"#place_早稲田\"> 早稲田 </placename> 邸ニ訪ヘ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_高輪\"> 高輪 </placename> ニ抵リ <persname corresp=\"#pers_北脇寿尾\">\n<surname> 北脇 </surname>\n<forename> 寿尾 </forename>\n</persname> ノ病ヲ訪ヘ、其家政ニ関シテ <persname corresp=\"#pers_友吉\">\n<surname> 友吉 </surname>\n</persname> 夫婦ヘ訓戒ス、畢テ午飧ヲ食シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6385306,
+                    "lon": 139.737167,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 事務所ニ抵リ <persname corresp=\"#pers_金井次郎\">\n<surname> 金井 </surname>\n<forename> 次郎 </forename>\n</persname> ニ訓示ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宅シ、後、日記ヲ編成シ演説筆記ヲ修正ス、夜飧後、新聞紙ヲ読マシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

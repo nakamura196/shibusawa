@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-01-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 少曇、西風強ク寒気甚シ、朝、在 <placename corresp=\"#place_東京\"> 東京 </placename>\n<persname corresp=\"#pers_押川包義\">\n<surname> 押川 </surname>\n<forename> 包義 </forename>\n</persname> 《（ <persname corresp=\"#pers_押川方義\">\n<surname> 押川 </surname>\n<forename> 方義 </forename>\n</persname> ）》、 <persname corresp=\"#pers_本多庸一\">\n<surname> 本多 </surname>\n<forename> 庸一 </forename>\n</persname> 両氏ノ書状ニ接ス、蓋シ今日 <placename corresp=\"#place_大磯町\"> 大磯 </placename> ニ来訪スル事ヲ報スルモノナリ、\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<persname corresp=\"#pers_岩崎\">\n<surname> 岩崎 </surname>\n</persname> 氏ヲ其別業ニ訪ヒ閑談数刻ニシテ帰寓、午飯後、 <persname corresp=\"#pers_押川包義\">\n<surname> 押川 </surname>\n<forename> 包義 </forename>\n</persname> 、 <persname corresp=\"#pers_本多庸一\">\n<surname> 本多 </surname>\n<forename> 庸一 </forename>\n</persname> 二氏来ル、相伴フテ <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 侯爵邸ヲ訪フモ一昨日ヨリ <placename corresp=\"#place_東京\"> 東京 </placename> ニ赴カレシ由ニテ面会ヲ得ス、依テ三人更ニ\n        <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯爵邸ヲ訪ヒ、彼ノ <placename corresp=\"#place_大韓民国\"> 韓国 </placename> ニ対スル教育ノ事ヲ談話シ、他日\n        <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 侯ニモ詢リテ一会ヲ催スヘキヲ約ス、 <placename corresp=\"#place_京都\"> 京都 </placename>\n       同志社ニ生スル物議ニ付テ、伯ハ爾来米国宣教師ト談判セシ顚末及 <persname corresp=\"#pers_横井\">\n<surname> 横井 </surname>\n</persname> 、 <persname corresp=\"#pers_三好\">\n<surname> 三好 </surname>\n</persname> 諸氏ニ説示セラレタル趣旨ヲ談話セラル、 <persname corresp=\"#pers_近藤廉平\">\n<surname> 近藤 </surname>\n<forename> 廉平 </forename>\n</persname> 氏来リ会ス、郵船会社特定航路ノ事ヲ話ス、 <persname corresp=\"#pers_岩崎弥之助\">\n<surname> 岩崎 </surname>\n<forename> 弥之助 </forename>\n</persname> 男モ来リ会シテ時事数番ヲ話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 頃 <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 邸ヲ辞シ <persname corresp=\"#pers_山縣有朋\">\n<surname> 山県 </surname>\n</persname> 侯爵ノ小陶庵ヲ訪フ、不在ニテ逢ハス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

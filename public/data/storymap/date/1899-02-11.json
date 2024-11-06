@@ -1,0 +1,73 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-02-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<placename corresp=\"#place_巣鴨\"> 巣鴨 </placename> ナル <persname corresp=\"#pers_徳川慶喜\"> 一位公\n       </persname> 邸ニ伺候シ、御身上ニ関スル要件ヲ陳上ス、 <persname corresp=\"#pers_新村猛雄\">\n<surname> 新村 </surname>\n<forename> 猛雄 </forename>\n</persname> ト会話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7337972,
+                    "lon": 139.7390889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_神田\"> 神田 </placename>\n<orgname> 開花楼 </orgname> ニ於テ埼玉県人学友会ニ参席ス、来会者凡七八十人許、席上学問ト事業ノ関係ニ就テト云フ問題ヲ以テ一場ノ演説ヲ為ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 帰宿、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏来リ特定航路ノ事ヲ内話ス、此夕書ヲ裁シテ <persname corresp=\"#pers_近藤\">\n<surname> 近藤 </surname>\n</persname> 郵船会社長ニ急送ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

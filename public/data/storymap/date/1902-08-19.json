@@ -1,0 +1,86 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-08-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<placename corresp=\"#place_ロンドン\"> 倫敦 </placename> ノ旅宿ヲ発シチエイリング・クロスニ抵リ汽車ニ搭ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 51.50778,
+                    "lon": -0.12806,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> ドウバーニ抵リ直ニ汽船ニ乗組ム、是レ <placename corresp=\"#place_ベルギー\"> 白耳義国\n       </placename> オステンドニ赴ク便船ナリ、船中ニテ <placename corresp=\"#place_ベルギー\"> 白耳義 </placename>\n       ナル万国東洋会社専務理事 <persname corresp=\"#pers_コロネル_タイス\">\n<forename> コロネル </forename> ・ <surname> タイス </surname>\n</persname> 、東洋主任 <persname corresp=\"#pers_フランキー\">\n<surname> フランキー </surname>\n</persname> 、書記長カチイー等三氏ニ邂逅ス、蓋シ三氏《（ハカ）》ノ会社用ノ為メ頃日来 <placename corresp=\"#place_ロンドン\"> 倫敦\n       </placename> ニ来リテ社用果テヽ帰国スルモノナリ、依テ <placename corresp=\"#place_ベルギー\"> 白国 </placename>\n       滞在中ノ都合ヲ三氏ニ協議ス、汽船 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 51.50778,
+                    "lon": -0.12806,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_オーステンデ\"> オステンド </placename> 着、直ニ上陸シテ行李ノ検査ヲ畢リ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 51.233,
+                    "lon": 2.917,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 過同地発ノ汽車ニテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:05:00",
+                    "text": "<time when=\"18:05:00\"> 六時五分 </time>\n<placename corresp=\"#place_ベルギー\"> 白耳義国 </placename> ブリツセル着、汽車場ニハ <persname corresp=\"#pers_諸井六郎\">\n<surname> 諸井 </surname>\n<forename> 六郎 </forename>\n</persname> 、 <persname corresp=\"#pers_木島\">\n<surname> 木島 </surname>\n</persname> 某及二三ノ本邦人来リ迎フ、ホテル・デ・ベルビユト云フ同府有数ノ旅宿ニ投ス、夜、 <persname corresp=\"#pers_加藤\">\n<surname> 加藤 </surname>\n</persname> 公使来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

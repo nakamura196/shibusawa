@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-08-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後病褥ヲ設ケ、其中ニ在テ新聞紙ヲ一覧ス、 <persname corresp=\"#pers_小野金六\">\n<surname> 小野 </surname>\n<forename> 金六 </forename>\n</persname> 氏来訪アリシモ病ヲ以テ面会ヲ謝絶ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time> 児輩ト共ニ朝飧ヲ畢リ、服薬吸入等病ヲ療スルニ忙シ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> 来ル、是ヨリ先 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 来話ス、其帰ルニ臨ンテ <orgname> 第一銀行 </orgname>\n<persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ニ伝言シ遣ス、午飧後、揮毫ヲ試ム <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 過 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ニ要務ヲ談シ一覧済ノ書類ヲ付托ス、明日米国大使送別会ノ事ニ関シ <persname corresp=\"#pers_尾崎\">\n<surname> 尾崎 </surname>\n</persname> 及 <persname corresp=\"#pers_望月\">\n<surname> 望月 </surname>\n</persname> 氏等ニ伝語ス <lb></lb> 夜飧後、 <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> ノ小説ヲ読ムヲ聞ク <lb></lb> 此日、 <orgname> 人造肥料会社 </orgname> 紀念祭ノ為出席スヘキ筈ナリシモ、病ノ為謝絶ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

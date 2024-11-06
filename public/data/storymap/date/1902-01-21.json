@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-01-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝餐ヲ畢リ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n       養育院ニ抵リ常設委員会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 煉瓦会社株主総会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ抵リテ午飧ス、 <persname corresp=\"#pers_萩原源太郎\">\n<surname> 萩原 </surname>\n<forename> 源太郎 </forename>\n</persname> 来ル、白耳義人 <persname corresp=\"#pers_オツペナール\">\n<surname> オツペナール </surname>\n</persname> 氏来話ス、近日 <placename corresp=\"#place_上海市\"> 上海 </placename> 行ノ由ナルニ付 <persname corresp=\"#pers_フランキー\">\n<surname> フランキー </surname>\n</persname> 氏ヘ伝語ス、 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 公使来ル、明後日発送 <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n       ニ帰任スルニ付留別ノ為メ来訪セラレシナリ、依テ <orgname> 第一銀行 </orgname> ニ関スル事務及京釜鉄道会社関係ノ事、及稷山鉱業ノ事等ヲ談話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time> マテ種々ノ書類ヲ整理シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 七時半 </time> ヨリ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ、 <persname corresp=\"#pers_ミツチヨル\">\n<surname> ミツチヨル </surname>\n</persname> 氏ノ留別宴会ニ出席ス、 <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 宮相、 <persname corresp=\"#pers_児玉\">\n<surname> 児玉 </surname>\n</persname> 陸軍、其外朝野数十人来会ス、食卓上一場ノ演説ヲ為シテ、 <persname corresp=\"#pers_ミツチヨル\">\n<surname> ミツチヨル </surname>\n</persname> 氏ヘノ謝詞トス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過 <placename corresp=\"#place_深川\"> 深川\n       </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

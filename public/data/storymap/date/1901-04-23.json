@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-04-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前書類ヲ調査シ <persname corresp=\"#pers_堀越善重郎\">\n<surname> 堀越 </surname>\n<forename> 善重郎 </forename>\n</persname>\n<placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 出張先ヘ一書ヲ裁シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時\n       </time> 商業会議所ニ抵リ京坂鉄道発起人会ニ出席ス、 <persname corresp=\"#pers_加東徳三\">\n<surname> 加東 </surname>\n<forename> 徳三 </forename>\n</persname> 、 <persname corresp=\"#pers_渡邊嘉一\">\n<surname> 渡辺 </surname>\n<forename> 嘉一 </forename>\n</persname> 、 <persname corresp=\"#pers_佐分利一嗣\">\n<surname> 佐分利 </surname>\n<forename> 一嗣 </forename>\n</persname> 、 <persname corresp=\"#pers_林策一郎\">\n<surname> 林 </surname>\n<forename> 策一郎 </forename>\n</persname> 出席ス、善後方案ヲ議決シ畢テ <orgname> 第一銀行 </orgname> ニ出勤ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n       銀行集会所ニ抵リ小切手納税ノ調査研究会ヲ開ク、梅、 <persname corresp=\"#pers_土方\">\n<surname> 土方 </surname>\n</persname> 両法学博士、 <persname corresp=\"#pers_若槻\">\n<surname> 若槻 </surname>\n</persname> 、 <persname corresp=\"#pers_片山\">\n<surname> 片山 </surname>\n</persname> 大蔵省書記官、 <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 、 <persname corresp=\"#pers_池田\">\n<surname> 池田 </surname>\n</persname> 其他ノ委員来会シ種々討論ノ後、大体ニ於テハ実施ヲ可トスルノ説多クシテ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会ス、此日仁川\n        <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> ニ一書ヲ送リ借款ニ関スル近状ヲ通知ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-01-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、先ツ入浴ス、畢テ日記ヲ編成シ書類ヲ調査ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時\n       </time> 過キ朝飧ヲ食ス、食後新聞紙ヲ一覧シ夫ヨリ書状ヲ裁ス、鹿児島学校ニ於ル <persname corresp=\"#pers_岩崎\">\n<surname> 岩崎 </surname>\n</persname> 氏等四名、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n<persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 、 <persname corresp=\"#pers_太田\">\n<surname> 太田 </surname>\n</persname> 、 <persname corresp=\"#pers_西村\">\n<surname> 西村 </surname>\n</persname> 、統監府ニテハ <persname corresp=\"#pers_荒井\">\n<surname> 荒井 </surname>\n</persname> 氏、其他 <persname corresp=\"#pers_香川\">\n<surname> 香川 </surname>\n</persname> 皇后宮大夫、 <persname corresp=\"#pers_高田早苗\">\n<surname> 高田 </surname>\n<forename> 早苗 </forename>\n</persname> 、 <persname corresp=\"#pers_渋谷正吉\">\n<surname> 渋谷 </surname>\n<forename> 正吉 </forename>\n</persname> 氏等都テ拾通余ニ、昨日修正セシ筆記類二冊及不用書類ヲ添ヘ、 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> ニ詳細申遣シテ其郵送ヲ取扱ハシム <lb></lb>\n<persname corresp=\"#pers_香川\">\n<surname> 香川 </surname>\n</persname> 氏ヘ送リタル書状ハ、曾テ同氏ト協議シテ <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 前公叙勲ノ事ヲ其筋ヘ請願スル為メ其願書草案ヲ添ヘタルナリ、夜ニ入リテ読書又ハ遊戯ニ閑ヲ消ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

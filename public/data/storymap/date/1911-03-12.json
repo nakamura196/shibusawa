@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-03-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シテ、朝飧ヲ食ス、後、二三ノ来客ニ接ス、 <placename corresp=\"#place_朝鮮\">\n        朝鮮 </placename>\n<placename corresp=\"#place_京城府\"> 京城 </placename> ヨリ出京セル <persname corresp=\"#pers_徳久\">\n<surname> 徳久 </surname>\n</persname> 氏外二人来リテ製麻工業ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<persname corresp=\"#pers_阪谷芳郎\">\n<surname> 阪谷 </surname>\n<forename> 芳郎 </forename>\n</persname> 邸ニ抵リ、 <persname corresp=\"#pers_阪谷琴子\">\n<forename> 琴子 </forename>\n</persname> モ共ニ家事ヲ談ス、午飧後、 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 侯爵邸ヲ訪ヒ要務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<placename corresp=\"#place_三田\"> 三田 </placename> 邸ニ抵リ、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢敦子\">\n<forename> 敦子 </forename>\n</persname> ト共ニ其修身上ニ関シテ懇切ノ訓戒ヲ為ス、 <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> 氏列席ス、畢テ一同夜飧ヲ共ニス、是ヨリ先、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏、 <persname corresp=\"#pers_阿部吾市\">\n<surname> 阿部 </surname>\n<forename> 吾市 </forename>\n</persname> 、 <persname corresp=\"#pers_高橋波太郎\">\n<surname> 高橋 </surname>\n<forename> 波太郎 </forename>\n</persname> ト同行来訪シテ、粉害事件ニ関スル協議アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過 <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、 <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 氏来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

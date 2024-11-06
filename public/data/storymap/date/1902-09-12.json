@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-09-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<placename corresp=\"#place_ガール_サン_ラザル\"> ガール・サン・ラザル </placename> ニ於テ汽車ニ搭シガイヨンナル国有ノ感化場ヲ一覧ス、\n        <persname corresp=\"#pers_林忠正\">\n<surname> 林 </surname>\n<forename> 忠正 </forename>\n</persname> 、 <persname corresp=\"#pers_井上金治郎\">\n<surname> 井上 </surname>\n<forename> 金治郎 </forename>\n</persname> 二氏同行ス、汽車ノ行程二時間余ヲ費シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_ガイヨン\"> ガイヨン </placename>\n       ニ抵リ更ニ馬車ニテ感化場ニ抵ル、行程凡ソ壱里余アリト云フ、場ハ皆煉化石ヲ以テ構造シ数棟ニ分レテ設置ス、収容ノ児童ハ悉ク男子ニシテ父母ナク親戚ナク悪習ニ感染セシ少年ナリ、十二歳ヨリ二十歳未満ヲ以テ制限スト云フ、在場ノ総人数ハ三百人ナリ、都テ農務、工務及簡易ノ文学、算術等ヲ教授スト云フ、其設備及方法、政府ノ施為ニ属スル為メ極テ鄭重ナリ、経費ハ拾万フランクノ予算ニシテ、場ニ属スル土地三百ヘクター即凡我三百町歩ヨリ生スル農産モ皆場ニ於テ費消スルノ方法ナリト云フ、懲艾ノ制度ハ減食、労役、入監等ノ差等アリ、場長ニ於テ決行ス、而シテ場長ハ殆ント在場少年ノ親ノ如キ有様ナリ、場長ノ名ヲ\n        <persname corresp=\"#pers_ブラオン\">\n<surname> ブラオン </surname>\n</persname> ト云フ、其官舎ニ於テ余等ノ一行ニ午飧ヲ饗シ且感化実施ノ手続又ハ其注意等ヲ詳話ス、真ニ心ヲ尽セル所アリ、各室ノ装置及授業ノ順序又ハ農場等ヲモ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 過カイヨン発ノ汽車ニテ帰宿ス、此夜食後ニ曲馬ヲ一覧ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

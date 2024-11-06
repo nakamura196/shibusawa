@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-02-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前京釜鉄道会社ノ事ニ関シ <placename corresp=\"#place_東北地方\"> 東北 </placename> 又ハ <placename corresp=\"#place_北越\"> 北越 </placename> 地方有力者ニ書状ヲ発セシメ株式加入ノ事ヲ勧募ス、 <placename corresp=\"#place_熊野沢\"> 熊野沢 </placename> 硫黄坑業ノ事ニ関シ <persname corresp=\"#pers_須永\">\n<surname> 須永 </surname>\n</persname> ノ来状ヲ閲ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

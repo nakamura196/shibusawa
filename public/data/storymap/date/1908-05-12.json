@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-05-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time>\n       起床、入浴シ、畢テ朝飧ヲ食ス、後、新聞紙ヲ一覧ス、此日ハ調査スヘキ書類アルヲ以テ出勤ヲ見合ハセ、終日家ニ在テ之ヲ整理ス、 <persname corresp=\"#pers_仙石貢\">\n<surname> 仙石 </surname>\n<forename> 貢 </forename>\n</persname> 氏等ト <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ於テ会見ノ約アリシモ、電話ニテ謝絶シ、出席セス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

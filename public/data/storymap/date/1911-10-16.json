@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-10-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、 <persname corresp=\"#pers_細野\">\n<surname> 細野 </surname>\n</persname> 氏及地方人士来訪ス、朝飧畢テ下城氏《（ <persname corresp=\"#pers_下条\">\n<surname> 下条 </surname>\n</persname> 氏）》ノ染織工場ヲ一覧ス、宗家支家共ニ工場ヲ有シテ織物ノ工業ニ精通セリ、一覧畢テ下城ノ家ニ於テ茶菓ノ饗アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\">\n        午前十一時 </time> 停車場ニ抵リ、地方人送別ノ為ニ来会セル多数人士ニ告別シテ、 <persname corresp=\"#pers_細野\">\n<surname> 細野 </surname>\n</persname> 、下城、堀川等ノ諸氏ト共ニ <placename corresp=\"#place_太田\"> 太田 </placename>\n       駅ニ抵リ、同地有志者ノ来リ迎フ者ニ誘ハレテ大光院前ナル会堂ニ於テ午飧ヲ饗セラル、 <persname corresp=\"#pers_葉住\">\n<surname> 葉住 </surname>\n</persname> 某、地方人ヲ代表シテ歓迎ノ詞ヲ述ヘラル、依テ答辞ヲ為シ、食事畢テ大光院及呑竜堂ヲ参詣シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_太田\"> 太田 </placename> 発《（分）》ノ汽車ニ搭シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:30:00",
+                    "text": "<time when=\"15:30:00\"> 三時半 </time>\n<placename corresp=\"#place_久喜\"> 久喜 </placename> 駅ニテ <placename corresp=\"#place_東武\"> 東武\n       </placename> 線ヲ官線ニ乗替ヘ大宮其他ノ各駅ヲ経テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 過 <placename corresp=\"#place_王子\"> 王子 </placename> 着、 <persname corresp=\"#pers_細野\">\n<surname> 細野 </surname>\n</persname> 氏、下城氏等ハ停車場ニ分袂シ、帰宅後午飧《（マヽ）》ス <lb></lb> 夜、新聞紙ヲ読マシム <lb></lb>\n<persname corresp=\"#pers_蘆田均\">\n<surname> 蘆田 </surname>\n<forename> 均 </forename>\n</persname> 氏来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

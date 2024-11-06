@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-11-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ来人ニ接シ書類ヲ調査ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\">\n        正午 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename> 水交社ニ抵リ、 <persname corresp=\"#pers_斎藤\">\n<surname> 斎藤 </surname>\n</persname> 海軍大臣ノ催シタル茶話会ニ出席ス、食卓上一言ノ挨拶ヲ述ヘ、 <placename corresp=\"#place_アメリカ合衆国\"> 米国\n       </placename>\n       艦隊来航ニ関スル大臣ノ謝詞ニ答ス、其意蓋シ艦隊ヲ歓迎セシハ日米両国ノ交情ヲ重シテ従事セシモノニシテ、国民ノ義務トスヘケレハ敢テ謝詞ヲ受クルノ理由ナシ、只海軍省ニ於テ百事細心ニ処理セラレ満足ノ結果ヲ見タルハ、共ニ慶賀スヘキ所ナリト云フ趣旨ナリ、畢テ夕\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> 帰宿ス <lb></lb> 午前、 <placename corresp=\"#place_本郷\">\n        本郷 </placename>\n<placename corresp=\"#place_弓町\"> 弓町 </placename> ニ <persname corresp=\"#pers_古市公威\">\n<surname> 古市 </surname>\n<forename> 公威 </forename>\n</persname> 氏ヲ訪ヘ、日英水力事業ニ関シテ種々ノ談話ヲ為ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

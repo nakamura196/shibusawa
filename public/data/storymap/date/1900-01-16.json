@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-01-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前海辺ヲ散歩シテ鴫立沢近傍ニ到ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<persname corresp=\"#pers_高島義恭\">\n<surname> 高島 </surname>\n<forename> 義恭 </forename>\n</persname> 氏来訪、 <pb corresp=\"#pageB1121\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/147/full/max/0/default.jpg\" n=\"B1121\" source=\"#pageB1121\"></pb>\n<placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n<placename corresp=\"#place_釜山港\"> 釜山港 </placename>\n       埋立地ノ事ニ関シテ依頼アリ、依テ其企望ノ要旨ヲ承リ、且京釜鉄道会社ノ現況ヲ示ス埋立ニ付テノ設計図ヲ預リ置キ、近日創立委員会ニ於テ評議ヲ尽シテ回答スヘキ旨ヲ約ス、 <persname corresp=\"#pers_高島\">\n<surname> 高島 </surname>\n</persname> 氏ハ <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 権助ヨリノ添書ヲ携帯ス <lb></lb>\n<persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏ヨリ外国人招宴ノ事ニ付テ電報アリ、依テ <date when=\"1900-01-18\"> 十八日 </date> ヲ以テ回答ヲ発ス、夕方 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> ヨリ再応電報アリ、 <date evidence=\"year inferenced, month\" when=\"1900-01-18\"> 十八日 </date>\n"
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.10389,
+                    "lon": 129.07889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time> ニ招宴ノ事ヲ定メタル旨報シ来ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,66 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-07-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時三十分 </time> 旅宿ヲ発シパーチントン停車場ニ抵リ汽車ニ搭ス蓋シ此日ハ在 <placename corresp=\"#place_ロンドン\"> 倫敦 </placename> 我邦各商店ノ人々ヨリ <placename corresp=\"#place_テムズ川\"> テームス\n       </placename> 上流ニ於テ川遊ノ興ヲ催フシ、余等ヲ饗スル為メナリ、来客ハ <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 公使夫妻、 <persname corresp=\"#pers_渡辺国武\">\n<surname> 渡辺 </surname>\n<forename> 国武 </forename>\n</persname> 子父子、余等一行ナリ、又主人トシテハ <persname corresp=\"#pers_渡辺専次郎\">\n<surname> 渡辺 </surname>\n<forename> 専次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_青木鉄太郎\">\n<surname> 青木 </surname>\n<forename> 鉄太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_門野重九郎\">\n<surname> 門野 </surname>\n<forename> 重九郎 </forename>\n</persname> （ <persname corresp=\"#pers_根岸練次郎\">\n<surname> 根岸 </surname>\n<forename> 練次郎 </forename>\n</persname> ハ病気ニテ欠席ス）、 <persname corresp=\"#pers_柳谷\">\n<surname> 柳谷 </surname>\n</persname>\n       某及郵船会社雇外国人等合計二十四五人ナリ、汽車一時間計ニシテテームス河辺ニ達ス、夫ヨリ馬車ヲ僦フテ数丁許ニシテ河岸ニ抵リ遊船ニ乗組ム、遊船ハ電気ニテ航行スルモノニシテ極テ美麗且愉快ナリ、河ノ両岸ハ倫敦人士ノ別荘多ク種々ノ草花妍ヲ競フ、河ノ上流ニ従ヒ処々ニ閘門アリテ船ヲ通ス、蓋シ水流充分ナラサルカ為メ閘ヲ以テ水ヲ高メテ船ヲ通スルナリ船上流ニ遡ルコト凡弐十哩計ニシテ転シテ下流ニ就キ再ヒ汽車ニ搭シテ\n        <placename corresp=\"#place_ロンドン\"> 倫敦 </placename> ニ帰リシハ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 51.50778,
+                    "lon": -0.12806,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n       ナリ、此日船中ニテ午飧シ時々甲板ニ上リテ四方ヲ眺望シ又ハ船中ニ在テ放談スル等頗ル豪遊ナリキ、 <placename corresp=\"#place_ロンドン\"> 倫敦\n       </placename> 帰着ノ後、林、 <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> 両人ト別レ <persname corresp=\"#pers_渡辺専次郎\">\n<surname> 渡辺 </surname>\n<forename> 専次郎 </forename>\n</persname> 氏ノ案内ニテ三井倶楽部ニ抵リ <pb corresp=\"#pageB1255\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/281/full/max/0/default.jpg\" n=\"B1255\" source=\"#pageB1255\"></pb> 日本料理ノ夜餐ヲ饗セラル、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 51.50778,
+                    "lon": -0.12806,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

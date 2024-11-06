@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-11-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後入浴シ、畢テ庭園ヲ散歩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time>\n       朝飧ヲ食シ、来人ニ接ス、後、書類ヲ調査ス、午飧後、有栖川宮御邸ニ伺侯《（候）》シ、慈恵会ノ事ニ関シ妃殿下ヨリ種々ノ御談話アリタリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\">\n        午前十一時半 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ後、 <placename corresp=\"#place_築地\"> 築地 </placename> ニ於テ午飧ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 午後二時半 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宅ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 両公爵、 <persname corresp=\"#pers_三上\">\n<surname> 三上 </surname>\n</persname> 、 <persname corresp=\"#pers_萩野\">\n<surname> 萩野 </surname>\n</persname> 、 <persname corresp=\"#pers_小林\">\n<surname> 小林 </surname>\n</persname> 、 <persname corresp=\"#pers_江間\">\n<surname> 江間 </surname>\n</persname> ノ諸氏来リ会シ、公爵伝記ノ事ニ関シ協議ス夜飧後更ニ雑話ニ更ヲ重ネ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 散会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

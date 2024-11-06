@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-01-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 昨夜ノ雨全ク晴レテ朝来一天藍ノ如シ、起床後日誌ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time> 朝飧ヲ畢ル、食後新聞紙ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 午前十時半 </time> 事務所ニ抵リ、 <persname corresp=\"#pers_長崎省吾\">\n<surname> 長崎 </surname>\n<forename> 省吾 </forename>\n</persname> 氏ノ来訪ニ接シ英国皇族歓迎ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧シ、食後又事務所ニ於テ書状ヲ裁ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n       札幌麦酒会社重役会ヲ開キ要務ヲ議決ス <lb></lb>\n<persname corresp=\"#pers_戸田宇八\">\n<surname> 戸田 </surname>\n<forename> 宇八 </forename>\n</persname> 来ル、英国皇族歓迎ノ事ニ付集会ノ通知ヲ為サシム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 過 <placename corresp=\"#place_浜町\"> 浜町 </placename> ニ立寄リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 過 <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ヘ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

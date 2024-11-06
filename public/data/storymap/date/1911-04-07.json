@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-04-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time>\n       起床、半身浴ヲ為シ後朝飧ス、畢テ来人ニ接ス、此日ハ度量衡ニ関スル会合ニ出席シテ演説スルノ約アリシモ、風邪気ナルニヨリ之ヲ謝絶ス、又、午後 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯庭園ニ園遊会ノ案内アリシモ之ヲ謝ス、午飧後、事務所ニ抵リ事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename>\n<orgname> 精養軒 </orgname> ニ抵リ <persname corresp=\"#pers_渋沢義一\">\n<surname> 渋沢 </surname>\n<forename> 義一 </forename>\n</persname> ノ婚儀披露会ニ出席ス、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 、 <persname corresp=\"#pers_明石\">\n<surname> 明石 </surname>\n</persname> 夫妻同伴ス、新夫婦披露ノ為来賓ニ対シテ一場ノ挨拶ヲ演ヘ、畢テ同所ヲ辞シ、 <placename corresp=\"#place_小石川\"> 小石川 </placename>\n<placename corresp=\"#place_原町\"> 原町 </placename>\n<persname corresp=\"#pers_阪谷芳郎\">\n<surname> 阪谷 </surname>\n<forename> 芳郎 </forename>\n</persname> 宅ニ抵リ里開キノ賀筵ニ列席ス、洋食卓上ニ於テ新夫婦ニ対シ訓示ノ言ヲ述ヘテ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会、帰宿ス\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

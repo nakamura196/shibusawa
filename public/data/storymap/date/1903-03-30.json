@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-03-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢リテ書類ヲ調査ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ養育院ニ抵リ慈善会開設ノ事ヲ協議シ、畢テ院内ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 宅ニ抵ル、東京市街鉄道会社ト電車鉄道ト合併ノ件ニ関シ <persname corresp=\"#pers_雨宮\">\n<surname> 雨宮 </surname>\n</persname> 、 <persname corresp=\"#pers_野中\">\n<surname> 野中 </surname>\n</persname> 氏等ト談話ス、京釜鉄道会社 <persname corresp=\"#pers_福田\">\n<surname> 福田 </surname>\n</persname> 氏来ル、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 七時半 </time>\n       外務大臣官舎ニ抵リ其招宴ニ応ス、加奈多農務大臣シトニーヒツシヤー氏及英国公使等来会ス、 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 総理、 <persname corresp=\"#pers_平田\">\n<surname> 平田 </surname>\n</persname> 、 <persname corresp=\"#pers_菊地\">\n<surname> 菊地 </surname>\n</persname> 《（ <persname corresp=\"#pers_菊池\">\n<surname> 菊池 </surname>\n</persname> ）》ノ諸大臣モ来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 午後十時 </time> 宴散シテ <placename corresp=\"#place_深川\"> 深川 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

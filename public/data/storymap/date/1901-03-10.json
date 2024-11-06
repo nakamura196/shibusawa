@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-03-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前、 <persname corresp=\"#pers_長谷川\">\n<surname> 長谷川 </surname>\n</persname> 某来ル、 <persname corresp=\"#pers_高野積成\">\n<surname> 高野 </surname>\n<forename> 積成 </forename>\n</persname> 来ル、葡萄酒ノ事ヲ談ス、 <persname corresp=\"#pers_木内善兵衛\">\n<surname> 木内 </surname>\n<forename> 善兵衛 </forename>\n</persname> 来ル、野沢倉庫会社ヘ金融ノ事ヲ依頼セラル、 <persname corresp=\"#pers_岩出惣兵衛\">\n<surname> 岩出 </surname>\n<forename> 惣兵衛 </forename>\n</persname> 、 <persname corresp=\"#pers_竹沢太一\">\n<surname> 竹沢 </surname>\n<forename> 太一 </forename>\n</persname> 諸氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<persname corresp=\"#pers_浅田正文\">\n<surname> 浅田 </surname>\n<forename> 正文 </forename>\n</persname> 氏ト谷ノ宅ヲ訪ヒ其催ス処ノ茶事ニ会ス、 <persname corresp=\"#pers_朝吹英二\">\n<surname> 朝吹 </surname>\n<forename> 英二 </forename>\n</persname> 、 <persname corresp=\"#pers_平岡浩太郎\">\n<surname> 平岡 </surname>\n<forename> 浩太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_高橋義雄_(茶人)\">\n<surname> 高橋 </surname>\n<forename> 義雄 </forename>\n</persname> 諸氏来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 散会、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵ル、十日会ニ列スルナリ、 <persname corresp=\"#pers_菊地\">\n<surname> 菊地 </surname>\n</persname> 、 <persname corresp=\"#pers_馬越\">\n<surname> 馬越 </surname>\n</persname> 、 <persname corresp=\"#pers_岩出\">\n<surname> 岩出 </surname>\n</persname> ノ諸氏来会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

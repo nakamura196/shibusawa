@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-08-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後入浴シ、畢テ新聞紙ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 七時半 </time> 朝飧ヲ食ス、食後書類ヲ調査ス <lb></lb>\n       終日雨降リテ客舎無聊ナリ、銀行発達史ノ修正ニ尽力シ、午後、児童ニ読書セシム <lb></lb> 午後ヨリ腹部ニ痛ヲ覚フ、夜ニ入ルモ未タ全愈セス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-01-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、半身浴ヲ為シテ朝飧ヲ食ス、後、一雑誌記者ノ来訪ニ接ス、 <persname corresp=\"#pers_井上正之\">\n<surname> 井上 </surname>\n<forename> 正之 </forename>\n</persname> 氏来《（ <persname corresp=\"#pers_井口正之\">\n<surname> 井口 </surname>\n<forename> 正之 </forename>\n</persname> 氏）》リ百話ノ編纂ニ付談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> ヲ訪ヘ <persname corresp=\"#pers_阪谷琴子\">\n<forename> 琴子 </forename>\n</persname> ト家事ヲ談ス、又、 <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 家ヲ訪フテ午飧シ <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 夫妻ト種々ノ談話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<placename corresp=\"#place_東京\"> 東京 </placename>\n       市ニ市長ヲ訪問シ、養育院ニ於テ肺病患者病院別置ノ事及労働紹介所ノ事、模範的貸長屋等ノ事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 鉄道院ニ抵リ、\n        <persname corresp=\"#pers_平井\">\n<surname> 平井 </surname>\n</persname> 副総裁ニ面会シテ <orgname> 国学院 </orgname> ノ地所買上ノ事、汽車会社ノ事及喜賓会ニ関スル事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 事務所ニ於テ、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_門野\">\n<surname> 門野 </surname>\n</persname> 氏等来会シ <placename corresp=\"#place_支那\"> 支那 </placename> 鉄道貸金ノ談アリ、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏来会ス、 <persname corresp=\"#pers_伊藤伝七\">\n<surname> 伊藤 </surname>\n<forename> 伝七 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_阪谷芳郎\">\n<surname> 阪谷 </surname>\n<forename> 芳郎 </forename>\n</persname> 氏来話ス、 <placename corresp=\"#place_支那\"> 支那 </placename> 銀行設立ノ事ニ付種々協議アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 五時半 </time> 交詢社ニ抵リ時事新報義勇表奨大会委員会ニ出席ス、林伯、 <persname corresp=\"#pers_福沢捨次郎\">\n<surname> 福沢 </surname>\n<forename> 捨次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_豊川良平\">\n<surname> 豊川 </surname>\n<forename> 良平 </forename>\n</persname> 氏来会ス、畢テ夜飧ヲ為シ、更ニ銀行集会所ニ抵リ、手形交換所新年会ニ出席シ、食卓上ニテ一場ノ謝詞ヲ述ヘ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時\n       </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

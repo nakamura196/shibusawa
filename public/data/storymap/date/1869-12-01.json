@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-12-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 早朝 <placename corresp=\"#place_吉原\"> 吉原 </placename> を発し、 <placename corresp=\"#place_原宿\"> 原宿\n       </placename> にて <persname corresp=\"#pers_植松与右衛門\">\n<surname> 植松 </surname>\n<forename> 与右衛門 </forename>\n</persname> といふ者の名園を一覧す <lb></lb>\n<pb corresp=\"#pageB1046\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/72/full/max/0/default.jpg\" n=\"B1046\" source=\"#pageB1046\"></pb>\n<lb></lb> 有詩 <lb></lb> 遺子何須書五車。慣家有法又堪誇。世間経年多少紛更事。不到園中濃淡花。 <lb></lb>\n<placename corresp=\"#place_沼津\"> 沼津 </placename> にて午餐、同所に知人の多けれど、心せかるゝまゝ其儘打過ぬ、薄暮三島駅に至り投宿 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

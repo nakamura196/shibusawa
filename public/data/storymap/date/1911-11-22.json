@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-11-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、半身浴ヲナシテ後朝飧ヲ食ス、後、 <persname corresp=\"#pers_大井\">\n<surname> 大井 </surname>\n</persname> 、台二氏来リ <orgname> 埼玉学生誘掖会 </orgname> ノ事ヲ談ス、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 氏来リ養育院ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_本郷\"> 本郷 </placename> ニテ知人ヲ訪フ、午飧後、事務所ニ抵リテ来人ニ接シ事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 頃ヨリ <placename corresp=\"#place_日本橋\"> 日本橋 </placename> 倶楽部ニ抵リ\n        <orgname> 東洋汽船会社 </orgname> ヨリ《（マヽ）》饗宴ニ出席ス、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 二氏来会ス、種々ノ女優舞踏アリ、夜飧後一場ノ訓戒的謝詞ヲ述ヘ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

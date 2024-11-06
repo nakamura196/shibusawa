@@ -1,0 +1,72 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-10-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 銀行集会所ニ於テ開キタル <orgname> 第一銀行 </orgname>\n       臨時株主総会ニ列ス議事終了ノ後 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 宅ニ帰ル、 <persname corresp=\"#pers_北垣国道\">\n<surname> 北垣 </surname>\n<forename> 国道 </forename>\n</persname> 氏来リ、函樽鉄道会社重役ノ事ヲ談ス、 <persname corresp=\"#pers_大川平三郎\">\n<surname> 大川 </surname>\n<forename> 平三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_田中平八郎\">\n<surname> 田中 </surname>\n<forename> 平八郎 </forename>\n</persname> 《（ <persname corresp=\"#pers_田中栄八郎\">\n<surname> 田中 </surname>\n<forename> 栄八郎 </forename>\n</persname> カ）》来リ <placename corresp=\"#place_上海市\"> 上海 </placename> 製紙業ノ事ヲ談ス、 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 氏、 <persname corresp=\"#pers_長沼\">\n<surname> 長沼 </surname>\n</persname> 、 <persname corresp=\"#pers_松岡\">\n<surname> 松岡 </surname>\n</persname> 二氏ヲ伴ヒ来リテ銅像ノ事ヲ話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 発新橋ノ汽車ニテ <placename corresp=\"#place_大磯町\"> 大磯 </placename> 長生館ニ抵ル、車中 <persname corresp=\"#pers_稲垣満次郎\">\n<surname> 稲垣 </surname>\n<forename> 満次郎 </forename>\n</persname> 氏 <placename corresp=\"#place_暹羅国\"> 暹羅国 </placename> ヘ赴任スルニ逢フ、 <persname corresp=\"#pers_高木文平\">\n<surname> 高木 </surname>\n<forename> 文平 </forename>\n</persname> 、 <persname corresp=\"#pers_福岡伊郎\">\n<surname> 福岡 </surname>\n<forename> 伊郎 </forename>\n</persname> 等ニ邂逅ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time>\n<placename corresp=\"#place_大磯町\"> 大磯 </placename> 長生館ニ抵ル此夜同館ニ投宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

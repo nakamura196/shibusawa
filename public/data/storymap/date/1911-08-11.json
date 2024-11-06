@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-08-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ後読書ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 過朝飧ヲ食ス、\n        <persname corresp=\"#pers_植村澄三郎\">\n<surname> 植村 </surname>\n<forename> 澄三郎 </forename>\n</persname> 氏来訪セラル、 <persname corresp=\"#pers_馬越\">\n<surname> 馬越 </surname>\n</persname> 氏ノ書状ヲ持参セラレ、且、揮毫ノ為絹本十数枚ヲ携帯セラル、依テ揮毫ヲ努ム、午後ニ至ルマテ之ヲ継続ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時\n       </time> 前 <persname corresp=\"#pers_鈴木正寿\">\n<surname> 鈴木 </surname>\n<forename> 正寿 </forename>\n</persname> 帰京ニ付 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ニ書状ヲ遣ス、又、昨日来認メタル <placename corresp=\"#place_北越\"> 北越 </placename> 地方ヘノ添書七通ヲ\n        <persname corresp=\"#pers_成瀬仁蔵\">\n<surname> 成瀬 </surname>\n<forename> 仁蔵 </forename>\n</persname> 氏ヘ送致ス、静浦ナル <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 夫妻ヘ各通ニ書状ヲ送リ、一ハ師弟関係ニ付テノ議論、一ハ <persname corresp=\"#pers_清光院\"> 清光院 </persname>\n       ノ墓誌ニ付一文ヲ草シテ送リ遣ス、午後、 <orgname> 第一銀行 </orgname>\n<persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏、事務所 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ヨリ書状来ル又、 <placename corresp=\"#place_軽井沢\"> 軽井沢 </placename>\n<persname corresp=\"#pers_新渡戸\">\n<surname> 新渡戸 </surname>\n</persname> 氏ヨリ来状アリ、依テ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 、 <persname corresp=\"#pers_馬越\">\n<surname> 馬越 </surname>\n</persname> 氏等ヘノ回答ハ <persname corresp=\"#pers_植村\">\n<surname> 植村 </surname>\n</persname> 氏ノ帰京便ニ托ス、 <persname corresp=\"#pers_穂積陳重\">\n<surname> 穂積 </surname>\n<forename> 陳重 </forename>\n</persname> 氏ト新渡氏《（戸脱・ <persname corresp=\"#pers_新渡戸\">\n<surname> 新渡戸 </surname>\n</persname> ）》トノ返書ハ直ニ之ヲ郵送ニ付ス、夜食後、 <persname corresp=\"#pers_植村\">\n<surname> 植村 </surname>\n</persname> 氏、 <persname corresp=\"#pers_戸ケ崎\">\n<surname> 戸ケ崎 </surname>\n</persname> 氏等来リテ遊戯ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

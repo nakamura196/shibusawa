@@ -1,0 +1,143 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-05-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 、\n        <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 総理大臣ヲ訪ヒ <persname corresp=\"#pers_仙石\">\n<surname> 仙石 </surname>\n</persname> 氏ト共ニ鉄道抵当法ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 外務省ニ抵リ <persname corresp=\"#pers_山座\">\n<surname> 山座 </surname>\n</persname> 公使氏ニ面会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 海軍省 <pb corresp=\"#pageB1238\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/264/full/max/0/default.jpg\" n=\"B1238\" source=\"#pageB1238\"></pb> ニ抵リ <persname corresp=\"#pers_斎藤\">\n<surname> 斎藤 </surname>\n</persname> 氏ヲ訪フモ逢ハス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<persname corresp=\"#pers_古河市兵衛\">\n<surname> 古河 </surname>\n<forename> 市兵衛 </forename>\n</persname> 氏ヲ <placename corresp=\"#place_築地\"> 築地 </placename> 宅ニ訪ヒ告別ヲ為ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time> 三菱会社ヲ訪ヒ <persname corresp=\"#pers_岩崎\">\n<surname> 岩崎 </surname>\n</persname> 、 <persname corresp=\"#pers_荘田\">\n<surname> 荘田 </surname>\n</persname> 、 <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 、三村ノ諸氏ニ告別ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time> 郵船会社ニ抵リ社長及社員ニ告別ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time> 、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏ヲ訪ヒ又米国公使ヲ訪フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 清国公使ヲ訪ヒ更ニ <placename corresp=\"#place_ドイツ\"> 独乙 </placename> 公使館ヲ訪問シ、又 <placename corresp=\"#place_イギリス\"> 英国\n       </placename> 公使館ヲ訪フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 大蔵省ニ抵リ <persname corresp=\"#pers_曾根\">\n<surname> 曾根 </surname>\n</persname> 《（ <persname corresp=\"#pers_曾禰\">\n<surname> 曾禰 </surname>\n</persname> ）》大臣、 <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 氏等ニ告別シ要務ヲ談ス、 <orgname> 日本銀行 </orgname> ニ抵リ <persname corresp=\"#pers_高橋\">\n<surname> 高橋 </surname>\n</persname> 其他ノ諸氏ニ告別ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<orgname> 三井銀行 </orgname> ニ抵リ、更ニ物産会社ニ於テ三井家主人ニ面会ス、畢テ <orgname> 第一銀行 </orgname> ニ抵リ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト要務ヲ談ス、畢テ <orgname> 興業銀行 </orgname> ニ抵リ <persname corresp=\"#pers_添田\">\n<surname> 添田 </surname>\n</persname> 氏ト面話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ抵リ米国人 <persname corresp=\"#pers_チソン\">\n<surname> チソン </surname>\n</persname> 氏ト面話ス、畢テ <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏ト鉱山部ノ事ヲ談ス、 <persname corresp=\"#pers_尾崎\">\n<surname> 尾崎 </surname>\n</persname> 、 <persname corresp=\"#pers_添田\">\n<surname> 添田 </surname>\n</persname> 二氏ト京釜鉄道ニ関スル社債ノ事ヲ談ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 、 <persname corresp=\"#pers_尾高幸五郎\">\n<surname> 尾高 </surname>\n<forename> 幸五郎 </forename>\n</persname> 来リテ留守中ノ要務ヲ訓示シ且覚書ヲ交付ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1902-05-15T00:00+0900\"> 十二時 </time> 寝ニ就ク\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

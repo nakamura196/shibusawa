@@ -1,0 +1,72 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-06-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後直ニ朝飧ヲ喫シ旅装ヲ整ヘテ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 六時 </time>\n<placename corresp=\"#place_南大門\"> 南大門 </placename> 停車場ニ抵リ、 <placename corresp=\"#place_平壌\"> 平壌\n       </placename> 行ノ汽車ニ搭ス、 <persname corresp=\"#pers_福島\">\n<surname> 福島 </surname>\n</persname> 少将、 <persname corresp=\"#pers_山座\">\n<surname> 山座 </surname>\n</persname>\n       公使政務局長等同車ス、此汽車ハ陸軍鉄道監部ノ管理スル所ニシテ、百事軍隊ノ規律ニ従ヒ経営厳正ナレトモ交通運輸ノ便ヲ謀ルノ点ニ於テハ京釜鉄道ニ比シテ遜色アルカ如シ、搭スル所ノ二等列車ハ\n        <placename corresp=\"#place_ロシア\"> 露国 </placename> ヨリ分捕物ナルヨシ、構造頗ル堅固ナレトモ野鄙ノ態アリ、汽車開城ニ抵リテ\n        <persname corresp=\"#pers_安川\">\n<surname> 安川 </surname>\n</persname> 氏来リ迎フ、此行総テ生路ナルヲ以テ触目皆快ヲ覚フ、車中ニテ午飧シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 39.031859,
+                    "lon": 125.753765,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:40:00",
+                    "text": "<time when=\"16:40:00\"> 午後四時四十分 </time>\n<placename corresp=\"#place_平壌\"> 平壌 </placename>\n       ニ抵リ、臨江ホテルニ投宿ス、夜、此地ノ軍人及理事官、民長等ノ案内ニヨリテ大同館ニ抵リテ宴会ニ列席シ、一場ノ謝辞ヲ述フ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 39.031859,
+                    "lon": 125.753765,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時\n       </time> 帰宿ス、 <placename corresp=\"#place_平壌\"> 平壌 </placename> 着ノ際、 <placename corresp=\"#place_大阪\"> 大坂 </placename>\n<persname corresp=\"#pers_山辺\">\n<surname> 山辺 </surname>\n</persname> 、三重 <persname corresp=\"#pers_斎藤\">\n<surname> 斎藤 </surname>\n</persname> 及三井物産ノ <persname corresp=\"#pers_藤野\">\n<surname> 藤野 </surname>\n</persname> 氏等ニ邂逅シ <placename corresp=\"#place_満州\"> 満洲 </placename> ニ於ケル織布販売ノ状況ヲ詳聞ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 39.031859,
+                    "lon": 125.753765,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

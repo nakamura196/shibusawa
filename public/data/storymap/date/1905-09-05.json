@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-09-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、庭園内ヲ散歩シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time>\n       入浴、畢テ朝飧ヲ為ス、食後新聞紙ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 午前十一時半 </time> 家ヲ発シ <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ <placename corresp=\"#place_田町_(東京都港区)\"> 田町 </placename>\n<persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏ニ抵ル、米国人 <persname corresp=\"#pers_エドワード_ヘンリー_ハリマン\">\n<surname> ハリマン </surname>\n</persname> 氏ヲ招宴スルニ陪席スル為メナリ、此日炎熱強ク午飧中頗ル困難ナリ、畢テ <orgname> 第一銀行 </orgname> ニ抵リ、 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ於テ事務ヲ処理シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n       大蔵大臣邸ニ抵ル、米国人 <persname corresp=\"#pers_エドワード_ヘンリー_ハリマン\">\n<surname> ハリマン </surname>\n</persname> 氏一行招宴ニ同席ス、宴散シテ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス <lb></lb> 此日 <placename corresp=\"#place_日比谷公園\"> 日比谷公園 </placename>\n       ニ国民大会アリテ市中喧噪ナリ、要ハ媾和条件ニ不満ノ途示威的《（徒カ）》ノ行動ニ出テタルナリ、夜ニ入テ内務大臣ノ官舎ヲ襲ヒ各警察署ヲ焼キ市中頗ル騒然タリ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.67361,
+                    "lon": 139.75611,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

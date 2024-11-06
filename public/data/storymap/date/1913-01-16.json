@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-01-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_大塚素江\">\n<surname> 大塚 </surname>\n<forename> 素江 </forename>\n</persname> 来リ実業ノ世界雑誌ノ事ヲ談ス、 <persname corresp=\"#pers_大橋新太郎\">\n<surname> 大橋 </surname>\n<forename> 新太郎 </forename>\n</persname> 氏来リ銀行事務及 <placename corresp=\"#place_ブラジル\"> 伯剌西爾 </placename> 殖民会社《（マヽ）》ノ事ヲ談ス、\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": -15.783,
+                    "lon": -47.867,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_本郷\"> 本郷 </placename> ニ抵リ一友人ヲ訪フ、午飧後、 <orgname> 第一銀行 </orgname> ニ抵リ\n        <persname corresp=\"#pers_日比谷平左衛門\">\n<surname> 日比谷 </surname>\n<forename> 平左衛門 </forename>\n</persname> 氏ト会見ス、昨日 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 公爵ヨリ依頼アリシ <orgname> 日本興業銀行 </orgname> 総裁ノ事ヲ内話ス、後、 <orgname> 第一銀行 </orgname>\n       重役会ヲ開キ要件ヲ議決ス、畢テ事務所ニ抵リ来人ニ接シ書類ヲ調査シ又書状ヲ裁ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n<placename corresp=\"#place_三田\"> 三田 </placename>\n<persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 公爵邸ニ抵リ米人 <persname corresp=\"#pers_メビー\">\n<surname> メビー </surname>\n</persname> 博士招宴ニ出席ス、此夜、 <orgname> 銀行倶楽部 </orgname> 焼失ス、為メニ数回ノ電話ヲ交換ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\">\n        十時 </time> 過帰宿ス、後、雑誌ヲ読ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

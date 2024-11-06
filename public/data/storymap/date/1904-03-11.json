@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1904-03-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 夫妻 <placename corresp=\"#place_京都\"> 京都 </placename> ヨリノ帰途来訪ス、 <persname corresp=\"#pers_中井三郎兵衛\">\n<surname> 中井 </surname>\n<forename> 三郎兵衛 </forename>\n</persname> ノ女結婚ノ事ヲ話ス、頃日来ノ風邪気尚全愈セサルヲ以テ褥中ニ起臥ス <persname corresp=\"#pers_中井\">\n<surname> 中井 </surname>\n</persname> 氏ヨリ書状来ル、 <placename corresp=\"#place_東京\"> 東京 </placename>\n<persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ヨリ書状落手ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

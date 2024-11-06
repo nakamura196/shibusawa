@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-05-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、庭園内ヲ散歩シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time>\n       朝飧ヲ畢ル、食後新聞紙ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 過養育院ニ抵リ <persname corresp=\"#pers_安達\">\n<surname> 安達 </surname>\n</persname> 、 <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 二氏ト要務ヲ談ス、畢テ院内ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、 <persname corresp=\"#pers_伊藤伝七\">\n<surname> 伊藤 </surname>\n<forename> 伝七 </forename>\n</persname> 来話ス、食後銀行ニテ要務ヲ談シ <persname corresp=\"#pers_町田忠次\">\n<surname> 町田 </surname>\n<forename> 忠次 </forename>\n</persname> 《（ <persname corresp=\"#pers_町田忠治\">\n<surname> 町田 </surname>\n<forename> 忠治 </forename>\n</persname> ）》ノ訪問ニ接シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<placename corresp=\"#place_深川\"> 深川 </placename> 瓦斯会社第二製造所ニ抵リ重役会ヲ開キ要務ヲ談ス、畢テ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、夕 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

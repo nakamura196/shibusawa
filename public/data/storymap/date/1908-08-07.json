@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-08-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、雨降ルヲ以テ庭園ヲ散歩スルヲ得ス、入浴後朝飧ヲ食シ、後、来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <orgname> 帝国商業銀行 </orgname>\n       ノ事ニ関シ委員等六名来訪シ其協議ノ次第ヲ述ヘラル、依テ午後ヲ約シテ現重役ニ談話スルモノトシテ委員等ハ帰リ去ル、午時 <orgname> 第一銀行 </orgname>\n       ニ抵リテ午飧シ、食後、要務ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<orgname> 帝商銀行 </orgname> 重役五名来会シ、談話ノ末、 <persname corresp=\"#pers_根津\">\n<surname> 根津 </surname>\n</persname> 、 <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 二氏来話シテ来ル <date when=\"1908-08-10\"> 十日 </date> ノ臨時総会ニ関スル協議ヲナス、 <persname corresp=\"#pers_大倉喜八郎\">\n<surname> 大倉 </surname>\n<forename> 喜八郎 </forename>\n</persname> 、 <persname corresp=\"#pers_植村澄三郎\">\n<surname> 植村 </surname>\n<forename> 澄三郎 </forename>\n</persname> 二氏来リ、東洋硝子会社ノ事ヲ談ス、 <pb corresp=\"#pageB1526\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/552/full/max/0/default.jpg\" n=\"B1526\" source=\"#pageB1526\"></pb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、夜、雑誌ヲ読ム <lb></lb> （欄外） <lb></lb> ［ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 停車場ニ抵リ、 <persname corresp=\"#pers_堀越角次郎\">\n<surname> 堀越 </surname>\n<forename> 角次郎 </forename>\n</persname> 、同 <persname corresp=\"#pers_堀越常七\">\n<forename> 常七 </forename>\n</persname> 、 <persname corresp=\"#pers_堀越鉄蔵\">\n<forename> 鉄蔵 </forename>\n</persname> 三氏ノ <placename corresp=\"#place_欧洲\"> 欧洲 </placename> 行ヲ送別ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

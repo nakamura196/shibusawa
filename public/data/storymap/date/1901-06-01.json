@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-06-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 赤坂御所ニ抵リ奉献美術館建築ノ事ニ付東京府知事及市長、 <persname corresp=\"#pers_股野琢\">\n<surname> 股野 </surname>\n</persname> 博物館長、 <persname corresp=\"#pers_片山\">\n<surname> 片山 </surname>\n</persname> 技師等ト其方法ヲ協議ス、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 養育院ニ抵リ感化部将来ノ施設ニ関シ協議会ヲ開ク、\n        <persname corresp=\"#pers_安達\">\n<surname> 安達 </surname>\n</persname> 、 <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 、 <persname corresp=\"#pers_三好\">\n<surname> 三好 </surname>\n</persname> 顧問 <persname corresp=\"#pers_浦田\">\n<surname> 浦田 </surname>\n</persname> 助役及 <persname corresp=\"#pers_小川\">\n<surname> 小川 </surname>\n</persname> 、 <persname corresp=\"#pers_窪田\">\n<surname> 窪田 </surname>\n</persname> 、 <persname corresp=\"#pers_古賀\">\n<surname> 古賀 </surname>\n</persname> ノ三氏来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_上野\"> 上野 </placename>\n<orgname> 精養軒 </orgname> ニ抵リ朔日会ノ招宴ニ応ス、食後一場ノ演説ヲ為ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

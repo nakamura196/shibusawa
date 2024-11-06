@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-12-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前揮毫ヲ試ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_名古屋\"> 名古屋 </placename> 発ノ汽車ニ搭ス、途中無事夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:30:00",
+                    "text": "<time when=\"22:30:00\"> 十時半 </time>\n<placename corresp=\"#place_東京\"> 東京 </placename> 着、 <placename corresp=\"#place_新橋\"> 新橋\n       </placename> 停車場ニ抵レハ数十人来リ迎フ、直ニ馬車ヲ駆テ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宅ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

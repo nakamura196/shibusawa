@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-06-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後庭園ヲ散歩シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 七時半 </time> 朝飧ヲ畢ル、二三ノ来人ニ接シ又髪ヲ理ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\">\n        十二時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ、電車ノ三会社主務者タル <persname corresp=\"#pers_牟田口\">\n<surname> 牟田口 </surname>\n</persname> 、浜、 <persname corresp=\"#pers_吉田\">\n<surname> 吉田 </surname>\n</persname> 三氏ニ会見シテ合併ニ関スル順序ヲ談ス、畢テ <persname corresp=\"#pers_馬越\">\n<surname> 馬越 </surname>\n</persname> 氏ニ電話ヲ通ス、午飧後揮毫ニ従事ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 一知人ヲ訪ヒ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス、夜、 <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 氏来話ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 午前十一時半 </time> 養蚕講習所ニ抵リ蚕業ノ現況ヲ視ル、 <persname corresp=\"#pers_本多\">\n<surname> 本多 </surname>\n</persname> 所長、 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 弾作氏共ニ説明セラル <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time>\n<persname corresp=\"#pers_常松\">\n<surname> 常松 </surname>\n</persname> 氏来リ <persname corresp=\"#pers_清水\">\n<surname> 清水 </surname>\n</persname> ノ法号ノ事ヲ依頼セラル、暁義院克己危行居士ト撰定ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

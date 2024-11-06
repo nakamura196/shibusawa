@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-03-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ更ニ <orgname> 第一銀行 </orgname> ニ出勤ス、再ヒ\n        <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ於テ数多ノ来人ニ接ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\">\n        午後四時 </time>\n<orgname> 八百松楼 </orgname> ニ抵リ、 <persname corresp=\"#pers_中井三郎兵衛\">\n<surname> 中井 </surname>\n<forename> 三郎兵衛 </forename>\n</persname> 紙商店ノ披露会ニ出席シ一場ノ演説ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 、湯島 <persname corresp=\"#pers_高田慎蔵\">\n<surname> 高田 </surname>\n<forename> 慎蔵 </forename>\n</persname> 氏宅ニ抵リ晩餐ノ饗応アリ、 <persname corresp=\"#pers_山県\">\n<surname> 山県 </surname>\n</persname> 、 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 、 <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 、 <persname corresp=\"#pers_曾根\">\n<surname> 曾根 </surname>\n</persname> 《（ <persname corresp=\"#pers_曾禰\">\n<surname> 曾禰 </surname>\n</persname> ）》、 <persname corresp=\"#pers_児玉\">\n<surname> 児玉 </surname>\n</persname> ノ諸氏来会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

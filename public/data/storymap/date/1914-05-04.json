@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-05-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ、茶ヲ喫ス、衣服ヲ更メテ室ヲ出レハ、 <placename corresp=\"#place_長崎\">\n        長崎 </placename> ナル銀行会社ノ各員多ク来リ迎フ、但、本船ハ払暁着港シタルナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time>\n       朝飧ヲ食シ、地方人等ニ誘ハレテ上陸シ、先ツ迎陽亭ニ抵リテ休憩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 過 <orgname> 高等商業学校\n       </orgname> 長ノ請ニ応シ、其校ニ於テ学生一同ニ一場ノ講演ヲ為ス、畢テ <persname corresp=\"#pers_向井\">\n<surname> 向井 </surname>\n</persname> 氏所有ノ聖廟ヲ一覧ス、頽敗腐朽見ルニ堪ヘス、一覧後又迎陽亭ニ抵リ、地方人士ノ歓迎宴アリ、席上余カ旅行ニ付テノ要旨ヲ演説ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 宴散シテ、帰途、 <placename corresp=\"#place_支那\"> 支那 </placename>\n       領事館ヲ訪問ス、蓋シ朝来本船ニ訪問セラルヽヲ謝スルナリ、三菱造船所ヲ一覧ス、飽ノ浦、立神両所共ニ設備壮大精緻ト云フヘシ、畢テ本船ニ帰リ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:30:00",
+                    "text": "<time when=\"16:30:00\">\n        午後四時半 </time> 開帆ス、風静ニシテ船平穏ナリ、夜飧後、甲板上ニテ活動写真ノ余興アリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

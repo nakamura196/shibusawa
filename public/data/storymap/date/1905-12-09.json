@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-12-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、先ツ日誌ヲ整理シ、且書類ヲ調査ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 七時半 </time>\n       朝飧ヲ喫ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 早稲田 <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯ヲ訪ヒ癩病看者救護《（患）》ノ方法ヲ協議ス、来会者十数名アリ、三ケ条ヲ決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n       過大山侯爵邸ヲ訪ヒ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 侯爵ヲ訪フ、 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 、 <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 二大臣来会ス、在韓中政務上ノ談話アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 東京市役所ニ抵リ歓迎会理事会ニ出席ス、畢テ\n        <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ埼玉県人ニテ催フ《（ス脱）》所ノ <persname corresp=\"#pers_浅田\">\n<surname> 浅田 </surname>\n</persname> 中将凱旋歓迎会ノ手続ヲ協議ス、畢テ夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

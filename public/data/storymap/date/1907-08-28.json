@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-08-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床直ニ入浴シ、畢リテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 過児輩ト共ニ朝飧ヲ為ス、食後児童ト遊戯ス、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 、 <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persname> ヲ伴ヒ <placename corresp=\"#place_湯本\"> 湯本 </placename>\n       ニ抵リ、帰京ノ道路開通ノ事ヲ調査セシム、終日揮毫ニ消閑ス、午後 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 夫妻孫児等共ニ来ル、相携ヒテ千筋ノ滝ニ抵ル、帰寓後又揮毫ス、夜飧後蓄音器アリ、 <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 公爵及夫人女児数名来会セラル <lb></lb> 此日ハ腹部稍平愈セシヲ覚フ、然レトモ食事ハ尚注意ヲ怠タラサリキ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

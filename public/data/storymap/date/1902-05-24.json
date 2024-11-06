@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-05-24",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 朝飧ヲ畢リ <persname corresp=\"#pers_今西\">\n<surname> 今西 </surname>\n</persname>\n       氏及同志会二三ノ人誘導シテ馬車ヲ駆テ市中及公園等ヲ巡遊ス、此地ハ熱帯ニシテ甚タ酷ナラス、寒暖計ハ七十度以上八十五六度ヲ上下スト云フ、故ヲ以テ樹木皆黄落スルモノナシ、市中又ハ公園ノ家屋ノ庭園ニハ種々ノ花卉アリ、殊ニ扶桑花多ク開クヲ見ル、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 領事館ヲ訪問シ、更ニ <orgname> 正金銀行 </orgname> 支店ニ抵リ本邦ヘノ端書郵便ヲ発ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time> 本船ニ帰ル、同志会ノ人送リ来ル者数十人、楽隊奏楽ス、正午 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時\n       </time> 出帆ス、午後風強ク船少ク動揺ス、夜ニ入テ風弥強ク船動揺スレトモ、船暈ノ感ナキハ幸甚シ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

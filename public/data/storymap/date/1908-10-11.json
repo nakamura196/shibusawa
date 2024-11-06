@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-10-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、 <persname corresp=\"#pers_葛原益吉\">\n<surname> 葛原 </surname>\n<forename> 益吉 </forename>\n</persname> 氏ノ来訪ニ接ス、 <persname corresp=\"#pers_荒井新一郎\">\n<surname> 荒井 </surname>\n<forename> 新一郎 </forename>\n</persname> 氏来リ身上ノ談アリ、 <persname corresp=\"#pers_中村光吉\">\n<surname> 中村 </surname>\n<forename> 光吉 </forename>\n</persname> 氏来訪セラル、 <persname corresp=\"#pers_桑島勇\">\n<surname> 桑島 </surname>\n<forename> 勇 </forename>\n</persname> 氏来リ、実業ノ世界雑誌ニ関スル談話アリ、 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 、 <persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> 二氏来リ、韓国支店ニ関シ種々ノ協議アリ、午飧後 <placename corresp=\"#place_向島\"> 向島 </placename> ニ\n        <persname corresp=\"#pers_榎本\">\n<surname> 榎本 </surname>\n</persname> 子爵ノ家ニ抵リ其病ヲ訪フ、家人ヨリ詳細ノ説明アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n       水産会社株主協議会ニ出席ス、種々ノ質問アリ、結局委員ヲ挙クル事ト定マリ六名ヲ指名ス、畢テ <persname corresp=\"#pers_児玉\">\n<surname> 児玉 </surname>\n</persname> 伯爵ヨリ案内セラレタル婚儀後ノ祝宴ニ出席スル為メ華族会館ニ抵リ晩飧会ニ列ス、多人数来会ス、皆、 <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 、 <persname corresp=\"#pers_児玉\">\n<surname> 児玉 </surname>\n</persname> 両家ノ新戚《（親）》ナリ、一同歓ヲ尽シ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 同伴ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

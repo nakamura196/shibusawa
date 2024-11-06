@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-06-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シ、畢テ朝飧ヲ食シ、後、 <orgname> 報知新聞 </orgname> 社員 <persname corresp=\"#pers_中村\">\n<surname> 中村 </surname>\n</persname> 氏ノ来訪ニ接シ種々ノ談話アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、事務ヲ処理シ又来人ニ接ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 銀行倶楽部 </orgname> ニ抵リ、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏等ト <orgname> 東洋汽船会社 </orgname> ノ役員撰挙ノ事ヲ談話ス、畢テ再ヒ事務所ニ於テ事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_日本\"> 日本 </placename> 倶楽部ニ抵リ、委員会ヲ開キ要務ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\">\n        六時 </time>\n<placename corresp=\"#place_本郷\"> 本郷 </placename> ニ抵リテ夜飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、 <persname corresp=\"#pers_林訒\"> 林訒\n       </persname> 氏来リ、 <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persname> 学業ノ事ヲ談話ス <lb></lb> 此日、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 農商務省ニ抵リ <date evidence=\"year inferenced, month\" when=\"1910-06-20\"> 二十日 </date> ニ開カルヘキ生産調査会ノ事ニ付、 <persname corresp=\"#pers_押川\">\n<surname> 押川 </surname>\n</persname> 次官、 <persname corresp=\"#pers_織田\">\n<surname> 織田 </surname>\n</persname> 事務官ト種々ノ協議ヲ為ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

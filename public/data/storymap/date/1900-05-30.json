@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-05-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、午前 <persname corresp=\"#pers_大川平三郎\">\n<surname> 大川 </surname>\n<forename> 平三郎 </forename>\n</persname> 来ル、米人 <persname corresp=\"#pers_モールス\">\n<surname> モールス </surname>\n</persname> ノ事ニ関シテ種々協議スル所アリ、 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 来ル、 <persname corresp=\"#pers_義和宮\"> 義和宮 </persname> 殿下来ル、学資金貸与ノ請求アリ、 <persname corresp=\"#pers_仲田槌三郎\">\n<surname> 仲田 </surname>\n<forename> 槌三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_八巻道成\">\n<surname> 八巻 </surname>\n<forename> 道成 </forename>\n</persname> 氏等来ル、 <persname corresp=\"#pers_河村隆実\">\n<surname> 河村 </surname>\n<forename> 隆実 </forename>\n</persname> 京坂鉄道ノ事ニ付テ来話ス、 <persname corresp=\"#pers_川村惇\">\n<surname> 川村 </surname>\n<forename> 惇 </forename>\n</persname> 来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 第一銀行 </orgname> ニ出勤シ、 <persname corresp=\"#pers_清水泰吉\">\n<surname> 清水 </surname>\n<forename> 泰吉 </forename>\n</persname> ニ婚儀ニ関スル事ヲ話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:30:00",
+                    "text": "<time when=\"13:30:00\"> 一時半 </time> 大蔵理財局ニ抵リ <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 氏ニ面会シテ <persname corresp=\"#pers_モールス\">\n<surname> モールス </surname>\n</persname> 対 <placename corresp=\"#place_神戸市\"> 神戸市 </placename> 訴 <pb corresp=\"#pageB1139\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/165/full/max/0/default.jpg\" n=\"B1139\" source=\"#pageB1139\"></pb> 訟ノ事ヲ内話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.69017,
+                    "lon": 135.19544,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 三井倶楽部ニ抵リ白耳義人\n        <persname corresp=\"#pers_ウーチヤー\">\n<surname> ウーチヤー </surname>\n</persname> 氏ニ会話ス、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯其他十数名来会ス、東洋会社定款ニ関シ其設立ノ目的ヲ質問ス、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_田町_(東京都港区)\"> 田町 </placename>\n<persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏ヲ訪ヘ <persname corresp=\"#pers_清水\">\n<surname> 清水 </surname>\n</persname> 氏ト結婚ニ付結納ノ儀ヲ収ム、主人夫妻及縁女幸子ト会話シテ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time> 過 <placename corresp=\"#place_深川\"> 深川 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-02-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、室内運動ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 過朝飧ヲ畢ル <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:46:00",
+                    "text": "<time when=\"09:46:00\"> 午前九時四十六分 </time> ノ <placename corresp=\"#place_王子\"> 王子 </placename>\n       発汽車ニテ <placename corresp=\"#place_上野\"> 上野 </placename> ニ抵リ、更ニ電車ニテ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵ル、来人ニ接シ書類ヲ検ス <lb></lb>\n<orgname> 第一銀行 </orgname> ニ抵リ興業会社ノ重役会ヲ開キ、 <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> 滞韓中取扱ヒタル事務ノ報告ヲ受ク <lb></lb>\n<pb corresp=\"#pageB1353\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/379/full/max/0/default.jpg\" n=\"B1353\" source=\"#pageB1353\"></pb>\n<lb></lb> 夕方耕牧舎ノ人々来会シ、牛乳店改革ノ案ヲ協議ス <lb></lb>\n"
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 過 <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename>\n       ニ帰宿ス <lb></lb> 此日、長崎 <persname corresp=\"#pers_永見寛二\">\n<surname> 永見 </surname>\n<forename> 寛二 </forename>\n</persname> 氏来リ、十八銀行ヨリ <orgname> 第一銀行 </orgname> ニ対スル請願ノ趣旨ヲ縷述ス、追テ回答スヘキ事ヲ約シテ去ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

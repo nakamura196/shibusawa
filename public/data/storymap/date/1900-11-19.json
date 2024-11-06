@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-11-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、夕方ヨリ曇、夜雨降ル、午前、 <persname corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persname> 氏来リ京仁鉄道会社ノ要務ヲ協議ス、吉末郵船会社支店長来ル、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n       航路ノ事ヲ談話ス、仁川税関長チヤーマス来リ総税務司 <persname corresp=\"#pers_ブラオン\">\n<surname> ブラオン </surname>\n</persname> 来仁ハ明日ニ延引セシコトヲ報ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 氏ト共ニ英領事館、支那領事館、民長役所、米人 <persname corresp=\"#pers_デシユラル\"> デシユラル </persname> 及\n        <persname corresp=\"#pers_タウンセント\">\n<surname> タウンセント </surname>\n</persname> 氏等ヲ訪問シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<orgname> 八坂楼 </orgname> ニ抵リ京仁鉄道会社々員慰労ノ宴会ニ出席ス、 <persname corresp=\"#pers_伊集院\">\n<surname> 伊集院 </surname>\n</persname> 領事、 <persname corresp=\"#pers_富田\">\n<surname> 富田 </surname>\n</persname> 民長、 <persname corresp=\"#pers_岩崎\">\n<surname> 岩崎 </surname>\n</persname> 郵便局長其外会スルモノ社員ヲ合シテ四十人余、酒間種々ノ余興アリ、一同歓ヲ尽シ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過散会ス\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

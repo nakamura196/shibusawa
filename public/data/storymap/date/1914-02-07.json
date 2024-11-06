@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-02-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、静坐入浴シテ朝飧ヲ食ス、畢テ各新聞紙ヲ一覧ス、又演説筆記ヲ修正ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_三本木\"> 三本木 </placename> 農場長 <persname corresp=\"#pers_金子熊一\">\n<surname> 金子 </surname>\n<forename> 熊一 </forename>\n</persname> 氏来リ、農場ノ前季決算書及本年ノ予算書ヲ持参ス、一覧後ニ種々ノ質問ヲ為シ、且、本年ノ施設ニ付要旨ヲ指示ス、午飧後、又、筆記ノ修正ニ勉ム、午後 <pb corresp=\"#pageB1774\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/800/full/max/0/default.jpg\" n=\"B1774\" source=\"#pageB1774\"></pb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 及奴碑等ト共ニ <placename corresp=\"#place_国府津\"> 国府津 </placename>\n       海岸ヲ散歩ス、帰寓後又筆記ノ修正ヲ為ス、一本畢テ他ノ一本ニ及フ、明日 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.280139,
+                    "lon": 139.2116278,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 発ノ汽車ヲ以テ帰京ノ事ヲ電話ニテ\n        <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ通シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n       ニ <placename corresp=\"#place_新橋\"> 新橋 </placename> 停車場ヘ自働車ヲ差越ス旨ヲ命ス、夜飧後日記ヲ編成シ又筆記ヲ修正ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 就寝 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

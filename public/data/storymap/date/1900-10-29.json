@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-10-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前数多ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<orgname> 日本銀行 </orgname> ニ抵リ <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 総裁ニ面会シテ <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 渡航ノ事及其他ノ要話ヲ為ス、\n        <persname corresp=\"#pers_岩崎弥之助\">\n<surname> 岩崎 </surname>\n<forename> 弥之助 </forename>\n</persname> 氏ヲ訪ヒ京釜鉄道株式引受ノ事ヲ依頼ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 赤坂御所ニ抵リ <persname corresp=\"#pers_片山\">\n<surname> 片山 </surname>\n</persname> 博士ニ面会シテ美術館建築ノ事ヲ依頼ス、去テ宮内省ニ抵リ <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 大臣ニ面会シテ同シク美術館建築地決定ノ事及京釜鉄道株式帝室御所有ノ事ヲ依頼ス、 <persname corresp=\"#pers_渡辺千秋\">\n<surname> 渡辺 </surname>\n<forename> 千秋 </forename>\n</persname> 氏ニ面会シテ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ノ事ヲ談ス、去テ <orgname> 日本郵船会社 </orgname> ニ抵リ <persname corresp=\"#pers_岩永省一\">\n<surname> 岩永 </surname>\n<forename> 省一 </forename>\n</persname> ニ面会ス、更ニ東京市役所ニ抵リ美術館ノ事及市参事会員辞職ノ事等ヲ市長ニ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<orgname> 銀行倶楽部 </orgname> ニ抵リ <orgname> 汽車製造会社 </orgname> ノ事ヲ <persname corresp=\"#pers_瓜生\">\n<surname> 瓜生 </surname>\n</persname> 、 <persname corresp=\"#pers_今村\">\n<surname> 今村 </surname>\n</persname> 、 <persname corresp=\"#pers_平岡\">\n<surname> 平岡 </surname>\n</persname> ノ諸氏ト談話ス、又同所ニ於テ有楽会委員会ヲ開ク、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 、 <persname corresp=\"#pers_早川千吉郎\">\n<surname> 早川 </surname>\n<forename> 千吉郎 </forename>\n</persname> 、 <persname corresp=\"#pers_片山\">\n<surname> 片山 </surname>\n</persname> 書記来会ス、畢テ印度人《（マヽ）》 <persname corresp=\"#pers_エンリ_タタ\">\n<forename> エンリ </forename> ・ <surname> タタ </surname>\n</persname> 氏ニ面話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time> 帰宅シテ旅装ヲ理ス、夜数多ノ送別人来会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

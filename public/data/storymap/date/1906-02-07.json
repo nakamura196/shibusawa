@@ -1,0 +1,89 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-02-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後書斎ニ於テ日誌ヲ作リ書類ヲ調査ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 入浴、畢テ朝飧ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\">\n        午前十時半 </time> 東京市役所ニ抵リ陸軍凱旋歓迎会ノ理事会ニ出席シ諸般ノ事ヲ議決ス、畢テ外務大臣官舎及 <placename corresp=\"#place_イギリス\"> 英国\n       </placename> 大使館ニ名刺ヲ通シテ頃日ノ饗宴ヲ謝シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 銀行倶楽部 </orgname> ニ抵リ委員会ヲ開キ、本月開催スヘ <pb corresp=\"#pageB1404\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/430/full/max/0/default.jpg\" n=\"B1404\" source=\"#pageB1404\"></pb> キ晩餐会ノ事ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> ニ抵リ <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 統監ヲ送別ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 二時半 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ要務ヲ談ス、更ニ事務所ニ於テ事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:30:00",
+                    "text": "<time when=\"16:30:00\"> 四時半 </time>\n<persname corresp=\"#pers_近藤廉平\">\n<surname> 近藤 </surname>\n<forename> 廉平 </forename>\n</persname> 氏邸ニ抵リ清国皇族ノ招宴ニ陪ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ王子製紙会社ノ招宴ニ出席シ一場ノ謝辞演説ヲ為シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

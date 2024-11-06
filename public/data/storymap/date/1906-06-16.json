@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-06-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後日誌ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n       頃ヨリ旅宿ヲ出テ <orgname> 第一銀行 </orgname> 支店ニ抵リ事務ヲ処理シ、更ニ各官衙ヲ訪問シ、畢テ大同門前ヨリ小舟ニ掉シ大同江ヲ遡ル、江ハ <placename corresp=\"#place_平壌\"> 平壌 </placename> 市街ニ沿フテ清流壁下ヲ過ク、断岸数十尺、青蘿岩ヲ擁シテ風光佳絶ナリ、凡二十丁余ニシテ永明寺ニ抵リ、\n        <orgname> 浮碧楼 </orgname> ニ小憩シテ、更ニ山ヲ攀チテ玄武門ヲ通過シ、箕子廟ニ詣シ、再ヒ <orgname> 浮碧楼 </orgname>\n       ニ還リテ午飧ス、永明寺ノ寺僧香雲布岳来リ話ス、食後又小舟ニテ流ヲ下リ、大同門ニ抵リテ上陸シ、人車ニテ <persname corresp=\"#pers_原田\">\n<surname> 原田 </surname>\n</persname> 支配人ノ社宅ニ抵ル、此日ハ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 39.031859,
+                    "lon": 125.753765,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n       ヨリ地方ノ人々二百余名ヲ招シテ園遊会ノ催シアルニヨリ同時刻ヨリ続々来会セラル、庭中種々ノ余興アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:30:00",
+                    "text": "<time when=\"16:30:00\"> 午後四時半 </time>\n       立食場ヲ開キ、食卓上一場ノ謝辞ヲ述ヘ、更ニ各種ノ摸擬店ヲ散歩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time> 過散会、別ニ行員ヲ集メテ一場ノ訓戒演説ヲ為シ、夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time> 旅宿ニ抵ル、夜、民長及地方商業者数名来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

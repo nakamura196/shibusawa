@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-09-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、此日ハ白雲山ヲ一覧セントノ事ニテ、昨来 <persname corresp=\"#pers_中島\">\n<surname> 中島 </surname>\n</persname> 氏其他ノ人々種々手配セラレシモ、雲煙濛朧トシテ山色弁シ難キニヨリ白雲山ニ登ル事ヲ止メ、転シテ汽車ニテ <placename corresp=\"#place_軽井沢\"> 軽井沢 </placename> 行ヲ試ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時三十分 </time> 高崎発\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_軽井沢\"> 軽井沢 </placename> 着、但此途中有名ノ <placename corresp=\"#place_碓井嶺\">\n        碓井嶺 </placename> アブト式ノ汽車アリ、着後十五分再ヒ西来ノ汽車ニ搭シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<placename corresp=\"#place_高崎\"> 高崎 </placename>\n       着、市中ノ一楼ニ於テ宴ヲ開ク、蓋シ高崎銀行、商業会議所員等ノ催ス処ナリ、席上又一場ノ演説ヲ為シテ諸氏ノ厚意ヲ謝シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n       発ノ汽車ニテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過帰京ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

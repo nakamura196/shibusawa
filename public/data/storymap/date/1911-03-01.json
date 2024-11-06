@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-03-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シテ、朝飧ヲ食シ、後、 <persname corresp=\"#pers_長谷川福平\">\n<surname> 長谷川 </surname>\n<forename> 福平 </forename>\n</persname> 氏来リ新 <placename corresp=\"#place_日本\"> 日本 </placename> 雑誌ノ為メ意見ヲ述フ、 <persname corresp=\"#pers_穂積陳重\">\n<surname> 穂積 </surname>\n<forename> 陳重 </forename>\n</persname> 氏ノ書状来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 事務所ニ抵リテ来人ニ接シ事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time>\n<orgname> 銀行倶楽部 </orgname> ニ抵リテ午飧ス、後、交換所委員等ト特殊銀行制度ノ事ヲ談ス、畢テ再ヒ事務所ニ於テ書類ヲ検閲ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 帝国劇場会社ニ抵リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n       ヨリ開場式ヲ行ヒ式辞ヲ演説ス、畢テ余興演劇トシテ式三番ヲ演シ、畢テ立食ノ饗応アリ、食後、頼朝ト題スル史劇一幕、最愛ノ妻ト題スル喜劇一幕（史劇ハ旧派、喜劇ハ新派）外ニ女優ノ舞踏アリ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1911-03-02T00:00+0900\"> 午後十二時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、此夜 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> モ同伴ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

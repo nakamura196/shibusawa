@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-01-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、静坐シテ入浴シ後朝飧ヲ食ス、畢テ来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 午前十一時半 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ救済会ノ会同ニ出席ス、 <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 総理大臣以下各大臣来会ス、各会社、個人等ノ来会者ニ寄附金勧誘ニ付一場ノ演説ヲ為ス、 <placename corresp=\"#place_東北地方\"> 東北\n       </placename> 凶作ノ実況ハ潮内務参事官、西南噴火ノ惨状ハ <persname corresp=\"#pers_河原田\">\n<surname> 河原田 </surname>\n</persname> 書記官ノ演説アリ、畢テ午飧ヲ共ニス、食後種々ノ協議アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 、散会、夫ヨリ\n        <placename corresp=\"#place_春樹街\"> 春樹街 </placename> ニ立寄リ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n       過帰宿ス、夜、新聞紙ヲ一覧ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

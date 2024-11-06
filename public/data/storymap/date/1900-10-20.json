@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-10-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前数多ノ来人ニ接ス、午後 <orgname> 第一銀行 </orgname> ニ出勤ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 過\n        <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 侯爵ヲ <placename corresp=\"#place_霊南坂\"> 霊南坂 </placename> ニ訪フ、 <persname corresp=\"#pers_加藤\">\n<surname> 加藤 </surname>\n</persname> 新外務大臣ニ面話ス、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 過 <placename corresp=\"#place_浜町\">\n        浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

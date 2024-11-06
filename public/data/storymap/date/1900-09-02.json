@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-09-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前二三ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 過 <placename corresp=\"#place_飛鳥山邸\"> 王子別荘\n       </placename> ニ抵リ <persname corresp=\"#pers_尾高幸五郎\">\n<surname> 尾高 </surname>\n<forename> 幸五郎 </forename>\n</persname> ト其新築家屋ヲ観ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リ <placename corresp=\"#place_大韓民国\"> 韓国\n       </placename> ヨリ出京セル <persname corresp=\"#pers_山座\">\n<surname> 山座 </surname>\n</persname> 公使書記官及 <persname corresp=\"#pers_杉村濬\">\n<surname> 杉村 </surname>\n<forename> 濬 </forename>\n</persname> 両氏ヲ招宴ス、 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 、 <persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> 、 <persname corresp=\"#pers_西脇長太郎\">\n<surname> 西脇 </surname>\n<forename> 長太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_佐々木清麿\">\n<surname> 佐々木 </surname>\n<forename> 清麿 </forename>\n</persname> 、 <persname corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persname> ノ諸氏来会ス、款談数刻夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散宴、 <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

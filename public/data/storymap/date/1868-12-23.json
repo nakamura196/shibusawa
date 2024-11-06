@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-12-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝、礫邸江帰る、御用荷物不残到着、取調引取、内、連発銃 <persname corresp=\"#pers_赤松則良\">\n<surname> 赤松 </surname>\n<forename> 大三郎 </forename>\n</persname> 頼之分壱品不足いたす <lb></lb> 夕、 <persname corresp=\"#pers_細井□吉《（今カ）》\">\n<surname> 細井 </surname>\n<forename> □吉《（今カ）》 </forename>\n</persname> 罷来る <lb></lb>\n<persname corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n<forename> 愛蔵 </forename>\n</persname> 来る、滞留中宿所之儀取計之旨申聞る "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-01-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time>\n<persname corresp=\"#pers_吉岡新五郎\">\n<surname> 吉岡 </surname>\n<forename> 新五郎 </forename>\n</persname> 今日 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> ノ汽車ニテ帰京スルニヨリ、昨夜書裁セシ <placename corresp=\"#place_大阪\"> 大坂 </placename> 、 <placename corresp=\"#place_神戸\"> 神戸 </placename> 、\n        <placename corresp=\"#place_西京\"> 西京 </placename> 及 <placename corresp=\"#place_大韓民国\"> 韓国\n       </placename> 行ノ書状ヲ托シテ <placename corresp=\"#place_東京\"> 東京 </placename> ニ於テ発送セシムル事トス、又来ル <date when=\"1900-01-06\"> 六日 </date> ノ招宴ニ関シテ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       宅ヘ雑事ノ伝言ヲ為サシム、午後 <persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> 来ル、 <placename corresp=\"#place_東京\"> 東京 </placename> 留守宅 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ヨリノ書状ヲ持参ス、諸方ヨリノ来状数通ヲ添ヘ来ル、中ニ <persname corresp=\"#pers_穂積陳重\">\n<surname> 穂積 </surname>\n<forename> 陳重 </forename>\n</persname> 、男 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ヨリ送来ノモノアリ夕、 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 氏より電報アリ、明 <date when=\"1900-01-05\"> 五日 </date>\n"
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 迄ニ帰京セラレタキ旨通知アリ <lb></lb> 此日モ数十葉ノ揮毫ヲ為ス、朝ハ有楽会規程ノ草案ヲ起稿ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1900-01-05T00:00+0900\"> 十二時 </time> 寝ニ就ク <lb></lb> 午後 <persname corresp=\"#pers_山田喜之助\">\n<surname> 山田 </surname>\n<forename> 喜之助 </forename>\n</persname> 氏来ル、蓋シ隣房ニ来寓スルヲ以テ訪問セラレシナリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

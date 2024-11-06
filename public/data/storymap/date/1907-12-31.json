@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-12-31",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床直ニ入浴シ、畢リテ朝飧ヲ食ス、食後演説筆記ヲ修正ス午飧後 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リテ来人ニ接シ、又 <placename corresp=\"#place_大韓民国\"> 韓国\n       </placename> 其他各地ヘノ書状ヲ裁ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏等ト共ニ夜飧ス、畢テ行員一同ノ年末賀詞ヲ受ケ、各支店ヨリ電報シ来レル営業景況ヲ調査シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time>\n       過キ再ヒ事務所ニ於テ書類ヲ調査シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿シ、後、明日旅行ヲ為スニ付書籍又ハ揮毫ニ関スル調査ヲ為シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1908-01-01T01:00+0900\"> 一時 </time> 過就寝 <lb></lb>\n<placename corresp=\"#place_小涌谷\"> 小涌谷 </placename> に入浴しける時風雨連日打続きて川々汎濫し帰京の途次を失ひたれば <lb></lb>\n       月花につくりし罪やおほからめ <placename corresp=\"#place_箱根\"> 函根 </placename> の里にさすらひの身は <lb></lb>\n       山すミの身はさすらひに似たるかなみやひの罪と人やいふらむ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.240361,
+                    "lon": 139.053028,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

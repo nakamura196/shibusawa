@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-01-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後先ツ揮毫ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ畢リ再ヒ書斎ニ於テ揮毫ス、 <placename corresp=\"#place_福島\"> 福島 </placename> 県下ノ僧 <persname corresp=\"#pers_中村豪仙\">\n<surname> 中村 </surname>\n<forename> 豪仙 </forename>\n</persname> 来リ <placename corresp=\"#place_奥羽\"> 奥羽 </placename> 三県下凶歉ノ窮状ヲ談ス、 <placename corresp=\"#place_血洗島\"> 血洗島 </placename>\n<persname corresp=\"#pers_渋沢治太郎\">\n<forename> 治太郎 </forename>\n</persname> 来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ <placename corresp=\"#place_牛込\"> 牛込 </placename> ニ抵リ誘掖会ニ於テ埼玉県知事 <persname corresp=\"#pers_大久保\">\n<surname> 大久保 </surname>\n</persname> 氏ニ会話ス、本会設立以後ノ情況及目今ノ企望ヲ縷述ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 事務所ニ抵リ <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ト談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 三井集会所ニ抵リ <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 統監ノ送別会ニ陪ス、夜飧後種々余興アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1906-01-17T00:00+0900\"> 十二時 </time> ヲ過テ\n        <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

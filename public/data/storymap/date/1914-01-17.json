@@ -1,0 +1,95 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-01-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、静坐シテ、半身浴ヲ為ス、畢テ朝飧ヲ食ス、 <persname corresp=\"#pers_柴崎雪次郎\">\n<surname> 柴崎 </surname>\n<forename> 雪次郎 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n       大礼服ヲ着ケ宮中ニ抵リ奉告式ニ参列ス、賢所ニ於テ執行セラル、大勲位、国務大臣其他群臣皆参集ス、賢所ノ拝殿ニ於テ一同起立ス、風寒クシテ身体戦慄ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time> 式畢テ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ニ抵リ書類ヲ点撿ス、又、来人ニ接ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 、 <persname corresp=\"#pers_安川敬一郎\">\n<surname> 安川 </surname>\n<forename> 敬一郎 </forename>\n</persname> 、団硺磨氏等《（ <persname corresp=\"#pers_團琢磨\">\n<surname> 団 </surname>\n<forename> 琢磨 </forename>\n</persname> 氏）》ト救済会ノ事ヲ談ス、午飧後救済会事務所ニ抵リ要務ヲ弁ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 三菱会社ニ <persname corresp=\"#pers_岩崎小弥太\">\n<surname> 岩崎 </surname>\n<forename> 小弥太 </forename>\n</persname> 氏ヲ訪ヒ百科全書出版ノ事ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 再ヒ事務所ニ於テ <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 及 <persname corresp=\"#pers_増田\">\n<surname> 増田 </surname>\n</persname> 等ニ要務ヲ談シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 過 <placename corresp=\"#place_浜町\"> 浜町 </placename>\n<placename corresp=\"#place_日本橋\"> 日本橋 </placename> クラブニ抵リ <orgname> 清水組 </orgname> 宴会ニ出席ス、食前ニハ\n        <pb corresp=\"#pageB1769\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/795/full/max/0/default.jpg\" n=\"B1769\" source=\"#pageB1769\"></pb> 事務者ニ訓示シ、食事ノ時一場ノ挨拶ヲ為ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n       過帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

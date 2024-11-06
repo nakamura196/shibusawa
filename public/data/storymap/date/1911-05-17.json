@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-05-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴ヲ廃シ洗面シテ直ニ朝飧ヲ食ス、食後数多ノ来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\">\n        午前九時 </time> 旅宿ヲ発シ、梅田女子高等学校ニ抵リ校内ヲ一覧シ一場ノ演説ヲ為ス、畢テ阪神電気鉄道停車場ニ抵リ <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯ノ来ルヲ待ツ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 過発車、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_神戸\"> 神戸 </placename> ニ着、東亜ホテルニ於テ午飧シ、後、 <persname corresp=\"#pers_水島\">\n<surname> 水島 </surname>\n</persname> 氏ノ請求ヲ容レテ <orgname> 高等商業学校 </orgname> ニ抵リ一場ノ演説ヲ為ス、後、武徳殿ニ抵リ、 <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯ノ演説畢リテミカドホテルニ抵リ、地方人士招待ノ宴ニ出席シ、食後、 <orgname> 女子大学 </orgname>\n       ノ為メ寄附金ノ依頼演説ヲ為シ、畢テ明日ノ旅行手続ヲ協議シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:30:00",
+                    "text": "<time when=\"23:30:00\"> 十一時半 </time>\n<placename corresp=\"#place_常盤\"> 常盤 </placename> 花壇ニ投宿ス、夜、山陽新報社員来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

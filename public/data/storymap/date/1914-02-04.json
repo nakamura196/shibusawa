@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-02-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、静坐入浴シテ朝飧ヲ食ス、 <persname corresp=\"#pers_星野\">\n<surname> 星野 </surname>\n</persname> 、 <persname corresp=\"#pers_増田\">\n<surname> 増田 </surname>\n</persname> 二氏ヨリ電報ニテ通知シ来レル <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 、 <persname corresp=\"#pers_高津\">\n<surname> 高津 </surname>\n</persname> 二氏来リ、トロール漁船会社ノ事ヲ詳話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時半 </time> 南区支店ニ抵リ営業景況ヲ一覧ス、\n        <persname corresp=\"#pers_野口弥三\">\n<surname> 野口 </surname>\n<forename> 弥三 </forename>\n</persname> 氏同行ス後、大阪支店ニ抵リ店員ニ一場ノ訓話ヲ為ス、支店改築ヲ企図スル候補地ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_大阪\"> 大阪 </placename> ヲ発シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 過\n        <placename corresp=\"#place_京都\"> 京都 </placename> 着、弁当ノ準備アリテ車中食事ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\">\n        午後四時 </time> 頃新 <placename corresp=\"#place_愛知\"> 愛知 </placename> 新聞社員汽車中ニ来訪ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_名古屋\"> 名古屋 </placename>\n       着、知事、市長其他多人数来リ迎フ、自働車ニテ旅宿ニ抵リ、後、銀行集会所ニ抵リ地方有志者ノ饗宴ニ出席ス、食卓上一場ノ演説ヲ為ス、畢テ知事、市長等ト救済会ニ関スル手続ヲ談話ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

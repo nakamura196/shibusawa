@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-03-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前数多ノ来客ニ接ス、京仁鉄道ノ事ニ関シ <persname corresp=\"#pers_モールス\">\n<surname> モールス </surname>\n</persname> 氏 <persname corresp=\"#pers_大川平三郎\">\n<surname> 大川 </surname>\n<forename> 平三郎 </forename>\n</persname> ト共ニ来ル、 <persname corresp=\"#pers_瓜生震\">\n<surname> 瓜生 </surname>\n<forename> 震 </forename>\n</persname> 、 <persname corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ヲ会シテ <persname corresp=\"#pers_モールス\">\n<surname> モールス </surname>\n</persname> ヨリ請求セル鉄道工費及材料ノ事ヲ討議ス、午後ニ至ルモ終ニ要領ヲ得ス、共ニ再案スル事ヲ約シテ去ル、蓋シ此会見ハ組合ノ資格ヲ以テセス相互ノ懇親上会談ヲ試ミタルナリ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 銀行ニ於テ重役会ヲ開キ数件ノ要務ヲ決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename> 瓢屋ニ抵ル、 <persname corresp=\"#pers_安川敬一郎\">\n<surname> 安川 </surname>\n<forename> 敬一郎 </forename>\n</persname> 氏催ス処ノ若松築港会社ノ会合アルヲ以テナリ、 <persname corresp=\"#pers_岩崎久弥\">\n<surname> 岩崎 </surname>\n<forename> 久弥 </forename>\n</persname> 、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 、 <persname corresp=\"#pers_田島信夫\">\n<surname> 田島 </surname>\n<forename> 信夫 </forename>\n</persname> 等来会ス、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯別席ニ在テ会見ス、 <orgname> 汽車製造会社 </orgname> ノ事ヲ協議ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n       過 <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

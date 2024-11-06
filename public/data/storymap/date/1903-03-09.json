@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-03-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢リ二三ノ来人ニ接シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 女子大学 </orgname> ニ抵リ評議員会ヲ開ク、 <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯、 <persname corresp=\"#pers_広岡浅子\">\n<surname> 広岡 </surname>\n<forename> 浅子 </forename>\n</persname> 、 <persname corresp=\"#pers_岡部\">\n<surname> 岡部 </surname>\n</persname> 、 <persname corresp=\"#pers_嘉納\">\n<surname> 嘉納 </surname>\n</persname> 、 <persname corresp=\"#pers_久保田\">\n<surname> 久保田 </surname>\n</persname> ノ諸氏来会ス、畢テ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ事務ヲ処理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リ北海道製麻会社ノ重役会ヲ開キ合併ノ件ニ関スル要務ヲ協議ス、夜\n        <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

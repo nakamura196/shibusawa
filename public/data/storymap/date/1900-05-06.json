@@ -1,0 +1,59 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-05-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n       晴、午前夫人及児女ヲ携テ大久保ニ抵リ躑躅ヲ見ル、地ハ宮城ノ西一里余ニ在リ、躑躅ニ適スルヲ以テ名アリ、此日日曜ナレハ来観人群聚シ頗ル雑沓ヲ極ム、花園路ヲ挟テ十数個アリ、躑躅園ト名クルモノ尤モ広シ、日ノ出園ト称スルモノアリ、紅色ノ花ヲ以テ一園ヲ装飾ス、恰モ旭日ノ如シ、壮観ナリ、其他人形ニ模セシモノ数所、躑躅尤モ大ナルモノハ高丈余、枝葉鬱叢シテ大行松ノ如キモノアリ、観畢テ後、馬車ヲ駆テ\n        <placename corresp=\"#place_浅草\"> 浅草 </placename> ニ抵リ大金楼ニ午餐ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7118833,
+                    "lon": 139.7966806,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時\n       </time> 頃ヨリ奥山ニ抵リ、種々ノ遊戯ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

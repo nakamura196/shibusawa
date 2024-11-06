@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-07-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、庭園ヲ散歩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 入浴シテ、朝飧ヲ食ス、\n        <persname corresp=\"#pers_蓮沼門三\">\n<surname> 蓮沼 </surname>\n<forename> 門三 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_木山熊次郎\">\n<surname> 木山 </surname>\n<forename> 熊次郎 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 事務所ニ抵リ来人ニ接シ事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> ヨリ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 人 <persname corresp=\"#pers_テシユラー\"> テシユラー\n       </persname> 、テーラー二氏来リ、稷山金鉱ノ事ニ関シ将来ノ経営ヲ協議ス <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> ヨリ <orgname> 銀行倶楽部 </orgname>\n       ニ抵リ晩飧会ニ出席ス水町 <orgname> 日本銀行 </orgname> 副総裁、 <placename corresp=\"#place_フランス\"> 仏国 </placename>\n       人フールネル氏及 <persname corresp=\"#pers_小野\">\n<surname> 小野 </surname>\n</persname> 、 <persname corresp=\"#pers_土方\">\n<surname> 土方 </surname>\n</persname> 二氏賓客トシテ来会ス、食卓上一場ノ演説ヲ為シ、四氏ヨリモ夫々答辞アリ、夜十 <pb corresp=\"#pageB1685\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/711/full/max/0/default.jpg\" n=\"B1685\" source=\"#pageB1685\"></pb> 時散会、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-11-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_蓮沼門三\">\n<surname> 蓮沼 </surname>\n<forename> 門三 </forename>\n</persname> 氏来訪、修養団雑誌向上ノ事ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 事務所ニ抵リ来人ニ接シ事務ヲ処理ス、三重紡績会社\n        <persname corresp=\"#pers_斎藤恒三\">\n<surname> 斎藤 </surname>\n<forename> 恒三 </forename>\n</persname> 氏来ル、会社営業ノ近況ヲ縷述セラル、午飧後共ニ歌舞妓座《（伎）》ニ抵リテ観劇ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 午後二時半 </time>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯邸ニ抵リ茶話会ニ出席ス、維新史料編纂ニ関スル諸氏来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 過事務所ニ抵リ書類ヲ整理ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> ヨリ同族会ヲ開ク、要件ヲ議了シ諸計算書ヲ覧閲ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n       夜飧ヲ為シ、後、種々ノ談話ヲ了リ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会、帰宿ス、後、新聞紙ヲ読マシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

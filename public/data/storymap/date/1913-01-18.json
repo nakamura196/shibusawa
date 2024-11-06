@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-01-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_井口正之\">\n<surname> 井口 </surname>\n<forename> 正之 </forename>\n</persname> 氏ノ来訪ニ接ス、同文館ノ事及運送会社ノ事ヲ談ス、日記ヲ編成ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n       銀行集会所ニ抵リ、理事其他ノ委員ヲ会シテ焼失後ノ処置ニ付種々ノ協議ヲ為ス、書記長ヲシテ充分ノ調査ヲ為シテ提案スル事ニ決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時\n       </time> 煉瓦会社総会ヲ <placename corresp=\"#place_日本橋\"> 日本橋 </placename> 倶楽部ニ開クニ会ス、 <persname corresp=\"#pers_諸井\">\n<surname> 諸井 </surname>\n</persname> 、 <persname corresp=\"#pers_日比谷\">\n<surname> 日比谷 </surname>\n</persname> 諸氏来会ス、畢テ <placename corresp=\"#place_浜町\"> 浜町 </placename> ニ立寄リ児等ニ面会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 事務所ニ抵リ、 <persname corresp=\"#pers_横山一平\">\n<surname> 横山 </surname>\n<forename> 一平 </forename>\n</persname> 氏、 <persname corresp=\"#pers_川田鷹\">\n<surname> 川田 </surname>\n<forename> 鷹 </forename>\n</persname> 氏及修養団員 <persname corresp=\"#pers_林平馬\">\n<surname> 林 </surname>\n<forename> 平馬 </forename>\n</persname> 氏外数氏来訪ニ接ス、 <placename corresp=\"#place_支那\"> 支那 </placename>\n       学生ト親睦云々ノ意見ニ対シテ注意ヲ与ヘテ熟考セシム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:30:00",
+                    "text": "<time when=\"16:30:00\"> 午後四時半 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename> 瓢屋ニ抵リ、豊国銀行開催ノ新年宴会ニ出席ス、 <persname corresp=\"#pers_浜口\">\n<surname> 浜口 </surname>\n</persname> 氏主人タリ、 <persname corresp=\"#pers_豊川良平\">\n<surname> 豊川 </surname>\n<forename> 良平 </forename>\n</persname> 氏来会ス宴半ニシテ更ニ常盤屋ニ抵リ鮟鱇会ニ出席ス、 <persname corresp=\"#pers_若槻\">\n<surname> 若槻 </surname>\n</persname> 大蔵大臣、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 、 <persname corresp=\"#pers_目賀田\">\n<surname> 目賀田 </surname>\n</persname> 、 <persname corresp=\"#pers_高橋\">\n<surname> 高橋 </surname>\n</persname> ノ諸氏来会ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿ス <lb></lb> （欄外） <lb></lb>\n       ［瓢屋、常盤屋共ニ種々ノ余興アリタリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

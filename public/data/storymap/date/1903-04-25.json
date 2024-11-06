@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-04-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 小雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 朝飧ヲ畢リ二三ノ来人ニ接シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n       三軒屋紡績会社ニ抵リ工場ヲ一覧シ、社員ヲ会シテ執務ノ得失ヲ討議ス、畢テ帰途 <persname corresp=\"#pers_松本重太郎\">\n<surname> 松本 </surname>\n<forename> 重太郎 </forename>\n</persname> 宅ヲ訪ヒ、 <orgname> 日本銀行 </orgname> 支店ヲ訪問シ支店長ニ面会シ、住友銀行、 <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯ノ旅寓等ヲ尋問シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 北浜銀行ニ抵リテ午飧ス、 <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯其他ノ諸氏ト共ニ饗宴セラルヽヲ以テナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 宴畢テ <placename corresp=\"#place_網島\"> 網島 </placename> ニ <persname corresp=\"#pers_藤田\">\n<surname> 藤田 </surname>\n</persname> 氏ヲ訪ヒ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ニ面会ス、 <persname corresp=\"#pers_松本重太郎\">\n<surname> 松本 </surname>\n<forename> 重太郎 </forename>\n</persname> 氏来会シテ瓦斯会社ノ事及大坂紡績会社ノ事ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n       大坂精糖会社ニ抵リ工場ヲ一覧シ、畢テ帰路 <placename corresp=\"#place_安治川\"> 安治川 </placename>\n       停車場ヨリ汽車ニ搭シ博覧会場ニ抵リ浪華踊一番ヲ観テ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-04-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 発ノ汽車ニテ <placename corresp=\"#place_豊橋\"> 豊橋\n       </placename> 、 <placename corresp=\"#place_名古屋\"> 名古屋 </placename> ヲ経、 <placename corresp=\"#place_京都\"> 京都 </placename> ニテ <persname corresp=\"#pers_中川\">\n<surname> 中川 </surname>\n</persname> 氏停車場ニ来訪ス、 <placename corresp=\"#place_名古屋\"> 名古屋 </placename> ニ於テ <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 二氏来訪ス、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 過 <placename corresp=\"#place_大阪\"> 大坂\n       </placename> 着、伝法屋ニ投宿ス、 <persname corresp=\"#pers_熊谷\">\n<surname> 熊谷 </surname>\n</persname> 、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 、 <persname corresp=\"#pers_竹山\">\n<surname> 竹山 </surname>\n</persname> 、 <persname corresp=\"#pers_木村\">\n<surname> 木村 </surname>\n</persname> 、 <persname corresp=\"#pers_山辺\">\n<surname> 山辺 </surname>\n</persname> 、 <persname corresp=\"#pers_大川\">\n<surname> 大川 </surname>\n</persname> 等ノ諸氏十数名来リ迎フ、夜食後博覧会場ニ抵リ夜中ノ電灯装飾ヲ一覧シ、場内不思議館ニ於テ学術上ノ試験ト米国女優ノ舞踏ヲ観ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

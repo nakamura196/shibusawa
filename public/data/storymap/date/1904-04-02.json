@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1904-04-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、室内運動ヲ為ス、朝飧後新聞紙ヲ閲ス、 <persname corresp=\"#pers_中村\">\n<surname> 中村 </surname>\n</persname> 氏ヨリ返書来ル、詠草ヲ封入ス、昨夜 <persname corresp=\"#pers_阪谷芳郎\">\n<surname> 阪谷 </surname>\n<forename> 芳郎 </forename>\n</persname> 、 <persname corresp=\"#pers_仲又七郎\">\n<surname> 仲又 </surname>\n<forename> 七郎 </forename>\n</persname> 等ノ書状ヲ落手ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> 及 <persname corresp=\"#pers_安五郎\">\n<forename> 安五郎 </forename>\n</persname> ヲ伴フテ鉄道線路ヲ超ヘ山手ヲ散歩ス、又午後家法ヲ浄写ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 頃ヨリ <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> 其他ノ奴婢ト共ニ又山手ノ散歩ヲ試ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 旅宿ニ帰ル、夜読書ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

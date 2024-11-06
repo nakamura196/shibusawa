@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-10-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ食シ、後来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> 発ノ汽車ニテ児童等ト共ニ <placename corresp=\"#place_上野\">\n        上野 </placename> ニ抵リ美術館ヲ一覧ス、 <persname corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persname> 氏同伴ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time> 風月堂ニテ小憩シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:30:00",
+                    "text": "<time when=\"13:30:00\"> 午後一時半\n       </time> 、 <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 、 <persname corresp=\"#pers_児玉\">\n<surname> 児玉 </surname>\n</persname> 二氏ノ催ニ係ル婚儀ノ披露会ニ出席ス、場所ハ <placename corresp=\"#place_上野\"> 上野 </placename>\n<orgname> 精養軒 </orgname> ニ開キタリ、開会者頗《（来）》ル多ク余興数番アリ、後、立会《（食カ）》ノ饗応席ニ於テ両家ノ祝福ヲ為シ <pb corresp=\"#pageB1545\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/571/full/max/0/default.jpg\" n=\"B1545\" source=\"#pageB1545\"></pb> 夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 過キ帰宿ス <lb></lb>\n       此夕、始テ自働車出来シテ試乗ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

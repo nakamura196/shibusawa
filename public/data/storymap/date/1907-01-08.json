@@ -1,0 +1,100 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-01-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後新聞紙ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ了ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ <persname corresp=\"#pers_田中元三郎\">\n<surname> 田中 </surname>\n<forename> 元三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_犬丸鉄太郎\">\n<surname> 犬丸 </surname>\n<forename> 鉄太郎 </forename>\n</persname> 二人ヲ会シテ <orgname> 人造肥料会社 </orgname> ノ事ヲ談ス、 <persname corresp=\"#pers_吉岡新五郎\">\n<surname> 吉岡 </surname>\n<forename> 新五郎 </forename>\n</persname> ヘモ説諭スル所アリタリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 、 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 三氏ト資金運転ノ事ヲ議ス <lb></lb>\n<persname corresp=\"#pers_滝兵右衛門\">\n<surname> 滝 </surname>\n<forename> 兵右衛門 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 過 <orgname> 第一銀行 </orgname> ニ於テ午飧シ、\n        <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト要務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 過 <placename corresp=\"#place_日比谷公園\">\n        日比谷公園 </placename> ニ抵リ自動車試運転ヲ見ル、自分モ乗試シノ為メ <placename corresp=\"#place_霞が関\"> 霞ケ関 </placename>\n       辺ヲ通過ス、運転自在頗ル快ヲ覚フ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.67361,
+                    "lon": 139.75611,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:55:00",
+                    "text": "<time when=\"15:55:00\"> 午後三時五十五分 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 発ノ汽車ニ搭シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_国府津\"> 国府津 </placename> ニ達ス、夜飧後紀料及夏ノ夢ヲ一読ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.280139,
+                    "lon": 139.2116278,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

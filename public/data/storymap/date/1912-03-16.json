@@ -1,0 +1,73 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-03-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_安井正太郎\">\n<surname> 安井 </surname>\n<forename> 正太郎 </forename>\n</persname> 氏来リテ国防義会設立ノ事ヲ談ス、趣意書ノ草案ヲ一覧シテ同氏ニ返却ス、 <persname corresp=\"#pers_大橋\">\n<surname> 大橋 </surname>\n</persname> 氏ヨリ来書アリテ <persname corresp=\"#pers_棚橋絢子\">\n<surname> 棚橋 </surname>\n<forename> 絢子 </forename>\n</persname> 祝賀会ニ出席ヲ乞ハル、同日差支アルヲ以テ之ヲ謝絶ス、 <persname corresp=\"#pers_大倉喜三郎\">\n<surname> 大倉 </surname>\n<forename> 喜三郎 </forename>\n</persname> 氏来リ <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 氏ノ大患ヲ告ク、今夕 <placename corresp=\"#place_大磯町\"> 大磯 </placename>\n       ニ在ル同氏ノ別荘ニ抵リ其病ヲ見舞フ事ヲ約ス、 <persname corresp=\"#pers_金子熊一\">\n<surname> 金子 </surname>\n<forename> 熊一 </forename>\n</persname> 氏来リ近日帰任ノ事ヲ告ク、将来ノ経営ニ付種々ノ訓示ヲ与フ、午飧後、 <placename corresp=\"#place_アメリカ合衆国\"> 米国\n       </placename> 人ピーヤ氏及 <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname>\n<persname corresp=\"#pers_岸\">\n<surname> 岸 </surname>\n</persname> 氏同行来訪ス、兼約アルヲ以テナリ、新古美術品、屏風、画幅、銀器等ヲ展覧セシメ、後、庭園ヲ散歩シ、愛蓮堂ニテ暫時談話シテ辞シ去ル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 事務所ニ抵リ <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏ノ来訪ニ接ス <pb corresp=\"#pageB1730\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/756/full/max/0/default.jpg\" n=\"B1730\" source=\"#pageB1730\"></pb> 又、 <persname corresp=\"#pers_堀越\">\n<surname> 堀越 </surname>\n</persname> 氏及 <placename corresp=\"#place_桐生\"> 桐生 </placename> 人数名来話ス、来ル <date evidence=\"year inferenced, month\" when=\"1912-03-13\"> 二十三日 </date> ノ展覧会開催ニ関シテ打合ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 五時半 </time>\n<persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ <placename corresp=\"#place_大磯町\"> 大磯 </placename> ニ抵リ <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 氏ノ病ヲ訪フ、病牀ニ抵リテ暫時談話シテ後家人ト協議シ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 長生館ニ抵リテ一泊ス此日、\n        <persname corresp=\"#pers_閑院宮\"> 閑院宮 </persname> ヨリ晩飧会ノ御召アリタルニ付病ヲ以テ之ヲ辞ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

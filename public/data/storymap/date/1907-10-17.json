@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-10-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後入浴シ、畢テ <persname corresp=\"#pers_横山\">\n<surname> 横山 </surname>\n</persname> 氏ト面話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ食シ、食後 <placename corresp=\"#place_鹿児島\"> 鹿児島 </placename> 七高学校ノ校長其他ノ人々ヘ <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> 修学上ノ事ニ関シ書状ヲ裁ス、蓋シ <persname corresp=\"#pers_横山\">\n<surname> 横山 </surname>\n</persname> 氏ニ托スル為メナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<orgname> 高等商業学校 </orgname> ニ抵リ、女子商業学校四週年紀念会ニ対スル一場ノ演説ヲ為ス、 <persname corresp=\"#pers_嘉悦幸子\">\n<surname> 嘉悦 </surname>\n<forename> 幸子 </forename>\n</persname> 《（ <persname corresp=\"#pers_嘉悦孝\">\n<surname> 嘉悦 </surname>\n<forename> 孝子 </forename>\n</persname> ）》ノ依頼ニヨル、畢テ <persname corresp=\"#pers_嘉納治五郎\">\n<surname> 嘉納 </surname>\n<forename> 治五郎 </forename>\n</persname> 氏ヲ訪ヒ聖廟保存会ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:30:00",
+                    "text": "<time when=\"13:30:00\"> 午後一時半 </time> 有栖川宮御邸ニ抵リ、 <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 公爵ト共ニ妃殿下ニ謁シ、慈恵会ノ事ニ関シ種々ノ協議アリ、畢テ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ要務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 頃ヨリ一友人ヲ訪ヒ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_葵町\"> 葵町 </placename>\n<persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏邸ニ抵リ清国公使招宴ニ列席ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十\n         <pb corresp=\"#pageB1477\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/503/full/max/0/default.jpg\" n=\"B1477\" source=\"#pageB1477\"></pb> 一時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

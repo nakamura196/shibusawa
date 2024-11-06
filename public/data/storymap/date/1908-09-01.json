@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-09-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、 <persname corresp=\"#pers_川田竜吉\">\n<surname> 川田 </surname>\n<forename> 竜吉 </forename>\n</persname> 氏及 <placename corresp=\"#place_函館\"> 函館 </placename> 人士多ク訪ヒ来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 発ノ聯絡船ニ乗組ム、地方ノ人々数十人送リ来ル海上少シク風アリテ船動揺ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<placename corresp=\"#place_青森\"> 青森 </placename> 港ニ着ス、直ニ上陸シテ <orgname> 中島楼 </orgname> ニ投宿ス、\n        <placename corresp=\"#place_青森\"> 青森 </placename>\n       地方人士多人数来リ迎フ、商業会議所会頭ハ其書記長等ト共ニ来リテ、午後市街一覧及今夕歓迎会ヲ開クニ付出席ノ事ヲ請求セラル、依テ食後ヨリ書記長 <persname corresp=\"#pers_川田\">\n<surname> 川田 </surname>\n</persname> 氏ノ案内ニテ官ノ製材所又ハ安東神社、 <placename corresp=\"#place_合浦公園\"> 合浦公園 </placename> 等ヲ一覧ス、夕方ヨリ <orgname>\n<orgname> 金森楼 </orgname>\n</orgname> ニ催サレタル地方人士ノ歓迎会ニ出席シ、酒間一場ノ演説ヲ為シ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 40.829917,
+                    "lon": 140.779028,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散会、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-01-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後〓戸《（牖）》ヲ開キテ書斎ニ於テ日誌其他ノ書類ヲ整理ス、京城学堂ニ関スル書類ヲ修正シテ <persname corresp=\"#pers_押川\">\n<surname> 押川 </surname>\n</persname> 氏ヘ送付ノ事ヲ <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ニ命シ遣ス、 <placename corresp=\"#place_咸鏡道\"> 咸鏡道 </placename> 金鉱出願ノ書類写ヲ <persname corresp=\"#pers_鶴原\">\n<surname> 鶴原 </surname>\n</persname> 氏ヘ送付ノ事ヲ命示ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 過朝飧ヲ畢ル、 <placename corresp=\"#place_八基村\"> 八基村 </placename>\n<persname corresp=\"#pers_渋沢治太郎\">\n<forename> 治太郎 </forename>\n</persname> 来訪ス、午後 <orgname> 中井商店 </orgname> ノ人々来リ昨季ノ決算ヲ示サル、 <persname corresp=\"#pers_田中栄八郎\">\n<surname> 田中 </surname>\n<forename> 栄八郎 </forename>\n</persname> 同伴来訪ス、 <persname corresp=\"#pers_川田鉄弥\">\n<surname> 川田 </surname>\n<forename> 鉄弥 </forename>\n</persname> 来話ス <lb></lb> 午後、 <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 来話ス、夜、雑誌又ハ伝記類ヲ読ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 36.23331,
+                    "lon": 139.26167,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

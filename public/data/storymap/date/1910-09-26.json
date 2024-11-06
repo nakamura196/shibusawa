@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-09-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ、朝飧ヲ食ス、後、来人ニ接ス、又、揮毫ス、午飧後事務所ニ抵リ事務ヲ処理ス、 <persname corresp=\"#pers_中野武営\">\n<surname> 中野 </surname>\n<forename> 武営 </forename>\n</persname> 氏 <orgname> 東京瓦斯会社 </orgname> ノ事ヲ来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<placename corresp=\"#place_横浜\"> 横浜 </placename> 丸喜店 <persname corresp=\"#pers_渋沢義一\">\n<surname> 渋沢 </surname>\n<forename> 義一 </forename>\n</persname> 及 <persname corresp=\"#pers_書上\">\n<surname> 書上 </surname>\n</persname> 、 <persname corresp=\"#pers_桃井\">\n<surname> 桃井 </surname>\n</persname> 等ノ諸氏来ル、 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 氏ノ同席ヲ乞ヘ、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 、 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 等ト共ニ丸喜店ニ関スル沿革ヲ詳話ス、畢テ一同夜飧ヲ為シ、食後、余興トシテ <persname corresp=\"#pers_細川風谷\">\n<surname> 細川 </surname>\n<forename> 風谷 </forename>\n</persname> ノ講談アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:30:00",
+                    "text": "<time when=\"22:30:00\"> 午後十時半 </time>\n       頃散会ス、此夜、就寝後腹痛激シク終夜眠ルヲ得ス、甚病因《（其カ）》ヲ知ル能ハシテ《（ス脱）》翌朝マテ苦悶ス、夜中、 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

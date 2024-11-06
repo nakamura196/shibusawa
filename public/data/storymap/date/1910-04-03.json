@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-04-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、二三ノ来人ニ接シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 九時半\n       </time> 京華中学卒業式ニ出席シテ一場ノ演説ヲ為ス、教師ト子弟トニ訓誡的ノモノナリ、後、 <placename corresp=\"#place_品川\"> 品川\n       </placename> ニ抵リ <persname corresp=\"#pers_町田徳之助\">\n<surname> 町田 </surname>\n<forename> 徳之助 </forename>\n</persname> 氏ノ饗宴ニ出席ス、庭中ノ午飧会ニシテ頗ル鄭重ナリ、卓上一場ノ挨拶ヲ為ス、畢テ <placename corresp=\"#place_王子\"> 王子\n       </placename> ニ帰宿シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> ヨリ <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 公爵及夫人、若夫婦、其他 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 伯爵、公爵家ノ人々来ル、庭園散歩ノ後、饗宴中女優ノ余興アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

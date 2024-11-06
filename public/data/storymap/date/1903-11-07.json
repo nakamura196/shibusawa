@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-11-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、朝飧ヲ畢リ書類ヲ検閲ス、 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> 来リ富岡八幡社ノ事ニ関スル会則ノ修正ヲ托ス、 <persname corresp=\"#pers_萩原源太郎\">\n<surname> 萩原 </surname>\n<forename> 源太郎 </forename>\n</persname> 来ル、商業会議所ノ要務ヲ談ス、且昨日 <persname corresp=\"#pers_清浦\">\n<surname> 清浦 </surname>\n</persname> 農商務大臣ト会話ノ事ヲ伝フ、献納美術館建築ノ費途増募ノ事ニ付東京市掛員来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<persname corresp=\"#pers_瓜生震\">\n<surname> 瓜生 </surname>\n<forename> 震 </forename>\n</persname> 氏来ル、京仁鉄道会社解散処分ノ事ヲ協議ス、 <persname corresp=\"#pers_荒木民三郎\">\n<surname> 荒木 </surname>\n<forename> 民三郎 </forename>\n</persname> 氏来ル、足尾鉱山行ノ事ヲ告ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n       午飧ヲ為シ、霊岸寺《（巌）》ニ抵リ深川教育会総会ニ出席ス、一場ノ演説ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<placename corresp=\"#place_イギリス\"> 英国 </placename> 公使館ニ於テ催ス処ノ園遊会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\">\n        午後五時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-05-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、直ニ入浴シ、畢テ朝飧ヲ食ス、朝来種々ノ来人アリ、 <persname corresp=\"#pers_細野次郎\">\n<surname> 細野 </surname>\n<forename> 次郎 </forename>\n</persname> 及 <placename corresp=\"#place_桐生市\"> 桐生町 </placename>\n<persname corresp=\"#pers_書上\">\n<surname> 書上 </surname>\n</persname> 、 <persname corresp=\"#pers_大沢\">\n<surname> 大沢 </surname>\n</persname> 三氏来リ、 <placename corresp=\"#place_桐生市\"> 桐生町 </placename> 出張ノ事ヲ請ハル、 <date evidence=\"year inferenced, month\" when=\"1910-05-27\"> 廿七日 </date> ヲ約ス、 <persname corresp=\"#pers_桃井可雄\">\n<surname> 桃井 </surname>\n<forename> 可雄 </forename>\n</persname> 来話ス、丸喜商店ノ営業ニ関スル事ヲ談ス、午前ヨリ揮毫ニ力ム、午飧後モ継続シテ数十枚ヲ認ム、夕方 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 氏来話ス <lb></lb>\n<persname corresp=\"#pers_堀井余一\">\n<surname> 堀井 </surname>\n<forename> 余一 </forename>\n</persname> 氏、 <persname corresp=\"#pers_石黒美川子\">\n<surname> 石黒 </surname>\n<forename> 美川子 </forename>\n</persname> 等来話《（ <persname corresp=\"#pers_石黒美つ子\">\n<surname> 石黒 </surname>\n<forename> 美つ子 </forename>\n</persname> ヵ）》ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 36.40533,
+                    "lon": 139.33047,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

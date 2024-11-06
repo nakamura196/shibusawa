@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-04-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_神田\"> 神田 </placename> 日芳館ニ抵リ <persname corresp=\"#pers_宗像政\">\n<surname> 宗像 </surname>\n<forename> 政 </forename>\n</persname> 氏ヲ訪フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<orgname> 第一銀行 </orgname> ニ出勤ス、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 、 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 、 <persname corresp=\"#pers_平沢道次\">\n<surname> 平沢 </surname>\n<forename> 道次 </forename>\n</persname> 氏来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 重役会ヲ開ク、畢テ各支店主任ヲ会同シ本季営業ノ方針ニ関スル金融事情ヲ協議ス、畢テ\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リ、 <persname corresp=\"#pers_西村勝三\">\n<surname> 西村 </surname>\n<forename> 勝三 </forename>\n</persname> 氏白煉瓦製造事業ノ談ヲ聞 <pb corresp=\"#pageB1132\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/158/full/max/0/default.jpg\" n=\"B1132\" source=\"#pageB1132\"></pb> ク、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 、 <persname corresp=\"#pers_馬越恭平\">\n<surname> 馬越 </surname>\n<forename> 恭平 </forename>\n</persname> 氏等来会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

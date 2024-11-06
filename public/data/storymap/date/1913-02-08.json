@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-02-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_山根寛一\">\n<surname> 山根 </surname>\n<forename> 寛一 </forename>\n</persname> 氏来リ <placename corresp=\"#place_ブラジル\"> 伯剌西爾 </placename> 殖民会社勤務志顧ノ由申出ル、 <persname corresp=\"#pers_今西兼二\">\n<surname> 今西 </surname>\n<forename> 兼二 </forename>\n</persname> 氏来リ為替銀行設立ニ付 <persname corresp=\"#pers_伊藤長次郎\">\n<surname> 伊藤 </surname>\n<forename> 長次郎 </forename>\n</persname> 氏ヘ紹介状ヲ付与ス、 <persname corresp=\"#pers_坂本\">\n<surname> 坂本 </surname>\n</persname> 則美氏来リ土地改良会社設立ノ事ニ付依頼セラル <lb></lb>\n"
+                },
+                "location": {
+                    "line": true,
+                    "lat": -15.783,
+                    "lon": -47.867,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<persname corresp=\"#pers_添田壽一\">\n<surname> 添田 </surname>\n<forename> 寿一 </forename>\n</persname> 氏ヲ <placename corresp=\"#place_九段\"> 九段 </placename> ノ邸ニ訪問ス、不在面会ヲ得ス、 <persname corresp=\"#pers_伏見宮\"> 伏見宮 </persname> 殿下御邸ニ伺候シ、過日小集ノ御礼ヲ申上ル、 <placename corresp=\"#place_支那\">\n        支那 </placename> 公使館ニ抵リ通訳官ニ面会シテ貨幣改正ノ事ヲ談話ス、内田山ニ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯爵ノ病ヲ訪ヘ少間病褥ニ於テ談話ス、 <placename corresp=\"#place_三田\"> 三田 </placename> 邸ニ抵リ午飧シ、\n        <persname corresp=\"#pers_渋沢敦子\">\n<forename> 敦子 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢敬三\">\n<forename> 敬三 </forename>\n</persname> ト談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ汽車会社総会ニ出席ス、畢テ <orgname> 第一銀行 </orgname> ニ抵リ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト行務ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 事務所ニ抵リ小宮氏ノ来訪ニ接ス、大 <pb corresp=\"#pageB1757\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/783/full/max/0/default.jpg\" n=\"B1757\" source=\"#pageB1757\"></pb> 橋、 <persname corresp=\"#pers_川田\">\n<surname> 川田 </surname>\n</persname> 二氏其他種々ノ来客アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<persname corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persname> 、 <persname corresp=\"#pers_古仁所\">\n<surname> 古仁所 </surname>\n</persname> 二氏来リテ修学上ノ撿閲ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 過帰宿、夜飧後、 <persname corresp=\"#pers_皆川\">\n<surname> 皆川 </surname>\n</persname> 氏来リ新約全書ノ講義ヲ聞ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1913-02-09T01:00+0900\"> 午後一時 </time> 就寝ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

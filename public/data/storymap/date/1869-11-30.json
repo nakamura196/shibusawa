@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-11-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝 <placename corresp=\"#place_江尻\"> 江尻 </placename> 宿を発し初而諸事を脱却し、頗る籠外初飛之鳥、江中不繫之船の想をなす、\n        <placename corresp=\"#place_蒲原\"> 蒲原 </placename> 駅に至り午餐、同所詰 <persname corresp=\"#pers_乙骨彦十郎\">\n<surname> 乙骨 </surname>\n<forename> 彦十郎 </forename>\n</persname> といふ者、 <persname corresp=\"#pers_前田重吾\">\n<surname> 前田 </surname>\n<forename> 重吾 </forename>\n</persname> 縁者なるか旅店に来り面話す、八ツ頃平垣 <persname corresp=\"#pers_松永整\">\n<surname> 松永 </surname>\n<forename> 整 </forename>\n</persname> を訪ふ、 <persname corresp=\"#pers_武沢市五郎\">\n<surname> 武沢 </surname>\n<forename> 市五郎 </forename>\n</persname> 岩淵迄罷越し同行にて開墾せし土地一覧す、夕方 <placename corresp=\"#place_吉原\"> 吉原 </placename> 駅に至り投宿\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

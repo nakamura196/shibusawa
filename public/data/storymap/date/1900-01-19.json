@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-01-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前 <persname corresp=\"#pers_大三輪長兵衛\">\n<surname> 大三輪 </surname>\n<forename> 長兵衛 </forename>\n</persname> 氏来ル、京釜鉄道ノ事ヲ談ス、 <persname corresp=\"#pers_竹内綱\">\n<surname> 竹内 </surname>\n<forename> 綱 </forename>\n</persname> 、 <persname corresp=\"#pers_前島密\">\n<surname> 前島 </surname>\n<forename> 密 </forename>\n</persname> 両氏来ル、同シク鉄道ノ談ヲ為シ、来ル <date evidence=\"year inferenced, month\" when=\"1900-01-22\"> 廿二日\n       </date> ヲ以テ委員会ヲ開ク事ヲ約ス、 <persname corresp=\"#pers_佐伯勢一郎\">\n<surname> 佐伯 </surname>\n<forename> 勢一郎 </forename>\n</persname> 来ル、 <placename corresp=\"#place_孟買\"> 孟買 </placename> 航路補助増加ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 岩越鉄道会社重役会ニ列ス、午餐後日本鉄道会社重役会ニ列ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時\n       </time> 青年会館ニ於テ催ス処ノ <orgname> 東京瓦斯会社 </orgname> 株主総会ニ列ス、畢テ <placename corresp=\"#place_浜町\"> 浜町\n       </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

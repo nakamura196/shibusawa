@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-01-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、直ニ入浴ス、浴後日記ヲ整理シ、又、満洲要覧ヲ読ム、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 侯爵 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 復命書ヲ再読ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 七時半 </time> 朝飧ヲ畢リテ郊外ヲ散歩ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n       帰宅、新聞紙ヲ一覧シ後午飧ヲ喫ス、食後ニ揮毫ヲ試ム、夕方ニ及ンテ止ム <lb></lb> 夜食後読書又ハ遊戯ニ閑ヲ消ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n       就寝 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

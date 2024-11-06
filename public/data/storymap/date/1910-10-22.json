@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-10-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ後朝飧ヲ食ス、畢テ来書ヲ点撿ス、 <persname corresp=\"#pers_今井清彦\">\n<surname> 今井 </surname>\n<forename> 清彦 </forename>\n</persname> 氏来リ <orgname> 国学院 </orgname> ノ事ヲ談ス、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 氏来リテ養育院ノ事務ヲ協議シ、且、 <persname corresp=\"#pers_北村\">\n<surname> 北村 </surname>\n</persname> 某ト称スル女子ヨリノ来書ニ付其実状ヲ探究スル事ヲ談ス、 <placename corresp=\"#place_埼玉県\"> 埼玉県 </placename>\n       教育会ヨリノ来状ニ答ヘテ、 <date evidence=\"year inferenced\" when=\"1910-11-06\"> 十一月六日 </date> 出張ノ事ヲ\n        <persname corresp=\"#pers_望月\">\n<surname> 望月 </surname>\n</persname> 氏ニ申遣ス <lb></lb>\n<orgname> 女子大学 </orgname> 寄附金ノ事ニ関シ、 <placename corresp=\"#place_新潟\"> 新潟 </placename>\n<persname corresp=\"#pers_桜井\">\n<surname> 桜井 </surname>\n</persname> 、 <placename corresp=\"#place_長岡\"> 長岡 </placename>\n<persname corresp=\"#pers_松井\">\n<surname> 松井 </surname>\n</persname> 氏ヘ書状ヲ発ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.857167,
+                    "lon": 139.649194,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

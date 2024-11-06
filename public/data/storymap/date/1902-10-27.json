@@ -1,0 +1,52 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-10-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、朝早ク <placename corresp=\"#place_廈門市\"> 厦門 </placename> 地方ノ山ヲ左舷ニ見ル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 24.44611,
+                    "lon": 118.06778,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\">\n        八時 </time> 頃 <placename corresp=\"#place_台湾\"> 台湾島 </placename>\n<placename corresp=\"#place_淡水\"> 淡水 </placename> ノ諸山ヲ右舷ニ見ル、時ニ雲靄多クシテ眺望意ノ如クナラサリキ、終日読書又ハ詩作等ニ消閑ス\n      "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 23.767,
+                    "lon": 121.0,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

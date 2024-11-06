@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-02-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝出殿、復命之儀并御役之儀難有御請申上候旨 <persname corresp=\"#pers_四郎\">\n<forename> 四郎 </forename>\n</persname> を以 <persname corresp=\"#pers_大久保一翁\">\n<forename> 一翁 </forename>\n</persname> 殿へ申立る、公子へ呈書外一封御用便達し方之儀相托す、 <persname corresp=\"#pers_梅沢\">\n<surname> 梅沢 </surname>\n</persname> 面会、御請申上候旨申談、午後廻勤いた《（す脱カ）》、夕方 <placename corresp=\"#place_呉服町\"> 呉服町 </placename>\n       五丁目川村屋方へ転宿いたす "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

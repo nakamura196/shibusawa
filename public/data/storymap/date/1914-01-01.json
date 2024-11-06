@@ -1,0 +1,101 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-01-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、静坐入浴等ニテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n       新衣ヲ着ケ、家族一同屠蘇酒ヲ飲ミ雑煮餠ヲ食ス、後、従僕男女多数ノ祝賀ヲ受ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 家族一同自働車ニテ\n        <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ抵リ、 <orgname> 第一銀行 </orgname>\n       員及各会社員、親戚、故旧又ハ事 <pb corresp=\"#pageB1765\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/791/full/max/0/default.jpg\" n=\"B1765\" source=\"#pageB1765\"></pb> 務所員等ノ祝賀ヲ受ク、畢テ <orgname> 第一銀行 </orgname>\n       ニ於テ、恒例ニ依リ新年祝賀ノ寿杯ヲ挙テ行員本支店通計百五十名余ト祝詞ヲ交換ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time>\n       帝国劇場ニ抵リ、重役及技芸員男女一同相集リテ新年祝賀ノ寿杯ヲ挙ケ、一場ノ賀詞ヲ演説ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 再ヒ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ抵リ午飯ヲ食シ、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 家、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 家及 <persname corresp=\"#pers_渋沢元治\">\n<surname> 渋沢 </surname>\n<forename> 元治 </forename>\n</persname> 、 <persname corresp=\"#pers_明石\">\n<surname> 明石 </surname>\n</persname> 家等ヲ訪問シ、新年祝詞ヲ為ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 過家ニ還リテ新聞紙雑誌類ヲ読ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半 </time> 夜飧後又雑誌ヲ閲覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 就寝ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

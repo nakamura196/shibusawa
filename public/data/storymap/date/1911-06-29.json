@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-06-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、昨夜来大風雨、朝ハ風歇ミタルモ大雨ナリ、入浴シテ朝飧ヲ食シ、後、日記ヲ編成ス、又、月末ノ家計ヲ調査ス、\n        <persname corresp=\"#pers_原小太郎\">\n<surname> 原 </surname>\n<forename> 小太郎 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏来リ浦賀船渠会社ニ於テ造船ノ事ヲ談ス、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 氏及浄土宗僧 <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> 某来リ、共済会発会式ニ出席ノ請求アリシモ差支アルニヨリ謝絶ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n       事務所ニ抵リ、来人ニ接シ書類ヲ点撿ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、後、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト要務ヲ談ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 東京商業会議所 </orgname> ニ抵リ、 <placename corresp=\"#place_北海道\"> 北海道 </placename>\n       瓦斯会社ノ創立総会ニ出席シ新任重役ヲ指名ス、畢テ農商務省ニ抵リ、大臣、次官及 <persname corresp=\"#pers_平山成信\">\n<surname> 平山 </surname>\n<forename> 成信 </forename>\n</persname> 氏ト喜賓会ノ事ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 43.064333,
+                    "lon": 141.346889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 事務所ニ抵リ事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<orgname> 横浜正金銀行 </orgname> ノ招宴ニ応シテ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵ル、大饗宴ニテ会衆百五十名余ナリ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散会、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-07-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後日誌ヲ作ル、朝飧後数多ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 旅寓ヲ発シ、銀行員ノ社宅地ヲ一覧シ、 <persname corresp=\"#pers_福田増兵衛\">\n<surname> 福田 </surname>\n<forename> 増兵衛 </forename>\n</persname> 氏ノ別荘ヲ訪フテ小憩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 小倉楼 </orgname> ニ抵リ、地方有志者十数名ノ催フセル午飧会ニ出席ス、食後 <orgname> 第一銀行 </orgname>\n       支店ニ抵リ、店員一同ニ告別シ且一場ノ訓戒ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 過小学校ニ抵リ、此地ノ経済会ニ於テ催フセル演説会ニ出席シ、\n        <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 経営ニ関シ一場ノ演説ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:30:00",
+                    "text": "<time when=\"15:30:00\"> 三時半\n       </time> 頃散会帰寓、更ニ地方人志《（士）》ノ歓迎会ニ出席ス、会場ハ此地民役所楼上ナリキ、酒間一場ノ謝辞ヲ述ヘ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半\n       </time> 帰寓、銀行員其他ノ企望ニヨリテ数幅ノ揮毫ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 七時半 </time> 山陽聯絡船対馬丸ニ搭シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:30:00",
+                    "text": "<time when=\"20:30:00\"> 八時半 </time>\n<placename corresp=\"#place_釜山広域市\"> 釜山 </placename> ヲ発ス、夜、風強ク浪高シ、船動揺シテ安眠スルヲ得ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.1,
+                    "lon": 129.033,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

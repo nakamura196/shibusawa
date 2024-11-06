@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-02-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前、 <persname corresp=\"#pers_古河潤吉\">\n<surname> 古河 </surname>\n<forename> 潤吉 </forename>\n</persname> 氏来ル、京釜鉄道ノ事ヲ談ス、 <persname corresp=\"#pers_滝兵右衛門\">\n<surname> 滝 </surname> 兵右衛門 </persname> 来ル、 <persname corresp=\"#pers_増田多郎\">\n<surname> 増田 </surname>\n<forename> 多郎 </forename>\n</persname> 、 <persname corresp=\"#pers_一森彦楠\">\n<surname> 一森 </surname>\n<forename> 彦楠 </forename>\n</persname> 来ル、午後大蔵省ニ抵リ <persname corresp=\"#pers_松尾臣善\">\n<surname> 松尾 </surname>\n<forename> 臣善 </forename>\n</persname> 氏ニ面会シテ貯蓄銀行法案ノ事ヲ協議シ、更ニ京仁鉄道ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 頃 <orgname>\n        第一銀行 </orgname> ニ出勤ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<orgname> 銀行倶楽部 </orgname> 晩餐会ニ出席ス、 <persname corresp=\"#pers_桜井\">\n<surname> 桜井 </surname>\n</persname> 、 <persname corresp=\"#pers_星松三郎\">\n<surname> 星 </surname>\n<forename> 松三郎 </forename>\n</persname> ノ諸氏来会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-01-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、朝来揮毫ニ従事ス、蓋シ昨年来托セラレタル題字又ハ額面〓本等数十葉書シ、畢テ午餐シ、食後海辺ニ徜徉ス、此夜 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 侯爵来訪セラル、間談数刻ニシテ帰ル、 <persname corresp=\"#pers_小川正直\">\n<surname> 小川 </surname>\n<forename> 正直 </forename>\n</persname> 氏来ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

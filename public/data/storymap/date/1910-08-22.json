@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-08-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ後朝飧ヲ食ス、 <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> 氏来リテ <placename corresp=\"#place_埼玉\"> 埼玉 </placename> 県水災ノ実況ヲ談ス、 <persname corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 三井同族会ニ抵リ、 <persname corresp=\"#pers_有賀長文\">\n<surname> 有賀 </surname>\n<forename> 長文 </forename>\n</persname> 氏ニ面会シテ善後会ニ三井家ヨリノ寄附金ノ事ヲ依頼ス、十一 <pb corresp=\"#pageB1639\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/665/full/max/0/default.jpg\" n=\"B1639\" source=\"#pageB1639\"></pb> 時商業会議所ニ抵リ、 <persname corresp=\"#pers_中野\">\n<surname> 中野 </surname>\n</persname> 、 <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 、 <persname corresp=\"#pers_大橋\">\n<surname> 大橋 </surname>\n</persname> 三氏ト昨日 <persname corresp=\"#pers_長谷場\">\n<surname> 長谷場 </surname>\n</persname> 衆議院議長ヨリ協議ノ事ヲ談ス、衆議分離ヲ是トスルニ付、其趣旨ヲ以テ午後回答スルモノトス、夫ヨリ一同午飧ヲ共ニシ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\">\n        一時 </time> 南満鉄道ニ抵リ、 <persname corresp=\"#pers_清野\">\n<surname> 清野 </surname>\n</persname> 氏ニ面会シテ寄附金ノ事ヲ依頼ス、後、 <placename corresp=\"#place_永田町\"> 永田町 </placename> ニ <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 首相ヲ訪ヒ <persname corresp=\"#pers_長谷場\">\n<surname> 長谷場 </surname>\n</persname> 氏トノ談話ヲ告ケ、後、衆議院ニ抵リテ、 <persname corresp=\"#pers_長谷場\">\n<surname> 長谷場 </surname>\n</persname> 、 <persname corresp=\"#pers_根津\">\n<surname> 根津 </surname>\n</persname> 、 <persname corresp=\"#pers_岡崎\">\n<surname> 岡崎 </surname>\n</persname> 其他ノ諸氏ト昨日来ノ事ヲ談ス、畢テ再ヒ会議所ニ抵リ、其顚末ヲ <persname corresp=\"#pers_中野\">\n<surname> 中野 </surname>\n</persname> 氏等ニ報告ス、夕方事務所ニ抵リテ事務ヲ処理シ、 <placename corresp=\"#place_八基村\"> 八基村 </placename>\n       ヘノ寄附金及書状ヲ作リ、明日 <persname corresp=\"#pers_増田\">\n<surname> 増田 </surname>\n</persname> ヲ派遣ノ事ヲ決ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6768472,
+                    "lon": 139.7399139,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 七時半 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、夜飧後、新聞紙雑誌ヲ読マシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

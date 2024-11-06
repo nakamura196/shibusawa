@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-02-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後風邪全愈セサルヲ以テ、褥中ニ在テ新聞紙ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 九時半 </time> 朝飧ヲ畢リ種々ノ書籍ヲ読ム <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<persname corresp=\"#pers_戸田宇八\">\n<surname> 戸田 </surname>\n<forename> 宇八 </forename>\n</persname> 氏来リ、英国皇族歓迎ノ事ニ関スル手続ヲ協議ス <lb></lb>\n<persname corresp=\"#pers_太田虎次郎\">\n<surname> 太田 </surname>\n<forename> 虎次郎 </forename>\n</persname> 氏来話ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 大蔵大臣官舎ニ抵ル、公債募集ニ関スル協議会ニ出席ス、 <persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 総理大臣其他各大臣出席、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯、 <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 総裁、 <persname corresp=\"#pers_高橋副総裁\">\n<surname> 高橋 </surname> 副総裁 </persname> 及 <placename corresp=\"#place_京阪\"> 京阪 </placename>\n       其他ノ各銀行者来会ス、食卓上一場ノ謝辞ヲ為シ、食後 <persname corresp=\"#pers_高橋\">\n<surname> 高橋 </surname>\n</persname> 氏ヨリ <placename corresp=\"#place_イギリス\"> 英国 </placename>\n       其他ノ国々ニ於ル金融事情及公債ノ気配等ニ関シ演説アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:30:00",
+                    "text": "<time when=\"22:30:00\"> 十時半 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

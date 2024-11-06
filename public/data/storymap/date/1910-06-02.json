@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-06-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、旅装ヲ理シ、 <persname corresp=\"#pers_細野次郎\">\n<surname> 細野 </surname>\n<forename> 次郎 </forename>\n</persname> 氏来リテ此旅行ノ東道主タルヲ告ク、 <placename corresp=\"#place_桐生\"> 桐生 </placename> 人数名来リ迎フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> 発ノ汽車ニテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n       頃小山ニ抵リ、汽車ヲ乗替ヘテ両毛線ニテ <placename corresp=\"#place_桐生\"> 桐生 </placename> ニ赴ク、車中午飧シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<placename corresp=\"#place_桐生市\"> 桐生町 </placename> ニ達ス、 <orgname> 四十銀行 </orgname>\n       所有ノ一小屋ニ投宿ス、来訪者頗ル多シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 36.40533,
+                    "lon": 139.33047,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 頃 <placename corresp=\"#place_桐生\"> 桐生\n       </placename>\n       織物業者組合集会所ニ抵リ撮影ス、又、陳列所ニ於テ製品ヲ一覧ス、後、地方人士ノ望ニ応シテ一場ノ講話ヲ為ス、畢テ歓迎会場ニ抵リ、会場ハ桐生館ニ開催セラレ種々ノ余興アリ、酒間一場ノ謝詞ヲ述ヘ、夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

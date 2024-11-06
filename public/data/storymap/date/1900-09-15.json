@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-09-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<orgname> 石川島造船所 </orgname> 重役会ニ列ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ於テ催サレタル政友会ノ園遊会ニ抵ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 過去テ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰リ、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n<placename corresp=\"#place_京城府\"> 京城 </placename>\n<persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 公使、 <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_大江卓\">\n<surname> 大江 </surname>\n<forename> 卓 </forename>\n</persname> 氏等ヘ書状ヲ発ス、此夜 <placename corresp=\"#place_浜町\"> 浜町 </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

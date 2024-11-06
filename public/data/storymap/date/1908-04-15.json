@@ -1,0 +1,109 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-04-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シ、畢テ朝飧ヲ食シ、後、新聞紙ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時\n       </time> 過 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 、 <persname corresp=\"#pers_明石愛子\">\n<forename> 愛子 </forename>\n</persname> 同伴 <placename corresp=\"#place_新橋\"> 新橋 </placename> 停車場ニ抵ル、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 男爵ノ洋行ヲ送別スル為メナリ、同シク汽車ニ搭シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 十時半 </time>\n<placename corresp=\"#place_横浜\"> 横浜 </placename> ニ抵リ <orgname> 正金銀行 </orgname> ニ於テ休憩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 同行ニ於テ一行及多数ノ送別者ト共ニ午飧ヲ食シ、食後種々ノ談話ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時\n       </time> 過キ桟橋ヨリ本船ニ抵ル、船ハ <orgname> 日本郵船会社 </orgname> ノ加賀丸ニシテ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n<placename corresp=\"#place_シアトル\"> シヤトル </placename> 航路ニ属スルモノナリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 47.60972,
+                    "lon": -122.33306,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:30:00",
+                    "text": "<time when=\"13:30:00\"> 午後一時半 </time>\n<persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 及一行ノ人々ニ告別シ、帰途 <orgname> 第一銀行 </orgname> ニ立寄リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n       発ノ汽車ニテ帰京ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ <persname corresp=\"#pers_亀井\">\n<surname> 亀井 </surname>\n</persname> 宮城県知事ノ来訪ニ接シ、 <orgname> 七十七銀行 </orgname> ノ事ヲ談話ス、後、 <persname corresp=\"#pers_久米良作\">\n<surname> 久米 </surname>\n<forename> 良作 </forename>\n</persname> 、 <persname corresp=\"#pers_山田英太郎\">\n<surname> 山田 </surname>\n<forename> 英太郎 </forename>\n</persname> 二氏ノ来訪ニ面会シ日鉄ノ要務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 他ノ一友ヲ訪ヒテ夜飧シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

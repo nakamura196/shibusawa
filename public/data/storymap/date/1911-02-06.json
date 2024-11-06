@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-02-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シテ後朝飧ヲ食ス、 <persname corresp=\"#pers_原小太郎\">\n<surname> 原 </surname>\n<forename> 小太郎 </forename>\n</persname> 氏ノ来訪ニ接シ、 <persname corresp=\"#pers_皆川\">\n<surname> 皆川 </surname>\n</persname> 氏ノ病症ヲ縷述ス、 <persname corresp=\"#pers_田代英作\">\n<surname> 田代 </surname>\n<forename> 英作 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_岡田良平\">\n<surname> 岡田 </surname>\n<forename> 良平 </forename>\n</persname> 氏来リ、 <orgname> 高等商業学校 </orgname> ノ事ヲ談ス <lb></lb> 此日ハ出勤ヲ為サス、家ニ在テ書類ヲ点検シ、又、新聞紙雑誌等ヲ一覧ス、\n        <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 氏来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

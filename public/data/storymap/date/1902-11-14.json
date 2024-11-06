@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-11-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、病全ク快方ナルヲ以テ朝来書類ヲ調査シ、且種々ノ来人ニ接シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 日本鉄道会社重役会ニ出席ス、畢テ\n        <persname corresp=\"#pers_前田青莎\">\n<surname> 前田 </surname>\n<forename> 青莎 </forename>\n</persname> 、 <persname corresp=\"#pers_久野昌二\">\n<surname> 久野 </surname>\n<forename> 昌二 </forename>\n</persname> 氏ト岩越会社ニ関スル要務ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ書類ヲ一覧シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時\n       </time> ニ <orgname> 東京商業会議所 </orgname> ニ抵リ会員撰挙資格ニ関スル委員会ニ出席ス、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 、 <persname corresp=\"#pers_雨宮\">\n<surname> 雨宮 </surname>\n</persname> 両人、 <persname corresp=\"#pers_大橋\">\n<surname> 大橋 </surname>\n</persname> 、 <persname corresp=\"#pers_朝吹\">\n<surname> 朝吹 </surname>\n</persname> 、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 、 <persname corresp=\"#pers_小松\">\n<surname> 小松 </surname>\n</persname> 、 <persname corresp=\"#pers_片野\">\n<surname> 片野 </surname>\n</persname> 等ノ諸氏来会種々協議ノ末、来 <date evidence=\"year inferenced, month\" when=\"1902-11-21\"> 廿一日\n       </date> ヲ以テ尚一会ヲ開ク事ニ決ス、畢テ京坂神三会議所ニ送付スヘキ書状案ヲ作リ、 <persname corresp=\"#pers_萩原\">\n<surname> 萩原 </surname>\n</persname> 氏ニ其送付ヲ指示ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

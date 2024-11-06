@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-05-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 昨夜小蒸気船ニテ睡眠中 <placename corresp=\"#place_蘇州\"> 蘇州 </placename> ニ抵ル、 <persname corresp=\"#pers_黒沢礼吉\">\n<surname> 黒沢 </surname>\n<forename> 礼吉 </forename>\n</persname>\n       氏来リ迎フ、直ニ上陸シテ同氏ノ家ニ小憩シ、更ニ小船ニテ運河ヲ航シテ寒山寺ニ抵ル、寺僧茶ヲ饗ス、一覧後又一寺院ニ抵リテ鼈ヲ見ル、頗ルナリ《（脱字アルカ）》、寺院ヨリ徒歩シテ\n        <placename corresp=\"#place_蘇州\"> 蘇州 </placename> 鎮守使ノ開催セル饗宴ヲ受ク、会場 <persname corresp=\"#pers_盛宣懐\">\n<surname> 盛 </surname>\n<forename> 宣懐 </forename>\n</persname> 氏ノ別荘ニテ壮大華麗ナリ、食卓上一場ノ謝詞ヲ述ヘ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 過 <placename corresp=\"#place_蘇州\"> 蘇州 </placename> 発ノ汽車ニテ <placename corresp=\"#place_上海市\"> 上海 </placename>\n       ニ帰着ス、着後、アストル旅館ニ於テ休憩ス、来訪スル者極テ多数ナリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 31.16667,
+                    "lon": 121.48333,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 午後五時半 </time>\n       当地商務総会其他有志者ノ開催セル宴会ニ出席ス、先ツ書画ノ雅宴アリ、且ツ古書画数十幅ヲ展覧ス、席上揮毫者多シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n       過食卓ヲ開ク、饗宴頗ル鄭重ナリ、余興トシテ <placename corresp=\"#place_支那\"> 支那 </placename> 劇アリ、時代世話等ノ四幕ヲ演ス、食卓ニテ\n        <persname corresp=\"#pers_盛宣懐\">\n<surname> 盛 </surname>\n<forename> 宣懐 </forename>\n</persname> ニ代リ <persname corresp=\"#pers_沈仲礼\">\n<surname> 沈 </surname>\n<forename> 仲礼 </forename>\n</persname> 氏ノ演説及 <persname corresp=\"#pers_周\">\n<surname> 周 </surname>\n</persname> 氏、 <persname corresp=\"#pers_孫\">\n<surname> 孫 </surname>\n</persname> 氏等ノ演説アリ、余モ詳細ナル謝詞ヲ述フ、宴散シテ、 <persname corresp=\"#pers_周\">\n<surname> 周 </surname>\n</persname> 氏ノ請ニ応シテ一酒楼ニ上リ花妓ノ集合ヲ一覧シ、揮毫ノ余興アリテ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1914-05-10T01:00+0900\"> 一時\n       </time> 過帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

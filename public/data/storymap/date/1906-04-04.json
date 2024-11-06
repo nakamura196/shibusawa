@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-04-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1414\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/440/full/max/0/default.jpg\" n=\"B1414\" source=\"#pageB1414\"></pb>\n<lb></lb> 起床後書斎ニ於テ書類ヲ検閲ス、又庭園ヲ散歩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 朝飧ヲ畢ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 大蔵大臣官舎ニ抵リ水曜会ニ出席ス、大蔵次官以下ノ属僚及 <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 、 <persname corresp=\"#pers_高橋\">\n<surname> 高橋 </surname>\n</persname> 其他ノ銀行者来会ス、種々ノ協議アリ、畢リテ内務省ニ抵リ <persname corresp=\"#pers_大谷靖\">\n<surname> 大谷 </surname>\n<forename> 靖 </forename>\n</persname> 氏ヲ訪ヒ、ホテルノ敷地ニ関スル談話ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧ス、食後要務ヲ談ス、畢テ事務所ニ抵リ書類ヲ整理ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_上野\"> 上野 </placename>\n<orgname> 精養軒 </orgname> ニ抵リ <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 氏ノ栄転ヲ祝スル宴会ニ出席ス、種々ノ余興アリ、且食卓上一場ノ演説ヲ為ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過宴散シテ\n        <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

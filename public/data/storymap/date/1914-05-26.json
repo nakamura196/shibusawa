@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-05-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1785\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/811/full/max/0/default.jpg\" n=\"B1785\" source=\"#pageB1785\"></pb>\n<lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "04:30:00",
+                    "text": "<time when=\"04:30:00\"> 午前四時半 </time> 起床、此日ハ <placename corresp=\"#place_八達嶺\"> 八達嶺 </placename>\n       ニ抵リ有名ナル万里長城ヲ一覧スル筈ナレハ、匆々ニ朝飧ヲ食シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:50:00",
+                    "text": "<time when=\"05:50:00\"> 五時五十分 </time>\n<placename corresp=\"#place_南口\"> 南口 </placename> 発ノ汽車ニテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 頃\n        <placename corresp=\"#place_青竜\"> 青竜 </placename>\n       車站ニ抵リ車ヲ下リ、竹輿ニテ山上ニ抵ル、北門鎖鑰ノ四字ヲ彫刻セル城門ニ於テ竹輿ヲ離レ、嶺上ヲ徒歩ス、此処ニテ長城ノ概況ヲ一望ス、想フニ此長城ハ秦代ノモノニハアラスシテ明時代ニ於テ増修セシモノナラン歟、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 頃汽車 <placename corresp=\"#place_青竜\"> 青竜 </placename>\n       車站ヲ発シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time> 頃 <placename corresp=\"#place_南口\"> 南口 </placename>\n       ニ抵リ車中ニテ午飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 過 <placename corresp=\"#place_北京市\"> 北京\n       </placename> ニ帰ル、帰着早々 <persname corresp=\"#pers_鄭\">\n<surname> 鄭 </surname>\n</persname> 氏同行自働車ニテ各官憲ヲ訪問ス、蓋シ留別ノ為メナリ、公使館ニ <persname corresp=\"#pers_山座\">\n<surname> 山座 </surname>\n</persname> 公使公使ヲ訪ヘ、頃日来ノ周旋ヲ謝シ、公務ヲ談話ス、此日、 <placename corresp=\"#place_支那\"> 支那 </placename>\n       政府ヨリ勲章贈附ノ事アリシモ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 39.90556,
+                    "lon": 116.39139,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time> ヲ秘スヘキ由ニテ公然謝詞ヲ述ヘス、夜ニ入リ、 <persname corresp=\"#pers_尾崎\">\n<surname> 尾崎 </surname>\n</persname>\n<persname corresp=\"#pers_森恪\">\n<surname> 森 </surname>\n<forename> 恪 </forename>\n</persname> 二氏来リ、中日実業会社将来ノ経営ニ付種々ノ協議ヲ為ス、懇ニ要旨ヲ二氏ニ陳述ス、又、各新聞社員ト会シテ <placename corresp=\"#place_支那\"> 支那 </placename> ニ対スル本邦新聞紙ノ態度ニ関シ詳細ノ意見ヲ述フ、留別ノ為メ各方面ノ諸氏ト会食シ一同ニ向テ滞留中ノ懇切ナル待遇ヲ謝ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

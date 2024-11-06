@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-06-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 邸ニ抵リ事務ヲ処理ス、 <persname corresp=\"#pers_三好退蔵\">\n<surname> 三好 </surname>\n<forename> 退蔵 </forename>\n</persname> 氏来ル、 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 氏来ル、午後 <orgname> 第一銀行 </orgname> ニ出勤ス、夕方 <placename corresp=\"#place_飛鳥山邸\"> 王子別荘\n       </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

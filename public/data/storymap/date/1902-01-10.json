@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-01-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢リテ御伝記草案ヲ読ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:08:00",
+                    "text": "<time when=\"10:08:00\"> 十時八分 </time>\n<placename corresp=\"#place_大磯町\"> 大磯 </placename> 発ノ汽車ニテ <placename corresp=\"#place_東京\"> 東京\n       </placename> ニ赴ク、車中 <persname corresp=\"#pers_赤星弥之助\">\n<surname> 赤星 </surname>\n<forename> 弥之助 </forename>\n</persname> 、 <persname corresp=\"#pers_頭本元貞\">\n<surname> 頭本 </surname>\n<forename> 元貞 </forename>\n</persname> 諸氏ト談話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 着、直ニ <placename corresp=\"#place_日本橋兜町\"> 兜町\n       </placename> ニ抵リ事務所ニ於テ要務ヲ弁シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ重役会ヲ開キ <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n       借款ノ事ヲ議決ス、畢テ事務所ニ到リ二三ノ書状ヲ裁シ且留守中来集セシ諸方ヨリノ書状ヲ一覧処置ス、 <orgname> 石川島造船所 </orgname>\n<persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 、 <persname corresp=\"#pers_平沢\">\n<surname> 平沢 </surname>\n</persname> 、進ノ諸氏来ル、過日相生セシ紛議ヲ和解シ且同工場将来経営ノ方針ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time> 過\n        <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス、此夜、 <persname corresp=\"#pers_岡部\">\n<surname> 岡部 </surname>\n</persname> 老婦人　○ <persname corresp=\"#pers_岡部幸右衛門\">\n<surname> 岡部 </surname>\n<forename> 幸右衛門 </forename>\n</persname> 妻 <persname corresp=\"#pers_こう\">\n<forename> こう </forename>\n</persname>\n<persname corresp=\"#pers_渋沢栄一\">\n<forename> 栄一 </forename>\n</persname> 亡夫人 <persname corresp=\"#pers_渋沢千代子\">\n<forename> 千代子 </forename>\n</persname> ノ妹来宿セシヲ以テ深更マテ旧事ヲ話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

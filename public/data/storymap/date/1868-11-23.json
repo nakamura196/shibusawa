@@ -1,0 +1,66 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-11-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 暁 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:00:00",
+                    "text": "<time when=\"05:00:00\"> 五時 </time> 頃 <placename corresp=\"#place_柬甫塞河\"> 柬甫塞河 </placename>\n       の口に至る、夫より河上を遡る、此時水先案内来りて本船に乗移る、河巾はさまて広からされとも、水底深しと見ゐて、〓行障りなり《（しカ）》、河の両縁は緑樹蓊欝として大きなる林のことし、満潮の時は河水樹根を漬せとも腐枯せすといふ、尾長き猿多し、第\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 九時半 </time>\n<placename corresp=\"#place_ホーチミン市\"> 柴棍 </placename> 御着、第 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 10.76944,
+                    "lon": 106.68194,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n       小船ニ而御上陸、一同御供、海岸ニ而弐輛の馬車を雇へ <placename corresp=\"#place_商綸\"> 商綸 </placename>\n       といふ古市街御越、この商倫《（マヽ）》といふは <placename corresp=\"#place_ホーチミン市\"> 柴棍 </placename>\n       より壱里余程もあるへく一の市街なり、零落せしさまなれとも、往昔は繁華《（マヽ）》をたりしと覚ゆ、一の広大なる社あり、聖母殿と漢字にて書しあり、海神を祭りし神社と覚ゆ、社内に支那人の居りかは《（し脱カ）》、筆語せしが、能支那文字に通せし人なく、文字往々了解せさりし、御一覧後、\n        <placename corresp=\"#place_ホーチミン市\"> 柴棍 </placename> 御帰、市中御遊覧、写真抔御買上、夫より再ひ小船もて本船御帰着 <lb></lb>\n       此日御上陸之頃雷雨はけしかりしか、車中なれば一同衣服を湿せしものもなし、甘雨塵沙を潤して野景一層清味を添ふを覚ゆ、終日風ありて炎蒸の苦を忘る、夜に入ては殊に清涼なり "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 10.76944,
+                    "lon": 106.68194,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-06-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、昨夜ヨリ船頗ル動揺スレトモ幸ニ船疾ニ至ラス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時\n       </time>\n       洗面、支度ヲ整ヘテ甲板上ニ於テ四方ヲ展望ス、舟子ノ語ル処ニヨレハ一昨日来ノ低気圧ニテ此辺強風アリ、亜米利加丸ノ如キハ昨日此航路ニ於テ大ニ困難セシト云フ、サレト本船ハ夜来少ク動揺シ、午前三\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> ノ頃尤モ強カリシモ船疾ヲ発スルニ及ハス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 七時半 </time>\n       朝飧ヲ食ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 六連島検疫所ニテ検疫アリ、一行中本船ニテ <placename corresp=\"#place_神戸\">\n        神戸 </placename> ニ渡航スル者又 <pb corresp=\"#pageB1788\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/814/full/max/0/default.jpg\" n=\"B1788\" source=\"#pageB1788\"></pb> ハ上陸シテ直ニ汽車ニテ東上スル者アルニヨリ、夫々伝言ヲ托ス、且上陸後旅行ノ順序ヲ定ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_下関市\"> 馬関 </placename> 着、直ニ小蒸気船ニ移リ、 <orgname> 春帆楼 </orgname>\n       ニ投宿ス、兼テ書信ニテ打合セ置キタレハ <placename corresp=\"#place_東京\"> 東京 </placename> ヨリ <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 来リ迎ヘ、共ニ旅寓ニ抵ル、投宿後入浴朝飧シテ、数多ノ歓迎者ニ接見ス、休息後大里ナル浅野セメント工場ヲ一覧ス、 <persname corresp=\"#pers_辻\">\n<surname> 辻 </surname>\n</persname> 、 <persname corresp=\"#pers_須永\">\n<surname> 須永 </surname>\n</persname> 二氏周旋甚タ勉ム、畢テ帰宿、午飧後、商業学校ニ抵リ学生ニ一場ノ講演ヲ為ス、此夜、関門銀行者ノ催ス処ノ招待会ニ出席シテ一場ノ <placename corresp=\"#place_支那\"> 支那 </placename> 視察《（談脱カ）》ヲ為ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 33.95789,
+                    "lon": 130.94133,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過散会ス\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

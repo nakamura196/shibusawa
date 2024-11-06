@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1884-06-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝、 <orgname> 第三十八国立銀行 </orgname> 頭取 <persname corresp=\"#pers_伊藤長次郎\">\n<surname> 伊藤 </surname>\n<forename> 長次郎 </forename>\n</persname> 、支配人 <persname corresp=\"#pers_堀江猪助\">\n<surname> 堀江 </surname>\n<forename> 猪助 </forename>\n</persname> 来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n       内務卿ヲ其旅寓ニ訪ヒ、本日開業式臨場ノ事ヲ乞ヒ相約シテ紡績会社ニ赴キ、式場ノ順序ヲ定ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n       内務卿着場セラルヽヲ以テ来会ノ諸官員、紳士及本社株主等ヲ延テ工場ニ至リ、一斉ニ諸器械ヲ運転 <pb corresp=\"#pageB1057\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/83/full/max/0/default.jpg\" n=\"B1057\" source=\"#pageB1057\"></pb> シテ以テ開業ノ式典トス、式畢テ来会諸人ヲ誘引シテ場外仮屋ニ於テ午餐ヲ饗ス、社員来会ノ人各祝辞アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 退散ス、帰宿後微痾ノ為平臥、来客ヲ謝シ医師ヲ乞フテ服薬ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

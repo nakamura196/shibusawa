@@ -1,0 +1,94 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-01-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 前起床、洗面畢テ朝飧ヲ食シ、旅装ヲ理シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:27:00",
+                    "text": "<time when=\"08:27:00\"> 八時二十七分 </time>\n<placename corresp=\"#place_大磯町\"> 大磯 </placename> 発ノ汽車ニテ帰京ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n       過 <placename corresp=\"#place_新橋\"> 新橋 </placename> 着、直ニ外務大臣官舎ニ抵リ、 <placename corresp=\"#place_ブラジル\"> 伯剌西爾 </placename> 拓植会社設立《（殖）》ニ関スル集会ニ列シテ、 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 、 <persname corresp=\"#pers_大浦\">\n<surname> 大浦 </surname>\n</persname> 二大臣ノ挨拶ニ次テ一応ノ説明演説ヲ為ス、後、 <persname corresp=\"#pers_倉地\">\n<surname> 倉地 </surname>\n</persname> 次官《（ <persname corresp=\"#pers_倉知\">\n<surname> 倉知 </surname>\n</persname> ）》、 <persname corresp=\"#pers_古在\">\n<surname> 古在 </surname>\n</persname> 試験所長其他ノ種々ノ説明アリ、畢テ午飧ヲ食ス、食後、会社創立準備ニ付委員ヲ指名シ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": -15.783,
+                    "lon": -47.867,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n       事務所ニ抵リ、留守中ノ要務ヲ整理シ来書ヲ撿閲ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 養育院ニ抵リ分院主任 <persname corresp=\"#pers_小沢\">\n<surname> 小沢 </surname>\n</persname> 氏、労働紹介所主任 <persname corresp=\"#pers_大橋\">\n<surname> 大橋 </surname>\n</persname> 、医長 <placename corresp=\"#place_伊丹\"> 伊丹 </placename> 博士、 <persname corresp=\"#pers_高畠\">\n<surname> 高畠 </surname>\n</persname> 副幹事等ト院務取扱ニ関シテ種々ノ協議ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 過 <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿午飧後《（夜）》、雑誌類ヲ読ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1913-01-14T00:00+0900\"> 十二時 </time> 就寝 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

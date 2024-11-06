@@ -1,0 +1,101 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-01-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 過起床、先ツ入浴ス、畢テ学友会ヨリ来訪セル相川生ニ面会シテ、 <date evidence=\"year inferenced\" when=\"1910-02-11\"> 二月十一日 </date> 総会ノ事ヲ談ス、平和協会ヨリ来レル幹事某ニ会話ス、\n        <persname corresp=\"#pers_原小太郎\">\n<surname> 原 </surname>\n<forename> 小太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_宮地亀一\">\n<surname> 宮地 </surname>\n<forename> 亀一 </forename>\n</persname> 、 <persname corresp=\"#pers_武田信\">\n<surname> 武田 </surname>\n<forename> 信 </forename>\n</persname> ノ諸氏来ル、皆会見談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 朝飧ヲ食ス、 <persname corresp=\"#pers_江間政発\">\n<surname> 江間 </surname>\n<forename> 政発 </forename>\n</persname> 父子来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_小日向\"> 小日向 </placename>\n<persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 公爵邸ニ抵リ、新年ヲ賀シ <persname corresp=\"#pers_豊崎\">\n<surname> 豊崎 </surname>\n</persname> 氏ト談話ス、御伝記編纂ノ事ヲ協議ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7140083,
+                    "lon": 139.7347139,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、食後行務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <persname corresp=\"#pers_澤柳政太郎\">\n<surname> 沢柳 </surname>\n<forename> 政太郎 </forename>\n</persname> 氏ノ来訪ニ接ス、高商学校ノ事ヲ談ス、 <persname corresp=\"#pers_白岩竜平\">\n<surname> 白岩 </surname>\n<forename> 竜平 </forename>\n</persname> 、 <persname corresp=\"#pers_土佐孝太郎\">\n<surname> 土佐 </surname>\n<forename> 孝太郎 </forename>\n</persname> 二氏来話ス、 <persname corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persname> 氏来ル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_日本橋\"> 日本橋 </placename> 倶楽部ニ抵リ、 <orgname> 清水組 </orgname> ノ宴会ニ出席ス、先ツ\n        <persname corresp=\"#pers_清水\">\n<surname> 清水 </surname>\n</persname> 店員一同ヘ一場ノ訓示演説ヲ為ス、「竹ノ如ク "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time>\n       ノ生長ヲ欲セス、槻楠ノ類ノ如ク漸ヲ以テ大ナル事ヲ勉メ、根幹枝葉相俟テ繁茂スル事ヲ注意スヘシト」、畢テ種々ノ余興アリ、食卓上又来賓ノ総代トシテ一場ノ挨拶ヲ為ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散宴、帰宿ス <lb></lb> （欄外） <lb></lb> ［午後 <persname corresp=\"#pers_原富太郎\">\n<surname> 原 </surname>\n<forename> 富太郎 </forename>\n</persname> 氏来リ、生糸改良ノ事、蚕種統一ノ事ニ関シテ種々ノ談話ヲ為ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

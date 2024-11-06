@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-02-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time>\n       起床、入浴シ、畢テ朝飧ヲ為ス、食後来人ニ接ス、腹部全愈セサルニヨリ、褥中ニテ要務ヲ処理シ、又、新聞紙其他来書ヲ一覧ス午飧後、開国五十年史ヲ通読ス、読テ夜半ニ至ツテ止ム <lb></lb>\n       此日モ午後 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス <lb></lb>\n<placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 大使館ニ夜飧ノ招待アリシモ病ノ為メ断リ遣ス、 <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> 重役会モ同シク断リ遣ス <lb></lb>\n<orgname> 第一銀行 </orgname> 重役会定日ナルモ病ヲ以テ出席ヲ謝絶ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-03-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 来ル、養育院ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 過 <persname corresp=\"#pers_岡部長職\">\n<surname> 岡部 </surname>\n<forename> 長職 </forename>\n</persname> 子ヲ <placename corresp=\"#place_山下町\"> 山下町 </placename> 研究会事務所ニ訪フ、逢ハス、去テ <placename corresp=\"#place_元園町\"> 元園町 </placename>\n<persname corresp=\"#pers_広橋賢光\">\n<surname> 広橋 </surname>\n<forename> 賢光 </forename>\n</persname> 氏ノ家ニ抵リ <persname corresp=\"#pers_岡部\">\n<surname> 岡部 </surname>\n</persname> 子ニ面会シ、貴族院停会ノ事ニ関シテ縷々陳述スル処アリシモ聴容ヲ得スシテ分袂ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<persname corresp=\"#pers_近衛\">\n<surname> 近衛 </surname>\n</persname> 公爵ヲ議長官舎ニ訪ヒ停会善後方法ニ付種々意見ヲ述ヘ、更ニ明日ヲ約シテ去ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿《（ス）》ル、 <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 来話ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

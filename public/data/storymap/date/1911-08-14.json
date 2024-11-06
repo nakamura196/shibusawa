@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-08-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ後読書ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       朝飧ヲ食シ畢リテ揮毫ヲ始ム <persname corresp=\"#pers_福島甲子三\">\n<surname> 福島 </surname>\n<forename> 甲子三 </forename>\n</persname> 氏来話ス、瓦斯会社ノ事ヲ談話ス、 <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢治太郎\">\n<surname> 渋沢 </surname>\n<forename> 治太郎 </forename>\n</persname> 夫妻来話ス、午飧後モ尚揮毫ヲ為ス <lb></lb>\n<persname corresp=\"#pers_渋沢秀雄\">\n<forename> 秀雄 </forename>\n</persname> ノ病稍快方ニ向ヘシ様ナルモ、大患トナルノ恐アルニヨリ <placename corresp=\"#place_東京\"> 東京 </placename>\n       ニ電話ヲ送リテ <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師ノ来診ヲ請フ、夜ニ入リテ医師到着シ直ニ診察セシモ、深ク心配スヘキ病ナラサル旨ヲ明言セラル、夜飧ハ <persname corresp=\"#pers_渋沢治太郎\">\n<forename> 治太郎 </forename>\n</persname> 夫妻来リテ共ニ会食ス、夜、読書ス、 <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> ノ学友 <persname corresp=\"#pers_河野\">\n<surname> 河野 </surname>\n</persname> 氏帰リ去ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

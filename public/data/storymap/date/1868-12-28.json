@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-12-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 頃客舎を発し <placename corresp=\"#place_神奈川\"> 神奈川\n       </placename> に至り、宮の河岸より用船を雇へ、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 頃 <placename corresp=\"#place_黄賓\"> 黄賓 </placename> 着、 <placename corresp=\"#place_駒形町\"> 駒形町 </placename>\n<persname corresp=\"#pers_幸二屋清兵衛\"> 幸二屋 <forename> 清兵衛 </forename>\n</persname> といふ者．水戸御用達 <persname corresp=\"#pers_山中隣之助\">\n<surname> 山中 </surname>\n<forename> 隣之助 </forename>\n</persname> 知合ニ付投宿、午飯後仏商モスネ方罷越、銃一覧、夫より亜壱番ニ而英銃シナイドル一覧、此日洋銀買上之積なりしが相場高直なれば見合せぬ <lb></lb>\n       夜に入裁判所に至り到着を届、印章引替を請ひ、夫より仲通丸屋方尋問 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 頃幸二や帰宿 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-02-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、風邪全快セサルヲ以テ入浴ヲ廃シ、褥上ニテ日記ヲ調理ス、 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ電話ヲ通シテ、今日 <persname corresp=\"#pers_小村\">\n<surname> 小村 </surname>\n</persname> 外相ノ結婚披露会及 <orgname> 第一銀行 </orgname> 重役会ニ出席ノ事ヲ断リ遣ス <lb></lb>\n       事務所ヨリ送リ越セシ書類ヲ整理シ、又ハ演説筆記ノ修正ヲ為ス <lb></lb> 終日家ニ在テ摂養ニ勉ム "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

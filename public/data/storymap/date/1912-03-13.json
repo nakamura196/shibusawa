@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-03-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_今井清彦\">\n<surname> 今井 </surname>\n<forename> 清彦 </forename>\n</persname> 、 <persname corresp=\"#pers_今泉定介\">\n<surname> 今泉 </surname>\n<forename> 定介 </forename>\n</persname> 二氏ノ来訪ニ接シ <orgname> 国学院 </orgname> 維持ノ事ヲ談ス、内務大臣ニ電話ニテ会見ヲ求ム、明日面会ノ旨回答アリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

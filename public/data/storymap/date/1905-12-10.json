@@ -1,0 +1,95 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-12-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、例ニヨリ冷水摩擦ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ畢リ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時半 </time> 牛込 <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 邸ヲ訪ヒ、更ニ学生誘掖会寄宿舎ニ抵リ歓迎会ニ列ス、 <persname corresp=\"#pers_浅田\">\n<surname> 浅田 </surname>\n</persname> 中将外諸将校来会ス、式ニ臨ミテ祝辞ヲ朗読ス、式畢テ一同午飧シ、更ニ <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 氏ヲ訪ヒ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 陸軍参謀本部ニ抵リ、歓迎会ノ手続ニ関シ <persname corresp=\"#pers_井口\">\n<surname> 井口 </surname>\n</persname> 少将ト談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 東京市役所ニ抵リ歓迎会ノ準備ヲ協議シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 事務所ニ抵リテ <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 侯爵歓迎ノ事ニ関シ書状ヲ発シ、且 <date evidence=\"year inferenced, month\" when=\"1905-12-16\"> 十六日\n       </date> 瓢屋ニ於ケル宴会ノ事ヲ指揮シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<placename corresp=\"#place_上野\"> 上野 </placename>\n<orgname> 精養軒 </orgname> ニ抵リ <persname corresp=\"#pers_浅田\">\n<surname> 浅田 </surname>\n</persname> 中将招待ノ宴会ニ出席シ食卓上一場ノ演説ヲ為シ、畢テ夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:30:00",
+                    "text": "<time when=\"20:30:00\"> 八時半 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

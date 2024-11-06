@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-08-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、先ツ庭園ヲ散歩シ、後、入浴ス、畢テ朝飧ヲ食シ、 <persname corresp=\"#pers_畑弥右衛門\">\n<surname> 畑 </surname>\n<forename> 弥右衛門 </forename>\n</persname> 氏ノ来訪ニ接ス、又、 <persname corresp=\"#pers_福島甲子三\">\n<surname> 福島 </surname>\n<forename> 甲子三 </forename>\n</persname> 氏来リ、 <orgname> 東京瓦斯会社 </orgname> 製造硫酸アンモニヤノ事ヲ談ス、 <persname corresp=\"#pers_長滝\">\n<surname> 長滝 </surname>\n</persname> 氏ノ需ニ応シテ数枚ノ揮毫ヲ為シ、後、 <placename corresp=\"#place_欧洲\"> 欧洲 </placename>\n<persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 、 <persname corresp=\"#pers_馬越\">\n<surname> 馬越 </surname>\n</persname> 、 <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 、 <persname corresp=\"#pers_堀越\">\n<surname> 堀越 </surname>\n</persname> 等ヘノ書状ヲ裁ス、又、 <persname corresp=\"#pers_鶴原\">\n<surname> 鶴原 </surname>\n</persname> 、 <persname corresp=\"#pers_木内\">\n<surname> 木内 </surname>\n</persname> 其他ヘノ書状ヲ裁ス、午飧後、 <persname corresp=\"#pers_和田彦次郎\">\n<surname> 和田 </surname>\n<forename> 彦次郎 </forename>\n</persname> 氏添書ノ来人ニ接ス、米友協会幹事 <persname corresp=\"#pers_沢田\">\n<surname> 沢田 </surname>\n</persname> 某、 <persname corresp=\"#pers_金子\">\n<surname> 金子 </surname>\n</persname> 子爵ノ代理トシテ来リ、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 艦隊歓迎ノ事ヲ談ス、\n        <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> 氏来ル、留守中公私ノ要務ヲ嘱シ且覚書ヲ交付ス、夜飧後家ヲ発シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 過 <placename corresp=\"#place_上野\"> 上野 </placename> 停車場ニ抵ル、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> 、 <persname corresp=\"#pers_明石愛子\">\n<forename> 愛子 </forename>\n</persname> 同行ス、停車場ニ多人数送別ノ為来会ス、種々ノ要務ヲ談シテ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:55:00",
+                    "text": "<time when=\"08:55:00\"> 八時五十五分 </time> 発ノ <pb corresp=\"#pageB1527\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/553/full/max/0/default.jpg\" n=\"B1527\" source=\"#pageB1527\"></pb> 汽車ニ搭ス、 <persname corresp=\"#pers_植村澄三郎\">\n<surname> 植村 </surname>\n<forename> 澄三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_犬丸鉄太郎\">\n<surname> 犬丸 </surname>\n<forename> 鉄太郎 </forename>\n</persname> 二氏同行ス、汽車中時々降雨アリテ、 <date evidence=\"year inferenced, day\" when=\"1908-07\"> 七月\n       </date> 望ニ当ルモ月明ヲ見ル能ハス、暗黒中ニ海岸線ヲ通過ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 頃寝台ニ入リテ就寝、翌暁 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 五時半 </time>\n<placename corresp=\"#place_岩沼\"> 岩沼 </placename> ニ抵リテ起床ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

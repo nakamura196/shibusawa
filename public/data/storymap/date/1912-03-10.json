@@ -1,0 +1,95 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-03-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、半身浴ヲナシ、朝飧ヲ食ス、後、第二向上寄宿舎学生四名、 <persname corresp=\"#pers_蓮沼\">\n<surname> 蓮沼 </surname>\n</persname> 氏ノ添書ニテ来訪ス、修学上ノ訓示ヲ為ス、高商学生亀山、 <persname corresp=\"#pers_宮崎\">\n<surname> 宮崎 </surname>\n</persname> 二氏来話ス、 <persname corresp=\"#pers_佐伯好郎\">\n<surname> 佐伯 </surname>\n<forename> 好郎 </forename>\n</persname> 氏来リ景教ニ関スル研究談アリ、 <persname corresp=\"#pers_成瀬仁蔵\">\n<surname> 成瀬 </surname>\n<forename> 仁蔵 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_相川豊三\">\n<surname> 相川 </surname>\n<forename> 豊三 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_森山\">\n<surname> 森山 </surname>\n</persname> 、 <persname corresp=\"#pers_井口\">\n<surname> 井口 </surname>\n</persname> 二氏来訪ノ由ナリシモ <pb corresp=\"#pageB1729\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/755/full/max/0/default.jpg\" n=\"B1729\" source=\"#pageB1729\"></pb> 外出後ニテ面会セス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 十時半 </time>\n<persname corresp=\"#pers_酒井八右衛門\">\n<surname> 酒井 </surname>\n<forename> 八右衛門 </forename>\n</persname> 宅ヲ訪ヘ、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯寿像碑ノ刻成ルヲ見ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<persname corresp=\"#pers_中野武営\">\n<surname> 中野 </surname>\n<forename> 武営 </forename>\n</persname> 氏ヲ訪ヘ要件数条ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_本郷\"> 本郷 </placename> ニ抵リ午飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ諸方ヘ書状ヲ認ム、 <persname corresp=\"#pers_矢作栄蔵\">\n<surname> 矢作 </surname>\n<forename> 栄蔵 </forename>\n</persname> 氏ヘモ一書ヲ送致ス、 <persname corresp=\"#pers_手塚猛昌\">\n<surname> 手塚 </surname>\n<forename> 猛昌 </forename>\n</persname> 氏来リ歌劇ノ脚本ヲ交付シ、昨日 <persname corresp=\"#pers_小松\">\n<surname> 小松 </surname>\n</persname>\n<persname corresp=\"#pers_清水\">\n<surname> 清水 </surname>\n</persname> 二氏会話ノ顚末ヲ述フ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リ偕楽会ニ出席ス、 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 、 <persname corresp=\"#pers_安田\">\n<surname> 安田 </surname>\n</persname> 二氏ト <placename corresp=\"#place_鶴見\"> 鶴見 </placename> 埋築会社ノ事ニ関シ談話ス、夜飧後 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 再ヒ <persname corresp=\"#pers_酒井\">\n<surname> 酒井 </surname>\n</persname> ノ家ニテ寿像碑ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

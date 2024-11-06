@@ -1,0 +1,93 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-06-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ、朝飧ヲ食ス、畢テ <persname corresp=\"#pers_矢野由次郎\">\n<surname> 矢野 </surname>\n<forename> 由次郎 </forename>\n</persname> 氏ノ来訪ニ接ス、又、 <persname corresp=\"#pers_神谷\">\n<surname> 神谷 </surname>\n</persname> 某氏等来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時半 </time>\n<placename corresp=\"#place_小石川\"> 小石川 </placename>\n<persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 公爵邸ニ抵リ公爵及 <persname corresp=\"#pers_豊崎信\">\n<surname> 豊崎 </surname>\n<forename> 信 </forename>\n</persname> 氏ニ面会シテ昔夢会開催ノ事ヲ談話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7137833,
+                    "lon": 139.7487556,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 海軍省ニ抵リ艦政本部ニテ <persname corresp=\"#pers_松本\">\n<surname> 松本 </surname>\n</persname> 氏ヲ訪ヒ、 <persname corresp=\"#pers_佐々木慎思郎\">\n<surname> 佐々木 </surname>\n<forename> 慎思郎 </forename>\n</persname> 氏ト共ニ浦賀船渠会社ノ事ヲ談ス、帰途司法大臣官舎ヲ訪ヒ、又、 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 氏ヲ訪問シテ <orgname> 石川島造船所 </orgname> ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト要務ヲ談シ、午飧後、 <persname corresp=\"#pers_緒明圭造\">\n<surname> 緒明 </surname>\n<forename> 圭造 </forename>\n</persname> 氏来リ <placename corresp=\"#place_浦賀\"> 浦賀 </placename> 船渠ノ事ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.2475,
+                    "lon": 139.713972,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 午後二時半 </time> 事務所ニ於テ種々ノ来人ニ接シテ又文書ヲ撿閲シ書類ヲ裁ス、 <persname corresp=\"#pers_尾高幸五郎\">\n<surname> 尾高 </surname>\n<forename> 幸五郎 </forename>\n</persname> 氏ト内事ヲ談ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半 </time> 帰宿、庭園ヲ散歩ス、 <persname corresp=\"#pers_高松豊吉\">\n<surname> 高松 </surname>\n<forename> 豊吉 </forename>\n</persname> 氏来リテ <placename corresp=\"#place_北海道\"> 北海道 </placename> 瓦斯会社ノ事、 <orgname> 東京瓦斯会社\n       </orgname> ノ事等ニ付要件ヲ談話ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 43.064333,
+                    "lon": 141.346889,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

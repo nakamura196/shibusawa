@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-01-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 午前八時半 </time> 起床、半身浴後、褥中ニテ書類ヲ整理ス、 <placename corresp=\"#place_長岡\"> 長岡 </placename>\n<persname corresp=\"#pers_小畔\">\n<surname> 小畔 </surname>\n</persname> 氏ノ来書ニ回答ヲ発ス、 <persname corresp=\"#pers_若尾民造\">\n<surname> 若尾 </surname>\n<forename> 民造 </forename>\n</persname> 氏ヨリ柿ヲ寄贈セラレタルニ付返書ヲ遣ス <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 氏ニ於テ一昨年来 <persname corresp=\"#pers_明石愛子\">\n<forename> 愛子 </forename>\n</persname> ノ婚儀ニ関シテ助力アリタレハ、之ヲ慰労スル為メ <persname corresp=\"#pers_楽翁\"> 楽翁 </persname>\n       公ノ書物ニ書状ヲ添ヘテ寄贈スル事トス <lb></lb>\n<persname corresp=\"#pers_大川平三郎\">\n<surname> 大川 </surname>\n<forename> 平三郎 </forename>\n</persname> 夫妻年賀ノ為メ来訪セラル、共ニ午飧ヲ食シ、種々ノ談話ヲ為ス、午後 <persname corresp=\"#pers_竹内綱\">\n<surname> 竹内 </surname>\n<forename> 綱 </forename>\n</persname> 氏来リ、 <placename corresp=\"#place_京城府\"> 京城 </placename> 水道買収ノ件ニ関シ <persname corresp=\"#pers_岸\">\n<surname> 岸 </surname>\n</persname> 氏ヨリ差出シタル書類ヲ持参シ且爾後ノ経過ヲ述ヘラル <lb></lb> 右買収取引ノ際、 <placename corresp=\"#place_京城府\"> 京城\n       </placename> ニ於テ其事務ヲ代理セシムル為メ <persname corresp=\"#pers_白石直次\">\n<surname> 白石 </surname>\n<forename> 直次 </forename>\n</persname> 氏ヘノ委任状ヲ <persname corresp=\"#pers_竹内\">\n<surname> 竹内 </surname>\n</persname> 氏ニ交付ス、夜ニ入テ遊戯シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1911-01-10T00:00+0900\"> 十二時 </time> 過就寝 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

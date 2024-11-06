@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-06-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床スルモ腸カタル未タ平愈セサルニヨリ、入浴スルヲ得ス褥中ニ在テ書類ヲ撿閲シ又日記ヲ編成ス、 <persname corresp=\"#pers_朝吹英二\">\n<surname> 朝吹 </surname>\n<forename> 英二 </forename>\n</persname> 氏ヘ電話ヲ通シ、 <persname corresp=\"#pers_鶴原\">\n<surname> 鶴原 </surname>\n</persname> 氏面会ノ事ヲ打合ハス、 <placename corresp=\"#place_白金\"> 白金 </placename>\n<persname corresp=\"#pers_渋沢\">\n<surname> 渋沢 </surname>\n</persname> 氏ヘ電話ニテ肥料会社ノ事ヲ通知ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 、 <persname corresp=\"#pers_竹内\">\n<surname> 竹内 </surname>\n</persname> 、 <persname corresp=\"#pers_白石\">\n<surname> 白石 </surname>\n</persname> 、 <persname corresp=\"#pers_久米\">\n<surname> 久米 </surname>\n</persname> 、 <persname corresp=\"#pers_岡崎\">\n<surname> 岡崎 </surname>\n</persname> 四氏来リ、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 電鉄会社ノ事ヲ談ス、後、 <persname corresp=\"#pers_白岩竜平\">\n<surname> 白岩 </surname>\n<forename> 竜平 </forename>\n</persname> 氏来リ、日清汽船会社ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 、 <persname corresp=\"#pers_朝吹\">\n<surname> 朝吹 </surname>\n</persname>\n<persname corresp=\"#pers_鶴原\">\n<surname> 鶴原 </surname>\n</persname> 二氏来リ、 <orgname> 人造肥料会社 </orgname> ノ事ニ付種々ノ談話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n       頃三重 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 氏来リ、三重紡績会社ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 過 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<persname corresp=\"#pers_藤山雷太\">\n<surname> 藤山 </surname>\n<forename> 雷太 </forename>\n</persname> 氏来リ、日糖会社監査役ノ事ヲ談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

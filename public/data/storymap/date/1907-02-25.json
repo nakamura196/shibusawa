@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-02-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後日記ヲ編成ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ喫ス、食後入浴シ、畢テ来人ニ接ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\">\n        午前十一時 </time> 宮内省ニ抵リ <persname corresp=\"#pers_渡辺内蔵頭\">\n<surname> 渡辺 </surname> 内蔵頭 </persname> ニ面話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <persname corresp=\"#pers_山田英太郎\">\n<surname> 山田 </surname>\n<forename> 英太郎 </forename>\n</persname> 氏ノ来訪ニ接ス、午後 <persname corresp=\"#pers_田中源太郎\">\n<surname> 田中 </surname>\n<forename> 源太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_土岐〓\">\n<surname> 土岐 </surname>\n<forename> 〓 </forename>\n</persname> 二氏来話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<persname corresp=\"#pers_イリス\">\n<surname> イリス </surname>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿、埼玉誘掖会ノ諸氏并 <persname corresp=\"#pers_大久保\">\n<surname> 大久保 </surname>\n</persname> 県知事ヲ招宴ス、 <persname corresp=\"#pers_本多静六\">\n<surname> 本多 </surname>\n<forename> 静六 </forename>\n</persname> 氏欧米行ヲ送別スル為メナリ、酒間種々ノ余興アリ、各歓ヲ尽シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過散宴ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

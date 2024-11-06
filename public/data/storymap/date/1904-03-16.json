@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1904-03-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、昨日ト同シク褥中ニ於テ読書ス、興津 <persname corresp=\"#pers_中村秋香\">\n<surname> 中村 </surname>\n<forename> 秋香 </forename>\n</persname> 氏ヘ再応書状ヲ発シ且西洋菓子ヲ送ル、 <persname corresp=\"#pers_穂積歌子\">\n<surname> 穂積 </surname>\n<forename> 歌子 </forename>\n</persname> ヨリ来書アリ、 <persname corresp=\"#pers_中村\">\n<surname> 中村 </surname>\n</persname> 氏ノ書状及詠草等送リ来ル、即日返書ヲ発送シテ詳細ニ申シ遣ス <lb></lb>\n<persname corresp=\"#pers_坂本守太郎\">\n<surname> 坂本 </surname>\n<forename> 守太郎 </forename>\n</persname> 来訪セシモ謝絶シテ面会セス、 <persname corresp=\"#pers_浅野幸兵衛\">\n<surname> 浅野 </surname>\n<forename> 幸兵衛 </forename>\n</persname> 来訪ス、 <persname corresp=\"#pers_古河潤吉\">\n<surname> 古河 </surname>\n<forename> 潤吉 </forename>\n</persname> 氏其他ノ代理トシテ余ノ病ヲ慰問ス、午後 <placename corresp=\"#place_東京\"> 東京 </placename>\n<persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ヨリノ書状ヲ落手ス、午後ヨリ家訓ノ浄写ヲ為ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

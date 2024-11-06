@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-04-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、朝 <orgname> 十勝開墾会社 </orgname> 重役会ヲ開ク、 <persname corresp=\"#pers_渋沢成一郎\">\n<surname> 渋沢 </surname>\n<forename> 喜作 </forename>\n</persname> 、 <persname corresp=\"#pers_渡辺勘三郎\">\n<surname> 渡辺 </surname>\n<forename> 勘三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_町村\">\n<surname> 町村 </surname>\n</persname> 、 <persname corresp=\"#pers_小田\">\n<surname> 小田 </surname>\n</persname> 諸氏来会ス、 <placename corresp=\"#place_長岡\"> 長岡 </placename>\n<persname corresp=\"#pers_岸宇吉\">\n<surname> 岸 </surname>\n<forename> 宇吉 </forename>\n</persname> 氏来ル、 <persname corresp=\"#pers_土田政次郎\">\n<surname> 土田 </surname>\n<forename> 政次郎 </forename>\n</persname> 来ル、午後大蔵省ニ抵リ <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 理財局長ニ面会シテ京仁鉄道ノ事ヲ談シ、更ニ外務省ニ抵リ <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 通商局長ニ面会シテ <orgname> 韓国銀行 </orgname> ノ事、京仁鉄道ノ事、加鹿木ヨリ依頼ノ事、清国銀行ノ事、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 金地金ノ事及テオシー接待ノ事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時\n       </time> 銀行ニ抵リテ重役会ヲ開キ要件ヲ議決ス、各支店主任来会ニ付面会シテ要務ヲ諮詢ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<persname corresp=\"#pers_松本壮一郎\">\n<surname> 松本 </surname>\n<forename> 壮一郎 </forename>\n</persname> 氏《（ <persname corresp=\"#pers_松本荘一郎\">\n<surname> 松本 </surname>\n<forename> 荘一郎 </forename>\n</persname> 氏）》来ル、京仁鉄道ノ事ヲ談ス、掖済会 <persname corresp=\"#pers_山田毅\">\n<surname> 山田 </surname>\n<forename> 毅 </forename>\n</persname> 氏来ル、此夜博聞館 <persname corresp=\"#pers_坪谷善四郎\">\n<surname> 坪谷 </surname>\n<forename> 善四郎 </forename>\n</persname> 来《（博文館）》ル、身上伝記ノ事ヲ話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

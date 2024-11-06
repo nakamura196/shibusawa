@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-10-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、午前二三ノ来客ニ接ス、又数枚ノ〓本ニ揮毫ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 目色椿山荘《（白）》ニ抵リ <persname corresp=\"#pers_山縣有朋\">\n<surname> 山県 </surname>\n</persname> 侯爵ニ面会シテ <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n       ニ対スル貸付金ノ顚末、及京釜鉄道ニ関シ、帝室御持株ノ事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 韓国公使 <persname corresp=\"#pers_趙秉式\">\n<surname> 趙 </surname>\n<forename> 秉式 </forename>\n</persname> 氏ヲ訪ヒ送別ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宅ス、此夜中学教員 <persname corresp=\"#pers_内堀維文\">\n<surname> 内堀 </surname>\n<forename> 維文 </forename>\n</persname> 氏、 <persname corresp=\"#pers_泥谷\">\n<surname> 泥谷 </surname>\n</persname> 某来ル、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ会食シテ児輩修学ノ事ヲ談話ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

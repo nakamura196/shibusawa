@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-01-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、風邪気未タ愈ヘス、依テ入浴ヲ為サス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 過\n        <persname corresp=\"#pers_東儀鉄笛\">\n<surname> 東儀 </surname>\n<forename> 季治 </forename>\n</persname> 氏来話ス、朝飧中ニ接見シ演劇ニ関シ種々ノ談話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 午前十時半 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <persname corresp=\"#pers_馬越\">\n<surname> 馬越 </surname>\n</persname> 、 <persname corresp=\"#pers_鈴木\">\n<surname> 鈴木 </surname>\n</persname> 二氏ニ面会シ、昨日 <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 総裁面話ノ顚末ヲ告ク、且総裁ニ電話シテ二氏ト会見ノ事ヲ紹介ス、 <persname corresp=\"#pers_渡邊嘉一\">\n<surname> 渡辺 </surname>\n<forename> 嘉一 </forename>\n</persname> 氏 <pb corresp=\"#pageB1488\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/514/full/max/0/default.jpg\" n=\"B1488\" source=\"#pageB1488\"></pb> 来リ、京阪鉄道ノ事及北越鉄道ノ事ニ関シ種々ノ談話アリ、 <persname corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persname> 氏 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> ヨリ帰京シ、稷山金鉱ノ実況ヲ詳話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ重役会ヲ開ク、半季決算ノ事其他要件ヲ決ス、畢テ韓国興業会社ノ重役会ヲ開キ要件ヲ議決ス、各鉄道会社代表者トシテ、\n        <persname corresp=\"#pers_仙石\">\n<surname> 仙石 </surname>\n</persname> 、 <persname corresp=\"#pers_片岡\">\n<surname> 片岡 </surname>\n</persname> 、 <persname corresp=\"#pers_田\">\n<surname> 田 </surname>\n</persname> 、 <persname corresp=\"#pers_山田\">\n<surname> 山田 </surname>\n</persname> 、 <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> 諸氏来リ、政府ト価格協定ノ事ニ関シ種々ノ談話アリ明日 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯ニ抵リ共協議《（マヽ）》セン事ヲ約ス <lb></lb>\n<persname corresp=\"#pers_馬越\">\n<surname> 馬越 </surname>\n</persname> 、 <persname corresp=\"#pers_鈴木\">\n<surname> 鈴木 </surname>\n</persname> 二氏来リ、 <orgname> 帝商銀行 </orgname> ノ事ヲ内話ス、後、 <placename corresp=\"#place_大韓民国\"> 韓国\n       </placename> 倉庫会社重役会ニ出席シ、同会社将来ノ営業方法ニ関シ種々ノ協議ヲ為ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

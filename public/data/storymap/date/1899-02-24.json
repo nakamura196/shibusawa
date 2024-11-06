@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-02-24",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、朝数多ノ来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午後十一時 </time> 帝国《（前カ）》ホテルニ抵リ香港上海銀行支配人 <persname corresp=\"#pers_ベビス\">\n<surname> ベビス </surname>\n</persname> 及監査役 <persname corresp=\"#pers_スミス\">\n<surname> スミス </surname>\n</persname> 両氏ニ会話ス、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏ヨリノ案内ニ係ル午餐後日本鉄道会社重役会ニ列ス、議事畢テ後 <persname corresp=\"#pers_久米良作\">\n<surname> 久米 </surname>\n<forename> 良作 </forename>\n</persname> 氏ト共ニ磐城炭坑会社ノ事ニ関シテ <persname corresp=\"#pers_曾根\">\n<surname> 曾根 </surname>\n</persname> 社長《（ <persname corresp=\"#pers_曾我\">\n<surname> 曾我 </surname>\n</persname> ）》ニ意見ヲ陳述ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<orgname> 精養軒 </orgname> ニ抵リ <persname corresp=\"#pers_二橋元長\">\n<surname> 二橋 </surname>\n<forename> 元長 </forename>\n</persname> 氏催ス処ノ岩越鉄道会社株主中ノ人々来会スル宴会ニ列ス夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_深川\"> 深川 </placename> ニ帰宿ス、此夜 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 老人ト共ニ山登ノ琴ヲ弾スルヲ聴ク "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

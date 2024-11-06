@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-11-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ朝飧ヲ食ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:27:00",
+                    "text": "<time when=\"08:27:00\"> 八時二十七分 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> 発ノ汽車ニテ <orgname> 上武鉄道会社 </orgname> 新線開通式ニ出張ス、\n        <persname corresp=\"#pers_諸井\">\n<surname> 諸井 </surname>\n</persname> 、 <persname corresp=\"#pers_山中\">\n<surname> 山中 </surname>\n</persname> 、 <persname corresp=\"#pers_加藤\">\n<surname> 加藤 </surname>\n</persname> ノ諸氏同車ス <placename corresp=\"#place_浦和\"> 浦和 </placename> 駅ヨリ <persname corresp=\"#pers_島田\">\n<surname> 島田 </surname>\n</persname> 知事及其随行者数名同車ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_長瀞\"> 長瀞 </placename> ニ抵リ、式場附近ニテ車ヲ下リ、人車ニテ式場ニ抵ル、 <placename corresp=\"#place_荒川\"> 荒川 </placename>\n       沿岸ニ設ケテ風景佳良ナリ、来会スル者頗ル多シ、式ハ重役ノ式辞、鉄道院総裁、県知事、県会議長、郡長等ノ祝辞アリ、最終ニ株主代表ノ資格ニテ一場ノ演説ヲ為ス、式畢テ園遊会ヲ開キ露店ニ付テ午飧シ、後、宝登山神社ヲ参詣シ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 発ノ汽車ニテ帰京ノ途ニ就ク、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> 着ニテ帰宿ス、夜飧後、 <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢秀雄\">\n<forename> 秀雄 </forename>\n</persname> 及 <persname corresp=\"#pers_明石照男\">\n<surname> 明石 </surname>\n<forename> 照男 </forename>\n</persname> 等ヲ会シテ <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ノ不身持ニ厳譴ヲ加ヘタル顚末ヲ示シテ、青年者ノ将来ニ付大ニ訓誡スル所アリタリ、一同服膺ノ旨申出ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

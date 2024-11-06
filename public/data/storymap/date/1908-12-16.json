@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-12-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、先ツ入浴シ畢テ朝飧ヲ食シ、又来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時\n       </time> 宮内省ニ抵リ、美術館（即表慶館）ニ陳列スヘキ美術品ノ事ニ関シ委員会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 総理大臣ヲ <placename corresp=\"#place_三田\"> 三田 </placename> 私邸ニ訪ヒ、 <orgname> 汽車製造会社\n       </orgname> ノ事及財政経済調和ニ関スル会同ノ事ニ付種々ノ談話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 三井集会所ニ抵リ、\n        <orgname> 人造肥料会社 </orgname> 聯合会ニ於テ催ス処ノ農事関係者ノ会同ニ出席ス、 <persname corresp=\"#pers_大浦\">\n<surname> 大浦 </surname>\n</persname> 農商務大臣、同 <persname corresp=\"#pers_押川\">\n<surname> 押川 </surname>\n</persname> 次官、 <persname corresp=\"#pers_下岡\">\n<surname> 下岡 </surname>\n</persname> 農務局長、 <persname corresp=\"#pers_酒匂\">\n<surname> 酒匂 </surname>\n</persname> 、 <persname corresp=\"#pers_松井\">\n<surname> 松井 </surname>\n</persname> 、其他多数ノ学士技師来会ス、午飧前後ニ於テ種々ノ談話ヲ為シ一ノ協会設立ノ事ニ関シ委員撰定ノ議ヲ決シ、十二名ヲ指名シ、近日其委員会同シテ組織ヲ議定スヘキ事ト協議ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <persname corresp=\"#pers_穂積陳重\">\n<surname> 穂積 </surname>\n<forename> 陳重 </forename>\n</persname> 氏ノ来訪アリ、 <persname corresp=\"#pers_明石愛子\">\n<forename> 愛子 </forename>\n</persname> ノ婚嫁ノ事ヲ談シ、 <persname corresp=\"#pers_服部金太郎\">\n<surname> 服部 </surname>\n<forename> 金太郎 </forename>\n</persname> 氏ノ来訪ニ接ス、後、書類ヲ整理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 午後七時半 </time>\n<persname corresp=\"#pers_小村\">\n<surname> 小村 </surname>\n</persname> 外務大臣ノ晩飧会ニ出席ス、 <persname corresp=\"#pers_本野\">\n<surname> 本野 </surname>\n</persname> 駐露大臣《（使）》ノ送別会ナリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1908-12-17T00:00+0900\"> 十二時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

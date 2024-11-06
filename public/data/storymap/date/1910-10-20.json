@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-10-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ、朝飧ヲ食ス、後、来客ニ接シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 午前八時半\n       </time> ヨリ <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 氏ト共ニ各区ノ施療所ヲ一覧ス、先ツ <placename corresp=\"#place_下谷\"> 下谷 </placename> ニテ施療ノ実況ヲ視察シ次ニ\n        <placename corresp=\"#place_浅草\"> 浅草 </placename> 、 <placename corresp=\"#place_本所\"> 本所\n       </placename> 、 <placename corresp=\"#place_深川\"> 深川 </placename> ト悉ク巡回シテ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7220222,
+                    "lon": 139.7834083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、後、重役会ヲ開キ要件ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n       事務所ニ抵リ事務ヲ処理ス、又、 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏ノ来訪ニ接シテ <placename corresp=\"#place_東京\"> 東京 </placename> 湾築港ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<placename corresp=\"#place_本郷\"> 本郷 </placename> ニ立寄リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、夜、新聞紙雑誌等ヲ読マシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

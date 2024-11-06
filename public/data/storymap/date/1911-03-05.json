@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-03-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シテ、朝飧ヲ食シ、後、来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<placename corresp=\"#place_麻布\"> 麻布 </placename>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯爵邸ヲ訪ヘ、 <persname corresp=\"#pers_岩倉具美\">\n<surname> 岩倉 </surname>\n<forename> 具美 </forename>\n</persname> 氏ノ身上ノ事ヲ談話シ同氏ヲ同行ス後、特種銀行ニ関スル談話アリ、 <persname corresp=\"#pers_片岡直温\">\n<surname> 片岡 </surname>\n<forename> 直温 </forename>\n</persname> 氏来会ス、又、 <placename corresp=\"#place_三田\"> 三田 </placename>\n<persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 侯邸ヲ訪ヘ種々ノ要件ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time>\n<persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 邸ニ抵リテ身上ニ関スル訓戒ヲ為シ、 <persname corresp=\"#pers_渋沢敦子\">\n<forename> 敦子 </forename>\n</persname> 、 <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> 氏等ニモ懇切ニ諭示ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 他ノ知人ヲ訪ヒ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_永田町\"> 永田町 </placename> ニ <persname corresp=\"#pers_寺内\">\n<surname> 寺内 </surname>\n</persname> 総督邸ニ抵リ晩飧会ニ出席ス、商工業者数十名来会ス、総督ノ演説ニ対シテ一言ノ答辞ヲ述フ、夜飧後、種々ノ談話アリ夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6768472,
+                    "lon": 139.7399139,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時\n       </time> 過 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 氏ヲ訪ヘ、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト同伴シテ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

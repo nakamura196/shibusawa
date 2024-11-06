@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-02-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1298\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/324/full/max/0/default.jpg\" n=\"B1298\" source=\"#pageB1298\"></pb>\n<lb></lb> 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 過\n        <orgname> 石川島造船所 </orgname> 事務所ニ抵リ重役会ヲ開ク、 <persname corresp=\"#pers_平沢\">\n<surname> 平沢 </surname>\n</persname> 、 <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 、 <persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 、 <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 諸氏来会ス、議事畢テ工場ニ抵リ工務部諸員ト執務上ノ事ヲ談話シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n       地学協会ニ抵リ北海道鉄道会社株主総会ニ出席ス、畢テ日本橋倶楽部ニ抵リ製麻会社株主総会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ於テ夜飧シ、夜 <placename corresp=\"#place_浜町\">\n        浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

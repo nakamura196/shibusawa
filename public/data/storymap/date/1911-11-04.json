@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-11-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食シ、後、 <persname corresp=\"#pers_高橋五郎\">\n<surname> 高橋 </surname>\n<forename> 五郎 </forename>\n</persname> 氏ノ来訪ニ接シ、又書類ヲ整理シ日記ヲ編成ス、今日朝鮮人ノ来客アルニヨリ室内及庭園ノ装飾ヲ指揮ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時\n       </time> ヨリ朝鮮人 <persname corresp=\"#pers_李完用\">\n<surname> 李 </surname>\n<forename> 完用 </forename>\n</persname> 、 <persname corresp=\"#pers_朴斉純\">\n<surname> 朴 </surname>\n<forename> 斎純 </forename>\n</persname> 、 <persname corresp=\"#pers_趙重応\">\n<surname> 趙 </surname>\n<forename> 重応 </forename>\n</persname> ノ三氏及陪賓 <persname corresp=\"#pers_目賀田\">\n<surname> 目賀田 </surname>\n</persname> 、 <persname corresp=\"#pers_古谷\">\n<surname> 古谷 </surname>\n</persname> 、 <persname corresp=\"#pers_木内\">\n<surname> 木内 </surname>\n</persname> 、 <persname corresp=\"#pers_竹内\">\n<surname> 竹内 </surname>\n</persname> 、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 、 <persname corresp=\"#pers_三島\">\n<surname> 三島 </surname>\n</persname> 、 <persname corresp=\"#pers_土居\">\n<surname> 土居 </surname>\n</persname> 等ノ諸氏来会ス、午飧席上一場ノ挨拶ヲ為ス、食後愛蓮堂ニテ会話シ、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 過散会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 事務所ニ抵リ書類ヲ調査ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n<placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 鉱業団ノ歓迎会ヲ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ於テ開催スルニヨリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n       ヨリ出席シテ当夜ノ準備ヲ指揮ス、来会者賓主合計百五六十人許リニテ頗ル盛会ナリキ、食卓上歓迎会ノ総代トシテ一場ノ演説ヲ為ス、 <persname corresp=\"#pers_頭本元貞\">\n<surname> 頭本 </surname>\n<forename> 元貞 </forename>\n</persname> 氏通訳ス、続テ賓主各三名宛ノ演説アリ、司会者ハ <persname corresp=\"#pers_金子\">\n<surname> 金子 </surname>\n</persname> 子爵ニテ順序ヨク宴ヲ終ルヲ得タリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散会、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

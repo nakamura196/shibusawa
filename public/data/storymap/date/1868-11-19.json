@@ -1,0 +1,66 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-11-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 風少しく〓行随意なり、炎熱は昨日と同く其堪難きを覚ゆ、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 二時半 </time>\n<placename corresp=\"#place_シンガポール\"> 新嘉埠 </placename>\n       着船、此港口ハ島嶼多くして濤路至峡なり、船、峡口を入りて島嶼間を運転し、再ひ洋中に出て、舳を転し、波塘に投錨す、出入共に運転甚不便なり <lb></lb> 第 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 1.3,
+                    "lon": 103.8,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:30:00",
+                    "text": "<time when=\"15:30:00\"> 三時半 </time>\n       御上陸、港口ニ而馬車を雇ひ市街御越御一覧、市街は港口より凡半里程余にして道邱岳間を経過し、野色田園の景尤雅致を究む、市戸宏壮美麗ならされとも頗る繁華なし《（りカ）》、支那市店多し、支那人多く住居す、諸肆牌照の之類《（衍）》、多く支那文字を用ゆ、土人は赤銅色にして頗る強壮なるへく見ゆ、衣服之製稍\n        <placename corresp=\"#place_セイロン島\"> 錫蘭島 </placename> と同し、第 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 7.0,
+                    "lon": 81.0,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:45:00",
+                    "text": "<time when=\"16:45:00\"> 四時四十五分\n       </time> 御帰船、御夜餐、海辺御遊歩 <lb></lb> 此辺は四時皆夏なれは、草木とも黄落の時なし、尤樹木は総而常盤木なり、夜水辺にて蛍火を見る、水樹に添ふて尤多し、又一奇観なり、\n        <pb corresp=\"#pageB1014\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/40/full/max/0/default.jpg\" n=\"B1014\" source=\"#pageB1014\"></pb>\n       時候炎熱中に苦みし身なればさまて奇異の観もなされとも《（さ脱カ）》、十月初旬の観蛍火、従来未曾有ともいふへく、宇内の宏確《（廓カ）》なる感すへく驚くへし "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

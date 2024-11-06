@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-08-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床直ニ入浴シ、畢テ日記ヲ編成ス、 <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ヨリ <persname corresp=\"#pers_小林\">\n<surname> 小林 </surname>\n</persname> 帰京ノ由電報来ル <lb></lb>\n<orgname> 東京瓦斯会社 </orgname>\n<persname corresp=\"#pers_高松\">\n<surname> 高松 </surname>\n</persname> 氏 <date evidence=\"year inferenced, month\" when=\"1907-08-27\"> 廿七日 </date> 発ノ書状来ル、\n        <placename corresp=\"#place_橋場\"> 橋場 </placename> 第二工場水火両災ノ景況詳細ニ報シ来ル <lb></lb>\n<persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 氏ヨリ来書アリテ、 <orgname> 第一銀行 </orgname> 営業ノ景況及 <placename corresp=\"#place_東京市\"> 東京市\n       </placename> 内水害ノ事共報シ来ル <lb></lb> 午飧後ヨリ揮毫ヲ為ス、夜《（マヽ）》に入リテ止ム <lb></lb> 此日、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 及児童等ハ <placename corresp=\"#place_大涌谷\"> 大涌谷 </placename>\n       ニ遊歩セルモ、予ハ腹部全愈セサリシ為メ家ニ在テ読書ト揮毫ニ閑ヲ消ス、 <persname corresp=\"#pers_穂積歌子\">\n<surname> 穂積 </surname>\n<forename> 歌子 </forename>\n</persname> ヨリ書状到来シ和歌数首ヲ寄セ来ル "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7260528,
+                    "lon": 139.8067417,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

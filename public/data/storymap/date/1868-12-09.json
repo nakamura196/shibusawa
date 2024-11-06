@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-12-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 暁より <placename corresp=\"#place_黄河\"> 黄河 </placename> の口に入る、海色黄濁なり、第 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.49194,
+                    "lon": 96.34028,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\">\n        八時 </time>\n       河上にて暫時〓行を歇む蓋河底浅くして〓行随意ならさる為なりといふ、本船はいと巨大にして殊に初而の〓行なれは、濤路詳かならさる故、船、洲上に輾りて〓行なしかたしとて様々に手を尽し、荷物其外附添たる小舟抔を下し、碇舶なから船の洲中に糊附せさる用意をなし、船中甚繁冗なり、午後に至りて船を傾け殆顚覆するはかりになし置ぬ、夕方より潮満れともいまた〓行出来す、此日は空く同所に碇舶して日を過したり\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,94 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-06-24",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、此日ハ曾テ <persname corresp=\"#pers_尾高惇忠\">\n<surname> 尾高 </surname>\n<forename> 惇忠 </forename>\n</persname> ト約シテ <placename corresp=\"#place_入間郡\"> 入間郡 </placename>\n<placename corresp=\"#place_黒山村\"> 黒山村 </placename> ニ於テ亡 <persname corresp=\"#pers_渋沢平九郎\">\n<forename> 平九郎 </forename>\n</persname> 戦没ノ跡ヲ訪フ筈ナリシヲ以テ、朝来病モ稍愈タレハ旅装ヲ理シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time>\n<placename corresp=\"#place_飯田町\"> 飯田町 </placename> ニ抵リ、甲武鉄道線ニ搭シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<placename corresp=\"#place_国分寺\"> 国分寺 </placename> ニ抵リテ休憩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時三十分\n       </time> 同所ヨリ川越鉄道線ニ搭シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_入間川\"> 入間川 </placename> 駅ニ抵リテ午餐シ夫ヨリ腕車ヲ僦フテ一里、黒須ニテ <persname corresp=\"#pers_繁田武兵衛\">\n<surname> 繁田 </surname>\n<forename> 武兵衛 </forename>\n</persname> ノ宅ヲ訪フ、更ニ車ヲ馳テ二里、 <placename corresp=\"#place_飯能市\"> 飯能町 </placename>\n       ニ抵リ能仁寺ニ詣ス、寺ハ維新ノ年 <date evidence=\"year inferenced, day\" when=\"1899-05\"> 五月 </date>\n       振武軍ノ屯在スル所ナリ、当時ノ兵火ニ罹リテ堂宇加藍焼滅《（伽）》シ、僅ニ仮設ヲ《（ノ）》本堂アルノミ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.8556,
+                    "lon": 139.3278,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 過\n        <placename corresp=\"#place_飯能市\"> 飯能町 </placename> ニ抵リ、茶店ニ休憩シ、再ヒ腕車ヲ雇フテ四里、 <placename corresp=\"#place_越生町\"> 越生町 </placename> ニ達ス、 <persname corresp=\"#pers_島野伊右衛門\">\n<surname> 島野 </surname>\n<forename> 伊右衛門 </forename>\n</persname> 及浅見、 <persname corresp=\"#pers_新井\">\n<surname> 新井 </surname>\n</persname> 其他ノ諸氏来リ迎フ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.8556,
+                    "lon": 139.3278,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time> 過越生町 <persname corresp=\"#pers_島野伊右衛門\">\n<surname> 島野 </surname>\n<forename> 伊右衛門 </forename>\n</persname> ノ家ニ投宿ス、夜、越生銀行員等来リテ商工業ノ事ヲ談シ揮毫ヲ乞ハル、依テ数紙ヲ試ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1899-06-25T01:00+0900\">\n        午前一時 </time> 過寝ニ就ク "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

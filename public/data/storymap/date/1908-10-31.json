@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-10-31",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴スルヲ得ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       朝飧ヲ食シ、後、書類ヲ整理ス又、来人ニ接ス、午飧後新聞紙ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<persname corresp=\"#pers_河島\">\n<surname> 河島 </surname>\n</persname> 長官ヲ其家ニ訪フ <persname corresp=\"#pers_美濃部俊吉\">\n<surname> 美濃部 </surname>\n<forename> 俊吉 </forename>\n</persname> 氏、 <persname corresp=\"#pers_大倉喜八郎\">\n<surname> 大倉 </surname>\n<forename> 喜八郎 </forename>\n</persname> 氏、 <persname corresp=\"#pers_小野\">\n<surname> 小野 </surname>\n</persname>\n<placename corresp=\"#place_小樽市\"> 小樽 </placename> 区長等来会ス、 <placename corresp=\"#place_小樽市\"> 小樽\n       </placename> 築港ノ事及 <placename corresp=\"#place_北海道\"> 北海道 </placename> 金融ノ事ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 43.190722,
+                    "lon": 140.994361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 帰宿ス、 <persname corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢秀雄\">\n<forename> 秀雄 </forename>\n</persname> 共来リテ其修学上ノ事ニ関シテ種々ノ訓誡ヲ為ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1908-11-01T00:00+0900\"> 十二時 </time>\n       ニ至リテ一同就寝ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

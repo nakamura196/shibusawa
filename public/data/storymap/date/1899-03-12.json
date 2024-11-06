@@ -1,0 +1,66 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-03-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴又陰、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:55:00",
+                    "text": "<time when=\"07:55:00\"> 午前七時五十五分 </time> ノ汽車ニテ <placename corresp=\"#place_浦賀\"> 浦賀\n       </placename> ニ赴ク、 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 、 <persname corresp=\"#pers_進経太\">\n<surname> 進 </surname>\n<forename> 経太 </forename>\n</persname>\n<persname corresp=\"#pers_荒木民三郎\">\n<surname> 荒木 </surname>\n<forename> 民三郎 </forename>\n</persname> 同伴ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.2475,
+                    "lon": 139.713972,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n       同所着、船渠及器械工場其他ノ建造物ヲ一覧ス、所員一同ヲ同所ニ設ケアル倶楽部ニ会シテ、将来ノ企望ヲ述ヘテ其注意勉力ヲ勧告ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時\n       </time> 帰途ニ就テ大船ヨリ路ヲ転シテ <placename corresp=\"#place_大磯町\"> 大磯 </placename> ニ抵リ禱竜館ニ投ス、 <persname corresp=\"#pers_皆川\">\n<surname> 皆川 </surname>\n</persname> 夫人ノ病ヲ訪フ、此夜 <persname corresp=\"#pers_皆川四郎\">\n<surname> 皆川 </surname>\n<forename> 四郎 </forename>\n</persname> 氏モ来会ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-06-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_巣鴨\"> 巣鴨 </placename>\n<persname corresp=\"#pers_徳川慶喜\"> 一位公 </persname> ヲ訪フ、不在ニ付 <persname corresp=\"#pers_新村\">\n<surname> 新村 </surname>\n</persname> 氏ニ面話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7337972,
+                    "lon": 139.7390889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<persname corresp=\"#pers_一井\">\n<surname> 一井 </surname>\n</persname> 歯科医ヲ訪ヒ治療ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ於テ午餐ス、午後 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 総理、 <persname corresp=\"#pers_芳川\">\n<surname> 芳川 </surname>\n</persname> 逓信大臣ヲ訪ヒ鉄道抵当ニ関スル法律ノ件ヲ談ス、午後 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       ニ帰リ食事後銀行集会所ニ抵リ <orgname> 竜門社 </orgname> 月次会ニ出席ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 再ヒ\n        <persname corresp=\"#pers_一井\">\n<surname> 一井 </surname>\n</persname> 医師ヲ <placename corresp=\"#place_駿河台\"> 駿河台 </placename> ニ訪ヒ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

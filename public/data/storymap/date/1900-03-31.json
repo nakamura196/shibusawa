@@ -1,0 +1,52 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-03-31",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前数多ノ来人ニ接ス、午前 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 侯爵ヲ <placename corresp=\"#place_霊南坂\"> 霊南坂 </placename> ニ訪フテ有楽会ニ出席ノ事ヲ話ス、 <date evidence=\"year inferenced, day\" when=\"1900-04\"> 四月 </date> 下旬 <placename corresp=\"#place_山口県\"> 山口県 </placename> 下ヨリ帰京ノ後ニ来会セラルヽ事ヲ約ス、依テ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯、 <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 氏ヘ其事ヲ通知ス、宮内省ニ抵リテ御慶事ニ関スル美術館献納ノ事ヲ宮内大臣ニ談話ス、養育院慈善会ニ関スル演劇参覧ノ事ヲ <persname corresp=\"#pers_香川\">\n<surname> 香川 </surname>\n</persname> 大夫ニ依頼ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.18611,
+                    "lon": 131.4705,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ於テ同族会ヲ開ク "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-01-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シテ、朝飧ヲ食ス、後、日記ヲ編成ス、来書数通ヲ撿閲シ、諸方ヨリ寄贈ノ小品ヲ受領ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_本郷\"> 本郷 </placename> ニテ他人ヲ訪ヒ午飧ヲ食ス、午後事務所ニ抵リ、来人ニ接シ書類ヲ点撿ス <lb></lb>\n<persname corresp=\"#pers_細田謙三\">\n<surname> 細田 </surname>\n<forename> 謙三 </forename>\n</persname> 氏来リ、昨日 <persname corresp=\"#pers_小松原\">\n<surname> 小松原 </surname>\n</persname> 氏官舎会合ノ状況ヲ縷述ス、 <orgname> 第一銀行 </orgname> ニ抵リ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト行務ヲ談ス、夕方 <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス <lb></lb> 夜、稷山金鉱ニ関シテ、\n        <persname corresp=\"#pers_前原\">\n<surname> 前原 </surname>\n</persname> 、 <persname corresp=\"#pers_葛原\">\n<surname> 葛原 </surname>\n</persname> 二氏ノ慰労ノ為招宴ス、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏、 <persname corresp=\"#pers_前川益以\">\n<surname> 前川 </surname>\n<forename> 益以 </forename>\n</persname> 氏来会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

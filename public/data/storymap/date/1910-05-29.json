@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-05-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、日記ヲ編成ス、 <persname corresp=\"#pers_増田明六\">\n<surname> 増田 </surname>\n<forename> 明六 </forename>\n</persname> 来リ、今日 <placename corresp=\"#place_血洗島\"> 血洗島 </placename> ニ抵リテ明日ノ葬儀ニ付テ準備ヲ為ス事ヲ指示ス\n        <pb corresp=\"#pageB1625\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/651/full/max/0/default.jpg\" n=\"B1625\" source=\"#pageB1625\"></pb> 午飧後、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       各地ヘノ書状ヲ裁シ且各方面ノ書状ヲ認ム、夜ニ入リテ実業誌《（団脱カ）》ノ稿本ヲ一覧シテ之ヲ修正ス、又、紀料ヲ一読シ且書斎ニ於テ書類ヲ撿閲ス、夜飧後、新聞紙ヲ一覧ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-01-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前京釜鉄道会社創立委員会ヲ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 宅ニ開ク、 <persname corresp=\"#pers_尾崎三良\">\n<surname> 尾崎 </surname>\n<forename> 三良 </forename>\n</persname> 、 <persname corresp=\"#pers_竹内綱\">\n<surname> 竹内 </surname>\n<forename> 綱 </forename>\n</persname>\n<persname corresp=\"#pers_大倉喜八郎\">\n<surname> 大倉 </surname>\n<forename> 喜八郎 </forename>\n</persname> 、 <persname corresp=\"#pers_井上角五郎\">\n<surname> 井上 </surname>\n<forename> 角五郎 </forename>\n</persname> 、 <persname corresp=\"#pers_日下義雄\">\n<surname> 日下 </surname>\n<forename> 義雄 </forename>\n</persname> 諸氏来会ス、 <persname corresp=\"#pers_大江卓\">\n<surname> 大江 </surname>\n<forename> 卓 </forename>\n</persname> 氏 <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n       ヨリ帰着ニ付同人ニ対スル取扱方ヲ協議ス、種々ノ議論アリシモ此際委員トシテ韓国駐在ノ事ハ同氏ニ托スル事トシ、其費用ヲ節減シ且向後在韓重役タル事ハ一同之ヲ得策ナラスト認ムル事ヲ予告スル事ニ決シ、午後\n        <persname corresp=\"#pers_大江\">\n<surname> 大江 </surname>\n</persname> 氏ヲ招キテ之ヲ告ク、畢テ <orgname> 汽車製造会社 </orgname> 委員会ヲ開ク、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_瓜生\">\n<surname> 瓜生 </surname>\n</persname> 、 <persname corresp=\"#pers_今村\">\n<surname> 今村 </surname>\n</persname> 、 <persname corresp=\"#pers_平岡\">\n<surname> 平岡 </surname>\n</persname> ノ諸氏来会ス、 <persname corresp=\"#pers_黒田\">\n<surname> 黒田 </surname>\n</persname> 、 <persname corresp=\"#pers_安田\">\n<surname> 安田 </surname>\n</persname> 両家ニ対スル処分案其他ノ要件ヲ協議ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<persname corresp=\"#pers_安田\">\n<surname> 安田 </surname>\n</persname> 氏ヲ其銀行ニ訪ヒ委員ノ決議ヲ申告シテ同意ヲ求ム、両三日中ニ回答スヘシトノ事ナリ、此夜 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏葵町邸ノ招宴ニ出席ス <lb></lb> （欄外） <lb></lb> ■■[img図]〓■ <date evidence=\"year inferenced, month\" when=\"1900-01-19\"> 十九日 </date> ノ記事ハ誤アリ、同日ハ英人 <persname corresp=\"#pers_マヂソン\">\n<surname> マヂソン </surname>\n</persname> 、 <persname corresp=\"#pers_キルビ\">\n<surname> キルビ </surname>\n</persname> 、 <persname corresp=\"#pers_渡邊嘉一\">\n<surname> 渡辺 </surname>\n<forename> 嘉一 </forename>\n</persname> 氏来リ北越鉄道ノ事ヲ協議ス、午後 <persname corresp=\"#pers_安田\">\n<surname> 安田 </surname>\n</persname> 氏ヲ訪フ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

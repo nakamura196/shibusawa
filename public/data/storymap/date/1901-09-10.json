@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-09-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前、 <persname corresp=\"#pers_渋沢市郎右衛門\"> 晩香院 </persname> 其他ノ墓前ニ詣ス、香華ヲ奠ス、畢テ鎮守諏訪神社 <pb corresp=\"#pageB1209\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/235/full/max/0/default.jpg\" n=\"B1209\" source=\"#pageB1209\"></pb> ニ詣ス、途ヲ転シテ八基学校ニ抵ル、校長 <persname corresp=\"#pers_望月\">\n<surname> 望月 </surname>\n</persname> 氏ヨリ来観ノ請求アリシニヨル、校上ニ於テ一場ノ演説ヲ為ス、畢テ <placename corresp=\"#place_下手計村\"> 下手計村 </placename>\n<persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 氏ヲ訪ヒ <persname corresp=\"#pers_尾高惇忠\"> 藍香院 </persname> ノ墳墓ニ詣ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_血洗島村\"> 血洗島村 </placename> ニ帰ル、食後上敷面煉瓦工場《（免）》ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_深谷\"> 深谷 </placename> ニ抵リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:15:00",
+                    "text": "<time when=\"16:15:00\"> 四時十五分 </time>\n       発ノ汽車ニ搭シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

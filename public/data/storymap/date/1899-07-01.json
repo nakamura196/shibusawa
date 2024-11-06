@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-07-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、朝数多ノ来人アリ、午後銀行ニ出勤シテ事務ヲ視ル、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> ノ請求ニ係ル <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 鉱業視察ニ付 <persname corresp=\"#pers_斎藤\">\n<surname> 斎藤 </surname>\n</persname> 、 <persname corresp=\"#pers_石井\">\n<surname> 石井 </surname>\n</persname> 派出ノ為書状ヲ裁ス、此日商業学校卒業生 <persname corresp=\"#pers_米田\">\n<surname> 米田 </surname>\n</persname> 、 <persname corresp=\"#pers_鈴木\">\n<surname> 鈴木 </surname>\n</persname> 両人ニ面話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

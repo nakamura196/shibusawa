@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-06-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、病全治セサルニヨリ入浴ヲ廃ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time>\n       太平洋記者ノ来訪ニ接シ種々ノ談話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ食ス、 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 氏来リ <orgname> 第一銀行 </orgname> 韓国支店ノ事ニ関シ一昨日 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 統監邸ニ協議アリシ顚末ヲ聞ク、 <persname corresp=\"#pers_高松\">\n<surname> 高松 </surname>\n</persname> 、 <persname corresp=\"#pers_久米\">\n<surname> 久米 </surname>\n</persname> 二氏来リ、 <orgname> 東京瓦斯会社 </orgname> 取締役辞任ニ付後来ノ措置及補欠撰挙ノ事ヲ談セラル、畢テ <persname corresp=\"#pers_小池靖一\">\n<surname> 小池 </surname>\n<forename> 靖一 </forename>\n</persname> 氏ノ来訪ニ接シ、暁星学校ノ事ニ関シ <persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 侯ヨリノ伝語ヲ述ヘラル、 <persname corresp=\"#pers_藤山\">\n<surname> 藤山 </surname>\n</persname> 氏、 <persname corresp=\"#pers_野依\">\n<surname> 野依 </surname>\n</persname> 氏等ヨリ電話アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_血洗島\"> 血洗島 </placename> 夫人来話ス、 <persname corresp=\"#pers_小田信樹\">\n<surname> 小田 </surname>\n<forename> 信樹 </forename>\n</persname> 氏来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 人コールブラン、セルドン二氏及 <persname corresp=\"#pers_竹内\">\n<surname> 竹内 </surname>\n</persname> 、 <persname corresp=\"#pers_白石\">\n<surname> 白石 </surname>\n</persname> 、 <persname corresp=\"#pers_久米\">\n<surname> 久米 </surname>\n</persname> 、 <persname corresp=\"#pers_岡崎\">\n<surname> 岡崎 </surname>\n</persname> 、 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> ノ諸氏来リ、 <placename corresp=\"#place_京城府\"> 京城 </placename> 電気鉄道買収ノ事ヲ談ス、畢テ <persname corresp=\"#pers_久米\">\n<surname> 久米 </surname>\n</persname> 、 <persname corresp=\"#pers_岡崎\">\n<surname> 岡崎 </surname>\n</persname> 氏等ト協議ス <persname corresp=\"#pers_藤山雷太\">\n<surname> 藤山 </surname>\n<forename> 雷太 </forename>\n</persname> 氏来リ日糖会社重役撰定ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 氏ト共ニ庭園ヲ散歩ス、 <persname corresp=\"#pers_清水釘吉\">\n<surname> 清水 </surname>\n<forename> 釘吉 </forename>\n</persname> 、同 <persname corresp=\"#pers_清水一雄\">\n<forename> 一雄 </forename>\n</persname> 、 <persname corresp=\"#pers_原林之助\">\n<surname> 原 </surname>\n<forename> 林之助 </forename>\n</persname> 氏来リ、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> ヨリ寄贈セラルヽ愛蓮堂建設ノ事ヲ談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

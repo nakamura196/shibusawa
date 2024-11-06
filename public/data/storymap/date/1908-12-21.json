@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-12-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、銀行集会所員 <persname corresp=\"#pers_木口\">\n<surname> 木口 </surname>\n</persname> 氏来リ、 <date evidence=\"year inferenced\" when=\"1909\"> 四十二年 </date>\n       ノ経済界ニ関スル意見ヲ口演ス、蓋シ明年ノ銀行通信録ニ記載スル為ナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <persname corresp=\"#pers_竹内\">\n<surname> 竹内 </surname>\n</persname> 、 <persname corresp=\"#pers_脇田\">\n<surname> 脇田 </surname>\n</persname> 二氏ト <orgname> 宮城屋銀行 </orgname> ノ事ヲ談ス、又 <orgname> 石川島造船所 </orgname> 重役会ヲ開キ、\n        <persname corresp=\"#pers_石川\">\n<surname> 石川 </surname>\n</persname> 氏身上ニ関シ種々ノ談話ヲ為ス、 <persname corresp=\"#pers_青木\">\n<surname> 青木 </surname>\n</persname> 、 <persname corresp=\"#pers_小野沢\">\n<surname> 小野沢 </surname>\n</persname> 、及監査役三名来会ス、畢テ午飧シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<persname corresp=\"#pers_松崎蔵之助\">\n<surname> 松崎 </surname>\n<forename> 蔵之助 </forename>\n</persname> ヲ <orgname> 高等商業学校 </orgname> ニ訪ヒ、 <persname corresp=\"#pers_明石\">\n<surname> 明石 </surname>\n</persname> 氏ノ事ヲ談ス、更ニ文部省ニ抵リ、大臣ニ <orgname> 商業大学 </orgname> ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時\n       </time> 逓信大臣官舎ニ抵リ、 <persname corresp=\"#pers_後藤\">\n<surname> 後藤 </surname>\n</persname> 逓信大臣ニ面話ス、汽車会社ノ事ニ関シテナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ、仏人 <persname corresp=\"#pers_アルベルト_カン\">\n<forename> アルベルト </forename> ・ <surname> カン </surname>\n</persname> 氏ヲ訪問ス、種々ノ談話ヲ為シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半 </time> 有楽座ニ抵リ <placename corresp=\"#place_横浜\"> 横浜 </placename> 在留外国人ノ催フシタル歌劇ヲ観ル、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1908-12-22T00:00+0900\"> 十二時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

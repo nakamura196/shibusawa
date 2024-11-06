@@ -1,0 +1,101 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-07-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、庭内ヲ散歩シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time>\n       朝飧ヲ畢ル、食後各新聞紙ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵ル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n       英国人 <persname corresp=\"#pers_カーチス\">\n<surname> カーチス </surname>\n</persname> 及 <persname corresp=\"#pers_毛利\">\n<surname> 毛利 </surname>\n</persname> 某氏来話ス、蓋シ <persname corresp=\"#pers_カーチス\">\n<surname> カーチス </surname>\n</persname> 氏ハ <orgname> 石川島造船所 </orgname>\n       ニ金融ノ事ヲ談シ、且浦賀船渠会社ヘモ同様ノ談アル由ニ付面会シテ其事実ヲ推窮セシニ、事想像ニ出テ確信シカタキモノアリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ <persname corresp=\"#pers_伊藤伝七\">\n<surname> 伊藤 </surname>\n<forename> 伝七 </forename>\n</persname> 氏ニ会話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 外務省ニ抵リ <persname corresp=\"#pers_珍田\">\n<surname> 珍田 </surname>\n</persname> 氏ニ面会シテ <placename corresp=\"#place_咸鏡道\"> 咸鏡道 </placename> 金鉱ノ事ヲ談シ、帰途火災保険会社ニ抵リ\n        <persname corresp=\"#pers_阿部\">\n<surname> 阿部 </surname>\n</persname> 氏ニ会話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ抵リ <persname corresp=\"#pers_高松豊吉\">\n<surname> 高松 </surname>\n<forename> 豊吉 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_福地源一郎\">\n<surname> 福地 </surname>\n<forename> 源一郎 </forename>\n</persname> 、 <persname corresp=\"#pers_江間政発\">\n<surname> 江間 </surname>\n<forename> 政発 </forename>\n</persname> 二氏来会シ、前公御伝記ノ事ヲ談話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス、 <persname corresp=\"#pers_松崎蔵之助\">\n<surname> 松崎 </surname>\n<forename> 蔵之助 </forename>\n</persname> 来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

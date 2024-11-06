@@ -1,0 +1,101 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1886-12-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 客舎ヲ発シテ汽車場ニ到ル、 <persname corresp=\"#pers_船本\">\n<surname> 船本 </surname>\n</persname> 、 <persname corresp=\"#pers_下里\">\n<surname> 下里 </surname>\n</persname> 、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 、 <persname corresp=\"#pers_水谷\">\n<surname> 水谷 </surname>\n</persname> 其他地方ノ人々来テ行ヲ送ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 発軔、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<placename corresp=\"#place_木曽川\"> 木曾川 </placename> 南畔北方村ニテ車ヲ下リ、腕車 <placename corresp=\"#place_大垣\"> 大垣 </placename> ニ抵ル、道路狭隘頗ル不快ヲ覚フ、午後 <placename corresp=\"#place_大垣市\"> 大垣\n       </placename> 汽車場ノ京丸屋ニ於テ午餐シ、 <placename corresp=\"#place_長浜\"> 長浜 </placename> ヘ達スル汽車ニ搭ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.35994,
+                    "lon": 136.61269,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time> 発車、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 二時半 </time>\n<placename corresp=\"#place_長浜\"> 長浜 </placename> ニ抵ル、直ニ <placename corresp=\"#place_大津\"> 大津\n       </placename> ニ発スル汽船ニ搭ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 前船 <placename corresp=\"#place_長浜\">\n        長浜 </placename> ヲ解纜ス <persname corresp=\"#pers_小林藤太郎\">\n<surname> 小林 </surname>\n<forename> 藤太郎 </forename>\n</persname> 、小使一人ハ <placename corresp=\"#place_敦賀\"> 敦賀 </placename> ヲ経テ <placename corresp=\"#place_金沢市\"> 金沢 </placename> ニ赴クカ為メ <placename corresp=\"#place_長浜\"> 長浜 </placename>\n       ニテ分手ス此日、朝来美晴亦微風ナシ、恰モ小春ノ候アリ、湖上風ナク航行快駃四望淡靄山ヲ籠メテ而シテ北方諸山ハ皆積雪夕陽ニ映ス、湖面油ノ如ク軽帆細漣ノ間ニ漾泳ス、真ニ佳景ト云フヘシ <lb></lb>\n"
+                },
+                "location": {
+                    "line": true,
+                    "lat": 36.56106,
+                    "lon": 136.6565,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time> 、船 <placename corresp=\"#place_大津\"> 大津 </placename>\n       ニ着ス、神戸店 <persname corresp=\"#pers_田中元三郎\">\n<surname> 田中 </surname>\n<forename> 元三郎 </forename>\n</persname> 来迎フ、西京店 <persname corresp=\"#pers_三木安三郎\">\n<surname> 三木 </surname>\n<forename> 安三郎 </forename>\n</persname> ハ親戚ニ婚儀アルカ為メニ来ラス、 <placename corresp=\"#place_大津\"> 大津 </placename>\n<orgname> 小林楼 </orgname> ニ於テ小憩シ、腕車西京ニ赴ク、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過、 <placename corresp=\"#place_木屋町通\"> 木屋町 </placename>\n<orgname> 松力楼 </orgname> ニ安着ス、西京支店ノ人、交来テ安着ヲ祝ス <lb></lb>\n<persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏西京ニ在テ来訪ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-08-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 病未タ全ク愈ヘサルニヨリ、起床後更ニ病褥ヲ設ケテ摂養ス、朝来褥中ニ於テ日記ヲ編成シ新聞紙ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time>\n       朝飧ヲ畢リ新聞紙ヲ一覧ス <lb></lb> 午前ヨリ古墨帖ノ臨書ヲ試ム、終日勉強シテ折本数冊ヲ揮毫ス <lb></lb>\n<pb corresp=\"#pageB1464\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/490/full/max/0/default.jpg\" n=\"B1464\" source=\"#pageB1464\"></pb>\n<lb></lb> 此日ハ <orgname> 人造肥料会社 </orgname> 二十年紀念ノ夜会ヲ催セシモ、病ノ為メ出席ヲ得ス、又米国大使送別会ヲ開キシモ、同ク欠席セリ <lb></lb> 夕方\n        <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス <lb></lb> 夜、 <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> ノ小説ヲ読ムヲ聴ク "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

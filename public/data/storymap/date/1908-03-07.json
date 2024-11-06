@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-03-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、各新聞紙ヲ通覧ス、褥中ニ於テ揮毫ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<persname corresp=\"#pers_高木\">\n<surname> 高木 </surname>\n</persname> 博士、 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス、下剤ヲ服サシム、夕方ヨリ数回ノ下痢アリ、夜ニ入リテモ尚ホ止マス、大ニ疲労ヲ覚フ、夜、読書ス <lb></lb> 此日ハ <orgname> 帝国商業銀行\n       </orgname> 新重役会ニ出席ノ請求ヲ受ケ、且其前、日清汽船会社ノ重役会モ約束アリシカ、共ニ出席シ得サルニヨリ、 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> ヲ招キ両会ニ対スル意見ヲ示シテ出席伝言セシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

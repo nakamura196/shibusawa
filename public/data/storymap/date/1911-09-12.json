@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-09-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ、朝飧ヲ食ス、後、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏ノ来訪ニ接ス、 <orgname> 東洋汽船会社 </orgname> ノ事ヲ談ス、 <persname corresp=\"#pers_畑弥右衛門\">\n<surname> 畑 </surname>\n<forename> 弥右衛門 </forename>\n</persname> 氏 <placename corresp=\"#place_朝鮮\"> 朝鮮 </placename> ヨリ出京ノ由ニテ来訪、久濶ノ情ヲ叙ス、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 氏来リ養育院ノ事ヲ談ス、 <persname corresp=\"#pers_成瀬\">\n<surname> 成瀬 </surname>\n</persname> 、 <persname corresp=\"#pers_塘\">\n<surname> 塘 </surname>\n</persname> 二氏来リ <date when=\"1911-09-17\"> 本月十七日 </date>\n<persname corresp=\"#pers_ジヨルダン\">\n<surname> ジヨルダン </surname>\n</persname> 博士 <orgname> 女子大学 </orgname> 来校ノ事ニ付談話ス、 <persname corresp=\"#pers_永田甚之助\">\n<surname> 永田 </surname>\n<forename> 甚之助 </forename>\n</persname> 来リ近日名古屋支店在勤ノ為告別ス、依テ心得方ニ付種々ノ訓示ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n       事務所ニ抵リ来人ニ接シ事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 二時半 </time>\n<placename corresp=\"#place_四谷\"> 四谷 </placename> 愛染院ニ抵リ <persname corresp=\"#pers_塙保己一\">\n<surname> 塙 </surname>\n<forename> 保己一 </forename>\n</persname> ノ追善会ニ出席シ一場ノ演説ヲ為ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6862333,
+                    "lon": 139.7291861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リ <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 大蔵大臣招宴会ニ出席ス、 <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 、 <persname corresp=\"#pers_池田\">\n<surname> 池田 </surname>\n</persname> 、 <persname corresp=\"#pers_早川\">\n<surname> 早川 </surname>\n</persname> 、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 等ノ十名来会、 <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 氏ヲ歓迎シテ懇親上ノ祝詞ヲ述ヘ、賓主和楽シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-01-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<persname corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persname> 来ル、京仁鉄道ノ事ヲ話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 銀行ニテ行務ヲ聞ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\">\n        十時 </time> 過 <orgname> 東京商業会議所 </orgname> ニ抵リ役員会ヲ開キ、二三ノ用務ヲ議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半\n       </time> 三菱会社ニ到リテ、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 、 <persname corresp=\"#pers_瓜生震\">\n<surname> 瓜生 </surname>\n<forename> 震 </forename>\n</persname> 及 <persname corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persname> 氏□来《（欠）》シテ京仁鉄道ノ事ヲ協議シ、 <persname corresp=\"#pers_足立\">\n<surname> 足立 </surname>\n</persname> 氏ヲ <placename corresp=\"#place_横浜\"> 横浜 </placename> ニ派遣シテ <persname corresp=\"#pers_モールス\">\n<surname> モールス </surname>\n</persname> ニ談話セシム、蓋シ彼ノ鉄道事件ニ関シ米国公使及 <persname corresp=\"#pers_加藤\">\n<surname> 加藤 </surname>\n</persname> 公使ノ回電ヲ得タルニ依ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 郵船会社ニテ午餐シ、畢テ貴族院ニ抵リ大蔵大臣及\n        <persname corresp=\"#pers_阪谷芳郎\">\n<surname> 阪谷 </surname>\n<forename> 芳郎 </forename>\n</persname> ニ面会シテ京仁鉄道ニ関スル下付金ノ事ヲ請求ス、然レトモ議会ノ協賛未済中ハ下付金ハ為シ難キニ付、利足ニ付テ特別ノ取扱ヲ為スヘキ事ヲ口約シテ帰ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 再ヒ郵船会社ニ抵リ重役会ニ列ス米国人 <persname corresp=\"#pers_マツカイバー\">\n<surname> マツカイバー </surname>\n</persname> 氏、 <persname corresp=\"#pers_増島六一郎\">\n<surname> 増島 </surname>\n<forename> 六一郎 </forename>\n</persname> 氏ト共ニ来ル、同志社学校ノ事ニ関スル意見陳述ノ為メナリ、会議所 <persname corresp=\"#pers_小崎懋\">\n<surname> 小崎 </surname>\n<forename> 懋 </forename>\n</persname> 氏来ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

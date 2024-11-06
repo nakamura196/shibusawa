@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-04-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、半身浴ヲ為シ畢テ朝飧ヲ食ス、後、二三ノ来客ニ接ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_本郷\"> 本郷 </placename> ニ抵リ知人ヲ訪ヘ午飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:30:00",
+                    "text": "<time when=\"13:30:00\"> 午後一時半 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ書状ヲ裁シ事務ヲ処理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\">\n        三時 </time>\n<placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 人 <persname corresp=\"#pers_テイラー\">\n<surname> テーラー </surname>\n</persname> 氏来リ稷山金鉱ノ事ヲ談ス、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       人カール氏来《（オール氏カ）》ル <lb></lb>\n<persname corresp=\"#pers_影山\">\n<surname> 影山 </surname>\n</persname> 某来リ、 <placename corresp=\"#place_イギリス\"> 英国 </placename>\n       スタチスト雑誌ノ事ニ関シテ意見ヲ問ハル、夕方ヨリ事務ヲ処理シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、夜、新聞紙ヲ読ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

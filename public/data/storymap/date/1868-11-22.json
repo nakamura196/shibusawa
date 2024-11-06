@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-11-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 微風波穏かにして〓行如席、風故炎暑は昨日より稍凌よし、夕方一の孤島の側を〓行す、夜に入ては風稍つよく、殆炎熱の苦なし、されと〓行は極て穏かなり <lb></lb>\n       Brunet,capitaine d'artillerie,est parti pour Nord du Japon pour aider les troupes de\n       No.《(Nord)》 sans permission de gouvernement Francais il y a un mois. <lb></lb>\n<lb></lb> 你有此碑記法帖乎 <lb></lb> 墨帖有無如何 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

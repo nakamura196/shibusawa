@@ -1,0 +1,79 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-10-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝御支度、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 朝餐直ニ御出発、 <placename corresp=\"#place_ヲレヤン\"> ヲレヤン\n       </placename> といふ汽車場御越、 <persname corresp=\"#pers_ポール_フルーリ_エラール\">\n<forename> フロリ </forename>\n<surname> ヘラルト </surname>\n</persname> 、 <persname corresp=\"#pers_クレイシベリョン\"> クレイシベリョン </persname> 、 <persname corresp=\"#pers_コンマンタン\"> コンマンタン </persname> 両人、 <persname corresp=\"#pers_石見貞次郎\">\n<surname> 石見 </surname>\n<forename> 貞次郎 </forename>\n</persname> 其外御残之者一同為御送罷出る、 <persname corresp=\"#pers_コロネル\"> コロネル </persname> は <placename corresp=\"#place_ビアリッツ\"> ビヤリイト </placename> 迄御附添、帝御逢取扱ニ付、御供 <persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤太夫 </forename>\n</persname> 、 <persname corresp=\"#pers_菊池平八郎\">\n<forename> 平八郎 </forename>\n</persname> 、 <persname corresp=\"#pers_井坂泉太郎\">\n<forename> 泉太郎 </forename>\n</persname> 等御供いたす、第 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 43.481667,
+                    "lon": -1.556111,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:45:00",
+                    "text": "<time when=\"10:45:00\"> 十時四十五分 </time> 同所御発軔、小遣 <persname corresp=\"#pers_アンリイ\"> アンリイ </persname> は <placename corresp=\"#place_アレクサンドリア\"> アレキサントリヤ\n       </placename> 迄御召連之積申付る此日天曇りたれとも雨降らす、 <placename corresp=\"#place_パリ\"> 巴里 </placename> より\n        <placename corresp=\"#place_ツール\"> ツール </placename> といふ地迄は過日経過せし途なれは目に触るゝ山河村落の景色いと風情あるを覚ゆ、\n        <placename corresp=\"#place_ツール\"> ツール </placename> より鉄路左折して <placename corresp=\"#place_ボルドー\">\n        ボルドウ </placename> 江の途を取る、此日第 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 31.198,
+                    "lon": 29.9192,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 頃 <placename corresp=\"#place_サンヒイルルコール\"> サンヒイルルコール </placename> といふ地ニ而午飯、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:30:00",
+                    "text": "<time when=\"22:30:00\"> 十時半 </time>\n<placename corresp=\"#place_ボルドー\"> ボルドウ </placename> 御着、ホテル・デ・ルシルユウと呼ふ客舎御投宿 <lb></lb>\n<placename corresp=\"#place_ボルドー\"> ボルトウ </placename> は <placename corresp=\"#place_フランス\"> 仏国\n       </placename> 南陲の一都会にして、市街頗ル繁華なり、多く萄葡酒《（葡萄）》を産し遍く全 <placename corresp=\"#place_欧洲\"> 欧洲\n       </placename> に鬻く、貿易の盛なる馬寨港に勝るといふ、市街に添ふて一の大河あり、 <placename corresp=\"#place_ジロンド\"> ジロンド\n       </placename>\n       といふ、河巾いと広く水深しといえとも、数々の鉄橋、石橋を架して通路に便す、石橋の長八百メイトル、巾十六七メイトルもあるへく、尤宏壮を極メタリ、シロント河本地より二十里計下流して海に注くといへしか、此辺より水底いと深く、石橋の下流二里程は港にして、大船巨艦輻港《（湊カ）》せり、人口凡拾七八万程といふ\n      "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 44.838611,
+                    "lon": -0.578333,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

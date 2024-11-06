@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-01-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 起テ読書ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 過\n        <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ抵リ事務ヲ処理ス、 <placename corresp=\"#place_四日市\"> 四日市 </placename>\n<persname corresp=\"#pers_伊藤伝七\">\n<surname> 伊藤 </surname>\n<forename> 伝七 </forename>\n</persname> 、 <placename corresp=\"#place_大阪\"> 大坂 </placename>\n<persname corresp=\"#pers_不二樹熊次郎\">\n<surname> 不二樹 </surname>\n<forename> 熊次郎 </forename>\n</persname> 、 <placename corresp=\"#place_京都\"> 京都 </placename>\n<persname corresp=\"#pers_渡辺伊之助\">\n<surname> 渡辺 </surname>\n<forename> 伊之助 </forename>\n</persname> ノ諸氏ヘ書状ヲ発ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 過 <orgname> 第一銀行 </orgname>\n       ニ出勤シ、慰労金恩給金規則修正ノ事ヲ協議ス、又来 <date evidence=\"year inferenced, month\" when=\"1902-01-19\"> 十九日\n       </date> 株主総会ニ提出スヘキ利益分配案ノ事ヲ議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:40:00",
+                    "text": "<time when=\"13:40:00\"> 午後一時四十分 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 発ノ汽車ニ搭ス、 <placename corresp=\"#place_新橋\"> 新橋\n       </placename> ニテ <persname corresp=\"#pers_萩原源太郎\">\n<surname> 萩原 </surname>\n<forename> 源太郎 </forename>\n</persname> 氏来リ商業会議所ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 過 <placename corresp=\"#place_大磯町\"> 大磯 </placename> 着、長生館ニ抵ル、 <persname corresp=\"#pers_西村勝三\">\n<surname> 西村 </surname>\n<forename> 勝三 </forename>\n</persname> 夫妻来話ス、此夜風雨徹宵ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

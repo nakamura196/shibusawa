@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-09-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 旅装ヲ理シ、 <persname corresp=\"#pers_岩崎\">\n<surname> 岩崎 </surname>\n</persname> 男爵ニ面会シテ告別ヲ為シ、送別ノ為メニ来訪スル諸人ト談話シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 旅宿ヲ発シ、\n        <placename corresp=\"#place_ビクトリヤ\"> ビクトリヤ </placename> 停車場ニ於テ <placename corresp=\"#place_ドーバー_(イギリス)\"> ドーバー </placename> 行ノ汽車ニ搭シ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 51.1275,
+                    "lon": 1.3122,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_ドハー\"> ドハー </placename> 着、直ニ汽船ニテ英仏海峡 <pb corresp=\"#pageB1273\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/299/full/max/0/default.jpg\" n=\"B1273\" source=\"#pageB1273\"></pb> ヲ超ヘ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 二時半 </time>\n<placename corresp=\"#place_フランス\"> 仏国 </placename>\n<placename corresp=\"#place_カレー港\"> カレー港 </placename> ニ着ス、此日ハ風ナクシテ有名ノ <placename corresp=\"#place_ドーバー_(イギリス)\"> ドバ </placename>\n<placename corresp=\"#place_カレー_(フランス)\"> カレー </placename> 海峡モ船極テ平穏ナリキ、 <placename corresp=\"#place_カレー_(フランス)\"> カレー </placename> 到着ノ際 <persname corresp=\"#pers_井上金治郎\">\n<surname> 井上 </surname>\n<forename> 金治郎 </forename>\n</persname> 夫妻来リ迎フ直ニ同車ニテ <placename corresp=\"#place_パリ\"> 巴里 </placename> 行ノ汽車ニ搭シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 51.1275,
+                    "lon": 1.3122,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:50:00",
+                    "text": "<time when=\"18:50:00\"> 午後六時五十分 </time>\n<placename corresp=\"#place_巴里府\"> 巴里府 </placename>\n<placename corresp=\"#place_ガールジユノール\"> ガールジユノール </placename> ニ着ス、停車場ニハ <persname corresp=\"#pers_林忠正\">\n<surname> 林 </surname>\n<forename> 忠正 </forename>\n</persname> 氏兄弟、 <persname corresp=\"#pers_西尾\">\n<surname> 西尾 </surname>\n</persname> 、 <persname corresp=\"#pers_佐野\">\n<surname> 佐野 </surname>\n</persname> ノ諸氏来リ迎フ相伴フテガランド・ホテルニ投宿ス、夜、林、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 氏等ト滞留中諸方歴覧及訪問スヘキ人々ヘノ紹介手続ヲ協議ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

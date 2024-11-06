@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-07-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シ、後、新東洋雑誌記者ノ来訪ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       朝飧ヲ食ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 銀行集会所ニ抵リ、日韓瓦斯会社臨時株主総会ニ出 <pb corresp=\"#pageB1585\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/611/full/max/0/default.jpg\" n=\"B1585\" source=\"#pageB1585\"></pb> 席シ、 <placename corresp=\"#place_京城府\"> 京城 </placename>\n       ニ於ル電車、電灯ノ事業ヲ米人ヨリ買収スルニ関スル要件ヲ議決ス、畢テ同会社重役会ヲ開キ、向後経営ノ順序ヲ協議ス、 <persname corresp=\"#pers_白岩竜平\">\n<surname> 白岩 </surname>\n<forename> 竜平 </forename>\n</persname> 氏来リ、東亜興業会社設立ニ関ス《（ル脱）》向後進行ノ順序ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、後、 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ニ抵リテ書類ヲ調査ス、 <persname corresp=\"#pers_竹内綱\">\n<surname> 竹内 </surname>\n<forename> 綱 </forename>\n</persname> 氏来話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、後、児等ト庭園ヲ散歩ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

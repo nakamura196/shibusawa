@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-09-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後温湯ニテ身体ヲ摩擦ス、畢テ種々ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       過朝飧ヲ畢リ庭園ヲ散歩ス、後、書類ヲ調査シテ午後ニ至ル、夕方家人ト共ニ再ヒ <placename corresp=\"#place_飛鳥山邸\"> 飛鳥山 </placename> ヲ一週ス\n       <lb></lb> 夜ニ入リテ <persname corresp=\"#pers_皆川\">\n<surname> 皆川 </surname>\n</persname> 夫人来話ス <lb></lb>\n<persname corresp=\"#pers_掘越善重郎\">\n<surname> 掘越 </surname>\n<forename> 善重郎 </forename>\n</persname> 氏来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

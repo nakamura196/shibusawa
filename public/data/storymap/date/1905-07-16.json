@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-07-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:00:00",
+                    "text": "<time when=\"05:00:00\"> 午前五時 </time> 起床、朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 六時 </time>\n       発ノ汽車ニテ帰京ノ途ニ上ル、来リ送ル者多シ、 <placename corresp=\"#place_柏崎\"> 柏崎 </placename> 、 <placename corresp=\"#place_直江津市\"> 直江津 </placename> 等ニ抵ルマテ送来者アリ、 <persname corresp=\"#pers_渡邊嘉一\">\n<surname> 渡辺 </surname>\n<forename> 嘉一 </forename>\n</persname> 氏同行ス、汽車予定ノ如ク "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 37.17492,
+                    "lon": 138.24525,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_高崎\"> 高崎 </placename> ニ抵リテ日本鉄道会社線ニ入リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 午後九時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> 着、 <placename corresp=\"#place_熊谷\"> 熊谷\n       </placename> 駅ヨリ <persname corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persname> 氏同伴ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

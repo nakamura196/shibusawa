@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1886-05-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 六時 </time> 、 <placename corresp=\"#place_蒲原\"> 蒲原 </placename> ヲ発シ、\n        <placename corresp=\"#place_興津\"> 興津 </placename> 駅ニ抵リ、漁夫ノ網ヲ引テ魚ヲ捕フヲ見ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\">\n        午前十一時 </time> 、 <placename corresp=\"#place_静岡\"> 静岡 </placename> ニ達ス、大万屋ニ休憩ス、 <persname corresp=\"#pers_小栗\">\n<surname> 小栗 </surname>\n</persname> 氏ヲ訪ヒ、前公ニ謁ス、款話数刻辞テ旅亭ニ帰リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<placename corresp=\"#place_静岡\"> 静岡 </placename> ヲ発シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半 </time>\n<placename corresp=\"#place_藤枝\"> 藤枝 </placename> 駅ニ到リ銭屋ニ投宿ス、此日、天気快晴薄暑ヲ覚ユ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

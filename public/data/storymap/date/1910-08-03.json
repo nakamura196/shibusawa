@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-08-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シ畢テ朝飧ヲ食シ、後、来人ニ接ス、 <persname corresp=\"#pers_山崎俊彦\">\n<surname> 山崎 </surname>\n<forename> 俊彦 </forename>\n</persname> ヨリ依頼アリシカーネキー氏著書ノ翻訳勤倹ノ教訓ニ序文ヲ作リ之ヲ揮毫ス、又、明日 <placename corresp=\"#place_信越地方\"> 信越\n       </placename> 旅行ノ筈ニ付旅装ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 事務所ニ抵リテ来人ニ接シ、事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、留守中ノ行務ヲ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<placename corresp=\"#place_本郷\"> 本郷 </placename> ニ抵リ知人ヲ訪フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n       事務所ニ抵リ髪ヲ理シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_芝田町\"> 芝田町 </placename>\n<persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏ノ招宴ニ出席ス、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       人南太平洋汽船会社長シワリン氏ノ来遊ニ付テ催フシタルナリ、 <placename corresp=\"#place_日本\"> 日本 </placename> 食事畢テ余興アリ、畢テ\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過散宴、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

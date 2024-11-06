@@ -1,0 +1,73 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-01-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、昨夜ヨリ天気アシク寒雲雨ヲ催フス様ナリシカバ、今朝ノ元旦ハ如何アラント気遣ヘシガ幸ニ雨モナカリシ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time>\n       ニ新衣ヲ着シ椒酒辛盤ノ嘉儀ヲ為ス、祝賀ノ来客陸続トシテ来ル、家人モ打揃フテ賀詞ヲ述フ、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 、 <persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 、 <persname corresp=\"#pers_土岐\">\n<surname> 土岐 </surname>\n</persname> 、 <persname corresp=\"#pers_鈴木善三\">\n<surname> 鈴木 </surname>\n<forename> 善三 </forename>\n</persname> 等ノ諸氏皆来リ賀ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<orgname> 第一銀行 </orgname> ニ於テ行員ノ祝賀ヲ受ク、畢テ帰宅、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:40:00",
+                    "text": "<time when=\"13:40:00\"> 午後一時四十分 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 発ノ汽車ニ搭シ、 <placename corresp=\"#place_大磯町\"> 大磯\n       </placename> ニ赴ク、車中 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 陸軍大臣、 <persname corresp=\"#pers_横田\">\n<surname> 横田 </surname>\n</persname> 司法次官、 <persname corresp=\"#pers_大山\">\n<surname> 大山 </surname>\n</persname> 夫人、 <persname corresp=\"#pers_高橋是清\">\n<surname> 高橋 </surname>\n<forename> 是清 </forename>\n</persname> 、 <persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> 氏等ニ面話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 頃 <placename corresp=\"#place_大磯町\"> 大磯\n       </placename> 長生館ニ投宿ス、家人児童相会シテ一室団欒ノ楽アリ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

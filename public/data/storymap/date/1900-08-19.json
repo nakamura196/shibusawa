@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-08-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、朝来海水浴ノ為海岸ニ抵リシモ波濤常時ト異ルヲ以テ之ヲ停ム、朝餐読書揮毫ヲ為シ午後来人ニ接ス、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:10:00",
+                    "text": "<time when=\"19:10:00\"> 七時十分 </time>\n       発ノ汽車ニテ <placename corresp=\"#place_大磯町\"> 大磯 </placename> ヲ発シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時\n       </time> 過 <placename corresp=\"#place_東京\"> 東京 </placename> ニ抵ル、 <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス、此夕停車場ニ於テ <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 侯ニ邂逅ス、 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> 同汽車ニテ帰京ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

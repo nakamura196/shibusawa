@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-11-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、此日ハ <orgname> 竜門社 </orgname>\n       秋季総会ヲ開クトテ朝来其準備ニ忙シ、 <persname corresp=\"#pers_逸見義亮\">\n<surname> 逸見 </surname>\n<forename> 義亮 </forename>\n</persname> 氏来リ就職ノ事ヲ依頼セラル、 <persname corresp=\"#pers_桜井義肇\">\n<surname> 桜井 </surname>\n<forename> 義肇 </forename>\n</persname> 氏来リ <placename corresp=\"#place_ローマ\"> 羅馬 </placename> 字会出席ノ事ヲ請ハル、 <persname corresp=\"#pers_宮下正男\">\n<surname> 宮下 </surname>\n<forename> 正男 </forename>\n</persname> 来訪ス、 <persname corresp=\"#pers_渡辺渡_(冶金学者)\">\n<surname> 渡辺 </surname>\n<forename> 渡 </forename>\n</persname> 氏来リ鉱業団ヨリ招待セラレタル来 <date evidence=\"year inferenced, month\" when=\"1911-11-21\"> 廿一日 </date>\n<placename corresp=\"#place_横浜\"> 横浜 </placename> 行ノ事ヲ協議ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 41.89306,
+                    "lon": 12.48278,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n       ヨリ <orgname> 竜門社 </orgname> 総会ヲ開キ <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 氏先ツ演説ス、後、余モ一場ノ演説ヲ為ス畢テ午飧ヲ食シ園遊会ヲ開ク、雨降リテ不便ナリ、余興数番アリテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時\n       </time> 過散会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯ヲ訪ヘ、 <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 、 <persname corresp=\"#pers_水町\">\n<surname> 水町 </surname>\n</persname> 氏等ト財政意見ニ付種々ノ談話ヲ為ス、夜飧後更ニ協議ヲ継続シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 大体ヲ決定シ、明夕\n        <persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 首相ニ持参スル事トシテ散会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

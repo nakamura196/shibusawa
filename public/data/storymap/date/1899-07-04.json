@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-07-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、朝、 <persname corresp=\"#pers_熊谷辰太郎\">\n<surname> 熊谷 </surname>\n<forename> 辰太郎 </forename>\n</persname>\n<placename corresp=\"#place_神戸\"> 神戸 </placename> ヨリ来訪ス、 <persname corresp=\"#pers_辻川新三郎\">\n<surname> 辻川 </surname>\n<forename> 新三郎 </forename>\n</persname> 来ル、 <persname corresp=\"#pers_不二樹熊次郎\">\n<surname> 不二樹 </surname>\n<forename> 熊次郎 </forename>\n</persname> 来ル、日本精糖会社ノ事ヲ話ス、明日一覧ノ事ヲ約ス、 <persname corresp=\"#pers_和泉栄\">\n<surname> 和泉 </surname>\n<forename> 栄 </forename>\n</persname> 来話ス <orgname> 日本銀行 </orgname> 支店長 <persname corresp=\"#pers_首藤諒\">\n<surname> 首藤 </surname>\n<forename> 諒 </forename>\n</persname> 氏来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯、 <persname corresp=\"#pers_今村清之助\">\n<surname> 今村 </surname>\n<forename> 清之助 </forename>\n</persname> 等ハ共ニ島屋村 <orgname> 汽車製造会社 </orgname> ニ抵ル、 <persname corresp=\"#pers_井上勝\">\n<surname> 井上 </surname>\n<forename> 勝 </forename>\n</persname> 氏ニ面会シ明日会社開業式ニ関スル手続ヲ協議シ、工場ヲ一覧ス、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ノ注意ニヨリテ明日ノ開業式ニ於テ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 社長演説ノ原稿修正ノ事ヲ托セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 過人車ヲ馳テ三軒屋紡績会社ニ抵リ <persname corresp=\"#pers_山辺丈夫\">\n<surname> 山辺 </surname>\n<forename> 丈夫 </forename>\n</persname> 、 <persname corresp=\"#pers_滝村\">\n<surname> 滝村 </surname>\n</persname> 等ニ面会シ営業ノ概況ヲ聞ク二三ノ注意ヲ示シテ去ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_高麗橋\"> 高麗橋 </placename> 通リ <orgname> 第一銀行 </orgname> 支店ニ抵リ\n        <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 、 <persname corresp=\"#pers_熊谷\">\n<surname> 熊谷 </surname>\n</persname> 、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 等ト共ニ店員一同ヲ会シテ店務ニ関スル心得方トシテ要件二三ヲ説示ス、畢テ伝法屋ニ帰宿シ、 <persname corresp=\"#pers_熊谷\">\n<surname> 熊谷 </surname>\n</persname> 、 <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 、 <persname corresp=\"#pers_辻川\">\n<surname> 辻川 </surname>\n</persname> 、 <persname corresp=\"#pers_中川浅七\">\n<surname> 中川 </surname>\n<forename> 浅七 </forename>\n</persname> 等ノ諸氏ト伝法屋ニ会食ス、種々ノ事務ヲ談話ス、夜、 <orgname> 汽車製造会社 </orgname> 々長ノ演説原稿ヲ草ス、此夕 <persname corresp=\"#pers_磯野小右衛門\">\n<surname> 磯野 </surname>\n<forename> 小右衛門 </forename>\n</persname> 、 <persname corresp=\"#pers_大森敏寛\">\n<surname> 大森 </surname>\n<forename> 敏寛 </forename>\n</persname> 両氏来話ス、此夕 <persname corresp=\"#pers_首藤\">\n<surname> 首藤 </surname>\n</persname> 氏ヨリ富田屋ニ案内アリシモ多忙ニ付謝絶ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.68985,
+                    "lon": 135.4984306,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

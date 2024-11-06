@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-06-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n<persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 伯ヲ <placename corresp=\"#place_三田\"> 三田 </placename> ニ訪ヒ大坂瓦斯会社ノ事及京釜鉄道会社ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ヲ <placename corresp=\"#place_麻布\"> 麻布 </placename> ノ邸ニ訪ヒ経済界ノ事ニ関シテ種々ノ談話ヲ為シ、来ル\n        <date evidence=\"year inferenced, month\" when=\"1903-06-09\"> 十九日 </date> 有楽会開会ノ事ヲ約ス、 <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname>\n<persname corresp=\"#pers_稲垣\">\n<surname> 稲垣 </surname>\n</persname> 二氏来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 岩城炭坑会社重役会ニ出席ス、午後 <orgname> 東京商業会議所\n       </orgname> 役員会ニ出席シ <placename corresp=\"#place_大阪\"> 大坂 </placename> ニ開カルヽ聯合会出席員ノ事ヲ評議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 製綱会社株主総会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ書類ヲ整理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リ <persname corresp=\"#pers_田辺\">\n<surname> 田辺 </surname>\n</persname> 、 <persname corresp=\"#pers_白岩\">\n<surname> 白岩 </surname>\n</persname> 二氏ヨリノ招宴ニ出席ス、 <persname corresp=\"#pers_近衛\">\n<surname> 近衛 </surname>\n</persname> 公爵、 <persname corresp=\"#pers_芳川\">\n<surname> 芳川 </surname>\n</persname> 逓信、 <persname corresp=\"#pers_小村\">\n<surname> 小村 </surname>\n</persname> 外務其他十数名来会ス、夜 <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

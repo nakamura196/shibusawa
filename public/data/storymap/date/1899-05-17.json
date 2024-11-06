@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-05-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前数多ノ来人ニ接ス、 <persname corresp=\"#pers_島田三郎\">\n<surname> 島田 </surname>\n<forename> 三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢成一郎\">\n<surname> 渋沢 </surname>\n<forename> 喜作 </forename>\n</persname> 氏来ル、午後三菱会社ニ抵リ <persname corresp=\"#pers_瓜生\">\n<surname> 瓜生 </surname>\n</persname> 氏ニ面会シテ商業会議所建築費借入金ノ事ヲ依頼ス、 <placename corresp=\"#place_東京市\"> 東京市 </placename>\n       ニ抵リテ市長、助役ニ面会シテ <placename corresp=\"#place_深川\"> 深川 </placename> 墓地ノ件及水道取付ニ関スル事ヲ談話ス、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 過 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

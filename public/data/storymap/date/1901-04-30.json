@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-04-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1190\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/216/full/max/0/default.jpg\" n=\"B1190\" source=\"#pageB1190\"></pb>\n<lb></lb> 晴、午前鑿井技師 <persname corresp=\"#pers_ハース\">\n<surname> ハース </surname>\n</persname> 、 <persname corresp=\"#pers_藤井\">\n<surname> 藤井 </surname>\n</persname> 、 <persname corresp=\"#pers_中谷\">\n<surname> 中谷 </surname>\n</persname> 等来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 頃ヨリ浜、 <persname corresp=\"#pers_鍵富\">\n<surname> 鍵富 </surname>\n</persname> 二氏ノ家ヲ訪フテ昨夜饗宴ノ事ヲ謝ス、白山神社ニ詣シ市中ヲ散歩シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 会津屋ニ抵リ午餐ス、\n        <persname corresp=\"#pers_渡邊嘉一\">\n<surname> 渡辺 </surname>\n<forename> 嘉一 </forename>\n</persname> 、 <persname corresp=\"#pers_松井吉太郎\">\n<surname> 松井 </surname>\n<forename> 吉太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_清水泰吉\">\n<surname> 清水 </surname>\n<forename> 泰吉 </forename>\n</persname> 、 <persname corresp=\"#pers_藤井\">\n<surname> 藤井 </surname>\n</persname> 某等来会ス、食後新潟商業学校ニ抵ル、生徒ニ対シテ修学上ノ心得ニ関スル一場ノ演説ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n       帰寓、更ニ鍋茶屋ニ抵リ此日地方人士ヲ招宴ス、来会スル者約三十人許リナリ、岩越鉄道会社 <persname corresp=\"#pers_前田青莎\">\n<surname> 前田 </surname>\n<forename> 青莎 </forename>\n</persname> 氏来会ス、宴畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 午後十時 </time> 帰寓ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

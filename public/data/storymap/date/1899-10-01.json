@@ -1,0 +1,73 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-10-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、朝数多ノ来客ニ接シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_小石川\"> 小石川 </placename>\n<placename corresp=\"#place_林町\"> 林町 </placename>\n<persname corresp=\"#pers_土方\">\n<surname> 土方 </surname>\n</persname> 伯ヲ訪ヒ女子教育奨励会ト <orgname> 女子大学 </orgname> ト合併ノ事ヲ内話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7137833,
+                    "lon": 139.7487556,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time>\n<placename corresp=\"#place_原町\"> 原町 </placename> ナル <persname corresp=\"#pers_阪谷芳郎\">\n<surname> 阪谷 </surname>\n<forename> 芳郎 </forename>\n</persname> ノ新築家屋ヲ訪問ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<placename corresp=\"#place_巣鴨\"> 巣鴨 </placename> ニ抵リ <persname corresp=\"#pers_徳川慶喜\"> 一位公\n       </persname> ヲ訪問セシモ、御不在ニ付 <persname corresp=\"#pers_新村猛雄\">\n<surname> 新村 </surname>\n<forename> 猛雄 </forename>\n</persname> 氏ヲ尋ネシモ、同シク他出ノ由ニテ <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ノ新築ヲ一覧シ、\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7337972,
+                    "lon": 139.7390889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

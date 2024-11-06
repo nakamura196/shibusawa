@@ -1,0 +1,59 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-08-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time>\n<orgname> 東京商業会議所 </orgname> 臨時会ヲ開ク、畢テ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ニ抵ル、午後 <orgname> 第一銀行 </orgname> ニ出勤ス、夕 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 白耳義人 <persname corresp=\"#pers_フランキー\">\n<surname> フランキー </surname>\n</persname> ヲ <placename corresp=\"#place_洲崎\"> 洲崎 </placename> 養魚場ヘ誘引ス、但屋根船ニテ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ヨリ発程ス、舟中涼意清絶ナリ、釣魚ノ悞楽《（娯）》ヲ畢テ <placename corresp=\"#place_深川\"> 深川 </placename> 宅ニ於テ饗宴ス、公使ダンネタン、 <persname corresp=\"#pers_内田\">\n<surname> 内田 </surname>\n</persname> 、 <persname corresp=\"#pers_坂谷\">\n<surname> 坂谷 </surname>\n</persname> 《（ <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> ）》、 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 、 <persname corresp=\"#pers_高島\">\n<surname> 高島 </surname>\n</persname>\n<persname corresp=\"#pers_吉田\">\n<surname> 吉田 </surname>\n</persname> 、 <persname corresp=\"#pers_竹村\">\n<surname> 竹村 </surname>\n</persname> 、 <persname corresp=\"#pers_瓜生\">\n<surname> 瓜生 </surname>\n</persname> ノ諸氏来会ス、夜 <placename corresp=\"#place_深川\"> 深川 </placename> 宅ニ一泊ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

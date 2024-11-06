@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-05-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、庭園ヲ散歩シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 七時半 </time>\n       朝飧ヲ畢ル、食後新聞紙ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ <persname corresp=\"#pers_大橋新太郎\">\n<surname> 大橋 </surname>\n<forename> 新太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_伊藤幹一\">\n<surname> 伊藤 </surname>\n<forename> 幹一 </forename>\n</persname> 二氏ト共ニ <persname corresp=\"#pers_谷七太郎\">\n<surname> 谷 </surname>\n<forename> 七太郎 </forename>\n</persname> 氏ト会話ス、 <placename corresp=\"#place_北海道\"> 北海道 </placename> 石炭山ノ事ニ関シテナリ、畢テ <persname corresp=\"#pers_岸精一\">\n<surname> 岸 </surname>\n<forename> 精一 </forename>\n</persname> 、 <persname corresp=\"#pers_宮田四八\">\n<surname> 宮田 </surname>\n<forename> 四八 </forename>\n</persname> 二氏ト保険会社関係ノ事ヲ談ス、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 、 <persname corresp=\"#pers_伊藤半次郎\">\n<surname> 伊藤 </surname>\n<forename> 半次郎 </forename>\n</persname> 来会ス、畢テ <persname corresp=\"#pers_伊藤伝七\">\n<surname> 伊藤 </surname>\n<forename> 伝七 </forename>\n</persname> 来議ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、食後事務ヲ談シ、更ニ事務所ニ抵ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n       同族会ヲ開ク、畢テ同族相共ニ偕楽園ニ於テ夜飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 午後十一時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

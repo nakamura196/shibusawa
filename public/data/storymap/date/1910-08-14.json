@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-08-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:00:00",
+                    "text": "<time when=\"05:00:00\"> 午前五時 </time> 起床、直ニ朝飧ヲ食シテ旅装ヲ理シ、牡丹屋ヲ発シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 六時\n       </time> 上 <placename corresp=\"#place_諏訪\"> 諏訪 </placename> 発ノ汽車ニテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時\n       </time> 頃 <placename corresp=\"#place_韮崎市\"> 韮崎 </placename> ニ抵リ、鉄道線路破損ノ処アルニヨリ轎ヲ僦フテ <placename corresp=\"#place_塩川\"> 塩川 </placename>\n       ノ橋梁ニ達スルモ、頃日来ノ洪水ニテ線路ハ破壊シ、橋梁ハ断落シ、且、濁流奔騰、小舟ニテ渡航スルハ頗ル危険ナルニヨリ已ムヲ得ス更ニ上 <placename corresp=\"#place_諏訪\"> 諏訪 </placename> ニ帰リテ道路ノ改修ヲ待ツ事ト定メ、 <placename corresp=\"#place_塩川\"> 塩川\n       </placename> ヨリ踵ヲ反シテ <placename corresp=\"#place_韮崎市\"> 韮崎 </placename> ニ抵リ午飧ス、食後 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.70886,
+                    "lon": 138.44614,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 発ノ汽車ニテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 上 <placename corresp=\"#place_諏訪\"> 諏訪 </placename> ニ抵リ、再ヒ牡丹屋ニ投宿ス、此夜、紀料ヲ読ミ日記ヲ編成シ、僅ニ小閑ヲ偸スルヲ得タリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

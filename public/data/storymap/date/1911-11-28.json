@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-11-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_金子貞子\">\n<surname> 金子 </surname>\n<forename> 貞子 </forename>\n</persname> ノ来訪ニ接ス、愛生産院ノ事ヲ談ス、 <persname corresp=\"#pers_高橋鼎\">\n<surname> 高橋 </surname>\n<forename> 鼎 </forename>\n</persname> 氏来リ女子学校ノ寄附金ノ依頼アリ、他日回答ノ事トス、 <persname corresp=\"#pers_井上雅二\">\n<surname> 井上 </surname>\n<forename> 雅二 </forename>\n</persname> 氏来リ南洋ニ於ル起業ノ事ニ付談話アリ、 <persname corresp=\"#pers_堀田瑞松\">\n<surname> 堀田 </surname>\n<forename> 瑞松 </forename>\n</persname> 氏来リ身上ノ依頼アリシモ謝絶ノ旨答ヘ置ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 事務所ニ抵リ要務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧ス、後、鉄道院ニ抵リ <persname corresp=\"#pers_平井\">\n<surname> 平井 </surname>\n</persname> 副総裁ニ面会シテ <orgname> 汽車製造会社 </orgname> ノ事及 <orgname> 国学院 </orgname>\n       地所買上ノ事ヲ依頼ス、畢テ其事ヲ <persname corresp=\"#pers_平岡熙\">\n<surname> 平岡 </surname>\n<forename> 熙 </forename>\n</persname> 氏ニ電話ニテ通知ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 銀行集会所ニ抵リ、 <persname corresp=\"#pers_川田鉄弥\">\n<surname> 川田 </surname>\n<forename> 鉄弥 </forename>\n</persname> 氏ノ催ニテ、 <persname corresp=\"#pers_森村\">\n<surname> 森村 </surname>\n</persname> 、 <persname corresp=\"#pers_小池\">\n<surname> 小池 </surname>\n</persname> 二氏ト共ニ <orgname> 高千穂学校 </orgname> ヲ財団法人トスルノ手続ヲ協議シ役員等ノ推薦ヲ内話ス、夜飧後種々ノ談話ヲ為シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:30:00",
+                    "text": "<time when=\"21:30:00\"> 九時半 </time> 帰宿、後、新聞紙ヲ読マシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

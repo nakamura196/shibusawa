@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-09-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 暗、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time>\n<placename corresp=\"#place_スエズ\"> 蘇士 </placename> ニ達ス、 <placename corresp=\"#place_スエズ\"> 蘇士\n       </placename> ハ運河ノ終航ニシテ西 <placename corresp=\"#place_紅海\"> 紅海 </placename>\n       ニ接続スル所ナリ、先年余カ旅行セシトキハ此運河未タ竣功セサリシヲ以テ、 <placename corresp=\"#place_スエズ\"> 蘇士 </placename>\n       ノ市街モ今日ト其地位ヲ異ニス、而シテ新旧 <placename corresp=\"#place_スエズ\"> 蘇士 </placename> ノ距離ハ約一哩許ナリト覚フ、本船ハ是ヨリ\n        <placename corresp=\"#place_紅海\"> 紅海 </placename> ニ入リテ航行ス、時々 <placename corresp=\"#place_亜不利加\">\n        亜不利加 </placename> 洲ト <placename corresp=\"#place_アラビア\"> 亜剌比亜 </placename>\n       トヲ船ノ左右舷ニ見ル、風追手ナルヲ以テ船中炎熱ヲ覚フ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 29.967,
+                    "lon": 32.55,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

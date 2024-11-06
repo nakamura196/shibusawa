@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-01-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、此日ヨリ全ク病褥ヲ去ル、午前 <persname corresp=\"#pers_竹内綱\">\n<surname> 竹内 </surname>\n<forename> 綱 </forename>\n</persname> 氏来リ京釜鉄道ノ事ヲ談ス <persname corresp=\"#pers_大原春次郎\">\n<surname> 大原 </surname>\n<forename> 春次郎 </forename>\n</persname> 来リ <orgname> 汽車製造会社 </orgname> ノ事ヲ談ス、 <persname corresp=\"#pers_渋沢成一郎\">\n<surname> 渋沢 </surname>\n<forename> 喜作 </forename>\n</persname> 氏来ル、 <persname corresp=\"#pers_阪谷芳郎\">\n<surname> 阪谷 </surname>\n<forename> 芳郎 </forename>\n</persname> 来ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

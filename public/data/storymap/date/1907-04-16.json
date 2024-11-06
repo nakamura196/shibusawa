@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-04-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後 <persname corresp=\"#pers_石渡\">\n<surname> 石渡 </surname>\n</persname> 日清汽船会社々長ノ来訪ニ接シ要務ヲ談ス、畢テ朝飧ヲ為ス、 <persname corresp=\"#pers_麻生正蔵\">\n<surname> 麻生 </surname>\n<forename> 正蔵 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 過、 <persname corresp=\"#pers_原\">\n<surname> 原 </surname>\n</persname> 、 <persname corresp=\"#pers_安達\">\n<surname> 安達 </surname>\n</persname> 、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 氏等来会シ、フース、大将歓迎ノ事ヲ談シ庭園ヲ一覧ス、畢テ書類ヲ調査シテ <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ニ交付ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 大使館ニ抵リ午餐会ニ列席ス、 <persname corresp=\"#pers_黒木\">\n<surname> 黒木 </surname>\n</persname> 大将ノ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       行ヲ送ル為メ開宴セシナリ、宴散シテ瓦斯会社重役会ニ出席シ要務ヲ協議シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ抵リ種々ノ来人ニ接ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時\n       </time> 過 <placename corresp=\"#place_浜町\"> 浜町 </placename> 弥生 <pb corresp=\"#pageB1450\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/476/full/max/0/default.jpg\" n=\"B1450\" source=\"#pageB1450\"></pb> 楼ニ抵リ <persname corresp=\"#pers_川島\">\n<surname> 川島 </surname>\n</persname> 北海道長官其他ヲ招宴ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1907-04-17T00:00+0900\"> 午後十二時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

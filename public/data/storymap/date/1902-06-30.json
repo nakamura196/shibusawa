@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-06-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前 <placename corresp=\"#place_東京\"> 東京 </placename> 送リノ書状ヲ裁ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> ト共ニ馬車ニテ <orgname> モルトン・トラスト・コンヘニー </orgname> ニ抵リ <persname corresp=\"#pers_ライヤン\">\n<surname> ライヤン </surname>\n</persname> 氏ニ面会シ、金融ノ件及信托事業ニ関スル談話ヲ為ス、陸軍長官某氏ニ面会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 亜細亜協会ノ会同席ニ出席ス、午飧ノ饗宴アリ、会スル者四十余人、会長\n        <persname corresp=\"#pers_ヱブ\">\n<surname> ヱブ </surname>\n</persname> 氏ノ代理ニテ書記 <persname corresp=\"#pers_フオード\">\n<surname> フオード </surname>\n</persname> 氏ヨリ演説アリ、依テ之ニ答詞ヲ為シ <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> ヲシテ通訳セシム、 <persname corresp=\"#pers_高平\">\n<surname> 高平 </surname>\n</persname> 公使、 <persname corresp=\"#pers_内田\">\n<surname> 内田 </surname>\n</persname> 領事モ来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 午後二時半 </time>\n<persname corresp=\"#pers_ブレヂ\">\n<surname> ブレヂ </surname>\n</persname> 氏事務所ニ抵リ、瓦斯会社増資ノ件ニ関シ種々ノ談判ヲ為セシモ終ニ協議ニ至ラサルニヨリ、其次第ヲ余ヨリハ会社ヘ、 <persname corresp=\"#pers_ブレヂ\">\n<surname> ブ </surname>\n</persname> 氏ヨリハ <persname corresp=\"#pers_チゾン\">\n<surname> チゾン </surname>\n</persname> ニ書通シテ其上ニテ更ニ相談スヘキモノト為シテ、 <persname corresp=\"#pers_ブレヂ\">\n<surname> ブ </surname>\n</persname> 氏ヲ辞シテ <orgname> 横浜正金銀行 </orgname> 、領事館等ヲ訪問シ告別ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時\n       </time> 帰宿シ、更ニ衣服ヲ更メテカフヘー・デル・モニユト称スル料理店ニ抵リ、本邦人十数名ニ留別ノ宴ヲ開ク、会スル者、 <persname corresp=\"#pers_高平\">\n<surname> 高平 </surname>\n</persname> 、 <persname corresp=\"#pers_内田\">\n<surname> 内田 </surname>\n</persname> 、 <persname corresp=\"#pers_長崎\">\n<surname> 長崎 </surname>\n</persname> 夫妻、 <persname corresp=\"#pers_高峰\">\n<surname> 高峰 </surname>\n</persname> 、 <persname corresp=\"#pers_堀越\">\n<surname> 堀越 </surname>\n</persname> 、 <persname corresp=\"#pers_佐藤\">\n<surname> 佐藤 </surname>\n</persname> 、高僑、 <persname corresp=\"#pers_上野\">\n<surname> 上野 </surname>\n</persname> 等賓主合計十八名ナリ、食卓上一場ノ謝詞ヲ述フ、 <persname corresp=\"#pers_高平\">\n<surname> 高平 </surname>\n</persname> 、 <persname corresp=\"#pers_内田\">\n<surname> 内田 </surname>\n</persname> 及 <persname corresp=\"#pers_高峰\">\n<surname> 高峰 </surname>\n</persname> 氏各演説アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散宴帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-07-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シ、畢テ <persname corresp=\"#pers_三好長暉\">\n<surname> 三好 </surname>\n<forename> 長暉 </forename>\n</persname> 氏ノ来訪ニ接シ、高等学校ノ事ヲ談ス、朝飧後 <persname corresp=\"#pers_大山昇平\">\n<surname> 大山 </surname>\n<forename> 昇平 </forename>\n</persname> 氏来話ス <lb></lb> 午前、紀料ヲ一読ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time> 昼食ヲ為シ、食後、自働車ニテ <placename corresp=\"#place_銀座\"> 銀座 </placename> 街ニ抵リ歯科医 <persname corresp=\"#pers_高島\">\n<surname> 高島 </surname>\n</persname> ヲ訪ヒ治療ヲ為シ、後、 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <persname corresp=\"#pers_大原春次郎\">\n<surname> 大原 </surname>\n<forename> 春次郎 </forename>\n</persname> 氏ノ来訪ニ接シ <orgname> 汽車製造会社 </orgname> ノ事ヲ談シ、 <persname corresp=\"#pers_岡田重俊\">\n<surname> 岡田 </surname>\n<forename> 重俊 </forename>\n</persname> 氏ノ訪問アリ、又 <persname corresp=\"#pers_竹内綱\">\n<surname> 竹内 </surname>\n<forename> 綱 </forename>\n</persname> 氏来リ、 <placename corresp=\"#place_京釜\"> 京釜 </placename> 鉄道会社清算事務ヲ協議ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.671222,
+                    "lon": 139.765,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_柳橋\"> 柳橋 </placename> 深川亭ニ抵リ、 <persname corresp=\"#pers_徳川厚\">\n<surname> 徳川 </surname>\n<forename> 厚 </forename>\n</persname> 氏ノ招宴ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 午後九時 </time> 散宴、 <placename corresp=\"#place_王子\">\n        王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

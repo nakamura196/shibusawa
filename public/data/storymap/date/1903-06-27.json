@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-06-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<orgname> 東京商業会議所 </orgname> ニ抵リ <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 二氏ト共ニ常議員事務分担ノ事及事務員罷免ノ事ヲ協議ス、畢テ <persname corresp=\"#pers_千家尊福\">\n<surname> 千家 </surname>\n</persname> 府知事ヲ府庁ニ訪ヒ電鉄合併ニ関スル覚書ヲ協議ス、蓋シ覚書ハ朝来余ノ手ニテ起草セシモノナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n       外務省ニ抵リ <persname corresp=\"#pers_山座\">\n<surname> 山座 </surname>\n</persname> 公使政務局長ニ面会シテ <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n       電報ノ事ヲ協議シ、併テ稷山金鉱ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ <persname corresp=\"#pers_早速\">\n<surname> 早速 </surname>\n</persname> 、 <persname corresp=\"#pers_土肥\">\n<surname> 土肥 </surname>\n</persname> 二氏ノ来訪ニ接シ帽子会社ノ要務ヲ談ス、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 氏来リ養育院ノ事ヲ談ス、仏国人某来話ス、経済上ノ談ヲ為ス、 <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 、 <persname corresp=\"#pers_宇野\">\n<surname> 宇野 </surname>\n</persname> 二氏来リ製麻会社善後処分ノ要務ヲ協議ス、畢テ二三ノ書類ヲ整理シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 午後七時半 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ <persname corresp=\"#pers_デビス\">\n<surname> デビス </surname>\n</persname> 氏ノ招宴ニ出席ス、 <persname corresp=\"#pers_児玉\">\n<surname> 児玉 </surname>\n</persname> 総督海外行ニ付送別ノ為メ開宴スルモノナリ、料理接伴頗ル鄭重ナリキ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

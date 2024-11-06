@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-04-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前 <placename corresp=\"#place_麻布\"> 麻布 </placename>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ヲ訪フ、 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 子爵、 <persname corresp=\"#pers_平岡熙\">\n<surname> 平岡 </surname>\n<forename> 熙 </forename>\n</persname> 等来会ス、経済上ニ関スル時事ノ談話ヲ為シ、且 <orgname> 汽車製造合資会社 </orgname> ノ事ヲ談話ス、午餐後 <placename corresp=\"#place_向島\"> 向島 </placename>\n<orgname> 八百松楼 </orgname> ニ抵リ深川鷗盟会春季総会ニ出席ス、宴散テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 午後八時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

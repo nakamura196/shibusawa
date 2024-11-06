@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-05-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time>\n<persname corresp=\"#pers_永戸\">\n<surname> 永戸 </surname>\n</persname> 氏ヲ辞シ正製、真正両会社ノ製糸場ヲ一覧シ、更ニ郡山〓糸紡績工場ヲ一覧ス、畢テ開成山ニ抵リ小憩ス、此地ハ <date when=\"1875\"> 明治八 </date>\n<date when=\"1876\"> 九年 </date>\n       ヨリ地方有志者ノ発企ニテ荒蕪ヲ開墾セシ処ナリ、後、官ヨリ猪苗代湖ノ疎水工事ヲ施シテ水利ヲ得タルニヨリ土地四千町余ノ開拓ヲ得タリト、而シテ開成山ハ其事業ノ成功ヲ表彰スルノ地タリ、池アリ堤アリテ堤上桜樹数百株アリ、頗ル眺望ニ佳ナリ、地方有志者ト共ニ\n        <pb corresp=\"#pageB1191\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/217/full/max/0/default.jpg\" n=\"B1191\" source=\"#pageB1191\"></pb> 暫時池辺ニ休憩シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_郡山\"> 郡山 </placename> ニ帰リ一小亭ニ於テ午餐ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時\n       </time> 過郡山発ノ汽車ニ搭シ順路 <placename corresp=\"#place_東京\"> 東京 </placename> ニ達ス、時ニ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:30:00",
+                    "text": "<time when=\"20:30:00\"> 午後八時半 </time> ナリ、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname>\n<persname corresp=\"#pers_松平\">\n<surname> 松平 </surname>\n</persname> ノ二氏 <placename corresp=\"#place_赤羽\"> 赤羽 </placename> 駅ニ来リ迎ス、 <placename corresp=\"#place_上野\"> 上野 </placename> 停車場ニ抵レハ家人及銀行会社員等十数人来会ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7792389,
+                    "lon": 139.7202667,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時\n       </time> 過 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 家ニ安着ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

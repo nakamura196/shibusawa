@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-09-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ、朝飧ヲ食ス、後、 <persname corresp=\"#pers_日比野雷風\">\n<surname> 日比野 </surname>\n<forename> 雷風 </forename>\n</persname> 氏ノ使者ニ面会ス、 <persname corresp=\"#pers_井口正之\">\n<surname> 井口 </surname>\n<forename> 正之 </forename>\n</persname> 氏来リ百話ニ付意見ヲ述フ、 <persname corresp=\"#pers_八田正造\">\n<surname> 八田 </surname>\n<forename> 正造 </forename>\n</persname> 、 <persname corresp=\"#pers_東敬治\">\n<surname> 東 </surname>\n<forename> 敬治 </forename>\n</persname> 氏等来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<orgname> 銀行倶楽部 </orgname> ニ抵リ、日露協会寄附金募集ニ付委員会ヲ開ク、 <persname corresp=\"#pers_近藤\">\n<surname> 近藤 </surname>\n</persname> 、 <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 、 <persname corresp=\"#pers_添田\">\n<surname> 添田 </surname>\n</persname> 、 <persname corresp=\"#pers_高田\">\n<surname> 高田 </surname>\n</persname> 等ノ諸氏来会スルモ、三井、三菱二家ノ出金額決定後ニ於テ更ニ評議スヘキ事ト決定ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧シ、後、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト行務ヲ談ス、午後事務所ニ於テ書類ヲ調査ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n       同族会ヲ開キ要件ヲ議決ス、夜飧後種々ノ談話ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過帰宿ス、 <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persname> 及 <persname corresp=\"#pers_明石照男\">\n<surname> 明石 </surname>\n<forename> 照男 </forename>\n</persname> 同伴ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

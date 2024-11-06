@@ -1,0 +1,73 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-09-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 、 <persname corresp=\"#pers_阪谷芳郎\">\n<surname> 阪谷 </surname>\n<forename> 芳郎 </forename>\n</persname> ヲ <placename corresp=\"#place_原町\"> 原町 </placename> 宅ニ訪ヒ要務ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 過 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ニ出勤ス、午後銀行集会所ニ抵リ興信所評議員会ヲ開ク、 <persname corresp=\"#pers_豊川良平\">\n<surname> 豊川 </surname>\n<forename> 良平 </forename>\n</persname> 、 <persname corresp=\"#pers_池田謙三\">\n<surname> 池田 </surname>\n<forename> 謙三 </forename>\n</persname> 、 <persname corresp=\"#pers_波多野承五郎\">\n<surname> 波多野 </surname>\n<forename> 承五郎 </forename>\n</persname> ノ諸氏来会ス、畢テ <persname corresp=\"#pers_芳川\">\n<surname> 芳川 </surname>\n</persname> 逓信大臣ヲ官舎ニ訪ヒ鉄道抵当ニ関スル指令ノ件ヲ談話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 京釜鉄道会社ニ抵リ重役会ヲ開ク、\n        <persname corresp=\"#pers_日下\">\n<surname> 日下 </surname>\n</persname> 、 <persname corresp=\"#pers_前島\">\n<surname> 前島 </surname>\n</persname> 二氏来会ス、株式募集ノ事ヲ議定ス、畢テ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ニ抵リ書類ヲ調査ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 過 <placename corresp=\"#place_浜町\"> 浜町\n       </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

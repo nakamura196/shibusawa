@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-02-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、先ツ入浴シ、畢テ朝飧ヲ為ス、 <persname corresp=\"#pers_大川平三郎\">\n<surname> 大川 </surname>\n<forename> 平三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_大沢辰次郎\">\n<surname> 大沢 </surname>\n<forename> 辰次郎 </forename>\n</persname> 二氏来リ、 <placename corresp=\"#place_木曾\"> 木曾 </placename> 木材会社設立ノ事ヲ談ス、 <persname corresp=\"#pers_牧野虎一\">\n<surname> 牧野 </surname>\n<forename> 虎一 </forename>\n</persname> 、 <persname corresp=\"#pers_斎藤斐章\">\n<surname> 斎藤 </surname>\n<forename> 斐章 </forename>\n</persname> 、 <persname corresp=\"#pers_猪飼正雄\">\n<surname> 猪飼 </surname>\n<forename> 正雄 </forename>\n</persname> ノ諸氏来話ス、午飧後、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 及 <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武 </forename>\n</persname> 、 <persname corresp=\"#pers_明石愛子\">\n<forename> 愛子 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢秀雄\">\n<forename> 秀雄 </forename>\n</persname> 等ト共ニ東宮御所拝観ノ為メ <placename corresp=\"#place_赤坂_(東京都港区)\"> 赤阪《（坂）》 </placename> ニ抵ル、\n        <persname corresp=\"#pers_横山\">\n<surname> 横山 </surname>\n</persname> 氏、 <persname corresp=\"#pers_竹田\">\n<surname> 竹田 </surname>\n</persname> 氏来会ス、 <persname corresp=\"#pers_片山\">\n<surname> 片山 </surname>\n</persname>\n       博士ノ案内ニテ階上階下各室悉ク一覧シ、且詳細ニ其建築ノ要旨、装飾ノ由来ヲ説明セラル、実ニ美善ヲ尽シタルモノナリ、就中舞踏室、食堂等ノ装飾尤モ注意セシモノト思ハル、大玄関ノ構造亦壮大ニシテ華麗ナリ、一覧畢リテ、\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6723722,
+                    "lon": 139.7365389,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 午後五時半 </time> 過帰宿ス、夜、新聞紙雑誌類ヲ一覧ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

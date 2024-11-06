@@ -1,0 +1,95 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-04-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ <persname corresp=\"#pers_朝吹英二\">\n<surname> 朝吹 </surname>\n<forename> 英二 </forename>\n</persname> ト <persname corresp=\"#pers_大川平三郎\">\n<surname> 大川 </surname>\n<forename> 平三郎 </forename>\n</persname> ト共ニ王子製紙会社善後ノ策ヲ講究ス、 <persname corresp=\"#pers_清水一雄\">\n<surname> 清水 </surname>\n<forename> 一雄 </forename>\n</persname> 、 <persname corresp=\"#pers_原林之助\">\n<surname> 原 </surname>\n<forename> 林之助 </forename>\n</persname> 来リ余ノ欧米行送別ノ事ヲ請フ、依テ <date evidence=\"year inferenced, month\" when=\"1902-04-12\"> 十二日\n       </date> ヲ約ス、事務所ニ於テ書類ヲ整理シ且昨夜記載セシ七通ノ書状発送ノ事ヲ命ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n       内閣ニ抵リ京釜鉄道会社々債ニ関スル請願書ヲ <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 総理、 <persname corresp=\"#pers_曾禰\">\n<surname> 曾禰 </surname>\n</persname> 大蔵両大臣ニ進達ス、且其手続ヲ内議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time>\n       商業会議所ニ抵リ午飧シ、聯合会員ト共ニ撮影ス、畢テ再ヒ内閣ニ抵リ <persname corresp=\"#pers_小村\">\n<surname> 小村 </surname>\n</persname> 外務ニ面会シテ <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 借款ニ関スル覚書ヲ差出ス、 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 公使ヨリノ来状ニ関シ意見ヲ述ヘ且外務ノ考案ヲ問フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ喜賓会総会ヲ開ク、 <persname corresp=\"#pers_蜂須賀\">\n<surname> 蜂須賀 </surname>\n</persname> 、 <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_横山\">\n<surname> 横山 </surname>\n</persname> ノ諸氏来会ス、来ル <date evidence=\"year inferenced, month\" when=\"1902-04-16\"> 十六日 </date>\n       更ニ一会ヲ開ク事ヲ約ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> 業務改革ノ件ニ関シ重役会ヲ開ク、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_横山\">\n<surname> 横山 </surname>\n</persname> 、 <persname corresp=\"#pers_原\">\n<surname> 原 </surname>\n</persname> 、 <persname corresp=\"#pers_今村\">\n<surname> 今村 </surname>\n</persname> 諸氏来会ス、討議ノ末、外国ヨリ雇入レタルフレイグノ請求ニ応シ、料理人ハ便宜解雇ノ事ニ決ス、 <persname corresp=\"#pers_吉田正延\">\n<surname> 吉田 </surname>\n<forename> 正延 </forename>\n</persname> ヲ専属通弁トシテ来ル <date when=\"1902-04-10\"> 十日 </date> ヨリホテルニ出勤セシメ事務ヲモ観察スヘキ事ヲ命ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> ヨリホテルニ催フセル <orgname> 全国商業会議所 </orgname>\n       聯合会ニ於テ余ノ欧米行送別会ニ出席ス、来会者八十名計リ、食卓上 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏会員惣代トシテ送別ノ辞ヲ述フ、余ハ其答辞トシテ一場ノ演説ヲ為ス、且曾遊当時ノ景況ヲ略述シテ古今ノ変化ヲ叙説ス、食後一同談話盛ニシテ各歓ヲ尽ス <lb></lb> 此目、\n        <persname corresp=\"#pers_平田\">\n<surname> 平田 </surname>\n</persname> 農商務大臣及外務、大蔵、農商務ノ官員来会シ、 <persname corresp=\"#pers_平田\">\n<surname> 平田 </surname>\n</persname> 氏一場ノ演説ヲ為シテ余ノ行ヲ送ル、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

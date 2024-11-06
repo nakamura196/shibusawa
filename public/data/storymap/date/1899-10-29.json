@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-10-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 午前晴午後雷雨、朝、 <persname corresp=\"#pers_沢柳\">\n<surname> 沢柳 </surname>\n</persname> 、 <persname corresp=\"#pers_近角\">\n<surname> 近角 </surname>\n</persname> 二氏来リ仏教青年会ノ事ヲ依頼セラル、依テ <date evidence=\"year inferenced\" when=\"1899-11-14\"> 十一月十四日\n       </date> ノ再訪ヲ約ス、 <persname corresp=\"#pers_北垣国道\">\n<surname> 北垣 </surname>\n<forename> 国道 </forename>\n</persname> 来ル、函樽鉄道ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<persname corresp=\"#pers_長沼\">\n<surname> 長沼 </surname>\n</persname> 、 <persname corresp=\"#pers_松岡\">\n<surname> 松岡 </surname>\n</persname> 、 <persname corresp=\"#pers_元山\">\n<surname> 元山 </surname>\n</persname> ノ三氏銅像ノ事ニ関シテ来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 紅葉館ニ於テ催サレタル <persname corresp=\"#pers_西村勝三\">\n<surname> 西村 </surname>\n<forename> 勝三 </forename>\n</persname> 氏ノ園遊会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿シ要務ヲ処理シ、此夜 <placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リテ <persname corresp=\"#pers_田口\">\n<surname> 田口 </surname>\n</persname> 、 <persname corresp=\"#pers_鈴木\">\n<surname> 鈴木 </surname>\n</persname> 等ノ諸氏ト会話ス、夜 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

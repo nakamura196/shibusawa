@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-03-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後新聞紙ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時半 </time> 盲啞学校卒業証書授与式ニ出席ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\">\n        十二時 </time>\n<persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師ヲ訪ヒ、 <orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、食後重役会ヲ開キ要務ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\">\n        午後二時 </time>\n<orgname> 日本銀行 </orgname> ニ抵リ <persname corresp=\"#pers_首藤諒\">\n<surname> 首藤 </surname>\n<forename> 諒 </forename>\n</persname> 氏ヨリ公債買入ノ内談ヲ受ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 事務所ニ於テ書状ヲ裁シ書類ヲ整理ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 午後七時半 </time>\n<persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ華族会館ニ抵リ <orgname> 日本銀行 </orgname> 総裁ノ開催スル米国人 <persname corresp=\"#pers_シツフ\">\n<surname> シツフ </surname>\n</persname> 氏ノ招宴ニ陪席ス、 <persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 総理、 <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 宮内、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 大蔵等ノ大臣等来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過宴散シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1906-03-30T00:00+0900\"> 十二時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

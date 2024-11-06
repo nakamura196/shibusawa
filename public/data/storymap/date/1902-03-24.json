@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-03-24",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝雪、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n       朝飧ヲ畢ルモ、夜来腹部ニ病アルヲ以テ外出スルヲ得ス、依テ海上保険会社重役会ヲ電話ニテ謝絶シ、又京釜鉄道会社ニ於テ尾崎、 <persname corresp=\"#pers_日下\">\n<surname> 日下 </surname>\n</persname> 両氏会談ノ約ヲモ断リ遣ス、夕方深川区会アリシモ同ク電話ニテ謝絶ス、終日治療静養ニ勉ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

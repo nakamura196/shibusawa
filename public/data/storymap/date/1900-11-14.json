@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-11-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1165\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/191/full/max/0/default.jpg\" n=\"B1165\" source=\"#pageB1165\"></pb>\n<lb></lb> 雨、午前、 <persname corresp=\"#pers_荒井\">\n<surname> 荒井 </surname>\n</persname> 、 <persname corresp=\"#pers_西川\">\n<surname> 西川 </surname>\n</persname> 等ト談話ス、 <placename corresp=\"#place_木浦\"> 木浦 </placename> ヨリ出張セシ <persname corresp=\"#pers_木村健夫\">\n<surname> 木村 </surname>\n<forename> 健夫 </forename>\n</persname> 来訪ス此 <persname corresp=\"#pers_日尾高次郎\">\n<surname> 日尾 </surname>\n<forename> 高次郎 </forename>\n</persname>\n<placename corresp=\"#place_仁川\"> 仁川 </placename> ニ帰ル、郵船会社船乗組ノ事ヲ托シ遣ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<persname corresp=\"#pers_大江卓\">\n<surname> 大江 </surname>\n<forename> 卓 </forename>\n</persname> 来ル、京釜鉄道ノ事ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> ヲ伴フテ <placename corresp=\"#place_ロシア\"> 露国 </placename> 公使館ニ抵リテ午餐ス、 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 公使、 <persname corresp=\"#pers_隠岐\">\n<surname> 隠岐 </surname>\n</persname> 病院長等来会ス、畢テ <persname corresp=\"#pers_峰尾音三郎\">\n<surname> 峰尾 </surname>\n<forename> 音三郎 </forename>\n</persname> ヲ伴フテ <persname corresp=\"#pers_朴\">\n<surname> 朴 </surname>\n</persname> 外部大臣ヲ其省ニ訪ヒ、鉄道鉱山等ニ関スル要務ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 銀行応接所ニ帰リ <persname corresp=\"#pers_原田\">\n<surname> 原田 </surname>\n</persname> ト談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<placename corresp=\"#place_京城府\"> 京城 </placename> 商業者中総代トシテ <persname corresp=\"#pers_曾我\">\n<surname> 曾我 </surname>\n</persname> 、 <persname corresp=\"#pers_林田\">\n<surname> 林田 </surname>\n</persname> 両氏来リ銀行取引拡張ノ事、京仁鉄道貨物運賃割引ノ請求アリタリ、依テ其取扱方ニ関スル意見ヲ述ヘタルニ各領意シテ去ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\">\n        六時 </time> 京城商業会議所ニ抵ル、蓋シ此地ノ商業者ヨリ余ヲ饗宴スルタメニシテ頗ル盛会ナリ、席上一ノ演説ヲ為ス、其要旨ハ <orgname> 第一銀行 </orgname>\n       出張所建築落成ノ披露ト、京仁鉄道竣工ニ至ル迄ノ顚末ト、及京釜鉄道会社設立ノ必要等ヲ歴叙シ、終ニ本邦ノ経済社界ノ概況ニ論及シ、且海外商業者ハ勉テ協同一致ヲ要スル趣旨ヲ述フ、演説畢テ立食ノ饗宴アリ、夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過散会帰寓ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

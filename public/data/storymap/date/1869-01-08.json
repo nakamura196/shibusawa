@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-01-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝、 <persname corresp=\"#pers_梅田\">\n<surname> 梅田 </surname>\n</persname> に至り、衣服仕立之儀注文いたし、夫より <persname corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persname> 同行、 <placename corresp=\"#place_和泉橋\"> 和泉橋 </placename> を渡り、 <persname corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persname> と別れ、 <placename corresp=\"#place_元鳥越\"> 元鳥越 </placename>\n<persname corresp=\"#pers_小出涌之助\">\n<surname> 小出 </surname>\n<forename> 涌之助 </forename>\n</persname> 宅訊問、母及弟抔面会、御変遷以来同人共苦心之事共を話す、夫より明神下帰宿、第 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.69694,
+                    "lon": 139.775472,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 頃\n        <persname corresp=\"#pers_伊東玄伯\">\n<surname> 伊東 </surname>\n<forename> 玄伯 </forename>\n</persname> 来大人の持病胗察《（診）》、夕方、 <persname corresp=\"#pers_杉浦譲\">\n<forename> 愛蔵 </forename>\n</persname> 、 <persname corresp=\"#pers_伊東玄伯\">\n<forename> 玄伯 </forename>\n</persname> と伴ひ礫邸に至る、 <persname corresp=\"#pers_山高八郎\">\n<surname> 山高 </surname>\n<forename> 八郎 </forename>\n</persname> も来会、御前ニ而御酒肴被下、御手酌ニ而種々御饗応有之、退散之節一同へ被下物有之、此夜明神下辺出火なれは酔を勉て帰宿、焼失は <placename corresp=\"#place_中御徒士町\"> 中御徒士町 </placename> ニ而漸安堵の想をなす "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,94 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-04-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後入浴、畢テ朝飧ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n<orgname> 秋田銀行 </orgname>\n<persname corresp=\"#pers_辻\">\n<surname> 辻 </surname>\n</persname> 、 <persname corresp=\"#pers_加賀谷\">\n<surname> 加賀谷 </surname>\n</persname> 、 <persname corresp=\"#pers_村田\">\n<surname> 村田 </surname>\n</persname> 三氏来訪ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<orgname> 人造肥料会社 </orgname> ニ抵リ重役会ヲ開キ要務ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <persname corresp=\"#pers_三上参次\">\n<surname> 三上 </surname>\n<forename> 参次 </forename>\n</persname> 氏、 <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 、 <persname corresp=\"#pers_江間政発\">\n<surname> 江間 </surname>\n<forename> 政発 </forename>\n</persname> 等ト御伝記ノ事ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:30:00",
+                    "text": "<time when=\"15:30:00\"> 三時半 </time>\n<persname corresp=\"#pers_有栖川\">\n<surname> 有栖川 </surname>\n</persname> 《（宮脱）》殿下ノ邸ニ抵リ妃殿下ニ謁シテ、慈恵院《（医脱）》ノ事ニ関シ御依頼アリ、後、 <persname corresp=\"#pers_斎藤\">\n<surname> 斎藤 </surname>\n</persname> 氏ト会話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 過キ <persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 総理ヲ訪問シ要務ヲ談シ、更ニ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ヲ <placename corresp=\"#place_麻布\"> 麻布 </placename> 邸ニ訪ヒ種々ノ談話ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 銀行集会所ニ抵リ手形交換所聯合会ニ出席ス、食卓上一場ノ演説ヲ為ス、畢テ <placename corresp=\"#place_築地\"> 築地 </placename> ニ抵リ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1907-04-13T00:00+0900\"> 十二時\n       </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

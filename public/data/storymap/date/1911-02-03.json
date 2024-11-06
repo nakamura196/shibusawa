@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-02-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シテ、朝飧ヲ食シ、後、日記ヲ編成ス、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 氏ヨリ電話アリ、午後 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニテ面会ヲ約ス、 <persname corresp=\"#pers_花田\">\n<surname> 花田 </surname>\n</persname> 氏ヨリ来ル <date evidence=\"year inferenced, month\" when=\"1911-02-05\"> 五日 </date>\n<orgname> 国学院 </orgname> 来会ノ事ヲ申越サル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 事務所ニ抵リ種々ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time> 第 <pb corresp=\"#pageB1658\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/684/full/max/0/default.jpg\" n=\"B1658\" source=\"#pageB1658\"></pb> 一銀行ニ於テ午飧ス、後、再ヒ事務所ニ於テ <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 氏ノ来訪ニ接シ、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ノ身上ニ付談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 過 <placename corresp=\"#place_新堀\">\n        新堀 </placename> ナル <orgname> 日本銀行 </orgname> ノ集会所ニ抵リ、 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 首相、 <persname corresp=\"#pers_平田\">\n<surname> 平田 </surname>\n</persname> 内相其他 <placename corresp=\"#place_京阪\"> 京阪 </placename>\n       実業界ノ多数来会シテ、財政経済ノ事ヲ談話ス、食卓上一場ノ演説ヲ為シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散会、帰宿ス、此夜、 <placename corresp=\"#place_大阪\"> 大阪 </placename>\n<persname corresp=\"#pers_小山健三\">\n<surname> 小山 </surname>\n<forename> 健三 </forename>\n</persname> 氏モ食卓演説ヲ為ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

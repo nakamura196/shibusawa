@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-05-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 台湾鉄道会社事務所ニ於テ創立委員会ヲ開キ総督府民政長官 <persname corresp=\"#pers_後藤\">\n<surname> 後藤 </surname>\n</persname> 氏ヘ書状ヲ裁ス、 <persname corresp=\"#pers_祝\">\n<surname> 祝 </surname>\n</persname> 事務官ヨリ照会シ来リタル公文ニ対スル回答書ヲ発ス、午後銀行ニ出勤シテ行務ヲ視ル、 <placename corresp=\"#place_宇都宮\"> 宇都宮 </placename>\n<persname corresp=\"#pers_矢板武\">\n<surname> 矢板 </surname>\n<forename> 武 </forename>\n</persname> ヘ書状ヲ発ス、 <persname corresp=\"#pers_安田善次郎\">\n<surname> 安田 </surname>\n<forename> 善次郎 </forename>\n</persname> ヘ <placename corresp=\"#place_大阪\"> 大坂 </placename> ヘ向タル書状ヲ発ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<orgname> 日本郵船会社 </orgname> 重役会ニ列ス、株主総会ニ提出スヘキ報告案其他ノ要務ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時\n       </time> 偕楽会ニ出席シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過 <placename corresp=\"#place_日本橋兜町\"> 兜町\n       </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

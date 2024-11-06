@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-11-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、朝来数多ノ来客ニ接ス、午前 <orgname> 第一銀行 </orgname> ニ出勤ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> 重役会ニ出席セシモ他ノ諸員欠席スルヲ以テ開会スルヲ得ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 商業会議所役員会ヲ開ク、夜\n        <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス <lb></lb> 三十軒堀 <persname corresp=\"#pers_杉山市松\">\n<surname> 杉山 </surname>\n<forename> 市松 </forename>\n</persname> 方ニテ京釜鉄道ニ関スル評議会ヲ開ク "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,66 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-05-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、 <placename corresp=\"#place_楊子江\"> 楊子江 </placename>\n       ノ水濁流ニテ入浴スルヲ得ス、船、 <placename corresp=\"#place_呉淞江口\"> 呉淞江口 </placename> ニ碇泊ス、朝来 <placename corresp=\"#place_上海市\"> 上海 </placename> ヨリ迎ノ為メ来ル者多ク本船ニ会ス、相会シテ <placename corresp=\"#place_上海市\">\n        上海 </placename> 滞在中及 <placename corresp=\"#place_江蘇\"> 江蘇 </placename> 、 <placename corresp=\"#place_杭州\"> 杭州 </placename> 等遊覧ノ日程ヲ協議ス <lb></lb> 昨夜中本船 <placename corresp=\"#place_楊子江\">\n        楊子江 </placename> ニ入リテ殊ニ動揺ノ事ナシ、上陸後本日及杭蘇遊覧ニ付テノ日程定マリテ後、朝飧ヲ食シ、畢テ本船長其他ニ告別シテ三井物産会社ヨリ送レル小蒸気船ニテ\n        <placename corresp=\"#place_上海市\"> 上海 </placename> ニ抵ル、船中小雨降リテ眺望ニ便ナラス、 <placename corresp=\"#place_黄浦区\"> 黄浦 </placename> 江ニ入リテ両岸ニ壮大ノ工場、家屋ヲ見ル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 31.16667,
+                    "lon": 121.48333,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n       頃 <placename corresp=\"#place_上海市\"> 上海 </placename>\n       ニ着シ、直ニ上陸シテアストル旅館ニ投宿ス、旅宿ニモ来リ迎フ者多シ、投宿後旅宿ニテ午飧シ、直ニ領事館ヲ訪ヒ、更ニ <persname corresp=\"#pers_盛宣懐\">\n<surname> 盛 </surname>\n<forename> 宣懐 </forename>\n</persname> 氏ヲ訪フテ種々ノ談話ヲ為シ、総務商会等ヲ歴訪シ、夜、 <placename corresp=\"#place_上海市\"> 上海 </placename>\n       ナル日本人倶楽部ニ催シタル宴会ニ出席ス、日支間有力ノ人士多ク集ル、食卓上一場ノ演説ヲ為シ、宴散シテ、 <persname corresp=\"#pers_唐紹儀\">\n<surname> 唐 </surname>\n<forename> 紹儀 </forename>\n</persname> 、 <persname corresp=\"#pers_伍邸芳\">\n<surname> 伍 </surname>\n<forename> 邸芳 </forename>\n</persname> 氏等《（ <persname corresp=\"#pers_伍延芳\">\n<surname> 伍 </surname>\n<forename> 延芳 </forename>\n</persname> 氏）》ト会話シ、又、六三亭ニ遊テ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 31.16667,
+                    "lon": 121.48333,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1914-05-07T00:00+0900\"> 十二時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

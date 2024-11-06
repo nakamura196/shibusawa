@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-09-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、感冒尚未タ全愈セス、終日褥中ニ在テ来書ヲ検閲ス、午後 <persname corresp=\"#pers_穂積歌子\">\n<surname> 穂積 </surname>\n<forename> 歌子 </forename>\n</persname> 、 <persname corresp=\"#pers_阪谷琴子\">\n<surname> 阪谷 </surname>\n<forename> 琴子 </forename>\n</persname> 等来リ会ス、団欒事ヲ談シ書ヲ読ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

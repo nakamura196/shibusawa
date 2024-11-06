@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-09-24",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、支度ヲ整ヒ観覧車ニ出レハ、 <placename corresp=\"#place_シカゴ\"> シカゴ\n       </placename> 市ノ人多ク歓迎ノ為メ来会ス、朝飧ヲ車内ニ於テ食シ、畢リテ直ニ自動車ニテ旅宿コングレス・ホテルニ抵ル、七年前投宿セシオージトリヨム・ホテルノ改名セルナリ、\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 41.9,
+                    "lon": -87.65,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n       地方人士ノ案内ニテリンコールン・パルクヲ一覧シ第一国立銀行ニ抵リ地方有数ノ銀行家ニ会見ス、後、ストツクヤード内ノ倶楽部ニ抵リテ午飧ス、食後、一場ノ謝辞ヲ述ヘ、夫ヨリ汽車ニテ\n        <placename corresp=\"#place_ゲリー\"> ゲリー </placename>\n       ニ抵リ大規模ノ製鉄工場ヲ見ル、汽車自由ニ場内ヲ通過ス、畢テ旅宿ニ帰リ晩飧シテ、直ニ衣服ヲ改メテ劇場ニ抵リ観劇ス、蓋シ当地商業会議所会頭スキンナー氏ノ案内ニ係ル、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 過観劇畢テ帰宿ス、此夜ノ演劇ハ時々舞踏ヲ為スモノニシテ、特ニ本邦ノ少女ノ如ク扮シタルモノ多ク、其風采容儀ハ頗ル拙劣ナリキ\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

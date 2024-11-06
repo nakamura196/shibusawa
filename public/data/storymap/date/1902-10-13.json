@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-10-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、航行昨日ト同ク涼風稍多キヲ覚フ、夕方 <placename corresp=\"#place_スマトラ島\"> スマトラ島 </placename> 中ノ <placename corresp=\"#place_ゴールドモンテン\"> ゴールドモンテン </placename> （金山ノ意）ヲ右舷ニ見ル、終日読書ト散歩ニ消閑ス、此夜亦本船ニテ日本料理ノ夜飧ヲ饗ス\n      "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 0.0,
+                    "lon": 102.0,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-09-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴ヲ廃シ、直ニ朝飧ヲ食ス、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 氏来リ水災後各区施療ノ事ヲ報告セラル、又、新聞記者来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯爵ヲ <placename corresp=\"#place_麻布\"> 麻布 </placename> 邸ニ訪フテ、汽車会社ノ事、製鋼所社債ノ事ヲ談ス、更ニ\n        <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 首相ヲ訪ヘ同様ノ談ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、後、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト行務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 東京商業会議所 </orgname>\n       ニ抵リ、水災善後会委員会ヲ開キ寄附金募集ノ概況ヲ調査シ、東京府、市及警視庁等ヨリ申請セラルヽ衛生及施療ニ関シテ施設スル特殊ノ費途ニ対シテ分配金ノ事 <pb corresp=\"#pageB1644\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/670/full/max/0/default.jpg\" n=\"B1644\" source=\"#pageB1644\"></pb> ヲ協議ス、畢テ事務所ニ抵リ事務ヲ処理ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

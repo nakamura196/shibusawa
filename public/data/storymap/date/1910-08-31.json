@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-08-31",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ、朝飧ヲ食ス、後、日記ヲ編成ス、 <persname corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persname> 氏ト電話ニテ要務ヲ談ス、又、書状ヲ裁ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 事務所ニ抵リ <placename corresp=\"#place_大阪\"> 大阪 </placename> 其他ヘ書状ヲ認ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 銀行倶楽部 </orgname> ニ於テ午飧シ、後、 <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <persname corresp=\"#pers_池田\">\n<surname> 池田 </surname>\n</persname> 等ト要務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 事務所ニ於テ <placename corresp=\"#place_大阪\"> 大阪 </placename> 、 <placename corresp=\"#place_三重\"> 三重 </placename> 又ハ\n        <placename corresp=\"#place_北越\"> 北越 </placename> 等ヘ書状ヲ認ム、実業団ノ書類ニ記名ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> ヨリ同族会ヲ開キ、水害ニ付 <placename corresp=\"#place_八基村\"> 八基村\n       </placename> 寄附金ノ事其他要件ヲ議 <pb corresp=\"#pageB1641\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/667/full/max/0/default.jpg\" n=\"B1641\" source=\"#pageB1641\"></pb> 決ス、夜飧後諸事務ヲ談話シ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 36.23331,
+                    "lon": 139.26167,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 過\n        <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、途中自働車損シテ数十分遅引ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-08-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、 <persname corresp=\"#pers_北垣国道\">\n<surname> 北垣 </surname>\n<forename> 国道 </forename>\n</persname> 氏ヨリ来状アリ、直ニ返書ヲ発ス、 <persname corresp=\"#pers_清水釘吉\">\n<surname> 清水 </surname>\n<forename> 釘吉 </forename>\n</persname> ニ書状ヲ送ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n       日本鉄道会社ニ抵リ重役会ニ列ス、曾我社長ヨリ北海道鉄道会社ノ線路一覧ノ報告アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ニ出勤ス、紐克性命保険会社嘱托医員《（生）》来リテ同会社ヨリノ依頼ニヨリ人物撰定ノ事ヲ申聞ラル、 <persname corresp=\"#pers_押川方義\">\n<surname> 押川 </surname>\n<forename> 方義 </forename>\n</persname> 来リ京城学堂ノ事ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 石川島造船所 </orgname> ニ抵リ重役会ニ列ス、議事畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 麻布 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ヲ訪ヒ京釜鉄道会社ノ事ヲ談話シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

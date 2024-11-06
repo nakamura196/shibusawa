@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-01-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後直ニ入浴シ、了テ日記ヲ編シ且紀料ヲ読ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ了リ、食後紀料及夏ノ夢等ノ書ヲ読ム <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 過 <persname corresp=\"#pers_郡司成忠\">\n<surname> 郡司 </surname>\n<forename> 成忠 </forename>\n</persname> 、 <persname corresp=\"#pers_斎藤豁三郎\">\n<surname> 斎藤 </surname>\n<forename> 豁三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_高田三六\">\n<surname> 高田 </surname>\n<forename> 三六 </forename>\n</persname> ノ三氏来訪、 <persname corresp=\"#pers_中野武営\">\n<surname> 中野 </surname>\n<forename> 武営 </forename>\n</persname> ノ添書ヲ持参シ、沿海州漁業株式会社設立ノ事ニ関シ種々ノ談話アリタリ、他日確答スヘキ旨ヲ以テ之ヲ謝ス、午飧後又読書及勅語ノ浄写ヲ努ム "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 過実業ノ日本記者 <persname corresp=\"#pers_都倉義一\">\n<surname> 都倉 </surname>\n<forename> 義一 </forename>\n</persname> 来訪、目下経済界ニ関スル談話ヲ為ス了テ余ノ出身ニ関スル往事談等アリテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n       過キ辞シ去ル、夜食後又浄書ヲ為シ、夜ニ入リテ紀料ト夏ノ夢トヲ読ム <lb></lb> 此日ハ風強ク波高シ、午後、鉄道線路ヲ超ヘ山手ノ散歩ヲ試ム、三十分余ニシテ帰宅ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-12-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、冷水摩擦ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 七時半 </time>\n       朝飧ヲ喫ス、食後新聞紙ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時半 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 停車場ニ抵リ <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 侯爵 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> ヨリノ帰朝入京ヲ迎フ、知人輻湊ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏ト共ニ事務ヲ談ス、畢テ東京市役所ニ抵リ凱旋軍歓迎会ノ事ヲ処理ス、午飧後三菱会社ヲ訪ヒ <persname corresp=\"#pers_豊川良平\">\n<surname> 豊川 </surname>\n<forename> 良平 </forename>\n</persname> 、 <persname corresp=\"#pers_荘清次郎\">\n<surname> 荘 </surname>\n<forename> 清次郎 </forename>\n</persname> 二氏ニ面話シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> 帰宅、当日ハ <persname corresp=\"#pers_堀越\">\n<surname> 堀越 </surname>\n</persname> 一家及新夫婦ヲ招宴セシニ付其接伴ニ従事ス、庭園散歩ノ後 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 頃ヨリ開宴シ種々ノ余興アリ、夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

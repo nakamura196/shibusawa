@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-05-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴又曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ抵リ新築事務ヲ視ル、 <persname corresp=\"#pers_清水釘吉\">\n<surname> 清水 </surname>\n<forename> 釘吉 </forename>\n</persname> 、 <persname corresp=\"#pers_原林之助\">\n<surname> 原 </surname>\n<forename> 林之助 </forename>\n</persname> 、 <persname corresp=\"#pers_尾高幸五郎\">\n<surname> 尾高 </surname>\n<forename> 幸五郎 </forename>\n</persname> 氏来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 日本鉄道会社重役会ニ列ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\">\n        午後四時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ於テ <orgname> 汽車製造合資会社 </orgname> ノ社員会ニ列ス、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 子、 <persname corresp=\"#pers_岩崎弥之助\">\n<surname> 岩崎 </surname>\n<forename> 弥之助 </forename>\n</persname> 、 <persname corresp=\"#pers_蜂須賀\">\n<surname> 蜂須賀 </surname>\n</persname> 侯爵、 <persname corresp=\"#pers_今村\">\n<surname> 今村 </surname>\n</persname> 、 <persname corresp=\"#pers_原\">\n<surname> 原 </surname>\n</persname> 等ノ諸氏来会、会社将来ノ事ヲ談話ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-02-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、病未タ愈ヘサルニ付、褥中ニテ朝飧ヲ食ス、但食前腰湯ニ浴シテ発汗ス、 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 氏来リ、 <orgname> 第一銀行 </orgname> ノ要務ヲ談ス、 <persname corresp=\"#pers_高田慎吾\">\n<surname> 高田 </surname>\n<forename> 慎吾 </forename>\n</persname> 氏来、養育院児童教育ノ事ヲ談ス、 <persname corresp=\"#pers_穂積律之助\">\n<surname> 穂積 </surname>\n<forename> 律之助 </forename>\n</persname> 来リ、卒業後実地修行ノ順序ヲ談ス、 <persname corresp=\"#pers_大沢正道\">\n<surname> 大沢 </surname>\n<forename> 正道 </forename>\n</persname> 氏来リ、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       ニ送ルヘキ感謝状文案ノ事ヲ協議ス、午飧後新聞紙ヲ一覧シ、又、日記ヲ編成ス、 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス、 <persname corresp=\"#pers_磯永ふみ子\">\n<surname> 磯永 </surname>\n<forename> ふみ子 </forename>\n</persname> 来話ス <lb></lb>\n<placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> ヘ送ルヘキ感謝状ノ文案ヲ清書シテ <persname corresp=\"#pers_水野\">\n<surname> 水野 </surname>\n</persname> 総領事ニ書状ヲ発ス、夜食後、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 公ノ実録ヲ読マシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

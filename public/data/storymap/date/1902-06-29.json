@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-06-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、此日ハ <persname corresp=\"#pers_村井保固\">\n<surname> 村井 </surname>\n<forename> 保固 </forename>\n</persname> 氏ヨリ午飧ノ招宴ニ応スルノ約アリ、又明夕ハ当地ノ本邦人ニ留別ノ宴ヲ開クノ催アルヲ以テ朝来 <persname corresp=\"#pers_堀越\">\n<surname> 堀越 </surname>\n</persname> 氏来リテ種々周旋ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> ノ汽車ニテ <placename corresp=\"#place_リバーサイド\"> リバーサイド </placename> ナル <persname corresp=\"#pers_村井\">\n<surname> 村井 </surname>\n</persname> 氏宅ニ抵ル、生糸合名会社 <persname corresp=\"#pers_佐藤\">\n<surname> 佐藤 </surname>\n</persname> 氏同伴ス、 <persname corresp=\"#pers_堀越\">\n<surname> 堀越 </surname>\n</persname> 氏案内者トナリテ <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ宴ニ応ス、汽車ヲ下リテ雨強ク行路困難ナリシモ <persname corresp=\"#pers_村井\">\n<surname> 村井 </surname>\n</persname> 氏ヨリ馬車ヲ以テ迎フルヲ以テ少時ニシテ其家ニ抵リ本邦風ノ午飧ヲ饗セラル、味頗ル美ナリ、食後 <persname corresp=\"#pers_村井\">\n<surname> 村井 </surname>\n</persname> 、 <persname corresp=\"#pers_堀越\">\n<surname> 堀越 </surname>\n</persname> 二氏ト事務上ノ談話ヲ為シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> ノ汽車ニテ帰宿、直ニ衣服ヲ更メテ <orgname> 高等商業学校\n       </orgname> 出身ノ人々ヨリ招宴セラルヽ夜飧会ニ出席ス、 <persname corresp=\"#pers_堀越\">\n<surname> 堀越 </surname>\n</persname> 、荒巻其他十名来リ会ス、其割烹店ヲカフヘー・マルタント云フ仏国風ノ料理ニシテ極メテ美ナリ、食後商業教育ニ関スル種々ノ談話ヲ為シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

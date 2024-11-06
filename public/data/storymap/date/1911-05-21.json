@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-05-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ、朝飧ヲ食ス、後、数多ノ来訪人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時\n       </time> 府庁ノ議事堂ニ抵リ、商業学校其他ノ学生等千有余名来会スル会衆ニ対シテ実業教育ノ必要ニ関スル一場ノ演説ヲ為ス、畢テ旅亭ニ帰リテ午飧シ、直ニ同志社ニ抵リ <orgname>\n        女子大学 </orgname> 卒業女子ニ訓示ヲ為シ、更ニ同志社学生ニ一場ノ演説ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n       再ヒ議事堂ニ抵リ、一般市民ノ大会ニ於テ女子教育ヲ必要トスル一場ノ演説ヲ為ス、会衆二千五百名余ナリト云フ、盛会ナリ、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n       銀行集会所ニ抵リ <placename corresp=\"#place_京都\"> 京都 </placename> 経済会ノ招宴ニ列席ス、食事畢リテ一場ノ経済演説ヲ為ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 旅亭ニ帰リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1911-05-22T00:00+0900\"> 十二時 </time> 就寝\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

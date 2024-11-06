@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-02-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 <persname corresp=\"#pers_大川平三郎\">\n<surname> 大川 </surname>\n<forename> 平三郎 </forename>\n</persname> 来、 <persname corresp=\"#pers_斎藤峰三郎\">\n<surname> 斎藤 </surname>\n<forename> 峰三郎 </forename>\n</persname> 来保険会社ノ事ヲ話ス、藁品槍太郎来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<persname corresp=\"#pers_坂谷芳郎\">\n<surname> 坂谷 </surname>\n<forename> 芳郎 </forename>\n</persname> 《（ <persname corresp=\"#pers_阪谷芳郎\">\n<surname> 阪谷 </surname>\n<forename> 芳郎 </forename>\n</persname> ）》ヲ訪フテ布哇銀行ノ事及 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 金地金ノ件ヲ談ス夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 過 <persname corresp=\"#pers_大江卓\">\n<surname> 大江 </surname>\n<forename> 卓 </forename>\n</persname> 氏ヲ <placename corresp=\"#place_芝公園\"> 芝公園 </placename> 内ニ訪フ、京釜鉄道ノ事ヲ談ス、 <persname corresp=\"#pers_尾崎\">\n<surname> 尾崎 </surname>\n</persname> 、 <persname corresp=\"#pers_大三輪\">\n<surname> 大三輪 </surname>\n</persname> 、 <persname corresp=\"#pers_竹内\">\n<surname> 竹内 </surname>\n</persname> 諸氏ト共ニ陸軍中佐 <persname corresp=\"#pers_大沢\">\n<surname> 大沢 </surname>\n</persname> 氏、逓信技師 <persname corresp=\"#pers_久能\">\n<surname> 久能 </surname>\n</persname> 氏ト会話ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.65639,
+                    "lon": 139.74833,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

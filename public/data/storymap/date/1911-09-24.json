@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-09-24",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1699\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/725/full/max/0/default.jpg\" n=\"B1699\" source=\"#pageB1699\"></pb>\n<lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、半身浴ヲ為シテ後朝飧ヲ食ス、畢テ <placename corresp=\"#place_埼玉\"> 埼玉\n       </placename> 学生寄宿舎ノ委員ニ面話ス、又、 <persname corresp=\"#pers_原小太郎\">\n<surname> 原 </surname>\n<forename> 小太郎 </forename>\n</persname> 氏ノ来訪ニ接シテ其身上ノ事ヲ依頼セラル、 <orgname> 毎日新聞 </orgname> 記者某来リテ税制整理ニ付テノ意見ト <placename corresp=\"#place_朝鮮\"> 朝鮮 </placename> 開発ニ関スル意見トヲ問ハル、其要件ヲ各項ニ分析シテ詳細ニ指示シ遣ス、午飧後演説筆記類ヲ修正ス <lb></lb>\n<placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 人 <persname corresp=\"#pers_ラツセル\">\n<surname> ラツセル </surname>\n</persname> 、 <persname corresp=\"#pers_ホルト\">\n<surname> ホルト </surname>\n</persname> 二氏、 <persname corresp=\"#pers_今西兼二\">\n<surname> 今西 </surname>\n<forename> 兼二 </forename>\n</persname> 氏同伴来訪セラル、蓋シ二氏ハ昨日天洋丸ニテ <placename corresp=\"#place_日本\"> 日本 </placename>\n       ニ渡来シタルナリ、種々ノ談話ヲ為シテ帰去ス夕方庭園ヲ散歩シ、夜飧後、新聞紙雑誌類ヲ読ミ又遊戯ニ消閑ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

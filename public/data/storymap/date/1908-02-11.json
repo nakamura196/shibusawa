@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-02-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<persname corresp=\"#pers_吉田\">\n<surname> 吉田 </surname>\n</persname> 湖ノ来訪ニ接ス、後書類ヲ調理ス、 <persname corresp=\"#pers_蘆田均\">\n<surname> 蘆田 </surname>\n<forename> 均 </forename>\n</persname> 氏《（ <persname corresp=\"#pers_芦田均\">\n<surname> 芦田 </surname>\n<forename> 均 </forename>\n</persname> 氏）》来ル、 <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persname> ノ学友トシテ寄宿ヲ共ニセシムル人ナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 家人ト共ニ午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_埼玉\"> 埼玉 </placename> 学友会総会ニ出席シ、勅語ヲ奉読シ、学生ニ賞品ヲ授与シ、畢テ一場ノ演説ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> ノ汽車ニテ <placename corresp=\"#place_大森\"> 大森 </placename> ニ抵リ、\n        <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 公爵紀念館ニ於テ催フセル憲法紀念会ニ出席ス、畢テ <placename corresp=\"#place_高輪\"> 高輪 </placename> ニ抵リ\n        <persname corresp=\"#pers_北脇久尾\">\n<surname> 北脇 </surname>\n<forename> 久尾 </forename>\n</persname> ノ家ヲ訪ヒ夜飧シ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6385306,
+                    "lon": 139.737167,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、夜、新聞紙雑誌ヲ読ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

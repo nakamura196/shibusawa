@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-08-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、先ツ入浴シ、畢テ新聞紙ヲ一読シ、又、日記ヲ編成ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時\n       </time> 朝飧ヲ食ス、 <persname corresp=\"#pers_佐田\">\n<surname> 佐田 </surname>\n</persname> 左市氏等来訪ス、其他種々ノ来人アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<placename corresp=\"#place_新潟\"> 新潟 </placename> 師範学校ニ抵リ講演会ヲ開ク、女子教育ノ必要ヲ種々ノ方面ヨリ説示ス、畢テ <persname corresp=\"#pers_鍵富三作\">\n<surname> 鍵富 </surname>\n<forename> 三作 </forename>\n</persname> 氏ノ招宴ニ応シテ行形亭ニ於テ午飧ス、後、揮毫ヲ試ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n       此地有志者ノ開催セル宴会ニ鍋茶屋ニ抵リ饗宴ヲ受ク、銀行者悉ク来会ス、依テ公債証書ニ関スル近状ヲ説明ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n       過散会、帰宿ス、此夜、 <orgname> 女子大学 </orgname> ニ対スル寄附金ノ事ヲ、 <persname corresp=\"#pers_鍵富\">\n<surname> 鍵富 </surname>\n</persname> 、 <persname corresp=\"#pers_斎藤\">\n<surname> 斎藤 </surname>\n</persname> 、 <persname corresp=\"#pers_白勢\">\n<surname> 白勢 </surname>\n</persname> 、 <persname corresp=\"#pers_桜井\">\n<surname> 桜井 </surname>\n</persname> 等ノ諸氏ニ依頼ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

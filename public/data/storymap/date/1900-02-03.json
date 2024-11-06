@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-02-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、朝、 <persname corresp=\"#pers_辰野金吾\">\n<surname> 辰野 </surname>\n<forename> 金吾 </forename>\n</persname> 氏来ル、 <persname corresp=\"#pers_岩附博信\">\n<surname> 岩附 </surname>\n<forename> 博信 </forename>\n</persname> ノ事ヲ話ス、 <persname corresp=\"#pers_清水釘吉\">\n<surname> 清水 </surname>\n<forename> 釘吉 </forename>\n</persname> 、 <persname corresp=\"#pers_原林之助\">\n<surname> 原 </surname>\n<forename> 林之助 </forename>\n</persname> 来ル、 <persname corresp=\"#pers_岡本\">\n<surname> 岡本 </surname>\n</persname> 技師ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ京釜鉄道創立委員会ヲ開ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<orgname> 石川島造船所 </orgname> ニ抵リ新任重役会ヲ開キ、会社従来営業ノ景況及将来ノ方針ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時\n       </time> 一同 <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 氏ノ招宴ニ抵ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-10-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、涼味昨日ト同シク亦炎熱ヲ厭フ事ナシ、此日 <placename corresp=\"#place_紅海\"> 紅海 </placename> ヲ出テ <placename corresp=\"#place_インド洋\"> 印度洋 </placename> ニ入ル、然レトモ船静寧ニシテ終日読書談話ニ消閑ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": -20.0,
+                    "lon": 80.0,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-08-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後新聞紙ヲ一覧ス、病稍愈タリト覚ユレトモ尚入浴ヲ見合ハス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 過朝飧、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ書類ヲ整理ス、 <persname corresp=\"#pers_西野恵之助\">\n<surname> 西野 </surname>\n<forename> 恵之助 </forename>\n</persname> 氏来話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、畢テ <placename corresp=\"#place_坂本町\"> 坂本町 </placename>\n       銀行集会所ニ抵リ、 <orgname> 第一銀行 </orgname> 株主総会ニ出席ス、上半季ノ営業ニ関スル一場ノ演説ヲ為シ議事畢テ来会者中二三ノ人ト会談シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 外務大臣ヲ官邸ニ訪ヒ不在面会ヲ得ス、更ニ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ要務ヲ処理シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename> ニ抵リテ知人ヲ訪ヒ、夕 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、此夜、少シク発熱シテ夜中煩悶ス、 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス <lb></lb> 朝、 <persname corresp=\"#pers_諸井\">\n<surname> 諸井 </surname>\n</persname> 、 <persname corresp=\"#pers_鈴木\">\n<surname> 鈴木 </surname>\n</persname> 二氏来リ毛織物会社ノ事ヲ談話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

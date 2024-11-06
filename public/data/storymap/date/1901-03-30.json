@@ -1,0 +1,73 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-03-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、午前、 <persname corresp=\"#pers_本多庸一\">\n<surname> 本多 </surname>\n<forename> 庸一 </forename>\n</persname> 、 <persname corresp=\"#pers_片岡敏次郎\">\n<surname> 片岡 </surname>\n<forename> 敏次郎 </forename>\n</persname> 来ル、海外教育会ノ事ヲ談ス、 <persname corresp=\"#pers_諸井四郎\">\n<surname> 諸井 </surname>\n<forename> 四郎 </forename>\n</persname> 来ル、 <persname corresp=\"#pers_大原春次郎\">\n<surname> 大原 </surname>\n<forename> 春次郎 </forename>\n</persname> 来ル、 <orgname> 汽車製造会社 </orgname> ノ事ヲ協議ス、 <persname corresp=\"#pers_山辺丈夫\">\n<surname> 山辺 </surname>\n<forename> 丈夫 </forename>\n</persname> 来ル、紡績聯合会ノ事及大坂紡績会社ノ要務ヲ協議ス、山上満常来ル、北越鉄道会社ノ事ヲ談ス、 <persname corresp=\"#pers_青山\">\n<surname> 青山 </surname>\n</persname> 博士来診ス、□村□吉来《（逵邑容吉カ）》ル、箱館船渠ノ事ヲ談話ス、 <persname corresp=\"#pers_尾高定四郎\">\n<surname> 尾高 </surname>\n<forename> 定四郎 </forename>\n</persname> 来ル、 <persname corresp=\"#pers_尾高惇忠\">\n<forename> 藍香 </forename>\n</persname> 先生碑文ノ事ヲ依頼セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ喜賓会総会ニ列ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 東京市役所ニ抵リ市会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename> 瓢屋ニ抵リ北海道製麻会社重役ノ会合ニ列ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\">\n        十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

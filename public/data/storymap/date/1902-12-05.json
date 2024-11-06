@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-12-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、病稍愈ユルヲ以テ此日ヨリ出勤シ得ヘカリシモ、来人多キヲ以テ <pb corresp=\"#pageB1289\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/315/full/max/0/default.jpg\" n=\"B1289\" source=\"#pageB1289\"></pb> 日本鉄道会社重役会出席ノ事ヲ辞ス、夕方清国駐在公使 <persname corresp=\"#pers_内田康哉\">\n<surname> 内田 </surname>\n<forename> 康哉 </forename>\n</persname> 氏ヲ清韓協会ニ於テ招宴セシカ、食慾回復セサルヲ以テ出席ヲ謝絶ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-02-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 昨朝ヨリ腸ヲ損シ下痢アリシカ、夜ニ入リテ尚愈ヘス、夜中数回ノ下痢アリシ為メ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 午前八時半 </time>\n       起床、入浴シ、畢テ朝飧ヲ食ス、今朝ハ <orgname> 女子大学 </orgname>\n       ニ評議員会アリタレトモ、電話ニテ出席ヲ謝絶ス、帽子会社モ同シク断リ遣ス、午前ヨリ新聞紙ヲ一覧シ又開国五十年史ヲ読ム、夜ニ至ルマテ通読シテ各種ノ論説ニ頗ル興味ヲ覚フ <lb></lb>\n<persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

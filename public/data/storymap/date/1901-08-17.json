@@ -1,0 +1,79 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-08-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵ル、白耳義人 <persname corresp=\"#pers_フランキー\"> フランキー </persname> 来話ス、午後、 <persname corresp=\"#pers_浅田\">\n<surname> 浅田 </surname>\n</persname> 逓信総務長官ヲ訪ヒ <orgname> 石川島造船所 </orgname>\n       合併ノ件、北越鉄道会社ヨリ伺出テタル鉄道外国人ヘ抵当ノ件、無線電線《（信カ）》ノ件等ヲ談話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<persname corresp=\"#pers_林忠正\">\n<surname> 林 </surname>\n<forename> 忠正 </forename>\n</persname> 氏ヲ訪フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ヘ帰リ <persname corresp=\"#pers_加藤正義\">\n<surname> 加藤 </surname>\n<forename> 正義 </forename>\n</persname> 氏来訪ス、石川島ノ事及郵船会社ニ対スル反対株主云々ノ事ヲ談話ス、夕 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス <lb></lb> 白耳義人 <persname corresp=\"#pers_フランキー\">\n<surname> フランキー </surname>\n</persname> 氏及同国公使ヲ来ル <date evidence=\"year inferenced, month\" when=\"1901-08-20\"> 廿日 </date>\n<placename corresp=\"#place_深川邸\"> 深川邸 </placename> ヘ招宴ノ事ヲ約シ其招宴ニ関スル案内状ヲ発シ且準備ヲ指示ス、 <orgname>\n        石川島造船所 </orgname> 合併ノ件ニ関シ、 <placename corresp=\"#place_浦賀\"> 浦賀 </placename>\n<persname corresp=\"#pers_臼井儀兵衛\">\n<surname> 臼井 </surname>\n<forename> 儀兵衛 </forename>\n</persname> 氏ニ書状ヲ発ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.2475,
+                    "lon": 139.713972,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

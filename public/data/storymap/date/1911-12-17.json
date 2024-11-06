@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-12-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、半身浴ヲ為シテ朝飧ヲ食ス、後、銀行集会所 <persname corresp=\"#pers_宇野\">\n<surname> 宇野 </surname>\n</persname> 氏来リ通信録ニ記載スヘキ <date evidence=\"year inferenced, day\" when=\"1911-01\"> 四十五年一月 </date>\n       発行ノ問題ヲ請ハル、依テ銀行ノ起原ニ関スル事ヲ談話ス、太陽記者来リテ時事ヲ談ス、此日ハ一昨年 <placename corresp=\"#place_アメリカ合衆国\"> 米国\n       </placename> ニ渡航セシ実業団員諸氏来会ノ約アリテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n       頃ヨリ続々参集ス、囲碁ノ余興アリ、又、庭園ヲ散歩シ書画類ヲ展覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 午飧、一同食卓ニテ会食ス、畢テ又囲碁アリ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 頃ヨリ皆自働車ニテ <orgname> 帝国座 </orgname> ニ抵リ観劇ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿ス、此日会スル者男女三十一人許リ、 <persname corresp=\"#pers_水野\">\n<surname> 水野 </surname>\n</persname> 夫妻、 <persname corresp=\"#pers_神田\">\n<surname> 神田 </surname>\n</persname> 、 <persname corresp=\"#pers_堀越\">\n<surname> 堀越 </surname>\n</persname> 氏等モ夫妻共ニ来会ス、各歓ヲ尽シテ去ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

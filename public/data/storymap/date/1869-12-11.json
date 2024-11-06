@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-12-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝、 <persname corresp=\"#pers_巳屋忠次郎\">\n<surname> 巳屋 </surname>\n<forename> 忠次郎 </forename>\n</persname> 来、例刻より出省、戸籍之儀ニ付、掛詰合之席江出張、見込取調且申談いたす、居宅之儀ニ付、 <persname corresp=\"#pers_菅浪武三郎\">\n<surname> 菅浪 </surname>\n<forename> 武三郎 </forename>\n</persname> より申談有之、戸籍之儀ニ付、 <persname corresp=\"#pers_岡本\">\n<surname> 岡本 </surname>\n</persname> 権少丞より申談有之、小札交換之儀、林出納正へ承合いたす、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 頃退出 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

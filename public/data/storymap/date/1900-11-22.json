@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-11-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 巴城館ニ於テ <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> ト共ニ <persname corresp=\"#pers_ブラオン\">\n<surname> ブラオン </surname>\n</persname> 氏ヨリ送付セラレタル意見書ニ付テ種々協議ヲ凝ラス、終ニ来書ニ対スル修正意見書ヲ作リ且別ニ余ノ手ニ於テ全体ノ契約ニ関スル要項ヲ条記シ <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 氏ニ示ス、且 <persname corresp=\"#pers_原田\">\n<surname> 原田 </surname>\n</persname> ヲブ氏ニ遣シテ午後ノ会見ヲ約ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 午後二時半 </time>\n<persname corresp=\"#pers_ブラオン\">\n<surname> ブラオン </surname>\n</persname> 氏ヲ其 <pb corresp=\"#pageB1167\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/193/full/max/0/default.jpg\" n=\"B1167\" source=\"#pageB1167\"></pb> 宅ニ訪ヒ貸付金及海関兌換券発行ニ関スル協議ヲ為ス、来ル <date evidence=\"year inferenced, month\" when=\"1900-11-24\"> 二十四日 </date> 迄ニ <placename corresp=\"#place_仁川\"> 仁川 </placename> ヘ向ケ回答スル事ヲ約ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_京城府\"> 京城 </placename> 発ノ汽車ニ搭シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 過\n        <placename corresp=\"#place_仁川\"> 仁川 </placename> 着、直ニ <persname corresp=\"#pers_伊集院\">\n<surname> 伊集院 </surname>\n</persname> 領事ノ招宴ニ応シテ領事館ニ抵ル、 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 、 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 、 <persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> 、 <persname corresp=\"#pers_西川\">\n<surname> 西川 </surname>\n</persname> ノ諸氏来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,94 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-11-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ書類ヲ検閲ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<orgname> 日本銀行 </orgname> ニ抵リ米人 <persname corresp=\"#pers_センクス\">\n<surname> センクス </surname>\n</persname> 氏ノ <placename corresp=\"#place_清\"> 清国 </placename> 幣制ニ関スル意見ノ説明ヲ聞ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 日本銀行 </orgname> ニ於テ午飧ス、畢テ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ニ抵リ事務ヲ処理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 、 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 、 <persname corresp=\"#pers_園田\">\n<surname> 園田 </surname>\n</persname> 両氏ノ男女結婚ノ披露会ヲ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ開クニ列席ス、会スル者千余名、頗ル盛会ナリキ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:30:00",
+                    "text": "<time when=\"16:30:00\"> 午後四時半 </time>\n       紅葉館ニ抵リ各地商業会議所ノ懇親会ニ出席ス、 <persname corresp=\"#pers_和田\">\n<surname> 和田 </surname>\n</persname> 農商務長官モ参席ス、開宴前一場ノ演説ヲ為ス、 <persname corresp=\"#pers_和田\">\n<surname> 和田 </surname>\n</persname> 氏答辞様ノ演説アリ、宴畢テ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

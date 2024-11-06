@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-09-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ畢テ支度ヲ整ヒ、事務室ニ於テ一行ノ事務ヲ処 <pb corresp=\"#pageB1594\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/620/full/max/0/default.jpg\" n=\"B1594\" source=\"#pageB1594\"></pb> 理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       朝飧ヲ食ス、後、此地ノ寺院ニ抵リテ説経《（教）》ヲ聞ク、会衆凡二千人余、頗ル謹厳静粛ナリ、牧師ノ演説畢リテ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n       過キ旅館ニ帰リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 自働車ニテ湖水ヲ隔テタル <persname corresp=\"#pers_クライス\">\n<surname> クライス </surname>\n</persname> 氏ノ農場ニ抵リ、乳牛飼養ノ実況ヲ見ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time> 過キ同農場ニテ午飧シ、牛舎及農場等ヲ一覧シ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 帰宿、更ニ衣服ヲ更メテ <persname corresp=\"#pers_ローマン\">\n<surname> ローマン </surname>\n</persname> 氏ノ晩飧会ニ抵ル、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ハ病気ニテ欠席ス、近親十数名ヲ会シテ懇篤ナル宴アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 午後十時 </time>\n       直ニ汽車場ニ抵リ、一行ニ充テタル特別列車ニ搭シテ払暁 <placename corresp=\"#place_シアトル\"> シヤトル </placename> ヲ発シテ\n        <placename corresp=\"#place_タコマ\"> タコマ </placename> ニ向フ、此汽車ハ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       巡回中一行ノ為メ特ニ設ケタル列車ニシテ、各部屋、客室、食堂等マテ整頓シタル最上等ノモノナリ以テ一行ヲ優待スルノ鄭重ナルヲ知ルニ足ル "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 47.60972,
+                    "lon": -122.33306,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

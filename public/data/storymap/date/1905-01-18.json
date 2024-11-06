@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-01-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、室内運動ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ畢ル <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<orgname> 第一銀行 </orgname> ニ出勤シ、又事務所ニ於テ来人ニ接シ、書類ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 銀行倶楽部 </orgname> ニ抵リテ午飧ス、来会ノ <persname corresp=\"#pers_園田\">\n<surname> 園田 </surname>\n</persname> 、 <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 、 <persname corresp=\"#pers_池田\">\n<surname> 池田 </surname>\n</persname> 、 <persname corresp=\"#pers_波多野\">\n<surname> 波多野 </surname>\n</persname> 、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> ノ諸氏ト共ニ、昨日 <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 氏ヨリ内示セラレタル銀行条例及貯蓄銀行条例ノ事ヲ談ス、今夕 <persname corresp=\"#pers_園田\">\n<surname> 園田 </surname>\n</persname> 氏ノ催ニ係ル鰻会ニ於テ <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 氏ニ伝言ヲ托ス、午後事務所ニ抵リ、大坂 <persname corresp=\"#pers_外山\">\n<surname> 外山 </surname>\n</persname> 、 <placename corresp=\"#place_京都\"> 京都 </placename>\n<persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 氏ヘ右貯蓄銀行条例ノ草案ヲ添ヘ書信ヲ通ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ヘ帰宿ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 米国人 <persname corresp=\"#pers_モーガン\">\n<surname> モーガン </surname>\n</persname> 、 <persname corresp=\"#pers_ストーン\">\n<surname> ストーン </surname>\n</persname> 二氏来訪シ、富籤ノ事ヲ談セラレシニ付、速ニ不同意ノ旨ヲ以テ来意ヲ拒絶ス、 <persname corresp=\"#pers_佐藤顕理\">\n<surname> 佐藤 </surname>\n<forename> 顕理 </forename>\n</persname> 氏通訳ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

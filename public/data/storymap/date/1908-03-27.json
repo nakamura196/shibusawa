@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-03-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、日記ヲ編成ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_小石川\"> 小石川 </placename> ニ <persname corresp=\"#pers_荒井賢太郎\">\n<surname> 荒井 </surname>\n<forename> 賢太郎 </forename>\n</persname> 氏ヲ訪ヒテ、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> ニ於ル <orgname> 第一銀行\n       </orgname> 支店ノ事ヲ談ス、 <persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> 氏来会ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7137833,
+                    "lon": 139.7487556,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏、 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 氏ト行務ニ関シ要件ヲ協議ス、午飧後、 <persname corresp=\"#pers_郷誠之助\">\n<surname> 郷 </surname>\n<forename> 誠之助 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_内田\">\n<surname> 内田 </surname>\n</persname> 某来訪ス、 <persname corresp=\"#pers_植村澄三郎\">\n<surname> 植村 </surname>\n<forename> 澄三郎 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 銀行ニテ揮毫ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時\n       </time> サミユール商会 <persname corresp=\"#pers_デビス\">\n<surname> デビス </surname>\n</persname> 氏来リ、京坂電気鉄道ノ事ニ関シ条約書ヲ交換ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

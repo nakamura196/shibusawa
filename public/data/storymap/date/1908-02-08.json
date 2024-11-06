@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-02-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、直ニ入浴シ、畢テ朝飧ヲ食ス、 <persname corresp=\"#pers_白岩竜平\">\n<surname> 白岩 </surname>\n<forename> 竜平 </forename>\n</persname> 氏来リ日清汽船会社ノ事ヲ談ス、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 氏来リ養育院ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ来人ニ接シ事務ヲ処理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\">\n        正午 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧シ食後行務ヲ談ス、午後再ヒ事務所ニ於テ来人ニ接ス、 <persname corresp=\"#pers_花房\">\n<surname> 花房 </surname>\n</persname> 子爵来リ神苑会ノ事ヲ談ス、 <persname corresp=\"#pers_山室軍平\">\n<surname> 山室 </surname>\n<forename> 軍平 </forename>\n</persname> 氏来話ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<orgname> 東京商業会議所 </orgname> ニ抵リ、 <persname corresp=\"#pers_中野\">\n<surname> 中野 </surname>\n</persname> 氏、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 氏ト同シク <orgname> 帝国商業銀行 </orgname> ノ事ニ関シ種々ノ談話ヲ為ス、株主会スル者約四十人許リナリキ、 <pb corresp=\"#pageB1493\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/519/full/max/0/default.jpg\" n=\"B1493\" source=\"#pageB1493\"></pb> 畢テ <placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リ、\n        <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏ノ招宴ニ出席ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

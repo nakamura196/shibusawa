@@ -1,0 +1,73 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-07-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<persname corresp=\"#pers_堀越善重郎\">\n<surname> 堀越 </surname>\n<forename> 善重郎 </forename>\n</persname> 夫妻来訪、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 行ニ関シ種々ノ談話ヲ為ス、\n        <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> モ来会ス、午飧後 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ事務ヲ処理ス、後、\n        <orgname> 第一銀行 </orgname> ニ抵リテ重役会ヲ開キ要件ヲ議決ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リ、小川〓吉氏ノ招宴ニ応ス、 <placename corresp=\"#place_台湾\"> 台湾 </placename> 総督ヲ案内セシナリ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 23.767,
+                    "lon": 121.0,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 頃散会、帰宿ス\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-01-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、長岡人 <persname corresp=\"#pers_山口万吉\">\n<surname> 山口 </surname>\n<forename> 万吉 </forename>\n</persname> 氏来話ス、後、 <orgname> 第一銀行 </orgname> 営業報告書ニ添フヘキ金融概況筆記ノ草案ヲ修正ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\">\n        午前十一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ来人ニ接ス、 <persname corresp=\"#pers_長森藤吉郎\">\n<surname> 長森 </surname>\n<forename> 藤吉郎 </forename>\n</persname> 氏来話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 銀行倶楽部 </orgname> ニ抵リ経済調査会ニ出席ス、 <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 、 <persname corresp=\"#pers_池田\">\n<surname> 池田 </surname>\n</persname> 、其他委員参席ス畢テ再ヒ事務所ニ抵リ、又、 <orgname> 日本銀行 </orgname> ニ <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 氏ヲ訪ヒ、 <orgname> 帝商銀行 </orgname> ノ事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 過、\n        <persname corresp=\"#pers_中野武営\">\n<surname> 中野 </surname>\n<forename> 武営 </forename>\n</persname> 、 <persname corresp=\"#pers_伊藤幹一\">\n<surname> 伊藤 </surname>\n<forename> 幹一 </forename>\n</persname> 氏来リ、 <orgname> 帝商銀行 </orgname> 重役ノ事ヲ協議ス、後、 <persname corresp=\"#pers_郷誠之助\">\n<surname> 郷 </surname>\n<forename> 誠之助 </forename>\n</persname> 来会シテ種々ノ談話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-04-24",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1618\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/644/full/max/0/default.jpg\" n=\"B1618\" source=\"#pageB1618\"></pb>\n<lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、洗面後朝飧ヲ食ス、此日 <placename corresp=\"#place_大阪\"> 大阪\n       </placename> ヲ発シテ西京ニ抵ルニヨリ、 <persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 、 <placename corresp=\"#place_熊谷\"> 熊谷 </placename> 其他 <placename corresp=\"#place_大阪\"> 大阪 </placename> 人士多ク来リテ行ヲ送ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time>\n<placename corresp=\"#place_梅田\"> 梅田 </placename> 発ノ汽車ニ搭シテ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.7005611,
+                    "lon": 135.4957444,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n       西京ニ抵ル、 <persname corresp=\"#pers_中川\">\n<surname> 中川 </surname>\n</persname> 氏始銀行者、織物会社ノ人々多ク来リ迎フ、更ニ馬場《（番）》ニ抵リ汽車ヲ下リ、石山寺ニ詣ス、巡覧畢テ <placename corresp=\"#place_大津\">\n        大津 </placename> ニ抵リ、 <orgname> 竹清楼 </orgname> ニ於テ午飧ス、食後、 <placename corresp=\"#place_唐崎\"> 唐崎\n       </placename> ニ抵リ巨松ヲ一覧シ、更ニ路ヲ転シテ三井寺ニ抵リ、登高、参拝ス、山上ノ風光尤モ佳絶ナリ、所謂湖上ノ八景一望ノ中ニ在リ、寺院ノ楼上ニ休憩シテ後、山ヲ下リ\n        <placename corresp=\"#place_番場\"> 番場 </placename> 停車場ヨリ汽車ニ搭シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時\n       </time> 過西京ニ着シ、 <orgname> 玉川楼 </orgname> ニ投宿ス、銀行会社ノ人多ク来リ迎フ、夜食後、都踊ヲ一覧ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-01-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 、 <persname corresp=\"#pers_平沢\">\n<surname> 平沢 </surname>\n</persname> 、 <persname corresp=\"#pers_進経太\">\n<surname> 進 </surname>\n<forename> 経太 </forename>\n</persname> ノ三氏来リ <orgname> 石川島造船所 </orgname> 事務改良ニ関スル談話アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時\n       </time> 午飧ヲ畢リ銀行集会所ニ抵リ <orgname> 第一銀行 </orgname> 株主総会ヲ開ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n       過会議ヲ終リ、 <persname corresp=\"#pers_西園寺公成\">\n<surname> 西園寺 </surname>\n<forename> 公成 </forename>\n</persname> 氏ノ誘引ニ従テ回向院ニ抵リ角觝ヲ見ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 再ヒ銀行集会所ニ抵リ行員ノ数多ト会食シ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 午後八時 </time> 過散会、此夜 <placename corresp=\"#place_浜町\"> 浜町 </placename>\n       宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

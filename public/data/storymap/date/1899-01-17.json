@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-01-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 毛武鉄道株式ノ事ニ関シテ、 <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 、 <persname corresp=\"#pers_大江\">\n<surname> 大江 </surname>\n</persname> 、 <persname corresp=\"#pers_馬越\">\n<surname> 馬越 </surname>\n</persname> 、 <persname corresp=\"#pers_今村\">\n<surname> 今村 </surname>\n</persname> 、 <persname corresp=\"#pers_原六郎\">\n<surname> 原 </surname>\n<forename> 六郎 </forename>\n</persname>\n<persname corresp=\"#pers_佐々田\">\n<surname> 佐々田 </surname>\n</persname> 、 <persname corresp=\"#pers_中沢\">\n<surname> 中沢 </surname>\n</persname> 、 <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 及 <persname corresp=\"#pers_伊藤大八\">\n<surname> 伊藤 </surname>\n<forename> 大八 </forename>\n</persname> ノ諸氏来会ス、蓋シ其引受株ノ処分ニ関スル協議ナリ、終ニ一同払入ノ証拠金ヲ棄却シテ百事ヲ <persname corresp=\"#pers_林有造\">\n<surname> 林 </surname>\n<forename> 有造 </forename>\n</persname> 、 <persname corresp=\"#pers_伊藤大八\">\n<surname> 伊藤 </surname>\n<forename> 大八 </forename>\n</persname> 両氏ニ委任スル事トシ、曩ノ契約書ヲ解除シテ其終局ヲ見ル事ニ決定ス <lb></lb> 午後銀行ニ抵リテ事務ヲ取ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時\n       </time> 警視庁ニテ <persname corresp=\"#pers_松井茂\">\n<surname> 松井 </surname>\n<forename> 茂 </forename>\n</persname> 氏ニ面会シテ <orgname> 人造肥料会社 </orgname> ノ事ヲ談話ス、此夜 <persname corresp=\"#pers_稲垣満治郎\">\n<surname> 稲垣 </surname>\n<forename> 満治郎 </forename>\n</persname> 氏来リテベ卿歓迎会ノ事ヲ協議シ、東邦協会ト商業会議所ト合併ノ事ヲ打合セテ明日其決定ヲ約ス、 <persname corresp=\"#pers_小崎懋\">\n<surname> 小崎 </surname>\n<forename> 懋 </forename>\n</persname> 氏来会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

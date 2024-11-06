@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-12-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、二三ノ来客ニ接ス、 <persname corresp=\"#pers_穂積陳重\">\n<surname> 穂積 </surname>\n<forename> 陳重 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:20:00",
+                    "text": "<time when=\"11:20:00\"> 午前十一時二十分 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 発ノ汽車ニ搭シテ <placename corresp=\"#place_横浜\"> 横浜\n       </placename> ニ抵ル香上銀行支配人 <persname corresp=\"#pers_ジヨンス\">\n<surname> ジヨンス </surname>\n</persname> 氏ノ招宴ニ依ル、同業者其他会スル者十数名午飧畢リテ横浜支店ニ立寄リ、丸喜糸方ノ人々来会シテ生糸商業ノ概況ヲ聞知シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:30:00",
+                    "text": "<time when=\"16:30:00\">\n        午後四時半 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 着、直ニ <placename corresp=\"#place_日本橋兜町\"> 兜町\n       </placename> 事務所ニ抵リ、 <persname corresp=\"#pers_松崎蔵之助\">\n<surname> 松崎 </surname>\n<forename> 蔵之助 </forename>\n</persname> 氏ノ来訪ニ接シ、 <persname corresp=\"#pers_明石愛子\">\n<forename> 愛子 </forename>\n</persname> 婚姻ノ事ニ付種々ノ談話ヲ為シ、更ニ <persname corresp=\"#pers_脇田勇\">\n<surname> 脇田 </surname>\n<forename> 勇 </forename>\n</persname> 氏ノ来訪ニ接シ <orgname> 宮城屋銀行 </orgname> ノ事ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 午後八時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、夜、新聞紙ヲ一読ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

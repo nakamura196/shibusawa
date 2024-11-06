@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-01-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ス、後、二三ノ来客ニ接ス、瓦斯会社ヨリ依頼セラルル揮毫ノ事ニ関シ、 <persname corresp=\"#pers_福島甲子三\">\n<surname> 福島 </surname>\n<forename> 甲子三 </forename>\n</persname> 氏来話ス、昨日揮毫セシ残余ノ絹本、又ハ扇面ニ揮毫ヲ試ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 午飧シテ、馬車ニテ\n        <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <persname corresp=\"#pers_平岡熙\">\n<surname> 平岡 </surname>\n<forename> 熙 </forename>\n</persname> 氏ノ来訪ニ接ス、 <orgname> 汽車製造会社 </orgname> ノ近況ヲ聞ク、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<orgname> 上武鉄道会社 </orgname> ノ事ニ付、現役員及 <persname corresp=\"#pers_山中\">\n<surname> 山中 </surname>\n</persname> 、 <persname corresp=\"#pers_諸井\">\n<surname> 諸井 </surname>\n</persname> 其他ノ諸氏来リ会ス、優先増資ノ事ヲ談ス、 <persname corresp=\"#pers_戸田宇八\">\n<surname> 戸田 </surname>\n<forename> 宇八 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 後 <persname corresp=\"#pers_藤山雷太\">\n<surname> 藤山 </surname>\n<forename> 雷太 </forename>\n</persname> 氏来 <pb corresp=\"#pageB1603\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/629/full/max/0/default.jpg\" n=\"B1603\" source=\"#pageB1603\"></pb> リ、大日本製糖会社ニ関シ昨年 <date evidence=\"year inferenced, day\" when=\"1910-08\"> 八月 </date> 以来整理ニ付テノ経過ヲ詳話セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_日本橋\"> 日本橋 </placename> 倶楽部ニ抵リ、月次会ノ饗宴ヲ受ク、卓上一場ノ演説ヲ為ス（ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 旅行中ニ感セシ要件ノ二三ヲ述ヘタリ）、食後種々ノ談話アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 過帰宿ス、後、書類ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1910-01-18T00:00+0900\"> 十二時\n       </time> 就寝ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

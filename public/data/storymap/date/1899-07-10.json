@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-07-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、此日ハ京釜鉄道ニ関シ委員会ヲ開クノ約アリシモ、病ノ為出席ヲ得サルニ付書ヲ送テ之ヲ謝ス、又 <orgname> 東京商業会議所 </orgname>\n       役員会ノ約アリシモ同シク謝絶ス、夜 <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ於テ <persname corresp=\"#pers_児玉\">\n<surname> 児玉 </surname>\n</persname> 総督歓迎ノ会アリシモ欠席ス此夜急症ニ喘息ヲ発シテ夜中殊ニ煩悶ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

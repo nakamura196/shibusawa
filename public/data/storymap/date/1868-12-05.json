@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-12-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 此日美晴、軽風殆晩春の候のことし、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time> 御上陸、 <placename corresp=\"#place_香港\">\n        香港 </placename> 街なる前に御止宿ありし西洋客舎ニ而御午餐、石見守、 <persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤太夫 </forename>\n</persname> 、 <persname corresp=\"#pers_菊池平八郎\">\n<forename> 平八郎 </forename>\n</persname> 、 <persname corresp=\"#pers_小出涌之助\">\n<forename> 涌之助 </forename>\n</persname> 御供、午飯後諸方御遊歩、第 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 22.267,
+                    "lon": 114.188,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time> 御帰船、本船の出帆第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time> のよし船将より申上置しか、石炭積入其外支度整兼しニ付暫時遅刻之由再ひ申上る、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\">\n        四時 </time> 本地出帆、海峡を出て地方に添ふて〓行す、風少しく天気よく船行平穏なり、夜濤路の左右に漁船数多を見る、本船の過る時は松火を点してこれを避く "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

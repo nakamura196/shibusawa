@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-11-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ、朝飧ヲ食シ、後、来人ニ接ス、又、数枚ノ額面ヲ揮毫ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\">\n        午前十時 </time> 事務所ニ抵リ、 <persname corresp=\"#pers_竹内\">\n<surname> 竹内 </surname>\n</persname> 、 <persname corresp=\"#pers_白石\">\n<forename> 白石 </forename>\n</persname> 二氏ノ来訪ニ接シ <placename corresp=\"#place_朝鮮\"> 朝鮮 </placename> 水道事業ノ事ヲ談ス、 <persname corresp=\"#pers_岸精一\">\n<surname> 岸 </surname>\n<forename> 精一 </forename>\n</persname> 氏《（ <persname corresp=\"#pers_岸清一\">\n<surname> 岸 </surname>\n<forename> 清一 </forename>\n</persname> ）》モ来会ス、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       人ウオール、オヘツト二氏来訪ス、其他種々ノ来人アリ、応接畢テ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<persname corresp=\"#pers_伏見宮\"> 伏見宮 </persname>\n       殿下ノ午飧会ニ陪席ス、宮内大臣モ来会セラル、市内実業家ニテ招致セラルヽ者三十名許リナリ、食後、 <persname corresp=\"#pers_中野武営\">\n<surname> 中野 </surname>\n<forename> 武営 </forename>\n</persname> 氏ヨリ株式取引所ノ事、余ト <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 、 <persname corresp=\"#pers_原富太郎\">\n<surname> 原 </surname>\n<forename> 富太郎 </forename>\n</persname> 三氏ハ生糸事業ノ沿革ヨリ現今ノ状況ヲ陳上シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 散会、直ニ <persname corresp=\"#pers_寺内\">\n<surname> 寺内 </surname>\n</persname> 総督ヲ訪ヒ <placename corresp=\"#place_京城府\"> 京城 </placename> 水道ノ事ヲ談シ、 <placename corresp=\"#place_木挽町\"> 木挽町 </placename> 河内屋ニ抵リテ、 <persname corresp=\"#pers_仙石\">\n<surname> 仙石 </surname>\n</persname> 、 <persname corresp=\"#pers_白石\">\n<surname> 白石 </surname>\n</persname> 、 <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 氏等ト水力電気ノ事ヲ談シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_上野\"> 上野 </placename>\n<orgname> 精養軒 </orgname> ニ抵リ <persname corresp=\"#pers_穂積陳重\">\n<surname> 穂積 </surname>\n<forename> 陳重 </forename>\n</persname> ノ催ニ係ル故 <persname corresp=\"#pers_貞三\">\n<forename> 貞三 </forename>\n</persname> ノ一年祭ニ出席ス、食卓上一場ノ哀悼詞ヲ述ヘ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過帰宿ス、家人悉ク同伴ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,94 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-04-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n       養育院ニ抵リ幹事以下ノ事務員ヲ会シテ旅行留守中事務取扱ニ関スル注意ヲ訓示ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<placename corresp=\"#place_小石川\"> 小石川 </placename>\n<orgname> 女子大学 </orgname> ニ抵《（ルカ）》リ各県知事来観ス、 <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯、 <persname corresp=\"#pers_近衛\">\n<surname> 近衛 </surname>\n</persname> 公、 <persname corresp=\"#pers_蜂須賀\">\n<surname> 蜂須賀 </surname>\n</persname> 侯其他ノ委員来会ス、各科授業ノ現況一覧ノ後、 <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯ト余トヨリ学校ノ沿革企望及会計等ノ事ヲ演説シ、畢テ一同庭前ニ於テ撮影ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7137833,
+                    "lon": 139.7487556,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ来人ニ接ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時\n       </time> 総理大臣官舎ヲ訪ヒ京釜鉄道ニ関スル社債ノ事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<orgname> 花月楼 </orgname> ニ抵リ <orgname> 正金銀行 </orgname> ヨリノ送別会ニ出席ス、 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 総理、 <persname corresp=\"#pers_曾禰\">\n<surname> 曾禰 </surname>\n</persname> 大蔵、 <persname corresp=\"#pers_小村\">\n<surname> 小村 </surname>\n</persname> 外務其他朝野ノ有力ナル諸氏来会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

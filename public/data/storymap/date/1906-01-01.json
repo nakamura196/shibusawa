@@ -1,0 +1,93 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-01-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、家人ノ新年祝賀ヲ受ケ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ畢リ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 九時半 </time>\n<persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ親戚及事務員等ノ祝賀ヲ受ク、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 十時半 </time>\n<orgname> 第一銀行 </orgname> ニ於テ行員一同ノ祝賀ヲ受ケ祝盃ヲ挙ク、畢テ再ヒ <placename corresp=\"#place_日本橋兜町\"> 兜町\n       </placename> 事務所ニ抵リテ午飧ヲ為ス、食後馬車ニテ <placename corresp=\"#place_新橋\"> 新橋 </placename> ニ抵リ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時三十分 </time> 発ノ汽車ニ搭ス、 <placename corresp=\"#place_国府津\"> 国府津 </placename>\n       ニ寒ヲ避クル為メナリ、汽車中多数ノ友人ニ邂逅ス、頗ル雑沓ヲ極ム、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.280139,
+                    "lon": 139.2116278,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 国府津館ニ到着ス <lb></lb> 夜、随鷗集ヲ読ム\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

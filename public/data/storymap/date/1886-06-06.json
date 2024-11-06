@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1886-06-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 、 <placename corresp=\"#place_大垣\"> 大垣 </placename>\n       ヲ発シテ汽車ニ搭ス、 <placename corresp=\"#place_関原\"> 関原 </placename> 、 <placename corresp=\"#place_春照\">\n        春照 </placename> 等ヲ経テ <placename corresp=\"#place_長浜\"> 長浜 </placename> ニ抵リ、再ヒ車ヲ転シテ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7716917,
+                    "lon": 139.7902417,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_敦賀\"> 敦賀 </placename> ニ至リ具足屋ニ投宿ス、此夜敦 <pb corresp=\"#pageB1061\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/87/full/max/0/default.jpg\" n=\"B1061\" source=\"#pageB1061\"></pb> 賀商估 <persname corresp=\"#pers_中村宗七\">\n<surname> 中村 </surname>\n<forename> 宗七 </forename>\n</persname> 、 <orgname> 三井銀行 </orgname> 員 <persname corresp=\"#pers_石田\">\n<surname> 石田 </surname>\n</persname> 某等来話ス、且地方商估一宴ヲ催シテ余カ談話ヲ乞フノ旨ヲ告ク "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

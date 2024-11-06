@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-12-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 七時半 </time>\n       、御供之内四人は飛脚船乗替手筈のため本船に来る、本地より御国迄の飛船はフワーズといふ飛船なり、船の製作異なりていと少さく部屋々などいと見苦しく覚ゆ <lb></lb>\n       御部屋及一同部屋等船中掛之者申談し、荷物の積替等相済、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 九時半 </time>\n       船中ニ而午飯、再上陸して客舎に至る、公子にも最早客舎にて午餐御済なれば、夫より一同御供にて美麗なる支那街を左に <orgname> 杏花楼 </orgname>\n       といふ酒食を饗する料理屋御越、午飯御試酒は雪梨花酒、梅柱酒及種々佳肴を饗す、風味稍御国の味をなせり、唯器皿の清潔ならさるを厭ふ、午飯後菓餅及酸薑抔買調へ、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 本船御乗組、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 五時半 </time> 頃 <placename corresp=\"#place_香港\"> 香港 </placename> 出帆、是迄御乗組ありし飛船より為御暇乞船将士官等罷出る <lb></lb>\n       半時間程島嶼間を〓行せしが、島多く夜中〓行危ふしとて、殊に天気あしく風強しとて〓行をとゝめ、此夜は島中に碇舶《（泊）》す "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 22.267,
+                    "lon": 114.188,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

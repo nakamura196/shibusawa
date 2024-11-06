@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-05-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、朝、 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 老人ノ病ヲ訪フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 過 <orgname> 東京商業会議所 </orgname>\n       会員有志ノ催シニ係ル各地会議所員招宴ノ為ニ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname>\n       ニ抵ル、午餐後経済財政ニ関スル問題ニ付テ協議会ヲ開キタルモ、議事ハ会議所議場ニ於テセントノ動議アリテ、直ニ会議所ニ抵リ、討論ノ後委員撰定ノ事トナリテ十五名ノ委員ヲ撰定シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> ニ閉会ス、畢テ華族会館ニ抵リ高野山興隆会ニ付テ九条公爵其他ノ人々ニ面話ス、 <persname corresp=\"#pers_小松宮\"> 小松宮 </persname> 殿下臨席セラレテ高野山保存ノ事ニ関スル趣旨ヲ口演セラル、畢テ <placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リ <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏ノ招宴ニ列ス、家族一同相会シテ各歓ヲ尽シテ去ル、夜 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

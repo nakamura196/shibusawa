@@ -1,0 +1,219 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-08-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 御出発、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time>\n       サンラサアール《西街道の汽車場》、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:05:00",
+                    "text": "<time when=\"09:05:00\"> 九時五ミニユート </time> 、同所御発軔、直ニ <placename corresp=\"#place_セーヌ\"> セイヌ </placename> 御渡り <lb></lb> ダニイールと名ク橋 <placename corresp=\"#place_セーヌ\">\n        セイヌ </placename> に架ス、長百六十メイトル、ポヲウルと云ふ鉄の類ニ而作ル、重サ百万キロ、鉄の突合せの捻ヂ三百十七ネヂ、直ニ <placename corresp=\"#place_ブゾン\"> Bezons </placename> といふ田舎 <placename corresp=\"#place_セーヌ\"> セーヌ\n       </placename> の河上に架するなり、川上に架す橋九ツニ連架せり、壱橋毎ニ三十メイトル宛あり、汽車道の左は総而大なる車輪を拵置、石を掘出し、 <placename corresp=\"#place_パリ\"> 巴里 </placename> に運輸す、其右手は田畑多く、小溝を貯、諸の野菜を作り出し、これを <placename corresp=\"#place_パリ\"> 巴里 </placename> に売る、尤富饒の土地ニ而景色も稍佳なり、村落毎ニ家富、人豊にして畑々の手入能行届けり <lb></lb>\n<placename corresp=\"#place_パリ\"> 巴里 </placename> より半時ニ而汽車サンセルマンの森中を経過ス <lb></lb> premiere station\n       de Paris. ou il y a grand marche ou bien laprobisionner《(provision)》 de bacherie《(boucherie)》\n       de Paris.il y a une maison de detention C'est ou l'on garde les hommes\n       condamnaient《(condamnes)》 a morts.pont sur＠a Seine 37 arche, les grandeurs qui ne sont pas\n       egales. "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 48.9333,
+                    "lon": 2.2167,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:15:00",
+                    "text": "<time when=\"10:15:00\"> 十時十五分 </time>\n<placename corresp=\"#place_Mantes\"> Mantes </placename> といふ所着、 <placename corresp=\"#place_パリ\"> 巴里 </placename> より十五里、tunnel de Manvoisin地道七百メイトルといふ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 48.86223,
+                    "lon": 2.351074,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:45:00",
+                    "text": "<time when=\"10:45:00\"> 十時四十五分 </time>\n<placename corresp=\"#place_Bueil\"> Bueil </placename> といふ所着、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:25:00",
+                    "text": "<time when=\"11:25:00\"> 十一時弐十五分\n       </time> Evreuxといふ一小市街に添ふて過る、汽車中ニ而午餐、しかも貯整たレハ、毎事餐肴の差支なし、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:45:00",
+                    "text": "<time when=\"11:45:00\"> 十一時四十五分\n       </time> Conches着、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_ボーモン＝ル＝ロジェ\"> Beaumont-le-Roger </placename> 着、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 49.0808333333,
+                    "lon": 0.778055555556,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:15:00",
+                    "text": "<time when=\"12:15:00\"> 十二時十五分 </time>\n<placename corresp=\"#place_Serquigny\"> Serquigny </placename>\n       着、小憩、此辺ポンムの樹多し、土地饒にして小山多し、樹木叢茂して風色美なり、此辺藁屋chaumiere多し、女牛羊を飼ふ、昔時は多く民家藁屋を用へしが、近来政府これを禁す、これ火災を恐るゝ為なり、唯牛羊を飼ふに用ふ、此辺多く獣畜を飼養ひ、\n        <placename corresp=\"#place_パリ\"> 巴里 </placename>\n       に鬻ふ、此辺草野多し、牛羊を養ふbdrage《(barrage)》を多く拵置て草野の乾燥せし節、水を草野《小水関門》に灑く、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 48.86223,
+                    "lon": 2.351074,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:40:00",
+                    "text": "<time when=\"12:40:00\"> 十二時四十分 </time>\n<placename corresp=\"#place_ベルネー\"> bernay《(Bernay)》 </placename> 着、一の市街なり、Il y a des\n       nombreuses fabriques des toiles第 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 49.0894444444,
+                    "lon": 0.599166666667,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time>\n<placename corresp=\"#place_Saint-Mards-orbec\"> Saint-Mards-orbec </placename> 着、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:20:00",
+                    "text": "<time when=\"13:20:00\"> 一時二十分 </time>\n<placename corresp=\"#place_リジュー\"> Lisieux </placename> 着、繁華の地也、麻の製作所多し、 <placename corresp=\"#place_パリ\"> 巴里 </placename> より四十八里、 <pb corresp=\"#pageB1002\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/28/full/max/0/default.jpg\" n=\"B1002\" source=\"#pageB1002\"></pb> a2 heures moins 15 nous avons passe d'assez longue tunnel\n       qui s'appelait Motte,elle a longueur de 2365 Metres第 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 49.1463888889,
+                    "lon": 0.226666666667,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<placename corresp=\"#place_Mezidon\"> Mezidon </placename> 着、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 二時半 </time>\n<placename corresp=\"#place_カーン\"> Cain《(Caen)》 </placename> 着、汽車乗替いたす、此地一小市街ニ而運船の便あり、第 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 49.18305556,
+                    "lon": -0.369444444,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:16:00",
+                    "text": "<time when=\"15:16:00\"> 三時十六分 </time>\n<placename corresp=\"#place_バイユー\"> Bayeux </placename> 着、第 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 49.279445,
+                    "lon": -0.702778,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:55:00",
+                    "text": "<time when=\"15:55:00\"> 三時五十五分 </time>\n<placename corresp=\"#place_Lison\"> Lison </placename> 着、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:10:00",
+                    "text": "<time when=\"16:10:00\"> 四時十分 </time>\n<placename corresp=\"#place_カランタン\"> Carentan </placename> 着、此辺原野多く牛馬ヲ養ふ、第 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 49.3041666667,
+                    "lon": -1.24694444444,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 五時半 </time>\n<placename corresp=\"#place_シェルブール＝オクトヴィル\"> Cherbourg </placename> 着、汽車場より公子江は <persname corresp=\"#pers_コロネル\"> コロネル </persname> 御供ニ而御旅宿御越、 <persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤太夫 </forename>\n</persname> 、 <persname corresp=\"#pers_菊池平八郎\">\n<forename> 平八郎 </forename>\n</persname>\n       荷物に附添ホテール・デ・ヨウロツパといふ客舎に至りしか、旅客多く部屋少しとて再市街を巡り、ホテール・デ・ユニベールといふ客舎御投館、此日暑気強く、午後は殊ニ其熱を覚ゆ、\n        <placename corresp=\"#place_シェルブール＝オクトヴィル\"> シヤルブール </placename> 御着後は稍凌能し、 <placename corresp=\"#place_Valognes\"> Valognes </placename>\n<placename corresp=\"#place_シェルブール＝オクトヴィル\"> シヤルブール </placename> 着、前之汽車休息所 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 49.633,
+                    "lon": -1.6167,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

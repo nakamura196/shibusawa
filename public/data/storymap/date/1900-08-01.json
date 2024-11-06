@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-08-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前 <persname corresp=\"#pers_北垣国道\">\n<surname> 北垣 </surname>\n<forename> 国道 </forename>\n</persname> 来ル、 <persname corresp=\"#pers_西尾\">\n<surname> 西尾 </surname>\n</persname> 某来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<orgname> 第一銀行 </orgname> ニ出勤シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 銀行集会所ニ於テ役員会ヲ開ク、 <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 、 <persname corresp=\"#pers_園田\">\n<surname> 園田 </surname>\n</persname> 、 <persname corresp=\"#pers_池田\">\n<surname> 池田 </surname>\n</persname> ノ諸氏来会ス、本季集会所予算ヲ協議ス、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<orgname> 日本銀行 </orgname> ニ抵リ <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 総裁ニ面会シテ交換所経費負担ノ事ヲ依頼ス、 <persname corresp=\"#pers_山中譲三\">\n<surname> 山中 </surname>\n<forename> 譲三 </forename>\n</persname> 氏ト共ニ交換所ヲ一覧ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<orgname> 東京商業会議所 </orgname> ニ於テ <placename corresp=\"#place_東京湾\"> 東京湾 </placename>\n       築港調査委員会ヲ開ク、夜ニ入テ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.417,
+                    "lon": 139.783,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

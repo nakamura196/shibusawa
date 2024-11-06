@@ -1,0 +1,108 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-04-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 過\n        <placename corresp=\"#place_小石川\"> 小石川 </placename>\n<placename corresp=\"#place_第六天町\"> 大六天《（第）》 </placename> ナル従一位公ノ邸ヲ訪ヒ拝眉ス、款談数刻、去リテ <placename corresp=\"#place_番町\"> 番町 </placename> ニ抵リ招魂社ヲ拝ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7137833,
+                    "lon": 139.7487556,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 英国公使ヲ訪フ、\n        <persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> 来会ス、蓋シ昨日電話ヲ以テ来会ヲ約セシ為メナリ公使 <persname corresp=\"#pers_マクトナード\">\n<surname> マクトナード </surname>\n</persname> ニ面会シ、余ノ海外行ニ関シ <placename corresp=\"#place_イギリス\"> 英国 </placename>\n       ニ添書ノ事ヲ依頼ス、又此度渡来セルヒセツトノ《（ <persname corresp=\"#pers_ビセツト\">\n<surname> ビセツト </surname>\n</persname> カ）》事ニ関シ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 米国公使ヲ訪ヒ同シク <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> ヘ添書ノ事ヲ依頼ス、去テ <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 侯爵ヲ <placename corresp=\"#place_芝山内\"> 芝山内 </placename>\n       ノ邸ニ訪ヒ海外行ニ関シ種々ノ忠告アリ、且将来ノ経済界及国運進張ノ策ヲ討議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 二氏ト行程ノ調査ヲ為ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<persname corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persname> 来《箱館船渠会社重役来会ス》ル、明日出立ノ由ナルヲ以テ、将来ノ事ニ関シ丁寧ニ余ノ意見ヲ述フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n       、 <persname corresp=\"#pers_日下義雄\">\n<surname> 日下 </surname>\n<forename> 義雄 </forename>\n</persname> 氏ヲ訪ヒ今夕 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 啓行ノ送別ヲ為シ、且、 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 公使、 <persname corresp=\"#pers_竹内綱\">\n<surname> 竹内 </surname>\n<forename> 綱 </forename>\n</persname> 其他ノ諸氏ニ詳細ナル伝言ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_田町_(東京都港区)\"> 田町 </placename>\n<persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏ヲ訪ヒ米国人 <persname corresp=\"#pers_チソン\">\n<surname> チソン </surname>\n</persname> 及 <persname corresp=\"#pers_ミラ\">\n<surname> ミラ </surname>\n</persname> 両氏ト会話ス、夜餐ヲ共ニシ、且瓦斯事業ニ関スル談話ヲ為ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

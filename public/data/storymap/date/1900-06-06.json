@@ -1,0 +1,59 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-06-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前 <persname corresp=\"#pers_田中太郎_(社会事業家)\">\n<surname> 田中 </surname>\n<forename> 太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 来ル、神戸市長 <persname corresp=\"#pers_鳴瀧幸恭\">\n<surname> 鳴滝 </surname>\n<forename> 幸恭 </forename>\n</persname> 氏来ル、 <persname corresp=\"#pers_モールス\">\n<surname> モールス </surname>\n</persname> 氏ニ関スル市債訴訟ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<persname corresp=\"#pers_山縣有朋\">\n<surname> 山県 </surname>\n</persname> 総理大臣ヲ <placename corresp=\"#place_目白\"> 目白 </placename>\n       椿山荘ニ訪ヒ京釜鉄道ノ命令書ニ関シ閣員ト委員トノ会見時日ヲ協議ス、午後東京市役所ニ抵リ市長及 <persname corresp=\"#pers_浦田\">\n<surname> 浦田 </surname>\n</persname> 氏ニ養育院ノ事并感化部ノ事ヲ談話ス、 <persname corresp=\"#pers_利光\">\n<surname> 利光 </surname>\n</persname> 、 <persname corresp=\"#pers_中島\">\n<surname> 中島 </surname>\n</persname> ノ諸氏傍ニ在テ之ヲ賛助ス、 <persname corresp=\"#pers_朝倉\">\n<surname> 朝倉 </surname>\n</persname> 氏ニ水道鉛管ノ事ヲ話ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7208528,
+                    "lon": 139.7095194,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<orgname> 日本郵船会社 </orgname> 重役会ニ列ス、畢テ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ北越鉄道会社重役会ニ列ス、 <persname corresp=\"#pers_渡邊嘉一\">\n<surname> 渡辺 </surname>\n<forename> 嘉一 </forename>\n</persname> 、 <persname corresp=\"#pers_末延道成\">\n<surname> 末延 </surname>\n<forename> 道成 </forename>\n</persname> 、 <persname corresp=\"#pers_前島密\">\n<surname> 前島 </surname>\n<forename> 密 </forename>\n</persname> 、 <persname corresp=\"#pers_原六郎\">\n<surname> 原 </surname>\n<forename> 六郎 </forename>\n</persname> 氏等来会ス、社務整理方法及増株手続等ノ事ヲ協議ス、夜 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

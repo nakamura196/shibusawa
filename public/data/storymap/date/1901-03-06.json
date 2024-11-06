@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-03-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 宅ニ帰ル、 <persname corresp=\"#pers_北村久義\">\n<surname> 北村 </surname>\n<forename> 久義 </forename>\n</persname> 来ル、三本木開墾会社ノ近状ヲ詳話ス、依テ将来施設ノ順序及社長 <persname corresp=\"#pers_野村\">\n<surname> 野村 </surname>\n</persname> 氏ヘノ注意ヲ告ク、 <persname corresp=\"#pers_須永\">\n<surname> 須永 </surname>\n</persname> 達来ル、 <orgname> 人造肥料会社 </orgname> ヘ添書シ遣ス、 <persname corresp=\"#pers_矢野由次郎\">\n<surname> 矢野 </surname>\n<forename> 由次郎 </forename>\n</persname> 来ル、経済界ト議会ノ停会ニ関スル意見ニ付要領ヲ指陳ス、 <persname corresp=\"#pers_長屋玄次郎\">\n<surname> 長屋 </surname>\n<forename> □次郎 </forename>\n</persname> 《（ <persname corresp=\"#pers_長屋玄次郎\">\n<surname> 長屋 </surname>\n<forename> 玄次郎 </forename>\n</persname> カ）》来ル、養育院医員ニ関スル評議書ヲ持参ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_岡村\">\n<surname> 岡村 </surname>\n</persname> 二氏ト共ニ <orgname> 成田銀行 </orgname> 営業ニ関スル近状ヲ談ス、更ニ <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏ノ請求ニヨリテ <persname corresp=\"#pers_宮部久\">\n<surname> 宮部 </surname>\n<forename> 久 </forename>\n</persname> 、 <persname corresp=\"#pers_阿部孝助\">\n<surname> 阿部 </surname>\n<forename> 孝助 </forename>\n</persname> 二氏其外ノ人ニ面会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<orgname> 第一銀行 </orgname> ニ出勤ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 深川区役所ニ抵リ区会ヲ開キ議事ヲ決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 有楽会ニ出席ス、銀行法案ニ関シテ種々ノ討論アリ、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯、 <persname corresp=\"#pers_松尾臣善\">\n<surname> 松尾 </surname>\n<forename> 臣善 </forename>\n</persname> 氏等出席ス、衆議ノ末委員ニ附托シテ再応調査セシムル事ニ決ス、次ニ国債証券買上償還法ヲ廃シ抽籤償還ニ改正セラレン事ニ付建議者ト <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 局長トノ間ニ再三ノ質問説明アリシモ終ニ決議ニ至ラサリキ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1901-03-07T00:00+0900\"> 十二時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス、 <persname corresp=\"#pers_末松\">\n<surname> 末松 </surname>\n</persname> 内務ノ使者トシテ <persname corresp=\"#pers_中根重一\">\n<surname> 中根 </surname>\n<forename> 重一 </forename>\n</persname> 有楽会ニ来リ内話スル所アリ、依テ帰宅後 <persname corresp=\"#pers_堀田正養\">\n<surname> 堀田 </surname>\n<forename> 正養 </forename>\n</persname> 氏ニ一書ヲ裁シ明朝発送ノ事ヲ命ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

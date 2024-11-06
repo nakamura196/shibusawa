@@ -1,0 +1,73 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-04-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 陰、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 前\n        <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵ル、 <orgname> 石川島造船所 </orgname>\n       重役会ヲ開キ浦賀船渠会社合併ノ事ヲ談ス <lb></lb>\n<pb corresp=\"#pageB1233\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/259/full/max/0/default.jpg\" n=\"B1233\" source=\"#pageB1233\"></pb>\n<lb></lb> 独乙人ケスレル氏、 <persname corresp=\"#pers_近藤陸三郎\">\n<surname> 近藤 </surname>\n<forename> 陸三郎 </forename>\n</persname> 氏来訪ス、ケスレルハ <placename corresp=\"#place_ドイツ\"> 独乙国 </placename>\n       シーメンス商会ノ代理人ニシテ電気技師ナリ、永ク本邦ニ在テ器械注文等ノ事ヲ担任スルモノナリ、依テ <persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> 留学ノ事ヲ談話シ、且之ヲ紹介ス <lb></lb> 埼玉県学生誘掖会理事来会《（衍）》シ、向後会員募集及資金確定ノ手続ヲ協議ス、 <persname corresp=\"#pers_佐野\">\n<surname> 佐野 </surname>\n</persname> 、 <persname corresp=\"#pers_竹井\">\n<surname> 竹井 </surname>\n</persname> 、 <persname corresp=\"#pers_吉田\">\n<surname> 吉田 </surname>\n</persname> 、 <persname corresp=\"#pers_諸井\">\n<surname> 諸井 </surname>\n</persname> 、 <persname corresp=\"#pers_福田\">\n<surname> 福田 </surname>\n</persname> 諸氏来会ス <lb></lb>\n"
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 同族会ヲ開ク、余カ留守中ノ事務処理ニ関スル要領ヲ説示ス三本木開墾業、 <placename corresp=\"#place_仙石原\"> 仙石原 </placename> 牧場、製紙会社、造船所ノ事ヲ詳述ス、 <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 夫婦悉ク来会ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.269639,
+                    "lon": 139.01025,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

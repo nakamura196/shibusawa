@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-11-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、此日ハ病稍愈ヘタルモ尚摂生ノ為一日ノ休養ヲ為シ、家ニ在テ書類ヲ整理シ、且 <placename corresp=\"#place_イギリス\"> 英国 </placename>\n       滞在ノ <persname corresp=\"#pers_清水\">\n<surname> 清水 </surname>\n</persname> 氏、 <placename corresp=\"#place_ドイツ\"> 独乙 </placename> 留学ノ <persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> ヘ送付スヘキ書状 <pb corresp=\"#pageB1286\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/312/full/max/0/default.jpg\" n=\"B1286\" source=\"#pageB1286\"></pb> ヲ裁ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

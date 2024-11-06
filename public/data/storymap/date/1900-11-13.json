@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-11-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前二三ノ来人ニ接ス、 <persname corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persname> 氏来リテ <placename corresp=\"#place_仁川\"> 仁川 </placename>\n       停車場地ノ事ヲ談ス、依テ今日公使、領事ト会見シテ其決局ヲ為サント欲セシモ、 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 公使近日 <placename corresp=\"#place_仁川\"> 仁川 </placename> ヘ来ルヘキ由ニテ其時ヲ約シテ止ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<persname corresp=\"#pers_ブラオン\">\n<surname> ブラオン </surname>\n</persname> 氏来ル、銀行応接所ニ於テ談話ス、 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 、 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 、 <persname corresp=\"#pers_原田\">\n<surname> 原田 </surname>\n</persname> 同席ス、過日協議セシ借款ニ関スル方法ニ付種々談話セシモ、了局ニ至ラスシテ更ニ <date when=\"1900-11-15\"> 十五日 </date>\n       午前ヲ約シテ止ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time> 公使館ニ抵リ午餐ノ饗宴ニ列ス、 <persname corresp=\"#pers_朴\">\n<surname> 朴 </surname>\n</persname> 外部、英米公使其他書記官、領事等来会ス、宴畢テ <placename corresp=\"#place_倭将台\"> 倭将台 </placename> ヲ散歩シテ\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 過旅宿ニ帰ル、釜山支店長 <persname corresp=\"#pers_荒井栄蔵\">\n<surname> 荒井 </surname>\n<forename> 栄蔵 </forename>\n</persname> 、 <placename corresp=\"#place_木浦\"> 木浦 </placename> 出張所主任 <persname corresp=\"#pers_西川太郎一\">\n<surname> 西川 </surname>\n<forename> 太郎一 </forename>\n</persname> 二氏来ル、 <persname corresp=\"#pers_西川\">\n<surname> 西川 </surname>\n</persname> ハ余カ <placename corresp=\"#place_木浦\"> 木浦 </placename>\n       寄港ノ事ヲ企望スル為メニ、同地商業会議所ノ決議ヲ持参セルモノナリ、且 <persname corresp=\"#pers_木村健夫\">\n<surname> 木村 </surname>\n<forename> 健夫 </forename>\n</persname> ナル者ヲモ同行セシ由ニテ頻ニ <placename corresp=\"#place_木浦\"> 木浦 </placename> 商業者ノ懇請ヲ述ヘラル、此夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半 </time> 領事館ニ抵リ夜餐ノ饗宴ニ列ス、 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 公使、 <persname corresp=\"#pers_山座\">\n<surname> 山座 </surname>\n</persname> 公使書記官、 <persname corresp=\"#pers_大江\">\n<surname> 大江 </surname>\n</persname> 、 <persname corresp=\"#pers_大三輪\">\n<surname> 大三輪 </surname>\n</persname> 、 <persname corresp=\"#pers_高島\">\n<surname> 高島 </surname>\n</persname> 、 <persname corresp=\"#pers_佐藤\">\n<surname> 佐藤 </surname>\n</persname> ノ諸氏来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

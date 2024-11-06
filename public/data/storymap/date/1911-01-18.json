@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-01-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シテ、朝飧ヲ食ス、後、 <placename corresp=\"#place_三本木\"> 三本木 </placename>\n<persname corresp=\"#pers_金子熊一\">\n<surname> 金子 </surname>\n<forename> 熊一 </forename>\n</persname> 氏来リ農場ノ状況ヲ報告ス、実業ノ世界記者 <persname corresp=\"#pers_木内荒治\">\n<surname> 木内 </surname>\n<forename> 荒治 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 事務 <pb corresp=\"#pageB1655\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/681/full/max/0/default.jpg\" n=\"B1655\" source=\"#pageB1655\"></pb> 所ニ抵リ事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time> 事務所ニテ午飧ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<orgname> 日本銀行 </orgname> 集会所ニ抵リ鮟鱇会ニ出席ス、 <persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> ノ諸氏来会ス、種々ノ余興アリ、食事畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過 <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、夜、新聞紙雑誌類ヲ読マシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

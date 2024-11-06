@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-11-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、少シク風アリ、午前三四ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_池之端\"> 池ノ端 </placename>\n<placename corresp=\"#place_茅町\"> 茅町 </placename>\n<persname corresp=\"#pers_浅田正文\">\n<surname> 浅田 </surname>\n<forename> 正文 </forename>\n</persname> 氏ヨリ抹茶ノ招宴アリテ参席ス、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 、 <persname corresp=\"#pers_朝吹英二\">\n<surname> 朝吹 </surname>\n<forename> 英二 </forename>\n</persname> 、 <persname corresp=\"#pers_山澄\">\n<surname> 山澄 </surname>\n</persname> 等来会ス、 <persname corresp=\"#pers_浅田\">\n<surname> 浅田 </surname>\n</persname> 氏ノ用意頗ル周到ナリ、壁間ノ書画及茶器等ニ至ルマテ皆名品珍器タリ、賓主歓ヲ尽シ夕 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7175194,
+                    "lon": 139.7690861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n       ニ至リテ散会ス、夫ヨリ日本橋倶楽部ニ於テ開カレタル水力電気会社委員会ニ列ス、 <persname corresp=\"#pers_富田\">\n<surname> 富田 </surname>\n</persname> 、 <persname corresp=\"#pers_柿沼\">\n<surname> 柿沼 </surname>\n</persname> 、 <persname corresp=\"#pers_銀林\">\n<surname> 銀林 </surname>\n</persname> ノ諸氏ト談話ス、此夜 <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

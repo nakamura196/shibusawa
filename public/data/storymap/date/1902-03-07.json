@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-03-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 過城南荘ニ抵リ\n        <persname corresp=\"#pers_島津\">\n<surname> 島津 </surname>\n</persname> 公爵、 <persname corresp=\"#pers_日下\">\n<surname> 日下 </surname>\n</persname> 、 <persname corresp=\"#pers_加藤\">\n<surname> 加藤 </surname>\n</persname> 、 <persname corresp=\"#pers_押川\">\n<surname> 押川 </surname>\n</persname> 、 <persname corresp=\"#pers_国友\">\n<surname> 国友 </surname>\n</persname> 等ノ諸氏ト朝鮮協会設立ノ手続ヲ協議ス、畢テ <orgname> 日本郵船会社 </orgname> ニ抵リ <persname corresp=\"#pers_近藤\">\n<surname> 近藤 </surname>\n</persname> 、 <persname corresp=\"#pers_加藤\">\n<surname> 加藤 </surname>\n</persname> 、 <persname corresp=\"#pers_早川\">\n<surname> 早川 </surname>\n</persname> 、 <persname corresp=\"#pers_園田\">\n<surname> 園田 </surname>\n</persname> 、 <persname corresp=\"#pers_岩永\">\n<surname> 岩永 </surname>\n</persname> 、 <persname corresp=\"#pers_白岩\">\n<surname> 白岩 </surname>\n</persname> ノ諸氏ト <placename corresp=\"#place_湖南\"> 湖南 </placename>\n       航路ニヨリテ一ノ汽船会社組織ノ事ヲ議シ、其株式募集及役員撰定等ノ事ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 侯爵ヲ訪ヒ帰国後初テ面会談話ス、且明夕ノ祝賀会ニ参席ヲ請ヒ又来ル <date when=\"1902-03-13\"> 十三日 </date> 歓迎会開設ノ事ヲ約ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ二三ノ来人ニ接ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時\n       </time> 銀行集会所ニ抵リ交換所ノ定時会ヲ開ク、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過 <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

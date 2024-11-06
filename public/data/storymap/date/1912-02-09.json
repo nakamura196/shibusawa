@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-02-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、半身浴ヲ為シテ後朝飧ヲ食ス、太陽記者 <persname corresp=\"#pers_安井正太郎\">\n<surname> 安井 </surname>\n<forename> 正太郎 </forename>\n</persname> 氏来リ陸海軍備整理上ノ事ヲ談ス、 <persname corresp=\"#pers_猪飼正為\">\n<surname> 猪飼 </surname>\n<forename> 正為 </forename>\n</persname> 氏来リ身上ノ事ニ付依頼アリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-03-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後直ニ入浴シ、畢テ朝飧ヲ為シ、食後四日市製紙会社ノ <persname corresp=\"#pers_九鬼\">\n<surname> 九鬼 </surname>\n</persname> 、 <persname corresp=\"#pers_重盛\">\n<surname> 重盛 </surname>\n</persname> 二氏来訪ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 午前十時半 </time> 東京倶楽部ニ抵リ <persname corresp=\"#pers_鶴原\">\n<surname> 鶴原 </surname>\n</persname> 氏ニ面会シ、銀行其他ニ関スル要務ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 午前十一時半 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ株主総会ヲ開ク、畢テ一同ト共ニ午飧シ、食後 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ニ抵リ来人ニ接シ書類ヲ調査ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ、陸軍凱旋ノ歓迎会終局ニ付慰労会ヲ開キ、来会者ニ会務ノ顚末ヲ報告シ、畢テ夜飧ヲ共ニス、 <persname corresp=\"#pers_尾崎\">\n<surname> 尾崎 </surname>\n</persname> 市長、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_荘田\">\n<surname> 荘田 </surname>\n</persname> 、 <persname corresp=\"#pers_加藤\">\n<surname> 加藤 </surname>\n</persname> 、 <persname corresp=\"#pers_岩出\">\n<surname> 岩出 </surname>\n</persname> 其他ノ諸氏来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 午後九時 </time> 散会帰路 <placename corresp=\"#place_番町\"> 番町 </placename> ニ友人ヲ訪ヒ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

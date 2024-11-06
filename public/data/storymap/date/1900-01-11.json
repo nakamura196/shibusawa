@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-01-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇又雨、午前 <persname corresp=\"#pers_堀越善重郎\">\n<surname> 堀越 </surname>\n<forename> 善重郎 </forename>\n</persname> 来ル、本年度計算報告ノ事ヲ協議ス、午後 <persname corresp=\"#pers_福島甲子三\">\n<surname> 福島 </surname>\n<forename> 甲子三 </forename>\n</persname> 来ル、瓦斯会社株主総会ノ順序ヲ談ス、明 <date evidence=\"year inferenced, month\" when=\"1900-01-12\">\n        十二日 </date> 重役会ヲ催ス旨ナルヲ以テ不参ノ事ヲ托シ遣ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

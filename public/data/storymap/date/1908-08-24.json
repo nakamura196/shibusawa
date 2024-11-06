@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-08-24",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シ、畢テ朝飧ヲ食シ、農場内ヲ散歩シテ飼養スル牛馬ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\">\n        十時 </time> 人車ニテ各地ヲ巡回ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n       家ニ還テ午飧ス各農場ノ土地頗ル膏腴ニシテ将来灌漑ノ設備ヲナサハ水田トナルモノ多キヲ覚フ、午飧後、放牧地ヨリ牛馬ヲ駆逐シ来ルヲ見ル、馬ハ百四五十頭ニシテ牛モ六七十頭ナリ、共ニ一場ニ入レテ人ノ縦覧ニ供ス、頗ル壮快ナリキ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n       頃ヨリアイヌ人ヲ集メテ熊祭ノ古式ヲ行ハシムアイヌノ老幼男女来会スル者三四十人、古老先ツ古食器ヲ陳列シ酒ヲ盛テ神ヲ祭ル、後、一ノ熊児ヲ場ノ中央ニ置テ多数ノアイヌ之ヲ巡リテ且ツ歌ヒ且ツ踊ル、其間約\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:30:00",
+                    "text": "<time when=\"13:30:00\"> 一時半 </time>\n       《（間脱カ）》、最後ニ場ノ中央ニ於テ熊ヲ絞殺スル真似シテ式ヲ畢ル、其様卑野ナレトモ亦古雅ノ趣アリキ、夕方ヨリ風邪気ナルニヨリ、夜食後、早々就寝ス <lb></lb>\n<pb corresp=\"#pageB1531\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/557/full/max/0/default.jpg\" n=\"B1531\" source=\"#pageB1531\"></pb>\n<lb></lb> （欄外） <lb></lb> ［あふものはみなあたらしき旅の空に布るき神代のさまも見るかな "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

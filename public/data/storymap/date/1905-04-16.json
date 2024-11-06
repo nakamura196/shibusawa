@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-04-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、庭園中ノ散歩ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ畢ル、食後\n        <placename corresp=\"#place_盛岡市\"> 盛岡 </placename>\n<persname corresp=\"#pers_小野敬三\">\n<surname> 小野 </surname>\n<forename> 敬三 </forename>\n</persname> 、 <persname corresp=\"#pers_太田小四郎\">\n<surname> 太田 </surname>\n<forename> 小四郎 </forename>\n</persname> 二氏来ル、 <orgname> 七十七銀行 </orgname> 関係ノ事ヲ談ス、 <persname corresp=\"#pers_綱島鉄蔵\">\n<surname> 綱島 </surname>\n<forename> 鉄蔵 </forename>\n</persname> 来ル、其身上ノ事ヲ談話ス、午飧後寒松堂ニ交友会アリテ出席ス、畢テ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 39.70208,
+                    "lon": 141.1545,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 過帰宅ス <lb></lb>\n       此日向島八百松ニ深川鷗盟会ノ春期会アリシモ、天気雨ナランノ恐アリシヲ以テ電話ニテ出席ヲ謝絶ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

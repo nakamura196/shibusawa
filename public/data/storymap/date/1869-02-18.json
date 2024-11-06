@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-02-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 仏行調物いたす、明 <date evidence=\"month inferenced\" type=\"旧暦\" when=\"1869-02-18\"> 十日 </date>\n       可罷出旨御目付より達書来ル、 <persname corresp=\"#pers_鵜飼弥一\">\n<surname> 鵜飼 </surname>\n<forename> 弥一 </forename>\n</persname> 来、夕方 <persname corresp=\"#pers_平岡四郎\">\n<surname> 平岡 </surname>\n<forename> 四郎 </forename>\n</persname> を訪ふ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

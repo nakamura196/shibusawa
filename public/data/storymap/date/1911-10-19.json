@@ -1,0 +1,95 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-10-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食シ、後、 <orgname> 高等商業学校 </orgname> 生徒四名ノ来訪ニ接ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 高商学校ニ抵リ、 <persname corresp=\"#pers_坪野\">\n<surname> 坪野 </surname>\n</persname> 校長ニ面会シテ来 <date evidence=\"year inferenced, month\" when=\"1911-10-24\"> 廿四日 </date>\n       商議員会開催ノ事ヲ談ス、且、過日 <persname corresp=\"#pers_福原\">\n<surname> 福原 </surname>\n</persname> 次官面話ノ顚末ヲ話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 事務所ニ於テ香上銀行横浜支店支配人ライト氏及監査役某氏ヲ接見シ、\n        <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏事業ニ関シテ種々ノ質問アリ、後、他ノ来客ニ接見ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト行務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:30:00",
+                    "text": "<time when=\"13:30:00\"> 午後一時半 </time>\n<placename corresp=\"#place_厩橋\"> 厩橋 </placename> 救世軍《（マヽ）》ニ於テ労働者紹介所ニ抵リ、其経営実況ヲ一覧ス、更ニ <placename corresp=\"#place_三崎町\"> 三崎町 </placename> 寄宿舎免囚保護及救世軍士官学校等ヲ一覧ス、 <persname corresp=\"#pers_山室軍平\">\n<surname> 山室 </surname>\n<forename> 軍平 </forename>\n</persname> 氏詳細ニ其取扱方ヲ説明ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.70444,
+                    "lon": 139.795,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_日本橋\"> 日本橋 </placename> 倶楽部ニ抵リ、 <persname corresp=\"#pers_菊地武徳\">\n<surname> 菊地 </surname>\n<forename> 武徳 </forename>\n</persname> 、 <persname corresp=\"#pers_澤田半之助\">\n<surname> 沢田 </surname>\n<forename> 半之助 </forename>\n</persname> 氏等発 <pb corresp=\"#pageB1704\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/730/full/max/0/default.jpg\" n=\"B1704\" source=\"#pageB1704\"></pb> 起ノ <placename corresp=\"#place_東京\"> 東京 </placename>\n       会館ノ事ニ関シテ来会者ニ意見ヲ陳述ス、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_日本\"> 日本 </placename> 倶楽部晩飧会ニ出席ス、来会者頗ル多シ、 <persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 首相、 <persname corresp=\"#pers_原敬\">\n<surname> 原 </surname>\n<forename> 敬 </forename>\n</persname> 、 <persname corresp=\"#pers_斎藤実\">\n<surname> 斎藤 </surname>\n<forename> 実 </forename>\n</persname> 、 <persname corresp=\"#pers_山本達雄_(政治家)\">\n<surname> 山本 </surname>\n<forename> 達雄 </forename>\n</persname> 諸氏来会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

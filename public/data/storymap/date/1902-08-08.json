@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-08-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 午前八時半 </time> 朝飧ヲ為ス、畢テ書類ヲ整頓シ郷書ヲ一読ス、午後 <persname corresp=\"#pers_渡辺専次郎\">\n<surname> 渡辺 </surname>\n<forename> 専次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_根岸練次郎\">\n<surname> 根岸 </surname>\n<forename> 練次郎 </forename>\n</persname> 等来ル、 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 、 <persname corresp=\"#pers_萩原源太郎\">\n<surname> 萩原 </surname>\n<forename> 源太郎 </forename>\n</persname> 来ル、 <persname corresp=\"#pers_清水泰吉\">\n<surname> 清水 </surname>\n<forename> 泰吉 </forename>\n</persname> 来ル、旅行中ノ事ヲ談話ス、夕方 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> ヲ伴フテハイデハークヲ散歩ス <lb></lb> （欄外） <lb></lb> ■■[img図]〓■此夜明日ノ礼典ヲ祝スル為メ市街ニ点灯多キヲ以テ、一覧ノ為散歩ヲ試ム、\n        <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> 、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 、 <persname corresp=\"#pers_西河\">\n<surname> 西河 </surname>\n</persname> 嬢同伴ス、王城近傍ニ抵リテ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

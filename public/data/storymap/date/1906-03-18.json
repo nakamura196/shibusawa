@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-03-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後理髪店ニ抵リシモ多人数来集スルヲ以テ、去テ庭園ノ散歩ヲ試ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 七時半 </time>\n<persname corresp=\"#pers_堀越鉄蔵\">\n<surname> 堀越 </surname>\n<forename> 鉄蔵 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 過 <persname corresp=\"#pers_高松豊吉\">\n<surname> 高松 </surname>\n<forename> 豊吉 </forename>\n</persname> 氏来リ瓦斯会社ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 過朝飧ヲ畢リ、 <persname corresp=\"#pers_浅田真五郎\">\n<surname> 浅田 </surname>\n<forename> 真五郎 </forename>\n</persname> 氏ノ来訪ニ接シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 養蚕講習所ノ祝賀会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\">\n        十二時 </time> 帰宅、午飧後、 <persname corresp=\"#pers_松井吉太郎\">\n<surname> 松井 </surname>\n<forename> 吉太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_皆川四二郎\">\n<surname> 皆川 </surname>\n<forename> 四二郎 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_柿沼谷蔵\">\n<surname> 柿沼 </surname>\n<forename> 谷蔵 </forename>\n</persname> 、 <persname corresp=\"#pers_小宮三代松\">\n<surname> 小宮 </surname>\n<forename> 三代松 </forename>\n</persname> 《（ <persname corresp=\"#pers_小宮三保松\">\n<surname> 小宮 </surname>\n<forename> 三保松 </forename>\n</persname> カ）》夫妻、 <persname corresp=\"#pers_清水百太郎\">\n<surname> 清水 </surname>\n<forename> 百太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_八十島樹次郎\">\n<surname> 八十島 </surname>\n<forename> 樹次郎 </forename>\n</persname> 氏等来話ス <lb></lb> 夕方 <persname corresp=\"#pers_松井吉太郎\">\n<surname> 松井 </surname>\n<forename> 吉太郎 </forename>\n</persname> 氏帰ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

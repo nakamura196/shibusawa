@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-10-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ、朝飧ヲ食ス、後、二三ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<orgname> 女子大学 </orgname> ニ抵リ、米人 <persname corresp=\"#pers_ラツセル\">\n<surname> ラツセル </surname>\n</persname> 、 <persname corresp=\"#pers_ホルト\">\n<surname> ホルト </surname>\n</persname> 夫妻ヲ案内シテ学校ヲ一覧セシム、 <persname corresp=\"#pers_成瀬\">\n<surname> 成瀬 </surname>\n</persname> 、 <persname corresp=\"#pers_麻生\">\n<surname> 麻生 </surname>\n</persname> 氏等同伴ス、晩香寮ニ抵リテ茶菓ヲ供シ、且、学校ノ沿革等ヲ談話ス、畢テ <placename corresp=\"#place_大塚\"> 大塚\n       </placename> 養育院ニ抵リ <persname corresp=\"#pers_安達\">\n<surname> 安達 </surname>\n</persname> 氏ノ案内ニテ各室ヲ見セシム、更ニ <placename corresp=\"#place_巣鴨\"> 巣鴨 </placename> 分院ニ抵リテ <persname corresp=\"#pers_高田\">\n<surname> 高田 </surname>\n</persname> 氏誘引シテ教場及居室等ヲ一覧セシム、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7337972,
+                    "lon": 139.7390889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n       曖依村荘ニ抵リ、他ノ来客ニ紹介シ、直ニ午飧会ヲ開ク、余興トシテ <placename corresp=\"#place_日本\"> 日本 </placename>\n       ト西洋トノ歌曲ヲ演ス、食事畢テ愛蓮堂ニテ談話ス、婦人ハ茶室ニテ点茶ス、夕方 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 頃散会ス、此夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 七時半 </time>\n<orgname> 日本銀行 </orgname> 社宅ニ於テ <persname corresp=\"#pers_高橋\">\n<surname> 高橋 </surname>\n</persname> 総裁ノ催フサレタル晩飧会アリ、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ出席ス、 <placename corresp=\"#place_日本\"> 日本 </placename> 料理ノ饗応アリ、余興数番、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散会、帰宿ス <lb></lb> （欄外） <lb></lb> ［ <placename corresp=\"#place_アメリカ合衆国\">\n        米国 </placename> 人招宴ニ付陪賓トシテ来会者二十人許リナリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

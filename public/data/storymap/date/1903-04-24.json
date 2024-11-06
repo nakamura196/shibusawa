@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-04-24",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 朝飧ヲ畢リ二三ノ来客ニ接シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n       博覧会場ニ抵リ美術館、加奈多館、運輸館等ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time> 西区出張所ニ抵リ <persname corresp=\"#pers_竹山\">\n<surname> 竹山 </surname>\n</persname> 氏ノ案内ニテ行務取扱方ヲ一覧シ、午飧後 <persname corresp=\"#pers_熊谷\">\n<surname> 熊谷 </surname>\n</persname> 氏ト共ニ安治川筋水上警察署ニ抵リ川蒸気船ニテ築港ノ工事ヲ一覧ス、畢テ <placename corresp=\"#place_堺市\"> 堺市\n       </placename> ニ抵リテ水族 <pb corresp=\"#pageB1305\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/331/full/max/0/default.jpg\" n=\"B1305\" source=\"#pageB1305\"></pb> 館ヲ一覧ス、水族館ニ抵ルニ先テ埠頭ニ於テ <persname corresp=\"#pers_藤本\">\n<surname> 藤本 </surname>\n</persname> 氏ノ園遊会アリ、蓋シ此日ノ築港及水族館等ノ遊覧ハ総テ <persname corresp=\"#pers_藤本\">\n<surname> 藤本 </surname>\n</persname> 氏ニ於テ来会銀行者ノ為ニ設クル所ニシテ、殊ニ <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯ト余トニ対シテ鄭重ノ饗応アリタリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_堺\"> 堺 </placename> 停車場ニテ汽車ニ搭シ <placename corresp=\"#place_難波\"> 難波\n       </placename> 停車場ニ抵リ、更ニ <placename corresp=\"#place_大阪\"> 大坂 </placename> 各銀行ノ催シタル饗宴ニ列スル為\n        <placename corresp=\"#place_道頓堀\"> 道頓堀 </placename> 富田屋ニ抵ル、来会者凡ソ六七十人許リ、日本料理ノ饗応アリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.6658083,
+                    "lon": 135.5010667,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 頃ヨリ <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ劇場ニ抵リ歌舞数番ヲ観テ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1903-04-25T00:00+0900\"> 十二時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

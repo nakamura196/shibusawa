@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-12-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、昨日来病少ク愈ヘタルニヨリ、半身浴ヲ為シテ、朝飧ヲ食シ、病褥ヲ撤去シ、来人ニ接ス、 <persname corresp=\"#pers_井口正之\">\n<surname> 井口 </surname>\n<forename> 正之 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ、浦賀船渠会社重役ヲ会シテ、 <persname corresp=\"#pers_町田豊千代\">\n<surname> 町田 </surname>\n<forename> 豊千代 </forename>\n</persname> 氏ヲ紹介シテ種々ノ談話ヲ為ス、畢テ銀行集会所ニ抵リ <placename corresp=\"#place_清\"> 清国 </placename> 学生貸費ノ事ヲ\n        <persname corresp=\"#pers_白岩\">\n<surname> 白岩 </surname>\n</persname> 氏ト談話ス、後、 <persname corresp=\"#pers_久摩俊泰\">\n<surname> 久摩 </surname>\n<forename> 俊泰 </forename>\n</persname> 氏ヲ集会所書記長ニ任スル旨ヲ雇員一同ヘ諭達ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧シ、後、行務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n       事務所ニ抵リ事務ヲ処理シ来人ニ接ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 過キ <placename corresp=\"#place_王子\"> 王子\n       </placename> ニ帰宿ス、夜飧後、新聞紙又桜田義挙録ヲ読マシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

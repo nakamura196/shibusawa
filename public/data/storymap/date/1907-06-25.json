@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-06-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床直ニ入浴シ、後、朝飧ヲ為ス、 <persname corresp=\"#pers_石井重任\">\n<surname> 石井 </surname>\n<forename> 重任 </forename>\n</persname> 氏来リ人造肥料事業協同ノ事ヲ請求セラル、 <persname corresp=\"#pers_石井\">\n<surname> 石井 </surname>\n</persname> 氏去テ後日記ヲ編成シ又演説筆記ヲ修正ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 東京瓦斯会社 </orgname> ニ抵リ重役会ニ出席シ要件ヲ議決ス、 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏ト浦賀船渠会社ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 事務所ニ抵リ <persname corresp=\"#pers_郷隆三郎\">\n<surname> 郷 </surname>\n<forename> 隆三郎 </forename>\n</persname> 氏ト会見ス紐克コンマーシヤル新聞記者来訪セラル、添書弐通ヲ認メ且ツ目下ノ経済意見ヲ概言ス、 <persname corresp=\"#pers_九鬼紋七\">\n<surname> 九鬼 </surname>\n<forename> 紋七 </forename>\n</persname> 氏来リ三重紡績会社ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename> ニ抵リ夜飧シ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過\n        <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

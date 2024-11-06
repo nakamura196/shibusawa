@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-01-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 美晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 新衣ヲ着ケ椒酒辛盤新年祝賀ノ来客ヲ受ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<orgname> 第一銀行 </orgname> ニ出勤シ行員一同ノ朝賀ヲ受ケ共ニ祝盃ヲ挙ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n       宴畢テ帰宅ス、午餐後 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:40:00",
+                    "text": "<time when=\"12:40:00\"> 十二時四十分 </time> ノ汽車ニ搭シテ <placename corresp=\"#place_大磯町\"> 大磯\n       </placename> ニ抵ル、汽車中雑沓甚シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 過キ長生館ニ投宿ス、 <persname corresp=\"#pers_皆川\">\n<surname> 皆川 </surname>\n</persname> 夫妻同伴ス、是レヨリ先児 <pb corresp=\"#pageB1173\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/199/full/max/0/default.jpg\" n=\"B1173\" source=\"#pageB1173\"></pb>\n<persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢秀雄\">\n<forename> 秀雄 </forename>\n</persname> 等同館ニ遣シ置キタルヲ以テ相会シテ共ニ笑談セリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1901-01-02T00:00+0900\"> 十二時 </time>\n       寝ニ就ク "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

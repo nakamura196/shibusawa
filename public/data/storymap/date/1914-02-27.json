@@ -1,0 +1,103 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-02-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、静坐入浴シテ朝飧ヲ食ス、畢テ二三ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time>\n<placename corresp=\"#place_第六天町\"> 大六天町《（第）》 </placename> ニ <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 公爵邸ヲ訪ヒ、貴族院ノ議事ニ関シテ要務ヲ談ス、夫ヨリ救済会ニ出席ス、 <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 、 <persname corresp=\"#pers_岡崎\">\n<surname> 岡崎 </surname>\n</persname> 、 <persname corresp=\"#pers_朝吹\">\n<surname> 朝吹 </surname>\n</persname> 、 <persname corresp=\"#pers_大橋\">\n<surname> 大橋 </surname>\n</persname> ノ諸氏来会ス、内務吏員ノ地方巡回ニ付要旨ヲ談スル為ナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n<persname corresp=\"#pers_三島\">\n<surname> 三島 </surname>\n</persname> 子爵ノ邸ヲ訪ヒ要務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、後、行務ヲ談ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 栃木県知事 <persname corresp=\"#pers_岡田\">\n<surname> 岡田 </surname>\n</persname> 氏来リ、 <placename corresp=\"#place_日光\"> 日光 </placename> 及 <placename corresp=\"#place_塩原\"> 塩原 </placename> 地方発展ノ事ニ付意見ヲ述ヘ会社設立ノ事ヲ縷陳セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時\n       </time> 頃事務所ニ抵リ庶務ヲ処理シ来人ニ接ス、 <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 、 <persname corresp=\"#pers_有賀\">\n<surname> 有賀 </surname>\n</persname> 二氏来リ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯ノ伝言アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 外務省ニ <persname corresp=\"#pers_牧野\">\n<surname> 牧野 </surname>\n</persname> 氏ヲ訪ヒ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 頃 <placename corresp=\"#place_曙町\"> 曙町\n       </placename> 学寮ニ抵リ論語会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時\n       </time> 帰宿、後、新聞紙ヲ一覧ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

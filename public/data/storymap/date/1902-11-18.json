@@ -1,0 +1,95 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-11-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起テ朝飧ヲ畢リ一二ノ書類ヲ調査シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時\n       </time> 外務大臣官舎ニ抵リ、 <persname corresp=\"#pers_芳川\">\n<surname> 芳川 </surname>\n</persname> 逓信、 <persname corresp=\"#pers_曾禰\">\n<surname> 曾禰 </surname>\n</persname> 大蔵、 <persname corresp=\"#pers_小村\">\n<surname> 小村 </surname>\n</persname> 外務ノ三相ト共ニ京釜鉄道会社々債ノ事ニ関シ <placename corresp=\"#place_イギリス\"> 英国 </placename>\n       ニ於テ談判セシ顚末ヲ陳ヘ、且将来ノ方法ヲ協議ス、 <persname corresp=\"#pers_曾禰\">\n<surname> 曾禰 </surname>\n</persname> 大蔵ニ於テ政府ヨリ金繰ヲ為シ、 <orgname> 興業銀行 </orgname> ノ手ヲ以テ四ケ年間ニ壱千万円丈ケ会社ニ貸付ノ事ヲ請求ス、更ニ\n        <persname corresp=\"#pers_芳川\">\n<surname> 芳川 </surname>\n</persname> 逓信ニ対シテ鉄道抵当法案ノ事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n       過海上保険会社ニ出席シテ重役会ニ列ス、逓信省ヨリ督促ニ係ル上納金ノ事ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 東京商業会議所 </orgname> ニ抵リ <placename corresp=\"#place_京都\"> 京都 </placename> 、 <placename corresp=\"#place_大阪\"> 大坂 </placename> 、 <placename corresp=\"#place_神戸\"> 神戸 </placename> 、\n        <placename corresp=\"#place_名古屋\"> 名古屋 </placename> 四会議所ノ人々ト会員資格ノ事ニ関シテ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 東京市役所ニ抵リ市長ニ面会ス、此日養育院ノ委員会アリシモ時間少クシテ出席スルヲ得サリキ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ来人ニ接ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時\n       </time> 貿易協会ヨリノ招宴ニ応シテ其事務所ニ抵リ宴会ニ列ス、一場ノ演説ヲ為ス、会員来集スル者五六十人余ナリシ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

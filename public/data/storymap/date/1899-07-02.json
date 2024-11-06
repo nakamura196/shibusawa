@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-07-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、朝、大学卒業生 <persname corresp=\"#pers_木村雄二\">\n<surname> 木村 </surname>\n<forename> 雄二 </forename>\n</persname> 来ル、肥料会社 <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 、煉瓦会社 <persname corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persname> 来ル、 <persname corresp=\"#pers_長谷川一彦\">\n<surname> 長谷川 </surname>\n<forename> 一彦 </forename>\n</persname> 来ル、横浜取引所ノ事ヲ依托ス、黒須町 <persname corresp=\"#pers_繁田満義\">\n<surname> 繁田 </surname>\n<forename> 満義 </forename>\n</persname> 来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<persname corresp=\"#pers_富永\">\n<surname> 富永 </surname>\n</persname> 氏ノ葬儀ニ会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 夫妻悉ク来ル、欧米行ニ関スル注意ノ件々ヲ書面ニテ <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ニ示ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

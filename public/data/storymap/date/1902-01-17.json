@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-01-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢リ一二ノ書状ヲ裁シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n       大蔵省ニ抵リ商業会議所委員ト共ニ会計法及会計規則改正ニ関スル条項ヲ、大臣、総務長官、理財局長、官房長、主計局長等ト談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時\n       </time> 過東京市役所ニ抵リ、 <persname corresp=\"#pers_浦田\">\n<surname> 浦田 </surname>\n</persname> 助役、 <persname corresp=\"#pers_長谷川\">\n<surname> 長谷川 </surname>\n</persname> 氏等ト養育院感化部ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ於テ数多ノ来人ニ接ス、 <persname corresp=\"#pers_竹井澹如\">\n<surname> 竹井 </surname>\n<forename> 澹如 </forename>\n</persname> 、英人 <persname corresp=\"#pers_キルビー\">\n<surname> キルビー </surname>\n</persname> 、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢成一郎\">\n<surname> 渋沢 </surname>\n<forename> 喜作 </forename>\n</persname> 、 <persname corresp=\"#pers_角田竹冷\">\n<surname> 角田 </surname>\n<forename> 真平 </forename>\n</persname> 等前後来訪、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 日本鉄道会社重役会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\">\n        午後五時 </time> 手形交換所組合銀行集会ニ出席ス、畢テ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

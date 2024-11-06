@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-05-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、朝、京坂鉄道会社創立委員会ヲ開ク、 <persname corresp=\"#pers_渡邊嘉一\">\n<surname> 渡辺 </surname>\n<forename> 嘉一 </forename>\n</persname> 、 <persname corresp=\"#pers_佐分利一嗣\">\n<surname> 佐分利 </surname>\n<forename> 一嗣 </forename>\n</persname> 、 <persname corresp=\"#pers_河村隆実\">\n<surname> 河村 </surname>\n<forename> 隆実 </forename>\n</persname> 、 <persname corresp=\"#pers_林策一郎\">\n<surname> 林 </surname>\n<forename> 策一郎 </forename>\n</persname> 氏等来会ス、 <persname corresp=\"#pers_霍原定吉\">\n<surname> 霍原 </surname>\n<forename> 定吉 </forename>\n</persname> 氏《（ <persname corresp=\"#pers_鶴原定吉\">\n<surname> 鶴原 </surname>\n<forename> 定吉 </forename>\n</persname> 氏）》来ル、 <placename corresp=\"#place_横浜\"> 横浜 </placename> 時計商ブルラル商会支配人来ル、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏来ル、浦賀船渠ノ事ヲ談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-04-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、例ニヨリ入浴シ、畢テ朝飧ヲ食ス、食後庭園ヲ散歩ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n<persname corresp=\"#pers_福田庫文司\">\n<surname> 福田 </surname>\n<forename> 庫文司 </forename>\n</persname> 氏来話ス、兄 <persname corresp=\"#pers_福田又一\">\n<forename> 又一 </forename>\n</persname> 氏衆議院議員候補ニ立タン為メ地方ニ添書ノ事ヲ依頼セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ来人ニ接シ又雑務ヲ処理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\">\n        正午 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧シ、食後、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト要務ヲ談ス、畢テ再ヒ事務所ニ抵リ書類ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 午後六時半 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename> ニ抵リテ夜飧シ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス <lb></lb>\n<placename corresp=\"#place_仙台\"> 仙台 </placename>\n<persname corresp=\"#pers_早川知寛\">\n<surname> 早川 </surname>\n<forename> 知寛 </forename>\n</persname> 氏 <orgname> 第一銀行 </orgname> ニ来話シ、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト共ニ <placename corresp=\"#place_仙台\"> 仙台 </placename>\n<orgname> 七十七銀行 </orgname> ノ事ヲ談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

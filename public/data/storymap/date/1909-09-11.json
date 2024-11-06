@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-09-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 、汽車 <placename corresp=\"#place_スポケーン\"> スホケン </placename>\n       市到着ス、昨夜来沿道ニ砂漠多クシテ塵埃車中ニ塡ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 47.67333,
+                    "lon": -117.41028,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 起床、支度ヲ整ヒ客室ニ抵ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       朝飧ヲ食シ、当市歓迎員ニ導カレテ先ツ商業会議所ニ抵リ、後、ホテル・スホケンニ投宿シ、市ノ歓迎員ト共ニ国立銀行及トラスト・コンペニーノ店ニ抵リ営業ノ実況ヲ視察ス、各店ヲ順次訪問シテ六行ヲ巡覧ス、且営業ノ概況ヲ質問ス、後、水力電気会社ニ抵リ、又、市内有名ノ河川ヲ見ル、畢テ商業会議所ニ於テ午飧ス、来会者二百名余ナリ、午飧畢リテ、市街ヲ自働車ニテ一巡シ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<persname corresp=\"#pers_クラル\">\n<surname> クラル </surname>\n</persname> 氏ノ庭園ニ開カレタル園遊会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 五時半 </time> 帰宿、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\">\n        午後七時 </time> 当地有名ナル割烹店ニ於テ商業会議所ノ催ニ係ル盛宴アリ、会スル者約二百名余、食卓上司会者ノ歓迎演説ニ対シテ答辞ヲ述ヘ、他ニ数名ノ演説アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1909-09-12T01:30+0900\"> 一時半 </time> 散会、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-06-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後日誌ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 七時半 </time> 朝飧ヲ喫ス、食後、数多ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\">\n        午前十一時 </time>\n<persname corresp=\"#pers_閔泳錡\">\n<surname> 閔 </surname>\n<forename> 泳錡 </forename>\n</persname> 氏《（ <persname corresp=\"#pers_閔泳綺\">\n<surname> 閔 </surname>\n<forename> 泳綺 </forename>\n</persname> 氏）》ヲ其居ニ訪ヒ <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 財政ニ関スル談話ヲ為ス、更ニ\n        <persname corresp=\"#pers_閔丙奭\">\n<surname> 閔 </surname>\n<forename> 丙奭 </forename>\n</persname> 、完順君等ヲ訪問シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time>\n<persname corresp=\"#pers_目賀田\">\n<surname> 目賀田 </surname>\n</persname> 顧問ノ官舎ニ抵リ午飧会ニ列席ス、畢テ <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n       諸官衙ニ抵リ大官連ニ面晤ス、最終ニ景福宮内ナ <pb corresp=\"#pageB1425\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/451/full/max/0/default.jpg\" n=\"B1425\" source=\"#pageB1425\"></pb> ル議政府ニ抵リ、 <persname corresp=\"#pers_朴\">\n<surname> 朴 </surname>\n</persname> 参政始、 <persname corresp=\"#pers_閔\">\n<surname> 閔 </surname>\n</persname> 度支《（部脱）》 、 <persname corresp=\"#pers_権\">\n<surname> 権 </surname>\n</persname> 農商工部、 <persname corresp=\"#pers_李\">\n<surname> 李 </surname>\n</persname> 内部等ノ諸大臣ニ面会ス、夕方旅舎ニ帰リテ夜飧ス、夜、明日 <placename corresp=\"#place_平壌\"> 平壌 </placename>\n       行ニ関スル手続ヲ行員ニ談話ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 39.031859,
+                    "lon": 125.753765,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

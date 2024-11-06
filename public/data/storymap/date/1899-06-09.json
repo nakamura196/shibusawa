@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-06-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前 <persname corresp=\"#pers_山縣有朋\">\n<surname> 山県 </surname>\n</persname> 総理、 <persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 大蔵大臣ノ官舎ヲ訪フ、外務省ニ於テ <persname corresp=\"#pers_三橋信方\">\n<surname> 三橋 </surname>\n<forename> 信 <pb corresp=\"#pageB1091\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/117/full/max/0/default.jpg\" n=\"B1091\" source=\"#pageB1091\"></pb> 方 </forename>\n</persname> 及 <persname corresp=\"#pers_杉村\">\n<surname> 杉村 </surname>\n</persname> 通商、 <persname corresp=\"#pers_内田\">\n<surname> 内田 </surname>\n</persname> 政務両局長ニ面会シ用務ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏邸ニ催ス処ノ英人 <persname corresp=\"#pers_テオシー\">\n<surname> テオシー </surname>\n</persname> 氏夫妻ノ招宴ニ列ス、款談数時、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 日本鉄道会社重役会ニ列ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 銀行集会所ニ抵リ法学博士 <persname corresp=\"#pers_梅\">\n<surname> 梅 </surname>\n</persname> 氏来会スル《（マヽ）》修正商法実施後ニ於ル銀行定款等ノ事ヲ議ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

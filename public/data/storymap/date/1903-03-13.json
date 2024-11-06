@@ -1,0 +1,73 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-03-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ更ニ商業会議所ニ抵リテ役員会ヲ開ク、畢テ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ於テ <placename corresp=\"#place_アメリカ合衆国\"> 米国\n       </placename> 相互保険会社横浜支店員ベツツ氏及 <persname corresp=\"#pers_雨森\">\n<surname> 雨森 </surname>\n</persname> 、 <persname corresp=\"#pers_山崎\">\n<surname> 山崎 </surname>\n</persname> ノ諸氏ト会話ス、畢テ <persname corresp=\"#pers_雨宮\">\n<surname> 雨宮 </surname>\n</persname> 、 <persname corresp=\"#pers_森\">\n<surname> 森 </surname>\n</persname> 、 <persname corresp=\"#pers_小松\">\n<surname> 小松 </surname>\n</persname> 、 <persname corresp=\"#pers_北村\">\n<surname> 北村 </surname>\n</persname> 米沢ノ諸氏来リ扶桑銀行ノ事ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<persname corresp=\"#pers_山辺丈夫\">\n<surname> 山辺 </surname>\n<forename> 丈夫 </forename>\n</persname> 、 <persname corresp=\"#pers_斎藤恒三\">\n<surname> 斎藤 </surname>\n<forename> 恒三 </forename>\n</persname> 及 <persname corresp=\"#pers_広瀬満正\">\n<surname> 広瀬 </surname>\n<forename> 満正 </forename>\n</persname> 氏等ト <orgname> 銀行倶楽部 </orgname> ニ於テ午飧シ、且大坂紡績会社ノ事ヲ談ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時\n       </time> 再ヒ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 宅ニ於テ事務ヲ処理シ、夜 <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

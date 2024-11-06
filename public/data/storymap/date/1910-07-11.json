@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-07-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シ畢テ朝飧ヲ食ス、 <persname corresp=\"#pers_中村千代松\">\n<surname> 中村 </surname>\n<forename> 千代松 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:20:00",
+                    "text": "<time when=\"08:20:00\"> 午前八時二十分 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> 発汽車ニテ <placename corresp=\"#place_八基村\"> 八基村\n       </placename> ニ抵リ、 <persname corresp=\"#pers_清光院\"> 清光院 </persname>\n       ノ七七忌日ニ参列シテ墳墓ニ詣ス、僧侶近親会スル者四五十人許リ、共ニ午飧シテ後、往事ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 36.23331,
+                    "lon": 139.26167,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:30:00",
+                    "text": "<time when=\"16:30:00\"> 午後四時半 </time>\n<placename corresp=\"#place_深谷\"> 深谷 </placename> 発ノ汽車ニテ帰京、此日、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> 《（マヽ）》に <persname corresp=\"#pers_明石愛子\">\n<forename> 愛子 </forename>\n</persname> 同伴、 <placename corresp=\"#place_三田\"> 三田 </placename> ニテモ <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 夫妻、 <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 等皆来会ス、帰京後、 <persname corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_桜井寅之助\">\n<surname> 桜井 </surname>\n<forename> 寅之助 </forename>\n</persname> 二氏来話ス、 <persname corresp=\"#pers_桜井\">\n<surname> 桜井 </surname>\n</persname> 氏ハ <placename corresp=\"#place_米沢\"> 米沢 </placename> 地方ヘ高等工業学校創設ノ為メニ赴任スルニ付種々ノ談話アリ、夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 辞去ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

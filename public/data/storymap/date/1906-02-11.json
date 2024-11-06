@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-02-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後書斎ニ於テ書類ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ畢リ新聞紙ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時\n       </time> 過麻布ニ抵リ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ヲ訪フモ不在面会ヲ得ス、 <persname corresp=\"#pers_乃木希典\">\n<surname> 乃木 </surname> 大将 </persname> ヲ訪ヒ <date evidence=\"year inferenced, month\" when=\"1906-02-16\"> 十六日 </date> 歓迎会ニ臨場ノ事ヲ乞フ、更ニ <persname corresp=\"#pers_野津\">\n<surname> 野津 </surname>\n</persname> 、川村両大将ヲ訪問シ同シク執事ニ口演シテ去ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 牛込 <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 氏ヲ訪ヒ午飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n       埼玉学友会ニ出席シ教育勅語ヲ奉読シ、生徒ニ賞品ヲ授与シ、畢テ一場ノ訓戒演説ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 帰宅、夫ヨリ兼テ催フシタル\n        <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 氏ノ祝宴ヲ開ク、親族悉ク来会ス、種々ノ余興アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:30:00",
+                    "text": "<time when=\"22:30:00\"> 十時半 </time> 散会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

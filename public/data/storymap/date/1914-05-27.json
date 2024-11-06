@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-05-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ茶ヲ喫シ、直ニ旅装ノ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time>\n       過朝飧ヲ食シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 旅宿ニ接近セル <placename corresp=\"#place_天津市\"> 天津\n       </placename> 行停車場ニ抵ル、送別ノ為メ来会スル者極テ多シ、 <persname corresp=\"#pers_山座\">\n<surname> 山座 </surname>\n</persname> 公使公使及公使館員、 <placename corresp=\"#place_支那\"> 支那 </placename>\n       官憲ニテハ各部ノ総長、次官、自身又ハ代理ニテ来リテ行ヲ送ル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 39.12361,
+                    "lon": 117.19806,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時三十分 </time> 発車、一行ニ <persname corresp=\"#pers_尾崎\">\n<surname> 尾崎 </surname>\n</persname> 、 <persname corresp=\"#pers_森\">\n<surname> 森 </surname>\n</persname> 二氏モ同行ス、特別列車ヲ以テ一同会談自由ヲ得ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n<placename corresp=\"#place_天津市\"> 天津 </placename> ニ抵ル、 <placename corresp=\"#place_天津市\"> 天津\n       </placename> 前ノ停車場ニ駐屯軍司令官来リ迎フ、 <placename corresp=\"#place_天津市\"> 天津 </placename>\n       停車場ニハ総領事ヲ始メ領事館員及各商店ノ主任并 <placename corresp=\"#place_支那\"> 支那 </placename>\n       官憲ノ人士、商務総会ノ人々等多数来リ迎フ、副領事ノ案内ニテアストル旅館ニ投宿ス、休息後総領事館ニ抵リ、一同午飧ノ饗応ヲ受ク、洋食ノ調理甚タ佳ナリ食後、 <persname corresp=\"#pers_窪田\">\n<surname> 窪田 </surname>\n</persname>\n       総領事ノ案内ニテ朱都督ヲ其衙門ニ往訪ス、種々ノ談話ヲ交換シ、更ニ警察署長ヲ訪問ス、帰途自働車中ニテ気分悪シク、旅宿ニ帰リテ休憩ス、此日、炎熱強ク且風塵多クシテ気息奄々タリ、暫時ニシテ都督ノ来訪アリ、強テ之ニ面会シ、其帰去スルヤ直ニ衣服ヲ更メテ褥中ニ臥ス、\n        <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師ノ診察ヲ受ケ静養ニ勉ム、此夕、居留民ノ歓迎会ハ故ヲ以テ欠席ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 39.12361,
+                    "lon": 117.19806,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

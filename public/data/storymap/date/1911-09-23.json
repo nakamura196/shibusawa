@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-09-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ、朝飧ヲ食シ、後、書状数通ヲ裁ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時\n       </time> 過一雑誌記者ノ来訪ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 事務所ニ抵リ書類ヲ点撿シ又事務ヲ処理ス、 <persname corresp=\"#pers_渋沢義一\">\n<surname> 渋沢 </surname>\n<forename> 義一 </forename>\n</persname> 氏来リ生方店員増俸《（糸脱カ）》ノ事ヲ談ス、 <persname corresp=\"#pers_川田鉄弥\">\n<surname> 川田 </surname>\n<forename> 鉄弥 </forename>\n</persname> 氏来リ <orgname> 高千穂学校 </orgname> ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、後、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト行務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n       過再ヒ事務所ニ抵リ書状ヲ認メ来書ヲ一覧ス、又中央公論記者ヨリ送ラレタル新蔵相ニ関スル評論ノ字句ヲ修正ス、 <persname corresp=\"#pers_小熊信六\">\n<surname> 小熊 </surname>\n<forename> 信六 </forename>\n</persname> 氏来ル、 <persname corresp=\"#pers_井上準之助\">\n<surname> 井上 </surname>\n<forename> 準之助 </forename>\n</persname> 氏来話ス、明後日 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 人招宴ノ事ニ付種々ノ協議ヲ為ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 午後六時半 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、夜飧後、雑誌又ハ他ノ書類ヲ読ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

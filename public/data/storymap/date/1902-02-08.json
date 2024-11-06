@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-02-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<orgname> 女子大学 </orgname> 書記 <persname corresp=\"#pers_堤\">\n<surname> 堤 </surname>\n</persname> 氏《（ <persname corresp=\"#pers_塘\">\n<surname> 塘 </surname>\n</persname> 氏）》来リ建築ノ事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<persname corresp=\"#pers_穂積陳重\">\n<surname> 穂積 </surname>\n<forename> 陳重 </forename>\n</persname>\n<pb corresp=\"#pageB1222\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/248/full/max/0/default.jpg\" n=\"B1222\" source=\"#pageB1222\"></pb> 来リ商業学校教員ノ説諭ニ関シ、大臣ヨリノ依頼アリシ趣旨ヲ伝ヘラル、依テ <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> ニ電話シテ明日教員数名ニ会見ノ事ヲ申遣ス、此日モ風邪全愈ニ至ラス、褥ニ在テ書類ヲ調査ス、午後 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

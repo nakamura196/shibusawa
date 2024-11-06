@@ -1,0 +1,66 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-09-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 汽車 <placename corresp=\"#place_ミネアポリス\"> ミネヤホリス\n       </placename> ニ着ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 44.98,
+                    "lon": -93.26417,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ畢リ、歓迎者ノ案内ニテ旅館ニ抵リ、衣服ヲ改メ直ニ電車ニテ <persname corresp=\"#pers_タフト\">\n<surname> タフト </surname>\n</persname> 大統領ノ滞在スル湖水ニ沿フタル一倶楽部ニ抵リ、謁見ノ式アリ、一行各握手ノ礼ヲ為ス、畢テ食卓ヲ共ニシテ午飧ス、余ハ <persname corresp=\"#pers_タフト\">\n<surname> タフト </surname>\n</persname> 氏ノ隣ニ席ヲ占ム、今日ノ会長ハ <placename corresp=\"#place_ミネアポリス\"> ミネヤホリス </placename> ノ人ニテ\n        <persname corresp=\"#pers_ネルソン\">\n<surname> ネルソン </surname>\n</persname> 氏ト云フ、食事畢テ司会者ノ演説アリ、後、余ハ <persname corresp=\"#pers_タフト\">\n<surname> タフト </surname>\n</persname> 氏ニ対シテ答辞演説ヲ為ス、宴会畢テ <persname corresp=\"#pers_タフト\">\n<surname> タフト </surname>\n</persname> 氏先ツ席ヲ去リ、後、一行モ <placename corresp=\"#place_ミネアポリス\"> ミネヤホリス </placename>\n       ニ帰リ、二三ノ工場ヲ一覧ス夜、地方人ノ催ニ係ル饗宴アリ、司会者ノ挨拶ニ次テ一場ノ答辞演説ヲ為ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 44.98,
+                    "lon": -93.26417,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 散会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

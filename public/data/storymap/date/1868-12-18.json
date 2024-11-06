@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-12-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤太夫 </forename>\n</persname> は <persname corresp=\"#pers_杉浦譲\">\n<forename> 愛蔵 </forename>\n</persname> 同行ニ而 <placename corresp=\"#place_フランス\"> 仏国 </placename>\n       公使館に罷越し、治部助面会、公子仏館御越なき挨拶いたし、夫より御買上物及御為替金手筈いたす、 <persname corresp=\"#pers_儀左衛門\">\n<forename> 儀左衛門 </forename>\n</persname> は御残荷物四箇を飛船会社ニ而請取、積出し取計、夕方 <placename corresp=\"#place_横浜\"> 横浜 </placename>\n       出立、三人同行、竹兜子ニ而 <placename corresp=\"#place_金川\"> 金川 </placename> 着、 <persname corresp=\"#pers_鈴木\">\n<surname> 鈴木 </surname>\n</persname> といふ客舎一泊 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

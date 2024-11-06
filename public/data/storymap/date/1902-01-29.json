@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-01-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 、 <placename corresp=\"#place_白金\"> 白金 </placename>\n<persname corresp=\"#pers_渋沢成一郎\">\n<surname> 渋沢 </surname>\n<forename> 喜作 </forename>\n</persname> 及三十九銀行ノ諸氏来会ス、昨日ノ請願ニ関シ更ニ請フ処アルヲ以テナリ、畢テ旧里ヨリ出京セシ <persname corresp=\"#pers_橋本\">\n<surname> 橋本 </surname>\n</persname> 某、 <persname corresp=\"#pers_大和屋\">\n<surname> 大和屋 </surname>\n</persname> 某ノ両氏ニ面会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 農商務省ニ抵リ <persname corresp=\"#pers_木内\">\n<surname> 木内 </surname>\n</persname> 商工局長ニ面会シテ商業会議所条例改正ノ事ヲ談ス、 <persname corresp=\"#pers_萩原源太郎\">\n<surname> 萩原 </surname>\n<forename> 源太郎 </forename>\n</persname> 氏同伴ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<orgname> 日本郵船会社 </orgname> ニ抵リ、更ニ本所ナル <orgname> 汽車製造合資会社 </orgname> 々員総会ニ出席ス、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<orgname> 第一銀行 </orgname> ニ出勤シ重役会ヲ開ク、議事畢テ三十九銀行諸氏ニ面会シ又 <persname corresp=\"#pers_白岩竜平\">\n<surname> 白岩 </surname>\n<forename> 竜平 </forename>\n</persname> 氏ニ面話ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

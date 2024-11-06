@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-03-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏来訪ス、共ニ自働車ニテ三井集会所ニ抵リ、 <persname corresp=\"#pers_孫文\">\n<surname> 孫 </surname>\n<forename> 文 </forename>\n</persname> 氏ト日支合弁会社設立ノ事ヲ協議ス、申合書ノ草案ニヨリテ逐条ヲ談判ス、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 、 <persname corresp=\"#pers_大倉喜八郎\">\n<surname> 大倉 </surname>\n<forename> 喜八郎 </forename>\n</persname> 、 <persname corresp=\"#pers_山本条太郎\">\n<surname> 山本 </surname>\n<forename> 条太郎 </forename>\n</persname> 氏来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time> 談話畢テ散会ス、後、 <orgname> 第一銀行 </orgname>\n       ニ抵リ午飧ス、午後事務所ニ抵リテ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 停車場ニ抵リ <persname corresp=\"#pers_成瀬仁蔵\">\n<surname> 成瀬 </surname>\n<forename> 仁蔵 </forename>\n</persname> 氏ノ帰朝ヲ歓迎ス、昨年 <date evidence=\"year inferenced, day\" when=\"1913-08\"> 八月 </date>\n<orgname> 女子大学 </orgname> ノ為メ欧米行ヲ為シタルナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<persname corresp=\"#pers_川田鉄弥\">\n<surname> 川田 </surname>\n<forename> 鉄弥 </forename>\n</persname> 氏ト堀ノ内ノ土地ヲ一覧ス、 <persname corresp=\"#pers_小池国三\">\n<surname> 小池 </surname>\n<forename> 国三 </forename>\n</persname> 氏同行ス、畢テ <placename corresp=\"#place_富士見町\"> 富士見町 </placename> ニ抵リ、富士見軒ニ於テ <persname corresp=\"#pers_森村開作\">\n<surname> 森村 </surname>\n<forename> 開作 </forename>\n</persname> 、 <persname corresp=\"#pers_葛西\">\n<surname> 葛西 </surname>\n</persname> 二氏モ来会シ、 <orgname> 高千穂学校 </orgname> ノ将来ニ付種々ノ協議ヲ為ス、夜飧後他ニ一友人ヲ訪ヘ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:30:00",
+                    "text": "<time when=\"21:30:00\"> 九時半 </time> 帰宿ス、後、新聞紙ヲ一覧ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

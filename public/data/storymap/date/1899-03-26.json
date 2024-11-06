@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-03-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、朝、 <persname corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persname> 来、煉瓦会社事務ヲ話ス、 <persname corresp=\"#pers_金子\">\n<surname> 金子 </surname>\n</persname> 、 <persname corresp=\"#pers_富永\">\n<surname> 富永 </surname>\n</persname> 両氏、 <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 、 <persname corresp=\"#pers_渡辺甚吉\">\n<surname> 渡辺 </surname>\n<forename> 甚吉 </forename>\n</persname> 氏ヘ書状ヲ発ス、 <orgname> 十勝開墾会社 </orgname> 重役会ヲ開キ <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏、同姓 <persname corresp=\"#pers_渋沢成一郎\">\n<forename> 喜作 </forename>\n</persname> 其他 <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> 、 <persname corresp=\"#pers_町村\">\n<surname> 町村 </surname>\n</persname> 、 <persname corresp=\"#pers_小田\">\n<surname> 小田 </surname>\n</persname> ノ数氏来ル、瓦斯会社 <persname corresp=\"#pers_福島\">\n<surname> 福島 </surname>\n</persname> 氏、銀行書記 <persname corresp=\"#pers_清水\">\n<surname> 清水 </surname>\n</persname> 氏来ル <lb></lb>\n<pb corresp=\"#pageB1082\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/108/full/max/0/default.jpg\" n=\"B1082\" source=\"#pageB1082\"></pb>\n<lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename> 瓢屋ニ於テ <persname corresp=\"#pers_平岡熙\">\n<surname> 平岡 </surname>\n<forename> 熙 </forename>\n</persname> 氏催ス処ノ宴会ニ列ス、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯、 <persname corresp=\"#pers_後藤\">\n<surname> 後藤 </surname>\n</persname> 台湾民政局長官、 <persname corresp=\"#pers_大倉喜八郎\">\n<surname> 大倉 </surname>\n<forename> 喜八郎 </forename>\n</persname> 氏等来会ス、此夜雨甚シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過 <placename corresp=\"#place_浜町\">\n        浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

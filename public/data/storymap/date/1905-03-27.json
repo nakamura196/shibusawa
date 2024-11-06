@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-03-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、風邪気尚未タ全愈セサルヲ以テ、終日褥中ニ在テ、新聞紙其他ノ書類ヲ一覧ス <lb></lb> 此日、\n        <persname corresp=\"#pers_大川平三郎\">\n<surname> 大川 </surname>\n<forename> 平三郎 </forename>\n</persname> ノ家ニ仏事アリテ会同ヲ乞ハレシモ病ヲ以テ之ヲ謝シ、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ノミ臨席ス <lb></lb>\n<persname corresp=\"#pers_朝山豊子\">\n<surname> 朝山 </surname>\n<forename> 豊子 </forename>\n</persname> 来リ家事ヲ話ス <lb></lb> 夕方、 <placename corresp=\"#place_東京\"> 東京 </placename> 事務所ヨリ書類数多来ル\n       <lb></lb> 看護婦 <persname corresp=\"#pers_平野\">\n<surname> 平野 </surname>\n</persname> ヲシテ <placename corresp=\"#place_東京\"> 東京 </placename> 病院ニ遣シ久尾ノ病ヲ訪ハシム、夕方帰来シテ病状ヲ報告ス\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

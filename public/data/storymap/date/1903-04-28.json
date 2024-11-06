@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-04-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝晴午後雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢リ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n       京都綿ネル会社ニ抵リ工場ヲ一覧ス、社長 <persname corresp=\"#pers_辻忠三郎\">\n<surname> 辻 </surname>\n<forename> 忠三郎 </forename>\n</persname> 、支配人 <persname corresp=\"#pers_小林銀三\">\n<surname> 小林 </surname>\n<forename> 銀三 </forename>\n</persname> 氏等工場ヲ案内シテ営業ノ景況 <pb corresp=\"#pageB1306\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/332/full/max/0/default.jpg\" n=\"B1306\" source=\"#pageB1306\"></pb> ヲ説明ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 織物会社ニ抵リ <persname corresp=\"#pers_田中源太郎\">\n<surname> 田中 </surname>\n<forename> 源太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_渡辺伊之助\">\n<surname> 渡辺 </surname>\n<forename> 伊之助 </forename>\n</persname> 氏等ニ面会シ工場ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time> 瓢亭ニテ午飧ス、食後博覧会場、美術展観場等ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<orgname> 玉川楼 </orgname> ニ帰宿ス、 <persname corresp=\"#pers_菊地市太郎\">\n<surname> 菊地 </surname>\n<forename> 市太郎 </forename>\n</persname> 来ル、 <persname corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persname> 、 <persname corresp=\"#pers_北川俊二\">\n<surname> 北川 </surname>\n<forename> 俊二 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_北川\">\n<surname> 北川 </surname>\n</persname> 氏ハ <date evidence=\"year inferenced, month\" when=\"1903-05-03\"> 来月三日 </date> 発ノ汽船ニテ\n        <placename corresp=\"#place_ドイツ\"> 独乙 </placename>\n       ニ渡航スルニヨリ調査事務打合ノ為且告別トシテ来訪セラレタルナリ、依テ種々ノ協議ヲ為シテ別ヲ告ク "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-09-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後腰部ノ入浴ヲ為シ、畢テ読書ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 過朝飧ヲ食シ、旅装ヲ整ヘ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\">\n        八時 </time> 客舎ヲ発シ、竹輿ヲ買フテ山ヲ下ル、 <placename corresp=\"#place_宮ノ下\"> 宮ノ下 </placename> 富士屋ニ抵リ\n        <persname corresp=\"#pers_山口仙之助\">\n<surname> 山口 </surname>\n<forename> 仙之助 </forename>\n</persname> 氏ニ面会シ、 <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ノ事ニ関シ要務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 大平台ニ <persname corresp=\"#pers_皆川\">\n<surname> 皆川 </surname>\n</persname> 氏ノ寓居ヲ訪ヒ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_湯本\"> 湯本 </placename> ニ抵ル、途中 <placename corresp=\"#place_塔之澤\"> 塔ノ沢\n       </placename> 其他ニ就テ頃日ノ水害景況ヲ一覧ス、 <placename corresp=\"#place_湯本\"> 湯本 </placename>\n       福住ニテ午飧シ、入浴、畢テ人車ニテ風祭ニ抵リ電車ニ搭ス、 <placename corresp=\"#place_小田原\"> 小田原 </placename> ヲ過キ <placename corresp=\"#place_酒匂川\"> 酒匂川 </placename> ニテ車ヲ下リ、橋ヲ徒歩シテ亦電車ニ搭シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.234444,
+                    "lon": 139.093972,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時\n       </time> 過 <placename corresp=\"#place_国府津\"> 国府津 </placename> ニ抵リ直ニ汽車ニ搭シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.280139,
+                    "lon": 139.2116278,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 過 <placename corresp=\"#place_新橋\"> 新橋 </placename> 着迎ノ人多ク来ル、直ニ馬車ニテ <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宅ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

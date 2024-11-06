@@ -1,0 +1,86 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-06-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:45:00",
+                    "text": "<time when=\"07:45:00\"> 七時四十五分 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 発ノ汽車ニテ <placename corresp=\"#place_浦賀\"> 浦賀\n       </placename> ニ抵リ船渠会社工場ヲ一覧ス、 <persname corresp=\"#pers_渡辺治右衛門\">\n<surname> 渡辺 </surname>\n<forename> 治右衛門 </forename>\n</persname> 、 <persname corresp=\"#pers_臼井儀兵衛\">\n<surname> 臼井 </surname>\n<forename> 儀兵衛 </forename>\n</persname> 、 <persname corresp=\"#pers_佐々木慎思郎\">\n<surname> 佐々木 </surname>\n<forename> 慎思郎 </forename>\n</persname> 、 <persname corresp=\"#pers_早崎\">\n<surname> 早崎 </surname>\n</persname> 、 <persname corresp=\"#pers_富岡\">\n<surname> 富岡 </surname>\n</persname> 其他ノ諸氏来会ス、工場一覧後倶楽部ニ抵リ午飧シ且要務ヲ協議シ、更ニ分工場ヲ一覧シテ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.2475,
+                    "lon": 139.713972,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<placename corresp=\"#place_浦賀\"> 浦賀 </placename> ヲ発シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.2475,
+                    "lon": 139.713972,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 過\n        <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス、此夜 <persname corresp=\"#pers_高木正義\">\n<surname> 高木 </surname>\n<forename> 正義 </forename>\n</persname> 氏来リ明日 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 出立ニ付同地ニ於ケル要務ヲ談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

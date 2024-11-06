@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-11-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time>\n<placename corresp=\"#place_仁川\"> 仁川 </placename> 発ノ列車ニ搭シ <placename corresp=\"#place_京城府\"> 京城\n       </placename> ニ赴ク、 <persname corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persname> 同車シテ線路建設ニ関スル説明ヲ為ス、 <placename corresp=\"#place_京城府\"> 京城 </placename> ヨリ来リ迎フル者\n        <placename corresp=\"#place_仁川\"> 仁川 </placename> ヨリ行ヲ送ル者一行十数人同車シテ各駅ヲ経 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\">\n        午前十時 </time>\n<placename corresp=\"#place_京城府\"> 京城 </placename> ニ着ス、巴城館ニ投宿ス、此日 <placename corresp=\"#place_京城府\"> 京城 </placename>\n<placename corresp=\"#place_西大門\"> 西大門 </placename> 停車場ニ来リ迎フル者数十人、 <persname corresp=\"#pers_大江卓\">\n<surname> 大江 </surname>\n<forename> 卓 </forename>\n</persname> 、 <persname corresp=\"#pers_大三輪長兵衛\">\n<surname> 大三輪 </surname>\n<forename> 長兵衛 </forename>\n</persname> 等モ来リ迎フ、安学氏《（柱脱・安学柱）》、韓国王ノ命ヲ以テ来リ迎フ、巴城館ニテ午餐ヲナシ、直ニ <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 公使ヲ本館ニ訪フテ京仁鉄道開業式ノ事ヲ談ス、午後領事館ニ抵リ、 <persname corresp=\"#pers_三増久米吉\">\n<surname> 三増 </surname>\n</persname> 領事ニ面会シテ京仁鉄道開業式ニ係ル手続ヲ協議ス、帰途 <orgname> 第一銀行 </orgname>\n       出張所ヲ一覧シ分析所ノ新築ヲ見ル、畢テ再ヒ巴城館ニ帰ル、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 過 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 氏ヲ伴フテ公使館ニ抵リ、 <persname corresp=\"#pers_山座\">\n<surname> 山座 </surname>\n</persname> 公使書記官来リ、共ニ曾テ電報又ハ書信ニテ往復セシ韓国政府ヘ貸金ニ係ル案件ノ顚末ヲ談話シ、且向後 <persname corresp=\"#pers_ブラオン\">\n<surname> ブラオン </surname>\n</persname> 氏ト談判スヘキ要領ヲ協定シ、及種々ノ雑談ヲ為シ、夜餐畢テ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n       過巴城館ニ帰宿ス、此夜門司郵船会社支店主任 <persname corresp=\"#pers_甲藤\">\n<surname> 甲藤 </surname>\n</persname> 氏ニ書状ヲ発シ <placename corresp=\"#place_博多\"> 博多 </placename> ノ小河、若松ノ <persname corresp=\"#pers_安川\">\n<surname> 安川 </surname>\n</persname> 、 <placename corresp=\"#place_下関市\"> 馬関 </placename> ノ <persname corresp=\"#pers_豊永\">\n<surname> 豊永 </surname>\n</persname> 等書状送達ノ事ヲ托シ遣ハス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 33.95789,
+                    "lon": 130.94133,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

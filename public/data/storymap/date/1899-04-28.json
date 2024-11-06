@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-04-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前 <orgname> 十勝開墾会社 </orgname> ノ件ニ付テ <persname corresp=\"#pers_渋沢成一郎\">\n<surname> 渋沢 </surname>\n<forename> 喜作 </forename>\n</persname> 其他ノ数氏来会ス、 <persname corresp=\"#pers_町村\">\n<surname> 町村 </surname>\n</persname> 、 <persname corresp=\"#pers_小田\">\n<surname> 小田 </surname>\n</persname> 両氏ハ近日農場ニ赴任ノ由ニ付、 <date evidence=\"year inferenced, day\" when=\"1899-05\"> 五月 </date>\n       中ニ <persname corresp=\"#pers_中川豊次郎\">\n<surname> 中川 </surname>\n<forename> 豊次郎 </forename>\n</persname> 出張ニ関ス <pb corresp=\"#pageB1086\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/112/full/max/0/default.jpg\" n=\"B1086\" source=\"#pageB1086\"></pb> ル事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n       海上保険会社ニ抵リ株主総会ニ列ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,95 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-01-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、先ツ入浴シ、畢テ朝飧ヲ食ス、 <persname corresp=\"#pers_中井三之助\">\n<surname> 中井 </surname>\n<forename> 三之助 </forename>\n</persname> 、 <persname corresp=\"#pers_田中栄八郎\">\n<surname> 田中 </surname>\n<forename> 栄八郎 </forename>\n</persname> 二氏来リ、中井合名会社ノ半季計算ヲ報告セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋\"> 日本橋 </placename> 倶楽部ニ抵リ、帝国製麻会社株主総会ニ出席ス、畢テ <orgname> 東京商業会議所\n       </orgname> ニ抵リ <orgname> 全国商業会議所 </orgname> 聯合会ニ出席シ、財政ニ関スル一場ノ演説ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ午飧ス、食後、 <persname corresp=\"#pers_仙石\">\n<surname> 仙石 </surname>\n</persname> 氏ノ来訪ニ接ス、 <persname corresp=\"#pers_田中常徳\">\n<surname> 田中 </surname>\n<forename> 常徳 </forename>\n</persname> 氏来リ喜賓会ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:30:00",
+                    "text": "<time when=\"13:30:00\"> 午後一時半 </time> 大日本麦酒会社ニ抵リ株主総会ニ出席ス、畢テ華族会館ニ抵リ、\n        <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 宮内大臣ノ催ニ係ル茶話会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\">\n        午後五時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ事務ヲ処理シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時\n       </time> 過 <placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リ、 <persname corresp=\"#pers_中井\">\n<surname> 中井 </surname>\n</persname> 氏ノ招宴ニ出席ス、合名会社ニ関シ種々談話スル所アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過キ <placename corresp=\"#place_浜町\"> 浜町 </placename> ノ家ヲ訪ヒ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿ス <lb></lb>\n       （欄外） <lb></lb> ［華族会館ニ於テ <persname corresp=\"#pers_渡邊嘉一\">\n<surname> 渡辺 </surname>\n<forename> 嘉一 </forename>\n</persname> 外一名ヨリ鉄道会社ノ事ニ関シ種々ノ依頼ヲ受ク "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

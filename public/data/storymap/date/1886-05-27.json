@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1886-05-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 六時 </time> 、万屋ヲ発シ、牧場ノ馬車ニテ牧場ニ到リ牛馬ノ放牧シアルヲ見ル、牧舎ニテ馬ノ交接ヲ見、 <persname corresp=\"#pers_須永\">\n<surname> 須永 </surname>\n</persname> 、 <persname corresp=\"#pers_松村\">\n<surname> 松村 </surname>\n</persname> ト牧場ノ事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 、牧場ヲ発シ、山ヲ下リテ深良村ヲ経テ <placename corresp=\"#place_佐野\"> 佐野 </placename> ニ抵リ、人力車ヲ倩ヒ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<placename corresp=\"#place_沼津\"> 沼津 </placename> ニテ午餐ス、 <placename corresp=\"#place_沼津\"> 沼津\n       </placename> ヲ発シテ、 <placename corresp=\"#place_原\"> 原 </placename> 、 <placename corresp=\"#place_吉原\"> 吉原 </placename> ヲ経、 <placename corresp=\"#place_富士川\"> 富士川 </placename>\n       ヲ航シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_蒲原\"> 蒲原 </placename> ニ抵リ柏屋ニ投宿ス、此日、煙雨濛々富峰ヲ覆フ、暁ニ雨歇テ僅ニ半腹ヲ見ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

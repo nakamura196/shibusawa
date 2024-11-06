@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-08-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "04:00:00",
+                    "text": "<time when=\"04:00:00\"> 午前四時 </time> 起床、直ニ朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 六時 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 停車場ニ抵リ同時発ノ汽車ニ搭ス、 <persname corresp=\"#pers_堀越善重郎\">\n<surname> 堀越 </surname>\n<forename> 善重郎 </forename>\n</persname> 同車ス、 <persname corresp=\"#pers_宮原次郎\">\n<surname> 宮原 </surname>\n<forename> 次郎 </forename>\n</persname> 氏ニ邂逅ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time>\n<placename corresp=\"#place_国府津\"> 国府津 </placename> ニ抵リ夫ヨリ電車ニテ <placename corresp=\"#place_湯本\">\n        湯本 </placename> ニ抵リ更ニ腕車ヲ僦テ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.280139,
+                    "lon": 139.2116278,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 過 <placename corresp=\"#place_宮ノ下\"> 宮ノ下 </placename> ニ抵リ奈良屋ニ休憩ス、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 夫妻、孫児共滞在スルヲ以テナリ、午飧後 <placename corresp=\"#place_宮ノ下\"> 宮ノ下 </placename>\n<pb corresp=\"#pageB1381\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/407/full/max/0/default.jpg\" n=\"B1381\" source=\"#pageB1381\"></pb> ヲ発シ <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persname> 、 <persname corresp=\"#pers_沢田\">\n<surname> 沢田 </surname>\n</persname> 同行、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 頃 <placename corresp=\"#place_小涌谷\"> 小涌谷\n       </placename> ニ達ス、入浴後諸方ヲ散歩ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.240361,
+                    "lon": 139.053028,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

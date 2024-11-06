@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-01-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n       三井集会所ニ抵リ、 <persname corresp=\"#pers_本野\">\n<surname> 本野 </surname>\n</persname> 大使、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 氏ト共ニ <placename corresp=\"#place_フランス\"> 仏国 </placename> 人 <persname corresp=\"#pers_カン\">\n<surname> カン </surname>\n</persname> 氏ト会話ス、日仏シンヂケート設立ニ関スル協議ヲ為シ、畢テ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ、重役会ヲ開キ要件ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、大日本水産会社調査委員会ヲ開ク、畢テ <orgname> 帝商銀行\n       </orgname> 整理ノ件ヲ委員諸氏ト談話ス、 <persname corresp=\"#pers_中野\">\n<surname> 中野 </surname>\n</persname> 、 <persname corresp=\"#pers_原\">\n<forename> 原 </forename>\n</persname> 二氏、 <persname corresp=\"#pers_根津\">\n<surname> 根津 </surname>\n</persname> 、其他ノ諸氏来会ス、後、 <orgname> 第一銀行 </orgname> ニ抵リ、重役会ヲ開キ要件ヲ議決ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\">\n        六時 </time>\n<orgname> 銀行倶楽部 </orgname> ニ抵リ、 <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <persname corresp=\"#pers_酒匂\">\n<surname> 酒匂 </surname>\n</persname> 、 <persname corresp=\"#pers_瓜生\">\n<surname> 瓜生 </surname>\n</persname> 四氏ト製糖会社ノ事ヲ談ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> ニ至リテ散会、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

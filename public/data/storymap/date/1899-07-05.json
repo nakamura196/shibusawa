@@ -1,0 +1,109 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-07-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴夕雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time>\n<persname corresp=\"#pers_大原\">\n<surname> 大原 </surname>\n</persname> 氏、 <persname corresp=\"#pers_和泉\">\n<surname> 和泉 </surname>\n</persname> 氏来話ス、社長演説原稿成ルヲ以テ <persname corresp=\"#pers_大原\">\n<surname> 大原 </surname>\n</persname> ニ交付ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time>\n<placename corresp=\"#place_淀川\"> 淀川 </placename> 上流ニ設立スル日本精糖会社ニ抵リ <persname corresp=\"#pers_不二樹\">\n<surname> 不二樹 </surname>\n</persname>\n<persname corresp=\"#pers_築山\">\n<surname> 築山 </surname>\n</persname> 両氏ノ案内ニテ工場ヲ一覧ス、 <persname corresp=\"#pers_大森敏寛\">\n<surname> 大森 </surname>\n<forename> 敏寛 </forename>\n</persname> 、 <persname corresp=\"#pers_和泉栄\">\n<surname> 和泉 </surname>\n<forename> 栄 </forename>\n</persname> 両氏同伴ス、畢テ <persname corresp=\"#pers_大森\">\n<surname> 大森 </surname>\n</persname> 氏ト共ニ天満橋南詰ナル陸軍偕行社及衛戌病院地所ヲ一覧シ、京坂鉄道停車場敷地ノ事ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_鰻谷\"> 鰻谷 </placename>\n<persname corresp=\"#pers_住友\">\n<surname> 住友 </surname>\n</persname> 氏ヲ訪フテ老婦人死去ノ弔詞ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 過 <orgname> 日本銀行 </orgname>\n       支店ヲ訪フテ <persname corresp=\"#pers_首藤\">\n<surname> 首藤 </surname>\n</persname> 支店長ニ面話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time> 伝法屋ニ帰リテ午餐ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\">\n        午後二時 </time>\n<placename corresp=\"#place_梅田\"> 梅田 </placename> 発ノ汽車ニ搭シ <orgname> 汽車製造会社 </orgname> ニ抵ル、\n        <persname corresp=\"#pers_毛利\">\n<surname> 毛利 </surname>\n</persname> 男爵、 <persname corresp=\"#pers_藤田伝三郎\">\n<surname> 藤田 </surname>\n<forename> 伝三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_今村清之助\">\n<surname> 今村 </surname>\n<forename> 清之助 </forename>\n</persname> 其他数名同行ス、此日合資会社ハ種々ノ装飾ヲ為シ楽隊ヲ招キ煙火ヲ打揚ケ用意頗ル周到ナリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.7005611,
+                    "lon": 135.4957444,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n       頃ヨリ来客頻リニ集合シ、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 社長案内シテ工場ヲ巡覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 一同食堂ニ会シテ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> ヨリ一場ノ謝辞ヲ演説ス、畢テ <persname corresp=\"#pers_菊地\">\n<surname> 菊地 </surname>\n</persname> 大坂府知事《（ <persname corresp=\"#pers_菊池\">\n<surname> 菊池 </surname>\n</persname> ）》、 <persname corresp=\"#pers_田\">\n<surname> 田 </surname>\n</persname> 関西鉄道会社々長ヨリ祝詞ヲ演ヘラル、祝詞済 <pb corresp=\"#pageB1095\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/121/full/max/0/default.jpg\" n=\"B1095\" source=\"#pageB1095\"></pb> ミタル後一応ノ挨拶ヲ為シ、夫ヨリ立食ノ洋食ヲ饗ス、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:15:00",
+                    "text": "<time when=\"19:15:00\"> 午後七時十五分\n       </time> ノ汽車ニテ伝法屋ニ抵リ、直ニ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:14:00",
+                    "text": "<time when=\"20:14:00\"> 八時十四分 </time> ノ汽車ニ搭シテ西京ニ抵リ、鴨涯井作ノ家ニ投宿ス、此夜\n        <persname corresp=\"#pers_中川\">\n<surname> 中川 </surname>\n</persname> 京都支店支配人及 <persname corresp=\"#pers_佐田\">\n<surname> 佐田 </surname>\n</persname> 、 <persname corresp=\"#pers_竹川\">\n<surname> 竹川 </surname>\n</persname> ノ三氏来訪ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

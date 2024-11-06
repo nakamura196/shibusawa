@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-06-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ、朝飧ヲ食ス、後、 <placename corresp=\"#place_水戸\"> 水戸\n       </placename> 市長 <persname corresp=\"#pers_原百之\">\n<surname> 原 </surname>\n<forename> 百之 </forename>\n</persname> 氏ノ来訪ニ接ス、故 <persname corresp=\"#pers_原市之進\">\n<forename> 市之進 </forename>\n</persname> ノ実姪ナリ、老公伝記編纂ノ事ヲ喜ヒ、故 <persname corresp=\"#pers_原\">\n<surname> 原 </surname>\n</persname> 氏ノ断簡アルニヨリテ参考トモナランカト特ニ持参セシ由ナリ、依テ其厚意ヲ謝シ其書類ヲ預リ置ク事トス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 午前八時半\n       </time> 、 <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 夫妻来会シ、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 、 <persname corresp=\"#pers_明石愛子\">\n<forename> 愛子 </forename>\n</persname> 等ト共ニ <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ノ身上ニ付内話ス、午飧後、 <orgname> 第一銀行 </orgname> ニ抵リ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ニ面会シテ <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ノ身上ニ付回答ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 事務所ニ於テ来人ニ接シ書類ヲ調理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 五時半 </time> 有楽座ニ抵リ <persname corresp=\"#pers_北村\">\n<surname> 北村 </surname>\n</persname> 氏ノ洋式演劇ヲ観ル、 <persname corresp=\"#pers_増田\">\n<surname> 増田 </surname>\n</persname> 、 <persname corresp=\"#pers_石川\">\n<surname> 石川 </surname>\n</persname> 随行ス、 <persname corresp=\"#pers_明石\">\n<surname> 明石 </surname>\n</persname> モ同伴ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 頃帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

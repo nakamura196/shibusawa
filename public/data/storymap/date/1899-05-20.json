@@ -1,0 +1,99 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-05-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇又雨、此日ハ成田不動尊ヲ参拝シ并テ <placename corresp=\"#place_佐原町\"> 佐原町 </placename> 実業倶楽部発会式ニ列スルノ約アリテ、\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.89092,
+                    "lon": 140.49628,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time>\n<persname corresp=\"#pers_小倉良則\">\n<surname> 小倉 </surname>\n<forename> 良則 </forename>\n</persname> 氏誘引ノ為ニ来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time>\n<placename corresp=\"#place_本所\"> 本所 </placename> 錦糸堀ニ於テ汽車ニ搭シ、 <placename corresp=\"#place_市川\">\n        市川 </placename> 、船橋、佐倉等ヲ経テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 成田ニ着ス、直ニ臨時汽車ヲ以テ <placename corresp=\"#place_佐原市\"> 佐原 </placename> ヘ向ヘ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.89772,
+                    "lon": 140.49925,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 過 <placename corresp=\"#place_佐原市\"> 佐原 </placename> 着、汽車停車場ニ達スル時、煙火ヲ打揚ケ歓迎ノ旗ヲ立テ総代数十人来リ迎フ、停車場ヨリ腕車ニテ\n        <placename corresp=\"#place_佐原町\"> 佐原町 </placename>\n<persname corresp=\"#pers_小倉久兵衛\">\n<surname> 小倉 </surname>\n<forename> 久兵衛 </forename>\n</persname>\n       宅ニ至リ午餐ス、午後香取大神宮ヲ詣ス、宮ハ老杉欝叢ノ中ニ在リ、祠北ニ香雲館ト云フ新築ノ家屋アリ、佐原有志者協同シテ建設セシモノナリト云フ、香雲館ニ憩フ、暫時ニシテ再ヒ\n        <placename corresp=\"#place_佐原町\"> 佐原町 </placename>\n       ニ来リ、浄土寺ニ於テ開ク所ノ実業倶楽部発会式ニ臨席シ、一場ノ演説ヲ為（実業ノ定義ト実業家ノ本領ト云フ演題ナリシ）シ、更ニ川島楼ニ催ス懇親会ニ列シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.89772,
+                    "lon": 140.49925,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time> ノ汽車ニテ <placename corresp=\"#place_佐原市\"> 佐原 </placename> ヲ発シ\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.89772,
+                    "lon": 140.49925,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:30:00",
+                    "text": "<time when=\"20:30:00\"> 八時半 </time> 頃成田ニ着シ、新照館ニ投宿ス、此日 <persname corresp=\"#pers_大倉喜八郎\">\n<surname> 大倉 </surname>\n<forename> 喜八郎 </forename>\n</persname> 氏夫妻モ同行ス、汽車中及各所ニ於テ総武、成田両鉄道会社々員頗ル款待セラル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

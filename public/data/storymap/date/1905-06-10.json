@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-06-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、庭園内ヲ散歩シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time>\n       過朝飧ヲ畢リテ後理髪ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ事務ヲ処理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時\n       </time> 銀行ニ於テ午飧シ事務ヲ処理シ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time>\n<persname corresp=\"#pers_岸田吟香\">\n<surname> 岸田 </surname>\n<forename> 吟香 </forename>\n</persname> ノ葬儀ニ会ス、 <placename corresp=\"#place_谷中\"> 谷中 </placename> 共同墓地ニ於テ基督教ノ葬式ナリキ、畢テ再ヒ\n        <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ抵リ書状ヲ裁シ、瓦斯会社 <persname corresp=\"#pers_高松豊吉\">\n<surname> 高松 </surname>\n<forename> 豊吉 </forename>\n</persname> 氏ト共ニ <persname corresp=\"#pers_阪市太郎\">\n<surname> 阪 </surname>\n<forename> 市太郎 </forename>\n</persname> 氏ニ会話シ、 <placename corresp=\"#place_北海道\"> 北海道 </placename> 炭坑調査ノ事ヲ托ス、畢テ <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏来話ス、夕 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

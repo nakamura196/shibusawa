@@ -1,0 +1,94 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-06-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、 <persname corresp=\"#pers_藤波恒\">\n<surname> 藤波 </surname>\n<forename> 恒 </forename>\n</persname> 氏ノ来訪ニ接シ又、 <persname corresp=\"#pers_溝口勝如\">\n<surname> 溝口 </surname>\n<forename> 勝如 </forename>\n</persname> 氏来リテ <persname corresp=\"#pers_徳川厚\">\n<surname> 徳川 </surname>\n<forename> 厚 </forename>\n</persname> 氏ノ事ヲ談ス、 <persname corresp=\"#pers_古谷久綱\">\n<surname> 古谷 </surname>\n<forename> 久綱 </forename>\n</persname> 氏ト電話ヲ為シテ、明 <date when=\"1909-06-30\"> 三十日 </date>\n<persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 公ヲ <placename corresp=\"#place_大磯町\"> 大磯 </placename> ニ訪問ノ事ヲ打合ハス、庭園ヲ散歩ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 午前十一時半 </time> ヨリ来客アリ、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       人 <persname corresp=\"#pers_モールス\">\n<surname> モールス </surname>\n</persname> 、ブレーキ二氏及 <persname corresp=\"#pers_中野武営\">\n<surname> 中野 </surname>\n<forename> 武営 </forename>\n</persname>\n<persname corresp=\"#pers_竹内綱\">\n<surname> 竹内 </surname>\n<forename> 綱 </forename>\n</persname> 、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 、 <persname corresp=\"#pers_瓜生震\">\n<surname> 瓜生 </surname>\n<forename> 震 </forename>\n</persname> 、 <persname corresp=\"#pers_大川平三郎\">\n<surname> 大川 </surname>\n<forename> 平三郎 </forename>\n</persname> 五氏来会ス、午飧後、画工 <persname corresp=\"#pers_望月金鳳\">\n<forename> 金鳳 </forename>\n</persname> 、 <persname corresp=\"#pers_寺崎広業\">\n<forename> 広業 </forename>\n</persname> 二氏ノ席上画アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 散会ス、後、茶亭ニテ喫茶シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ抵リ書類ヲ撿閲ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 侯爵ノ招宴ニ応シ <placename corresp=\"#place_三田\"> 三田 </placename>\n       ノ邸ニ抵ル、実業界ノ友人多ク来会ス、種々ノ余興アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 宴散シテ、帰途 <placename corresp=\"#place_本郷\"> 本郷 </placename> ニ立寄リ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

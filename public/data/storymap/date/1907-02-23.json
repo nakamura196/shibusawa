@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-02-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後直ニ入浴シ、浴後朝飧ヲ喫ス、食後三四ノ来人ニ接シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ来人ニ接シ、又書類ヲ整理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 銀行倶楽部 </orgname> ニ於テ午飧シ、食後倶楽部ノ事ヲ協議ス、 <persname corresp=\"#pers_内田嘉吉\">\n<surname> 内田 </surname>\n<forename> 嘉吉 </forename>\n</persname> 氏来話ス、午後再ヒ事務所ニ抵リテ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 京釜鉄道会社事務所ニ抵リテ要務ヲ協議ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 過 <placename corresp=\"#place_高輪\"> 高輪 </placename> ニ\n        <persname corresp=\"#pers_渡辺千秋\">\n<surname> 渡辺 </surname>\n<forename> 千秋 </forename>\n</persname> 氏ヲ訪ヒ、 <placename corresp=\"#place_木曾\"> 木曾 </placename> 御料林ノ事ヲ談話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6385306,
+                    "lon": 139.737167,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半 </time> 華族会館ニ抵リ <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 公爵ノ晩飧会ニ出席ス、 <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 等来会ス、種々ノ談話アリ、各歓ヲ尽シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰邸ス <lb></lb>\n<placename corresp=\"#place_大韓民国\"> 韓国 </placename> 京城人 <persname corresp=\"#pers_中村再造\">\n<surname> 中村 </surname>\n<forename> 再造 </forename>\n</persname> 、仁川人 <persname corresp=\"#pers_加久栄太郎\">\n<surname> 加久 </surname>\n<forename> 栄太郎 </forename>\n</persname> 外一名来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,89 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-09-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、直ニ朝飧ヲ食シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 過\n        <placename corresp=\"#place_青森\"> 青森 </placename> 発ノ汽車ニ搭ス、 <placename corresp=\"#place_青森\"> 青森\n       </placename> 人士多数停車場ニ抵リテ行ヲ送ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 前 <placename corresp=\"#place_古間木\"> 古間木 </placename> 駅ニ抵リ車ヲ下ル、 <placename corresp=\"#place_三本木\"> 三本木\n       </placename> 農場ノ <persname corresp=\"#pers_金子\">\n<surname> 金子 </surname>\n</persname> 、 <persname corresp=\"#pers_山口\">\n<surname> 山口 </surname>\n</persname> 二氏及開墾会社長 <persname corresp=\"#pers_杉山\">\n<surname> 杉山 </surname>\n</persname> 氏其他数十人来リ迎フ、人力車ニテ一行三本木ニ向フ、 <persname corresp=\"#pers_金子熊一\">\n<surname> 金子 </surname>\n<forename> 熊一 </forename>\n</persname> 先導シテ地方ノ開拓状況ヲ説明ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n       農場ニ抵リ、農夫及小作人等ニ面会シテ一場ノ訓示ヲ為ス、各所ノ施設及飼畜ノ馬匹等ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 三本木ニ抵リ\n        <persname corresp=\"#pers_安野\">\n<surname> 安野 </surname>\n</persname> 某ノ家ニ投宿ス、午飧後 <placename corresp=\"#place_稲吉\"> 稲吉 </placename> 水田ヲ一覧シ、帰途 <persname corresp=\"#pers_新渡戸傳\">\n<surname> 新渡戸 </surname>\n<forename> 伝 </forename>\n</persname> 氏ノ墳墓ニ詣シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n       産馬事務所ニ抵リテ先ツ農場ニ於テ生産セシ良馬ヲ一覧シ、後、地方人士ノ催シタル舞踏ヲ見ル、駒踊ト称スルモノ、鳥踊ト称スルモノ二種アリテ共ニ頗ル古雅ニシテ其技モ亦甚タ鄙シカラス、一見大ニ興味アルヲ覚フ、畢テ旅宿ニ帰リ、夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 地方人ノ開催シタル歓迎会ニ出席シ、一場ノ謝詞ヲ述ヘ、多数ノ人士ト談話ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 退席ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

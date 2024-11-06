@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-01-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴大風、午前二三ノ来客ニ接シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<orgname> 三井銀行 </orgname> ニ抵リテ同族会ニ参列ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_駿河台\"> 駿河台 </placename>\n<persname corresp=\"#pers_岩崎弥之助\">\n<surname> 岩崎 </surname>\n<forename> 弥之助 </forename>\n</persname> 氏ヲ訪ヒ、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ト会合シテ清国鉄政局貸金ノ事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n       錦輝館ニ抵リ岩越鉄道会社株主総会ニ列ス、物議多クシテ議了ニ至ラサルモ、今夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> ヨリ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ於テヘレスフオールト卿歓迎ノ事アルヲ以テ帰宅、直ニ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ <pb corresp=\"#pageB1072\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/98/full/max/0/default.jpg\" n=\"B1072\" source=\"#pageB1072\"></pb> 歓迎会ニ従事ス、此夜来客無慮五百人、卿ト共ニ食事スル者モ二百二十人余ニ及フ、頗ル盛会ナリ、 <persname corresp=\"#pers_近衛\">\n<surname> 近衛 </surname>\n</persname> 公爵ト共ニ卿ヲ歓迎スルニ付テノ事ヲ演説ス、ベ卿演説畢テ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

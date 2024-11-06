@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-10-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シテ朝飧ヲ食ス、畢テ <persname corresp=\"#pers_伊藤多吉\">\n<surname> 伊藤 </surname>\n<forename> 多吉 </forename>\n</persname> 、 <persname corresp=\"#pers_小野沢幾太郎\">\n<surname> 小野沢 </surname>\n<forename> 幾太郎 </forename>\n</persname> 二氏ノ来訪ニ接シ、村内ニ設置セラレントスル火葬場ノ件ニ付種々ノ談話ヲ為シ、昨日内務次官トノ談話顚末ヲ内示ス、 <persname corresp=\"#pers_金子熊一\">\n<surname> 金子 </surname>\n<forename> 熊一 </forename>\n</persname> 氏来話ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 午前十時半 </time>\n<orgname> 女子大学 </orgname> ニ抵リ、財産目録調製ニ関シテ、 <persname corresp=\"#pers_森村\">\n<surname> 森村 </surname>\n</persname> 、 <persname corresp=\"#pers_成瀬\">\n<surname> 成瀬 </surname>\n</persname> 其他ノ諸氏ト協議ス、畢テ <placename corresp=\"#place_本郷\"> 本郷 </placename> ニ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ノ病ヲ訪ヘ、他ノ一友ヲ訪問ス午飧後事務所ニ抵リ、 <persname corresp=\"#pers_金子熊一\">\n<surname> 金子 </surname>\n<forename> 熊一 </forename>\n</persname> ヨリ申出タル三本木農場ニ関《（件ニ付脱カ）》スル事務所ニ於テ、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 其他ト処分ノ事ヲ評決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<persname corresp=\"#pers_添田\">\n<surname> 添田 </surname>\n</persname> 氏宅ニ抵リ <placename corresp=\"#place_イギリス\"> 英国 </placename> 人 <persname corresp=\"#pers_ウヱツプ\">\n<surname> ウヱツプ </surname>\n</persname> 氏夫妻ノ招宴ニ出席ス、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> モ同行ス、 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 伯爵、 <persname corresp=\"#pers_金井延\">\n<surname> 金井 </surname>\n<forename> 延 </forename>\n</persname> 、 <persname corresp=\"#pers_桑田熊蔵\">\n<surname> 桑田 </surname>\n<forename> 熊蔵 </forename>\n</persname> 、 <persname corresp=\"#pers_小室三吉\">\n<surname> 小室 </surname>\n<forename> 三吉 </forename>\n</persname> ノ諸氏来会ス、食後余興アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散会帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

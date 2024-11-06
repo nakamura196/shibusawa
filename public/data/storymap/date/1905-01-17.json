@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-01-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、室内運動ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ畢ル <lb></lb>\n       食後 <persname corresp=\"#pers_横山富三郎\">\n<surname> 横山 </surname>\n<forename> 富三郎 </forename>\n</persname> 墓誌ヲ揮灑ス、畢テ他ノ絹本及紙面等ノ揮毫ニ消光ス <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname>\n<orgname> 日本銀行 </orgname> 総裁ヨリ来書ニテ、銀行条例及貯蓄銀行条例草案ヲ内示セラル <lb></lb> 夜、読書ニ消光ス <lb></lb>\n<pb corresp=\"#pageB1347\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/373/full/max/0/default.jpg\" n=\"B1347\" source=\"#pageB1347\"></pb>\n<lb></lb>\n<persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 来リ養育院ノ事ヲ談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

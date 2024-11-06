@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-11-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1482\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/508/full/max/0/default.jpg\" n=\"B1482\" source=\"#pageB1482\"></pb>\n<lb></lb> 起床後入浴シ、畢テ二三ノ来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ食シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時\n       </time> 過養育院ニ抵リ、幹事其他ノ掛員ヲ会シテ院務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 午前十一時半 </time> 学習院ニ抵リ、 <persname corresp=\"#pers_乃木\">\n<surname> 乃木 </surname>\n</persname> 院長ニ面会シテ <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> 修学ノ事ニ関シ依頼ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 新宿御苑ニ抵リ、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 大蔵大臣ノ催フセル仏人フイナリー招宴ニ列席ス、午飧後、御苑中ヲ散歩シ、動物園、西洋草花等ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時\n       </time> 過 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、米人 <persname corresp=\"#pers_デシユラー\"> デシユラー </persname> 氏来訪ニ接シ稷山金鉱ノ事ヲ談ス、畢テ頃日仏国人ニ対スル演説筆記ヲ作リ、翻訳ノ為 <persname corresp=\"#pers_水町\">\n<surname> 水町 </surname>\n</persname> 氏ニ送付ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ抵リ夜飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

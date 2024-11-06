@@ -1,0 +1,59 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-11-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 昨夜より再天気あしく風洋よろしからす、されと〓行は速なり、午後より <placename corresp=\"#place_香港\"> 香港 </placename>\n       近海の島嶼を見る、此辺は支那人の海賊多く総而 <placename corresp=\"#place_香港\"> 香港 </placename>\n       近辺の島嶼中に住し、時々飛脚船又は商賈船の往来を妨け物を盗み去るといふ <lb></lb> 夕 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 22.267,
+                    "lon": 114.188,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 五時半 </time>\n<placename corresp=\"#place_香港\"> 香港 </placename> 御着、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 22.267,
+                    "lon": 114.188,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n       頃一同御供ニ而御上陸、ホテル・デ・ヨウロツプといふ客舎御投宿、此夜は揺動の憂もなければ一同安眠せり "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

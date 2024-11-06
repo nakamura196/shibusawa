@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-03-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、病快方セサルヲ以テ褥中ニ在テ摂養ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n       朝飧ヲ食ス、 <persname corresp=\"#pers_藤山雷太\">\n<surname> 藤山 </surname>\n<forename> 雷太 </forename>\n</persname> 、 <persname corresp=\"#pers_大海原高義\">\n<surname> 大海原 </surname>\n<forename> 高義 </forename>\n</persname> 、 <persname corresp=\"#pers_仙波\">\n<surname> 仙波 </surname>\n</persname> 、 <persname corresp=\"#pers_田口\">\n<surname> 田口 </surname>\n</persname> ノ四氏来リ、日糖会社後継重役ノ事ヲ談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

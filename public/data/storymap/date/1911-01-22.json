@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-01-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シテ、朝飧ヲ食シ、後、種々ノ来客ニ接ス、又、書類ヲ点撿ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\">\n        正午 </time> 食事畢テ後、 <placename corresp=\"#place_霞が関\"> 霞ケ関 </placename> 、元 <orgname> 工部大学\n       </orgname> ニ抵リ彰明会ニ出席ス、会スル者二十名許リ、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯総裁ノ位地ニ在リテ維新前後ノ歴史調査ノ会合ナリ、種々ノ意見陳述アリシモ、就中 <persname corresp=\"#pers_木戸\">\n<surname> 木戸 </surname>\n</persname> 氏ノ遺書、維新ノ前年ニ於ル薩長聯合ニ関スル記事ハ尤モ真摯《（ニ脱）》シテ当時ノ情況察スルニ余リアリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6730639,
+                    "lon": 139.7503972,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時\n       </time> 散会、帰宿ス、夜、 <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 氏来話ス <lb></lb> 朝、 <persname corresp=\"#pers_安藤\">\n<surname> 安藤 </surname>\n</persname> 農商務技師来リ、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       インヘリアル・バレーノ土地ニ係ル状況ヲ報告セラル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

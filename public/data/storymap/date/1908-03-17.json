@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-03-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、先ツ入浴シ、畢テ朝飧ヲ食ス、（ <persname corresp=\"#pers_長沢則彦\">\n<surname> 長沢 </surname>\n<forename> 則彦 </forename>\n</persname> 氏来リ自治会ノ事ヲ談ス、 <persname corresp=\"#pers_成瀬仁蔵\">\n<surname> 成瀬 </surname>\n<forename> 仁蔵 </forename>\n</persname> 氏来リ <orgname> 女子大学 </orgname> ノ事ヲ談ス）、以上二氏ノ来訪ハ <date evidence=\"year inferenced, month\" when=\"1908-03-06\"> 十六日 </date> ノ部ニ記入スヘキモノナリ）、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時半 </time>\n<placename corresp=\"#place_大久保\"> 大久保 </placename>\n<orgname> 高千穂学 <pb corresp=\"#pageB1500\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/526/full/max/0/default.jpg\" n=\"B1500\" source=\"#pageB1500\"></pb> 校 </orgname> ニ抵リ、卒業証書授与式ニ列ス、一場ノ祝詞ヲ述フ、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 頃内蔵寮ニ抵リ、 <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> 内蔵頭ニ面会シテ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ノ件其他数件ヲ依頼ス、女学館敷地ノ事ヲモ詳細ニ請願ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、食後、 <persname corresp=\"#pers_井上準之助\">\n<surname> 井上 </surname>\n<forename> 準之助 </forename>\n</persname> 氏其他ノ来訪ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 大日本製糖会社重役会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<orgname> 帝国商業銀行 </orgname> 重役会ヲ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ニ開キ、将来ノ経営ニ付種々ノ協議ヲ為ス、畢テ夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス <lb></lb> 此日、 <persname corresp=\"#pers_尾崎行雄\">\n<surname> 尾崎 </surname>\n<forename> 行雄 </forename>\n</persname> 氏来訪、電車市有問題ニ関シテ内話アリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

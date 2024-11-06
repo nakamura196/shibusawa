@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-02-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前二三ノ来人ニ接ス、午後日本鉄道会社重役会ニ列ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 三井倶楽部ニ抵リ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ヨリ九州鉄道会社ノ実況調査ノ報告ヲ受ク、夜 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 、 <persname corresp=\"#pers_石井八万次郎\">\n<surname> 石井 </surname>\n<forename> 八万次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 、 <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> 諸氏来ル、 <persname corresp=\"#pers_石井\">\n<surname> 石井 </surname>\n</persname>\n<placename corresp=\"#place_大韓民国\"> 韓国 </placename> 鉱山再調査ノ為旅行スルニ付送別ノ宴ヲ開ク、 <placename corresp=\"#place_京城府\"> 京城 </placename> 、 <placename corresp=\"#place_仁川\"> 仁川 </placename>\n       等ヘ書状ヲ発ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

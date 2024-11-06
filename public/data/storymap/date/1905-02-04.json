@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-02-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、室内運動ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 過キ朝飧ヲ畢ル、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<orgname> 日本銀行 </orgname> ニ抵リ <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 総裁ヲ訪ヘシモ不在ナリキ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 十時半 </time>\n<orgname> 第一銀行 </orgname> ニ出勤シ行務ヲ談シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ於テ製麻会社ノ帳簿検査ヲ為ス、 <persname corresp=\"#pers_大島\">\n<surname> 大島 </surname>\n</persname> 、 <persname corresp=\"#pers_長尾\">\n<surname> 長尾 </surname>\n</persname> 両氏、 <persname corresp=\"#pers_土岐\">\n<surname> 土岐 </surname>\n</persname> 、 <persname corresp=\"#pers_上野\">\n<surname> 上野 </surname>\n</persname> 氏等モ来会ス、午後再ヒ <orgname> 日本銀行 </orgname> ニ抵リ <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 氏ニ面会シテ公債募集ニ関スル方法ヲ談話シ、且 <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n       ニ関スル銀行事務ヲ詳話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:30:00",
+                    "text": "<time when=\"15:30:00\"> 午後三時半 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ諸方ヘ書状ヲ発シ、且浦賀船渠会社重役中ノ内議ニ列席ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ヘ帰宿ス <lb></lb>\n<persname corresp=\"#pers_多賀\">\n<surname> 多賀 </surname>\n</persname> 氏ノ婚儀ニ関シテ <persname corresp=\"#pers_梅謙次郎\">\n<surname> 梅 </surname>\n<forename> 謙次郎 </forename>\n</persname> 氏ヘ書状ヲ送リ成功無覚束事ヲ通知ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-02-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前、 <persname corresp=\"#pers_不二樹熊次郎\">\n<surname> 不二樹 </surname>\n<forename> 熊次郎 </forename>\n</persname> 氏来ル、砂糖税ノ事ヲ談ス、 <persname corresp=\"#pers_大川平三郎\">\n<surname> 大川 </surname>\n<forename> 平三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_福岡健良\">\n<surname> 福岡 </surname>\n<forename> 健良 </forename>\n</persname> 、 <persname corresp=\"#pers_星野錫三\">\n<surname> 星野 </surname>\n<forename> 錫三 </forename>\n</persname> 氏来リ鉄工会社ヘ金融ノ依頼アリシモ追テ回答スヘキ旨ヲ答フ、 <persname corresp=\"#pers_仲田慶三郎\">\n<surname> 仲田 </surname>\n<forename> 慶三郎 </forename>\n</persname> 来リテ札幌麦酒会社ノ事ヲ談ス、 <persname corresp=\"#pers_外山修造\">\n<surname> 外山 </surname>\n<forename> 修造 </forename>\n</persname> 氏来ル、銀行法及貯蓄銀行法案ノ事ヲ談ス、 <persname corresp=\"#pers_中井三郎兵衛\">\n<surname> 中井 </surname>\n<forename> 三郎兵衛 </forename>\n</persname> 来、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> ヘ添書ノ事ヲ依頼セラル、 <persname corresp=\"#pers_森下岩楠\">\n<surname> 森下 </surname>\n<forename> 岩楠 </forename>\n</persname> 来ル、 <persname corresp=\"#pers_井上勝\">\n<surname> 井上 </surname>\n<forename> 勝 </forename>\n</persname> 、 <persname corresp=\"#pers_大原春次郎\">\n<surname> 大原 </surname>\n<forename> 春次郎 </forename>\n</persname> 来ル、 <orgname> 汽車製造会社 </orgname> ノ事ヲ談ス、此日ヨリ下痢症全ク快方セシニ付服薬食事トモ常ニ復スルヲ得タリ <lb></lb> 午後\n        <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 氏来ル、銀行ノ用務ヲ談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

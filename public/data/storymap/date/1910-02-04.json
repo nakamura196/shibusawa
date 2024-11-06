@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-02-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、病ノ為メニ褥中ニ於テ新聞紙其他ノ書類ヲ一覧ス、演説筆記ノ修正ヲ為シ、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 、 <placename corresp=\"#place_大阪\"> 大阪 </placename>\n       、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 、其他諸方ヘノ書状ヲ裁ス臥床中種々ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 朝飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 午飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<persname corresp=\"#pers_高木\">\n<surname> 高木 </surname>\n</persname> 博士、 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス、 <persname corresp=\"#pers_増田明六\">\n<surname> 増田 </surname>\n<forename> 明六 </forename>\n</persname> 来リ、昨日来整理セシ書類及書状ヲ交付シテ発送セシム、夜飧後、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 公ノ実録ヲ読マシム <lb></lb> 朝来喘息強ク呼吸頗ル困難ナリシモ、書類ノ整理ト書状ノ発送トハ強テ之ニ従事セリ <lb></lb> 仏語教師 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 氏来ル、 <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persname> 修学ノ事ヲ談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

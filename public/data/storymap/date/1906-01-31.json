@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-01-31",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後書斎ニテ日誌ヲ調査シ、書状ヲ裁ス（ <persname corresp=\"#pers_清水泰吉\">\n<surname> 清水 </surname>\n<forename> 泰吉 </forename>\n</persname> 、 <persname corresp=\"#pers_渡瀬常吉\">\n<surname> 渡瀬 </surname>\n<forename> 常吉 </forename>\n</persname> ）、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time> 入浴、畢テ朝飧ヲ喫ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 午前十時半 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ニ抵リ独乙公使ワルレイ氏及総領事通訳某ト共ニ此度来朝セシ電気技師紹介ノ為メ来訪セラル、中原工学博士来話ス、 <placename corresp=\"#place_大韓民国\"> 韓国\n       </placename> 水力電気事業調査ノ事ニ関シテナリ、 <persname corresp=\"#pers_土岐〓\">\n<surname> 土岐 </surname>\n<forename> 〓 </forename>\n</persname> 氏ト共ニ談話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ韓国大使一行ノ来訪ニ接ス、行内ヲ一覧セシメ畢テ午飧ヲ共ニシ、食後種々ノ談話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\">\n        午後四時 </time> 頃事務所ニ抵ル、是ヨリ先英国人 <persname corresp=\"#pers_フラオン\">\n<surname> フラオン </surname>\n</persname> 氏来訪ス、氏ハ従来 <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n       ニ在テ税関総務タリシ人ナリ、依テ種々ノ談話ヲ為シ再会ヲ約シテ去ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ工業協会ノ招宴ニ出席ス、 <persname corresp=\"#pers_金子\">\n<surname> 金子 </surname>\n</persname> 男爵、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏等会ノ代表者トシテ接伴ス、 <persname corresp=\"#pers_松岡\">\n<surname> 松岡 </surname>\n</persname> 農商務大臣其他ノ官吏来会ス、工業ニ関スル一場ノ演説ヲ為ス、食後来客諸氏ノ演説アリ、頗ル盛会ナリキ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時\n       </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

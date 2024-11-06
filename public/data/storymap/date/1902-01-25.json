@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-01-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 大蔵省ニ抵リ <persname corresp=\"#pers_斎藤\">\n<surname> 斎藤 </surname>\n</persname> 銀行局長ニ面会シテ銀行法ニ関スル事ヲ話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n       京釜鉄道会社重役会ニ出席シ諸務ヲ議決ス、午飧後商業会議所ニ抵リ <persname corresp=\"#pers_木内\">\n<surname> 木内 </surname>\n</persname> 局長ヨリ諮問セラレタル会議所条例改正ノ草案ニ付キ役員諸氏ト協議ス、 <persname corresp=\"#pers_前田青莎\">\n<surname> 前田 </surname>\n<forename> 青莎 </forename>\n</persname> 氏来ル、岩越鉄道ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<persname corresp=\"#pers_キルビー\">\n<surname> キルビー </surname>\n</persname> 氏来リ、同車シテ英国公使 <persname corresp=\"#pers_マクドナード\">\n<surname> マクドナード </surname>\n</persname> 氏ヲ公使館ニ訪フ、北越鉄道会社々債ノ事ニ関シ種々ノ談話ヲ為シ、別ニ公使ヨリ居留地家屋税ノ事ニ付意見ヲ陳セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\">\n        午後五時 </time> 過キ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ株主総会ヲ開キ、畢テホテル事務改良ノ事ニ関シ、 <persname corresp=\"#pers_横山\">\n<surname> 横山 </surname>\n</persname> 、 <persname corresp=\"#pers_神谷\">\n<surname> 神谷 </surname>\n</persname> 二氏ヘ談話ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス <lb></lb>\n       此夜宮内省内蔵助氏来会《（マヽ）》ニ付ホテルニ関スル企望ヲ同局長《（マヽ）》ニ伝語ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

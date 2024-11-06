@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-01-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シテ、朝飧ヲ食ス、後、 <persname corresp=\"#pers_浅香克孝\">\n<surname> 浅香 </surname>\n<forename> 克孝 </forename>\n</persname> 氏ノ来訪ニ接ス <persname corresp=\"#pers_柴田愛蔵\">\n<surname> 柴田 </surname>\n<forename> 愛蔵 </forename>\n</persname> 氏来リ、東洋性命保険会社《（生）》ノ為メニ書状ヲ裁シ遣ス、 <persname corresp=\"#pers_岡田良平\">\n<surname> 岡田 </surname>\n<forename> 良平 </forename>\n</persname> 氏来リ <orgname> 高等商業学校 </orgname> ノ事ヲ談ス、 <persname corresp=\"#pers_清水百太郎\">\n<surname> 清水 </surname>\n<forename> 百太郎 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_明石\">\n<surname> 明石 </surname>\n</persname> 老夫人帰国ノ由ニテ来訪セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 商業会議所ニ抵リ、 <placename corresp=\"#place_東京\"> 東京 </placename> 栄銀行株主総会ニ出席シテ一場ノ演説ヲ為ス、午飧後、 <orgname> 東京瓦斯会社 </orgname>\n       株主総会ヲ同所ニ開キ、監査役指令《（名カ）》ノ事ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 過 <orgname> 第一銀行 </orgname>\n       ニ抵リ支店長会ニ出席シ、後、重役会ヲ開ク、畢テ事務所ニ於テ事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 午後六時半 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、夜、 <persname corresp=\"#pers_竹田\">\n<surname> 竹田 </surname>\n</persname> 氏来リ、 <persname corresp=\"#pers_伊藤登喜蔵\">\n<surname> 伊藤 </surname>\n<forename> 登喜蔵 </forename>\n</persname> 身上ニ付種々ノ談話ヲ為ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename>\n<orgname> 精養軒 </orgname> ニ抵リ、商工懇話会ニ出席シテ一場ノ演説ヲ為ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

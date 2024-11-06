@@ -1,0 +1,59 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-07-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、午前郷 <persname corresp=\"#pers_隆三郎\">\n<forename> 隆三郎 </forename>\n</persname> 来ル、堀越商会ノ業務ヲ話ス、 <persname corresp=\"#pers_南条新六郎\">\n<surname> 南条 </surname>\n<forename> 新六郎 </forename>\n</persname> 来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<placename corresp=\"#place_永田町\"> 永田町 </placename>\n<persname corresp=\"#pers_清水泰吉\">\n<surname> 清水 </surname>\n<forename> 泰吉 </forename>\n</persname> 宅ニ抵リ結婚ノ媒妁ヲ為ス、蓋シ <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 三女 <persname corresp=\"#pers_幸子\">\n<forename> 幸子 </forename>\n</persname> ト婚儀ヲ行フナリ、 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 、 <persname corresp=\"#pers_清水\">\n<surname> 清水 </surname>\n</persname> 両家ノ親戚相会シ、儀畢テ夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6768472,
+                    "lon": 139.7399139,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ヘ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

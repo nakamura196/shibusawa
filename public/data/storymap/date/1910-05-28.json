@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-05-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       朝飧ヲ食ス、後、葬儀ニ関スル庶務ヲ協議ス、又墓所ヲ一覧ス、午飧後死者納棺ノ事アリ、後、柩ヲ参拝ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:13:00",
+                    "text": "<time when=\"15:13:00\"> 午後三時十三分 </time>\n<placename corresp=\"#place_深谷\"> 深谷 </placename> 発ノ汽車ニテ帰京ノ途ニ就ク、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 夫妻、 <persname corresp=\"#pers_穂積歌子\">\n<surname> 穂積 </surname>\n<forename> 歌子 </forename>\n</persname>\n<persname corresp=\"#pers_穂積重遠\">\n<forename> 重遠 </forename>\n</persname> 等同伴ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> 着、 <persname corresp=\"#pers_高橋波太郎\">\n<surname> 高橋 </surname>\n<forename> 波太郎 </forename>\n</persname> 来リテ弔詞ヲ述フ、夜食後実業団誌ヲ一覧シ、又、紀料ヲ読ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1910-05-29T00:00+0900\"> 十二時 </time>\n       就寝 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

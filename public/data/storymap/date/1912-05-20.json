@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-05-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ朝飧ヲ食シ、後、 <persname corresp=\"#pers_岡本学\">\n<surname> 岡本 </surname>\n<forename> 学 </forename>\n</persname> 氏、 <persname corresp=\"#pers_渡辺六尺\">\n<surname> 渡辺 </surname>\n<forename> 六尺 </forename>\n</persname> 氏ノ来訪ニ接ス、応接畢リテ武蔵武士ノ原稿ヲ一覧ス、 <persname corresp=\"#pers_日下義雄\">\n<surname> 日下 </surname>\n<forename> 義雄 </forename>\n</persname> 氏夫妻来訪セラル、英人来リテ庭園ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 事務所ニ抵リテ庶務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧ス、後、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏其他ト行務ヲ談ス、畢テ再ヒ事務所ニ於テ書類ヲ点撿ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 過帰宿、夜飧後 <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persname> ノ病ヲ診察スルタメ、 <persname corresp=\"#pers_佐藤\">\n<surname> 佐藤 </surname>\n</persname> 、 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 両医師来ル、後、武蔵武士ノ原稿一覧ニ勉メ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1912-05-21T01:00+0900\"> 一時 </time> ニ至リテ就寝ス <lb></lb>\n<persname corresp=\"#pers_手塚猛昌\">\n<surname> 手塚 </surname>\n<forename> 猛昌 </forename>\n</persname> 氏来リテ劇場会社ノ事ヲ談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

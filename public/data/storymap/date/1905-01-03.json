@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-01-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、室内運動ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ喫ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> ヨリ <persname corresp=\"#pers_横山富三郎\">\n<surname> 横山 </surname>\n<forename> 富三郎 </forename>\n</persname> 墓誌ノ揮毫ヲ為ス、午後ニ至リテ畢ル、 <persname corresp=\"#pers_穂積陳重\">\n<surname> 穂積 </surname>\n<forename> 陳重 </forename>\n</persname> 夫妻、 <persname corresp=\"#pers_土屋\">\n<surname> 土屋 </surname>\n</persname> 医師其他来客多シ <lb></lb> 昨日 <placename corresp=\"#place_旅順口区\"> 旅順 </placename> 陥落ノ報アリシヨリ、\n        <placename corresp=\"#place_東京\"> 東京 </placename> ハ戸々国旗ヲ掲ケ、夜ハ点灯シテ頗ル雑沓セシ由ナリ <lb></lb>\n       朝来腹部ノ工合常ナラサリシモ午後ニ至リテ少ク軽快ス、夜ニ入リテ稍本復ヲ覚フ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 38.8125,
+                    "lon": 121.24167,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

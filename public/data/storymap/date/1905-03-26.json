@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-03-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、病少シク快方ニ赴クト云トモ尚ホ全快ニ至ラス、褥中ニ在テ食事ヲ為シ書類ヲ検閲ス <lb></lb>\n       家人ニ小説ヲ読マシメテ無聊ヲ慰ム <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 同族会ヲ別室ニ開キ要務ヲ議決シ計算ヲ承認ス、 <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 夫妻来会ス、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> モ病ノ為メ欠席シテ <persname corresp=\"#pers_渋沢敦子\">\n<forename> 敦子 </forename>\n</persname> ノミ来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 午飧ヲ畢リ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時\n       </time> 過散会ス <lb></lb> 夕方医師 <persname corresp=\"#pers_堀井宗一\">\n<surname> 堀井 </surname>\n<forename> 宗一 </forename>\n</persname> 来診ス <lb></lb> 午前 <persname corresp=\"#pers_佐々木慎思郎\">\n<surname> 佐々木 </surname>\n<forename> 慎思郎 </forename>\n</persname> 来リ浦賀船渠会社ノ事ヲ談ス、 <persname corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persname> 来リ煉瓦会社ノ要務ヲ談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

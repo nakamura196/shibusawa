@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-08-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 午前十時半 </time>\n<persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> ヲ伴ヒ、 <persname corresp=\"#pers_メンドルソン\">\n<surname> メンドルソン </surname>\n</persname> 氏ヲ其銀行ニ訪ヒ経済上ニ関スル種々ノ談話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 帰宿、午飧後 <persname corresp=\"#pers_斎藤\">\n<surname> 斎藤 </surname>\n</persname> 書記官ト共ニ <persname corresp=\"#pers_ヘルツ\">\n<surname> ヘルツ </surname>\n</persname> 氏ヲ訪フ、氏ハ伯林商業会議所会頭タルヲ以テ <persname corresp=\"#pers_萩原\">\n<surname> 萩原 </surname>\n</persname> 氏ヲモ同伴ス、面会ノ後東西商工業者意思疎通ノ事ヲ談シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 帰宿ス、後絵画陳列所ヲ一覧ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<persname corresp=\"#pers_シーボルト\">\n<surname> シーホルト </surname>\n</persname> 男来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<persname corresp=\"#pers_シーボルト\">\n<surname> シーボルト </surname>\n</persname> 男ヲ其旅寓ニ訪ヒ旧情ヲ話シ、其饗応ニヨリテ共ニ夜飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 午後十時 </time>\n       帰宿ス、此夜京釜鉄道会社ヨリノ電報ヲ落手ス <lb></lb> 一昨日 <placename corresp=\"#place_ロンドン\"> 倫敦 </placename>\n<persname corresp=\"#pers_清水泰吉\">\n<surname> 清水 </surname>\n<forename> 泰吉 </forename>\n</persname> ヨリ三回ノ来状アリ、今日 <placename corresp=\"#place_東京\"> 東京 </placename>\n<persname corresp=\"#pers_戸田宇八\">\n<surname> 戸田 </surname>\n<forename> 宇八 </forename>\n</persname> 、 <placename corresp=\"#place_ロンドン\"> 倫敦 </placename>\n<persname corresp=\"#pers_根岸練次郎\">\n<surname> 根岸 </surname>\n<forename> 練次郎 </forename>\n</persname> ヨリノ来状アリタリ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 51.50778,
+                    "lon": -0.12806,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

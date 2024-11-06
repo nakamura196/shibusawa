@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-09-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、数多ノ来人アリ、入浴シテ、朝飧ヲ食ス、後、 <persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 氏ト共ニ <placename corresp=\"#place_高崎\"> 高崎 </placename> 知事、 <persname corresp=\"#pers_植村\">\n<surname> 植村 </surname>\n</persname> 市長其他当地ニ於ル重立タル銀行、諸会社ヲ訪問ス、又、朝日、毎日等ノ新聞社ヲ訪問ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 過\n        <orgname> 第一銀行 </orgname> 支店ニ抵リテ、 <placename corresp=\"#place_東京\"> 東京 </placename> 、\n        <placename corresp=\"#place_名古屋\"> 名古屋 </placename> 等ヘノ書状ヲ発ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時\n       </time> 銀行集会所ニ抵リテ午飧ス、畢テ再ヒ銀行ニ抵リテ書状ヲ裁ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n       ヨリ銀行集会所ニ於テ寄附金勧募ノ会ヲ開ク、来会者五六十人計リ、演説畢リテ <orgname> 灘万楼 </orgname> ニ抵リ、 <persname corresp=\"#pers_土居通夫\">\n<surname> 土居 </surname>\n<forename> 通夫 </forename>\n</persname> 氏ヨリノ招宴ニ出席ス、来会者十二名許リナリ宴畢テ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過伝法屋ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

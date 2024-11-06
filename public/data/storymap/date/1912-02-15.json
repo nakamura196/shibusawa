@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-02-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_鍋島剣一\">\n<surname> 鍋島 </surname>\n<forename> 剣一 </forename>\n</persname> 氏ノ来訪ニ接シ、喜賓会ノ事及外人内地旅行ノ事ヲ談ス、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏来リ <orgname> 東洋汽船会社 </orgname> 々債ノ談アリ、 <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> 氏来リ、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ノ身上ニ関シ頃日来ノ取扱ニ不満足ノ点多キヲ以テ、懇切ニ之ヲ説示シ又厳正ニ之ヲ論破ス、 <persname corresp=\"#pers_尾高次郎\">\n<forename> 次郎 </forename>\n</persname> モ大ニ悟ル所アルカ如シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ、 <persname corresp=\"#pers_大倉喜八郎\">\n<surname> 大倉 </surname>\n<forename> 喜八郎 </forename>\n</persname> 、 <persname corresp=\"#pers_内田嘉吉\">\n<surname> 内田 </surname>\n<forename> 嘉吉 </forename>\n</persname> 二氏ト共ニ <orgname> 東洋汽船会社 </orgname> ノ事ヲ談ス、畢テ午飧ヲ共ニシ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 二時半\n       </time> 農商務省ニ抵リ、 <persname corresp=\"#pers_押川\">\n<surname> 押川 </surname>\n</persname> 次官ニ面会シテ <placename corresp=\"#place_福島\"> 福島 </placename> 県蚕種製造土地撰定ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ重役会ヲ開キ要件ヲ議決シ、又、行員進級ノ事ヲ決定ス、後、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト内事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 過事務所ニ抵リテ常務ヲ処理シ、 <persname corresp=\"#pers_石井\">\n<surname> 石井 </surname>\n</persname> 外務次官、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 、 <persname corresp=\"#pers_安田常作\">\n<surname> 安田 </surname>\n<forename> 常作 </forename>\n</persname> 等ヘノ書状ヲ裁ス又、来書ヲ点撿シテ処分ノ事ヲ指示ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿、夜飧後新聞紙ヲ読マシム、夜、 <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 家、 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 等ヘ電話ヲ交換ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

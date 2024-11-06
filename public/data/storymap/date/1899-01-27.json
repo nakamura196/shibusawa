@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-01-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1073\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/99/full/max/0/default.jpg\" n=\"B1073\" source=\"#pageB1073\"></pb>\n<lb></lb> 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 柳花苑ニ於テ <orgname> 東京商業会議所 </orgname> 議員撰挙ノ事ヲ協議ス、\n        <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 子爵来リテ <orgname> 汽車製造会社 </orgname> ノ事ヲ議ス、 <orgname> 精養軒 </orgname>\n       ニテ午餐シ、午後北越鉄道会社ニ於テ帳簿ヲ監査シ <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> 社長ト <date when=\"1899-01-29\"> 廿九日 </date> 株主総会ノ事ヲ談話ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時\n       </time> 日本鉄道会社ニ抵リ重役会ニ列シ要件ヲ議定ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 過銀行集会所ニ抵リ手形交換所組合ノ会同ニ列シ、畢テ\n        <orgname> 東京興信所 </orgname> ノ発起会員会《（委）》ニ列シ要務数項ヲ議決ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 帰宅ス\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

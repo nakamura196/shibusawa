@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-03-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、静坐入浴畢テ朝飧ヲ食ス、後、 <persname corresp=\"#pers_菅野\">\n<surname> 菅野 </surname>\n</persname> 某ノ来訪ニ接見ス、又、 <persname corresp=\"#pers_成沢金兵衛\">\n<surname> 成沢 </surname>\n<forename> 金兵衛 </forename>\n</persname> 氏来リ活動写真ノ事ヲ依頼セラル、 <persname corresp=\"#pers_佐治幸平\">\n<surname> 佐治 </surname>\n<forename> 幸平 </forename>\n</persname> 氏来リ救済会ノ事ニ付意見ヲ陳告セラル、 <persname corresp=\"#pers_成瀬仁蔵\">\n<surname> 成瀬 </surname>\n<forename> 仁蔵 </forename>\n</persname> 氏来リテ <orgname> 女子大学 </orgname> ノ事及 <persname corresp=\"#pers_森村\">\n<surname> 森村 </surname>\n</persname> 氏トノ会見ニ付報告アリ、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 氏来リ行路病者取扱ノ事ニ付意見ヲ述ヘラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 午前十時半 </time> 事務所ニ抵リテ、 <persname corresp=\"#pers_植村澄三郎\">\n<surname> 植村 </surname>\n<forename> 澄三郎 </forename>\n</persname> 氏ノ来訪ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト行務ヲ談ス、 <persname corresp=\"#pers_明石照男\">\n<surname> 明石 </surname>\n<forename> 照男 </forename>\n</persname> ト家事ヲ話シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 事務所ニ於テ庶務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\">\n        午後一時 </time>\n<placename corresp=\"#place_春樹街\"> 春樹街 </placename> ニ於テ午飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n       帰宅、後、日記ヲ編成ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-01-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_吉野\">\n<surname> 吉野 </surname>\n</persname> 氏来リ揮毫ノ依頼アリ又、 <persname corresp=\"#pers_巽幸市\">\n<surname> 巽 </surname>\n<forename> 幸市 </forename>\n</persname> 氏来リ児童ノ読物ニ付種々ノ意見ヲ陳述シ且其計画ヲ叙セ <pb corresp=\"#pageB1752\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/778/full/max/0/default.jpg\" n=\"B1752\" source=\"#pageB1752\"></pb> ラル、依テ一分ノ添心ヲ約ス <lb></lb>\n<persname corresp=\"#pers_白石元治郎\">\n<surname> 白石 </surname>\n<forename> 元治郎 </forename>\n</persname> 氏、 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 夫人其他来訪ス、 <persname corresp=\"#pers_白石\">\n<surname> 白石 </surname>\n</persname> 氏ヨリ欧米旅行ノ経過ヲ報告セラル、 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 、 <persname corresp=\"#pers_大川\">\n<surname> 大川 </surname>\n</persname> 両夫人来リ共ニ午飧ヲ為ス、 <persname corresp=\"#pers_萩原源太郎\">\n<surname> 萩原 </surname>\n<forename> 源太郎 </forename>\n</persname> 氏来リ其子息 <placename corresp=\"#place_ドイツ\"> 独乙 </placename> 留学ノ事ニ付談話ス、 <persname corresp=\"#pers_神田鐳蔵\">\n<surname> 神田 </surname>\n<forename> 鐳蔵 </forename>\n</persname> 氏来リ <persname corresp=\"#pers_水上\">\n<surname> 水上 </surname>\n</persname> 氏ノ勤務ニ付談話アリ、夕方ヨリ、武蔵武士及 <persname corresp=\"#pers_矢野二郎\">\n<surname> 矢野 </surname>\n<forename> 二郎 </forename>\n</persname> 伝ノ序文ヲ揮毫ス、夜飧後、 <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢秀雄\">\n<forename> 秀 </forename>\n</persname> 三児ニ内事ニ付訓戒ヲ為ス <lb></lb> 午前、 <persname corresp=\"#pers_土肥修策\">\n<surname> 土肥 </surname>\n<forename> 修策 </forename>\n</persname> 氏来リ <placename corresp=\"#place_清\"> 清国 </placename> 旅行ノ経過ヲ報告セラル、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> ヨリ新聞紙ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1913-01-20T00:00+0900\"> 十二時 </time>\n       就寝ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-10-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前数多ノ来人ニ接ス、英国人 <persname corresp=\"#pers_アンシヱール\">\n<surname> アンシヱール </surname>\n</persname> 氏来話ス、 <persname corresp=\"#pers_今村清之助\">\n<surname> 今村 </surname>\n<forename> 清之助 </forename>\n</persname> 氏来リ <orgname> 汽車製造会社 </orgname> ノ事ヲ談ス、午後 <orgname> 第一銀行 </orgname> ニ出勤ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 銀行集会所組合銀行会ヲ開ク、更ニ関東銀行幹事会ヲ開キ <date evidence=\"year inferenced, day\" when=\"1900-11\"> 十一月 </date> 中関東銀行会開会ノ事ヲ定ム、夜 <placename corresp=\"#place_浜町\"> 浜町 </placename>\n       宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-07-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後入浴シ、畢テ朝飧ヲ食ス、食後新聞紙ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 満洲興業会社事務所ニ抵リ、 <persname corresp=\"#pers_馬越\">\n<surname> 馬越 </surname>\n</persname> 氏実地視察ノ概況ヲ聞ク、重役会ニ於テ要件ヲ議シ、畢テ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ重役会ヲ開ク、種々ノ要件ヲ議決セシ後、支配人ニ業務ヲ談シ、午飧後散会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 鉄道庁ニ\n        <persname corresp=\"#pers_平井\">\n<surname> 平井 </surname>\n</persname> 総裁ヲ訪ヒ喜賓会ニ関スル請求ヲ為シ、後、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ヲ <placename corresp=\"#place_麻布\"> 麻布 </placename> 邸ニ訪問シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\">\n        午後六時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 七時半\n       </time> 三井集会所ニ抵リ <orgname> 日本銀行 </orgname> ノ催ニ係ル日仏協約祝賀ノ宴会ニ出席ス、賓主会スル者八十名余、饗宴モ亦美ヲ尽セリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散宴、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

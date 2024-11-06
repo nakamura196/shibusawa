@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-04-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、朝数名ノ来客ニ接ス、午後 <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 、 <persname corresp=\"#pers_進\">\n<surname> 進 </surname>\n</persname> 、 <persname corresp=\"#pers_荒木\">\n<surname> 荒木 </surname>\n</persname> 、 <placename corresp=\"#place_大竹\"> 大竹 </placename> 諸氏来リ浦賀船渠ノ事ヲ議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 川上参謀長ヲ <placename corresp=\"#place_番町\"> 番町 </placename>\n       ニ訪フテ京坂鉄道ノ事及京仁鉄道ノ事ヲ談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

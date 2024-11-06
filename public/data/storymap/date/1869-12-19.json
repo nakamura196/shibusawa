@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-12-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 此日 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 帰省ニ付、再出京之儀、其外内事品々申談遣す <lb></lb> 朝五ツ頃出省、一昨日出来せし戸籍之調物相残り候分、 <persname corresp=\"#pers_岡本\">\n<surname> 岡本 </surname>\n</persname> 江廻ス、省中改正之儀ニ付、伺書草案いたす <lb></lb> 民事ハ治国之根楨、諸政之基礎ニ候処、中葉以降、 <persname corresp=\"#pers_平将門\">\n<forename> 将門 </forename>\n</persname>\n       弄権、百事自家之臆断ヲ以経画シ、郡国之経界、都邑村里之称、農桑商賈之税、度量衡之定則、其他緊要民命に関スル所務総テ紊乱シ、一定ノ法難認哉ニ奉存候、就而ハ目前之事唯旧貫ニ仍候迄ニテ、真正ノ御改革無之テハ遂ニ御基本難相立、実ニ此上モナキ急務ト奉存候間、此度省中ヲエテ改正掛相立、可然人物相撰、右掛申付、和漢洋古今之美意良法ヲ斟酌シ、折衷ノ上一定ノ御法相立候様仕度、此段相伺申候　以上 <lb></lb>\n<date type=\"旧暦\" when=\"1869-12\"> 十一月 </date>\n<lb></lb> 諸務廻し物取調いたす、省中諸事多端ニ付、夜に入テ退散ス <lb></lb>\n<persname corresp=\"#pers_玉乃少丞\">\n<surname> 玉乃 </surname> 少丞 </persname> ヨリナボレオンコード之儀申談有之、 <persname corresp=\"#pers_郷\">\n<surname> 郷 </surname>\n</persname> 少丞ヨリ <persname corresp=\"#pers_永田□左衛門\">\n<surname> 永田 </surname>\n<forename> □左衛門 </forename>\n</persname> 建白書被相廻一覧、 <persname corresp=\"#pers_岡本\">\n<surname> 岡本 </surname>\n</persname> へ廻ス、 <placename corresp=\"#place_フランス\"> 仏国 </placename> 在中之儀其外ニ付、卿、 <persname corresp=\"#pers_伊達\">\n<surname> 伊達 </surname>\n</persname> 従二位殿より御談有之 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

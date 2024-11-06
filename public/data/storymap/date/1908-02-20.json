@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-02-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、先ツ入浴シ、後、朝飧ヲ食ス、食後、 <persname corresp=\"#pers_今井清彦\">\n<surname> 今井 </surname>\n<forename> 清彦 </forename>\n</persname> 氏ノ来訪ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 偕楽園ニ抵リ、東京帽子会社株主総会ヲ開キ要件ヲ議決ス、畢テ午飧ヲ為シ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ重役会ヲ開キ種々ノ要件ヲ議決ス、韓国支店ニ係ル重要ノ問題ヲ協議ス、畢テ <persname corresp=\"#pers_酒匂常明\">\n<surname> 酒匂 </surname>\n<forename> 常明 </forename>\n</persname> 氏、 <persname corresp=\"#pers_西野恵之助\">\n<surname> 西野 </surname>\n<forename> 恵之助 </forename>\n</persname> 氏等ノ来訪ニ接シ、韓国興業会社重役会ヲ開キ、 <persname corresp=\"#pers_小西\">\n<surname> 小西 </surname>\n</persname> 支配人ノ意見ヲ聞ク、畢テ <placename corresp=\"#place_築地\"> 築地 </placename> ニ抵リ夜飧シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:30:00",
+                    "text": "<time when=\"20:30:00\"> 午後八時半 </time>\n<orgname> 東京瓦斯会社 </orgname> 営業部同志会ノ発会式ニ出席シ、一場ノ祝詞ヲ述ヘ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過\n        <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス <lb></lb> 此夜、 <placename corresp=\"#place_日本\"> 日本 </placename> 石油会社 <persname corresp=\"#pers_内藤\">\n<surname> 内藤 </surname>\n</persname> 氏ヨリ <placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ招宴アリシモ、謝絶シテ出席セス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

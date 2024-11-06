@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-01-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、室内運動ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       朝飧ヲ畢ル、昨日ト同ク揮毫ヲ試ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 頃 <placename corresp=\"#place_横浜\"> 横浜 </placename>\n<orgname> イリス商会 </orgname> ノ独人ポール氏、 <persname corresp=\"#pers_小束栄太郎\">\n<surname> 小束 </surname>\n<forename> 栄太郎 </forename>\n</persname> 二氏来リ燐礦石ノ事ニ関シ来請ノ事アリ、依テ <placename corresp=\"#place_東京\"> 東京 </placename> ニ電話ヲ通シテ肥料会社\n        <persname corresp=\"#pers_竹田\">\n<surname> 竹田 </surname>\n</persname>\n<persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 二氏明日来磯ノ事ヲ照会ス、午後 <placename corresp=\"#place_東京\"> 東京 </placename> 事務所 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> ヨリ来状アリ、 <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> 来状ヲ封入ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 過 <placename corresp=\"#place_大磯町\"> 大磯\n       </placename> 市街ヲ散歩シ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 帰寓ス、 <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_野口弥三\">\n<surname> 野口 </surname>\n<forename> 弥三 </forename>\n</persname> 、 <persname corresp=\"#pers_松井吉太郎\">\n<surname> 松井 </surname>\n<forename> 吉太郎 </forename>\n</persname> 三氏ノ書状来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 入浴、後 <pb corresp=\"#pageB1345\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/371/full/max/0/default.jpg\" n=\"B1345\" source=\"#pageB1345\"></pb> 教育勅語ヲ揮灑ス <lb></lb> 夜、甲子夜話ヲ読ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

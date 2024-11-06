@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-07-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨夕晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:45:00",
+                    "text": "<time when=\"08:45:00\"> 午前八時四十五分 </time>\n<placename corresp=\"#place_ロンドン\"> 倫敦 </placename> ビクトリヤ停車場発ノ汽車ニテ、メーストンナル、サー・マーカス・サミユールノ別業ヲ訪フ、\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 51.50778,
+                    "lon": -0.12806,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 頃同地停車場着、サミユール氏ハ其男児ト女子トヲ以テ余等ヲ迎ヘ馬車ニテ其別業ニ案内ス、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 、 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 、 <persname corresp=\"#pers_西河\">\n<surname> 西河 </surname>\n</persname>\n       嬢同行ス、別業ノ結構頗ル壮大ニシテ庭園ノ広キコト驚ニ堪ヘタリ、総坪数六百ヱーカーアリト云フ而シテ種々ノ喬木多ク庭園ノ路傍ニハ美麗ノ草花妍ヲ争フ、湖水アリ魚多ク潜ムト云フ、樹木ノ間ニ牛、馬、鹿、羊数百頭ヲ畜フ、芝生中ヲ俳徊シテ尤モ風情アリ、温室数棟アリ、百花競フテ開ク、又多ク菓物ヲ培養スル所アリ、室内ノ粧飾至テ古色アリ、馬車小屋ニ抵レハ馬車馬匹多ク具備ス、総テ美麗ト壮大ナルニ一驚ヲ喫シタリ、主人夫妻及\n        <persname corresp=\"#pers_サミユール_サミユール\">\n<forename> サミユール </forename> ・ <surname> サミユール </surname>\n</persname> 其他男女児一同相会シテ款待ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:45:00",
+                    "text": "<time when=\"15:45:00\">\n        三時四十五分 </time> 発ノ汽車ニ搭スル予定ナリシモ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:15:00",
+                    "text": "<time when=\"16:15:00\"> 四時十五分 </time>\n       ノ汽車ニテ帰宿ス、夜書類ヲ調査シ、且ボルツ会社ニ出状ス、 <persname corresp=\"#pers_渡辺専次郎\">\n<surname> 渡辺 </surname>\n<forename> 専次郎 </forename>\n</persname> 氏、 <persname corresp=\"#pers_三井八郎右衛門\">\n<surname> 三井 </surname>\n<forename> 高清 </forename>\n</persname> 氏《（ <persname corresp=\"#pers_三井高精\">\n<surname> 三井 </surname>\n<forename> 高精 </forename>\n</persname> 氏）》来話ス、明後日 <placename corresp=\"#place_スコツトランド\"> スコツトランド </placename>\n       行ノ事ニ関シテ協議シ且ツケスウエツク氏ト往復ノ事ヲ談話ス、 <persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> 来ル、 <placename corresp=\"#place_スコツトランド\"> スコツトランド </placename> 行ノ事ヲ談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-10-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後入浴シ、畢テ日記ヲ編成シ書類ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 過朝飧ヲ食ス、 <persname corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persname> 氏来リ、 <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> 修学上ノ事ニ関シ種々ノ協議ヲ為ス、 <persname corresp=\"#pers_安藤嶺麿\">\n<surname> 安藤 </surname>\n<forename> 嶺麿 </forename>\n</persname> 氏来リテ仏教伝道ノ事ヲ談ス、午飧後 <orgname> 埼玉学生誘掖会 </orgname>\n       ニ抵リテ紀念祭ノ式ヲ挙ケ、一場ノ演説ヲ為ス、畢テ学生間種々ノ余興アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 宅ニ休憩シ、衣服ヲ替ヘ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 七時半 </time>\n<placename corresp=\"#place_ロシア\"> 露国 </placename> 公使館ノ晩飧会ニ出席ス、 <persname corresp=\"#pers_山県\">\n<surname> 山県 </surname>\n</persname> 、 <persname corresp=\"#pers_大山\">\n<surname> 大山 </surname>\n</persname> 、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 、 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 、其他各省ノ大臣参会ス、鄭重ナル饗応アリ、食卓上ニ於テ露国公使ハ日露協約締結祝賀ノ意ヲ述ヘ、 <persname corresp=\"#pers_珍田\">\n<surname> 珍田 </surname>\n</persname> 次官大臣ノ代理トシテ之ニ答ヘ、賓主相和シ各歓ヲ尽シテ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過散会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-07-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:30:00",
+                    "text": "<time when=\"05:30:00\"> 午前五時半 </time> 起床、入浴シテ後朝飧ス、又、髪ヲ理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n<persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ <placename corresp=\"#place_新橋\"> 新橋 </placename> 停車場ニ抵リ、 <persname corresp=\"#pers_大川平三郎\">\n<surname> 大川 </surname>\n<forename> 平三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_白石元治郎\">\n<surname> 白石 </surname>\n<forename> 元治郎 </forename>\n</persname> 二氏ノ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 行ヲ送別ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 農商務省ニ抵リテ生産調査会ノ主査会ヲ開ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n       閉会、午飧後、慈恵会ニ抵リ評議員会ヲ開ク、畢テ <lb></lb> 皇后陛下ノ行啓ヲ奉迎ス、会長不在ニ付代理シテ便殿ヘ御先導申上ル拝謁畢テ本会ノ総会ヲ開キ、本会ノ諸計表ヲ朗読ス、散会後\n        <placename corresp=\"#place_芝\"> 芝 </placename> 離宮ニ於テ茶菓ヲ会員一同ニ下賜セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\">\n        午後四時 </time> 頃有栖川宮、 <persname corresp=\"#pers_閑院宮\"> 閑院宮 </persname> 御邸ニ伺候シ、後、 <placename corresp=\"#place_白金\"> 白金 </placename> ニ抵リ <persname corresp=\"#pers_渋沢作太郎\">\n<surname> 渋沢 </surname>\n<forename> 作太郎 </forename>\n</persname> 歿後ノ事ニ関シ種々ノ協議ヲ為 <pb corresp=\"#pageB1632\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/658/full/max/0/default.jpg\" n=\"B1632\" source=\"#pageB1632\"></pb> ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_三田\"> 三田 </placename>\n<persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 邸ニ抵リテ夜飧シ、食後、 <persname corresp=\"#pers_渋沢敬三\">\n<forename> 敬三 </forename>\n</persname> 等ニ修身上及修学上ノ訓戒ヲ為ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

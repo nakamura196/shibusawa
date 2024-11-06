@@ -1,0 +1,72 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-05-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " （欄外） <lb></lb> ［朝小蒸気船ノ〓行ヲ見ル <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ衣服ヲ更メ、甲板上ヲ散歩シ、随行者ト共ニ <placename corresp=\"#place_支那\"> 支那 </placename>\n<placename corresp=\"#place_長江\"> 長江 </placename> 筋ノ行程ヲ研究ス、 <persname corresp=\"#pers_野口\">\n<surname> 野口 </surname>\n</persname> 氏ノ <placename corresp=\"#place_長江\"> 長江 </placename> 地図ニヨリテ詳細ナル説明アリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 32.60389,
+                    "lon": 94.51222,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 午前八時半 </time> 朝飧ヲ食シ、再ヒ読書室ニ於テ地図ヲ開キテ各所ノ古跡ヲ質問ス、 <placename corresp=\"#place_上海市\"> 上海 </placename> ヨリ遡リテ <placename corresp=\"#place_姑蘇\"> 姑蘇 </placename>\n       、 <placename corresp=\"#place_南京市\"> 南京 </placename> 、 <placename corresp=\"#place_九江市\"> 九江\n       </placename> 、 <placename corresp=\"#place_武昌区\"> 武昌 </placename> 、 <placename corresp=\"#place_漢口\"> 漢口 </placename> ヲ経テ <placename corresp=\"#place_湖南\"> 湖南 </placename>\n       ニ至ル、 <persname corresp=\"#pers_野口\">\n<surname> 野口 </surname>\n</persname> 氏ノ説明頗ル詳密ナリ、畢テ船室内ニテ日記ヲ編成ス、午飧後、演説筆記ヲ修正シ又揮毫ヲ試ム、夕方ヨリ海色少ク濁ル蓋シ <placename corresp=\"#place_揚子江\"> 楊子江《（揚子江）》 </placename> ノ水、海ニ注クタメナリ、夜飧後、喫煙室ニテ遊戯ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 31.16667,
+                    "lon": 121.48333,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 就寝後、 <placename corresp=\"#place_上海市\"> 上海 </placename>\n       ト題スル冊子ヲ一覧ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 31.16667,
+                    "lon": 121.48333,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

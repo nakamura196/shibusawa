@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-10-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤太夫 </forename>\n</persname> 、 <persname corresp=\"#pers_ポール_フルーリ_エラール\">\n<forename> フロリ </forename>\n<surname> ヘラルト </surname>\n</persname> 方罷越す、飛脚船勘定之儀申談す、 <placename corresp=\"#place_フランス\"> 仏国 </placename> 飛船商社江罷越、頭取\n        <persname corresp=\"#pers_ウードラア\">\n<surname> ウードラア </surname>\n</persname> 面会、明日 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<persname corresp=\"#pers_ポール_フルーリ_エラール\">\n<forename> フロリ </forename>\n<surname> ヘラルト </surname>\n</persname> 方ニ而打寄相談之積申談罷帰る <lb></lb> 礼式懸モリス罷出、国帝より返書有之ニ付、来 <date evidence=\"year inferenced, month\" when=\"1868-10-17\"> 十七日 </date> 迄ニ <placename corresp=\"#place_ビアリッツ\"> ビヤリイト </placename> 御越有之度、同所ニ而御逢有之旨申来ル <lb></lb> 第 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 43.481667,
+                    "lon": -1.556111,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\">\n        九時 </time> 、御乗廻し、 <persname corresp=\"#pers_コロネル\">\n<surname> コロネル </surname>\n</persname> 御供 <lb></lb> 第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time> 、金銀銅製作御越《（所脱カ）》、 <persname corresp=\"#pers_菊池平八郎\">\n<forename> 平八郎 </forename>\n</persname> 、 <persname corresp=\"#pers_小出涌之助\">\n<forename> 涌之助 </forename>\n</persname> 、 <persname corresp=\"#pers_コロネル\">\n<surname> コロネル </surname>\n</persname> 御供 <lb></lb> 夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 、劇場御越、 <persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤太夫 </forename>\n</persname> 、 <persname corresp=\"#pers_菊池平八郎\">\n<forename> 平八郎 </forename>\n</persname> 、 <persname corresp=\"#pers_三輪端蔵\">\n<forename> 端蔵 </forename>\n</persname> 、 <persname corresp=\"#pers_小出涌之助\">\n<forename> 涌之助 </forename>\n</persname> 、 <persname corresp=\"#pers_伊東玄伯\">\n<forename> 玄伯 </forename>\n</persname> 、 <persname corresp=\"#pers_コロネル\">\n<surname> コロネル </surname>\n</persname> 御供、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1868-10-14T00:00+0900\"> 十二時 </time> 御帰館 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

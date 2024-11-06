@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-02-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 頃御城に出る、拝謁之儀ニ付公子より被仰含之廉々中老 <persname corresp=\"#pers_戸川平右衛門\">\n<surname> 戸川 </surname>\n<forename> 平右衛門 </forename>\n</persname> 殿へ申立る、明日拝謁被仰付旨御同人被申渡、商社之儀ニ付見込 <persname corresp=\"#pers_織田和泉\">\n<surname> 織田 </surname>\n<forename> 和泉 </forename>\n</persname> 殿へ申立る、 <persname corresp=\"#pers_淵辺徳蔵\">\n<surname> 淵辺 </surname>\n<forename> 徳蔵 </forename>\n</persname> 面会、観臨乗込当地《（咸カ）》ニ而謹慎被申付居候者へ書状達し方金子少々送り方申托す <lb></lb> 昨日、 <persname corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n<forename> 愛蔵 </forename>\n</persname>\n<placename corresp=\"#place_横打町\"> 横打町 </placename> へ引越す <lb></lb> 夕方、 <persname corresp=\"#pers_杉浦譲\">\n<forename> 愛蔵 </forename>\n</persname> 同行 <persname corresp=\"#pers_大黒屋勇助\"> 大黒屋 <forename> 勇助 </forename>\n</persname> を訪ふ、 <persname corresp=\"#pers_大坪七兵衛\">\n<surname> 大坪 </surname>\n<forename> 七兵衛 </forename>\n</persname> 面会、帰路 <persname corresp=\"#pers_杉浦譲\">\n<forename> 愛蔵 </forename>\n</persname> と同しく天麩羅店ニ而小酌、夜に入帰宿 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

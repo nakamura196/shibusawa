@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-02-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後書斎ニ於テ書類ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time> 朝飧ヲ喫ス、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 、 <persname corresp=\"#pers_桜井\">\n<surname> 桜井 </surname>\n</persname> 某来リ養育院感化部ノ事ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<persname corresp=\"#pers_本多静六\">\n<surname> 本多 </surname>\n<forename> 静六 </forename>\n</persname> 、 <persname corresp=\"#pers_久米幸三郎\">\n<surname> 久米 </surname>\n<forename> 幸三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_湯本\">\n<surname> 湯本 </surname>\n</persname>\n<persname corresp=\"#pers_田島\">\n<surname> 田島 </surname>\n</persname> 、 <persname corresp=\"#pers_鈴木\">\n<surname> 鈴木 </surname>\n</persname> ノ諸氏来リテ <placename corresp=\"#place_秩父郡\"> 秩父郡 </placename> 水力ノ事ヲ協議ス、 <persname corresp=\"#pers_江間政発\">\n<surname> 江間 </surname>\n<forename> 政発 </forename>\n</persname> 来リ文書ノ談話ヲ為ス、午飧後 <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 、 <persname corresp=\"#pers_吉岡新五郎\">\n<surname> 吉岡 </surname>\n<forename> 新五郎 </forename>\n</persname> 等来話ス <lb></lb> 江間政発ト共ニ英人 <persname corresp=\"#pers_ブラウン\">\n<surname> ブラウン </surname>\n</persname> 氏ニ送ルヘキ謝状ノ文案ヲ協議ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

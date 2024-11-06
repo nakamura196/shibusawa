@@ -1,0 +1,94 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-09-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 午前十時半 </time>\n<persname corresp=\"#pers_ヱリス\">\n<surname> ヱリス </surname>\n</persname> 父子来リテ一行ヲ伴ヒ日本品ヲ多ク備フル所ノ博物館ニ抵ル、場内ニ <persname corresp=\"#pers_原\">\n<surname> 原 </surname>\n</persname> 某ト称スル日本人アリテ一行ヲ案内ス、種々ノ美術品ヲ陳列シ、陶器漆器等ニハ観ルヘキモノ多シ、一覧後旅宿ニ帰レハ <persname corresp=\"#pers_ヱリス\">\n<surname> ヱリス </surname>\n</persname> 氏ノ夫人其女子ヲ伴ヒ来訪セラル、依テ一同午飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n       ハンフルグ商業会議所ヲ訪ヒ、副会頭ニ面会シテ <orgname> 東京商業会議所 </orgname> ヨリノ議決ヲ通ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時\n       </time> 過汽車場ニ抵リ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:45:00",
+                    "text": "<time when=\"14:45:00\"> 二時四十五分 </time>\n<placename corresp=\"#place_ハンブルク\"> ハンブルグ </placename> ヲ発ス、 <placename corresp=\"#place_ハンブルク\">\n        ハンブルグ </placename> ヨリ <placename corresp=\"#place_オランダ\"> 荷蘭国 </placename>\n<placename corresp=\"#place_フラツシング\"> フラツシング </placename> ニ抵リテ夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 53.55028,
+                    "lon": 9.99278,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時\n       </time> 汽船ニ搭シ直ニ出帆シ夜中汽船中ニ在リ、一夜ヲ送リ翌 <date when=\"1902-09-03\"> 三日 </date> 暁ニ及ンデ <placename corresp=\"#place_イギリス\"> 英国 </placename>\n<placename corresp=\"#place_ウヱクトリヤ港\"> ウヱクトリヤ港 </placename> 着《 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時\n       </time> 過》、直ニ上陸シテ再ヒ汽車ニ搭シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:30:00",
+                    "text": "<time when=\"20:30:00\"> 八時半 </time>\n<placename corresp=\"#place_ロンドン\"> 倫敦 </placename> 着、コーボルグ・ホテルニ投宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 51.50778,
+                    "lon": -0.12806,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-09-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ、朝飧ヲ食ス、畢テ <persname corresp=\"#pers_井口正之\">\n<surname> 井口 </surname>\n<forename> 正之 </forename>\n</persname> 氏来リ青渊百話編纂ノ事ヲ談ス、実業ノ <placename corresp=\"#place_日本\"> 日本 </placename>\n       ヨリ送リ越セル演説筆記ヲ修正ス、又 <persname corresp=\"#pers_井口\">\n<surname> 井口 </surname>\n</persname> 氏ヨリ送付セル筆記ノ修正ニ勉ム、午飧後、 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ニ抵リテ明日ノ米人招宴ノ事ニ関シテ種々ノ指揮ヲ為ス、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 紐克\n        <persname corresp=\"#pers_高峰\">\n<surname> 高峰 </surname>\n</persname> 氏、 <persname corresp=\"#pers_水野\">\n<surname> 水野 </surname>\n</persname> 総領事等ヘ書状ヲ発ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 紅葉館ニ抵リ、シヨルダン博士招宴ニ出席ス、 <placename corresp=\"#place_東京\"> 東京 </placename> 市長ノ開催ニ係ルナリ、食事前後ニ種々ノ余興アリ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時\n       </time> 散会、帰宿ス、児童等ト遊戯ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

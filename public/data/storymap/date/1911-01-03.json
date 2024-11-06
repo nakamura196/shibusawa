@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-01-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time>\n       起床スルモ腹部平愈セス、殊ニ昨夜ハ数回ノ下痢アリタレハ聊疲労ヲ覚フ、昨日ト同ク脚湯ヲ為ス、朝飧後新聞紙ヲ一読シ、引続 <pb corresp=\"#pageB1652\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/678/full/max/0/default.jpg\" n=\"B1652\" source=\"#pageB1652\"></pb> キ種々年賀ノ来客ニ接ス、親戚アリ故旧アリ学生アリ従僕ノ類アリ、其数ヲ詳ニスル能ハス、而シテ褥中一々之レト談話シ且接待ス\n       <lb></lb> 曾テ揮毫セシ太神宮《（大）》ノ幅物ヲ蔵スル箱書ヲ為ス、公爵伝記ノ草稿ヲ読ム <lb></lb> 夜ニ入リテ <persname corresp=\"#pers_明石\">\n<surname> 明石 </surname>\n</persname> 新夫婦 <placename corresp=\"#place_興津\"> 興津 </placename>\n       ヨリ帰京来訪ス、共ニ夜飧ヲ為シ、旅中ノ情況ヲ談スルヲ聴ク、夜、高等学校ノ学生来リテ児輩ト共ニ遊戯シ、歌加留多ノ声頻リナリキ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:30:00",
+                    "text": "<time when=\"23:30:00\"> 十一時半\n       </time> 過寝ニ就ク "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

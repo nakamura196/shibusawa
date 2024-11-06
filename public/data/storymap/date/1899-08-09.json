@@ -1,0 +1,59 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-08-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<placename corresp=\"#place_銀座\"> 三十間堀 </placename>\n<persname corresp=\"#pers_杉山市松\">\n<surname> 杉山 </surname>\n<forename> 市松 </forename>\n</persname> 宅ニテ京釜鉄道創立委員会ヲ開ク、 <persname corresp=\"#pers_尾崎三郎\">\n<surname> 尾崎 </surname>\n<forename> 三郎 </forename>\n</persname> 《（ <persname corresp=\"#pers_尾崎三良\">\n<surname> 尾崎 </surname>\n<forename> 三良 </forename>\n</persname> ）》、 <persname corresp=\"#pers_前島密\">\n<surname> 前島 </surname>\n<forename> 密 </forename>\n</persname> 、 <persname corresp=\"#pers_竹内綱\">\n<surname> 竹内 </surname>\n<forename> 綱 </forename>\n</persname> 、 <persname corresp=\"#pers_井上角五郎\">\n<surname> 井上 </surname>\n<forename> 角五郎 </forename>\n</persname>\n       ノ諸氏ト会話ス、鉄道会社設立ノ方法ニ付テ種々協議スル処アリ、最後ニ総額ノ資金ヲ二千五百万円ト仮定シ、内五百万円ハ民間ヨリ募集スルモノトシ、他ノ弐千万円ハ政府ノ保証ヲ以テ外国債ヲ募集シ、而シテ民間ヨリ払込ミタル五百万円ニ対シテハ、政府ヨリ年六歩迄ノ利益補給ヲ為スモノトシテ其手続ヲ略記シ内閣ニ提出スヘキ事ニ決ス、其起草ハ\n        <persname corresp=\"#pers_尾崎三郎\">\n<surname> 尾崎 </surname>\n<forename> 三郎 </forename>\n</persname> 氏之ニ任スル筈ニテ退散ス、午後 <orgname> 第一銀行 </orgname> ニ出勤シテ重役会ヲ開ク、申合規則ノ逐条会議ヲ開キテ逐条議了ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.671222,
+                    "lon": 139.765,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> ニ帰宿ス、 <placename corresp=\"#place_酒匂\"> 酒匂\n       </placename> ニハ赤痢病流行ノ趣来報アリシニ付、 <placename corresp=\"#place_大磯町\"> 大磯 </placename> ニ転居ノ積ヲ以テ\n        <persname corresp=\"#pers_戸田\">\n<surname> 戸田 </surname>\n</persname> ヲ <persname corresp=\"#pers_酒匂\">\n<surname> 酒匂 </surname>\n</persname> ニ遣シ其事ヲ通知セシム "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

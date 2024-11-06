@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-01-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 起床、静坐シテ、洗面ス、後、朝飧ヲ食ス、但、昨夜来風邪気ニテ晏起セルナリ、 <placename corresp=\"#place_箱根\"> 箱根 </placename>\n<placename corresp=\"#place_仙石原\"> 仙石原 </placename>\n<persname corresp=\"#pers_勝股市五郎\">\n<surname> 勝股 </surname>\n<forename> 市五郎 </forename>\n</persname> 来リ神宮奉祀ノ事ヲ請願セラル、依テ過日来委員会ノ経過ヲ略述シ無用ノ奔走ナカラン事ヲ告示ス、松野鉄道院ノ技師来リ、 <persname corresp=\"#pers_大野正\">\n<surname> 大野 </surname>\n<forename> 正 </forename>\n</persname> 氏発明事業ニ担任ノ事ニ付詳細ニ説示セシニ、篤ト熟考ノ上回答スヘキ筈ニテ他日ノ会見ヲ約シテ去ル、 <placename corresp=\"#place_粟野\">\n        粟野 </placename> 学生来リ身上ノ事ヲ依頼セラル、 <persname corresp=\"#pers_田中秀明\">\n<surname> 田中 </surname>\n<forename> 秀明 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_柴崎雪次郎\">\n<surname> 柴崎 </surname>\n<forename> 雪次郎 </forename>\n</persname> 氏来リ日米通商銀行ノ事ヲ談ス、 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス、午飧後、 <persname corresp=\"#pers_吉岡新五郎\">\n<surname> 吉岡 </surname>\n<forename> 新五郎 </forename>\n</persname> 氏来話ス、今日 <persname corresp=\"#pers_水町\">\n<surname> 水町 </surname>\n</persname> 氏ヨリ鮟鱇会ノ案内アリシモ病気不参ノ旨申遣ス、終日褥中ニ在テ接客シ又読書ス、 <persname corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persname> 氏来、陸軍製絨工場払下ノ事ヲ談ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.269639,
+                    "lon": 139.01025,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

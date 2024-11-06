@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-01-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ食シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n       銀行集会所ニ抵リ <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 、 <persname corresp=\"#pers_早川\">\n<surname> 早川 </surname>\n</persname> 二氏ト共ニ日糖会社監査役ニ会シテ同会社整理ノ事ヲ議ス <persname corresp=\"#pers_小野沢\">\n<surname> 小野沢 </surname>\n</persname> 、 <persname corresp=\"#pers_内田\">\n<surname> 内田 </surname>\n</persname> 二氏来リ、 <orgname> 石川島造船所 </orgname> ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n<placename corresp=\"#place_釜屋堀\"> 釜屋堀 </placename>\n<orgname> 人造肥料会社 </orgname> ニ抵リ、株主総会ヲ開キ決算ノ事ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、英人ヘンソン及ハロヱー、米人 <persname corresp=\"#pers_ヘンリー\"> ヘンリー </persname> 、 <persname corresp=\"#pers_テイラー\">\n<surname> テーラー </surname>\n</persname> 、 <persname corresp=\"#pers_スミス\">\n<surname> スミス </surname>\n</persname> 氏等ト稷山金鉱ノ事ヲ談ス、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 、 <persname corresp=\"#pers_前原\">\n<surname> 前原 </surname>\n</persname> 諸氏同席ス、畢テ <persname corresp=\"#pers_中野武営\">\n<surname> 中野 </surname>\n<forename> 武営 </forename>\n</persname> 氏ト共ニ <orgname> 帝国商業銀行 </orgname> ノ事ニ関シ、 <persname corresp=\"#pers_栗生\">\n<surname> 栗生 </surname>\n</persname> 、 <persname corresp=\"#pers_織田\">\n<surname> 織田 </surname>\n</persname> 、 <persname corresp=\"#pers_半田\">\n<surname> 半田 </surname>\n</persname> 諸氏ト会談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リ、 <orgname> 人造肥料会社 </orgname>\n       重役会ヲ開キ種々ノ議案ヲ決定シ、且 <persname corresp=\"#pers_人丸\">\n<surname> 人丸 </surname>\n</persname> 氏身上《（ <persname corresp=\"#pers_犬丸\">\n<surname> 犬丸 </surname>\n</persname> 氏）》ニ関シテ大ニ協議スル所アリタリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1909-01-30T00:00+0900\"> 十二時 </time> 過\n        <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、 <placename corresp=\"#place_横浜\"> 横浜 </placename>\n<persname corresp=\"#pers_安部幸兵衛\">\n<surname> 安部 </surname>\n<forename> 幸兵衛 </forename>\n</persname> 、 <persname corresp=\"#pers_増田増蔵\">\n<surname> 増田 </surname>\n<forename> 増蔵 </forename>\n</persname> 二氏来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

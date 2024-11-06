@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-04-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後庭園ヲ散歩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 過朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n<persname corresp=\"#pers_松平正直\">\n<surname> 松平 </surname>\n<forename> 正直 </forename>\n</persname> 氏来話ス、其身上ニ関シテ種々ノ陳情アリ、 <persname corresp=\"#pers_阪本則美\">\n<surname> 阪本 </surname>\n<forename> 則美 </forename>\n</persname> 氏来リテ夕張炭坑ノ事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ要務ヲ処理ス、 <persname corresp=\"#pers_目賀田\">\n<surname> 目賀田 </surname>\n</persname> 顧問来訪セラレテ <placename corresp=\"#place_大韓民国\"> 韓国 </placename> ニ関スル要件ヲ協議ス、 <persname corresp=\"#pers_押川方義\">\n<surname> 押川 </surname>\n<forename> 方義 </forename>\n</persname> 氏、 <persname corresp=\"#pers_川田鉄弥\">\n<surname> 川田 </surname>\n<forename> 鉄弥 </forename>\n</persname> 、 <persname corresp=\"#pers_川田竜吉\">\n<surname> 川田 </surname>\n<forename> 竜吉 </forename>\n</persname> 、 <persname corresp=\"#pers_岡本忠蔵\">\n<surname> 岡本 </surname>\n<forename> 忠蔵 </forename>\n</persname> 氏等来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 午飧シ、畢テ重役会ヲ開キ要件ヲ議決ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:30:00",
+                    "text": "<time when=\"16:30:00\"> 午後四時半 </time> ヨリ <placename corresp=\"#place_横浜\"> 横浜 </placename> ニ抵リ、\n        <persname corresp=\"#pers_石井\">\n<surname> 石井 </surname>\n</persname> 欧米行ニ関シ内外人ニ留別会ヲ開ク食卓上一場ノ謝辞ヲ述ヘ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 発ノ汽車ニテ <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

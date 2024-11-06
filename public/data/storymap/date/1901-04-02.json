@@ -1,0 +1,59 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-04-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前、 <persname corresp=\"#pers_阿部興人\">\n<surname> 阿部 </surname>\n<forename> 興人 </forename>\n</persname> 等数多ノ来人アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<placename corresp=\"#place_小石川\"> 小石川 </placename> 養育院ニ抵リ学校新築ノ調査ニ関スル委員会ニ列ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7137833,
+                    "lon": 139.7487556,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 頃 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       ニ帰宅、途中ヨリ歯痛甚敷ニヨリ医師ヲ招テ治療ス、此日 <orgname> 日本郵船会社 </orgname> ニ臨時重役会アリシモ歯痛ノ為メ出席スルヲ得サルニヨリ、書ヲ以テ出席ヲ謝絶ス\n      "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,95 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-02-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、室内運動ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time>\n       朝飧ヲ畢ル、食後二三ノ書状ヲ裁シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:46:00",
+                    "text": "<time when=\"09:46:00\"> 九時四十六分 </time> ノ汽車ニテ <placename corresp=\"#place_上野\">\n        上野 </placename> ニ抵リ、更ニ電車ニテ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ事務ヲ視ル <lb></lb>\n"
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time> 銀行ニ於テ午飧シ行務ヲ視ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time> 過\n        <orgname> 日本郵船会社 </orgname> ニ抵リ重役会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n       三井集会所ニ抵リ国庫債券募集方法協議会ニ列ス、 <placename corresp=\"#place_東京\"> 東京 </placename> 、 <placename corresp=\"#place_大阪\"> 大坂 </placename> 、西京、 <placename corresp=\"#place_横浜\"> 横浜 </placename> 、\n        <placename corresp=\"#place_名古屋\"> 名古屋 </placename> 等ノ各銀行者二十二名来会ス <lb></lb>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯、 <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 総裁共ニ参加セラレ種々討議ノ末条件ヲ一定シ、明日余ハ各銀行ノ総代トシテ大蔵大臣ヘ答申スル事ト定ム、夫ヨリ <orgname> 日本銀行 </orgname>\n       ノ催ニ係ル宴会ニ出席シ、食後更ニ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ノ財政ニ関スル重要ノ談話 <pb corresp=\"#pageB1354\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/380/full/max/0/default.jpg\" n=\"B1354\" source=\"#pageB1354\"></pb> アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 過一同散会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1905-02-23T00:00+0900\"> 十二時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

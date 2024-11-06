@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-10-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、聊風邪ノ気味ナルヲ以テ入浴セス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time>\n<persname corresp=\"#pers_不二樹熊次郎\">\n<surname> 不二樹 </surname>\n<forename> 熊次郎 </forename>\n</persname> 氏来訪、精糖会社ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<persname corresp=\"#pers_小日向\">\n<surname> 小日向 </surname>\n</persname> 大六天《（第）》ナル <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 公爵邸ヲ訪ヒ公爵ニ伺候シ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 邸ノ園遊会ニ臨マレン事ヲ上申ス、 <placename corresp=\"#place_ドイツ\"> 独乙 </placename>\n       公使館ニ《（ヲ）》訪問シ過日饗宴ノ謝詞ヲ述フ、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 公使館ヲ訪問シテ\n        <persname corresp=\"#pers_ミラー\">\n<surname> ミラー </surname>\n</persname> 氏ニ面会シ <persname corresp=\"#pers_ルーズベルト\">\n<surname> ルーズベルト </surname>\n</persname> 嬢ニ名刺ヲ呈ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧ス、 <persname corresp=\"#pers_松尾臣善\">\n<surname> 松尾 </surname>\n<forename> 臣善 </forename>\n</persname> 氏来リ京釜鉄道会社々債ノ事ヲ談ス、英国人 <persname corresp=\"#pers_セール\">\n<surname> セール </surname>\n</persname> 氏来リ同シク社債ノ事ヲ談ス、 <persname corresp=\"#pers_田中市太郎\">\n<surname> 田中 </surname>\n<forename> 市太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_馬越恭平\">\n<surname> 馬越 </surname>\n<forename> 恭平 </forename>\n</persname> 、 <persname corresp=\"#pers_植村澄三郎\">\n<surname> 植村 </surname>\n<forename> 澄三郎 </forename>\n</persname> 三氏来リテ麦酒会社合同ノ事ヲ協議ス <lb></lb>\n<persname corresp=\"#pers_添田壽一\">\n<surname> 添田 </surname>\n<forename> 寿一 </forename>\n</persname> 氏来リ <orgname> 興業銀行 </orgname> ノ事ヲ談ス、更ニ明後 <date when=\"1905-10-09\"> 九日 </date>\n       午前ヲ約シテ去ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-02-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1564\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/590/full/max/0/default.jpg\" n=\"B1564\" source=\"#pageB1564\"></pb>\n<lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シ、後、朝飧ヲ食ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> ニ抵リ、急行列車ニ搭シテ <placename corresp=\"#place_名古屋\">\n        名古屋 </placename> ニ赴ク、汽車中数多ノ知人ニ面会ス、 <placename corresp=\"#place_静岡\"> 静岡 </placename> ニ於テ午飧シ、\n        <placename corresp=\"#place_豊橋\"> 豊橋 </placename> ニ抵リ <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 、 <persname corresp=\"#pers_斎藤\">\n<surname> 斎藤 </surname>\n</persname> 二氏来リ迎フ、同車ニテ種々ノ要務ヲ談ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_名古屋\"> 名古屋 </placename> ニ着シ多人数ノ来人アリ、丸文旅宿ニ投ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\">\n        午後五時 </time>\n<placename corresp=\"#place_名古屋\"> 名古屋 </placename>\n       商業会議所ニ催フセル地方人士ノ招待会ニ出席シ、経済上ニ関スル一場ノ演説ヲ為ス、畢テ川文楼ニ抵リ、三重紡績会社、 <orgname> 第一銀行 </orgname>\n       等ノ催フセル夜飧会ニ出席ス、芸妓ノ余興アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿ス、 <persname corresp=\"#pers_奥田正香\">\n<surname> 奥田 </surname>\n<forename> 正香 </forename>\n</persname> 、 <persname corresp=\"#pers_野依秀市\">\n<surname> 野依 </surname>\n<forename> 秀一 </forename>\n</persname> 、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 、 <persname corresp=\"#pers_斎藤\">\n<surname> 斎藤 </surname>\n</persname> 、 <persname corresp=\"#pers_原田\">\n<surname> 原田 </surname>\n</persname> ノ諸氏終始同行ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

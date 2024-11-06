@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-07-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後朝飧ヲ為シ、直ニ旅装ヲ整ヘ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 過南山停車場ニ抵ル、此日 <placename corresp=\"#place_京城府\"> 京城 </placename> ノ人士行ヲ送ル為メ多人数来集ス、 <persname corresp=\"#pers_長谷川\">\n<surname> 長谷川 </surname>\n</persname> 大将、 <persname corresp=\"#pers_鶴原\">\n<surname> 鶴原 </surname>\n</persname> 、 <persname corresp=\"#pers_目賀田\">\n<surname> 目賀田 </surname>\n</persname> 、 <persname corresp=\"#pers_木内\">\n<surname> 木内 </surname>\n</persname> 及統監府ノ諸官、財務顧問部ノ人々、韓国大官連皆来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:40:00",
+                    "text": "<time when=\"07:40:00\"> 七時四十分 </time> 発車、 <orgname>\n        第一銀行 </orgname> 員モ一同来リ送ル、 <persname corresp=\"#pers_本多\">\n<surname> 本多 </surname>\n</persname> 博士ハ <persname corresp=\"#pers_水原\">\n<surname> 水原 </surname>\n</persname> ニ公務アリテ同車ス、成歓ニ抵レハ <persname corresp=\"#pers_葛原\">\n<surname> 葛原 </surname>\n</persname> 氏来話シ、 <placename corresp=\"#place_大田\"> 大田 </placename> ニ抵リテ分袂ス、 <placename corresp=\"#place_大邱広域市\"> 大邱 </placename> ニ抵リテ同所出張ノ <persname corresp=\"#pers_泉末治\">\n<surname> 泉 </surname>\n<forename> 末治 </forename>\n</persname> 氏来リ迎フ、明日ノ来邱ヲ約ス、 <placename corresp=\"#place_三浪津\"> 三浪津 </placename> ニ抵レハ <persname corresp=\"#pers_鹿沼伝十郎\">\n<surname> 鹿沼 </surname>\n<forename> 伝十郎 </forename>\n</persname> 来ル、共ニ <placename corresp=\"#place_釜山広域市\"> 釜山 </placename> ニ抵ル、 <persname corresp=\"#pers_鹿沼\">\n<surname> 鹿沼 </surname>\n</persname> ハ韓国興業会社々員ニテ養蚕業専門ノ人ナリ、車中地方養蚕桑樹ノ事ヲ談ス、聴クヘキモノアリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.1,
+                    "lon": 129.033,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時三十分 </time>\n<placename corresp=\"#place_草梁\"> 草梁 </placename> ニ着ス、釜山人士数十名来リ迎フ、直ニ人車ニテ大池旅館ニ投宿ス、小憩後一行\n        <persname corresp=\"#pers_木村\">\n<surname> 木村 </surname>\n</persname> 支配人ノ家ニ抵リ、支那料理ノ夜飧ヲ饗セラル、共ニ歓ヲ尽シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散会、帰寓ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝仮役所出勤、諸事取扱 <placename corresp=\"#place_東京\"> 東京 </placename>\n       為替金三千両会計所より請取候ニ付、政事庁会計局へ罷越請取済にて、 <persname corresp=\"#pers_柿屋佐右衛門\">\n<surname> 柿屋 </surname>\n<forename> 佐右衛門 </forename>\n</persname> へ引渡す、昨日別紙之通御書付二通 <persname corresp=\"#pers_浅野次郎八\">\n<surname> 浅野 </surname>\n<forename> 次郎八 </forename>\n</persname> 殿被相渡候旨にて書記より被相達 <lb></lb>\n<persname corresp=\"#pers_渋沢栄一\">\n<surname> 渋沢 </surname>\n<forename> 篤太郎 </forename>\n</persname> 江 <lb></lb> 別紙之通弁官より被相達候間、 <placename corresp=\"#place_東京\"> 東京 </placename> 江可被罷出候\n       <lb></lb> 写 <lb></lb> 其藩士 <persname corresp=\"#pers_渋沢栄一\">\n<surname> 渋沢 </surname>\n<forename> 篤太郎 </forename>\n</persname> 儀 <lb></lb> 御用候間 <placename corresp=\"#place_東京\"> 東京 </placename> 江罷出候様可申付候也 <lb></lb>\n       但到着之上ハ速ニ弁官江可差出候事 <lb></lb>\n<date type=\"旧暦\" when=\"1869-11-21\"> 十月十八日 </date> 弁官 <lb></lb> 静岡藩知事殿 <lb></lb>\n       かく突如之御下命ニ而、御用之品も分明ならねば、 <persname corresp=\"#pers_大久保一翁\">\n<surname> 大久保 </surname>\n<forename> 一翁 </forename>\n</persname> に問ふに、事之仔細ハ知らされとも速に出京すへき旨を答ふ、尤一昨日友人 <persname corresp=\"#pers_平岡庄七\">\n<surname> 平岡 </surname>\n<forename> 庄七 </forename>\n</persname>\n<placename corresp=\"#place_東京\"> 東京 </placename> よりの一書を得、 <persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤 </forename>\n</persname> 之身処ニ云々の文字も添ふてありしかハ、もしや夫是の事共にもあらんずらんと、 <persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤 </forename>\n</persname> の心事此際如何あらん、まつ <persname corresp=\"#pers_平岡四郎\">\n<surname> 平岡 </surname>\n<forename> 四郎 </forename>\n</persname> と諸事を議し当用はてゝ此日ハ退出す、帰路 <placename corresp=\"#place_呉服町\"> 呉服町 </placename>\n<persname corresp=\"#pers_多田元吉\">\n<surname> 多田 </surname>\n<forename> 元吉 </forename>\n</persname> 之寓居の前お通行せしか、 <persname corresp=\"#pers_平岡庄七\">\n<surname> 平岡 </surname>\n<forename> 庄七 </forename>\n</persname> の来状あるとて差出す、文中更ニ <persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤 </forename>\n</persname> の身処お縷々申越したり <lb></lb>\n<pb corresp=\"#pageB1045\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/71/full/max/0/default.jpg\" n=\"B1045\" source=\"#pageB1045\"></pb>\n<lb></lb> 仮役所江帰りし後、常平倉御用達共明日一同出勤之旨書面にて申遣す "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

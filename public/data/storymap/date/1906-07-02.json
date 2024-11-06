@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-07-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後直ニ朝飧ヲ喫シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:40:00",
+                    "text": "<time when=\"07:40:00\"> 七時四十分 </time>\n<placename corresp=\"#place_南大門\"> 南大門 </placename> 発ノ汽車ニテ稷山金鉱ニ抵ル、 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> 、 <persname corresp=\"#pers_宇都曾一\">\n<surname> 宇都 </surname>\n<forename> 曾一 </forename>\n</persname> 及 <persname corresp=\"#pers_八木\">\n<surname> 八木 </surname>\n</persname> 随行ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 成歓駅ニ抵ル、 <persname corresp=\"#pers_葛原\">\n<surname> 葛原 </surname>\n</persname>\n       及米人テーラル来リ迎フ、成歓ヨリ輿ニ乗リテ山路三谷里ナル金鉱事務所ニ抵リ午飧ス、食後砂金採収ノ実況ヲ一覧ス、工夫凡四五十人許リナリ、一覧畢リテ再ヒ輿ニ乗リ「ヤンデ」ナル米国人鉱業事務所ニ抵リ小憩シ、夫ヨリテーラル其他二名ノ案内ニテ「シヤヂヤンクル」ノ竪坑堀鑿ノ現況ヲ一覧ス、行程山上約半里許リ、新道路ヲ作リテ工事頗ル規摸アルヲ覚フ、一覧後再ヒ事務所ニ帰リテ少憩シ、更ニ保徳院ナル本事務所ニ抵ル、\n        <persname corresp=\"#pers_郡守\">\n<surname> 郡守 </surname>\n</persname> 某氏及憲兵班長等来話ス、少憩後同所ヲ発シ成歓ニ抵リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 発ノ汽車ニテ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 頃 <placename corresp=\"#place_京城府\"> 京城 </placename> ニ帰ル、\n        <placename corresp=\"#place_南大門\"> 南大門 </placename> ニテ一同ニ迎ヘラレテ帰寓ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

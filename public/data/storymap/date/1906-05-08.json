@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-05-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後身体摩擦ヲ為シ、畢テ朝飧ヲ喫ス、食後、 <persname corresp=\"#pers_岸宇吉\">\n<surname> 岸 </surname>\n<forename> 宇吉 </forename>\n</persname> 、 <persname corresp=\"#pers_長部松三郎\">\n<surname> 長部 </surname>\n<forename> 松三郎 </forename>\n</persname> ノ来訪ニ接ス、又長野人、長崎人等ノ来訪ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 十時半 </time>\n       瓦斯会社ニ抵リ重役会ニ出席ス、要件ヲ議シ、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯ヲ訪ヒ <date when=\"1906-05-12\"> 十二日 </date> ノ会合ノ延引セン事ヲ乞フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時\n       </time> 帰宅、午飧ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 頃ヨリ <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 統監及随員ノ来訪アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 過義親王其他随行員来ル、共ニ庭園ヲ誘引シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 五時半 </time> ヨリ宴ヲ開キ、種々ノ余興アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散会ス <lb></lb>\n       義親王、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 統監其他随行員等ニテ会スル者賓主三十一人ナリキ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

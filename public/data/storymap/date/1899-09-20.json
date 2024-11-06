@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-09-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、午前 <persname corresp=\"#pers_辻川新三郎\">\n<surname> 辻川 </surname>\n<forename> 新三郎 </forename>\n</persname> 来、織物会社ノ事ヲ談ス、 <persname corresp=\"#pers_岡村輝彦\">\n<surname> 岡村 </surname>\n<forename> 輝彦 </forename>\n</persname> 、 <persname corresp=\"#pers_村瀬貞吉\">\n<surname> 村瀬 </surname>\n<forename> 貞吉 </forename>\n</persname> 来リテ成田銀行ノ事ヲ談ス、時事新報記者来リテ経済界ノ意見ヲ詢ハル、 <persname corresp=\"#pers_増田多郎\">\n<surname> 増田 </surname>\n<forename> 多郎 </forename>\n</persname> 来ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

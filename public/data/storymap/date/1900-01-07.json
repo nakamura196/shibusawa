@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-01-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 大雪、昨夜ヨリ降続キタル雪ハ朝来弥劇シク風ヲ加ヘテ一層ノ寒ヲ増ス、降雪深キコト凡五六寸余、 <placename corresp=\"#place_大磯町\"> 大磯\n       </placename> ニ在テハ極テ稀ニ見ル処ナリト云フ、午前子供等ノ帰京スルトテ頗ル雑沓セリ <lb></lb> 留守宅 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> ヨリ書状来ル、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 、 <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 、 <persname corresp=\"#pers_山県\">\n<surname> 山県 </surname>\n</persname> 、 <persname corresp=\"#pers_岩崎\">\n<surname> 岩崎 </surname>\n</persname> 四家ヘノ送品ヲ <persname corresp=\"#pers_黒崎\">\n<surname> 黒崎 </surname>\n</persname> ヲ《（以テ脱カ）》送リ来ル、午時頃 <persname corresp=\"#pers_渋沢成一郎\">\n<surname> 渋沢 </surname>\n<forename> 喜作 </forename>\n</persname> 来ル、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 来ル、此日ハ雪深ク外出シ得サルヲ以テ家ニ在テ遊戯ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

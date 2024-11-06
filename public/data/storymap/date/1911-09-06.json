@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-09-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ、朝飧ヲ食シ、今日来訪セラルル米客饗応ニ付室内装飾等ノ事ヲ指揮ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:50:00",
+                    "text": "<time when=\"08:50:00\"> 午前八時五十分 </time> 頃 <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リジヨルタン博士ニ面会シ、 <persname corresp=\"#pers_久万\">\n<surname> 久万 </surname>\n</persname> 氏ト共ニ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 九時半 </time>\n<orgname> 高千穂学校 </orgname> ニ抵リ校内ヲ一覧シ、 <persname corresp=\"#pers_川田\">\n<surname> 川田 </surname>\n</persname> 氏宅ニテ小憩ス、後、会堂ニ於テ博士ヨリ学生ヘ一言ノ訓示アリ、畢テ <orgname> 女子大学 </orgname> ニ抵リ、 <persname corresp=\"#pers_成瀬\">\n<surname> 成瀬 </surname>\n</persname> 、 <persname corresp=\"#pers_麻生\">\n<surname> 麻生 </surname>\n</persname> 其他ノ教授多人数之ヲ迎ヘテ校内ヲ巡覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time> 余ハ二学校ノ案内ヲ畢リテ博士及夫人同伴\n        <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename>\n       ニ抵リ、直ニ来会諸士ニ紹介シテ午飧ノ宴ヲ開ク、開会ニ先テ一場ノ挨拶ヲ述ヘ、博士之ニ答フ、余興数番アリ、食事畢テ愛蓮堂ニ談話会ヲ開キ、余ハ日米親交ニ関シテ卒直ニ企望ヲ述ヘ、博士ハ全然同意ヲ表セラル、其他\n        <persname corresp=\"#pers_永井\">\n<surname> 永井 </surname>\n</persname> 氏、 <persname corresp=\"#pers_高橋\">\n<surname> 高橋 </surname>\n</persname> 男、 <persname corresp=\"#pers_石井\">\n<surname> 石井 </surname>\n</persname> 男等種々博士トノ談話アリ、各胸襟ヲ開キテ談話佳境ニ入ルヲ覚フ、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 過ヨリ散会シテ更ニ\n        <orgname> 帝国座 </orgname> ニ同行ス、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> モ伴ニ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 迄観劇シテ、深更ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

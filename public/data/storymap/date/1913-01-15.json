@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-01-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、 <persname corresp=\"#pers_蓮沼門三\">\n<surname> 蓮沼 </surname>\n<forename> 門三 </forename>\n</persname> 氏来リ、修養団寄宿舎建築ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時半 </time>\n<persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 公爵ヲ <placename corresp=\"#place_永田町\"> 永田町 </placename> 官舎ニ訪ヘ、 <persname corresp=\"#pers_和田豊治\">\n<surname> 和田 </surname>\n<forename> 豊治 </forename>\n</persname> 氏 <pb corresp=\"#pageB1751\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/777/full/max/0/default.jpg\" n=\"B1751\" source=\"#pageB1751\"></pb> 身上ニ付テ縷々ノ依托ヲ受ク、同時ニ明治神宮ノ事ヲ具陳ス、 <placename corresp=\"#place_三田\">\n        三田 </placename> 邸ニ抵リテ <persname corresp=\"#pers_渋沢敬三\">\n<forename> 敬三 </forename>\n</persname> ノ病症ヲ訪フ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6768472,
+                    "lon": 139.7399139,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、畢テ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <persname corresp=\"#pers_石井\">\n<surname> 石井 </surname>\n</persname> 二氏ト行務ヲ談ス、後、事務所ニ於テ来人ニ接シ事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename>\n<orgname> 精養軒 </orgname> ニ抵リ <persname corresp=\"#pers_阪谷朗廬\">\n<surname> 阪谷 </surname>\n<forename> 朗廬 </forename>\n</persname> 翁ノ追弔会ニ出席ス、後 <placename corresp=\"#place_永田町\"> 永田町 </placename> 大蔵大臣官舎ニ抵リ <persname corresp=\"#pers_若槻\">\n<surname> 若槻 </surname>\n</persname> 新大臣ノ招宴ニ出席ス、夜飧中一言ノ謝辞ヲ述フ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

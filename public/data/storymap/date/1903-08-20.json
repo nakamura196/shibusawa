@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-08-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床直ニ海水ニ浴ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 朝飧後\n        <placename corresp=\"#place_東京\"> 東京 </placename>\n<persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 宛書状ヲ発ス、 <orgname> 三井銀行 </orgname>\n<persname corresp=\"#pers_早川\">\n<surname> 早川 </surname>\n</persname> 氏ヘ電報シテ昨日ノ回答ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n       犬若巌一覧ノ為メ一行共ニ発ス、行程凡十丁余徒歩シテ行ク、松林間ヲ経テ戸川村ニ抵リ村内ヲ通過シテ海岸ニ出ツ、 <placename corresp=\"#place_千貫巌\"> 千貫巌\n       </placename> 、 <placename corresp=\"#place_犬巌\"> 犬巌 </placename> 、 <placename corresp=\"#place_若巌\"> 若巌 </placename> 等相聯続シテ <pb corresp=\"#pageB1320\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/346/full/max/0/default.jpg\" n=\"B1320\" source=\"#pageB1320\"></pb> 眺望佳絶ナリ、邱上ノ一小亭ニ小憩シテ帰途ニ就ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n       暁雞館ニ帰着ス、 <persname corresp=\"#pers_北垣\">\n<surname> 北垣 </surname>\n</persname> 氏来訪シテ北海道鉄道会社々債ノ事ヲ談ス、 <persname corresp=\"#pers_野田\">\n<surname> 野田 </surname>\n</persname> 夫人来訪セラル、 <placename corresp=\"#place_東京\"> 東京 </placename> ヨリ来状アリテ <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ノ書状ハ <persname corresp=\"#pers_ヱブリー\">\n<surname> ヱブリー </surname>\n</persname> 招宴ノ都合ヲ報シ来ル、 <persname corresp=\"#pers_早川\">\n<surname> 早川 </surname>\n</persname> ノ書状ハ電報ノ事ヲ書送スルニ在リ、依テ <placename corresp=\"#place_深川\"> 深川 </placename> 宅及 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ各一書ヲ発シテ <persname corresp=\"#pers_ヱブリー\">\n<surname> ヱブリー </surname>\n</persname> 氏招宴ノ事、及 <date evidence=\"year inferenced, month\" when=\"1903-08-23\"> 廿三日 </date>\n       帰京ノ事ヲ申遣ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

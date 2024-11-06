@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-05-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前数多ノ来人ニ接ス、午後岩越鉄道会社重役会ニ列ス、畢テ <placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リ\n        <persname corresp=\"#pers_白岩竜平\">\n<surname> 白岩 </surname>\n<forename> 竜平 </forename>\n</persname> 氏ノ招宴ニ参列ス、 <persname corresp=\"#pers_園田\">\n<surname> 園田 </surname>\n</persname> 、 <persname corresp=\"#pers_加藤\">\n<surname> 加藤 </surname>\n</persname> 、 <persname corresp=\"#pers_浅田\">\n<surname> 浅田 </surname>\n</persname> 、 <persname corresp=\"#pers_岩永\">\n<surname> 岩永 </surname>\n</persname>\n<persname corresp=\"#pers_渡辺洪基\">\n<surname> 渡辺 </surname>\n<forename> 洪基 </forename>\n</persname> ノ諸氏来会ス、 <persname corresp=\"#pers_近衛\">\n<surname> 近衛 </surname>\n</persname> 公爵モ来会ス、 <placename corresp=\"#place_清\"> 清国 </placename>\n<placename corresp=\"#place_湖南\"> 湖南 </placename> ニ於テ汽船航通ノ業ヲ開ク事ヲ談話ス、夜 <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

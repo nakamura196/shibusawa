@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-11-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前安学柱来ル、 <persname corresp=\"#pers_大江卓\">\n<surname> 大江 </surname>\n<forename> 卓 </forename>\n</persname> 来ル、鉄道院技師 <persname corresp=\"#pers_金\">\n<surname> 金 </surname>\n</persname>\n<persname corresp=\"#pers_朴\">\n<surname> 朴 </surname>\n</persname> 二氏来リ <persname corresp=\"#pers_閔総裁\">\n<surname> 閔 </surname> 総裁 </persname> ノ伝言ナリトテ開業式延期ノ事ヲ告ク、然レトモ時日切迫スルヲ以テ之ヲ拒絶シ遣ス、午後 <persname corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persname> 来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<persname corresp=\"#pers_大江\">\n<surname> 大江 </surname>\n</persname> 、 <persname corresp=\"#pers_大三輪\">\n<surname> 大三輪 </surname>\n</persname> 両氏ト共ニ公使館ニ抵リ京釜鉄道ニ関シ韓国王ニ対スル株式ノ事ヲ協議ス、 <persname corresp=\"#pers_山座\">\n<surname> 山座 </surname>\n</persname> 公使、 <persname corresp=\"#pers_国分\">\n<surname> 国分 </surname>\n</persname>\n       両氏モ来会ス、種々ノ説アリシモ終ニ此際千株丈ケヲ国王ヘ差上クルモノトシテ、他日会社成立ノ時新任ノ重役ニ申継ヲ為スヘキ事トシテ其旨ヲ本邦ヘ電報照会ノ事ヲ決ス、但他日更ニ株式募集ノ時ニモ凡ソ百分一ノ割合ヲ目途トシテ差上クルモノト定ムルトノ説モアリシモ今日之ヲ確定スルハ不利益ニ付稍其意味ヲ存スル位ニ止ムル事ト定ム尤、\n        <persname corresp=\"#pers_李\">\n<surname> 李 </surname>\n</persname> 、 <persname corresp=\"#pers_朴\">\n<surname> 朴 </surname>\n</persname> 両氏ヨリ請求ノ報酬金ノ事及京釜鉄道特許ニ関シ尽力セシ当時ノ韓人ヘ贈与株ノ事ハ、追テ会社成立ノ後之ヲ処分スヘキモノト <pb corresp=\"#pageB1163\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/189/full/max/0/default.jpg\" n=\"B1163\" source=\"#pageB1163\"></pb> 議定ス、此夕京仁鉄道開業式ヲ <date when=\"1900-11-12\"> 十二日 </date>\n       ニ延引スル事ヲ定メ直ニ再度ノ延期案内状ヲ発スル事トシ且諸方ヘノ引合ヲ為ス、此日 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 米国公使 <persname corresp=\"#pers_アーレン\">\n<surname> アーレン </surname>\n</persname> 氏来ル、京仁鉄道ノ事及雲山金鉱ノ事等ヲ談話ス、 <persname corresp=\"#pers_玄暎運\">\n<surname> 玄 </surname>\n<forename> 暎運 </forename>\n</persname> 来ル、過頃日本ニ来リシトキ好遇セラレシ事ヲ謝スル為メナリ、面会ノ上種々ノ談話ヲ為ス、夜 <placename corresp=\"#place_東京\"> 東京\n       </placename> ヘ書状ヲ発ス（深川 <persname corresp=\"#pers_渋沢篤二\">\n<surname> 渋沢 </surname>\n<forename> 篤二 </forename>\n</persname> 宛、 <orgname> 第一銀行 </orgname>\n<persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 、京仁鉄道 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 、 <persname corresp=\"#pers_瓜生震\">\n<surname> 瓜生 </surname>\n<forename> 震 </forename>\n</persname> 、京釜鉄道 <persname corresp=\"#pers_竹内綱\">\n<surname> 竹内 </surname>\n<forename> 綱 </forename>\n</persname> 、 <persname corresp=\"#pers_尾崎三良\">\n<surname> 尾崎 </surname>\n<forename> 三良 </forename>\n</persname> 、 <persname corresp=\"#pers_日下義雄\">\n<surname> 日下 </surname>\n<forename> 義雄 </forename>\n</persname> 、稷山金鉱 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> ノ諸氏ニ宛テタルモノナリ） "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

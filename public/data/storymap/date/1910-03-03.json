@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-03-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シ、畢テ朝飧ス、後、 <persname corresp=\"#pers_生島\">\n<surname> 生島 </surname>\n</persname> 、 <persname corresp=\"#pers_関\">\n<surname> 関 </surname>\n</persname> 氏ノ来訪ニ接ス又、 <persname corresp=\"#pers_今井清彦\">\n<surname> 今井 </surname>\n<forename> 清彦 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_石井\">\n<surname> 石井 </surname>\n</persname> 氏ヨリ依頼アリシ扇面ヲ揮毫ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<orgname> 日本銀行 </orgname> ニ抵リテ、 <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 総裁ニ面会シテ公債借替ニ付次回ノ手続ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ事務ヲ処理ス、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <persname corresp=\"#pers_大川\">\n<surname> 大川 </surname>\n</persname> 二氏来リテ <orgname> 東洋汽船会社 </orgname> ノ事ヲ談ス、是ヨリ先、管船局ニテ <persname corresp=\"#pers_内田\">\n<surname> 内田 </surname>\n</persname> 氏ト談話ス、又、 <persname corresp=\"#pers_塚原\">\n<surname> 塚原 </surname>\n</persname> 氏ニ面会シテ同様ノ談ヲ為ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、後、二三ノ来人ニ接シ、又、重役会ヲ開キ要務ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時\n       </time> 事務所ニ於テ諸方ヘ書状ヲ発送ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 七時半 </time> 華族会館ニ抵リ、 <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 公爵ノ晩飧会ニ出席ス、来会者内外人ニテ三十人許リナリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 宴散シテ帰宿、夜、新聞紙ヲ読マシム\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

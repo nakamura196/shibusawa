@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-10-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床スルモ、朝来風邪気ニテ入浴スルヲ得ス、特ニ病床ヲ設ケ、褥中ニ在テ来人ニ接シ、又、書類ヲ調査シ且揮毫ヲ為ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time> 午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 夜飧ス、 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ヘハ電話ニテ用向ヲ指示ス、 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス、夜、 <persname corresp=\"#pers_皆川晃雄\">\n<surname> 皆川 </surname>\n<forename> 晃雄 </forename>\n</persname> 氏来リテ、耶蘇教ノ由来ヲ旧約全書其他ニヨリテ詳細ニ説明セラル、蓋シ本人ヨリ勧告ニテ、教旨ノ大要ヲ数回ノ講演ヲ以テ説示セントテ今夕ヨリ開始セシナリキ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

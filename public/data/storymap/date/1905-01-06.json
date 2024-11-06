@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-01-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:10:00",
+                    "text": "<time when=\"07:10:00\"> 午前七時十分 </time> 起床、室内運動ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       朝飧ヲ畢リテ揮毫ヲ為ス、昼飧後ハ教育勅語ヲ揮灑ス、又近時ノ戦争ト経済ト題スル訳書ヲ閲ス此日ハ朝来曇リタリシカ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n       頃ヨリ雨降リ出タシ、次第ニ大雨トナリテ夜ニ入ルマテ歇マサリシ、気候ハ雨ノタメ暖気ヲ覚フ <lb></lb> 夜、室内運動ヲ為シ、甲子夜話ヲ読ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

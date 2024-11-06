@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-06-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、午前 <persname corresp=\"#pers_原胤昭\">\n<surname> 原 </surname>\n<forename> 胤昭 </forename>\n</persname> 氏来ル、 <persname corresp=\"#pers_今村清之助\">\n<surname> 今村 </surname>\n<forename> 清之助 </forename>\n</persname> 氏来ル、大坂 <orgname> 汽車製造会社 </orgname> ノ事ヲ話ス、 <persname corresp=\"#pers_平尾\">\n<surname> 平尾 </surname>\n</persname> 某来ル、静岡商工会発会式ニ臨席ノ事ヲ請ハル、来ル <date evidence=\"year inferenced, month\" when=\"1900-06-23\"> 二十三日 </date> ヲ約シ遣ス、京坂鉄道創立委員 <persname corresp=\"#pers_河村隆実\">\n<surname> 河村 </surname>\n<forename> 隆実 </forename>\n</persname> 、 <persname corresp=\"#pers_加東徳三\">\n<surname> 加東 </surname>\n<forename> 徳三 </forename>\n</persname> 、 <persname corresp=\"#pers_渡邊嘉一\">\n<surname> 渡辺 </surname>\n<forename> 嘉一 </forename>\n</persname> 、 <persname corresp=\"#pers_林策一郎\">\n<surname> 林 </surname>\n<forename> 策一郎 </forename>\n</persname> 、 <persname corresp=\"#pers_佐分利一嗣\">\n<surname> 佐分利 </surname>\n<forename> 一嗣 </forename>\n</persname> 諸氏来会ス、要件数項ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<persname corresp=\"#pers_岩越\">\n<surname> 岩越 </surname>\n</persname> 鉄道会社株主総会ニ出席ス、開会ニ当リ <persname corresp=\"#pers_二橋\">\n<surname> 二橋 </surname>\n</persname> 氏欠席スルニヨリ議長席ニ在テ議事ヲ整理ス、取締役改撰ニ関シテ種々ノ議論アリシモ終ニ投票ノ結果三島、 <persname corresp=\"#pers_久野\">\n<surname> 久野 </surname>\n</persname> 、 <persname corresp=\"#pers_瓜生\">\n<surname> 瓜生 </surname>\n</persname> 、 <persname corresp=\"#pers_中村\">\n<surname> 中村 </surname>\n</persname> 、 <persname corresp=\"#pers_前田\">\n<surname> 前田 </surname>\n</persname> 、 <persname corresp=\"#pers_有島\">\n<surname> 有島 </surname>\n</persname> 及余ノ七名当撰ス、依テ来ル金曜日ヲ以テ一会ヲ催ス事ヲ約シテ散会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<persname corresp=\"#pers_原胤昭\">\n<surname> 原 </surname>\n<forename> 胤昭 </forename>\n</persname>\n       氏ヲ訪ヒ免囚保護ノ実況ヲ視ル、現ニ寄宿スル者五十名ニシテ、大工、左官、掃除人夫、手伝ヘ等ノ職ヲ以テ各所ニ出稼シ、毎夜家ニ帰リテ寝食スル由ナリ、免囚人ハ多ク強盗窃盗又ハ殺人犯ノ類ナレトモ、\n        <persname corresp=\"#pers_原\">\n<surname> 原 </surname>\n</persname> 氏此事ヲ創始セシヨリ既ニ四百人以上収養スト云トモ未タ家ニ於テ盗ヲ為ス者ナキ由ナリ、 <persname corresp=\"#pers_原\">\n<surname> 原 </surname>\n</persname> 夫妻及児女共ニ来リテ談話ス、頗ル厚情アリ <pb corresp=\"#pageB1142\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/168/full/max/0/default.jpg\" n=\"B1142\" source=\"#pageB1142\"></pb> 以テ此無頼ノ悪徒ヲ薫陶スルニ足ルモノナラン、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time> 過\n        <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-06-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n       昨夜ヨリ大雨、暁ニ至リテ少ク減ス、朝来沿道処々ニ牧場ヲ見ル、終日汽車ニ在テ四方ヲ眺望スルノミ、沿道ノ土地曠大ニシテ農業ハ粗大ナルヲ覚フ、然レトモ能ク牛馬及器械力ヲ用フルヲ以テ、土地ノ広キニ比シテ居民稀疎ナレトモ田野ハ極テ開拓ノ力ヲ尽セシヲ覚フ\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

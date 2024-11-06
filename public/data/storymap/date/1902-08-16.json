@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-08-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、此日ハポルツムースニ於テ観艦式アルヲ以テ、我カ軍艦タル浅間艦ニ於テ拝観セラルヘキ旨、 <persname corresp=\"#pers_伊集院\">\n<surname> 伊集院 </surname>\n</persname> 司令官ヨリ案内状アリタレハ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:20:00",
+                    "text": "<time when=\"06:20:00\"> 午前六時二十分 </time>\n       ビクトリヤ停車場ノ汽車ニ搭シ一行悉ク相伴フテポルツムースニ抵ル、同地ノホテルニ於テ暫時休足シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 十時半 </time>\n       同港ノ埠頭ヨリ小蒸気船ニ搭シテ浅間艦ニ抵ル、軍艦ノ人々懇切ニ接待セラル、 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 公使、 <persname corresp=\"#pers_後藤新平\">\n<surname> 後藤 </surname>\n<forename> 新平 </forename>\n</persname> 氏其他本邦ノ人多ク来観ス、午飧ハ艦中ニテ立食ヲ饗セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 頃ヨリ各艦ニ発砲ノ挙アリ、此日\n        <placename corresp=\"#place_イギリス\"> 英国 </placename> ノ軍艦ノ来会セル数百八〓《（マヽ）》ナリト云フ、発砲ノ際ハ所謂百雷ノ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time>\n       ニ雲間ヨリ降下スルカト疑ハル、須臾ニシテ煙散シ声歇ミテ海面旧ニ復セシトキ英王ノ船ハ各軍艦ノ列ヲ縫フテ進行ス、王ノ御座船ノ外ニ陪従ノ船前後ニ四〓何レモ速度ヲ同フシテ雁行ス、御座船各軍艦ノ側ニ来レルトキ軍艦ハ悉ク万歳ヲ祝ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 頃式畢テ後浅間艦ノ小蒸気船ヲ以テ上陸シ、ホルツムース港ノホテルニ於テ夜飧ヲ為シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 過帰宿ス此夜汽車中ヨリ風雨甚シ、夜中雨降ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

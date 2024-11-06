@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-12-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝、三人共 <placename corresp=\"#place_神奈川\"> 神奈川 </placename> 発し、 <placename corresp=\"#place_東京府\"> 東京府 </placename>\n       罷越す、此日は西国の藩士北国の戦争相済しとて引揚る兵隊多し、総而元込の小銃を携ひ、服色は銘々の勝手次第と見へて種々の風俗なり、 <placename corresp=\"#place_品川\"> 品川 </placename> の宿頭ニ而 <persname corresp=\"#pers_儀左衛門\">\n<forename> 儀左衛門 </forename>\n</persname> に別れ、 <persname corresp=\"#pers_杉浦譲\">\n<forename> 愛蔵 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤太夫 </forename>\n</persname> は夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 頃礫邸着、御殿内ニ而一泊いたす <lb></lb> 着後両人とも拝謁被　仰付、品々申上る\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

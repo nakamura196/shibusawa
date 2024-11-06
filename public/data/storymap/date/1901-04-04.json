@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-04-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、歯痛昨日ヨリ大ニ減却セシニヨリ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 浅草公園ニ抵リ <persname corresp=\"#pers_瓜生岩子\">\n<surname> 瓜生 </surname>\n<forename> 岩子 </forename>\n</persname> 銅像建設場ヲ一覧シ、当日ノ準備ニ関スル評議ヲ為ス、 <persname corresp=\"#pers_後藤新平\">\n<surname> 後藤 </surname>\n<forename> 新平 </forename>\n</persname> 夫妻及 <persname corresp=\"#pers_箕浦\">\n<surname> 箕浦 </surname>\n</persname> 、 <persname corresp=\"#pers_松平\">\n<surname> 松平 </surname>\n</persname> 諸氏来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宅ス、此日 <orgname> 横浜正金銀行 </orgname> ヨリ\n        <placename corresp=\"#place_横浜\"> 横浜 </placename> ニ招宴セラレシモ歯痛全愈ニ至ラス、且夜ニ入リテ雨降リ出セシヲ以テ書ヲ送テ出席ヲ謝絶ス\n      "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-11-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 美晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time>\n<placename corresp=\"#place_長崎\"> 長崎 </placename> ニ抵ル、郵船会社支店主任 <persname corresp=\"#pers_東条三郎\">\n<surname> 東条 </surname>\n<forename> 三郎 </forename>\n</persname> 、十八銀行取締役 <persname corresp=\"#pers_永見\">\n<surname> 永見 </surname>\n</persname> 、 <persname corresp=\"#pers_鶴野\">\n<surname> 鶴野 </surname>\n</persname> 、 <persname corresp=\"#pers_松田\">\n<surname> 松田 </surname>\n</persname> ノ諸氏来リ迎フ、朝餐後小蒸気船ニテ <placename corresp=\"#place_平戸町\"> 平戸町 </placename>\n       埋立地ヲ一覧ス、更ニ人造石ノ工場ヲ見ル、埋立ノ事ハ <placename corresp=\"#place_長崎市\"> 長崎市 </placename>\n       ノ管理スルモノニシテ、其工事ハ東洋浚渫会社ノ任スル所ナリ、一覧ノ後更ニ小蒸気船ニテ浚渫器械ヲ一覧シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 32.750333,
+                    "lon": 129.877861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n       迎陽亭ニ抵リテ小憩ス、浴後十八銀行ノ饗宴アリ、午餐後諏訪公園ヲ散歩シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 本船ニ帰ル、行ヲ送ル人陸続船ニ来ル、\n        <persname corresp=\"#pers_荘田平五郎\">\n<surname> 荘田 </surname>\n<forename> 平五郎 </forename>\n</persname> 、 <persname corresp=\"#pers_伊沢\">\n<surname> 伊沢 </surname>\n</persname> 某、 <persname corresp=\"#pers_小倉\">\n<surname> 小倉 </surname>\n</persname> 某等来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 開帆ス、此夜船少ク動揺ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

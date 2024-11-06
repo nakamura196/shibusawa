@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-08-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 大雨、此日ハ朝来雨強カリシヲ以テ海水浴ヲ為スヲ得ス、早起朝餐後読書ス、午後ニ至ルモ降雨多カリシヲ以テ来人モナク読書ニ終日ヲ消閑ス、午後 <placename corresp=\"#place_東京\"> 東京 </placename> ニ於テ京坂鉄道発起人会ヲ開クノ約アリシモ、降雨強キヲ以テ電報出席ヲ謝絶ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

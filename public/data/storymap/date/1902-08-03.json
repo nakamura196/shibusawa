@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-08-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1260\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/286/full/max/0/default.jpg\" n=\"B1260\" source=\"#pageB1260\"></pb>\n<lb></lb> 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 午前八時半 </time> 旅舎ヲ出テクイン・ストリート停車場ニ抵リエデンボロ行ノ汽車ニ搭ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> エデンボロニ抵ル、停車場ノ近傍ニ於テ四頭馬ヲ駕スル乗合馬車ニテフオース・ブリヂニ抵ル、此途中ノ風景本邦 <placename corresp=\"#place_京摂\"> 京摂 </placename> 辺ニ似テ一行ヲシテ郷思ヲ催サシム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n       フオール・ブリヂニ達ス、 <placename corresp=\"#place_イギリス\"> 英国 </placename>\n       北海ニ沿フタル河口ニ架スル大橋ナリ、其長サ壱哩半高サ橋台ニ於テ百五十尺、最高キ所ハ三百尺余アリト云フ、実ニ阿房宮賦ニ所謂複道行空モノナリ、此構造ハ <placename corresp=\"#place_イギリス\"> 英国 </placename> 四ケノ鉄道会社協力シテ各会社ノ線路ヲ通スル為メニ設クルモノニシテ其費額三千弐百万円余ナリト云フ、以テ\n        <placename corresp=\"#place_イギリス\"> 英国 </placename>\n       鉄道ノ諸設備如何ニ完全ニシテ且豊富ナルヲ知ルニ足ル、橋辺ノ小亭ニ於テ午飧シ、帰路モ同シ馬車ニテエデンボロニ抵リ、時間余リアルヲ以テ各所ヲ巡覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 午後五時半 </time> 発ノ汽車ニ搭シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 午後七時半 </time>\n<placename corresp=\"#place_グラスゴー\"> グラスゴー </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 55.85806,
+                    "lon": -4.25889,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

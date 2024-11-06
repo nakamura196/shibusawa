@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-08-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後温湯ヲ以テ身体ヲ摩擦ス、畢テ新聞紙ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       朝飧ヲ食ス、食後墨帖ヲ臨ス、午飧後児等ト庭園ヲ散歩シ、帰来又揮毫ヲ試ム <lb></lb> 此日ヨリ病褥ヲ離レテ机上適意ニ読書又ハ臨書ヲ為ス、夜ニ入リテ <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> ノ金色夜叉ヲ読ムヲ聞ク "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

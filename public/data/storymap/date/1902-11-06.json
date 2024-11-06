@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-11-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 朝飧ヲ畢リ、 <placename corresp=\"#place_血洗島\"> 血洗島\n       </placename> ヨリ来レル <persname corresp=\"#pers_渋沢貞子\">\n<forename> 貞子 </forename>\n</persname> ○ <persname corresp=\"#pers_渋沢栄一\">\n<forename> 栄一 </forename>\n</persname> 妹ト <persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> ノ学費ニ関スル事共ヲ談シ庭園ヲ散歩シ、 <persname corresp=\"#pers_前島密\">\n<surname> 前島 </surname>\n<forename> 密 </forename>\n</persname> 氏、 <persname corresp=\"#pers_成瀬仁蔵\">\n<surname> 成瀬 </surname>\n<forename> 仁蔵 </forename>\n</persname> 氏等ノ来訪ヲ受ケ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 過 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵ル、時事新報記者来リ視察談ヲ為ス午飧後 <orgname> 第一銀行 </orgname>\n       重役会ニ於テ要務ヲ議決シ、再ヒ事務所ニ於テ事務ヲ指揮シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 喜賓会ニ出席シ、議事畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 日本倶楽部晩餐会ニ出席シ会長其他ノ委員一同ニ面話シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

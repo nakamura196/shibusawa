@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-02-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 銀行ニ抵リテ行務ヲ視ル、 <persname corresp=\"#pers_二橋元長\">\n<surname> 二橋 </surname>\n<forename> 元長 </forename>\n</persname> 、 <persname corresp=\"#pers_小山健三\">\n<surname> 小山 </surname>\n<forename> 健三 </forename>\n</persname> 氏等来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 宅ニ於テ、 <persname corresp=\"#pers_古河市兵衛\">\n<surname> 古河 </surname>\n<forename> 市兵衛 </forename>\n</persname> 、同 <persname corresp=\"#pers_古河潤吉\">\n<forename> 潤吉 </forename>\n</persname> 、 <persname corresp=\"#pers_近藤\">\n<surname> 近藤 </surname>\n</persname> 、 <persname corresp=\"#pers_木村\">\n<surname> 木村 </surname>\n</persname> 、 <persname corresp=\"#pers_岡崎\">\n<surname> 岡崎 </surname>\n</persname> 狐崎、 <persname corresp=\"#pers_山田\">\n<surname> 山田 </surname>\n</persname> 、 <persname corresp=\"#pers_福岡\">\n<surname> 福岡 </surname>\n</persname> 、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 及銀行員 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <persname corresp=\"#pers_土岐\">\n<surname> 土岐 </surname>\n</persname> 、 <persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 、 <persname corresp=\"#pers_清水\">\n<surname> 清水 </surname>\n</persname> 数氏ヲ招宴ス、各歓ヲ尽シ夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1899-02-07T00:00+0900\"> 十二時 </time> 散会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

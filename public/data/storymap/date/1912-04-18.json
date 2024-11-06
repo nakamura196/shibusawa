@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-04-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 昨夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1912-04-17T23:40:00\"> 十一時四十分 </time> 頃ヨリ寝台列車ニテ <placename corresp=\"#place_大阪\"> 大阪 </placename> ヲ発シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 過西京ニ抵リ、\n        <persname corresp=\"#pers_中川\">\n<surname> 中川 </surname>\n</persname> 、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 氏ノ来訪アリ、 <persname corresp=\"#pers_中井\">\n<surname> 中井 </surname>\n</persname> 其他ノ <placename corresp=\"#place_大阪\"> 大阪 </placename>\n       ヨリ同行者ハ此処ニ下車ス、夫ヨリ就寝、翌暁荒井《（新居）》、二川辺ニテ起床、洗面シテ朝飧ヲ汽車中ニテ食ス、朝来淡雲四望分明ナラス、 <placename corresp=\"#place_天竜\"> 天竜 </placename> 川、大江川《（井）》ヲ過キ、 <placename corresp=\"#place_静岡\"> 静岡\n       </placename> 附近ヨリ富岳淡靄中ニ隠顕ス、風景佳絶ナリ、午飧モ汽車中ニ於テシ車中頻リニ伝記ノ原稿ヲ読ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時\n       </time> 過 <placename corresp=\"#place_新橋\"> 新橋 </placename> 着、直ニ事務所ニ抵リ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト会見シ、又、事務所員ニ留守中ノ要務ヲ聞知ス、夕方 <placename corresp=\"#place_王子\"> 王子 </placename>\n       ニ帰宿ス、夜飧後、新聞紙ヲ読マシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

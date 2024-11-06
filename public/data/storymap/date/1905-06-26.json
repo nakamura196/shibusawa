@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-06-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:00:00",
+                    "text": "<time when=\"05:00:00\"> 午前五時 </time> 頃雷鳴アリテ雨強ク降リ出シタレトモ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time>\n       頃ヨリ稍晴摸様アリタリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 起床、室内運動ヲ為シ、畢テ入浴ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時\n       </time> 過朝飧ヲ為ス、此日ハ <persname corresp=\"#pers_福岡健良\">\n<surname> 福岡 </surname>\n<forename> 健良 </forename>\n</persname> ノ葬儀アリシモ天気悪シキヲ以テ出席セス、夕方 <orgname> 銀行倶楽部 </orgname> 晩飧会ニモ電話ニテ謝絶シ、家ニ在テ休息ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

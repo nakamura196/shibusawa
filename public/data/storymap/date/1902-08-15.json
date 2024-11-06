@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-08-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 過朝飧ヲ畢リ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 十時半 </time> シチーニ抵ル、\n        <persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> 、 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> 同伴ス、先ツロンバルト・ストリートニ於テジヤージン・マチソン商会ニ抵リ、 <persname corresp=\"#pers_ケスウエツク\">\n<surname> ケスウエツク </surname>\n</persname> 氏ニ面会シ、過夕饗宴ノ答辞ヲ述ヘ、次テ <pb corresp=\"#pageB1264\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/290/full/max/0/default.jpg\" n=\"B1264\" source=\"#pageB1264\"></pb>\n<placename corresp=\"#place_支那\"> 支那 </placename> 鉄道ニ関スル事ヲ談話ス、同氏ハ頗ル厚意ヲ以テ之ニ答ヘ、 <placename corresp=\"#place_南京市\"> 南京 </placename>\n<placename corresp=\"#place_上海市\"> 上海 </placename> 間ノ鉄道布設ニ関シ <placename corresp=\"#place_日本\"> 日本\n       </placename> ノ資本家ヲ加入スルハ聊モ異議ナシト雖モ、該線路ハ目下 <placename corresp=\"#place_イギリス\"> 英国 </placename>\n       シンヂケイトニ於テ支那政府ト其線路ノ設定及布設方法等ニ関シ協議中ナルニ付、其決定ヲ待テ当方ヘモ案内スヘキ旨ヲ答ヘラル、依テ他日再ヒ相談スヘキ事ヲ約ス、畢テ <placename corresp=\"#place_イギリス\"> 英国 </placename> 商工業ノ現況ニ付二三ノ談話ヲ為シ、同商会ヲ去テ三井物産会社ニ抵リ、 <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname>\n<persname corresp=\"#pers_小室\"> 小室 </persname> 二氏 ニ面会ス、畢テ亦路ヲ転シ、 <orgname> 日本郵船会社 </orgname>\n       ニ抵リセームス氏ニ面会シテ余等一行ノ帰国ニ付テノ船繰ヲ問フ、依テ種々ノ談話ヲ為シ、来ル <date evidence=\"year inferenced, day\" when=\"1902-09\"> 九月 </date> 初旬大陸旅行ヲ為シテ帰英ノ後ニ確定スル事ヲ約シテ同会社ヲ辞シ、馬車ヲ僦フテ <placename corresp=\"#place_ロンドン\"> 倫敦 </placename>\n       古城趾ニ抵リ城内ヲ一覧ス、王室ニ属スル宝物ノ陳列所ヲモ見ル、更ニ上部ノ室ニ於テ古代ノ武器陳列シアルヲ見ル、一覧後 <placename corresp=\"#place_ロンドン\"> 倫敦\n       </placename> ブリチニ抵ル、此橋ハ <date when=\"1880\"> 千八百八十年 </date>\n       頃ニ建築セシモノニシテ其構造頗ル堅牢ナリ、テイムス河ニ架セシ大橋ニテ中間ニ開閉機アリ、蓋シテイムス河ヲ溯ル大船ノ出入ニ便スル為ナリト云フ、然レトモ其開閉頗ル時間ヲ費シ、且開橋ノ際ニハ橋上ヲ往返スル人ハ更ニ橋ノ上部ニアル人道ニ依ルノ仕掛ニシテ其取扱方モ簡便ナラスト云フ、蓋シ二十年前ノ結構トシテハ聊カ研究ヲ欠ク所アルニ似タリ、一覧久クシテ\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 32.05,
+                    "lon": 118.767,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 旅宿ニ帰リ、午飧後セントセームス・ストリートニテ <persname corresp=\"#pers_スヘンサー\">\n<surname> スヘンサー </surname>\n</persname> 伯ノ家ヲ訪ヒ、不在ナルヲ以テ名刺ヲ止メテ去リ、更ニ <placename corresp=\"#place_ベルギー\"> 白耳義 </placename>\n       公使ダヌタン男爵ノ寓居ヲ訪フモ不在ナルヲ以テ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 帰宿ス、此夜大陸旅行ノ時日ヲ決定シ、旅行ニ関スル手続ヲ協議ス、\n        <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 、 <persname corresp=\"#pers_萩原源太郎\">\n<surname> 萩原 </surname>\n<forename> 源太郎 </forename>\n</persname> 来ル <lb></lb>\n<persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> カージフ炭坑一覧ノ旅行畢テ、此日午後帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

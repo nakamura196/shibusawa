@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-03-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、夕方晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 偕楽園ニ抵リ <orgname> 十勝開墾会社 </orgname> 重役会ニ列ス、同姓《（\n        <persname corresp=\"#pers_渋沢成一郎\">\n<forename> 喜作 </forename>\n</persname> 脱カ）》、 <persname corresp=\"#pers_植村\">\n<surname> 植村 </surname>\n</persname> 、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_小田\">\n<surname> 小田 </surname>\n</persname> 諸氏ト会シテ、会社ノ業務ニ関スル将来ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n       東京市役所ニ抵リ御慶事奉祝会発起人集会ニ列ス、規程其他ノ要務ヲ議決シ且頃日来技師ニ設計委托ノ手続ヲ報告ス、規程ノ逐条会ハ議長席ニ在テ之ヲ議了ス、畢テ正副会長ヲ撰挙シテ散会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 銀行集会所ニ抵リ <persname corresp=\"#pers_星松三郎\">\n<surname> 星 </surname>\n<forename> 松三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_重野謙次郎\">\n<surname> 重野 </surname>\n<forename> 謙次郎 </forename>\n</persname> 両氏ヲ招宴ス、 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 、 <persname corresp=\"#pers_波多野承五郎\">\n<surname> 波多野 </surname> 承五郎 </persname> 、 <persname corresp=\"#pers_松尾謹次\">\n<surname> 松尾 </surname>\n<forename> 謹次 </forename>\n</persname> 、 <persname corresp=\"#pers_山中\">\n<surname> 山中 </surname>\n</persname> 、 <persname corresp=\"#pers_戸田\">\n<surname> 戸田 </surname>\n</persname> 諸氏来会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 宴散シテ <placename corresp=\"#place_日本橋兜町\">\n        兜町 </placename> ニ帰宿ス、此日、 <persname corresp=\"#pers_星\">\n<surname> 星 </surname>\n</persname> 、 <persname corresp=\"#pers_重野\">\n<surname> 重野 </surname>\n</persname> 二氏ヲ招宴セシハ、曾テ印紙税法修正ノ事ニ関シ衆議院ニ於テ尽力セシヲ慰労スルガ為メナリ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

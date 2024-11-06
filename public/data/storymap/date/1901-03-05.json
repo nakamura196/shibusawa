@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-03-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前、 <persname corresp=\"#pers_小倉良則\">\n<surname> 小倉 </surname>\n<forename> 良則 </forename>\n</persname> 、． <persname corresp=\"#pers_霍岡助次郎\">\n<surname> 霍岡 </surname>\n<forename> 助次郎 </forename>\n</persname> 《（ <persname corresp=\"#pers_鶴岡助次郎\">\n<surname> 鶴岡 </surname>\n<forename> 助次郎 </forename>\n</persname> ）》来リ <orgname> 成田銀行 </orgname> ノ事ニ付談話ス、 <persname corresp=\"#pers_大原春次郎\">\n<surname> 大原 </surname>\n<forename> 春次郎 </forename>\n</persname> 来ル、 <persname corresp=\"#pers_岡部次郎\">\n<surname> 岡部 </surname>\n<forename> 次郎 </forename>\n</persname> 来ル、 <placename corresp=\"#place_信州\"> 信州 </placename>\n<persname corresp=\"#pers_木内善兵衛\">\n<surname> 木内 </surname>\n<forename> 善兵衛 </forename>\n</persname> ノ縁者ノ由ニテ旧時ノ事ヲ談ス、午後 <orgname> 第一銀行 </orgname> ニ出勤ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時\n       </time> 麻布 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ヲ訪フ、不在ニテ面会ヲ得ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 日本倶楽部晩餐会ニ参席ス、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 、 <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 、 <persname corresp=\"#pers_岡部\">\n<surname> 岡部 </surname>\n</persname> 三氏ノ演説アリ、頗ル盛会ナリキ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

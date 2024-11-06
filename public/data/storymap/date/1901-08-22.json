@@ -1,0 +1,52 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-08-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ出勤ス、午後 <orgname> 第一銀行\n       </orgname> 重役会ヲ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 宅ニ開ク、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename> メトルホール・ホテルニ抵リ <persname corresp=\"#pers_フランキー\">\n<surname> フランキー </surname>\n</persname> 氏ヲ訪フ、蓋シ同氏ノ案内ニ応シテ夜食ノ宴ヲ享クル為メナリ、夜ニ入リテ雨アリ、 <placename corresp=\"#place_浜町\"> 浜町\n       </placename> 宅ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

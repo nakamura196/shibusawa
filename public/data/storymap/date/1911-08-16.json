@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-08-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ、読書シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       朝飧ヲ食ス、今日帰京ノ筈ナルニ付旅装ヲ理メテ後、新聞紙又ハ雑書ヲ読ム、朝ヨリ雲霧濛々トシテ咫尺ヲ弁セス、時々驟雨疾風来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時\n       </time> 木暮ノ家ヲ発シ停車場ニテ電車ニ搭ス、 <persname corresp=\"#pers_木暮祐雄\">\n<surname> 木暮 </surname>\n<forename> 祐雄 </forename>\n</persname>\n<placename corresp=\"#place_高崎\"> 高崎 </placename> マテ送別ス、車中雨歇ミ風静カニシテ <placename corresp=\"#place_高崎\"> 高崎 </placename> ニ到レハ天気稍静ナリ、汽車中勉テ雑誌類ヲ読ム、 <placename corresp=\"#place_熊谷\">\n        熊谷 </placename> 駅ヨリ <persname corresp=\"#pers_島田\">\n<surname> 島田 </surname>\n</persname> 埼玉県知事同車ス、 <placename corresp=\"#place_浦和\"> 浦和 </placename> ニテ分ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 午後五時半 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> 着、停車場ニハ <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persname> 、 <persname corresp=\"#pers_明石\">\n<surname> 明石 </surname>\n</persname> 其他大勢来リ迎フ、家ニ還テ却テ客中ノ苦ヲ覚ヘ、家居ノ安楽ヲ知ルノ想アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半 </time>\n       夜飧後、新聞紙類ヲ読マシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

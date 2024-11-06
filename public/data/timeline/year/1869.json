@@ -1,0 +1,955 @@
+{
+    "title": {
+        "text": {
+            "headline": "1869"
+        }
+    },
+    "events": [
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "01"
+            },
+            "text": {
+                "headline": "\n 十一月十九日  美晴  千八百六十九年一月一日\n       \n",
+                "text": "<p> 昨夜運送方へ請取し品物相渡し、朝連発銃も請取之積申談せしに、 <persName corresp=\"#pers_渋沢栄一\">\n<forename> 篤太夫 </forename>\n</persName> ならてハ渡方不相成旨ニ付、東波塘場に罷越、連発銃の箱請取、海岸に来り積入の手筈取扱、 <persName corresp=\"#pers_森川\">\n<surname> 森川 </surname>\n</persName> より相頼まれし牛肉及買上し反物は上乗の水人に相托し、届方申談す <lb/> 廻船の手筈よろしく、荷物改方等波塘場に相済たれは、夫より一同ニ而午飯をいたし、第\n        <time when=\"14:00:00\"> 二時 </time> 頃 <placeName corresp=\"#place_黄賓\"> 黄賓 </placeName>\n       出立、乗合船ニ而第 <time when=\"15:00:00\"> 三時 </time> 頃 <placeName corresp=\"#place_金川\"> 金川 </placeName>\n       着、下田屋といふ客舎投宿 <lb/> 銀丁二丁目 <persName corresp=\"#pers_西山幸助\">\n<surname> 西山 </surname>\n<forename> 幸助 </forename>\n</persName>\n</p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "02"
+            },
+            "text": {
+                "headline": "\n 十一月廿日  晴  一月二日 \n",
+                "text": "<p> 朝 <time when=\"06:00:00\"> 六時 </time>\n<placeName corresp=\"#place_金川\"> 金川 </placeName> を発し、駕を命し <placeName corresp=\"#place_川崎\"> 川崎\n       </placeName> を経 <placeName corresp=\"#place_品川\"> 品川 </placeName> に至り、夫より歩行ニ而 <time when=\"14:00:00\"> 二時 </time> 頃 <placeName corresp=\"#place_中橋\"> 中橋 </placeName>\n<persName corresp=\"#pers_山中隣之助\">\n<surname> 山中 </surname>\n<forename> 隣之助 </forename>\n</persName> 宅に至る、松代藩 <persName corresp=\"#pers_横田数馬\">\n<surname> 横田 </surname>\n<forename> 数馬 </forename>\n</persName> といふ留守居面会、午飯終て <time when=\"16:00:00\"> 四時 </time> 頃 <placeName corresp=\"#place_明神\">\n        明神 </placeName> 田僑居《（下カ）》に至る、時に <persName corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persName> は外出にて、北堂の留守せしかは、帰着を言て一同の無事を祝し、夫より御買上品持参ニて礫邸に至る、 <persName corresp=\"#pers_民部公子\">\n        民部公子 </persName> に拝謁、数々新聞抔申上る <lb/> 昨日公子水戸御相続之儀相済し旨被仰聞、夜に入て水邸を罷り、明神下帰宿、 <persName corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persName> 面会 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "03"
+            },
+            "text": {
+                "headline": "\n 十一月廿一日  曇  一月三日 \n",
+                "text": "<p> 朝、 <persName corresp=\"#pers_梅田慎之助\">\n<surname> 梅田 </surname>\n<forename> 慎之助 </forename>\n</persName> を訪ひ、郷里より来りし <persName corresp=\"#pers_藤十郎\">\n<forename> 藤十郎 </forename>\n</persName>\n       といふ者面会いたす、いまた郷里より書状の報なかりせは、同人に托し、品物及消息等申通度とて、其日書翰を認め、明後日同人帰省之積申談す、午飯後礫邸に罷越し、御用荷物仕訳いたす <lb/>\n       夕、 <persName corresp=\"#pers_梅田\">\n<surname> 梅田 </surname>\n</persName> に来り、 <persName corresp=\"#pers_藤十郎\">\n<forename> 藤十郎 </forename>\n</persName> 面会、帰省之手続申談す、此夜、 <persName corresp=\"#pers_梅田\">\n<surname> 梅田 </surname>\n</persName> 一泊 <lb/>\n<persName corresp=\"#pers_須永虎之助\">\n<surname> 須永 </surname>\n<forename> 虎之助 </forename>\n</persName> 来会 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "04"
+            },
+            "text": {
+                "headline": "\n 十一月廿二日  曇  一月四日 \n",
+                "text": "<p> 朝、 <persName corresp=\"#pers_梅田\">\n<surname> 梅田 </surname>\n</persName> ニ而文作に逢ふ、 <persName corresp=\"#pers_須永\">\n<surname> 須永 </surname>\n</persName> も来会す、旧情を話す、 <persName corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persName> 来る、同行ニ而田安御殿に至る、 <persName corresp=\"#pers_織田和泉\">\n<surname> 織田 </surname> 和泉 </persName> 及中老列座ニ而、 <placeName corresp=\"#place_フランス\"> 仏国\n       </placeName> 之御用向手続申立る、 <persName corresp=\"#pers_森川\">\n<surname> 森川 </surname>\n</persName> 面会、夕方礫邸に至り、御買上の鉄砲来着せしニ付改方いたし、帰宿、帰路 <persName corresp=\"#pers_川勝\">\n<surname> 川勝 </surname>\n</persName> 近江方尋問 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "05"
+            },
+            "text": {
+                "headline": "\n 十二月廿三日《（十一月）》  晴  一月五日 \n",
+                "text": "<p> 朝、郷里大人来着之由ニ而 <persName corresp=\"#pers_梅田\">\n<surname> 梅田 </surname>\n</persName> より使之者来る、直ニ同所に相越、大人 <pb corresp=\"#pageB1031\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/57/full/max/0/default.jpg\" n=\"B1031\" source=\"#pageB1031\"/> に逢へ旧を話し、終日 <persName corresp=\"#pers_梅田\">\n<surname> 梅田 </surname>\n</persName> ニ而休息、 <persName corresp=\"#pers_須永\">\n<surname> 須永 </surname>\n</persName> 子来会 <lb/> 此夜 <persName corresp=\"#pers_梅田\">\n<surname> 梅田 </surname>\n</persName> 一泊 <lb/>\n<persName corresp=\"#pers_藤十郎\">\n<forename> 藤十郎 </forename>\n</persName> 明日郷里出立ニ付、荷物相托す </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "06"
+            },
+            "text": {
+                "headline": "\n 十一月廿四日  晴  一月六日 \n",
+                "text": "<p> 朝飯後、 <persName corresp=\"#pers_梅田\">\n<surname> 梅田 </surname>\n</persName> を発し礫邸に至り、御買上品来着取調、御用荷物仕訳いたす <lb/> 第 <time when=\"15:00:00\"> 三時 </time> 頃、明神下僑居帰宿、\n        <persName corresp=\"#pers_田辺太一\">\n<surname> 田辺 </surname>\n<forename> 太一 </forename>\n</persName> 来 <lb/> 此夜大人僑居ニ而一宿いたす </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "07"
+            },
+            "text": {
+                "headline": "\n 十一月廿五日  晴  一月七日 \n",
+                "text": "<p> 朝、 <persName corresp=\"#pers_福地源一郎\">\n<surname> 福地 </surname>\n<forename> 源一郎 </forename>\n</persName> 来、午餐後、 <persName corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persName> 、 <persName corresp=\"#pers_福地\">\n<surname> 福地 </surname>\n</persName> 同行、田安殿に至る、 <persName corresp=\"#pers_森川\">\n<surname> 森川 </surname>\n</persName> 面会、中老 <persName corresp=\"#pers_織田和泉\">\n<surname> 織田 </surname>\n<forename> 和泉 </forename>\n</persName> に逢ふて公子御内御用之儀申談す、帰省之儀願差出す、第 <time when=\"16:00:00\"> 四時 </time>\n       頃礫邸へ出る、明日仏行御供之者一同罷出候様被申渡 <lb/>\n<persName corresp=\"#pers_栗本\">\n<surname> 栗本 </surname>\n</persName> 仏行勘定書之儀ニ付、明後 <date type=\"旧暦\" when=\"1869-01-09\"> 廿七日 </date> 田安殿可罷出旨相達す、夕方帰宿、此夜\n        <persName corresp=\"#pers_伊東玄伯\">\n<surname> 伊東 </surname>\n<forename> 玄伯 </forename>\n</persName> 之招に応し、 <persName corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persName> 同行、 <placeName corresp=\"#place_両国\"> 両国 </placeName> 川長といふ割庖楼に至る、夜 <time when=\"23:00:00\"> 十一時 </time> 頃帰宿 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "08"
+            },
+            "text": {
+                "headline": "\n 十一月廿六日  晴  一月八日 \n",
+                "text": "<p> 朝、 <persName corresp=\"#pers_梅田\">\n<surname> 梅田 </surname>\n</persName> に至り、衣服仕立之儀注文いたし、夫より <persName corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persName> 同行、 <placeName corresp=\"#place_和泉橋\"> 和泉橋 </placeName> を渡り、 <persName corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persName> と別れ、 <placeName corresp=\"#place_元鳥越\"> 元鳥越 </placeName>\n<persName corresp=\"#pers_小出涌之助\">\n<surname> 小出 </surname>\n<forename> 涌之助 </forename>\n</persName> 宅訊問、母及弟抔面会、御変遷以来同人共苦心之事共を話す、夫より明神下帰宿、第 <time when=\"15:00:00\"> 三時 </time> 頃\n        <persName corresp=\"#pers_伊東玄伯\">\n<surname> 伊東 </surname>\n<forename> 玄伯 </forename>\n</persName> 来大人の持病胗察《（診）》、夕方、 <persName corresp=\"#pers_杉浦譲\">\n<forename> 愛蔵 </forename>\n</persName> 、 <persName corresp=\"#pers_伊東玄伯\">\n<forename> 玄伯 </forename>\n</persName> と伴ひ礫邸に至る、 <persName corresp=\"#pers_山高八郎\">\n<surname> 山高 </surname>\n<forename> 八郎 </forename>\n</persName> も来会、御前ニ而御酒肴被下、御手酌ニ而種々御饗応有之、退散之節一同へ被下物有之、此夜明神下辺出火なれは酔を勉て帰宿、焼失は <placeName corresp=\"#place_中御徒士町\"> 中御徒士町 </placeName> ニ而漸安堵の想をなす </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "09"
+            },
+            "text": {
+                "headline": "\n 十一月廿七日  晴  一月九日 \n",
+                "text": "<p> 郷里大人帰郷いたす、午飯後、田安御殿に出る、 <persName corresp=\"#pers_織田和泉\">\n<surname> 織田 </surname> 和泉 </persName> 面会、 <persName corresp=\"#pers_民部公子\"> 民部公子 </persName>\n       御内用之儀申談す、 <persName corresp=\"#pers_森川\">\n<surname> 森川 </surname>\n</persName> 、 <persName corresp=\"#pers_栗本\">\n<surname> 栗本 </surname>\n</persName> 等不罷出ニ付、明日 <persName corresp=\"#pers_渋沢栄一\">\n<forename> 篤太夫 </forename>\n</persName> 、 <persName corresp=\"#pers_栗本\">\n<surname> 栗本 </surname>\n</persName> 方可罷越儀申談、夫より礫邸に至り、昨日之謝詞申述、荷物仕訳残取調いたす、夜に入明神下帰宿 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "10"
+            },
+            "text": {
+                "headline": "\n 十一月廿八日  晴  一月十日 \n",
+                "text": "<p> 朝、 <persName corresp=\"#pers_浜中義左衛門\">\n<surname> 浜中 </surname>\n<forename> 義左衛門 </forename>\n</persName> 来、同行ニ而 <placeName corresp=\"#place_大塚\"> 大塚 </placeName> 、 <persName corresp=\"#pers_栗本\">\n<surname> 栗本 </surname>\n</persName> を訪ふ、明日同人出殿諸事可申談旨相約す、午飯等相調へ、 <persName corresp=\"#pers_浜中\">\n<surname> 浜中 </surname>\n</persName> と別れ、駕を命し <placeName corresp=\"#place_両国\"> 両国 </placeName> 吉田屋に至る <lb/>\n<persName corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persName> 面会、同行ニ而 <placeName corresp=\"#place_番場町\"> 番場町 </placeName>\n<persName corresp=\"#pers_田辺\">\n<surname> 田辺 </surname>\n</persName> を訪ひ、 <persName corresp=\"#pers_卯三郎\">\n<forename> 卯三郎 </forename>\n</persName> 邂逅、四人打連て、 <persName corresp=\"#pers_河津\">\n<surname> 河津 </surname>\n</persName> 伊豆の住居せる元 <persName corresp=\"#pers_酒井\">\n<surname> 酒井 </surname>\n</persName> 左衛門尉別業を尋問、庭園を一覧、夜に入 <persName corresp=\"#pers_河津\">\n<surname> 河津 </surname>\n</persName> の娘に洋服試験の挙を遂 <lb/> 夜半過より <placeName corresp=\"#place_深川\"> 深川 </placeName> に至り一泊\n      </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "11"
+            },
+            "text": {
+                "headline": "\n 十一月廿九日  曇  一月十一日 \n",
+                "text": "<p> 暁、舟ニ而 <placeName corresp=\"#place_深川\"> 深川 </placeName> を発し、筋違ニ而上陸帰宿、 <persName corresp=\"#pers_渋沢栄一\">\n<forename> 篤太夫 </forename>\n</persName> ハ直ニ礫邸に至り御内命等被仰付、被下物拝領 <lb/> 御小性頭取 <lb/>\n<persName corresp=\"#pers_柴田章彦\">\n<surname> 柴田 </surname>\n<forename> 章彦 </forename>\n</persName>\n<lb/> 御小納戸 <lb/>\n<persName corresp=\"#pers_今井与左衛門\">\n<surname> 今井 </surname>\n<forename> 与左衛門 </forename>\n</persName>\n<lb/> 外ニ荷物等調分いたし、包立之上明神下迄差立方取計、夫より田安御殿 <pb corresp=\"#pageB1032\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/58/full/max/0/default.jpg\" n=\"B1032\" source=\"#pageB1032\"/> 江出、郷省願済《（帰カ）》、諸事引合相済、夕方より麦斗ニ而小酌、 <persName corresp=\"#pers_田辺\">\n<surname> 田辺 </surname>\n</persName> 、 <persName corresp=\"#pers_塩田\">\n<surname> 塩田 </surname>\n</persName> 其外両人来 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "12"
+            },
+            "text": {
+                "headline": "\n 十一月卅日  晴  一月十二日 \n",
+                "text": "<p> 朝、帰省支度相整、四ツ半頃明神下発、此日 <persName corresp=\"#pers_大村昇之助\">\n<surname> 大村 </surname>\n<forename> 昇之助 </forename>\n</persName> といふ者召抱但 <persName corresp=\"#pers_須永伝蔵\">\n<surname> 須永 </surname>\n<forename> 於莵之助 </forename>\n</persName> より被相頼ニ付召連る、外ニ <persName corresp=\"#pers_幸蔵\">\n<forename> 幸蔵 </forename>\n</persName> といふをも相随ひ、夕方 <placeName corresp=\"#place_浦和\"> 浦和 </placeName> 宿に至一泊 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "13"
+            },
+            "text": {
+                "headline": "\n 十二月朔  晴  一月十三日 \n",
+                "text": "<p> 暁、七ツ時 <placeName corresp=\"#place_浦和\"> 浦和 </placeName> 発、 <placeName corresp=\"#place_鴻巣市\">\n        鴻巣 </placeName> 宿ニ而午餐、夕 <time when=\"18:00:00\"> 六時 </time> 過に至 <placeName corresp=\"#place_深谷\"> 深谷 </placeName> 着、 <persName corresp=\"#pers_福岡春清\">\n<surname> 福岡 </surname>\n<forename> 春清 </forename>\n</persName> 為出迎並木迄罷出る、隣家の少年両三輩途中迄罷出、夜五ツ過帰着、渾家及近隣諸親一同相集り、別離以来之情緒を話す、鶏鳴に至退散 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "14"
+            },
+            "text": {
+                "headline": "\n 十二月二日  晴  一月十四日 \n",
+                "text": "<p> 朝より諸方知音之者相集り、頗る雑沓を究む、此夜、 <persName corresp=\"#pers_尾高新五郎\">\n<surname> 尾高 </surname>\n<forename> 新五郎 </forename>\n</persName> 来、 <persName corresp=\"#pers_尾高幸五郎\">\n<forename> 幸五郎 </forename>\n</persName> 其他同行いたす </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "15"
+            },
+            "text": {
+                "headline": "\n 十二月三日  晴  一月十五日 \n",
+                "text": "<p> 朝召連来りし <persName corresp=\"#pers_幸蔵\">\n<forename> 幸蔵 </forename>\n</persName> を <placeName corresp=\"#place_東京\"> 東京 </placeName> へ差帰す、 <persName corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persName> へ一書差遣す、諸方土産物之調いたす、 <persName corresp=\"#pers_福岡春清\">\n<surname> 福岡 </surname>\n<forename> 春清 </forename>\n</persName> 来る、諸近親之者集来、夜、 <placeName corresp=\"#place_手計\"> 手計 </placeName>\n<persName corresp=\"#pers_尾高惇忠\">\n<forename> 藍香 </forename>\n</persName> を訪ふ、新宅へ尋問、 <persName corresp=\"#pers_忠三郎\">\n<forename> 忠三郎 </forename>\n</persName> 、 <persName corresp=\"#pers_豊五郎\">\n<forename> 豊五郎 </forename>\n</persName> 其他来集、夜 <time when-iso=\"1869-01-16T02:00+0900\"> 二時 </time> 頃帰宿 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "16"
+            },
+            "text": {
+                "headline": "\n 十二月四日  晴  一月十六日 \n",
+                "text": "<p> 朝より諸近隣之者つとゐ来り、 <placeName corresp=\"#place_フランス\"> 仏国 </placeName>\n       に在りし事共相話す、昨日より本家之折合行届ければ、夜、 <persName corresp=\"#pers_常太郎\">\n<forename> 常太郎 </forename>\n</persName> 同行ニ而罷越す、 <persName corresp=\"#pers_宗助\">\n<forename> 宗助 </forename>\n</persName> 父子及婦人共不残面会旧を話す、此夜、 <persName corresp=\"#pers_新地九一郎\">\n<surname> 新地 </surname>\n<forename> 九一郎 </forename>\n</persName> 、 <persName corresp=\"#pers_福田治助\">\n<surname> 福田 </surname>\n<forename> 治助 </forename>\n</persName> 兄弟来る、洋州の事共論話いたす </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "17"
+            },
+            "text": {
+                "headline": "\n 十二月五日  晴  一月十六日《（十七日）》 \n",
+                "text": "<p> 午時より近隣を訪ひ、 <placeName corresp=\"#place_新田\"> 新田 </placeName>\n<placeName corresp=\"#place_吉岡\"> 吉岡 </placeName> に至る、伊勢崎 <persName corresp=\"#pers_細野\">\n<surname> 細野 </surname>\n</persName> の妻来りしより帰宿面会、夫より <persName corresp=\"#pers_新宅市五郎\">\n<surname> 新宅 </surname>\n<forename> 市五郎 </forename>\n</persName> の宅を訪ひ、前の内ニ而午飯、隠居に至り老叔父に逢ひ旧を話す </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "18"
+            },
+            "text": {
+                "headline": "\n 十二月六日  晴  一月十七日《（十八日）》 \n",
+                "text": "<p> 朝、支度を整、土産物諸親へ送り遣す、午後、 <persName corresp=\"#pers_渋沢成一郎\">\n<forename> 成一郎 </forename>\n</persName> の宅へ相越す、老叔父留守中ニ付直ニ帰宿、夜、新屋敷叔父、 <persName corresp=\"#pers_尾高惇忠\">\n<forename> 藍香 </forename>\n</persName> 及近隣旧交の者数人来る、明日出立之積ニ付、別を惜み再会を約す </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "19"
+            },
+            "text": {
+                "headline": "\n 十二月七日  曇  一月十八日《（十九日）》 \n",
+                "text": "<p> 朝、旅装整ひ、 <time when=\"08:00:00\"> 八時 </time> 頃発途、渾家一同相送り、諸親之者数多相伴ふて <placeName corresp=\"#place_深谷\"> 深谷 </placeName> 宿に至り、 <persName corresp=\"#pers_春清\">\n<forename> 春清 </forename>\n</persName> 方ニ而休息、夫より駕に乗り、送り来りし者共に別る、陌頭ニ而新野村 <persName corresp=\"#pers_善助\">\n<forename> 善助 </forename>\n</persName> 面会、 <placeName corresp=\"#place_熊ケ谷\"> 熊ケ谷 </placeName> 宿ニ而午飯、夕、 <placeName corresp=\"#place_鴻巣市\"> 鴻巣 </placeName> 宿着、本陣へ投宿、此夜風邪気ニ而頗る煩悶せり </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "20"
+            },
+            "text": {
+                "headline": "\n 十二月八日  曇  一月十九日《（二十日）》 \n",
+                "text": "<p> 払暁 <placeName corresp=\"#place_鴻巣市\"> 鴻巣 </placeName> 発途、 <placeName corresp=\"#place_蕨\"> 蕨\n       </placeName> 宿ニ而昼食、夕方明神下着、 <persName corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persName> 在宿なりしかは別後之事共申談、夜、阿人 <persName corresp=\"#pers_小花\">\n<surname> 小花 </surname>\n</persName> 、阿米来る、 <persName corresp=\"#pers_福地源一郎\">\n<surname> 福地 </surname>\n<forename> 源一郎 </forename>\n</persName> 来 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "21"
+            },
+            "text": {
+                "headline": "\n 十一月九日《（十二月）》  晴  一月廿日《（二十一日）》 \n",
+                "text": "<p> 朝、 <persName corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persName> 同行 <placeName corresp=\"#place_飯田町\"> 飯田丁 </placeName> ニ而 <persName corresp=\"#pers_平岡四郎\">\n<surname> 平岡 </surname>\n<forename> 四郎 </forename>\n</persName> を訪ふ、不在ニ付明朝を約し、夫より御殿へ出る、 <persName corresp=\"#pers_大久保一翁\">\n<surname> 大久保 </surname>\n<forename> 一翁 </forename>\n</persName> に逢而 <placeName corresp=\"#place_駿府\"> 駿府 </placeName>\n       出立之儀申立る、郷里より帰着せし儀、駿出立之儀其外届差出す、 <persName corresp=\"#pers_森川\">\n<surname> 森川 </surname>\n</persName> 面会、開成所残金会計局へ返納之儀、仏行之者御手当請取方等申談、来 <date evidence=\"year inferenced, month\" type=\"旧暦\" when=\"1869-01-24\"> 十二日 </date> 一同出殿之積相約し、夕方退散、夫より礫邸へ出る、公子明日水国御発途ニ付、夜拝謁被仰付、 <pb corresp=\"#pageB1033\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/59/full/max/0/default.jpg\" n=\"B1033\" source=\"#pageB1033\"/> 御内用之儀被仰聞、 <persName corresp=\"#pers_菊池平八郎\">\n<surname> 菊池 </surname>\n<forename> 平八郎 </forename>\n</persName> 其他之者面会、爾後之御用手筈打合、夜 <time when=\"22:00:00\"> 十時 </time> 過帰宿 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "22"
+            },
+            "text": {
+                "headline": "\n 十一月十日《（十二月）》  晴  一月廿一日《（廿二日）》 \n",
+                "text": "<p> 朝、 <persName corresp=\"#pers_田中清三郎\">\n<surname> 田中 </surname>\n<forename> 清三郎 </forename>\n</persName> 来、 <persName corresp=\"#pers_栗本\">\n<surname> 栗本 </surname>\n</persName> へ書状差遣す書類催促之儀申遣す、三ツ井 <persName corresp=\"#pers_加太\">\n<surname> 加太 </surname>\n</persName> へ調達金之儀相達す、四ツ頃より <persName corresp=\"#pers_平岡四郎\">\n<surname> 平岡 </surname>\n<forename> 四郎 </forename>\n</persName> を訪ふ、不在ニ付不逢、夫より <persName corresp=\"#pers_梅田\">\n<surname> 梅田 </surname>\n</persName> を尋ね、 <persName corresp=\"#pers_昇之助\">\n<forename> 昇之助 </forename>\n</persName> 衣服之儀相頼み、夫より <placeName corresp=\"#place_両国\"> 両国 </placeName> に至り、 <persName corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persName> 同行ニ而 <persName corresp=\"#pers_河津\">\n<surname> 河津 </surname>\n</persName> に至る、 <persName corresp=\"#pers_河津\">\n<surname> 河津 </surname>\n</persName> 、 <persName corresp=\"#pers_田辺\">\n<surname> 田辺 </surname>\n</persName> 抔相伴ふて <placeName corresp=\"#place_深川\"> 深川 </placeName> 扇橋玉忠別荘を訪ひ、 <persName corresp=\"#pers_松平\">\n<surname> 松平 </surname>\n</persName> 伊賀守の庭園一覧、当時売品也、夫より <persName corresp=\"#pers_大黒屋\"> 大黒屋 </persName> の別業に至る、其庭は\n        <persName corresp=\"#pers_谷文晁\">\n<forename> 文晁 </forename>\n</persName> 、 <persName corresp=\"#pers_酒井抱一\">\n<forename> 抱一 </forename>\n</persName> 抔文人の戮力して築成せし園なりければ、石泉の設、樹木の植並抔雅致を究めたり、一覧後其亭ニ而饗応を受、酒間其娘に三曲を調さしむ、酒後商法之事六兵衛父子に申談し、夜\n        <time when=\"22:00:00\"> 十時 </time> 頃舟ニ而 <placeName corresp=\"#place_柳橋\"> 柳橋 </placeName> ニ而\n        <persName corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persName> の老人 <persName corresp=\"#pers_田辺\">\n<surname> 田辺 </surname>\n</persName> 抔と別れ、 <time when=\"23:00:00\"> 十一時 </time> 頃 <placeName corresp=\"#place_筋違\"> 筋違\n       </placeName> 着、直ニ <placeName corresp=\"#place_明神下\"> 明神下 </placeName> に帰宿 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "23"
+            },
+            "text": {
+                "headline": "\n 十一月十一日《（十二月）》  晴  一月廿二日《（廿三日）》 \n",
+                "text": "<p> 朝、御用荷物其外荷繕ひいたす、 <persName corresp=\"#pers_須永伝蔵\">\n<surname> 須永 </surname>\n<forename> 於莵之助 </forename>\n</persName> 来、郷里へ取落し物送来る、夕方より水邸に至り、 <persName corresp=\"#pers_柴田章彦\">\n<surname> 柴田 </surname>\n<forename> 章彦 </forename>\n</persName> 面会、荷拵之儀申談す、夫より <placeName corresp=\"#place_駒込片町\"> 駒込片町 </placeName>\n<persName corresp=\"#pers_田中清三郎\">\n<surname> 田中 </surname>\n<forename> 清三郎 </forename>\n</persName> を尋問、夜 <time when=\"22:00:00\"> 十時 </time> 過帰宿、写真之儀ニ付 <persName corresp=\"#pers_河津\">\n<surname> 河津 </surname>\n</persName> へ書翰遣す朝、 <persName corresp=\"#pers_五来要助\">\n<surname> 五来 </surname>\n<forename> 要助 </forename>\n</persName> 来る、其忰 <placeName corresp=\"#place_駿河国\"> 駿州 </placeName> 之儀申立ニ付承届遣す </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "24"
+            },
+            "text": {
+                "headline": "\n 十一月十二日《（十二月）》  晴  一月廿三日《（廿四日）》 \n",
+                "text": "<p> 朝、 <persName corresp=\"#pers_栗本治兵衛\">\n<surname> 栗本 </surname>\n<forename> 治兵衛 </forename>\n</persName> を訪ふ、御入用仕上之儀申談す、夫より出殿、三ツ井より調達金差出す、 <persName corresp=\"#pers_森川\">\n<surname> 森川 </surname>\n</persName> 面会、仏行御用骨折ニ付時服二ツ拝領被仰付、此日勤仕並御請普入被仰付《（普請）》、直ニ大目付附属被仰付、尤御書付ニ而申達今朝、 <persName corresp=\"#pers_加太八兵衛\">\n<surname> 加太 </surname>\n<forename> 八兵衛 </forename>\n</persName> 代人来、調達金延期之儀申立ニ付、厳重理解申遣す <lb/> 午後右代人御殿に出る、明日尚又罷出る旨申立引取る、此日請取りし御手当金持参、夕方より\n        <placeName corresp=\"#place_和泉町\"> 和泉丁 </placeName> 大黒屋店罷越し、金子引渡し預書請取商法之儀品々申談す、帰路 <persName corresp=\"#pers_梅田\">\n<surname> 梅田 </surname>\n</persName> へ立寄、郷里へ書翰差出す </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "25"
+            },
+            "text": {
+                "headline": "\n 十二月十三日  雨  一月廿四日《（廿五日）》 \n",
+                "text": "<p> 朝より旅装を整ふ、 <persName corresp=\"#pers_田中清三郎\">\n<surname> 田中 </surname>\n<forename> 清三郎 </forename>\n</persName> 来、 <persName corresp=\"#pers_王屋忠四郎\">\n<surname> 王屋 </surname>\n<forename> 忠四郎 </forename>\n</persName> 来 <lb/> 午後、 <persName corresp=\"#pers_加太八兵衛\">\n<surname> 加太 </surname>\n<forename> 八兵衛 </forename>\n</persName> 代人来、預金書面認直し、金三百八十両余之口上納いたす、大黒屋へ書翰遣し、預ケ金之儀申遣す、三ツ井へ呉服代之儀申遣す、大黒屋代人来る、預金四百両相渡ス、三ツ井呉服代\n        <persName corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persName> 方ニ而請取、夕方 <persName corresp=\"#pers_川勝\">\n<surname> 川勝 </surname>\n</persName> へ <persName corresp=\"#pers_川路寛堂\">\n<surname> 川路 </surname>\n<forename> 太郎 </forename>\n</persName> 英生徒御手当差引残相渡す、夜、 <persName corresp=\"#pers_梅田\">\n<surname> 梅田 </surname>\n</persName> 方へ罷越、おひさ来る、浄瑠璃を聴聞す </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "26"
+            },
+            "text": {
+                "headline": "\n 十二月十四日  雨  一月廿五日《（廿六日）》 \n",
+                "text": "<p> 朝、 <persName corresp=\"#pers_梅田\">\n<surname> 梅田 </surname>\n</persName> より明神下に帰り、旅装整たれは、第 <time when=\"09:00:00\"> 九時 </time> 頃出立、尤荷物は不残船ニ而今晩 <placeName corresp=\"#place_品川\"> 品川 </placeName> へ差送る、第 <time when=\"12:00:00\"> 十二時 </time> 頃 <placeName corresp=\"#place_品川\"> 品川 </placeName> 着、肥後兵隊其外等ニ而人足多く入用故継立出来せすとて、問屋場役人詰合なけれは本陣を頼み人足雇方取計、夕方\n        <placeName corresp=\"#place_川崎\"> 川崎 </placeName> 宿着ニ而一泊 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "27"
+            },
+            "text": {
+                "headline": "\n 十二月十五日  晴  一月廿六日《（廿七日）》 \n",
+                "text": "<p> 此日も旅人多く人馬差支とて、朝 <time when=\"08:00:00\"> 八時 </time> 頃 <placeName corresp=\"#place_川崎\"> 川崎\n       </placeName> 宿、 <time when=\"11:00:00\"> 十一時 </time> 頃 <placeName corresp=\"#place_神奈川\"> 神奈川\n       </placeName> 着、泉治といふ客舎ニ而 <persName corresp=\"#pers_田辺\">\n<surname> 田辺 </surname>\n</persName> 面会、 <persName corresp=\"#pers_卯三郎\">\n<forename> 卯三郎 </forename>\n</persName> も時計之儀ニ付来りしが、昨日 <placeName corresp=\"#place_横浜\"> 横浜 </placeName> に行しとて逢わす、\n        <persName corresp=\"#pers_田辺\">\n<surname> 田辺 </surname>\n</persName> に托し伝語申遣す、外ニ書翰抔相托し、後会を約し、夫より <placeName corresp=\"#place_程ケ谷\"> 程ケ谷 </placeName>\n       ニ而昼食、夕方 <placeName corresp=\"#place_藤沢\"> 藤沢 </placeName> 着、一泊 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "28"
+            },
+            "text": {
+                "headline": "\n 十二月十六日  晴  一月廿七日《（廿八日）》 \n",
+                "text": "<p> 朝 <time when=\"07:00:00\"> 七時 </time> 発、路程も平垣《（坦カ）》にて人馬も稍差支されハ行路捗取りぬ、 <placeName corresp=\"#place_大磯町\"> 大磯 </placeName> 宿 <pb corresp=\"#pageB1034\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/60/full/max/0/default.jpg\" n=\"B1034\" source=\"#pageB1034\"/> ニ而午飯、夕 <time when=\"16:00:00\"> 四時 </time> 頃 <placeName corresp=\"#place_小田原\"> 小田原 </placeName> 宿着、一泊 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "29"
+            },
+            "text": {
+                "headline": "\n 十二月十七日  雲  一月廿八日《（廿九日）》 \n",
+                "text": "<p> 朝 <time when=\"06:00:00\"> 六時 </time> 発、陌頭より山路を取り <placeName corresp=\"#place_湯本\"> 湯本\n       </placeName> に至休息、路程稍嶮峻なり、畑といふ処ニ而茶肆に憩ひ、雑煮餅を食す、道路尤嶮なり、時に雨来りぬれは駕に乗りて関門を通、 <placeName corresp=\"#place_箱根\"> 箱根 </placeName> 宿ニ而午飯、夕 <time when=\"18:00:00\"> 六時 </time> 頃 <placeName corresp=\"#place_三島\"> 三島 </placeName> 宿着、 <placeName corresp=\"#place_金川\"> 金川 </placeName>\n       やといふ旗亭投宿 <lb/> 横打御門外 <placeName corresp=\"#place_浅野\"> 浅野 </placeName> 旅宿 <lb/> 元御武具奉行屋敷 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "30"
+            },
+            "text": {
+                "headline": "\n 十二月十八日  曇風 ",
+                "text": "<p> 朝 <time when=\"06:30:00\"> 六時半 </time> 頃三島駅発、 <placeName corresp=\"#place_沼津\"> 沼津\n       </placeName> に至りとらやといふ旗亭休息、 <persName corresp=\"#pers_塚本寛輔\">\n<surname> 塚本 </surname>\n<forename> 寛輔 </forename>\n</persName> といふ陸軍士官の寓居訊問、 <placeName corresp=\"#place_沼津\"> 沼津 </placeName> の景況を問ふ、夫より\n        <placeName corresp=\"#place_原宿\"> 原宿 </placeName> ニ而午飯、夕方 <placeName corresp=\"#place_蒲原\"> 蒲原\n       </placeName> 着、投宿 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "01",
+                "day": "31"
+            },
+            "text": {
+                "headline": "\n 十二月十九日  晴風 ",
+                "text": "<p> 朝 <time when=\"07:00:00\"> 七時 </time> 頃発、 <placeName corresp=\"#place_江尻\"> 江尻 </placeName>\n       宿ニ而午飯、 <time when=\"14:00:00\"> 二時 </time> 頃 <placeName corresp=\"#place_府中\"> 府中 </placeName>\n       東陲の松原ニ而 <persName corresp=\"#pers_浅野次郎八\">\n<surname> 浅野 </surname>\n<forename> 次郎八 </forename>\n</persName> に逢ふ、夕 <time when=\"15:00:00\"> 三時 </time> 頃 <placeName corresp=\"#place_府中\"> 府中\n       </placeName> 着、問屋場ニ而旅宿を談し、 <persName corresp=\"#pers_油屋吉五郎\"> 油屋 <forename> 吉五郎 </forename>\n</persName> といふ旗亭投宿、 <persName corresp=\"#pers_脇阪米次郎\">\n<surname> 脇阪 </surname>\n<forename> 米次郎 </forename>\n</persName> 来、 <persName corresp=\"#pers_鵜飼弥一\">\n<surname> 鵜飼 </surname>\n<forename> 弥一 </forename>\n</persName> 来、同行ニ而七軒町天麩羅やに罷越、夫より <placeName corresp=\"#place_上石町\"> 上石町 </placeName>\n       汁粉屋に至る、夜、帰宿 <lb/>\n<persName corresp=\"#pers_梅沢\">\n<surname> 梅沢 </surname>\n</persName> 旅宿 <lb/>\n<placeName corresp=\"#place_伝馬丁\"> 伝馬丁 </placeName> 裏 <placeName corresp=\"#place_鷹匠町\"> 鷹匠町 </placeName>\n<lb/> 安在五丁目黄村旅宿 <lb/>\n<persName corresp=\"#pers_今村惣右衛門\">\n<surname> 今村 </surname>\n<forename> 惣右衛門 </forename>\n</persName> 宅 <lb/> 明後 <date type=\"旧暦\" when=\"1869-02-03\"> 廿二日 </date> 朝 <lb/>\n<placeName corresp=\"#place_神田小柳町\"> 神田小柳町 </placeName>\n<persName corresp=\"#pers_梅田慎之助\">\n<surname> 梅田 </surname>\n<forename> 慎之助 </forename>\n</persName> 方ニ而川村刀金物請取持参之事 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "02",
+                "day": "01"
+            },
+            "text": {
+                "headline": "\n 十二月廿日  曇小雨 ",
+                "text": "<p> 朝、 <persName corresp=\"#pers_浜中義左衛門\">\n<surname> 浜中 </surname>\n<forename> 義左衛門 </forename>\n</persName> 来、第 <time when=\"10:00:00\"> 十時 </time> 頃御城中に罷出、 <persName corresp=\"#pers_梅沢孫太郎\">\n<surname> 梅沢 </surname>\n<forename> 孫太郎 </forename>\n</persName> 面会、前様拝謁之儀申立る、詰所ニ而淵延徳蔵に逢、清水港ニ而降服之者共名前帳を見る、午後帰宿、直ニ宝泰院《（台）》へ罷出る、拝謁之儀明日可被仰付旨ニ付引取、\n        <persName corresp=\"#pers_荒井助二郎\">\n<surname> 荒井 </surname>\n<forename> 助二郎 </forename>\n</persName> 訊問、 <persName corresp=\"#pers_川村三介\">\n<surname> 川村 </surname>\n<forename> 三介 </forename>\n</persName> 面会、夜同行ニ而 <persName corresp=\"#pers_平岡庄七\">\n<surname> 平岡 </surname>\n<forename> 庄七 </forename>\n</persName> 旅宿を訪ひ、帰宿後再ひ <persName corresp=\"#pers_林研海\">\n<surname> 林 </surname>\n<forename> 研海 </forename>\n</persName> を明真館《（新）》に訪ふ、夜 <time when-iso=\"1869-02-02T00:00+0900\"> 十二時 </time> 頃帰宿 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "02",
+                "day": "02"
+            },
+            "text": {
+                "headline": "\n 十二月廿一日  雨 ",
+                "text": "<p> 朝、 <persName corresp=\"#pers_浅野次郎八\">\n<surname> 浅野 </surname>\n<forename> 次郎八 </forename>\n</persName> を訪ふ、御用向申上る、 <persName corresp=\"#pers_小出涌之助\">\n<surname> 小出 </surname>\n<forename> 涌之助 </forename>\n</persName> 面会、書状渡す、帰宿後 <persName corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persName> と共に大六手代人 <persName corresp=\"#pers_勇助\">\n<forename> 勇助 </forename>\n</persName> 面会、商社之儀申談す、 <persName corresp=\"#pers_川村\">\n<surname> 川村 </surname>\n</persName> 来る、子息同伴いたす、第 <time when=\"14:00:00\"> 二時 </time>\n       水府より被進候御品持参、宝□院罷出《（原本欠。○台）》る、御品は御小性頭取へ引渡す、 <persName corresp=\"#pers_梅沢孫太郎\">\n<surname> 梅沢 </surname>\n<forename> 孫太郎 </forename>\n</persName> より拝謁之儀明日之積被申聞退出、掛新村主計を訪ふ、夕方 <persName corresp=\"#pers_梅沢\">\n<surname> 梅沢 </surname>\n</persName> を訪ふ、京師以来之事情詳悉承及ふ、夜 <time when=\"22:00:00\"> 十時 </time> 頃帰宿 <lb/>\n<persName corresp=\"#pers_川村\">\n<surname> 川村 </surname>\n</persName> へ金五拾両貸遣す、請取書預置、但 <persName corresp=\"#pers_荒井\">\n<surname> 荒井 </surname>\n</persName> より頼之由 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "02",
+                "day": "03"
+            },
+            "text": {
+                "headline": "\n 十二月廿二日  晴 ",
+                "text": "<p> 朝第 <time when=\"10:00:00\"> 十時 </time> 頃御城に出る、拝謁之儀ニ付公子より被仰含之廉々中老 <persName corresp=\"#pers_戸川平右衛門\">\n<surname> 戸川 </surname>\n<forename> 平右衛門 </forename>\n</persName> 殿へ申立る、明日拝謁被仰付旨御同人被申渡、商社之儀ニ付見込 <persName corresp=\"#pers_織田和泉\">\n<surname> 織田 </surname>\n<forename> 和泉 </forename>\n</persName> 殿へ申立る、 <persName corresp=\"#pers_淵辺徳蔵\">\n<surname> 淵辺 </surname>\n<forename> 徳蔵 </forename>\n</persName> 面会、観臨乗込当地《（咸カ）》ニ而謹慎被申付居候者へ書状達し方金子少々送り方申托す <lb/> 昨日、 <persName corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n<forename> 愛蔵 </forename>\n</persName>\n<placeName corresp=\"#place_横打町\"> 横打町 </placeName> へ引越す <lb/> 夕方、 <persName corresp=\"#pers_杉浦譲\">\n<forename> 愛蔵 </forename>\n</persName> 同行 <persName corresp=\"#pers_大黒屋勇助\"> 大黒屋 <forename> 勇助 </forename>\n</persName> を訪ふ、 <persName corresp=\"#pers_大坪七兵衛\">\n<surname> 大坪 </surname>\n<forename> 七兵衛 </forename>\n</persName> 面会、帰路 <persName corresp=\"#pers_杉浦譲\">\n<forename> 愛蔵 </forename>\n</persName> と同しく天麩羅店ニ而小酌、夜に入帰宿 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "02",
+                "day": "04"
+            },
+            "text": {
+                "headline": "\n 十二月廿三日  曇 ",
+                "text": "<p> 第 <time when=\"10:00:00\"> 十時 </time>\n       頃宝台院へ罷出る、拝謁被仰付、公子より被仰含之儀洋洲事情等逐一申上る、海外ニ而此顚覆に遭遇し、独力ニ而骨折之段御褒詞被下午後より <persName corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persName> 旅宿を訪ふ、不在ニ付 <persName corresp=\"#pers_鵜飼弥一\">\n<surname> 鵜飼 </surname>\n<forename> 弥一 </forename>\n</persName> を訪ふ、夫より下足洗村東広寺罷越す、元局残御用之儀承る、夕方 <persName corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persName> 同行 <persName corresp=\"#pers_西吉十郎\">\n<surname> 西 </surname>\n<forename> 吉十郎 </forename>\n</persName> を訪ふ、不在夜に入 <persName corresp=\"#pers_山高八郎\">\n<surname> 山高 </surname>\n<forename> 八郎 </forename>\n</persName> を訪ふ、帰路 <persName corresp=\"#pers_大黒屋勇助\"> 大黒屋 <forename> 勇助 </forename>\n</persName> を訪ひ、 <time when=\"10:00:00\"> 十時 </time> 頃帰宿 <lb/> 今日夕七ツ時、御用有之出殿可致旨御目付より被申達 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "02",
+                "day": "05"
+            },
+            "text": {
+                "headline": "\n 十二月廿四日  曇午後雨 ",
+                "text": "<p> 第 <time when=\"09:30:00\"> 九時半 </time> 頃出殿、御用向承及候処、御用召之旨被申聞、礼服着用可致旨ニ付、御目付局ニ而借用いたす、御勘定組頭被命旨\n        <persName corresp=\"#pers_平右衛門\">\n<forename> 平右衛門 </forename>\n</persName> 殿被申渡、御勘定局へ被引渡、頭同役其外一同へ面会いたす <lb/>\n       公子へ復命之儀、頭衆より相伺候処、不及其儀旨被申渡、退出後、礼服無之ニ付廻勤難出来旨局及御目付へ申越す、夜、 <persName corresp=\"#pers_山高八郎\">\n<surname> 山高 </surname>\n<forename> 八郎 </forename>\n</persName> 来、此夜隣家ニ而喧嘩有之 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "02",
+                "day": "06"
+            },
+            "text": {
+                "headline": "\n 十二月廿五日  雨 ",
+                "text": "<p> 朝、 <persName corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n<forename> 愛蔵 </forename>\n</persName> 来、昨日之手続申聞る、 <persName corresp=\"#pers_梅沢孫太郎\">\n<surname> 梅沢 </surname>\n<forename> 孫太郎 </forename>\n</persName> へ書状遣す、今日不快ニ而出勤相成兼候旨 <persName corresp=\"#pers_杉浦譲\">\n<forename> 愛蔵 </forename>\n</persName> へ托し、御勘定所へ書状差遣す、 <persName corresp=\"#pers_林研海\">\n<surname> 林 </surname>\n<forename> 研海 </forename>\n</persName> 、 <persName corresp=\"#pers_鵜飼弥一\">\n<surname> 鵜飼 </surname>\n<forename> 弥一 </forename>\n</persName> 来、 <persName corresp=\"#pers_脇坂木次郎\">\n<surname> 脇坂 </surname>\n<forename> 木次郎 </forename>\n</persName> 来《（ <persName corresp=\"#pers_脇坂米次郎\">\n<surname> 脇坂 </surname>\n<forename> 米次郎 </forename>\n</persName> ）》、夕方願書持参ニ而 <persName corresp=\"#pers_平岡四郎\">\n<surname> 平岡 </surname>\n<forename> 四郎 </forename>\n</persName> を訪ふ、不快ニ付不逢、帰後書状を以申遣す <lb/> 正月朔 <time when=\"05:00:00\"> 五時 </time> 揃　　服紗小袖麻上下 <lb/>\n       上士之者御礼 <lb/> 二日同刻限　　同　断 <lb/> 上士以下之御礼 <lb/> 三日例刻　　　同　断 <lb/> 御礼無之 <lb/>\n<pb corresp=\"#pageB1036\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/62/full/max/0/default.jpg\" n=\"B1036\" source=\"#pageB1036\"/>\n<lb/> 四日今日より平服例刻 <lb/> 七日 <lb/>\n<time when=\"05:00:00\"> 五時 </time> 揃　　服紗小袖麻上下 <lb/> 十一日 <lb/> 不勤之者御礼 <lb/> 十五日同刻限　　同　断 <lb/>\n       右之通御礼被為請候間得其意向々へ可被相触候 <lb/>\n<date evidence=\"year inferenced, day\" type=\"旧暦\" when=\"1869-01\"> 十二月 </date>\n</p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "02",
+                "day": "07"
+            },
+            "text": {
+                "headline": "\n 十二月廿六日  曇 ",
+                "text": "<p> 朝、 <persName corresp=\"#pers_勇助\">\n<forename> 勇助 </forename>\n</persName> へ書状遣し、同人早速出張有之度申遣す、 <persName corresp=\"#pers_勇助\">\n<forename> 勇助 </forename>\n</persName> 来る、商法之儀行れ申間敷旨申聞、昨日よりの手続荒増申聞る、午頃 <persName corresp=\"#pers_大坪七兵衛\">\n<surname> 大坪 </surname>\n<forename> 七兵衛 </forename>\n</persName> 来、頭衆より是非出勤之儀申来る、尤 <persName corresp=\"#pers_大久保一翁\">\n<forename> 一翁 </forename>\n</persName> 殿御逢被成度儀ニ付、同人以使罷越旨をも申聞る、午後同行ニ而出殿、 <persName corresp=\"#pers_大久保一翁\">\n<forename> 一翁 </forename>\n</persName> 殿面会、 <placeName corresp=\"#place_水戸\"> 水戸 </placeName>\n       復命之儀御不都合之儀数々仔細等被申渡、明日御請可申上儀相答、 <persName corresp=\"#pers_平岡四郎\">\n<surname> 平岡 </surname>\n<forename> 四郎 </forename>\n</persName> へも品品申談引取、夕方 <persName corresp=\"#pers_山高信離\">\n<surname> 山高 </surname>\n</persName> を訪へ、時雨庵ニ而 <persName corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persName> 面会、夜に入 <persName corresp=\"#pers_大坪\">\n<surname> 大坪 </surname>\n</persName> を訪へ、 <persName corresp=\"#pers_平岡庄七\">\n<surname> 平岡 </surname>\n<forename> 庄七 </forename>\n</persName> を訪へ、帰宿 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "02",
+                "day": "08"
+            },
+            "text": {
+                "headline": "\n 十二月廿七日  晴 ",
+                "text": "<p> 朝出殿、復命之儀并御役之儀難有御請申上候旨 <persName corresp=\"#pers_四郎\">\n<forename> 四郎 </forename>\n</persName> を以 <persName corresp=\"#pers_大久保一翁\">\n<forename> 一翁 </forename>\n</persName> 殿へ申立る、公子へ呈書外一封御用便達し方之儀相托す、 <persName corresp=\"#pers_梅沢\">\n<surname> 梅沢 </surname>\n</persName> 面会、御請申上候旨申談、午後廻勤いた《（す脱カ）》、夕方 <placeName corresp=\"#place_呉服町\"> 呉服町 </placeName>\n       五丁目川村屋方へ転宿いたす </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "02",
+                "day": "09"
+            },
+            "text": {
+                "headline": "\n 十二月廿八日  晴 ",
+                "text": "<p> 朝より御用書類取調いたす、夕方 <persName corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persName> 来る、 <persName corresp=\"#pers_平岡庄七\">\n<surname> 平岡 </surname>\n<forename> 庄七 </forename>\n</persName> 来る、謹慎被命居候 <persName corresp=\"#pers_武沢市五郎\">\n<surname> 武沢 </surname>\n<forename> 市五郎 </forename>\n</persName> 来 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "02",
+                "day": "10"
+            },
+            "text": {
+                "headline": "\n 十二月廿九日  晴 ",
+                "text": "<p> 朝出殿、謹慎之者儀ニ付大目付へ見込申談す、 <persName corresp=\"#pers_平岡四郎\">\n<surname> 平岡 </surname>\n<forename> 四郎 </forename>\n</persName> へも同断申談す、退出後御用書類取調いたす、郷里、 <placeName corresp=\"#place_東京\"> 東京 </placeName> 諸方へ書状認る、\n        <persName corresp=\"#pers_勇助\">\n<forename> 勇助 </forename>\n</persName> へ相渡す </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "02",
+                "day": "12"
+            },
+            "text": {
+                "headline": "\n （一月）二日  雨 ",
+                "text": "<p> 朝、 <persName corresp=\"#pers_川村三介\">\n<surname> 川村 </surname>\n<forename> 三介 </forename>\n</persName> 来、謹慎之者儀ニ付内談有之、右ニ付 <persName corresp=\"#pers_土肥八十三郎\">\n<surname> 土肥 </surname>\n<forename> 八十三郎 </forename>\n</persName> 呼寄心得方相尋、内談之上 <persName corresp=\"#pers_川村\">\n<surname> 川村 </surname>\n</persName> 方へ遣す、 <persName corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persName> 来る、見込調方ニ付申談す <persName corresp=\"#pers_祐助\">\n<forename> 祐助 </forename>\n</persName> 来る、夕方当地町人 <persName corresp=\"#pers_荻原四郎兵衛\">\n<surname> 荻原 </surname>\n<forename> 四郎兵衛 </forename>\n</persName> 《（ <persName corresp=\"#pers_萩原四郎兵衛\">\n<surname> 萩原 </surname>\n<forename> 四郎兵衛 </forename>\n</persName> ）》へ可罷出旨申遣す </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "02",
+                "day": "13"
+            },
+            "text": {
+                "headline": "\n （一月）三日  雨 ",
+                "text": "<p> 朝、 <persName corresp=\"#pers_荻原四郎兵衛\">\n<surname> 荻原 </surname>\n<forename> 四郎兵衛 </forename>\n</persName> 来、商法之儀開墾之儀等申談す、 <persName corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n<forename> 愛蔵 </forename>\n</persName> 来、商社之儀ニ付見込取調いたす、仏行御入用調いたす </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "02",
+                "day": "14"
+            },
+            "text": {
+                "headline": "\n （一月）四日  晴 ",
+                "text": "<p> 朝より仏行御入用調いたす、午後 <persName corresp=\"#pers_平岡四郎\">\n<surname> 平岡 </surname>\n<forename> 四郎 </forename>\n</persName> へ罷越す、商法見込書差出す同人御殿へ出ニ付御殿ニ而面会いたす、帰宿後、仏行調物いたす </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "02",
+                "day": "15"
+            },
+            "text": {
+                "headline": "\n （一月）五日  晴 ",
+                "text": "<p>\n<persName corresp=\"#pers_北村彦四郎\">\n<surname> 北村 </surname>\n<forename> 彦四郎 </forename>\n</persName> 来、商法筋申談す、仏行調物いたす </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "02",
+                "day": "16"
+            },
+            "text": {
+                "headline": "\n （一月）六日  晴 ",
+                "text": "<p> 商法見込書持参御殿ニ而 <persName corresp=\"#pers_大久保一翁\">\n<forename> 一翁 </forename>\n</persName> 殿へ上ル、見込之儀申立る <lb/> 仏行調物いたす </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "02",
+                "day": "17"
+            },
+            "text": {
+                "headline": "\n （一月）七日 \n",
+                "text": "<p>\n<pb corresp=\"#pageB1037\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/63/full/max/0/default.jpg\" n=\"B1037\" source=\"#pageB1037\"/>\n<lb/> 仏行調物いたす、 <persName corresp=\"#pers_平岡四郎\">\n<surname> 平岡 </surname>\n<forename> 四郎 </forename>\n</persName> を訪ふ </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "02",
+                "day": "18"
+            },
+            "text": {
+                "headline": "\n （一月）八日  晴 ",
+                "text": "<p> 仏行調物いたす、明 <date evidence=\"month inferenced\" type=\"旧暦\" when=\"1869-02-18\"> 十日 </date>\n       可罷出旨御目付より達書来ル、 <persName corresp=\"#pers_鵜飼弥一\">\n<surname> 鵜飼 </surname>\n<forename> 弥一 </forename>\n</persName> 来、夕方 <persName corresp=\"#pers_平岡四郎\">\n<surname> 平岡 </surname>\n<forename> 四郎 </forename>\n</persName> を訪ふ </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "02",
+                "day": "19"
+            },
+            "text": {
+                "headline": "\n （一月）九日  雨 ",
+                "text": "<p> 仏行調物いたす、 <persName corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n<forename> 愛蔵 </forename>\n</persName> 来 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "02",
+                "day": "20"
+            },
+            "text": {
+                "headline": "\n （一月）十日  晴 ",
+                "text": "<p> 朝、出殿、仏行調物出来之分持参いたす、午後商法見込書之儀ニ付中老衆御列座ニ而御談有之、見込之儀逐一申立る、夕方帰宿調物いたす </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "02",
+                "day": "21"
+            },
+            "text": {
+                "headline": "\n （一月）十一日  晴 ",
+                "text": "<p> 昨夜、 <persName corresp=\"#pers_北村彦次郎\">\n<surname> 北村 </surname>\n<forename> 彦次郎 </forename>\n</persName> 、 <persName corresp=\"#pers_荻原四郎兵衛\">\n<surname> 荻原 </surname>\n<forename> 四郎兵衛 </forename>\n</persName> 来、商法筋見込之儀申談す <lb/> 朝、仏行調物いた《（す脱）》、御入用残調御品残高とも明細書調済之上出殿ニ而差出す、中老衆御覧之積ニ付御用部屋へ差出す\n      </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "02",
+                "day": "22"
+            },
+            "text": {
+                "headline": "\n （一月）十二日  晴 ",
+                "text": "<p> 調物残之分御殿へ差出す、商法筋御取開之儀、中老衆へ御催促申上る近々御沙汰可有之旨被申聞 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "02",
+                "day": "23"
+            },
+            "text": {
+                "headline": "\n （一月）十三日  晴 ",
+                "text": "<p> 今日御殿へ罷出候様頭より被申達四ツ頃出殿、昼後御用召御役御免御勘定頭支配中老手附被命商法之儀申上る、御入用調之儀相済候旨申上る <persName corresp=\"#pers_浜中義左衛門\">\n<surname> 浜中 </surname>\n<forename> 義左衛門 </forename>\n</persName> 来、 <persName corresp=\"#pers_北村彦次郎\">\n<surname> 北村 </surname>\n<forename> 彦次郎 </forename>\n</persName> 来 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "02",
+                "day": "24"
+            },
+            "text": {
+                "headline": "\n （一月）十四日  晴 ",
+                "text": "<p> 朝出殿、商法会所掛之者申立る、此日商法会所御用金の取扱被命、御勘定 <persName corresp=\"#pers_矢村小四郎\">\n<surname> 矢村 </surname>\n<forename> 小四郎 </forename>\n</persName> 、 <persName corresp=\"#pers_坂本柳左衛門\">\n<surname> 坂本 </surname>\n<forename> 柳左衛門 </forename>\n</persName> 、御用取扱被命、午後 <placeName corresp=\"#place_紺屋町\"> 紺屋町 </placeName> 役所見廻り、間取其外申談す、夕方、\n        <persName corresp=\"#pers_三田伊右衛門\">\n<surname> 三田 </surname>\n<forename> 伊右衛門 </forename>\n</persName> 、 <persName corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n<forename> 愛蔵 </forename>\n</persName> 来、御用達呼出之儀申達す </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "02",
+                "day": "25"
+            },
+            "text": {
+                "headline": "\n （一月）十五日  晴 ",
+                "text": "<p> 朝、 <placeName corresp=\"#place_紺屋町\"> 紺屋町 </placeName>\n       御役所罷出、御破損等見分、御役所間取調分いたす、明日御用達一同呼出之積申達す、間取其外御普請等取調之儀出殿之上 <persName corresp=\"#pers_四郎\">\n<forename> 四郎 </forename>\n</persName> へ申立る、夕方宮の崎 <persName corresp=\"#pers_大久保一翁\">\n<forename> 一翁 </forename>\n</persName> 殿旅宿へ罷越し今日之手続申立る、御役所へ引移リ、御役屋敷之積を以住居可致旨被申渡、夜、 <persName corresp=\"#pers_浜中義左衛門\">\n<surname> 浜中 </surname>\n<forename> 義左衛門 </forename>\n</persName> 来 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "02",
+                "day": "26"
+            },
+            "text": {
+                "headline": "\n （一月）十六日  晴 ",
+                "text": "<p> 朝、 <placeName corresp=\"#place_紺屋町\"> 紺屋町 </placeName>\n       御役所へ罷越す、御用筋取扱ふ御用達之者九人へ会所御用達申渡、商法会所御取開之旨申聞る、小遣之者手代之者御普請之事等申談し、一同見込書可差出儀等申談し、夫より出殿取扱候御用向\n        <persName corresp=\"#pers_大久保一翁\">\n<forename> 一翁 </forename>\n</persName> 殿へ申立る、開成所雑物請取方いたし御勘定所へ預置、御勘定下役之者両人会所御用掛申渡 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "02",
+                "day": "27"
+            },
+            "text": {
+                "headline": "\n （一月）十七日  晴 ",
+                "text": "<p> 此日東照公御忌日ニ付、諸向休局 <lb/> 中将様久能御参詣有之、終日在宅ニ而会所規則并諸向へ御達御案取調いたす、夕、 <persName corresp=\"#pers_林研海\">\n<surname> 林 </surname>\n<forename> 研海 </forename>\n</persName> 、 <persName corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n<forename> 愛蔵 </forename>\n</persName> 御勘定下役両人来、 <persName corresp=\"#pers_前田重五郎\">\n<surname> 前田 </surname>\n<forename> 重五郎 </forename>\n</persName> へ <persName corresp=\"#pers_大塚市左衛門\">\n<surname> 大塚 </surname>\n<forename> 市左衛門 </forename>\n</persName> 義再応申談遣す </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "02",
+                "day": "28"
+            },
+            "text": {
+                "headline": "\n （一月）十八日  雨夕晴 ",
+                "text": "<p> 例刻会所出勤、御案類取調、御普請向 <persName corresp=\"#pers_坂本柳左衛門\">\n<surname> 坂本 </surname>\n<forename> 柳左衛門 </forename>\n</persName> へ申談大工へ申付る、畳屋へ表替申付る、 <persName corresp=\"#pers_重五郎\">\n<forename> 重五郎 </forename>\n</persName> 宿所之儀 <persName corresp=\"#pers_四郎\">\n<forename> 四郎 </forename>\n</persName> へ申立る、会所内へ引移 <pb corresp=\"#pageB1038\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/64/full/max/0/default.jpg\" n=\"B1038\" source=\"#pageB1038\"/> 之積申付る、御触案 <persName corresp=\"#pers_大久保一翁\">\n<forename> 一翁 </forename>\n</persName> 殿へ差出す、見込申上之書類御入用仕上書とも御下御催促申上る、 <persName corresp=\"#pers_大塚市左衛門\">\n<surname> 大塚 </surname>\n<forename> 市左衛門 </forename>\n</persName> 儀和泉殿へ申立る <lb/> 夜、紙幣差引御利益調いたす </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "03",
+                "day": "01"
+            },
+            "text": {
+                "headline": "\n （一月）十九日 \n",
+                "text": "<p> ○以下記入ナシ。 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "11",
+                "day": "25"
+            },
+            "text": {
+                "headline": "\n （十月）廿二日 \n",
+                "text": "<p> 朝早く御用達も揃ふたれハ、 <persName corresp=\"#pers_渋沢栄一\">\n<forename> 篤 </forename>\n</persName>\n<placeName corresp=\"#place_東京\"> 東京 </placeName> 行之儀相達し、御書付を拝見せしむ、一同驚愕之体なり、昨夜 <persName corresp=\"#pers_平岡四郎\">\n<surname> 平岡 </surname>\n<forename> 四郎 </forename>\n</persName> お訪へ残候後事お談話す <lb/> 御用達共への議事お遂て、又政事庁に罷越し、来 <date when=\"1869-11-26\"> 廿六日 </date>\n       発程之儀申立る、常平倉当所務ニ付見込品々 <persName corresp=\"#pers_大久保一翁\">\n<surname> 大久保 </surname>\n<forename> 一翁 </forename>\n</persName> へ申立る、更に <persName corresp=\"#pers_平岡四郎\">\n<surname> 平岡 </surname>\n<forename> 四郎 </forename>\n</persName>\n<persName corresp=\"#pers_小栗尚三\">\n<surname> 小栗 </surname>\n<forename> 尚三 </forename>\n</persName> へ議す、一同可然旨答へしかば退出後御用達へも達し、留守中御用取扱方手続廉書可認旨を申付、一同の心得方等丁寧反復ニ申談す </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "11",
+                "day": "26"
+            },
+            "text": {
+                "headline": "\n （十月）廿三日 \n",
+                "text": "<p> 御用達共より差出せし廉書等全なれとも心附候まゝ書綴りし由なれハ毎件仔細に差図振相認、尚心附候事共相加へ度旨申含遣す <lb/>\n       政事庁に出御国章旅中人馬之儀監正掛へ引合旅費其他之事共会計掛江申談事整ふれは退出、仮役所にて御用達共江留守中之事務昨日之廉増お差図且相認、当用諸事お弁し後事心得方取扱振まて落もなく申談す昨日清水出張所へ申達し置たれハ、夜清水附御用達共罷出る、御用向申談し遣す\n      </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "11",
+                "day": "27"
+            },
+            "text": {
+                "headline": "\n （十月）廿四日 \n",
+                "text": "<p> 此日ハ政事庁休日なれハ、早朝より仮役所出勤、此程より申談残せし諸事并御用書類等逐一取調、以後取扱之者共江相渡し、御備金并緊要之御用書類券文之類迄相改引渡す、御用書類之内\n        <persName corresp=\"#pers_渋沢栄一\">\n<forename> 篤 </forename>\n</persName> の所持すへき分ハ写取らせ、請取、清水附御用達ヘハ後事丁寧ニ書付上にて申示し引取らす、夕方清水出役之 <persName corresp=\"#pers_黒柳徳三郎\">\n<surname> 黒柳 </surname>\n<forename> 徳三郎 </forename>\n</persName> 来、諸事申談し書類認方抔申付遣す </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "11",
+                "day": "28"
+            },
+            "text": {
+                "headline": "\n （十月）廿五日  晴 ",
+                "text": "<p>\n       発程之期も迫れハ、此日は早天より一同取集り頗る紛冗お極む、朝より是迄之御用書類、伺書、引続書類等不残取広け、総而一読之上所々解釈せしめ、尚不明了之事ハ一同より質問させ、取扱振之廉書も稍全備せしかば、詳悉にこれを下知し、別ニ当用心覚書を認め、これお示し、又外ニ心得方のため壱封之秘書を認め、一同へ相達し、先、公務も稍整頓したれは、是より夜に入て旅装にとりかゝる、\n        <date evidence=\"year inferenced, month\" type=\"旧暦\" when=\"1869-11-24\"> 廿一日 </date>\n       より送別之来人、或ハ暇乞とて罷越せし方もあれと、私事なれハ略之 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "11",
+                "day": "29"
+            },
+            "text": {
+                "headline": "\n （十月）廿六日  雷雨後に晴 ",
+                "text": "<p> 早朝より理装、四ツ頃迄に果ぬれは、仮役所へ出、一同にも暇を告、夫是《（マヽ）》を後事を示し、午後 <placeName corresp=\"#place_静岡\"> 静岡\n       </placeName> を発す、夕方清水出張所に至り、御役所御納屋等見分、取扱振等差図し、柵矢来修理方お下知し、御用達共にも面会、船にて <placeName corresp=\"#place_江尻\"> 江尻 </placeName> 宿着、夜に入て投宿 <lb/> 此日、 <placeName corresp=\"#place_静岡\"> 静岡\n       </placeName> 最寄の御用達共一同町はつれの場所迄送別す、 <placeName corresp=\"#place_清水\"> 清水 </placeName>\n<placeName corresp=\"#place_江尻\"> 江尻 </placeName> の御用達ハ <placeName corresp=\"#place_江尻\"> 江尻\n       </placeName> 宿に会同す </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "11",
+                "day": "30"
+            },
+            "text": {
+                "headline": "\n （十月）廿七日 \n",
+                "text": "<p> 朝 <placeName corresp=\"#place_江尻\"> 江尻 </placeName> 宿を発し初而諸事を脱却し、頗る籠外初飛之鳥、江中不繫之船の想をなす、\n        <placeName corresp=\"#place_蒲原\"> 蒲原 </placeName> 駅に至り午餐、同所詰 <persName corresp=\"#pers_乙骨彦十郎\">\n<surname> 乙骨 </surname>\n<forename> 彦十郎 </forename>\n</persName> といふ者、 <persName corresp=\"#pers_前田重吾\">\n<surname> 前田 </surname>\n<forename> 重吾 </forename>\n</persName> 縁者なるか旅店に来り面話す、八ツ頃平垣 <persName corresp=\"#pers_松永整\">\n<surname> 松永 </surname>\n<forename> 整 </forename>\n</persName> を訪ふ、 <persName corresp=\"#pers_武沢市五郎\">\n<surname> 武沢 </surname>\n<forename> 市五郎 </forename>\n</persName> 岩淵迄罷越し同行にて開墾せし土地一覧す、夕方 <placeName corresp=\"#place_吉原\"> 吉原 </placeName> 駅に至り投宿\n      </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "12",
+                "day": "01"
+            },
+            "text": {
+                "headline": "\n （十月）廿八日  晴 ",
+                "text": "<p> 早朝 <placeName corresp=\"#place_吉原\"> 吉原 </placeName> を発し、 <placeName corresp=\"#place_原宿\"> 原宿\n       </placeName> にて <persName corresp=\"#pers_植松与右衛門\">\n<surname> 植松 </surname>\n<forename> 与右衛門 </forename>\n</persName> といふ者の名園を一覧す <lb/>\n<pb corresp=\"#pageB1046\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/72/full/max/0/default.jpg\" n=\"B1046\" source=\"#pageB1046\"/>\n<lb/> 有詩 <lb/> 遺子何須書五車。慣家有法又堪誇。世間経年多少紛更事。不到園中濃淡花。 <lb/>\n<placeName corresp=\"#place_沼津\"> 沼津 </placeName> にて午餐、同所に知人の多けれど、心せかるゝまゝ其儘打過ぬ、薄暮三島駅に至り投宿 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "12",
+                "day": "02"
+            },
+            "text": {
+                "headline": "\n （十月）廿九日  晴 ",
+                "text": "<p> 払暁より登途函嶺を登り、 <placeName corresp=\"#place_箱根\"> 箱根 </placeName> 宿にて午餐、此日、 <lb/>\n       前公之夫人御登駿ニ而同所ニ而御行過申上る、御本陣江罷出、知識之者ヘ面会、御途上御無異之祝詞を呈す <lb/> 七ツ頃 <placeName corresp=\"#place_小田原\">\n        小田原 </placeName> 宿に至り、小伊勢屋といふ客舎に宿す <lb/> 予曾而此地経過之節、懐古之旧製ありしまゝ、こゝに附裁す <lb/>\n       将他斡地施天力《（旋カ）》。及我孤塁半壁隅。防守不全還可愕。慣家末路見遺図。 <lb/>\n       こハ古の事なりしか、物換り星移るに随ひ、地勢人情ともに変更あることゝ見へて、去辰春之事共、可否順逆ハ暫くさし置、〓跙齷齪尤醜態《（趦趄）》を極めしとか、路人の説もいと多かりけり </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "12",
+                "day": "03"
+            },
+            "text": {
+                "headline": "\n 十一月朔  曇 ",
+                "text": "<p> 昧爽駅を発し、南湖といふ所にて午餐、此日ハ兼程程ケ谷駅迄旅行之積なれハ、足の乗物を早めしか、冬日の端なく夜に入ぬ、五ツ頃 <placeName corresp=\"#place_程ケ谷\"> 程ケ谷 </placeName> に至り投宿 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "12",
+                "day": "04"
+            },
+            "text": {
+                "headline": "\n 十一月二日  晴　曇 ",
+                "text": "<p> 払暁より駅を発し、 <placeName corresp=\"#place_大森\"> 大森 </placeName>\n       にて午餐、七ツ頃着京、春来投宿せし石街島屋甚蔵といふ旅店に卸担、後、 <placeName corresp=\"#place_静岡\"> 静岡 </placeName>\n       発途口占之作、多忙に紛れ打捨置しか、今夜稍閑なれハ聊推敲を加へて一絶を呵成す <lb/> 無能儘憂自全真。懶向上揚玉塵《（一字脱）》。厭世心如霜着葉。輭紅宜見不勝春。 <lb/>\n       発程之口占にも似合ねとも、成るに任セ附裁せり、何か老成がり、又ハ賢人めくなどの嘲もあるへけれと、こハ <persName corresp=\"#pers_渋沢栄一\">\n<forename> 篤 </forename>\n</persName> の真情絶而矯飾なき処なれハ、後にこそ知る人もあるらめ <lb/> 客歳復月初三、 <persName corresp=\"#pers_渋沢栄一\">\n<forename> 篤 </forename>\n</persName>\n<placeName corresp=\"#place_欧洲\"> 欧洲 </placeName> より帰航、 <persName corresp=\"#pers_民部公子\"> 民部公子\n       </persName> を奉し蕃浜に解纜せしハ恰昨日の如くにて最早一年を消除せり、真に年光如下坂丸不与我蹉跎といふ昔人之歎も宜なることゝ物に触れ事に図りてハ感慨の弥増のミ、\n        <persName corresp=\"#pers_渋沢栄一\">\n<forename> 篤 </forename>\n</persName> の客年 <placeName corresp=\"#place_東京\"> 東京 </placeName> 着之頃ハ、心事も雨後の雲のことくなりしか、兎まれ角まれ\n        <placeName corresp=\"#place_駿河\"> 駿河 </placeName>\n       の国の見まほしと袂を振ふて赴しか、其後春来再三之公務にて出京を弾指すれハ都而六度の往返をなせり、因望岳之一絶を得たれハ此に附裁す <lb/>\n       弾鋏幾回喚渡河。週年六過富山阿。自疑雲物与人老。雪満峰頭白髪多。 <lb/> 狂詩にひとしけれとも、触感之儘記し置ぬ <lb/> 意多歳月促とハ <persName corresp=\"#pers_杜甫\"> 杜甫 </persName> 之警句、矢張、詩人忠厚之意念より出たるなるへし、 <persName corresp=\"#pers_渋沢栄一\">\n<forename> 篤 </forename>\n</persName> の去歳 <placeName corresp=\"#place_フランス\"> 仏国 </placeName>\n       にて国家之傾覆を聞知し、日夜痛心難堪、翅なくとも万里之波濤を飛越し、実況見まほしくと帰期を数ふるの間、いとも年月の長きを覚へしか、豈料帰国後駿地に移り、瑣々たる事務に係るも慰心の端にもやと、稍其事に処せしか、又纏身の鬱累を為し、さり\n        <pb corresp=\"#pageB1047\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/73/full/max/0/default.jpg\" n=\"B1047\" source=\"#pageB1047\"/>\n       とて、紛更之月日を送りしに今又其境を去れは、いかにも昨日の想を為すハ、我意念より出て久促長短をなすことなれとも、自ら吾を疑ふへき程なり、彼岳陽楼の記中ニ喜憂己より出て物に就て感を為すの理を説しも、ますます古哲の予を欺かさるを知る\n      </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "12",
+                "day": "05"
+            },
+            "text": {
+                "headline": "\n （十一月）三日  晴 ",
+                "text": "<p> 朝、 <persName corresp=\"#pers_上田閑江\">\n<surname> 上田 </surname>\n<forename> 閑江 </forename>\n</persName> に恵借の轎を戻し遣す <lb/> 新屋敷の老人 ○ <persName corresp=\"#pers_文左衛門\">\n<forename> 文左衛門 </forename>\n</persName>\n<persName corresp=\"#pers_渋沢栄一\">\n<forename> 栄一 </forename>\n</persName> ノ伯父阿女の迎ひとていまた滞留せしかは、朝来過訪せられ、旧話頗る鬱胸を慰めり <lb/> 午後 <placeName corresp=\"#place_小川街\">\n        小川街 </placeName> に罷出、到着を御届申上、公用局江手続申談、其他知音之者面会、夕方退出、夜老人、阿ひさ其外来り、深更迄談話頗る故態を為し、痴心を生す <lb/> 朝、\n        <persName corresp=\"#pers_平岡庄七\">\n<surname> 平岡 </surname>\n<forename> 庄七 </forename>\n</persName> 、 <persName corresp=\"#pers_川村三介\">\n<surname> 川村 </surname>\n<forename> 三介 </forename>\n</persName> 来、景情を問、暫時談話にて帰る <lb/>\n<placeName corresp=\"#place_静岡\"> 静岡 </placeName> より書状来る、封中郷書あり </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "12",
+                "day": "06"
+            },
+            "text": {
+                "headline": "\n （十一月）四日  晴 ",
+                "text": "<p> 朝、老人発足す、小川街会計方江 <placeName corresp=\"#place_静岡\"> 静岡 </placeName>\n<persName corresp=\"#pers_平岡四郎\">\n<surname> 平岡 </surname>\n<forename> 四郎 </forename>\n</persName> 及留守宅へ書状托し遣す、拝借紙幣返納之儀ニ付、調書 <persName corresp=\"#pers_小田又蔵\">\n<surname> 小田 </surname>\n<forename> 又蔵 </forename>\n</persName> へ送遣す、午後 <placeName corresp=\"#place_和泉町\"> 和泉町 </placeName> にて大六お訪ひ、夫より <placeName corresp=\"#place_伊勢崎町\"> 伊勢崎町 </placeName> 御蔵敷江罷越、行方、 <persName corresp=\"#pers_山口\">\n<surname> 山口 </surname>\n</persName> 面会、御用向逐次談判し、帰路 <placeName corresp=\"#place_久松町\"> 久松町 </placeName> にて <persName corresp=\"#pers_平岡庄七\">\n<surname> 平岡 </surname>\n<forename> 庄七 </forename>\n</persName> を訪へ、夜に入帰宿 <lb/>\n<persName corresp=\"#pers_加藤成\">\n<surname> 加藤 </surname>\n<forename> 成 </forename>\n</persName> 来泊、深更迄談話す </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "12",
+                "day": "07"
+            },
+            "text": {
+                "headline": "\n 十一月五日  晴 ",
+                "text": "<p> 朝 <time when=\"08:00:00\"> 八時 </time>\n       頃、小川街公用方より書状来、本日御用召之儀申来る、即刻支度を整ひ罷越す、公用局にて暫時待合せ、使役之者同行にて西城江罷出る、宮中にある藩之公用局扣所にて休息、無程 <persName corresp=\"#pers_村井直見\">\n<surname> 村井 </surname>\n<forename> 直見 </forename>\n</persName> 来る、公用方差添人也少間を経て御呼出、官省之案内て大広間脇廊下を過り、柳間之入口にて扣居る、暫くして <persName corresp=\"#pers_五辻\">\n<surname> 五辻 </surname>\n</persName> 少弁殿より左之通御書付被相渡、但柳之間にて被相達 <lb/>\n<persName corresp=\"#pers_渋沢栄一\">\n<surname> 渋沢 </surname>\n<forename> 篤太郎 </forename>\n</persName>\n<lb/> 任租税正 <lb/> 右 <lb/> 宣下候事 <lb/>\n<date evidence=\"year inferenced, day\" type=\"旧暦\" when=\"1869-11\"> 十一月 </date> 太政官 <lb/>\n       受任相済之後民部省江罷出、大輔 <persName corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persName> 従四位其他少丞并同列之者其外小吏に至迄面会、勤向夫々承合す、夕方帰宿、此夜 <persName corresp=\"#pers_阿部祐三\">\n<surname> 阿部 </surname>\n<forename> 祐三 </forename>\n</persName> 租税少佑や <persName corresp=\"#pers_前田重吾\">\n<surname> 前田 </surname>\n<forename> 重吾 </forename>\n</persName> 監督小佑や来る、夜、 <persName corresp=\"#pers_橋本長七郎\">\n<surname> 橋本 </surname>\n<forename> 長七郎 </forename>\n</persName> 来、 <placeName corresp=\"#place_静岡\"> 静岡 </placeName> 常平倉掛附より書状来る、留守宅之書状も封入す </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "12",
+                "day": "08"
+            },
+            "text": {
+                "headline": "\n （十一月）六日  曇夕晴 ",
+                "text": "<p> 此日休省ニ付、朝より <placeName corresp=\"#place_静岡\"> 静岡 </placeName> 行書状を裁す、 <persName corresp=\"#pers_大久保一翁\">\n<surname> 大久保 </surname>\n<forename> 一翁 </forename>\n</persName> 、 <persName corresp=\"#pers_平岡四郎\">\n<surname> 平岡 </surname>\n<forename> 四郎 </forename>\n</persName> 及掛所出役之者へ書状遣す、留守宅へも壱封遣す、爾来之手続丁寧ニ <persName corresp=\"#pers_四郎\">\n<forename> 四郎 </forename>\n</persName> 及常平倉掛附へ申遣す <lb/> 郷里へ壱封を出す、近況申遣す <lb/>\n<persName corresp=\"#pers_大坪七兵衛\">\n<surname> 大坪 </surname>\n<forename> 七兵衛 </forename>\n</persName> 来、午餐後 <persName corresp=\"#pers_平岡庄七\">\n<surname> 平岡 </surname>\n<forename> 庄七 </forename>\n</persName> へ罷越す、 <persName corresp=\"#pers_堀鼎\">\n<surname> 堀 </surname>\n<forename> 鼎 </forename>\n</persName> 、 <persName corresp=\"#pers_福田作太郎\">\n<surname> 福田 </surname>\n<forename> 作太郎 </forename>\n</persName> 、 <persName corresp=\"#pers_川村恵十郎\">\n<surname> 川村 </surname>\n<forename> 恵十郎 </forename>\n</persName> 、 <persName corresp=\"#pers_織田研斎\">\n<surname> 織田 </surname>\n<forename> 研斎 </forename>\n</persName> 其外等面会す、五ツ過帰宿 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "12",
+                "day": "09"
+            },
+            "text": {
+                "headline": "\n （十一月）七日  晴 ",
+                "text": "<p>\n<persName corresp=\"#pers_勝海舟\">\n<surname> 勝 </surname>\n</persName> 安房方江書状差遣す <lb/>\n<pb corresp=\"#pageB1048\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/74/full/max/0/default.jpg\" n=\"B1048\" source=\"#pageB1048\"/>\n<lb/> 朝 <time when=\"08:00:00\"> 八時 </time> 出省 <lb/> 戸籍編製之儀ニ付、少丞 <persName corresp=\"#pers_岡本鍵三郎\">\n<surname> 岡本 </surname>\n<forename> 鍵三郎 </forename>\n</persName> より申談有之 <lb/> 拝借屋敷之儀ニ付土木司へ引合いたす、第 <time when=\"16:00:00\"> 四時 </time> 過帰宿、夜食後矢ノ倉\n        <persName corresp=\"#pers_伊東\">\n<surname> 伊東 </surname>\n</persName> を訪ふ、不在ニて面会なし、 <persName corresp=\"#pers_吉田次郎\">\n<surname> 吉田 </surname>\n<forename> 次郎 </forename>\n</persName> 面会いたす </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "12",
+                "day": "10"
+            },
+            "text": {
+                "headline": "\n （十一月）八日  晴 ",
+                "text": "<p> 朝、 <persName corresp=\"#pers_加納次郎作\">\n<surname> 加納 </surname>\n<forename> 次郎作 </forename>\n</persName> 来 <lb/> 例刻より出省、戸籍編製之儀ニ付、見込取調、且当用取扱ふ邸宅之儀ニ付、土木司安永土木正より調書差越す、退出後 <persName corresp=\"#pers_阿部祐三\">\n<surname> 阿部 </surname>\n<forename> 祐三 </forename>\n</persName> 来、居宅之儀申聞る <lb/>\n<placeName corresp=\"#place_静岡\"> 静岡 </placeName>\n<persName corresp=\"#pers_平岡四郎\">\n<surname> 平岡 </surname>\n<forename> 四郎 </forename>\n</persName> 外両人より書状来 <lb/>\n<placeName corresp=\"#place_いせ崎\"> いせ崎 </placeName>\n<persName corresp=\"#pers_勝海舟\">\n<surname> 勝 </surname>\n</persName> 安房 <persName corresp=\"#pers_黒川伝次郎\">\n<surname> 黒川 </surname>\n<forename> 伝次郎 </forename>\n</persName> へ相廻ス別書申遣ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "12",
+                "day": "11"
+            },
+            "text": {
+                "headline": "\n （十一月）九日  晴 ",
+                "text": "<p> 朝、 <persName corresp=\"#pers_巳屋忠次郎\">\n<surname> 巳屋 </surname>\n<forename> 忠次郎 </forename>\n</persName> 来、例刻より出省、戸籍之儀ニ付、掛詰合之席江出張、見込取調且申談いたす、居宅之儀ニ付、 <persName corresp=\"#pers_菅浪武三郎\">\n<surname> 菅浪 </surname>\n<forename> 武三郎 </forename>\n</persName> より申談有之、戸籍之儀ニ付、 <persName corresp=\"#pers_岡本\">\n<surname> 岡本 </surname>\n</persName> 権少丞より申談有之、小札交換之儀、林出納正へ承合いたす、第 <time when=\"17:00:00\"> 五時 </time> 頃退出 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "12",
+                "day": "12"
+            },
+            "text": {
+                "headline": "\n （十一月）十日  晴 ",
+                "text": "<p> 例刻出省、戸籍掛之者儀ニ付見込少丞へ申立る、取調草案類出来す <lb/>\n<placeName corresp=\"#place_遠江国\"> 遠州 </placeName>\n<placeName corresp=\"#place_駿府藩\"> 静岡藩 </placeName> 管轄地江御貸下之紙幣之儀ニ付、 <persName corresp=\"#pers_岡本\">\n<surname> 岡本 </surname>\n</persName> 江承合す、夕方 <placeName corresp=\"#place_小川街\"> 小川街 </placeName> 邸に至る、 <persName corresp=\"#pers_織田\">\n<surname> 織田 </surname>\n</persName> 其外有司面会す、 <placeName corresp=\"#place_駿河台\"> 駿河台 </placeName> にて邸宅見分す、 <persName corresp=\"#pers_松本新作\">\n<surname> 松本 </surname>\n<forename> 新作 </forename>\n</persName> を訪ふ、不在にて面会なし、夜に入帰宿、此夜 <persName corresp=\"#pers_尾高惇忠\">\n<surname> 尾高 </surname>\n<forename> 藍香 </forename>\n</persName> 郷里より来る、家君之書持参す </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "12",
+                "day": "13"
+            },
+            "text": {
+                "headline": "\n （十一月）十一日  晴 ",
+                "text": "<p> 休日ニ付、朝より調物宅にて認分いたし、午後 <placeName corresp=\"#place_南八丁堀\"> 南八丁堀 </placeName>\n       にて郷之邸を訪ひ、夫より大少輔大少丞を訪ふ、 <persName corresp=\"#pers_坂出三郎\">\n<surname> 坂出 </surname>\n<forename> 三郎 </forename>\n</persName> を訪ふ、夜に入る迄談話す風邪之気故同所より駕を命し帰宿す </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "12",
+                "day": "14"
+            },
+            "text": {
+                "headline": "\n （十一月）十二日  曇夕雨 ",
+                "text": "<p> 不快ニ付出勤断之儀、 <persName corresp=\"#pers_吉川\">\n<surname> 吉川 </surname>\n</persName> 江申遣す、 <persName corresp=\"#pers_斎藤六蔵\">\n<surname> 斎藤 </surname>\n<forename> 六蔵 </forename>\n</persName> 来る、 <persName corresp=\"#pers_阿部祐三\">\n<surname> 阿部 </surname>\n<forename> 祐三 </forename>\n</persName> 来 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "12",
+                "day": "15"
+            },
+            "text": {
+                "headline": "\n （十一月）十三日  雨 ",
+                "text": "<p> 昨夜より熱気ハ稍消すれとも咳嗽甚しく、胸膈をせり上ル、難堪ければ <persName corresp=\"#pers_伊東\">\n<surname> 伊東 </surname> 大典医 </persName> に書状を遣し、病之よしを報し、来訪を請ふ、夕方同人来る、散薬水薬等を送る、此日 <placeName corresp=\"#place_静岡\"> 静岡 </placeName> に書状を遣、 <persName corresp=\"#pers_平岡\">\n<surname> 平岡 </surname>\n</persName> 、 <persName corresp=\"#pers_小栗\">\n<surname> 小栗 </surname>\n</persName> 、其外常平倉掛附御用達并宅状等遣す、爾来之手続委細申遣す <lb/> 明日出勤之儀、 <persName corresp=\"#pers_伊東\">\n<surname> 伊東 </surname>\n</persName> より切ニ被差留 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "12",
+                "day": "16"
+            },
+            "text": {
+                "headline": "\n （十一月）十四日  晴 ",
+                "text": "<p> 朝書状を <persName corresp=\"#pers_吉川\">\n<surname> 吉川 </surname>\n</persName> に送り、今日出勤之儀断遣す、承知之旨返書来、 <persName corresp=\"#pers_斎藤六蔵\">\n<surname> 斎藤 </surname>\n<forename> 六蔵 </forename>\n</persName> 来、戸籍調之儀委曲申談遣す <lb/> 昨日 <persName corresp=\"#pers_喜多村富之助\">\n<surname> 喜多村 </surname>\n<forename> 富之助 </forename>\n</persName> 、 <persName corresp=\"#pers_後藤金兵衛\">\n<surname> 後藤 </surname>\n<forename> 金兵衛 </forename>\n</persName> 来、午後 <persName corresp=\"#pers_中村玉太郎\">\n<surname> 中村 </surname>\n<forename> 玉太郎 </forename>\n</persName> 来、板見屋来、 <persName corresp=\"#pers_庄七\">\n<forename> 庄七 </forename>\n</persName> 帰駿之旨ニ付面会し遣す、夕方 <persName corresp=\"#pers_行方文五郎\">\n<surname> 行方 </surname>\n<forename> 文五郎 </forename>\n</persName> 来、御用向申し談遣す、 <persName corresp=\"#pers_阿部祐三\">\n<surname> 阿部 </surname>\n<forename> 祐三 </forename>\n</persName> 来、夜に入迄談し帰る、居宅之儀申聞ル、昨日 <persName corresp=\"#pers_川村恵十郎\">\n<surname> 川村 </surname>\n<forename> 恵十郎 </forename>\n</persName> 来 <persName corresp=\"#pers_前田重吾\">\n<surname> 前田 </surname>\n<forename> 重吾 </forename>\n</persName> 来、 <persName corresp=\"#pers_荒井\">\n<surname> 荒井 </surname>\n</persName> 江用達金廿五両之儀 <persName corresp=\"#pers_川村\">\n<surname> 川村 </surname>\n</persName> 江談し遣す、 <persName corresp=\"#pers_加藤木\">\n<surname> 加藤木 </surname>\n</persName> 来る、書籍類遣す、 <persName corresp=\"#pers_阿部祐三\">\n<surname> 阿部 </surname>\n<forename> 祐三 </forename>\n</persName> 来 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "12",
+                "day": "17"
+            },
+            "text": {
+                "headline": "\n （十一月）十五日  晴又曇 ",
+                "text": "<p> 朝、 <persName corresp=\"#pers_比留間良八\">\n<surname> 比留間 </surname>\n<forename> 良八 </forename>\n</persName> 来、五ツ半頃出省、近日来調取掛たる戸籍編成之下調 <pb corresp=\"#pageB1049\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/75/full/max/0/default.jpg\" n=\"B1049\" source=\"#pageB1049\"/> 出来いたす、御布告案等草案し、 <persName corresp=\"#pers_岡本\">\n<surname> 岡本 </surname>\n</persName> 江廻ス、小札引替之儀并銭交換之事、 <persName corresp=\"#pers_林又七郎\">\n<surname> 林 </surname>\n<forename> 又七郎 </forename>\n</persName> へ引合、銭ハ不出来旨申聞る <lb/> 省中諸務釐正大基本相立度旨、 <persName corresp=\"#pers_岡本\">\n<surname> 岡本 </surname>\n</persName> 其外江申談す </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "12",
+                "day": "18"
+            },
+            "text": {
+                "headline": "\n （十一月）十六日  晴 ",
+                "text": "<p> 朝、 <persName corresp=\"#pers_阿部祐三\">\n<surname> 阿部 </surname>\n<forename> 祐三 </forename>\n</persName> 来、宿所見分ニ付同行、 <placeName corresp=\"#place_和泉橋\"> 和泉橋 </placeName> 辺お行、 <placeName corresp=\"#place_天神下\"> 天神下 </placeName>\n<persName corresp=\"#pers_後藤錠太郎\">\n<surname> 後藤 </surname>\n<forename> 錠太郎 </forename>\n</persName> 宅見分す、毎事 <persName corresp=\"#pers_祐三\">\n<forename> 祐三 </forename>\n</persName> 江申談置、 <placeName corresp=\"#place_柳原\"> 柳原 </placeName> にて <persName corresp=\"#pers_梅田\">\n<surname> 梅田 </surname>\n</persName> を訪ふ、不逢、裏 <placeName corresp=\"#place_猿楽町\"> 猿楽町 </placeName>\n<persName corresp=\"#pers_岡本\">\n<surname> 岡本 </surname>\n</persName> を訪、面会、省中改正之儀其外見込申談す、表二番町 <persName corresp=\"#pers_郷純蔵\">\n<surname> 郷 </surname>\n<forename> 純蔵 </forename>\n</persName> 《（マヽ）》を訪、不逢、夕方帰宿、夜 <persName corresp=\"#pers_平岡庄七\">\n<surname> 平岡 </surname>\n<forename> 庄七 </forename>\n</persName> を訪ふ、 <persName corresp=\"#pers_加藤木\">\n<surname> 加藤木 </surname>\n</persName> 之事談判ス、此夕 <persName corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persName> 帰府、夫々談し遣す </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "12",
+                "day": "19"
+            },
+            "text": {
+                "headline": "\n （十一月）十七日  晴 ",
+                "text": "<p> 此日 <persName corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persName> 帰省ニ付、再出京之儀、其外内事品々申談遣す <lb/> 朝五ツ頃出省、一昨日出来せし戸籍之調物相残り候分、 <persName corresp=\"#pers_岡本\">\n<surname> 岡本 </surname>\n</persName> 江廻ス、省中改正之儀ニ付、伺書草案いたす <lb/> 民事ハ治国之根楨、諸政之基礎ニ候処、中葉以降、 <persName corresp=\"#pers_平将門\">\n<forename> 将門 </forename>\n</persName>\n       弄権、百事自家之臆断ヲ以経画シ、郡国之経界、都邑村里之称、農桑商賈之税、度量衡之定則、其他緊要民命に関スル所務総テ紊乱シ、一定ノ法難認哉ニ奉存候、就而ハ目前之事唯旧貫ニ仍候迄ニテ、真正ノ御改革無之テハ遂ニ御基本難相立、実ニ此上モナキ急務ト奉存候間、此度省中ヲエテ改正掛相立、可然人物相撰、右掛申付、和漢洋古今之美意良法ヲ斟酌シ、折衷ノ上一定ノ御法相立候様仕度、此段相伺申候　以上 <lb/>\n<date type=\"旧暦\" when=\"1869-12\"> 十一月 </date>\n<lb/> 諸務廻し物取調いたす、省中諸事多端ニ付、夜に入テ退散ス <lb/>\n<persName corresp=\"#pers_玉乃少丞\">\n<surname> 玉乃 </surname> 少丞 </persName> ヨリナボレオンコード之儀申談有之、 <persName corresp=\"#pers_郷\">\n<surname> 郷 </surname>\n</persName> 少丞ヨリ <persName corresp=\"#pers_永田□左衛門\">\n<surname> 永田 </surname>\n<forename> □左衛門 </forename>\n</persName> 建白書被相廻一覧、 <persName corresp=\"#pers_岡本\">\n<surname> 岡本 </surname>\n</persName> へ廻ス、 <placeName corresp=\"#place_フランス\"> 仏国 </placeName> 在中之儀其外ニ付、卿、 <persName corresp=\"#pers_伊達\">\n<surname> 伊達 </surname>\n</persName> 従二位殿より御談有之 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "12",
+                "day": "20"
+            },
+            "text": {
+                "headline": "\n （十一月）十八日  晴 ",
+                "text": "<p> 昨日見廻シニナリシ田畑御払下之儀ニ付、異見論文相認監督江廻ス、少丞ヘモ申達ス、同論旨之申聞調直しイタス <lb/> 宮谷県管轄地畑米納代納之儀評決ス、調直しいたす <lb/>\n       此日改正掛之儀ニ付御書付ニテ被仰付 <lb/>\n<persName corresp=\"#pers_渋沢栄一\">\n<surname> 渋沢 </surname>\n</persName> 租税正 <lb/> 改正掛被 <lb/> 仰付候事 <lb/>\n<date type=\"旧暦\" when=\"1869-12\"> 十一月 </date> 民部省 <lb/> 右之通卿ヨリ御直達相成、外大輔ヨリモ申談有之、掛出勤之場処取調いたす\n       <lb/> 機株願書付 <persName corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persName> 大輔より被相廻、ナホレオンコードハ既ニ開成所にて翻訳取掛候旨 <persName corresp=\"#pers_伊達\">\n<surname> 伊達 </surname>\n</persName> 卿ヨリ御申聞有之、今朝右之儀ニ付 <persName corresp=\"#pers_栗本如雲\">\n<surname> 栗本 </surname>\n<forename> 如雲 </forename>\n</persName> 《（ <persName corresp=\"#pers_栗本鋤雲\">\n<surname> 栗本 </surname>\n<forename> 鋤雲 </forename>\n</persName> ）》ヘ書状遣す、夜 <placeName corresp=\"#place_静岡\"> 静岡 </placeName> 江書状認遣ス、 <persName corresp=\"#pers_平岡\">\n<surname> 平岡 </surname>\n</persName> 、 <persName corresp=\"#pers_小栗\">\n<surname> 小栗 </surname>\n</persName> ヘ壱封、掛附ヘ壱封ヲ裁ス、郷里宅 <persName corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persName> ヘ壱封宛認遣ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869",
+                "month": "12",
+                "day": "21"
+            },
+            "text": {
+                "headline": "\n 十一月十九日 \n",
+                "text": "<p> ○以下記入ナシ。 </p>"
+            }
+        }
+    ]
+}

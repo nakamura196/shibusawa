@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-03-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 半晴、朝、 <persname corresp=\"#pers_河村隆実\">\n<surname> 河村 </surname>\n<forename> 隆実 </forename>\n</persname> 、 <persname corresp=\"#pers_二橋元長\">\n<surname> 二橋 </surname>\n<forename> 元長 </forename>\n</persname> ニ電報ス、蓋シ昨夜同氏ヨリ帰京ノ日ヲ問合セノ来電アリシニヨル、朝、二条公爵、 <persname corresp=\"#pers_島津\">\n<surname> 島津 </surname>\n</persname> 伯爵ヘ返書ヲ発ス <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 、 <persname corresp=\"#pers_書上順四郎\">\n<surname> 書上 </surname>\n<forename> 順四郎 </forename>\n</persname> 、 <persname corresp=\"#pers_尾高惇忠\">\n<surname> 尾高 </surname>\n<forename> 惇忠 </forename>\n</persname> 、 <persname corresp=\"#pers_河村隆実\">\n<surname> 河村 </surname>\n<forename> 隆実 </forename>\n</persname> 等ヘ書状ヲ発ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

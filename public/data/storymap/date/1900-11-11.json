@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-11-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、風強ク寒甚シ、午前数多ノ訪問客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n       玄尚健氏来ル、銀行ニ於テ会見シ稷山金鉱ノ事及貨幣改鋳財政整理ノ事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<persname corresp=\"#pers_閔丙奭\">\n<surname> 閔 </surname>\n<forename> 丙奭 </forename>\n</persname> ヨリ案内セラレタル運輸会社開業式ニ列ス、会社ノ庭中ニ官妓ノ舞踏アリシモ寒威凛烈ニシテ見ルニ堪ヘス、立食中一場ノ挨拶 <pb corresp=\"#pageB1164\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/190/full/max/0/default.jpg\" n=\"B1164\" source=\"#pageB1164\"></pb> ヲ為シテ宴ヲ辞ス、此日ハ国王謁見ノ事アルトテ兼テ通知セラレタレハ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\">\n        午後五時 </time> 大礼服ニテ公使館ヲ訪ヒ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 五時半 </time> 公使、書記官等ト共ニ宮中ニ参内ス、 <persname corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> 、 <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> 随行ス、宮中ノ扣所ニ於テ外務、宮内其他ノ大官ニ面会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n       頃国王ニ謁見シ銀行事業、鉄道事業等ニ付テ種々ノ下問アリタレハ、一々爾来ノ経歴ヲ奏上ス、謁見畢テ宮中ニテ洋食ヲ饗セラル、 <persname corresp=\"#pers_朴\">\n<surname> 朴 </surname>\n</persname> 外務、 <persname corresp=\"#pers_閔\">\n<surname> 閔 </surname>\n</persname> 宮内、 <persname corresp=\"#pers_閔丙奭\">\n<surname> 閔 </surname>\n<forename> 丙奭 </forename>\n</persname> 等接伴ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time> 過宴ヲ撤ス、更ニ宮中ニテ官妓ノ舞踏アリテ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宴《（宿カ）》ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-02-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴風強シ、朝来客数名ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_品川\"> 品川 </placename>\n<persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 氏ヲ訪フ、英国公使外数名ト共ニ会食ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 過 <placename corresp=\"#place_日本橋茅場町\"> 茅場町 </placename> 札幌麦酒会社出張所ニ於テ株主総会ニ列ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6787639,
+                    "lon": 139.7780111,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時\n       </time> 紅葉館ニ於テ <orgname> 東京商業会議所 </orgname> 書記長 <persname corresp=\"#pers_萩原源太郎\">\n<surname> 萩原 </surname>\n<forename> 源太郎 </forename>\n</persname> 氏 <placename corresp=\"#place_清\"> 清国 </placename> ヨリ帰朝セル為メノ慰労会ヲ開ク、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過帰宅 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

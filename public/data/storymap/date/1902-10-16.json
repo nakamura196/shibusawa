@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-10-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "04:00:00",
+                    "text": "<time when=\"04:00:00\"> 午前四時 </time> 頃船 <placename corresp=\"#place_シンガポール\"> 新嘉埠\n       </placename> ニ着ス、然レトモ同港ハ島嶼多キヲ以テ天明ヲ俟テ進行ス、両岸緑樹鬱叢トシテ眺望頗ル佳ナリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 1.3,
+                    "lon": 103.8,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time>\n       過本船桟橋ニ着ス、同地ニ開店スル三井物産会社支店主任 <persname corresp=\"#pers_河村\">\n<surname> 河村 </surname>\n</persname> [　　]《（○欠字。 <persname corresp=\"#pers_良平\">\n<forename> 良平 </forename>\n</persname> ）》来リテ安着ヲ祝シ、且本邦ヨリ到着セル書状数通ヲ交付セラル、上陸後ノ止宿ハ同店ノ寄宿舎ヲ以テ充テラレン事ヲ請ハル、又久水領事ノ夫人某、書記生 <persname corresp=\"#pers_大賀\">\n<surname> 大賀 </surname>\n</persname> 某ト共ニ本船ニ来リ、領事ハ旅行中ニテ来訪シ難キヲ告ク "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 午前八時半 </time> 本船ニテ朝飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<persname corresp=\"#pers_河村\">\n<surname> 河村 </surname>\n</persname> 氏、 <persname corresp=\"#pers_久水\">\n<surname> 久水 </surname>\n</persname>\n       領事夫人等ト共ニ一行ヲ伴ヒ上陸ス、埠頭ヨリ用意ノ馬車ニテ先ツ三井物産会社支店ノ寄宿舎ニ抵ル、舎ハ港ト市街トノ中央ナル小邱ノ上ニアリ、樹木多クシテ清陰人ニ可ナリ、寄宿舎ニ於テ今朝本邦ヨリ到来セル数通ノ書状ヲ閲覧シ、又近来ノ新聞紙等ヲ見ル、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n       寄宿舎ニテ日本料理ノ午飧ヲ饗セラル、畢テ又楼上ニ於テ談話シ読書シテ日中ノ苦熱ヲ避ク、蓋シ此地ハ航海中尤モ赤道ニ近キ土地ナルヲ以テ、炎熱頗ル強ク、朝夕ナラデハ事務ヲ執リ又ハ諸方遊覧ヲモ為シ難キヲ以テナリ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> ヨリ馬車ニテ一行ハ <persname corresp=\"#pers_久水\">\n<surname> 久水 </surname>\n</persname> 夫人、 <persname corresp=\"#pers_河村\">\n<surname> 河村 </surname>\n</persname> 氏等ト共ニ此地ニ設ケアル公園ニ抵リ、動物植物等ヲ一覧シ、夫ヨリ本道ヲ海岸ニ出テ市街ヲ通過シ、各 <pb corresp=\"#pageB1281\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/307/full/max/0/default.jpg\" n=\"B1281\" source=\"#pageB1281\"></pb> 国ヨリ開店セル商店ノ景況及支那市街等ヲ見テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n       過又寄宿舎ニ帰リ同所ニ於テ夜飧シテ此夜ハ同寄宿舎ニ一泊ス、夜ニ入ルモ暑熱多ク、且蚊多キヲ以テ安眠スルヲ得サリキ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

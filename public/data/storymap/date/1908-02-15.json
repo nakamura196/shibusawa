@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-02-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、先ツ入浴シ、畢テ朝飧ヲ食ス、食後新聞紙ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時\n       </time> 東洋硝子会社重役会ニ出席シ、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_長森\">\n<surname> 長森 </surname>\n</persname> 及仏人数名ト会話ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ於テ午飧シ、食後、 <persname corresp=\"#pers_小林\">\n<surname> 小林 </surname>\n</persname> ニ要務ヲ談シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ事務ヲ処理ス、又、書状ヲ発送ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、此夕、青山寄宿舎学生七名、 <persname corresp=\"#pers_横山\">\n<surname> 横山 </surname>\n</persname> 氏、及英語、数学教師、其他 <persname corresp=\"#pers_渋沢篤二\">\n<surname> 渋沢 </surname>\n<forename> 篤二 </forename>\n</persname> 、同 <persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> 、 <persname corresp=\"#pers_穂積重遠\">\n<surname> 穂積 </surname>\n<forename> 重遠 </forename>\n</persname> 、同 <persname corresp=\"#pers_穂積律之助\">\n<forename> 律之助 </forename>\n</persname> 、 <persname corresp=\"#pers_阪谷俊作\">\n<surname> 阪谷 </surname>\n<forename> 俊作 </forename>\n</persname> 等来会、夜飧シ、且種々ノ談話ヲ為ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

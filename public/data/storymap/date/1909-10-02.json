@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-10-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:00:00",
+                    "text": "<time when=\"05:00:00\"> 午前五時 </time> 頃汽車 <placename corresp=\"#place_クリーブランド_(オハイオ州)\"> クリブランド\n       </placename> ニ着ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 41.48222,
+                    "lon": -81.66972,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 起床、朝飧ヲ食シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時\n       </time> 地方歓迎員ノ案内ニテ市内ノ旅館ニ抵ル、地方新聞記者来リテ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time>\n       旅館内ニテ此地商業会議員ノ催ニ係ル午飧会アリ、食卓上市長ノ演説アリ、依テ答辞ヲ述ヘ、食後、自働車ニテ市内ヲ遊覧シ、公園ヲ散歩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時\n       </time> 前ノ州知事タリシ <persname corresp=\"#pers_ヘリツク\">\n<surname> ヘリツク </surname>\n</persname> 氏宅ニテ茶菓ノ饗応アリ、畢テコントリリ《（ー）》倶楽部ニ抵リ商業会議所ノ催フセル晩飧会ニ出席ス、食事後舞踏会アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\">\n        十一時 </time> 頃旅宿ニ帰ル、此日ノ案内ハ終日商業会議所会頭 <persname corresp=\"#pers_ブロス\">\n<surname> ブロス </surname>\n</persname> 氏ニシテ、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 、 <persname corresp=\"#pers_頭本元貞\">\n<surname> 頭本 </surname>\n</persname> 氏同伴セリ、風強クシテ寒気面ヲ冒スノ感アリキ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

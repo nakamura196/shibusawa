@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-05-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 庭園ヲ散歩シ、留守中ノ要務ヲ <persname corresp=\"#pers_岩永\">\n<surname> 岩永 </surname>\n</persname> 、 <persname corresp=\"#pers_鈴木\">\n<surname> 鈴木 </surname>\n</persname> 等ヨリ聴キ書類ヲ整頓ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ留守中到来セシ書状ヲ一覧ス、 <orgname> 第一銀行\n       </orgname> ニ出勤シテ旅行中各支店、出張所等巡視ノ手続ヲ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ヘ報知ス、帰途 <persname corresp=\"#pers_添田\">\n<surname> 添田 </surname>\n</persname> 氏ヲ <orgname> 興業銀行 </orgname> ニ訪フ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<persname corresp=\"#pers_佐々木慎思郎\">\n<surname> 佐々木 </surname>\n<forename> 慎思郎 </forename>\n</persname> 来リ話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<persname corresp=\"#pers_前島\">\n<surname> 前島 </surname>\n</persname> 、 <persname corresp=\"#pers_渡辺治右衛門\">\n<surname> 渡辺 </surname>\n<forename> 治右衛門 </forename>\n</persname> 二氏来リテ浦賀船渠会社ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<persname corresp=\"#pers_平沢道次\">\n<surname> 平沢 </surname>\n<forename> 道次 </forename>\n</persname> 、 <persname corresp=\"#pers_西園寺公成\">\n<surname> 西園寺 </surname>\n<forename> 公成 </forename>\n</persname> 二氏来リテ <orgname> 石川島造船所 </orgname> ノ事ヲ談ス、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 、 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 等ノ諸氏ト来ル <date when=\"1903-05-06\"> 六日 </date>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ於テ園遊会開催ノ事ニ関シ案内状其他ノ手続ヲ協議ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

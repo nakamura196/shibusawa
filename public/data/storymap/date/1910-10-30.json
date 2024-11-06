@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-10-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ、朝飧ヲ食ス、後、日記ヲ編成ス、此日 <placename corresp=\"#place_埼玉県\"> 埼玉県 </placename>\n<placename corresp=\"#place_児玉町\"> 児玉町 </placename> ノ教育会ニ出席スル筈ナルニヨリ、朝来旅装ヲ理シテ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.857167,
+                    "lon": 139.649194,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:22:00",
+                    "text": "<time when=\"08:22:00\"> 午前八時二十二分 </time> 王子発ノ汽車ニ搭ス　○以下記入ナシ。 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

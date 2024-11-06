@@ -1,0 +1,93 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-08-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:00:00",
+                    "text": "<time when=\"05:00:00\"> 午前五時 </time> 起床、直ニ朝飧シテ旅装ヲ理シ、牡丹屋ヲ発シ、上 <placename corresp=\"#place_諏訪\">\n        諏訪 </placename>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 六時 </time> 発ノ汽車ニテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time>\n<placename corresp=\"#place_韮崎市\"> 韮崎 </placename> ニ抵ル、一昨日ノ洪水ハ大ニ減水シテ、 <placename corresp=\"#place_塩川\"> 塩川 </placename> ノ鉄道線路仮橋ニテ人ノ歩行ヲ便ス、徒歩数丁ニシテ汽車ニ搭シ、竜王ヲ経テ <placename corresp=\"#place_甲府\"> 甲府 </placename> ニ抵ル、 <persname corresp=\"#pers_若尾\">\n<surname> 若尾 </surname>\n</persname> 氏令息及家人来リ迎フ、贈品アリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.70886,
+                    "lon": 138.44614,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 過 <placename corresp=\"#place_甲府\"> 甲府 </placename> ヲ発シ、 <placename corresp=\"#place_笹子\"> 笹子 </placename>\n       ニテ線路破壊ノ処アリテ十数丁徒歩ス、後、 <placename corresp=\"#place_初狩\"> 初狩 </placename> 、 <placename corresp=\"#place_大月\"> 大月 </placename> 間、又、 <placename corresp=\"#place_多摩川\"> 多摩川 </placename>\n       鉄道等破壊ノ箇処アリテ都合四度ノ徒歩スル処アリシモ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.521784,
+                    "lon": 139.798333,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time> 過漸ク <placename corresp=\"#place_新宿\"> 新宿 </placename> ニ着スルヲ得タリ、 <placename corresp=\"#place_新宿\"> 新宿\n       </placename> ニハ多人数来リ迎フル者アリ、夫ヨリ <placename corresp=\"#place_飯田町\"> 飯田町 </placename> ニ抵リ、馬車ニテ\n        <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿セシハ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6909194,
+                    "lon": 139.7060639,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n       過ナリキ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

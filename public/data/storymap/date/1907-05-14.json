@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-05-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後先ツ入浴シ、畢テ朝飧ヲ為ス、食後理髪店ニ抵リ、帰途庭園ヲ一週ス、 <persname corresp=\"#pers_佐々木慎思郎\">\n<surname> 佐々木 </surname>\n<forename> 慎思郎 </forename>\n</persname> ト電話ニテ要務ヲ談ス、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 行書状数通ヲ裁ス <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 、 <persname corresp=\"#pers_鶴原\">\n<surname> 鶴原 </surname>\n</persname> 、 <persname corresp=\"#pers_目賀田\">\n<surname> 目賀田 </surname>\n</persname> 氏等ヘモ各通ヲ送付ス、午飧後 <orgname> 東京瓦斯会社 </orgname> ニ抵リ重役会ニ列シ要務ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ於テ <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏ニ会話ス、又浦賀船渠会社重役会ニ列シテ要件ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ、 <orgname> 日本銀行 </orgname> 総裁ノ招宴ニ出席ス、 <persname corresp=\"#pers_若槻\">\n<surname> 若槻 </surname>\n</persname> 氏財務官トシテ海外渡航ニ付之ヲ送別スルナリ、 <persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 伯モ来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 午後十時 </time> 宴罷テ、 <placename corresp=\"#place_王子\">\n        王子 </placename> ニ帰宿ス <lb></lb> 此日雷鳴雹ヲ降ス、一昨日来三日間雷鳴アリ、天候不順ナリキ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

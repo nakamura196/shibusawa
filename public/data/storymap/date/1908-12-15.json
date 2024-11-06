@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-12-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、先ツ庭園ヲ散歩シ、帰来入浴シ畢テ朝飧ヲ食ス、後、二三ノ来人アリ、又 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ニ贈ルヘキ画幅ノ筐書ヲ為ス、 <persname corresp=\"#pers_穂積多可子\">\n<surname> 穂積 </surname>\n<forename> 多可子 </forename>\n</persname> 《（ <persname corresp=\"#pers_穂積孝子\">\n<surname> 穂積 </surname>\n<forename> 孝子 </forename>\n</persname> ）》、同 <persname corresp=\"#pers_穂積美津子\">\n<forename> 美津子 </forename>\n</persname> 及 <persname corresp=\"#pers_尾高あや子\">\n<surname> 尾高 </surname>\n<forename> あや子 </forename>\n</persname> 等《（ <persname corresp=\"#pers_光子\">\n<forename> 光子 </forename>\n</persname> ）》《（ <persname corresp=\"#pers_尾高文子\">\n<surname> 尾高 </surname>\n<forename> 文子 </forename>\n</persname> ）》ヘ婚嫁ヲ祝シテ金円ヲ贈与スルニ付添書ヲ認ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_深川\"> 深川 </placename> 瓦斯工場ニ抵リ、 <orgname> 東京瓦斯会社 </orgname>\n       重役会ニ出席ス、畢テ一同ト共ニ午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <persname corresp=\"#pers_奥田正香\">\n<surname> 奥田 </surname>\n<forename> 正香 </forename>\n</persname> 氏ノ来訪ニ接ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 大蔵省ニ抵リ <persname corresp=\"#pers_若槻\">\n<surname> 若槻 </surname>\n</persname> 次官ト会見ス、 <persname corresp=\"#pers_桜井主税\">\n<surname> 桜井 </surname>\n<forename> 主税 </forename>\n</persname> 局長来会ス畢テ慈善会ニ抵リ理事会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:30:00",
+                    "text": "<time when=\"16:30:00\"> 四時半 </time> 再ヒ事務所ニ抵リ、 <persname corresp=\"#pers_嘉納治五郎\">\n<surname> 嘉納 </surname>\n<forename> 治五郎 </forename>\n</persname> 氏ノ来訪ニ接シ、又 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 氏ト談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニテ夜飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿シ、夜、新聞紙雑誌類ヲ読マシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

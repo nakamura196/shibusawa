@@ -1,0 +1,73 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-04-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 老人ノ病ヲ訪フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 外務省ニ抵リ <persname corresp=\"#pers_青木\">\n<surname> 青木 </surname>\n</persname> 大臣ノ紹介ニヨリテ <placename corresp=\"#place_ベルギー\"> 白耳義国 </placename>\n       ヨリ渡航セシウオートルド・プリンテール氏ニ面会ス、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 氏モ来会ス、ウオートルド・プリンテール氏ハ <placename corresp=\"#place_ベルギー\"> 白国 </placename>\n       ニ於テ東洋組合ト名称スル一会社ヲ白耳義国人及独仏英人等ニ《（テ脱カ）》創立シ、其会社ノ目的ハ <placename corresp=\"#place_支那\"> 支那 </placename>\n<placename corresp=\"#place_福州市\"> 福州 </placename> ヨリ <placename corresp=\"#place_漢口\"> 漢口\n       </placename> ニ至ルノ鉄道布設ニ関シ資金供給ニ在リテ、同氏ハ其委員トシテ出張セシ要旨ヲ陳述セラル、依テ <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname>\n       氏ト共ニ曾テ企図シタル日清銀行ニ関シ資金供給ノ事ヲ談セシニ、同氏ハ之ヲ望ムモ権限外ノ事務ナルヲ以テ、其要点ヲ書記シテ本国ヘ照知シテ後答申シタシトノ事ナリ、談話数刻ニシテ他日ヲ約シテ去ル、\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 26.07111,
+                    "lon": 119.30361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_横山\">\n<surname> 横山 </surname>\n</persname> 、 <persname corresp=\"#pers_今村\">\n<surname> 今村 </surname>\n</persname> 諸氏ト会シテ、同会社ニ於テ雇傭スヘキ外国人ノ撰定ヲ <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏ニ托スル事ヲ協議ス、畢テ宮内省ニ抵リ <persname corresp=\"#pers_渡辺千秋\">\n<surname> 渡辺 </surname>\n<forename> 千秋 </forename>\n</persname> 氏ニ面会シテホテルノ事ヲ談話ス、午後日本鉄道会社重役会ニ出席ス、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス、此夜 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏夫妻及 <persname corresp=\"#pers_幸子\">\n<forename> 幸子 </forename>\n</persname> 、 <persname corresp=\"#pers_穂積八束\">\n<surname> 穂積 </surname>\n<forename> 八束 </forename>\n</persname> 、 <persname corresp=\"#pers_白石元次郎\">\n<surname> 白石 </surname>\n<forename> 元次郎 </forename>\n</persname> 夫妻《（ <persname corresp=\"#pers_白石元治郎\">\n<surname> 白石 </surname>\n<forename> 元治郎 </forename>\n</persname> ）》、 <persname corresp=\"#pers_西園寺亀次郎\">\n<surname> 西園寺 </surname>\n<forename> 亀次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_清水泰吉\">\n<surname> 清水 </surname>\n<forename> 泰吉 </forename>\n</persname> 諸氏ヲ会シテ夜餐ス、賓主得意ノ雑談ヲ尽シ夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1900-04-28T00:00+0900\"> 十二時 </time> 散会ス\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

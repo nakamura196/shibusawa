@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-12-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝、 <placename corresp=\"#place_黄賓\"> 黄賓 </placename> 行之儀ニ付、 <persname corresp=\"#pers_井坂泉太郎\">\n<forename> 泉太郎 </forename>\n</persname> 申談いたす <lb></lb> ヒストル三四挺、銀時計五ツ計御買上之積申談有之 <lb></lb> 荷物調分いたす、三ツ井手代来る、金子受取、 <persname corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n<forename> 愛蔵 </forename>\n</persname> 来、黄行之儀申談、明後 <date type=\"旧暦\" when=\"1868-12-27\"> 十四日 </date> 出立之積申談、諸勘定いたす <lb></lb>\n<persname corresp=\"#pers_吉田次郎\">\n<surname> 吉田 </surname>\n<forename> 次郎 </forename>\n</persname> 来、仏行書状之儀申談 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

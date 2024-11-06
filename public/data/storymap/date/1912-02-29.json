@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-02-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、半身浴ヲナシテ朝飧ヲ食ス、二三ノ電話ヲ通シテ後、日記ヲ編成ス、 <placename corresp=\"#place_川越\"> 川越 </placename> 喜多院住職来訪ス、星岳保勝会寄附金ニ関シ不取締ノ行為アリシニ付種々ノ談話ヲ為シテ之ヲ矯正スル事ヲ告ク、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_高輪\"> 高輪 </placename> ニ <persname corresp=\"#pers_森村\">\n<surname> 森村 </surname>\n</persname> 氏ヲ訪問シ、又、 <persname corresp=\"#pers_原六郎\">\n<surname> 原 </surname>\n<forename> 六郎 </forename>\n</persname> 氏ノ病ヲ見舞ヒ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6385306,
+                    "lon": 139.737167,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 過 <persname corresp=\"#pers_渋沢敦子\">\n<forename> 敦子 </forename>\n</persname> ノ僑居ニ抵リテ午飧ス、帰途 <placename corresp=\"#place_三田\"> 三田 </placename> ニ <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 公爵ヲ訪ヒ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ重役会ヲ開ク、要件ヲ議決ス、畢テ事務所ニ抵リテ書類ヲ整理ス、又、来人ト談話ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\">\n        六時半 </time> 帰宿シ、夜飧後、新聞紙ヲ読ミ又雑誌ヲ一覧ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-04-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ浦賀船渠会社ニ関スル改良策ヲ協議ス、 <persname corresp=\"#pers_渡辺治右衛門\">\n<surname> 渡辺 </surname>\n<forename> 治右衛門 </forename>\n</persname> 、 <persname corresp=\"#pers_佐々木慎思郎\">\n<surname> 佐々木 </surname>\n<forename> 慎思郎 </forename>\n</persname> 、 <persname corresp=\"#pers_富岡信次郎\">\n<surname> 富岡 </surname>\n<forename> 信次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_早崎源吾\">\n<surname> 早崎 </surname>\n<forename> 源吾 </forename>\n</persname> ノ諸氏来会ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ於テ午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<placename corresp=\"#place_向島\"> 向島 </placename>\n<orgname> 八百松楼 </orgname> ニ抵リ深川鷗盟会総会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<placename corresp=\"#place_浅草\"> 浅草 </placename>\n<placename corresp=\"#place_堀田原\"> 堀田原 </placename> ニ抵リ <persname corresp=\"#pers_須藤時一郎\">\n<surname> 須藤 </surname>\n<forename> 時一郎 </forename>\n</persname> 氏ノ病ヲ訪ヒ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7118833,
+                    "lon": 139.7966806,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 飛鳥山 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

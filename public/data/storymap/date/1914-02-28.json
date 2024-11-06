@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-02-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、静坐入浴シテ後朝飧ヲ食ス、畢テ数多ノ来人ニ接ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時\n       </time> 帝国劇場ニ抵リ、株主総会ヲ開キ計算書ノ承認、利益金分配ノ事ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n<placename corresp=\"#place_春樹街\"> 春樹《（街脱）》 </placename> ニ抵リテ午飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時\n       </time> 事務所ニ抵リ御伝記編纂ノ批評会ニ列席ス、 <persname corresp=\"#pers_松本丞治\">\n<surname> 松本 </surname>\n<forename> 丞治 </forename>\n</persname> 、 <persname corresp=\"#pers_馬場えい一\">\n<surname> 馬場 </surname>\n<forename> 鍈一 </forename>\n</persname> ノ二氏来リ、百科辞典ノ事ヲ談ス、 <persname corresp=\"#pers_小山久左衛門\">\n<surname> 小山 </surname>\n<forename> 久左衛門 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_藤田\">\n<surname> 藤田 </surname>\n</persname> 男爵来訪セラル、 <placename corresp=\"#place_中国\"> 中国 </placename> 興業会社 <persname corresp=\"#pers_倉知\">\n<surname> 倉知 </surname>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 頃ヨリ批評会ニ於テ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半\n       </time> 夜飧後階上ニ於テ囲碁会アリ、此日、 <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 公爵、 <persname corresp=\"#pers_勝海舟\">\n<surname> 勝 </surname>\n</persname> 伯爵、 <persname corresp=\"#pers_豊崎\">\n<surname> 豊崎 </surname>\n</persname> 家令、 <persname corresp=\"#pers_三上\">\n<surname> 三上 </surname>\n</persname>\n<persname corresp=\"#pers_萩野\">\n<surname> 萩野 </surname>\n</persname> 及編輯局員皆来会ス、 <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> ノ両顧問モ来会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過帰宅、後、新聞紙類ヲ一覧ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-07-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、雨歇ミタレトモ雲多シ、殊ニ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       出立ノ頃ヨリ冷気更ニ増シテ寧ロ寒冷ヲ覚フ、航行ハ安静ナルヲ以テ終日読書ト散歩トニ勉ム <lb></lb> （欄外） <lb></lb> ■■[img図]〓■ <date evidence=\"year inferenced, month\" when=\"1902-07-08\"> 八日 </date> 夜船中ニ於テ乗客中ノ催シニ係ル音楽会アリ、\n        <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 、 <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 及 <persname corresp=\"#pers_西河\">\n<surname> 西河 </surname>\n</persname> 嬢等皆出席シテ演技ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

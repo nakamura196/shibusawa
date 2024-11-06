@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-02-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、病尚未タ愈ヘス、褥中ニ在テ摂養ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time>\n       朝飧ヲ食ス、後、新聞紙ヲ一覧ス、 <persname corresp=\"#pers_穂積律之助\">\n<surname> 穂積 </surname>\n<forename> 律之助 </forename>\n</persname> 来リ身上修学ノ事ヲ談ス、昨夜一覧セシ先賢墨蹟所蔵ノ来由ヲ記シテ <persname corresp=\"#pers_穂積歌子\">\n<forename> 歌子 </forename>\n</persname> ニ一覧セシムル為メニ、墨蹟ト共ニ <persname corresp=\"#pers_穂積律之助\">\n<forename> 律之助 </forename>\n</persname> ニ托シ遣ス、 <persname corresp=\"#pers_増田明六\">\n<surname> 増田 </surname>\n<forename> 明六 </forename>\n</persname> 来リ書類ヲ持参ス、一覧シテ之ヲ処分セシム、 <persname corresp=\"#pers_見山\">\n<surname> 見山 </surname>\n</persname>\n<placename corresp=\"#place_東京\"> 東京 </placename> 市吏員来リ、 <placename corresp=\"#place_アメリカ合衆国\">\n        米国 </placename> 観光団 <date evidence=\"year inferenced, month\" when=\"1910-02-28\"> 本月二十八日\n       </date> ヲ以テ歓迎会開催ノ事ヲ告ク、依テ其手続ヲ <persname corresp=\"#pers_増田\">\n<surname> 増田 </surname>\n</persname> ヲ以テ談話セシム、ルーズ氏ノ日記ニ関スル添書ノ文案ヲ修正シテ、 <persname corresp=\"#pers_増田\">\n<surname> 増田 </surname>\n</persname> ヲ以テ <persname corresp=\"#pers_水野\">\n<surname> 水野 </surname>\n</persname> 氏ニ協議セシム、夕方ヨリ揮毫ニ従事セシカ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n       頃発熱シテ気分悪シキヲ以テ寝ニ就キ発汗ニ努ム、夜ニ入リテ稍快方ヲ覚フ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

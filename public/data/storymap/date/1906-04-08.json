@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-04-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後、 <persname corresp=\"#pers_松井吉太郎\">\n<surname> 松井 </surname>\n<forename> 吉太郎 </forename>\n</persname> 氏ノ来訪ニ接シ、六十九、長岡両銀行合併ノ事ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 朝飧、畢テ <persname corresp=\"#pers_島田蕃根\">\n<surname> 島田 </surname>\n<forename> 蕃根 </forename>\n</persname> 氏父子ノ来訪ニ接ス、 <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 氏来リ <orgname> 人造肥料会社 </orgname> ノ事ヲ談ス、 <persname corresp=\"#pers_江間政発\">\n<surname> 江間 </surname>\n<forename> 政発 </forename>\n</persname> 来話ス、午飧後 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リテ、 <persname corresp=\"#pers_三好\">\n<surname> 三好 </surname>\n</persname> 、 <persname corresp=\"#pers_福地\">\n<surname> 福地 </surname>\n</persname> 二氏ヘノ書状ヲ認メ、又 <persname corresp=\"#pers_江木\">\n<surname> 江木 </surname>\n</persname> 熊本県知事ヘ来状ノ回答ヲ発ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> ニ抵リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 過\n        <placename corresp=\"#place_向島\"> 向島 </placename> ニ於テ <orgname> 日本銀行 </orgname> 端艇競争会ニ出席シ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 過 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏別邸ニ抵リシフ氏招宴ノ会ニ出席ス、酒間種々ノ余興アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1906-04-09T00:00+0900\"> 十二時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、此日、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 邸ノ宴会ニハ <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> モ同席シテ夜共ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-01-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、静坐入浴ヲ畢テ朝飧ヲ食ス、 <persname corresp=\"#pers_成瀬仁蔵\">\n<surname> 成瀬 </surname>\n<forename> 仁蔵 </forename>\n</persname> 氏来話ス、外ニ一二ノ来客アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時半 </time> 内閣ニ抵リ、 <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 総理大臣ニ面会シテ <placename corresp=\"#place_東北地方\"> 東北 </placename> 凶作、 <placename corresp=\"#place_九州\"> 九州 </placename> 噴火ノ災害ニ付救済会設立ノ事ヲ具陳シ、援助ヲ求ム又、 <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> 宮相ヲ詰所ニ訪フテ、救済会ニ帝室ヨリ御下賜金ノ事ヲ請願ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 33.0,
+                    "lon": 131.0,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 過キ衆議院図書館ニ抵リ、\n        <persname corresp=\"#pers_大岡\">\n<surname> 大岡 </surname>\n</persname> 、 <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 其他ノ来会者ト救済会ノ事ヲ協議ス、 <persname corresp=\"#pers_高崎親章\">\n<surname> 高崎 </surname>\n<forename> 親章 </forename>\n</persname> 氏ニ <placename corresp=\"#place_大阪\"> 大阪 </placename> 地方勧誘ノ事ヲ談シ、又、 <persname corresp=\"#pers_松方厳\">\n<surname> 松方 </surname>\n<forename> 厳 </forename>\n</persname> 氏《（ <persname corresp=\"#pers_松方巌\">\n<surname> 松方 </surname>\n<forename> 巌 </forename>\n</persname> 氏）》ニ侯爵ヘノ伝言ヲ依頼ス、午飧後教育調査会ニ抵リ委員会ニ参列ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 日仏銀行ニ抵リ\n        <persname corresp=\"#pers_渡邊千冬\">\n<surname> 渡辺 </surname>\n<forename> 千冬 </forename>\n</persname> 氏ト会話ス、後、 <orgname> 第一銀行 </orgname> ニ於テ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト行務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 事務所ニ於テ、 <persname corresp=\"#pers_川田鉄弥\">\n<surname> 川田 </surname>\n<forename> 鉄弥 </forename>\n</persname> 、 <persname corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persname> 、 <persname corresp=\"#pers_山本条太郎\">\n<surname> 山本 </surname>\n<forename> 条太郎 </forename>\n</persname> ノ諸氏ト会話シ、且庶務ヲ処理シ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

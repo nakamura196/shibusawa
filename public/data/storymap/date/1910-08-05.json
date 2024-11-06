@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-08-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "04:30:00",
+                    "text": "<time when=\"04:30:00\"> 午前四時半 </time> 起床、直ニ朝飧ヲ食ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 六時 </time>\n<placename corresp=\"#place_軽井沢\"> 軽井沢 </placename> ヲ発シ、 <placename corresp=\"#place_小諸市\"> 小諸\n       </placename> 、 <placename corresp=\"#place_上田\"> 上田 </placename> 、 <placename corresp=\"#place_長野\"> 長野 </placename> 等ヲ経テ <placename corresp=\"#place_北越\"> 北越 </placename>\n       ニ入ル、 <placename corresp=\"#place_上田\"> 上田 </placename> 、 <placename corresp=\"#place_長野\"> 長野\n       </placename> ニハ女学生来リ迎フ、 <placename corresp=\"#place_北越\"> 北越 </placename> ニ入リテヨリ来リ迎フル者更ニ多シ、\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 36.3275,
+                    "lon": 138.4258,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_柏崎\"> 柏崎 </placename> ニ抵リ車ヲ下リ、天京ト云フ旅亭ニテ午飧ス、 <persname corresp=\"#pers_松井\">\n<surname> 松井 </surname>\n</persname> 、 <persname corresp=\"#pers_内藤\">\n<surname> 内藤 </surname>\n</persname> 、 <persname corresp=\"#pers_牧口\">\n<surname> 牧口 </surname>\n</persname> 、其他多数ノ人士来リ迎フ、 <pb corresp=\"#pageB1635\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/661/full/max/0/default.jpg\" n=\"B1635\" source=\"#pageB1635\"></pb> 食後、女子高等学校ヲ一覧ス、畢テ地方人士ノ催ス処ノ歓迎会ニ出席ス、一場ノ謝詞ヲ述フ、宴畢テ事ヲ馳テ、鯨波ナル\n        <persname corresp=\"#pers_牧口\">\n<surname> 牧口 </surname>\n</persname> 義矩氏ノ別荘ニ抵リテ止宿ス <lb></lb> 別荘ハ海ニ面スル断崖ノ上ニアリ、眺望佳絶ナリ、且、主人能ク客ヲ遇シテ款待甚努ム <lb></lb>\n       此日、女学校ニテ揮毫ノ依頼アリ、十数枚ヲ書ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

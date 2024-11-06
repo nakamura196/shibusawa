@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-05-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前新潟支店主任 <persname corresp=\"#pers_松井吉太郎\">\n<surname> 松井 </surname>\n<forename> 吉太郎 </forename>\n</persname> 来ル、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 、 <persname corresp=\"#pers_清水泰吉\">\n<surname> 清水 </surname>\n<forename> 泰吉 </forename>\n</persname> 、 <persname corresp=\"#pers_前川益以\">\n<surname> 前川 </surname>\n<forename> 益以 </forename>\n</persname> 来リ稷山鉱業ニ関スル要件ヲ協議ス、畢テ <persname corresp=\"#pers_松井\">\n<surname> 松井 </surname>\n</persname> 氏ト共ニ午餐シ、北越石油事業ニ関スル談話アリ、 <persname corresp=\"#pers_楠本\">\n<surname> 楠本 </surname>\n</persname> 男爵来ル、蔵相云々ノ事ヲ勧誘セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<persname corresp=\"#pers_益田克徳\">\n<surname> 益田 </surname>\n<forename> 克徳 </forename>\n</persname> 、 <persname corresp=\"#pers_伊藤半次郎\">\n<surname> 伊藤 </surname>\n<forename> 半次郎 </forename>\n</persname> 来ル、博覧会出品組合計算処分ノ事ヲ談ス、夕方ヨリ書類ヲ整理ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

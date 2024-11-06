@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-01-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、室内ノ運動ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ畢ル、\n        <placename corresp=\"#place_東京\"> 東京 </placename> ヨリ携帯セシ銀行通信録ニ掲載スヘキ経済意見ノ草案ヲ一覧シ、大ニ之ヲ修正シテ\n        <placename corresp=\"#place_東京\"> 東京 </placename> 事務所 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> 宛ノ書状ト共ニ之ヲ発送ス、且三重、大坂両紡績会社ヨリノ来状ヲモ封入ス <lb></lb> 三重紡績会社 <persname corresp=\"#pers_伊藤伝七\">\n<surname> 伊藤 </surname>\n<forename> 伝七 </forename>\n</persname> 、大坂紡績会社 <persname corresp=\"#pers_佐々木清麿\">\n<surname> 佐々木 </surname>\n<forename> 清麿 </forename>\n</persname> ヘ書状ヲ発ス、蓋シ来状ニ対スル回答ナリ <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 過ヨリ郊外散歩ヲ試ム、長生館ノ裏山ニ沿フテ田歩《（圃）》ヲ横リ市街ニ出テ鴫立沢ニ抵リ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 過帰宿ス、 <placename corresp=\"#place_東京\"> 東京 </placename>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> フレークヨリ電報アリテ <date evidence=\"year inferenced, month\" when=\"1905-01-07\"> 七日 </date>\n       ニ祝賀会ヲ開ク事ヲ請ヘ来ル、即時同意ノ回答ヲ発ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:30:00",
+                    "text": "<time when=\"16:30:00\"> 四時半 </time> 入浴、畢テ読書ス、夜飧後モ読書ニ消閑ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,93 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-05-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後身体ヲ摩擦シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 七時半 </time> 朝飧ヲ畢ル、三重紡績会社 <placename corresp=\"#place_名古屋\"> 名古屋 </placename> 、 <placename corresp=\"#place_尾張国\"> 尾張 </placename> 両分工場主任 <persname corresp=\"#pers_服部\">\n<surname> 服部 </surname>\n</persname> 、 <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> 両技師来訪セラル、共ニ庭園ヲ散歩ス、 <orgname> 女子大学 </orgname>\n<persname corresp=\"#pers_井上秀\">\n<surname> 井上 </surname>\n<forename> 秀 </forename>\n</persname> 来話ス、桜楓会ノ事ヲ談話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.2547944,
+                    "lon": 136.7999472,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 飛鳥山 </placename> ニ抵リ陸軍凱旋歓迎会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時\n       </time> 式畢テ帰宅シ、午飧後 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ <placename corresp=\"#place_上野\"> 上野 </placename>\n<orgname> 精養軒 </orgname> ニ抵リ、 <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 、 <persname corresp=\"#pers_高田\">\n<surname> 高田 </surname>\n</persname> 両氏ヨリ招宴セラレタル園遊会ニ出席ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ書類ヲ検閲ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<orgname> 東京商業会議所 </orgname> ニ抵リ喜賓会評議員会ヲ開ク、 <persname corresp=\"#pers_蜂須賀\">\n<surname> 蜂須賀 </surname>\n</persname> 其他ノ諸氏来会ス、畢テ人形町ニ抵リ夜飧ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過 <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス、商業会議所ニ於テ喜賓会開会前 <persname corresp=\"#pers_塩屋方圀\">\n<surname> 塩屋 </surname>\n<forename> 方国 </forename>\n</persname> 氏来リテ水産会社設立ニ関シ創立委員撰定ノ協議ヲ為ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

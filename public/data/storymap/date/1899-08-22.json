@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-08-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏来話ス、午後時事新報記者 <persname corresp=\"#pers_矢野由次郎\">\n<surname> 矢野 </surname>\n<forename> 由次郎 </forename>\n</persname> 来ル、九州鉄道会社ノ事ニ関シ意見ヲ詢ハル、依テ其要領ヲ説話ス、蓋シ其新聞紙ニ記載スルカ為メナリ、 <persname corresp=\"#pers_古西為之助\">\n<surname> 古西 </surname>\n<forename> 為之助 </forename>\n</persname> 来ル、氏ハ曾テ <orgname> 石川島造船所 </orgname>\n       電気技師ニ任セシ人ナリ、電気事業ノ拡張ニ関スル意見ヲ述フ、且、目下、氏ハ京都大学ニ入リテ更ニ研究スル所アル由ナリ、夕方 <persname corresp=\"#pers_大熊氏広\">\n<surname> 大熊 </surname>\n<forename> 氏広 </forename>\n</persname> 氏来ル、故 <persname corresp=\"#pers_有栖川宮\">\n<surname> 有栖川宮 </surname>\n</persname> 殿下銅像ノ事ヲ話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<persname corresp=\"#pers_岩崎久弥\">\n<surname> 岩崎 </surname>\n<forename> 久弥 </forename>\n</persname> 氏来ル九州鉄道会社ノ事ニ付テ来ル <date evidence=\"year inferenced, month\" when=\"1899-08-24\"> 廿四日\n       </date> ヲ以テ <placename corresp=\"#place_深川\"> 深川 </placename> 別邸ニ小集ヲ開クニ付来会ノ事ヲ請求セラル、依テ其出席ヲ約ス\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-03-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シテ朝飧ヲ食ス、後、実業ノ <placename corresp=\"#place_日本\"> 日本\n       </placename> 社 <persname corresp=\"#pers_都倉義一\">\n<surname> 都倉 </surname>\n<forename> 義一 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 事務所ニ抵リ、 <persname corresp=\"#pers_大野正\">\n<surname> 大野 </surname>\n<forename> 正 </forename>\n</persname> 氏発明工業ニ関スル合資会社創立ノ事ヲ協議ス、 <persname corresp=\"#pers_大川平三郎\">\n<surname> 大川 </surname>\n<forename> 平三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_近藤陸三郎\">\n<surname> 近藤 </surname>\n<forename> 陸三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_清水釘吉\">\n<surname> 清水 </surname>\n<forename> 釘吉 </forename>\n</persname> 、 <persname corresp=\"#pers_清水一雄\"> 一雄 </persname> 、 <persname corresp=\"#pers_原林之助\">\n<surname> 原 </surname>\n<forename> 林之助 </forename>\n</persname> 氏等来会ス、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ト共ニ定款ノ各条ヲ審議ス、畢テ <orgname> 第一銀行 </orgname> ニ於テ午飧ス、後、行務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\">\n        午後二時 </time>\n<placename corresp=\"#place_浅草\"> 浅草 </placename> 本願寺ノ別院ニ抵リ、 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 氏ノ葬儀ニ参会ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7118833,
+                    "lon": 139.7966806,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 葬式ヲ行ヒ、夫ヨリ <placename corresp=\"#place_谷中\"> 谷中 </placename> 墓地ニ抵リテ埋葬ス、家族及 <persname corresp=\"#pers_石黒\">\n<surname> 石黒 </surname>\n</persname> 、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_園田\">\n<surname> 園田 </surname>\n</persname> 氏会同ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 過埋葬畢リテ <placename corresp=\"#place_王子\">\n        王子 </placename> ニ帰宿ス、夜飧後、書類ヲ調査シ、新聞紙類ヲ読ム <lb></lb> 此日、 <placename corresp=\"#place_桐生\"> 桐生\n       </placename> 織物業有志者数名来訪ス、留守中ニテ面会スルヲ得ス <lb></lb> 此日、午前ノ会合ヲ大野正発明事業ノ為ト記セシハ誤ナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> ヨリ <orgname> 石川島造船所 </orgname> ノ重役一同来会シテ、 <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 氏死後社長ノ人撰ニ付余ニ委托スル所トナレリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

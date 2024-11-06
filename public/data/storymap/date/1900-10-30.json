@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-10-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:20:00",
+                    "text": "<time when=\"06:20:00\"> 午前六時二十分 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 発ノ汽車ニ搭ス、送別ノ為停車場ニ来会スル人数百人、時刻ニ抵リテ発車ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_静岡\"> 静岡 </placename> ニ於テ商工会幹事十数名来リ送ル、午餐ヲ贈ラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<placename corresp=\"#place_名古屋\"> 名古屋 </placename> ニ於テ <persname corresp=\"#pers_湯浅\">\n<surname> 湯浅 </surname>\n</persname> 支配人、 <persname corresp=\"#pers_西条\">\n<surname> 西条 </surname>\n</persname> 氏等来話ス、 <persname corresp=\"#pers_愛野愛三郎\">\n<surname> 愛野 </surname>\n<forename> 愛三郎 </forename>\n</persname> 来《（ <persname corresp=\"#pers_吉野愛三郎\">\n<surname> 吉野 </surname>\n<forename> 愛三郎 </forename>\n</persname> ）》ル、夕餐ヲ贈ラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 午後九時 </time> 西京ニ抵ル、 <persname corresp=\"#pers_中川知一\">\n<surname> 中川 </surname>\n<forename> 知一 </forename>\n</persname> 、 <persname corresp=\"#pers_前田丑太郎\">\n<surname> 前田 </surname>\n<forename> 丑太郎 </forename>\n</persname> 氏等来リ迎フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_大阪\"> 大坂 </placename> ニ抵ル、 <persname corresp=\"#pers_竹山\">\n<surname> 竹山 </surname>\n</persname> 氏来リ迎フ、車中 <persname corresp=\"#pers_松方幸次郎\">\n<surname> 松方 </surname>\n<forename> 幸次郎 </forename>\n</persname> 、 <orgname> 日本郵船会社 </orgname>\n<persname corresp=\"#pers_谷井保\">\n<surname> 谷井 </surname>\n<forename> 保 </forename>\n</persname> 氏等ニ面会ス、共ニ <placename corresp=\"#place_神戸\"> 神戸 </placename> ニ赴ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_神戸\"> 神戸 </placename> 着、西村屋ニ投宿ス、 <persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> 氏其他神戸支店ノ人々来リ迎フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1900-10-31T00:00+0900\"> 十二時 </time> 寝ニ就ク、此夜雨甚多シ\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

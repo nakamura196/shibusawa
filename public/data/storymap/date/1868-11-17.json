@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-11-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<lb></lb> 昨夜より <placename corresp=\"#place_シユマトラ\"> シユマトラ </placename>\n       の海峡を〓行すれは〓行殊に穏かなり、されど風少しく殆炎熱を覚ゆ、午後より <placename corresp=\"#place_シユマトラ\"> シユマトラ </placename>\n       海岸のに《（衍）》添ふて〓行す、時々海辺の樹木及人家抔を認む、夕方より風南に替り、炎熱の苦を忘る、夜に入り電雨来《（雷）》る "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

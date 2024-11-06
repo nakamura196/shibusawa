@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-09-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1156\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/182/full/max/0/default.jpg\" n=\"B1156\" source=\"#pageB1156\"></pb>\n<lb></lb> 朝大風雨、夕晴、午前、 <persname corresp=\"#pers_井上勝\">\n<surname> 井上 </surname>\n<forename> 勝 </forename>\n</persname> 氏来ル、 <orgname> 汽車製造会社 </orgname> ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<placename corresp=\"#place_上野\"> 上野 </placename> ニ抵リ鉄道学校ニ於テ京釜鉄道ノ測量図ヲ見ル、韓国公使 <persname corresp=\"#pers_趙\">\n<surname> 趙 </surname>\n</persname> 氏及 <persname corresp=\"#pers_朴\">\n<surname> 朴 </surname>\n</persname> 其他 <persname corresp=\"#pers_竹内\">\n<surname> 竹内 </surname>\n</persname> 、 <persname corresp=\"#pers_足立\">\n<surname> 足立 </surname>\n</persname> 、 <persname corresp=\"#pers_一森\">\n<surname> 一森 </surname>\n</persname> ノ諸氏来会ス、 <persname corresp=\"#pers_笠井愛次郎\">\n<surname> 笠井 </surname>\n<forename> 愛次郎 </forename>\n</persname> 氏主任技師トシテ説明ヲ為ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 精養軒 </orgname> ニ於テ午餐ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<placename corresp=\"#place_瀬戸物町\"> 瀬戸物町 </placename>\n<persname corresp=\"#pers_古河\">\n<surname> 古河 </surname>\n</persname> 氏ヲ訪フ、蓋シ同氏今日ヲ以テ斬髪ノ式ヲ挙クルヲ以テ、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ト余トヲ其式ニ参加ヲ乞ハレタルニヨリ《（ルカ）》、式畢テ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       ニ帰宅、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ <placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵ル、 <persname corresp=\"#pers_古河\">\n<surname> 古河 </surname>\n</persname> 氏ノ招宴ニ応スル為メナリ、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯夫妻、 <persname corresp=\"#pers_古河\">\n<surname> 古河 </surname>\n</persname> 氏夫婦及店員十数名接伴シテ饗応頗ル鄭重ナリ、謡曲、長歌、常盤津、軍談、落語、三曲及歌妓ノ伎曲等数番アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時\n       </time> 帰宅ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-01-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢リ、 <persname corresp=\"#pers_須永\">\n<surname> 須永 </surname>\n</persname> 氏ト牧場ノ将来ニ関スル談話ヲ為シ、畢テ <placename corresp=\"#place_東京\"> 東京 </placename> ニ於テ落手セシ書類ヲ調査ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 髪ヲ理シ、畢テ <placename corresp=\"#place_東京\"> 東京 </placename>\n       ヘ書状ヲ発ス <lb></lb> 一韓国政府借款ニ関スル昨日外務省ニ於テ <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 公使トノ談話ヲ、詳細ニ <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 氏ヘ報知ノ一封 <lb></lb> 一銀行法改正ニ関スル銀行集会所委員協議ノ決案ヲ大蔵大臣ヘ意見書トシテ開申スル書案ヲ集会所 <persname corresp=\"#pers_戸田宇八\">\n<surname> 戸田 </surname>\n<forename> 宇八 </forename>\n</persname> 氏ヘ通知ノ一封 <lb></lb> 一養育院月報材料ヲ <persname corresp=\"#pers_田中太郎_(社会事業家)\">\n<surname> 田中 </surname>\n<forename> 太郎 </forename>\n</persname> ヘ返却スルニ付、修正セシ理由通知ノ一封 <lb></lb> 一 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> ヨリ <persname corresp=\"#pers_前川益以\">\n<surname> 前川 </surname>\n<forename> 益以 </forename>\n</persname> ノ来状送致ニ付、之ニ対スル回答書ノ一封、但此中ニ堀越商会 <persname corresp=\"#pers_郷隆三郎\">\n<surname> 郷 </surname>\n<forename> 隆三郎 </forename>\n</persname> ヘノ一封ヲモ加封ス <lb></lb> 午後、 <persname corresp=\"#pers_西村勝三\">\n<surname> 西村 </surname>\n<forename> 勝三 </forename>\n</persname> 氏来ル、夜、伝記草案ヲ読ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,89 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-04-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後庭園ヲ散歩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n       大蔵大臣官舎ニ抵リ水曜会ニ出席ス、 <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 、 <persname corresp=\"#pers_高橋\">\n<surname> 高橋 </surname>\n</persname> 《（ <persname corresp=\"#pers_高橋是清\">\n<surname> 高橋 </surname>\n<forename> 是清 </forename>\n</persname> カ）》、 <persname corresp=\"#pers_珍田\">\n<surname> 珍田 </surname>\n</persname> 、 <persname corresp=\"#pers_高橋\">\n<surname> 高橋 </surname>\n</persname> 《（ <persname corresp=\"#pers_高橋新吉\">\n<surname> 高橋 </surname>\n<forename> 新吉 </forename>\n</persname> カ）》等ノ諸氏及大蔵官吏来会ス畢テ農商務省ニ抵リ <persname corresp=\"#pers_和田\">\n<surname> 和田 </surname>\n</persname> 次官ニ面会シ <orgname> 人造肥料会社 </orgname> ノ事ヲ談ス、更ニ警視庁ニ総監ヲ訪フモ不在面会ヲ得ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧シ、畢テ要務ヲ談シ、事務所ニ抵リテ来人ニ接シ書類ヲ調査ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:30:00",
+                    "text": "<time when=\"16:30:00\"> 午後四時三十分 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 発ノ汽車ニテ <placename corresp=\"#place_横浜\"> 横浜\n       </placename> ニ抵リ、 <orgname> 千歳楼 </orgname> ニ於テ、 <persname corresp=\"#pers_石井\">\n<surname> 石井 </surname>\n</persname> 、 <persname corresp=\"#pers_杉田\">\n<surname> 杉田 </surname>\n</persname> 二氏ノ交代ニ関スル披露会ヲ開キ、各銀行者ヲ招宴ス、席上挨拶ヲ為シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過宴散シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 発ノ汽車ニテ帰京、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1906-04-12T00:00+0900\"> 十二時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス <lb></lb> 此日、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\">\n        午後一時 </time> ヨリ <orgname> 女子大学 </orgname> 卒業証書授与及図書館教育部等ノ新築落成式ヲ開ク、一場ノ報告演説ヲ為ス、 <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯其他ノ委員来会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

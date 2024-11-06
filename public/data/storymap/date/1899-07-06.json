@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-07-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 午前、 <persname corresp=\"#pers_内貴甚三郎\">\n<surname> 内貴 </surname>\n<forename> 甚三郎 </forename>\n</persname> 氏来ル、京坂鉄道ノ事ヲ談ス、 <persname corresp=\"#pers_伊藤半次郎\">\n<surname> 伊藤 </surname>\n<forename> 半次郎 </forename>\n</persname> 来訪シテ <placename corresp=\"#place_蘇州\"> 蘇州 </placename> 地方ニ於テ創設スル織物工業ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<placename corresp=\"#place_京都\"> 京都 </placename> 発ノ汽車ニ搭ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time> 頃\n        <placename corresp=\"#place_名古屋\"> 名古屋 </placename> ニテ <persname corresp=\"#pers_伊藤伝七\">\n<surname> 伊藤 </surname>\n<forename> 伝七 </forename>\n</persname> 氏、 <persname corresp=\"#pers_真野愛三郎\">\n<surname> 真野 </surname>\n<forename> 愛三郎 </forename>\n</persname> 両氏車中ニ来話ス、 <persname corresp=\"#pers_湯浅\">\n<surname> 湯浅 </surname>\n</persname> 名古屋支店長来話ス、此夜ハ通シ汽車ニテ函嶺ヲ越ヘ小山ニ抵リテ天明ニ達ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

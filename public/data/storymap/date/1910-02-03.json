@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-02-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、腰湯ヲ為シテ全身ノ入浴ヲ見合ハス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       褥中ニテ朝飧ヲ食ス、学友会幹事 <persname corresp=\"#pers_宮崎一\">\n<surname> 宮崎 </surname>\n<forename> 一 </forename>\n</persname> 氏来リ開会ノ事ヲ談ス、 <persname corresp=\"#pers_穂積律之助\">\n<surname> 穂積 </surname>\n<forename> 律之助 </forename>\n</persname> 来リ身上修学ノ手続ニ関シ種々ノ談話ヲ為ス、午飧前後ニ於テ書類ヲ整理シ、新聞紙ヲ一覧ス、又、演説筆記ヲ修正ス、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 、 <placename corresp=\"#place_大韓民国\"> 韓国\n       </placename> 等ヘ発送ス <pb corresp=\"#pageB1606\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/632/full/max/0/default.jpg\" n=\"B1606\" source=\"#pageB1606\"></pb> ヘキ書状ヲ裁ス <lb></lb>\n<persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス、夜飧後、伊藤公実録ヲ読マシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

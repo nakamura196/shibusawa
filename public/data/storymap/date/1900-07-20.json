@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-07-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前 <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 来ル、肥料会社ノ事ヲ話ス、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 、 <persname corresp=\"#pers_瓜生震\">\n<surname> 瓜生 </surname>\n<forename> 震 </forename>\n</persname> 二氏来ル、東洋会社株式引受ノ事ニ関シ <persname corresp=\"#pers_三井\">\n<surname> 三井 </surname>\n</persname> 、 <persname corresp=\"#pers_岩崎\">\n<surname> 岩崎 </surname>\n</persname> 両家ノ金額ヲ協議ス、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏代 <persname corresp=\"#pers_高島小金治\">\n<surname> 高島 </surname>\n<forename> 小金治 </forename>\n</persname> 氏ハ差支アリテ欠席ス、 <persname corresp=\"#pers_河上謹一\">\n<surname> 河上 </surname>\n<forename> 謹一 </forename>\n</persname> 氏ヘ住友ノ引受高ニ付テ書状ヲ発ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<orgname> 人造肥料会社 </orgname> 株主総会ヲ本社ニ開ク、畢テ午餐ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏新堀邸ニ抵ル、セメント合資会社社員会ヲ開ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 過 <orgname> 第一銀行\n       </orgname> ニ抵リ <persname corresp=\"#pers_三谷三九郎\">\n<surname> 三谷 </surname>\n<forename> 三九郎 </forename>\n</persname> 、 <persname corresp=\"#pers_朝倉鉄之助\">\n<surname> 朝倉 </surname>\n<forename> 鉄之助 </forename>\n</persname> 、 <persname corresp=\"#pers_秋山定輔\">\n<surname> 秋山 </surname>\n<forename> 定輔 </forename>\n</persname> ノ三氏ニ面会シ、 <persname corresp=\"#pers_三谷家政\">\n<surname> 三谷 </surname>\n<forename> 家政 </forename>\n</persname> ノ事ニ関シテ書類ノ取替ハセヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 岩越鉄道会社ニ抵リ重役会ヲ開ク、夜\n        <placename corresp=\"#place_深川\"> 深川 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

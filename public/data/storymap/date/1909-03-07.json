@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-03-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、 <persname corresp=\"#pers_杉山克己\">\n<surname> 杉山 </surname>\n<forename> 克己 </forename>\n</persname> 氏ノ来訪ニ接シテ、 <placename corresp=\"#place_三本木\"> 三本木 </placename> 開墾会社ノ事ヲ談ス、 <persname corresp=\"#pers_松崎蔵之助\">\n<surname> 松崎 </surname>\n<forename> 蔵之助 </forename>\n</persname> 氏来リ、 <orgname> 高等商業学校 </orgname> ニ関スル頃日来ノ事情ヲ談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

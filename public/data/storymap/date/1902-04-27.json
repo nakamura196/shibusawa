@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-04-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 朝飧ヲ畢ル、 <persname corresp=\"#pers_須永伝蔵\">\n<surname> 須永 </surname>\n<forename> 伝蔵 </forename>\n</persname> ニ <placename corresp=\"#place_仙石原\"> 仙石原 </placename> 牧場ノ営業ニ関シテ種々ノ注意ヲ為シ《（スカ）》、\n        <persname corresp=\"#pers_上原豊吉\">\n<surname> 上原 </surname>\n<forename> 豊吉 </forename>\n</persname> 来リテ <persname corresp=\"#pers_作太郎\">\n<forename> 作太郎 </forename>\n</persname> 氏ノ身上ニ関スル談話アリ、 <persname corresp=\"#pers_中井三郎兵衛\">\n<surname> 中井 </surname>\n<forename> 三郎兵衛 </forename>\n</persname> 来ル、王子製紙会社善後ノ策ニ付テ種々ノ談話ヲ為ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.269639,
+                    "lon": 139.01025,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 芝紅葉館ニ抵ル、 <orgname>\n        竜門社 </orgname> 員ヨリ余ノ旅行ヲ送別スル為メナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 先ツ開会ノ趣旨ヲ述ヘ <persname corresp=\"#pers_添田壽一\">\n<surname> 添田 </surname>\n<forename> 寿一 </forename>\n</persname> 氏送別ノ辞ヲ演説ス、最後ニ余ハ留別ノ趣意ヲ以テ三十六年前ノ洋行ト比較シ如何ニ相違セルヤノ点ニ就キ今昔ノ感ヲ述ヘ、且ツ <orgname> 竜門社\n       </orgname> 員一同留守中各其事務ニ勉励セラレタキ事ヲ附言ス、次ニ <persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> 氏一場ノ演説ヲ為ス、夫ヨリ <pb corresp=\"#pageB1235\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/261/full/max/0/default.jpg\" n=\"B1235\" source=\"#pageB1235\"></pb> 余興ニ入リ踊、落語等ニテ一同歓ヲ尽シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

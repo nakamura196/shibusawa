@@ -1,0 +1,100 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-10-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、 <persname corresp=\"#pers_畑弥右衛門\">\n<surname> 畑 </surname>\n<forename> 弥右衛門 </forename>\n</persname> 氏来リ、身上ノ事ヲ談話ス、 <persname corresp=\"#pers_福島甲子三\">\n<surname> 福島 </surname>\n<forename> 甲子三 </forename>\n</persname> 氏来リ、奉祝会ヨリ寄贈スヘキ屏風ノ絵画ニ付種々ノ談話アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、来人ニ接シ又事務ヲ処理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時三十分 </time> 慈恵会ニ抵リ <lb></lb>\n       行啓ヲ奉迎シテ会務ニ関スル会計事務ヲ御前ニ於テ報告ス、式畢テ <placename corresp=\"#place_旧芝離宮恩賜庭園\"> 芝離宮 </placename>\n       ニ抵リ、庭前ニテ茶菓ヲ賜フ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.655,
+                    "lon": 139.759,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_牛込佐土原町\"> 牛込佐土原町 </placename>\n<orgname> 埼玉学生誘掖会 </orgname> 《（砂）》ニ抵リ、寄宿生ノ宣誓ヲ受ク、畢テ要義講習会ヲ開キ一場ノ訓示演説ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\">\n        九時 </time>\n<persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> ノ家ヲ訪ヘ、新夫妻等ト種々ノ談話ヲ為ス、 <persname corresp=\"#pers_渡辺得男\">\n<surname> 渡辺 </surname>\n<forename> 得男 </forename>\n</persname> 氏来ル、 <persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> モ来会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス <lb></lb> 慈恵会及 <placename corresp=\"#place_旧芝離宮恩賜庭園\"> 芝離宮 </placename> ノ茶菓ヲ賜リタル会ニハ <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> モ同伴シ、 <placename corresp=\"#place_牛込\"> 牛込 </placename> ニ抵リテ <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ハ <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿セリ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.655,
+                    "lon": 139.759,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

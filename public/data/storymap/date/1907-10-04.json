@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-10-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝来風邪気ニテ入浴ヲ罷メ、温湯ニテ身体摩擦ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ食ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\">\n        九時 </time> 幸倶楽部ニ抵リ、東洋拓植会社設立《（殖）》ニ関スル要項ヲ協議ス、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 、 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 二侯モ来会ス、畢テ内務省ニ抵リ、会計課長、衛生局長等ニ面会シ要務ヲ談ス、又内蔵寮ニ抵リ、 <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> 地所ニ関シ <persname corresp=\"#pers_渡辺頭\">\n<surname> 渡辺 </surname> 頭 </persname> ト談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧シ、食後数多ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n       事務所ニ抵リテ書類ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 三井集会所ニ抵リ、 <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname>\n<persname corresp=\"#pers_高橋\">\n<surname> 高橋 </surname>\n</persname> 二氏ノ催ニ係ル仏人ヒナール氏招宴ニ出席ス、数番ノ余興アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

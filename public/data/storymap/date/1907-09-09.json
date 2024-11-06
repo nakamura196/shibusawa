@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-09-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後直ニ入浴シ、畢テ日記ヲ編成ス、昨夜 <persname corresp=\"#pers_横山\">\n<surname> 横山 </surname>\n</persname> 氏ヨリ電話ニテ <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname>\n<pb corresp=\"#pageB1470\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/496/full/max/0/default.jpg\" n=\"B1470\" source=\"#pageB1470\"></pb> ノ <placename corresp=\"#place_鹿児島\"> 鹿児島 </placename> 行ハ\n        <placename corresp=\"#place_神戸\"> 神戸 </placename> ヨリ陸行ト定メ、友人ト共ニ出発ノ事ヲ報シ来ル <lb></lb>\n<persname corresp=\"#pers_白岩竜平\">\n<surname> 白岩 </surname>\n<forename> 竜平 </forename>\n</persname> 氏来リテ正隆銀行ニ関スル経過ヲ話ス、依テ深水ヲシテ <orgname> 正金銀行 </orgname> ニ懇談シテ存廃ヲ決スヘキ旨ヲ注意ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time> 朝飧ヲ畢リ、 <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persname> 及 <persname corresp=\"#pers_明石愛子\">\n<forename> 愛子 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢秀雄\">\n<forename> 秀雄 </forename>\n</persname> 等ニ就学ニ関スル訓誡ヲ為ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <placename corresp=\"#place_埼玉県\">\n        埼玉県 </placename> 下水害救済ノ事ヲ、 <persname corresp=\"#pers_高田\">\n<surname> 高田 </surname>\n</persname> 、 <persname corresp=\"#pers_諸井\">\n<surname> 諸井 </surname>\n</persname> 、 <persname corresp=\"#pers_福田\">\n<surname> 福田 </surname>\n</persname> 等ノ諸氏ト協議ス <lb></lb>\n<persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> 、 <persname corresp=\"#pers_久米幸三郎\">\n<surname> 久米 </surname>\n<forename> 幸三郎 </forename>\n</persname> 氏等ノ来訪ニ接ス、仏国人ノ来訪アリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 瓢屋ニ抵リ <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 侯歓迎ノ事ヲ談ス、帝国劇場会社重役一同ヲ会シテ <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 、 <persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 其他ノ諸氏ヲ招宴シ、劇場建築ノ方法ヲ協議ス、俳優数名来会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1907-09-10T00:00+0900\"> 十二時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

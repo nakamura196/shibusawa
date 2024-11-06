@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-12-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝、 <placename corresp=\"#place_神奈川\"> 神奈川 </placename> 御発し、小舟ニ而 <placename corresp=\"#place_品川\"> 品川 </placename> 宿御上陸、御迎の御馬等も罷出居、御乗切ニ而 <placename corresp=\"#place_小石川\">\n        小石川 </placename> 御館御着 <lb></lb>\n<placename corresp=\"#place_フランス\"> 仏国 </placename> より御附添せし御供も、御迎之者御乗馬御供の外は歩行ニ而 <placename corresp=\"#place_小石川\"> 小石川 </placename> 江罷越す <lb></lb>\n       昨夜、元神川調役組頭《（奈脱カ）》、其外新政府御用取扱之者御旅宿江罷出、差上品有之ニ付被下物いたす <lb></lb>\n<persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤太夫 </forename>\n</persname> は朝 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7137833,
+                    "lon": 139.7487556,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:30:00",
+                    "text": "<time when=\"05:30:00\"> 五時半 </time> 頃より <persname corresp=\"#pers_伊東玄伯\">\n<surname> 伊東 </surname>\n<forename> 玄伯 </forename>\n</persname> を尋ね、御供ニ而 <placename corresp=\"#place_東京\"> 東京 </placename>\n       行の申談いたし夫より昨夜申談置し船場ニ而船を雇へ、飛脚船に罷越、荷物請取方取扱第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 頃 <persname corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n<forename> 愛蔵 </forename>\n</persname> 、 <persname corresp=\"#pers_浜中儀左衛門\">\n<surname> 浜中 </surname>\n<forename> 儀左衛門 </forename>\n</persname> 御立払相済しとて飛脚船へ来る、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:30:00",
+                    "text": "<time when=\"16:30:00\"> 四時半 </time> 頃荷物請取済ニ而、 <placename corresp=\"#place_水戸\"> 水戸 </placename> 表より罷出し上乗の者に荷宰領為致、 <pb corresp=\"#pageB1028\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/54/full/max/0/default.jpg\" n=\"B1028\" source=\"#pageB1028\"></pb>\n<persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤太夫 </forename>\n</persname> 外両人は <placename corresp=\"#place_横浜\"> 横賓 </placename> 上陸いたす、夜、 <persname corresp=\"#pers_杉浦譲\">\n<forename> 愛蔵 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤太夫 </forename>\n</persname> 、 <persname corresp=\"#pers_田辺太一\">\n<surname> 田辺 </surname>\n<forename> 太一 </forename>\n</persname> 宿所へ罷越す "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

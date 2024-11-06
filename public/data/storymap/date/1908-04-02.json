@@ -1,0 +1,95 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-04-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、書類ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 午前十時半 </time>\n<orgname> 日本銀行 </orgname> ニ抵リ <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 総裁ニ面話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ要務ヲ談シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 帝国大学 </orgname> ニ抵リ、癌腫研究会ニ出席シ一場ノ祝詞ヲ述ヘ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ於テ米国人ハイデ氏ノ来訪ニ <pb corresp=\"#pageB1503\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/529/full/max/0/default.jpg\" n=\"B1503\" source=\"#pageB1503\"></pb> 接ス、仏国人 <persname corresp=\"#pers_カン\">\n<surname> カン </surname>\n</persname> 氏ノ紹介ニ係レルナリ、畢テ <orgname> 第一銀行 </orgname> ニ抵リ、重役会ヲ開キ要件ヲ議決ス、畢テ再ヒ事務所ニ於テ事務ヲ処理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> ノ家ニ抵リテ夜飧シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス <lb></lb>\n<persname corresp=\"#pers_馬越恭平\">\n<surname> 馬越 </surname>\n<forename> 恭平 </forename>\n</persname> 氏ヨリ来書アリシニヨリ直ニ返書シ、同時ニ <persname corresp=\"#pers_酒匂常明\">\n<surname> 酒匂 </surname>\n<forename> 常明 </forename>\n</persname> 氏ニ書通ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

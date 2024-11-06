@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-01-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 午前八時半 </time> 起床、腰湯ヲ行ヒ、褥中ニテ新聞紙ヲ読ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n       朝飧ヲ食シ、後、 <persname corresp=\"#pers_植村澄三郎\">\n<surname> 植村 </surname>\n<forename> 澄三郎 </forename>\n</persname> 氏ノ来訪ニ接シ、各会社事業ニ関シテ種々談話ス <pb corresp=\"#pageB1653\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/679/full/max/0/default.jpg\" n=\"B1653\" source=\"#pageB1653\"></pb> ル処アリ、又、 <persname corresp=\"#pers_古市公威\">\n<surname> 古市 </surname>\n<forename> 公威 </forename>\n</persname> 氏来話ス、東亜興業会社ノ件ニ付報告セラル且、 <placename corresp=\"#place_東京\"> 東京 </placename>\n       湾築港ニ付詳細ノ事ヲ談ス、午飧後公爵伝記ヲ読ム、又、 <orgname> 高等商業学校 </orgname> ノ卒業二十年祝賀ノ宴ニ於テ演説セシ筆記ヲ修正ス、夜飧後遊戯ニ閑ヲ消ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:30:00",
+                    "text": "<time when=\"23:30:00\"> 十一時半 </time> 就寝 <lb></lb>\n<persname corresp=\"#pers_岸精一\">\n<surname> 岸 </surname>\n<forename> 精一 </forename>\n</persname> 氏《（ <persname corresp=\"#pers_岸清一\">\n<surname> 岸 </surname>\n<forename> 清一 </forename>\n</persname> 氏）》ヨリ水道ニ関スル書状到来ス、依テ電話ニテ落手ノ事ヲ通知ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

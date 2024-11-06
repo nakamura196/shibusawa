@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-03-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シテ朝飧ヲ食ス、 <persname corresp=\"#pers_井口正之\">\n<surname> 井口 </surname>\n<forename> 正之 </forename>\n</persname> 氏ノ来訪ニ接シ、演説筆記上木ノ事ニ付種々ノ談話アリ、又、王子製紙会社創立ノ沿革ニ付歴史ヲ談話ス、 <persname corresp=\"#pers_伊藤半次郎\">\n<surname> 伊藤 </surname>\n<forename> 半次郎 </forename>\n</persname> 氏来リ稲荷神社ノ幟ヲ揮毫スル事ヲ乞ハル、 <persname corresp=\"#pers_畔田明\">\n<surname> 畔田 </surname>\n<forename> 明 </forename>\n</persname> 氏来訪、身事ヲ談話ス、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 氏来リ養育院ノ事ヲ談ス <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏来訪、海外航路ノ改革方法ニ付種々ノ意見ヲ陳ヘラル、 <persname corresp=\"#pers_田中保次郎\">\n<surname> 田中 </surname>\n<forename> 保次郎 </forename>\n</persname> 氏来話ス、午飧後 <orgname> 第一銀行 </orgname> ニ抵リ重役会ヲ開キ要件ヲ議決ス、畢テ来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 事務所ニ抵リ庶務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 、 <persname corresp=\"#pers_成瀬\">\n<surname> 成瀬 </surname>\n</persname> 、 <persname corresp=\"#pers_姉崎\">\n<surname> 姉崎 </surname>\n</persname> 二氏来リ帰一協会ノ事ヲ談ス、 <persname corresp=\"#pers_成瀬\">\n<surname> 成瀬 </surname>\n</persname> 氏欧米旅行中ノ経過ヲ談ス、 <persname corresp=\"#pers_三島\">\n<surname> 三島 </surname>\n</persname> 子爵来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 、 <persname corresp=\"#pers_成瀬\">\n<surname> 成瀬 </surname>\n</persname> 、 <persname corresp=\"#pers_姉崎\">\n<surname> 姉崎 </surname>\n</persname> 二氏ト共ニ帝国劇場ニ抵リ観劇ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿、後、新聞紙ヲ一覧ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

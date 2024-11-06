@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-08-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴後外出散歩ヲ試ム、雲霧深クシテ眼前ヲモ弁シ難シ、朝飧後書類ヲ一覧ス、午飧畢テ後、 <placename corresp=\"#place_宮ノ下\"> 宮ノ下 </placename> ヨリ <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 夫婦及児童悉ク来会ス、 <persname corresp=\"#pers_本山七郎兵衛\">\n<surname> 本山 </surname>\n<forename> 七郎兵衛 </forename>\n</persname> 、 <persname corresp=\"#pers_大須賀\">\n<surname> 大須賀 </surname>\n</persname> 某同伴ス、種々ノ談話アリテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 過 <placename corresp=\"#place_宮ノ下\"> 宮ノ下 </placename> ニ帰ル、夕方ヨリ雨トナリ終夜小雨アリ <lb></lb>\n<placename corresp=\"#place_東京\"> 東京 </placename>\n<persname corresp=\"#pers_福地源一郎\">\n<surname> 福地 </surname>\n<forename> 源一郎 </forename>\n</persname> 書状来ル、 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> ヨリ書状来ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

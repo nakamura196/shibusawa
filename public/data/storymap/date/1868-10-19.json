@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-10-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 弐十弐フラ八十サ <persname corresp=\"#pers_山高信離\">\n<surname> 山高 </surname>\n</persname> 分荷物三ツ分 <placename corresp=\"#place_パリ\"> 巴里 </placename> より <placename corresp=\"#place_マルセイユ\"> 馬港 </placename> 迄 <lb></lb> 壱フラ　　　　　　　　　　　　　　　　コンネスマン <lb></lb> 百八十九フラ四十五サ\n        <placename corresp=\"#place_馬港\"> 馬港 </placename> より <placename corresp=\"#place_横浜\"> 横浜\n       </placename> 迄運賃 <lb></lb> 〆 <lb></lb>\n<date evidence=\"year inferenced\" type=\"旧暦\" when=\"1868-10-19\"> 九月四日 </date>\n       飛脚船会社払　　　　　　　　　　　　　　　　　　　　荷物運賃残 <lb></lb> 一　九百九十七フラ三十五サ　　　　　　惣勘定差引残 <lb></lb>\n<persname corresp=\"#pers_コロネル\">\n<surname> コロネル </surname>\n</persname> 渡教師被下 <lb></lb> 一　五百フラク　　　　　　　　　　　　但同人書状を以願出ニ付 <lb></lb> 同人渡 <lb></lb>\n       一　四百八拾フラク　　　　　　　　　　御旅行中御入用 <lb></lb> 同人御立替之分 <lb></lb>\n<placename corresp=\"#place_ビアリッツ\"> ヒヤリイト </placename> より <placename corresp=\"#place_馬港\"> 馬港\n       </placename> 之処迄 <lb></lb> 一　百フラク　　　　　　　　　　　　　同人 <placename corresp=\"#place_パリ\"> 巴里 </placename>\n       帰途入用 <lb></lb> 一　六拾フラク　　　　　　　　　　　　御傘壱本、敷物壱枚 <lb></lb> 馬港ニ而 <lb></lb> 一　千八百フラク　　　　　　　　　　　トルラル英貨に為替いたす\n       <lb></lb> 一　九拾フランク　　　　　　　　　　　倚子五《（椅）》ツ　　壱ツ <lb></lb> 一　七百フラク　　　　　　　　　　　　船中ニ而小遣被下 <lb></lb>\n<date evidence=\"year inferenced\" type=\"旧暦\" when=\"1868-10-19\"> 九月四日 </date>\n<lb></lb> 一　三拾フラク <placename corresp=\"#place_馬港\"> 馬港 </placename> 客舎小遣酒代 <lb></lb>\n<date evidence=\"year inferenced\" type=\"旧暦\" when=\"1868-10-21\"> 九月六日 </date>\n<placename corresp=\"#place_メッシーナ\"> メシーナ </placename>\n<lb></lb> 一　弐十フラク　　　　　　　　　　　　珊瑚枝壱本 <lb></lb> 一　八フラク　　　　　　　　　　　　　御上陸船賃 <lb></lb> 一　六フラク <persname corresp=\"#pers_菊池平八郎\">\n<forename> 平八郎 </forename>\n</persname>\n<lb></lb> 朝 <persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤太夫 </forename>\n</persname> 飛脚船会社江罷越、船部屋及荷物積入等之儀引合、賃銭残相渡す、夫より御買上物いたし罷帰る <lb></lb> 第 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 48.86223,
+                    "lon": 2.351074,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時\n       </time> 頃市中御遊覧、 <persname corresp=\"#pers_コロネル\"> コロネル </persname> 、 <persname corresp=\"#pers_伊東玄伯\">\n<forename> 玄伯 </forename>\n</persname> 等御供、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 午餐、午餐写真御写真御越《（後脱カ）》《（ニカ）》、 <persname corresp=\"#pers_コロネル\">\n<surname> コロネル </surname>\n</persname> 御供、夫より <persname corresp=\"#pers_コロネル\">\n<surname> コロネル </surname>\n</persname> 市尹役所江為御挨拶御名 <pb corresp=\"#pageB1009\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/35/full/max/0/default.jpg\" n=\"B1009\" source=\"#pageB1009\"></pb> 札持参罷越す、 <persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤太夫 </forename>\n</persname> 御買上物御用飛脚船諸引合向等いたす <lb></lb> 教師より <persname corresp=\"#pers_コロネル\">\n<surname> コロネル </surname>\n</persname> 江書状を以願出ニ付五百フラ被下、 <persname corresp=\"#pers_ジユリイ\"> ジユリイ </persname> 召使之儀ニ付名代人罷出□□\n        <persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤太夫 </forename>\n</persname> 引合差帰《（候間カ）》す <lb></lb> 第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 御乗船、 <persname corresp=\"#pers_コロネル\"> コロネル </persname> も御船迄御供いたす <lb></lb>\n       御船はペリユーズといふ飛船なり、此日朝より雷雨にて、殊風烈しく波濤はけしく、一同海疾なるへくと更に快然の想なし、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n       頃より細雨来る、御附添 <persname corresp=\"#pers_コロネルビレツト\"> コロネルビレツト </persname> 御暇申上引取、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:10:00",
+                    "text": "<time when=\"19:10:00\"> 七時十分 </time> 発釘《（〓）》せり夜中船少しく動揺せしが思ひしよりは安かりし "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

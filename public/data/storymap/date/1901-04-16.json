@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-04-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、午前二三ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<placename corresp=\"#place_横浜\"> 横浜 </placename> 行ノ汽車ニ搭シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n       過キ同地 <orgname> 第一銀行 </orgname> 支店ニ抵ル、 <persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢作太郎\">\n<surname> 渋沢 </surname>\n<forename> 作太郎 </forename>\n</persname> 、書上、 <persname corresp=\"#pers_桃井\">\n<surname> 桃井 </surname>\n</persname> 等来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 相携テ海岸グランドホテルニ抵リテ午餐ス、食事後廿七番館 <persname corresp=\"#pers_ミッチヨル\"> ミッチヨル </persname> 氏、 <orgname> イリス商会 </orgname>\n<persname corresp=\"#pers_ホルム\">\n<surname> ホルム </surname>\n</persname> 氏、香上銀行等ヲ訪問シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> ノ汽車ニテ帰京ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\">\n        六時 </time> 偕楽園ニ抵リ、 <persname corresp=\"#pers_高松豊吉\">\n<surname> 高松 </surname>\n<forename> 豊吉 </forename>\n</persname> 氏、 <persname corresp=\"#pers_益田克徳\">\n<surname> 益田 </surname>\n<forename> 克徳 </forename>\n</persname> 氏ト共ニ会食ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_深川\"> 深川 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

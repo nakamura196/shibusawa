@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-07-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シ、畢テ日記ヲ編成ス、新東洋雑誌記者二人来訪アリシモ面会ヲ謝絶ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ食ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n       三井集会所ニ抵リ、日清興業会社設立ノ事ニ関シ協議会ヲ開ク、畢テ <orgname> 東京商業会議所 </orgname> ニ抵リ午飧シ、後、 <orgname> 東京瓦斯会社\n       </orgname> 株主総会ニ出席シ、一場ノ告別演説ヲ為ス、畢テ <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 侯爵ヲ <placename corresp=\"#place_三田\"> 三田 </placename> 私邸ニ訪ヒ、 <orgname> 汽車製造会社\n       </orgname> ノ事及日清興業会社創立ニ関スル手続ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <persname corresp=\"#pers_大野\">\n<surname> 大野 </surname>\n</persname> 、 <persname corresp=\"#pers_松下\">\n<surname> 松下 </surname>\n</persname> 二氏ノ来訪ニ接ス、又、書類ヲ調査ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿シ、 <persname corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persname> 氏其他来会シテ、 <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢秀雄\">\n<forename> 秀 </forename>\n</persname> 等ノ修学ニ関シテ種々ノ談話ヲ為ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

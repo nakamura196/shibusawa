@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-10-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後入浴シ、畢テ朝飧ヲ食ス、食後二三ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ事務ヲ処理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時\n       </time> 偕楽園ニ抵リ、満洲興業会社重役会ニ出席ス、畢テ午飧ヲ共ニシ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n       ヨリ有栖川宮御邸ニ抵リ慈恵会評議会ニ出席シテ要件ヲ議決ス、畢テ <orgname> 東京瓦斯会社 </orgname> ニ抵リ重役会ヲ開キ、更ニ日韓瓦斯会社ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リテ <persname corresp=\"#pers_近藤\">\n<surname> 近藤 </surname>\n</persname> 氏ノ招宴ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time> 退席シ、 <placename corresp=\"#place_上野\">\n        上野 </placename>\n<orgname> 精養軒 </orgname> ニ抵リ、埼玉県知事 <persname corresp=\"#pers_大久保\">\n<surname> 大久保 </surname>\n</persname> 氏及 <persname corresp=\"#pers_湯本\">\n<surname> 湯本 </surname>\n</persname> 、 <persname corresp=\"#pers_竹井\">\n<surname> 竹井 </surname>\n</persname> 、 <persname corresp=\"#pers_田島\">\n<surname> 田島 </surname>\n</persname> 、 <persname corresp=\"#pers_長谷川\">\n<surname> 長谷川 </surname>\n</persname> 諸氏ト会話シ、県下水害救済ノ事ヲ談ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 過 <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

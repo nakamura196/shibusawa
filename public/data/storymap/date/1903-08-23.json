@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-08-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、此日ハ海水ニ入浴セス、朝来書類ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_銚子\"> 銚子 </placename> 発ノ汽車ニテ帰京ノ事ト定メ行李ヲ整頓ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:30:00",
+                    "text": "<time when=\"23:30:00\">\n        十一時半 </time> 旅寓ニテ午飧シ、直ニ腕車ヲ僦フテ <placename corresp=\"#place_銚子\"> 銚子 </placename> 停《（車場脱カ）》ニ抵ル、\n        <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 氏来リ会ス、 <persname corresp=\"#pers_松本\">\n<surname> 松本 </surname>\n</persname> 、 <persname corresp=\"#pers_郷\">\n<surname> 郷 </surname>\n</persname> 二氏及其母来リ送ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 発車、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 午後五時半 </time>\n<placename corresp=\"#place_本所\"> 本所 </placename> 着、直ニ馬車ヲ馳テ <placename corresp=\"#place_麻布\"> 麻布 </placename>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ヲ訪フ、 <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname>\n<orgname> 日本銀行 </orgname> 総裁、 <persname corresp=\"#pers_高橋副総裁\">\n<surname> 高橋 </surname> 副総裁 </persname>\n       来会ス京釜鉄道会社々債ノ事及向後同会社事務進行ノ事ニ関シ種々ノ談話アリ、依テ従来ノ経歴ヲ詳陳シ且愚見ヲ述フ、伯ハ更ニ社債ヲ政府ニテ保証スルニ付テノ方法ヲ熟案シテ再応協議セラルヘキ旨ヲ告ケラル、夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 辞シテ <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename>\n       ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

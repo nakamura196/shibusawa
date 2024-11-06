@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1886-12-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time>\n       客舎ヲ発シ、倉沢ニテ小憩ス、時ニ朝嵐已ニ収テ旭光波ニ映シ海面金漣ヲ漾ス、而シテ富峰銀ノ如ク亦細雲ナシ、眺望甚佳、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_静岡\"> 静岡 </placename> ニ抵リ、大万屋ニ午餐ス、食後 <placename corresp=\"#place_紺屋町\"> 紺屋町 </placename> ニ於テ正二位公ニ謁ス、款話数時、辞シ去テ <placename corresp=\"#place_静岡\">\n        静岡 </placename> ヲ発シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 午後六時半 </time> 、 <placename corresp=\"#place_藤枝\">\n        藤枝 </placename> ニ抵リ銭屋ニ投宿ス、此夕驟雨来リ頃刻ニシテ歇ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

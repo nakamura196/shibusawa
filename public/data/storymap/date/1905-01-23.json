@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-01-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 米国人 <persname corresp=\"#pers_デシラル\">\n<surname> デシラル </surname>\n</persname> 及 <persname corresp=\"#pers_ゴーイ\">\n<surname> ゴーイ </surname>\n</persname> 、 <persname corresp=\"#pers_テーラル\">\n<surname> テーラル </surname>\n</persname> 三氏、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 、 <persname corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_前川益以\">\n<surname> 前川 </surname>\n<forename> 益以 </forename>\n</persname> 諸氏 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 邸ニ来会シ、テシラル氏《（デシラル氏）》ヨリ\n        <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 金鉱採堀ニ付テノ意見ト企望トヲ述ヘラル、余ハ之ニ答ヘテ其着手ノ見込ヲ問フニ、デシ\n        <pb corresp=\"#pageB1396\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/422/full/max/0/default.jpg\" n=\"B1396\" source=\"#pageB1396\"></pb> ラルハ余ト <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> トノ鉱山組合ニ於テ採堀ノ権利ヲ得、其営業ノ如キハ当方ノ意見ニ従テ処理セン事ヲ述フ、是ニ於テ種々談話ノ後、直ニ <persname corresp=\"#pers_前川\">\n<surname> 前川 </surname>\n</persname> ヲ韓国ニ派出シテ之ヲ調査シ、幸ニ其権利ヲ得ルニ於《（テ脱）》ハ、概略其出資ヲ折半シテ共同事業トシテ之ヲ経営スヘキ事ヲ口約シテ各退散セリ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

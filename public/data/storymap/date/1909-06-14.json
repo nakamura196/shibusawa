@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-06-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、昨日ノ病痾快方ニ至ラス、朝来腹痛数回アリテ食慾ナシ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス、是ヨリ先、 <persname corresp=\"#pers_長谷川光五郎\">\n<surname> 長谷川 </surname>\n<forename> 光五郎 </forename>\n</persname> ヲ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ遣シテ、今日 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 統監ヨリノ案内ニハ、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 二氏参向ノ事ヲ申シ遣ス、又、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ニ電話シテ <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 水力電気組合協議ノ事ヲ取扱ハシム、\n        <persname corresp=\"#pers_朝吹英二\">\n<surname> 朝吹 </surname>\n<forename> 英二 </forename>\n</persname> 氏ニ電話シテ <persname corresp=\"#pers_鶴原\">\n<surname> 鶴原 </surname>\n</persname> 氏会見ノ事ヲ延引セシム、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 自働車ニテ <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ヲ出テ <placename corresp=\"#place_王子\"> 王子 </placename>\n       ニ帰宅ス、 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス、帰宿後、諸方ヨリノ電話ヲ聴キ、褥中ニ在テ病ヲ療ス、又、家人ニ新聞紙及雑誌類ヲ読マシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

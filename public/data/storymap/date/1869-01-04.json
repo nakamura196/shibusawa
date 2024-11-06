@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-01-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝、 <persname corresp=\"#pers_梅田\">\n<surname> 梅田 </surname>\n</persname> ニ而文作に逢ふ、 <persname corresp=\"#pers_須永\">\n<surname> 須永 </surname>\n</persname> も来会す、旧情を話す、 <persname corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persname> 来る、同行ニ而田安御殿に至る、 <persname corresp=\"#pers_織田和泉\">\n<surname> 織田 </surname> 和泉 </persname> 及中老列座ニ而、 <placename corresp=\"#place_フランス\"> 仏国\n       </placename> 之御用向手続申立る、 <persname corresp=\"#pers_森川\">\n<surname> 森川 </surname>\n</persname> 面会、夕方礫邸に至り、御買上の鉄砲来着せしニ付改方いたし、帰宿、帰路 <persname corresp=\"#pers_川勝\">\n<surname> 川勝 </surname>\n</persname> 近江方尋問 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

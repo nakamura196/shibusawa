@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-02-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後書斎ニ於テ日誌ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ畢リテ再ヒ書斎ニ抵リ書類ヲ検閲ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 降雪中馬車ヲ馳セテ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ニ抵リ事務ヲ処理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ英国人 <persname corresp=\"#pers_アランデル\">\n<surname> アランデル </surname>\n</persname> 氏ノ午飧会ニ出席ス氏ハ燐酸原料ヲ販売スル人ナリ、 <orgname> 人造肥料会社 </orgname>\n<persname corresp=\"#pers_田中元三郎\">\n<surname> 田中 </surname>\n<forename> 元三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_益田太郎冠者\">\n<surname> 益田 </surname>\n<forename> 太郎 </forename>\n</persname> 二氏来会ス、 <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> ハ病ニヨリテ出席セス、午飧畢リテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 銀行集会所ニ抵リ、英国皇族歓迎ノ事ニ関スル協議会ヲ開ク、\n        <persname corresp=\"#pers_珍田\">\n<surname> 珍田 </surname>\n</persname> 外務次官、 <persname corresp=\"#pers_長崎\">\n<surname> 長崎 </surname>\n</persname> 式部官、 <persname corresp=\"#pers_吉田\">\n<surname> 吉田 </surname>\n</persname> 秘書官等来会シ、委員 <persname corresp=\"#pers_園田\">\n<surname> 園田 </surname>\n</persname> 、 <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 、 <persname corresp=\"#pers_近藤\">\n<surname> 近藤 </surname>\n</persname> 、 <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> ノ四氏其他掛リ員数名会同シ、種々協議ノ後大要議決シテ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 午後八時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス <lb></lb> 夜、 <persname corresp=\"#pers_中村秋香\">\n<surname> 中村 </surname>\n<forename> 秋香 </forename>\n</persname> 氏、 <persname corresp=\"#pers_植村澄三郎\">\n<surname> 植村 </surname>\n<forename> 澄三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_添田壽一\">\n<surname> 添田 </surname>\n<forename> 寿一 </forename>\n</persname> 氏等ヘ書状ヲ作リ、明朝発送セシムル事ヲ命ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

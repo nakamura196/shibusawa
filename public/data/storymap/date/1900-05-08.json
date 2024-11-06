@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-05-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前深川区役所ニ抵リ御慶事奉祝ニ関シテ区会ヲ開ク、畢テ <orgname> 石川島造船所 </orgname> ニ抵リ <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 、 <persname corresp=\"#pers_平沢\">\n<surname> 平沢 </surname>\n</persname> 二氏ト共ニ荒木其他ノ所員ヲ会シテ事務ヲ <pb corresp=\"#pageB1135\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/161/full/max/0/default.jpg\" n=\"B1135\" source=\"#pageB1135\"></pb> 協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 農商務省ニ抵リ <persname corresp=\"#pers_木内\">\n<surname> 木内 </surname>\n</persname> 商工局長ニ面会シテ同氏 <placename corresp=\"#place_フランス\"> 仏国 </placename>\n       行ニ関シテ調査ヲ要スル意見三項ヲ陳ス（商業会議条例改正ノ事、取引所ノ規程改正ノ事、信托会社ノ実況調査ノ事）、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<placename corresp=\"#place_東京市\"> 東京市 </placename> ニ抵リ奉祝会常議員会ニ列ス、畢テ商業会議所ニ抵リ奉祝会ニ関スル臨時会議ヲ開ク、夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宅ス、此夜 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏三女縁談ニ付キ <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 夫人ニ要旨ヲ内話ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

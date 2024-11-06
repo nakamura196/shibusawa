@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-02-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、腹部尚未タ快方ニ至ラス、家ニ在テ治療ス、雪後寒威強クシ病軀《（テ脱カ）》ニ便ナラス、終日書類ヲ整理シ且遊戯ス <lb></lb> 此日 <persname corresp=\"#pers_島田\">\n<surname> 島田 </surname>\n</persname> 氏、 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏等ヘ書状ヲ発ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

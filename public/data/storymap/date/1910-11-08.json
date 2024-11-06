@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-11-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ、朝飧ヲ食ス、後、 <persname corresp=\"#pers_久米良作\">\n<surname> 久米 </surname>\n<forename> 良作 </forename>\n</persname> 、 <persname corresp=\"#pers_鈴木寅彦\">\n<surname> 鈴木 </surname>\n<forename> 寅彦 </forename>\n</persname> 二氏ノ来訪ニ接シ、 <placename corresp=\"#place_北海道\"> 北海道 </placename> 瓦斯事業ノ経営ヲ談話ス、\n        <persname corresp=\"#pers_大川\">\n<surname> 大川 </surname>\n</persname> 、 <persname corresp=\"#pers_白石\">\n<surname> 白石 </surname>\n</persname> 二氏来リ <orgname> 東洋汽船会社 </orgname> ノ事ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 43.064333,
+                    "lon": 141.346889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n       商業会議所ニ抵リ、水災善後会委員会ニ出席シ寄附金分配ノ方法ヲ議定ス、畢テ <persname corresp=\"#pers_伏見宮\"> 伏見宮 </persname> 邸ニ伺候シ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 事務所ニ抵リ、更ニ <orgname> 第一銀行 </orgname> ニ於テ午飧ス、後亦事務所ニ抵リテ\n        <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 氏ノ来訪ニ接ス、 <placename corresp=\"#place_猪苗代\"> 猪苗代 </placename> 水力電気事業ニ関シ、懇々注意アリタリ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 帰宅、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> ヨリ <orgname> 第一銀行\n       </orgname> ノ招宴ニヨリテ <placename corresp=\"#place_横浜\"> 横浜 </placename>\n       外国銀行者五名及内地各銀行者来会ス、共ニ庭園ヲ散歩シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 五時半 </time>\n       酒席ヲ開キテ一場ノ挨拶ヲ為ス、盃酒ノ間種々ノ余興アリ、賓主歓ヲ尽シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会ス <lb></lb> （欄外） <lb></lb>\n       ［午後、 <persname corresp=\"#pers_高橋松山\">\n<surname> 高橋 </surname>\n<forename> 松山 </forename>\n</persname> 裁判所長来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

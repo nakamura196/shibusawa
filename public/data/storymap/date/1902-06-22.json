@@ -1,0 +1,73 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-06-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴又雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 旅宿ヲ出テ馬車ニテ <placename corresp=\"#place_ナイアガラの滝\"> 瀑布\n       </placename> ノ下流ナル <placename corresp=\"#place_ナイアガラ川\"> 巨川 </placename> ヲ超ヘ前岸 <placename corresp=\"#place_加奈多\"> 加奈多 </placename> 方面ノ瀑布ヲ一覧ス、 <placename corresp=\"#place_アメリカ合衆国\"> 米国\n       </placename> 瀑布ニ比スレハ更ニ大ナリ、小邱ニ登リテ石油瓦斯ノ発火スル一井ヲ見ル、頗ル奇観ナリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 43.08,
+                    "lon": -79.07111,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n       旅宿ニテ午飧シ、再ヒ市街電車ニテ市中ヲ一覧シ、且瀑布ノ下流ニ沿フテ行程六七哩［　　　　　　　　］《（○欠字。リユーストン）》ト云フ処ニ抵リ再ヒ車ヲ回シテ旅宿ニ帰ル、蓋シ下流ノ奔湍ヲ一覧スル為メナリ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:30:00",
+                    "text": "<time when=\"15:30:00\"> 三時半 </time> 水力電気会社ニ抵ル、副社長 <persname corresp=\"#pers_ランキンス\">\n<surname> ランキンス </surname>\n</persname>\n       氏ハ日曜ナルニモ拘ハラス出社シテ余等ノ一行ヲ迎ヒ、工場ヲ一覧セシメ、且詳細ニ其設備ノ実況ヲ説明ス、水力ノ総高ハ拾万五千馬力ニシテ、拾個ノ水筒ニ拾個ノダイナモーヲ装置ス、其工場ノ堅牢ニシテ精密ナル驚クニ堪ヘタリ、使用ノ人員ハ昼夜三回ニ区別シテ八人宛ヲ使役スルノミナリト云フ、此会社ハ\n        <placename corresp=\"#place_加奈太\"> 加奈太 </placename>\n       方面ニ於テモ水力電気工事ヲ起シ其馬力概略弐拾万馬力ヲ得ルノ設計ナリト云フ、一覧畢テ旅宿ニ帰リテ夜食ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n<placename corresp=\"#place_ニューヨーク\"> 紐育 </placename> 行ノ夜行汽車ニ搭ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 40.71278,
+                    "lon": -74.00611,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

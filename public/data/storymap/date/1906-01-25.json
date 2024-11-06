@@ -1,0 +1,95 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-01-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後書斎ニ於テ日誌ヲ作リ、且 <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n<persname corresp=\"#pers_三島\">\n<surname> 三島 </surname>\n</persname> 、 <persname corresp=\"#pers_木村\">\n<surname> 木村 </surname>\n</persname> 、 <persname corresp=\"#pers_野口\">\n<surname> 野口 </surname>\n</persname> 氏等ヘ書状ヲ裁ス、 <persname corresp=\"#pers_清水泰吉\">\n<surname> 清水 </surname>\n<forename> 泰吉 </forename>\n</persname> 氏ノ来状ニ返書ヲ作リ <placename corresp=\"#place_長府\"> 長府 </placename> ノ寓居ニ送致ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 33.99889,
+                    "lon": 130.99083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ喫シ、食後新聞紙ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ重役会ヲ開キ要件ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time> 同行ニ於テ午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:30:00",
+                    "text": "<time when=\"13:30:00\"> 午後一時半 </time> 宮内省ニ抵リ <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 大臣ニ面会シテ英国皇族歓迎ノ事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 頃麻布 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ヲ訪フモ不在面会ヲ得ス、転シテ <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 侯ヲ訪ヒ <placename corresp=\"#place_大韓民国\"> 韓国 </placename> ニ関スル要務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リテ韓国大使完順君ヲ訪問ス、種々ノ談話ヲナシ、来ル <date evidence=\"year inferenced, month\" when=\"1906-01-31\"> 三十一日 </date>\n<orgname> 第一銀行 </orgname> ヘ、 <date evidence=\"year inferenced\" when=\"1906-02-02\"> 二月二日 </date>\n<placename corresp=\"#place_飛鳥山邸\"> 王子宅 </placename> ヘ来臨ノ事ヲ約ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時\n       </time> ヨリ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> 会社重役会ヲ開キ、畢テ株主総会ヲ開キ利益配当其他ノ事ヲ決シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

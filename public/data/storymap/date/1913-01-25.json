@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-01-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シ畢テ朝飧ヲ食ス、又、理髪ス、後、日記ヲ編成ス、後、来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_本郷\"> 本郷 </placename> ニ抵リ友人ヲ訪ヘ午飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時\n       </time> 事務所ニ抵リ、南洋護謨園買収ノ事ニ付協議会ヲ開キ、 <persname corresp=\"#pers_中島\">\n<surname> 中島 </surname>\n</persname> 、 <persname corresp=\"#pers_諸井\">\n<surname> 諸井 </surname>\n</persname> 、 <persname corresp=\"#pers_本多\">\n<surname> 本多 </surname>\n</persname> 、 <persname corresp=\"#pers_滝沢\">\n<surname> 滝沢 </surname>\n</persname> 、 <persname corresp=\"#pers_磯野\">\n<surname> 磯野 </surname>\n</persname> 氏来会ス、価格ヲ定メ電報スル事ニ決ス、畢テ他ノ来人ニ接ス、又、事務所ノ要務ヲ処理シ来書ヲ点撿ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename>\n       常盤屋ニ抵リ中井商店ノ営業決算ノ報告ヲ聞ク、畢テ店主及各店主任者ニ一場ノ訓示ヲ為シ、後、宴会ニ出席シ種々ノ余興アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時\n       </time> 帰宿、後、新聞紙ヲ一読ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1913-01-26T00:00+0900\"> 十二時 </time> 過就寝 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

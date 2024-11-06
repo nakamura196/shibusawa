@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-03-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、朝、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏来ル、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 侯爵ヘ紹介ノ事ヲ話ス、依テ人ヲ遣シテ侯ノ邸ヲ伺ハシメタルモ、 <placename corresp=\"#place_東京\"> 東京 </placename>\n       ニ在ルヲ以テ訪問ヲ為サス、 <persname corresp=\"#pers_皆川四郎\">\n<surname> 皆川 </surname>\n<forename> 四郎 </forename>\n</persname> 氏ヘ京坂鉄道ノ事ヲ談話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-01-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 昨夜来風邪気ニテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床ス、今日ハ <placename corresp=\"#place_国府津\"> 国府津\n       </placename> ニ御避寒中ナル <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 老公及 <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯爵ノ僑居ヲ訪問スル筈ナリシモ、不快ナルニ付使ヲ以テ一書ヲ送呈シ、且、香柑 <placename corresp=\"#place_アメリカ合衆国\"> 米国\n       </placename> 産ノモノヲ進呈ス <lb></lb>\n"
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.280139,
+                    "lon": 139.2116278,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 朝飧ス、 <persname corresp=\"#pers_渋沢秀雄\">\n<forename> 秀雄 </forename>\n</persname> 、桜田義挙録ヲ読ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 午前十時半 </time>\n<persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> 氏来ル、今日帰京ノ由ナルヲ以テ内外種々ノ要務ヲ示命ス、後、日記ヲ <pb corresp=\"#pageB1749\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/775/full/max/0/default.jpg\" n=\"B1749\" source=\"#pageB1749\"></pb>\n       編成ス、午前ヨリ各地ノ来状ニ対スル回答ヲ認ム、蓋シ旧臘以来積堆セシモノ十数通ニ及フ、感冒ノ気味ニテ外出散歩スルヲ得サルニヨリ終日書状ヲ裁シテ十二通ニ至ル、明日 <persname corresp=\"#pers_渋沢秀雄\">\n<forename> 秀雄 </forename>\n</persname> 帰京便ニ托シテ諸方ニ郵送セシムルナリ、午前、 <persname corresp=\"#pers_堀井宗一\">\n<surname> 堀井 </surname>\n<forename> 宗一 </forename>\n</persname> 氏ヨリ <placename corresp=\"#place_三田\"> 三田 </placename>\n<persname corresp=\"#pers_渋沢敬三\">\n<forename> 敬三 </forename>\n</persname> ノ病ヲ電話ニテ報シ来ル、今日大学ナル医師 <persname corresp=\"#pers_宮本\">\n<surname> 宮本 </surname>\n</persname> 氏ヲ招キテ診察ヲ乞フトノ事ナリ <lb></lb> 午後、銀行集会所 <persname corresp=\"#pers_久万\">\n<surname> 久万 </surname>\n</persname> 氏ヨリ電話アリ、来ル <date when=\"1913-01-17\"> 十七日 </date> ヲ以テ <persname corresp=\"#pers_メビー\">\n<surname> メビー </surname>\n</persname> 博士招宴ノ事ヲ申来ル、日仏銀行 <persname corresp=\"#pers_渡邊千冬\">\n<surname> 渡辺 </surname>\n<forename> 千冬 </forename>\n</persname> 氏ヨリ電話アリ、来ル <date when=\"1913-01-11\"> 十一日 </date> 午前相談会出席ノ事ヲ請求セラル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-06-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後、 <persname corresp=\"#pers_滝兵右衛門\">\n<surname> 滝 </surname>\n<forename> 兵右衛門 </forename>\n</persname> 氏来リテ中津川製紙会社ノ事ヲ談ス、 <persname corresp=\"#pers_青木休七郎\">\n<surname> 青木 </surname>\n<forename> 休七郎 </forename>\n</persname> 来リ身上ノ依頼ヲ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ニ伝フル事ヲ乞ハル、 <persname corresp=\"#pers_麻生正蔵\">\n<surname> 麻生 </surname>\n<forename> 正蔵 </forename>\n</persname> 氏来リ <orgname> 女子大学 </orgname> ニ関スル土地ノ件ヲ談ス、 <persname corresp=\"#pers_茂木啓三郎\">\n<surname> 茂木 </surname>\n<forename> 啓三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_小暮房雄\">\n<surname> 小暮 </surname>\n<forename> 房雄 </forename>\n</persname> 二氏来話ス、午前 <pb corresp=\"#pageB1423\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/449/full/max/0/default.jpg\" n=\"B1423\" source=\"#pageB1423\"></pb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 事務所ニ抵リ雑務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、食後事務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<persname corresp=\"#pers_清水泰吉\">\n<surname> 清水 </surname>\n<forename> 泰吉 </forename>\n</persname> 葬儀ニ出席スル為、 <placename corresp=\"#place_谷中\"> 谷中 </placename> 天王寺ニ抵ル "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 事務所ニ抵リテ、三電気鉄道会社合併ノ事ニ関シ <persname corresp=\"#pers_馬越恭平\">\n<surname> 馬越 </surname>\n<forename> 恭平 </forename>\n</persname> 氏ト共ニ三会社ノ主任者ニ談話ス、畢テ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ京釜鉄道会社株主総会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 頃協議済ニテ <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

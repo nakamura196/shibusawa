@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1884-06-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time>\n<placename corresp=\"#place_三島\"> 三島 </placename>\n       ヲ発シ、腕車ニ駕シテ倉沢ニ至リテ午餐ス、時ニ雨歇ミ風軟カニシテ海上細漣ヲ漾シ、豆駿環海ノ諸山新緑黛ノ如ク眺望甚タ佳ナリ、惜クハ雲煙富岳ノ巓ヲ覆フテ全峰ヲ見ル能ハサル事ヲ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<placename corresp=\"#place_静岡\"> 静岡 </placename> ニ至リ大万屋ニ投宿ス <lb></lb> 此夜 <placename corresp=\"#place_紺屋町\"> 紺屋町 </placename> 邸ニ於テ正二位公ニ謁シ款話数時ニシテ帰宿ス、 <persname corresp=\"#pers_森理七\">\n<surname> 森 </surname>\n<forename> 理七 </forename>\n</persname> 、 <persname corresp=\"#pers_大久保\">\n<surname> 大久保 </surname>\n</persname> 、 <persname corresp=\"#pers_黒崎\">\n<surname> 黒崎 </surname>\n</persname> 諸子来話ス、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 氏及留守宅ヘ郵書ヲ発シ、 <placename corresp=\"#place_四日市\"> 四日市 </placename>\n<persname corresp=\"#pers_八巻\">\n<surname> 八巻 </surname>\n</persname> 氏ヘ電報シテ、 <date evidence=\"year inferenced, month\" when=\"1884-06-03\"> 三日 </date> 午後\n        <placename corresp=\"#place_熱田\"> 熱田 </placename> 着ノ事ヲ通知ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

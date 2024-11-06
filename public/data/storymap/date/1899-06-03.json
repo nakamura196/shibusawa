@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-06-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前 <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 氏ヲ訪フ、逢ハス、更ニ <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 海軍大臣ヲ海軍省ニ訪フテ面会ノ上数事ヲ話シ、商業会議所ノ役員会ニ列ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 紅葉館ニ於テ\n        <orgname> 石川島造船所 </orgname> ノ為ニ開キタル宴会ニ出席ス、此夕方ヨリ大風雨夜ニ入テ殊ニ烈シ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

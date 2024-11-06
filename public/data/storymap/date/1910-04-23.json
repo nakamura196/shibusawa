@@ -1,0 +1,101 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-04-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シ、畢テ朝飧ヲ食シ、又、日記ヲ編成ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time>\n<placename corresp=\"#place_梅田\"> 梅田 </placename> 駅発ノ汽車ニ搭シテ <placename corresp=\"#place_大阪\"> 大阪 </placename>\n<orgname> 汽車製造会社 </orgname> ニ抵リ、各部局ヲ一覧ス、 <persname corresp=\"#pers_出羽\">\n<surname> 出羽 </surname>\n</persname> 、 <persname corresp=\"#pers_藤島\">\n<surname> 藤島 </surname>\n</persname> 二氏工場ヲ案内シテ営業ノ概況ヲ説明ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.7005611,
+                    "lon": 135.4957444,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 十時半 </time> 再ヒ <placename corresp=\"#place_梅田\"> 梅田 </placename> ニ帰リ、夫ヨリ <placename corresp=\"#place_神戸\"> 神戸 </placename>\n       行ノ汽車ニ搭ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.7005611,
+                    "lon": 135.4957444,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n<placename corresp=\"#place_神戸\"> 神戸 </placename>\n<orgname> 第一銀行 </orgname> 支店ニ抵リ、店員ト会話シ且午飧ス、畢テ <orgname> 高等商業学校 </orgname> ニ抵リ、学生ニ対シテ一場ノ演説ヲ為ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 又神戸支店ニ抵リ、店員ニ一場ノ訓示演説ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n       常盤花壇ニ抵リ、此日神戸支店ニ於テ開催スル地方人士ノ招宴ニ出席ス、来会スル者二十名許、宴畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過ノ汽車ニテ\n        <placename corresp=\"#place_大阪\"> 大阪 </placename> ニ帰リ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1910-04-24T00:00+0900\"> 十二時 </time> 就寝 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

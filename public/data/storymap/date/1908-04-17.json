@@ -1,0 +1,102 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-04-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、庭園ヲ一週ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n<persname corresp=\"#pers_成瀬仁蔵\">\n<surname> 成瀬 </surname>\n<forename> 仁蔵 </forename>\n</persname> 氏来話ス、 <orgname> 女子大学 </orgname> ノ件、其他学問、宗教等ニ関シ種々ノ談話アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<persname corresp=\"#pers_松浦\">\n<surname> 松浦 </surname>\n</persname> 伯爵ノ邸ヲ向 <placename corresp=\"#place_柳原\"> 柳原 </placename> ニ訪ヒ弔詞ヲ述フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ書状ヲ裁ス、 <persname corresp=\"#pers_犬丸鉄太郎\">\n<surname> 犬丸 </surname>\n<forename> 鉄太郎 </forename>\n</persname> 氏来リ <orgname> 人造肥料会社 </orgname> ノ事ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、食後、 <persname corresp=\"#pers_伊藤伝七\">\n<surname> 伊藤 </surname>\n<forename> 伝七 </forename>\n</persname> 、 <persname corresp=\"#pers_九鬼総太郎\">\n<surname> 九鬼 </surname>\n<forename> 総太郎 </forename>\n</persname> 二氏ノ来訪 <pb corresp=\"#pageB1506\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/532/full/max/0/default.jpg\" n=\"B1506\" source=\"#pageB1506\"></pb> ニ接ス、後、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト行務ヲ談シ、又、四日市支店ノ標札ヲ揮毫ス <persname corresp=\"#pers_久米良作\">\n<surname> 久米 </surname>\n<forename> 良作 </forename>\n</persname> 氏来リ日鉄会社残務ノ事ニ関シ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 再ヒ事務所ニ於テ <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n<persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 、 <persname corresp=\"#pers_荒井\">\n<surname> 荒井 </surname>\n</persname> 及 <placename corresp=\"#place_大阪\"> 大坂 </placename> 等ヘノ書状ヲ裁ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 三井集会所ニ抵リ、東洋協会ニ於テ開催セシ地方官ノ招集ニ参席ス、蓋シ <placename corresp=\"#place_大韓民国\"> 韓国\n       </placename> 拓植会社設立《（殖）》ニ関シテナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ抵リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス <lb></lb> （欄外） <lb></lb> ［ <orgname> 東京瓦斯会社 </orgname>\n<persname corresp=\"#pers_福島甲子三\">\n<surname> 福島 </surname>\n<forename> 甲子三 </forename>\n</persname> 氏来話、 <orgname> 帝商銀行 </orgname>\n<persname corresp=\"#pers_郷誠之助\">\n<surname> 郷 </surname>\n<forename> 誠之助 </forename>\n</persname> 氏来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

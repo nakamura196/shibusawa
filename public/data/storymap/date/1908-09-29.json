@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-09-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シ、畢テ <persname corresp=\"#pers_畑弥右衛門\">\n<surname> 畑 </surname>\n<forename> 弥右衛門 </forename>\n</persname> 、 <persname corresp=\"#pers_大村□蔵\">\n<surname> 大村 </surname>\n<forename> □蔵 </forename>\n</persname> 二氏《（欠）》ノ来訪ニ接ス日韓瓦斯会社ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_上野\"> 上野 </placename> ニ抵リ、新築美術館ノ事ニ関シ評議員会ヲ開キ、新館ヲ一覧シ、且計算其他ノ事ヲ報告ス、畢テ\n        <orgname> 精養軒 </orgname> ニ於テ一同午飧ヲ共ニシテ散会ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵ル、 <placename corresp=\"#place_ドイツ\">\n        独乙 </placename> 人ポール来話ス、 <persname corresp=\"#pers_佐藤顕理\">\n<surname> 佐藤 </surname>\n<forename> 顕理 </forename>\n</persname> 氏来ル、 <persname corresp=\"#pers_酒匂常明\">\n<surname> 酒匂 </surname>\n<forename> 常明 </forename>\n</persname> 、其他諸氏来話ス、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 二氏来ル、 <persname corresp=\"#pers_岡崎遠光\">\n<surname> 岡崎 </surname>\n<forename> 遠光 </forename>\n</persname> 氏来話ス、夕方ヨリ来書ヲ整理シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 総理大臣官邸ニ抵リ、晩飧会ニ列席ス、食後大臣ノ挨拶ニ対シテ答詞ヲ述フ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:30:00",
+                    "text": "<time when=\"22:30:00\"> 十時半 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、此夜大雨、暁ニ至テ歇ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

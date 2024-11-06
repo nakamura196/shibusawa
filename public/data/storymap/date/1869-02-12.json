@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-02-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝、 <persname corresp=\"#pers_川村三介\">\n<surname> 川村 </surname>\n<forename> 三介 </forename>\n</persname> 来、謹慎之者儀ニ付内談有之、右ニ付 <persname corresp=\"#pers_土肥八十三郎\">\n<surname> 土肥 </surname>\n<forename> 八十三郎 </forename>\n</persname> 呼寄心得方相尋、内談之上 <persname corresp=\"#pers_川村\">\n<surname> 川村 </surname>\n</persname> 方へ遣す、 <persname corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persname> 来る、見込調方ニ付申談す <persname corresp=\"#pers_祐助\">\n<forename> 祐助 </forename>\n</persname> 来る、夕方当地町人 <persname corresp=\"#pers_荻原四郎兵衛\">\n<surname> 荻原 </surname>\n<forename> 四郎兵衛 </forename>\n</persname> 《（ <persname corresp=\"#pers_萩原四郎兵衛\">\n<surname> 萩原 </surname>\n<forename> 四郎兵衛 </forename>\n</persname> ）》へ可罷出旨申遣す "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

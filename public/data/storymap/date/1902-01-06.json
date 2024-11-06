@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-01-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢リ昨日揮毫ノ未済ナルヲ果ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<placename corresp=\"#place_大磯町\"> 大磯 </placename> 発ノ汽車ニ搭シテ <placename corresp=\"#place_東京\"> 東京\n       </placename> ニ抵ル、 <persname corresp=\"#pers_竹田\">\n<surname> 竹田 </surname>\n</persname> 、 <persname corresp=\"#pers_吉岡\">\n<surname> 吉岡 </surname>\n</persname> 同伴ス、大船ニテ <persname corresp=\"#pers_竹田\">\n<surname> 竹田 </surname>\n</persname> ハ分袂シテ <placename corresp=\"#place_鎌倉\"> 鎌倉 </placename> ニ赴ク、汽車中、 <persname corresp=\"#pers_大石正巳\">\n<surname> 大石 </surname>\n<forename> 正巳 </forename>\n</persname> 、 <persname corresp=\"#pers_豊川良平\">\n<surname> 豊川 </surname>\n<forename> 良平 </forename>\n</persname> 、 <persname corresp=\"#pers_久保扶桑\">\n<surname> 久保 </surname>\n<forename> 扶桑 </forename>\n</persname> ノ諸氏ト会談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 五時半 </time>\n<placename corresp=\"#place_東京\"> 東京 </placename> 着、直ニ馬車ニテ <placename corresp=\"#place_浜町\"> 浜町\n       </placename> 常盤屋ニ抵リ、 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 駐韓公使、 <pb corresp=\"#pageB1215\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/241/full/max/0/default.jpg\" n=\"B1215\" source=\"#pageB1215\"></pb>\n<persname corresp=\"#pers_山座\">\n<surname> 山座 </surname>\n</persname> 公使外務書記官ニ会見ス、 <orgname> 第一銀行 </orgname>\n<persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 、 <persname corresp=\"#pers_西脇長太郎\">\n<surname> 西脇 </surname>\n<forename> 長太郎 </forename>\n</persname> 二氏同座ス、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 借款ニ係ル爾来ノ沿革及将来ノ手順ヲ商議ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 午後九時 </time> 宴ヲ散シ <placename corresp=\"#place_浜町\"> 浜町 </placename>\n       宅ニ帰宿ス、此夜風強ク寒甚シ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

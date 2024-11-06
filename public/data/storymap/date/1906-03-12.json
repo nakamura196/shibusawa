@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-03-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後書斎ニ於テ日誌ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time> 朝飧ヲ喫ス、 <persname corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persname> 氏、岐阜市助役 <persname corresp=\"#pers_服部正\">\n<surname> 服部 </surname>\n<forename> 正 </forename>\n</persname> 氏同伴来訪セラル、最急行汽車 <placename corresp=\"#place_岐阜市\"> 岐阜市 </placename>\n       停車ヲ其筋ニ請願スル事ニ関シ種々ノ依頼アリ、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 氏来リ養育院ノ事ヲ談話ス、 <persname corresp=\"#pers_本多岩次郎\">\n<surname> 本多 </surname>\n<forename> 岩次郎 </forename>\n</persname> 氏来リ <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 養蚕ノ方法ニ付種々ノ談話アリ、曾テ技師\n        <persname corresp=\"#pers_林弾作\">\n<surname> 林 </surname>\n<forename> 弾作 </forename>\n</persname> 氏派遣ノ時調査セシ報告書ノ写ヲ寄セラル、午後ヨリ <persname corresp=\"#pers_須永\">\n<surname> 須永 </surname>\n</persname> 氏碑銘揮毫ニ着手シ夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.42625,
+                    "lon": 136.75944,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過ニ至リテ竣功ス、勉強半日一夜大ニ疲労ヲ覚フ、夜、雑誌書類ヲ読ム\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

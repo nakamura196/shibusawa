@@ -1,0 +1,100 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-07-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<persname corresp=\"#pers_ケスウエツキ\">\n<surname> ケスウエツキ </surname>\n</persname> 氏来ル、 <placename corresp=\"#place_支那\"> 支那 </placename> 鉄道合同ノ事ヲ協議ス、 <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 氏ヨリ <placename corresp=\"#place_上海市\"> 上海 </placename> ニ於テ <placename corresp=\"#place_イギリス\"> 英国 </placename> シンヂケートノ代人タルエングリス氏ヘ申込タル書面ノ写ヲ交付スルノ約束ヲ為ス、ケスウエツキ氏ハ来ル\n        <date when=\"1902-07-24\"> 廿四日 </date> ヲ以テ会議ヲ開キ、本邦人加入ノ事ヲ議決シテ後確答スヘキ旨ヲ答フ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 31.16667,
+                    "lon": 121.48333,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\">\n        十一時 </time> モリス来ル、氏ハ明治ノ初年ニ本邦工部省ニ雇ハレタリシ人ナリト云フ、来ル <date when=\"1902-07-25\"> 廿五日 </date> ヲ約シテ去ル、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<persname corresp=\"#pers_サー_ウエリヤム_ビセツト\"> サー・ <forename> ウエリヤム </forename> ・ <surname> ビセツト\n        </surname>\n</persname> 氏来リ鉄道抵当社債ノ事ヲ協議ス、 <persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname>\n       通訳シテ将来制定セラルヘキ法律案ノ逐条ヲ調査シ、九州鉄道ニ関スル手続ト北越鉄道ニ於ルノ手続トハ鉄道会社ノ信用上多少ノ差違アルニ付種々ノ説明ヲ為ス、同氏充分之ヲ領意ス、談話中共ニ午飧シテ\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 過辞シ去ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:20:00",
+                    "text": "<time when=\"15:20:00\"> 三時二十分 </time>\n       旅宿ヲ出テ、地下電車ニテシチーニ抵リ、三井物産会社 <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname>\n       氏ヲ訪ヒ、共ニチアター・バンクニ抵リグワイサー氏ニ面会ス、本邦財政上経済上ノ既往将来ニ対シテ同氏ヨリ種々ノ質問アリ、依テ二十七八年以来ノ経過ヲ陳述シ、且将来ノ企望ヲ述フ、更ニ談柄ヲ転シテ銀貨問題ニ関シ余ヨリ質問ヲ試ム、又\n        <placename corresp=\"#place_ロンドン\"> 倫敦 </placename>\n       銀行者間貸借取引ニ付抵当貸ト無抵当貸トノ区別ニ関シ種々ノ質問ヲ為シ、株券抵当ノ取扱方及支店監督ノ方法ヲ諮問ス、同氏ハ諄々之ヲ説明セラル、其意見頗ル実着ニシテ傾聴スヘキモノアリ、畢テ\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 51.50778,
+                    "lon": -0.12806,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 辞シ去ル <lb></lb>\n<persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> ヲシテ領事館ヲ訪ヒ、来ル <date when=\"1902-07-25\"> 廿五日 </date> 倫敦商業会議所ニ於テ演説スヘキ趣旨ニ関シ領事ト協議セシム <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 午後八時 </time> ロヤル・オペラヲ一覧ス、此夜ノ演芸ハ <placename corresp=\"#place_エジプト\"> 埃及\n       </placename> 古代ノ王ト王妃トニ関スル曲ノ由ナレトモ、歌曲ハ了解スルヲ得ス、只舞台ノ壮麗ナルト演芸ノ高尚ナルトヲ認メタルノミ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 30.033,
+                    "lon": 31.217,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

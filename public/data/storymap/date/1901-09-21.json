@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-09-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝来雨頻リナリ、韓国行数多ノ書状ヲ裁ス、京釜鉄道会社株式募集ニ関スル説明書草案ノ修正ヲ為シ <persname corresp=\"#pers_福田\">\n<surname> 福田 </surname>\n</persname> 氏ニ交付ス、 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ書状ヲ送リ遣ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

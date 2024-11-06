@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-07-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前 <persname corresp=\"#pers_根岸練次郎\">\n<surname> 根岸 </surname>\n<forename> 練次郎 </forename>\n</persname> 来リ衣服新調ノ為メ同行シテ仕立屋ニ抵ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> ジヨンホルチ会社 <persname corresp=\"#pers_ホーナー\">\n<surname> ホーナー </surname>\n</persname> 氏来ル、九州鉄道、北越鉄道ノ社債ニ関スル要務ヲ談ス、午後 <persname corresp=\"#pers_シヤンド\">\n<surname> シヤンド </surname>\n</persname> 氏来ル、久濶会見ノ悦ヲ述フ、更ニ来二 <date evidence=\"year inferenced, month\" when=\"1902-07-13\"> 十三日\n       </date> ノ会見ヲ約ス、 <persname corresp=\"#pers_サミユール_サミユール\">\n<forename> サミユール </forename> ・ <surname> サミユール </surname>\n</persname> 氏来ル、来ル <date evidence=\"year inferenced, month\" when=\"1902-07-16\"> 十六日 </date>\n       夜招宴ノ事ヲ約ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<persname corresp=\"#pers_ステツト\">\n<surname> ステツト </surname>\n</persname> 夫人母子来リ <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 、 <persname corresp=\"#pers_西河\">\n<surname> 西河 </surname>\n</persname> 嬢共ニ慈善会ニ赴ク、午後 <placename corresp=\"#place_フランス\"> 仏国 </placename>\n<persname corresp=\"#pers_本野\">\n<surname> 本野 </surname>\n</persname> 公使、 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 二氏、 <placename corresp=\"#place_ベルギー\"> 白耳義 </placename>\n<persname corresp=\"#pers_加藤\">\n<surname> 加藤 </surname>\n</persname> 公使、 <persname corresp=\"#pers_諸井六郎\">\n<surname> 諸井 </surname>\n<forename> 六郎 </forename>\n</persname> 、 <placename corresp=\"#place_ドイツ\"> 独乙 </placename>\n<persname corresp=\"#pers_鍋島桂次郎\">\n<surname> 鍋島 </surname>\n<forename> 桂次郎 </forename>\n</persname> 氏等ヘ同国巡遊ノ事ニ関シ書状ヲ発ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n<persname corresp=\"#pers_小室三吉\">\n<surname> 小室 </surname>\n<forename> 三吉 </forename>\n</persname> 氏来ル、此日 <orgname> 高等商業学校 </orgname> 出身ノ人ニテ <placename corresp=\"#place_ロンドン\"> 倫敦\n       </placename> 在留ノ諸氏余カ為メニ一会ヲ催フシ招宴スル旨、曾テ <persname corresp=\"#pers_渡辺専次郎\">\n<surname> 渡辺 </surname>\n<forename> 専次郎 </forename>\n</persname> 氏総代ニテ申出ラレシカ、今日 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 51.50778,
+                    "lon": -0.12806,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 七時半 </time>\n       ヨリカツフヘー［　　　　　］《（○欠字。ベレー）》ニ於テ開宴スルニ付迎ノ為メ来訪ス、依テ <persname corresp=\"#pers_萩原源太郎\">\n<surname> 萩原 </surname>\n<forename> 源太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> 二氏ト共ニ其宴ニ赴キ食後 <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> 氏ヨリ挨拶アリ、畢テ余ハ我邦経済上ノ将来ニ関スル意見ト学問ト事業トノ関係ニ付テノ意見又 <placename corresp=\"#place_アメリカ合衆国\">\n        米国 </placename> 漫遊ニ付観察ノ概要ヲ述ヘ、終ニ <orgname> 高等商業学校 </orgname> ニ関スル近況ヲ縷述ス、一同大ニ満足ノ由ニテ種々ノ雑談ニ渉リ、夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1902-07-13T00:00+0900\"> 十二時 </time> 散会帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

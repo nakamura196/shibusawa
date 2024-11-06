@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-01-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、静坐入浴例ノ如クシテ後朝飧ヲ食ス、食前、 <persname corresp=\"#pers_高羽\">\n<surname> 高羽 </surname>\n</persname> 某来リ調革ノ事ニ付依頼アリシモ、工業家ヲ撰テ相談スヘキ事ヲ諭シテ来意ヲ謝絶ス、食後、理髪ス、 <persname corresp=\"#pers_斎藤恒三\">\n<surname> 斎藤 </surname>\n<forename> 恒三 </forename>\n</persname> 氏来リ、 <placename corresp=\"#place_愛知\"> 愛知 </placename> 銀行、三井物産間ノ手形事件仲裁ノ事ヲ談ス、\n        <persname corresp=\"#pers_高田慎吾\">\n<surname> 高田 </surname>\n<forename> 慎吾 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time> ヨリ <orgname> 帝国ホテル </orgname> ニ抵リ、\n        <placename corresp=\"#place_東北地方\"> 東北 </placename>\n       凶作救済会設立ノ件ニ関シ各新聞記者及雑誌等ノ主任者ヲ会シテ、設立ニ関スル爾来ノ手続ヲ述ヘテ充分ノ賛成助力ヲ求ム、一同協力ノ旨ヲ答ヘラレ、後、午飧ヲ共ニシ、更ニ種々ノ手続ヲ協議ス、畢テ\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 事務所ニ抵リ、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 、 <persname corresp=\"#pers_斎藤恒三\">\n<surname> 斎藤 </surname>\n<forename> 恒三 </forename>\n</persname> 氏其他種々ノ来客ニ接ス、帰一協会ノ幹事モ来会ス、又、庶務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_上野\"> 上野 </placename> 墓地ニ抵リテ徳川公五十日祭ノ墓参ヲ為ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\">\n        六時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、此夜ハ <persname corresp=\"#pers_海老名弾正\">\n<surname> 海老名 </surname>\n<forename> 弾正 </forename>\n</persname> 氏来リ基督教ニ関スル講話アリ、家族及親戚十数名来会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過散会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-08-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:30:00",
+                    "text": "<time when=\"05:30:00\"> 午前五時半 </time> 起床、風邪気稍快方セルニヨリ、雨中ニテモ当地ヲ発スルコトヽシテ旅装ヲ理ス、 <persname corresp=\"#pers_小田\">\n<surname> 小田 </surname>\n</persname> 農場長ニ告別シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:40:00",
+                    "text": "<time when=\"06:40:00\"> 六時四十分 </time> ニ出立シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time>\n<placename corresp=\"#place_清水\"> 清水 </placename> 駅ニ抵ル、途中各村ノ小作人雨ヲ冒シテ行ヲ送ル、 <placename corresp=\"#place_清水\"> 清水 </placename> 駅ニテハ戸長其他十数名来リテ餞ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n       発ノ臨時汽車ニ搭シテ清水ヲ発ス、 <persname corresp=\"#pers_犬村鉄太郎\">\n<surname> 犬村 </surname>\n<forename> 鉄太郎 </forename>\n</persname> 氏迎ノ為来会ス、 <placename corresp=\"#place_清水\"> 清水 </placename> 駅ニテ <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 、 <persname corresp=\"#pers_仲田\">\n<surname> 仲田 </surname>\n</persname> 等ノ諸氏ニ分袂シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 過 <placename corresp=\"#place_帯広市\"> 帯広\n       </placename> 駅ニ抵ル、 <persname corresp=\"#pers_植村澄三郎\">\n<surname> 植村 </surname>\n<forename> 澄三郎 </forename>\n</persname> 氏来リ迎フ、 <placename corresp=\"#place_河西\"> 河西 </placename> 支庁ノ吏員来リテ行ヲ送ル、 <persname corresp=\"#pers_小田\">\n<surname> 小田 </surname>\n</persname> 農場長、 <placename corresp=\"#place_清水町_(北海道)\"> 清水村 </placename> 戸長等ハ此駅ヨリ辞シ去ル、汽車\n        <placename corresp=\"#place_釧路\"> 釧路 </placename> ニ達スル前二三駅ニ <placename corresp=\"#place_釧路\"> 釧路\n       </placename> 町有志総代トシテ三名来リテ一行ヲ迎フ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 42.9213861,
+                    "lon": 143.1999889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:30:00",
+                    "text": "<time when=\"16:30:00\"> 午後四時半 </time>\n<placename corresp=\"#place_釧路\"> 釧路 </placename> 着、地方人士数十名来会ス、停車場ヨリ人車ニテ <placename corresp=\"#place_釧路\"> 釧路 </placename>\n       川ニ架セル橋梁ヲ渉リ、市街ヲ経テ高地ニ抵リ、小学校内ニ陳列セル水産農産等ノ標本ヲ見ル、後、一茶亭ニ於テ（喜望楼ト云フ此地有数ノ割烹店ナリ）地方人士ノ催シニ係ル歓迎会ニ出席ス、アイヌ熊祭ノ式ヲ余興トシテ演セシム、酒間、町長ノ歓迎ノ詞アリ、依テ答詞トシテ一場ノ演説ヲ為シ、夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 宴ヲ辞シテ、旅亭虎屋ニ投宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

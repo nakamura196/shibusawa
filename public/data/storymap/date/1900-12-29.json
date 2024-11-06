@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-12-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前日本鉄道会社ニ抵リ曾我社長、 <persname corresp=\"#pers_久米\">\n<surname> 久米 </surname>\n</persname> 常務取締役ニ面会シテ <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 旅行中ノ事務ヲ聞ク、午後\n        <orgname> 第一銀行 </orgname> ニ出勤ス、夜 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス\n      "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

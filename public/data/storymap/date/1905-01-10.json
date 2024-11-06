@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-01-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、室内運動ヲ為シ朝飧ヲ畢ル <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 氏来訪ス、 <orgname> 第一銀行 </orgname> 株主総会ノ事ニ関シテ種々ノ協議ヲ為シ、議案及報告書ノ文章ヲ議シ、且其字句ヲ修正ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 帰京ス、後、又昨日ノ如ク揮毫ヲ試ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 過\n        <persname corresp=\"#pers_仙石貢\">\n<surname> 仙石 </surname>\n<forename> 貢 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_仙石\">\n<surname> 仙石 </surname>\n</persname> 氏帰リ去テ後亦少シク揮毫ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 頃ヨリ郊外ヲ散歩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 過帰寓ス <lb></lb> 夜、甲子夜話ヲ読ム <lb></lb>\n<orgname> 石川島造船所 </orgname>\n<persname corresp=\"#pers_平沢\">\n<surname> 平沢 </surname>\n</persname> 氏ヨリ来翰アリ、 <persname corresp=\"#pers_戸塚\">\n<surname> 戸塚 </surname>\n</persname> 持参ス、依テ回答ヲ作リテ同人ニ托シ并テ <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> ヘ書状ヲ発ス、但同人ヨリノ二回ノ来書ニ答ヘ且要件ヲ通知スル為メナリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-05-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ後、朝飧ヲ食シ直ニ旅装ヲ理シテ、馬車ニテ <placename corresp=\"#place_新橋\"> 新橋 </placename> ニ抵リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time> 発ノ急行列車ニ搭シテ\n        <placename corresp=\"#place_名古屋\"> 名古屋 </placename> ニ赴ク、車中 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname>\n<persname corresp=\"#pers_江間俊一\">\n<surname> 江間 </surname>\n<forename> 俊一 </forename>\n</persname> 氏等ニ面会ス、 <placename corresp=\"#place_静岡\"> 静岡 </placename> 駅ニテ <persname corresp=\"#pers_川村勝三郎\">\n<surname> 川村 </surname>\n<forename> 勝三郎 </forename>\n</persname> 氏等数名来リ迎フ、鮓ノ送物アリ、汽車中新聞又ハ雑誌等ヲ読ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_名古屋\"> 名古屋 </placename>\n       着、地方人士殊ニ慈善会参列ノ諸氏多ク来リ迎フ、県ヨリ送ラレタル馬車ニテ旅亭丸文ニ抵リ少憩ス、夕飧後、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 、 <persname corresp=\"#pers_矢田\">\n<surname> 矢田 </surname>\n</persname> 其他地方人ノ誘引ニテ共進会ノ舞踏ヲ見ル、後、 <orgname> 河文楼 </orgname> ニテ小宴ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1910-05-22T00:00+0900\"> 十二時 </time> 過帰宿、就寝ス此日、 <persname corresp=\"#pers_田中太郎_(社会事業家)\">\n<surname> 田中 </surname>\n<forename> 太郎 </forename>\n</persname> 氏同行終始随伴セラル、蓋シ同氏モ余ト共ニ <placename corresp=\"#place_名古屋\"> 名古屋 </placename>\n       ニ開カルル感化救済事業ニ関スル大会ニ臨場シテ一場ノ講演ヲ為スニ在リ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-08-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、 <persname corresp=\"#pers_畑弥右衛門\">\n<surname> 畑 </surname>\n<forename> 弥右衛門 </forename>\n</persname> 氏ノ来訪 <pb corresp=\"#pageB1525\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/551/full/max/0/default.jpg\" n=\"B1525\" source=\"#pageB1525\"></pb> ニ接シ種々ノ談話ヲ為ス、後、 <persname corresp=\"#pers_西内青巒\">\n<surname> 西内 </surname>\n<forename> 青巒 </forename>\n</persname> 氏《（ <persname corresp=\"#pers_大内青巒\">\n<surname> 大内 </surname>\n<forename> 青巒 </forename>\n</persname> ）》ノ来訪ニ接ス、 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 氏来話ス、皆川、 <persname corresp=\"#pers_竹田\">\n<surname> 竹田 </surname>\n</persname> 二氏モ来話ス、午飧後書類ヲ調査ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_日本橋\"> 日本橋 </placename> 倶楽部ニ抵リ、 <persname corresp=\"#pers_堀越角次郎\">\n<surname> 堀越 </surname>\n<forename> 角次郎 </forename>\n</persname> 氏等ノ <placename corresp=\"#place_欧洲\"> 欧洲 </placename> 行留別会ニ出席ス、余興数番アリテ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 食卓ニ就テ卓上一場ノ謝詞ヲ述ヘ、後、階上ニ於テ雑話ヲ試ミ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-07-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ、朝飧ヲ食シ、又、日記ヲ編成ス、 <persname corresp=\"#pers_伊藤太郎右衛門\">\n<surname> 伊藤 </surname>\n<forename> 太郎右衛門 </forename>\n</persname> 来リテ分院ノ老松ニ関スル談話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時半 </time>\n<placename corresp=\"#place_第六天町\"> 大六天《（第）》 </placename> ニ <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 公爵ヲ訪ヘ <persname corresp=\"#pers_豊崎\">\n<surname> 豊崎 </surname>\n</persname> 氏ト談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 事務所ニ抵リ来人ニ接シ、又、事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time> 中央亭ニ抵リ、劇場会社重役会ヲ開キ要件ヲ議決ス、午飧後再ヒ事務所ニ抵リ、 <persname corresp=\"#pers_荒井賢太郎\">\n<surname> 荒井 </surname>\n<forename> 賢太郎 </forename>\n</persname> 氏、 <persname corresp=\"#pers_長森藤吉郎\">\n<surname> 長森 </surname>\n<forename> 藤吉郎 </forename>\n</persname> 氏、 <persname corresp=\"#pers_入江\">\n<surname> 入江 </surname>\n</persname>\n<persname corresp=\"#pers_細田\">\n<surname> 細田 </surname>\n</persname> 、 <persname corresp=\"#pers_野崎\">\n<surname> 野崎 </surname>\n</persname> 、 <persname corresp=\"#pers_諸井\">\n<surname> 諸井 </surname>\n</persname> 等ノ諸氏来訪ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リ、 <orgname> 上武鉄道会社 </orgname> ノ宴会ニ出席シ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename> 香雪軒ニ抵リ、 <placename corresp=\"#place_京阪\"> 京阪\n       </placename> 電気鉄道会社ノ宴会ニ出席ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過 <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

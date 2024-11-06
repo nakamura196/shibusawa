@@ -1,0 +1,73 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-01-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後直ニ入浴シ、畢テ朝飧ヲ喫ス、食後新聞紙ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、韓国倉庫会社設立ニ関シ発起人会ニ出席シ諸般ノ事ヲ評決ス、\n        <persname corresp=\"#pers_大橋\">\n<surname> 大橋 </surname>\n</persname> 、 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_山下\">\n<surname> 山下 </surname>\n</persname> 、 <persname corresp=\"#pers_平沼\">\n<surname> 平沼 </surname>\n</persname> ノ諸氏来会ス、畢テ <orgname> 第一銀行 </orgname>\n       ニ於テ二三ノ来人ニ接シ書類ヲ調査ス、午飧後愛国婦人《（会脱）》ニ抵リ広告塔其他ノ事ヲ議決ス、 <persname corresp=\"#pers_伊東\">\n<surname> 伊東 </surname>\n</persname> 、 <persname corresp=\"#pers_清浦\">\n<surname> 清浦 </surname>\n</persname> 、 <persname corresp=\"#pers_佐藤\">\n<surname> 佐藤 </surname>\n</persname> 諸氏来会ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n       鉄道協会ニ抵リ自働車株式会社創立ニ関スル発起人《（会脱）》ニ出席ス、創立委員ヲ指命決定《（名）》ス、畢テ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ <placename corresp=\"#place_東京湾\"> 東京湾 </placename> 築港ノ件ニ関スル集会ニ出席ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.417,
+                    "lon": 139.783,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 頃 <placename corresp=\"#place_浜町\"> 浜町 </placename>\n<orgname> 日本銀行 </orgname> 集会所ニ抵リ <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 氏ノ招宴ニ出席ス、 <persname corresp=\"#pers_曾禰\">\n<surname> 曾禰 </surname>\n</persname> 、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 、其他銀行者来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 午後十一時 </time> 散会帰宅ス <lb></lb> 愛国婦人会広告塔ノ事ニ関シ、東京市庶務課長\n        <persname corresp=\"#pers_山崎\">\n<surname> 山崎 </surname>\n</persname> 氏ヘ詳細ノ談話ヲ為ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-08-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、昨夜ヨリ少シク冷気ヲ覚フ、朝来微風毫モ苦熱ノ想ナシ、曾テ <persname corresp=\"#pers_成瀬仁蔵\">\n<surname> 成瀬 </surname>\n<forename> 仁蔵 </forename>\n</persname> ヨリ依頼セラレタル <orgname> 女子大学 </orgname> 設立ニ係ル費途ノ醵金募集ニ関シ <placename corresp=\"#place_東京市\"> 東京市 </placename> 商業者間ヘノ依頼状ヲ裁ス、午後 <placename corresp=\"#place_酒匂川\"> 酒匂川\n       </placename> 流末ノ海瀕《（浜）》ニテ海水ニ <pb corresp=\"#pageB1099\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/125/full/max/0/default.jpg\" n=\"B1099\" source=\"#pageB1099\"></pb> 浴ス、浴後読書又ハ遊戯ニ消閑ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.2609,
+                    "lon": 139.184,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

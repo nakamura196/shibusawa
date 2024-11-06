@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-01-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、室内運動ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ畢ル <lb></lb>\n<pb corresp=\"#pageB1348\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/374/full/max/0/default.jpg\" n=\"B1348\" source=\"#pageB1348\"></pb>\n<lb></lb> 今日米人 <persname corresp=\"#pers_デシユラル\"> デシユラル </persname> 氏ト会見ノ約アリシモ、雨天ナルヲ以テ明日ニ延引セン事ヲ\n        <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏ニ照会シ、其事ヲ米人ニ通セシム <lb></lb>\n<persname corresp=\"#pers_穂積歌子\">\n<surname> 穂積 </surname>\n<forename> 歌子 </forename>\n</persname> ニ詠草ヲ送ル、大坂三重紡績会社ニ書状ヲ裁ス <lb></lb> 日記ヲ整理ス、午後入浴シテ揮毫、読書等ニ消閑ス <lb></lb> 毎宵ノ例ニ依リテ弐十分間余室内運動ヲ為ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 就寝 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

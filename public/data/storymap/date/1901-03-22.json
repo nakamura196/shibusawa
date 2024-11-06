@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-03-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 午前八時半 </time>\n<persname corresp=\"#pers_近衛\">\n<surname> 近衛 </surname>\n</persname> 貴族院議長ヲ其官舎ニ訪ヒ京釜鉄道ニ関スル追加予算案本日決議セラレン事ヲ依頼シ、且精糖戻税法案ノ事ヲ依頼ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時\n       </time> 貴族院ニ抵リ右議案決定ノ事ヲ尽力ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<orgname> 第一銀行 </orgname> ニ出勤シ重役会ヲ開ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<persname corresp=\"#pers_花房\">\n<surname> 花房 </surname>\n</persname> 男爵ヲ訪ヒ、 <persname corresp=\"#pers_小松宮\"> 小松宮 </persname> 殿下ヨリ招喚ノ事 <pb corresp=\"#pageB1184\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/210/full/max/0/default.jpg\" n=\"B1184\" source=\"#pageB1184\"></pb> ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename>\n<persname corresp=\"#pers_三野村\">\n<surname> 三野村 </surname>\n</persname> 氏別邸ニ抵リ <persname corresp=\"#pers_高橋是清\">\n<surname> 高橋 </surname>\n<forename> 是清 </forename>\n</persname> 氏ノ招集ニ係ル鰻会ニ列席ス、席上目下ノ経済救治策ニ関スル種々ノ討議アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

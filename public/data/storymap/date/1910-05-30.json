@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-05-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:30:00",
+                    "text": "<time when=\"05:30:00\"> 午前五時半 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 自働車ニテ、\n        <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 、 <persname corresp=\"#pers_明石愛子\">\n<forename> 愛子 </forename>\n</persname> 同伴、 <placename corresp=\"#place_血洗島\"> 血洗島 </placename> ノ葬儀ニ赴ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 九時半 </time>\n<placename corresp=\"#place_深谷\"> 深谷 </placename> ニ抵リ、此日 <placename corresp=\"#place_東京\"> 東京\n       </placename> ヨリ会葬人ノ為メニ設ケタル場所ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 頃 <placename corresp=\"#place_血洗島\"> 血洗島 </placename> ニ抵ル、午飧後葬儀アリ、来会スル者頗ル多シ、埋葬畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\">\n        午後五時 </time> 頃ヨリ <placename corresp=\"#place_血洗島\"> 血洗島 </placename> ヲ発シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 過キ帰宿ス、帰途ハ <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> モ同乗シ、一家五人一車ニテ家ニ還ル、夜飧後、新聞紙又ハ雑誌類ヲ一読ス <lb></lb> 此日、 <placename corresp=\"#place_インド\"> 印度\n       </placename> バロダ国王ヨリ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ招宴セラレシモ、忌中ナルヲ以テ出席ヲ謝絶ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 21.0,
+                    "lon": 78.0,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

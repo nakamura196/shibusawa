@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-06-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、来人ニ接シ、又、書類ヲ調査ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\">\n        午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、来人ニ接シ、事務ヲ処理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 銀行倶楽部 </orgname> 委員会ニ出席ス、午飧中倶楽部晩飧会ノ事ヲ協議ス、畢テ <orgname> 第一銀行 </orgname> ニ抵リ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト行務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 商業会議所ニ抵リ、林、 <persname corresp=\"#pers_金子\">\n<surname> 金子 </surname>\n</persname> 、 <persname corresp=\"#pers_中野\">\n<surname> 中野 </surname>\n</persname> 、 <persname corresp=\"#pers_原田\">\n<surname> 原田 </surname>\n</persname> 氏等ト公会堂創設ノ事ヲ談ス、畢テ <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 首相ノ官邸ヲ訪ヒ、又、 <placename corresp=\"#place_本郷\"> 本郷 </placename> ニ抵リ知人ヲ訪フテ夜飧ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過 <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、夜、新聞紙ヲ一読ス\n       <lb></lb> 管船局 <persname corresp=\"#pers_伊東祐忠\">\n<surname> 伊東 </surname>\n<forename> 祐忠 </forename>\n</persname> 氏来リテ <orgname> 東洋汽船会社 </orgname> ノ事ヲ談ス、朝、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 氏来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

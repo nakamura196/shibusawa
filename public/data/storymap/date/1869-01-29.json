@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-01-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 六時 </time> 発、陌頭より山路を取り <placename corresp=\"#place_湯本\"> 湯本\n       </placename> に至休息、路程稍嶮峻なり、畑といふ処ニ而茶肆に憩ひ、雑煮餅を食す、道路尤嶮なり、時に雨来りぬれは駕に乗りて関門を通、 <placename corresp=\"#place_箱根\"> 箱根 </placename> 宿ニ而午飯、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 頃 <placename corresp=\"#place_三島\"> 三島 </placename> 宿着、 <placename corresp=\"#place_金川\"> 金川 </placename>\n       やといふ旗亭投宿 <lb></lb> 横打御門外 <placename corresp=\"#place_浅野\"> 浅野 </placename> 旅宿 <lb></lb> 元御武具奉行屋敷 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

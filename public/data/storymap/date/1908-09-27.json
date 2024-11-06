@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-09-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、来人ニ接シ又書類ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:37:00",
+                    "text": "<time when=\"08:37:00\">\n        午前八時三十七分 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> 発ノ汽車ニ搭シテ旧郷里ニ抵ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_深谷\"> 深谷 </placename> 駅ニ抵ル、 <persname corresp=\"#pers_渋沢治太郎\">\n<forename> 治太郎 </forename>\n</persname> 以下多人数来リ迎フ、相共ニ <placename corresp=\"#place_血洗島\"> 血洗島 </placename> ニ抵ル、午飧後、\n        <placename corresp=\"#place_諏訪神社\"> 諏訪神社 </placename> ニ抵リ獅子舞ノ祭典ニ出席ス、畢テ家ニ帰リ更ニ墓参ヲ為ス、先人ノ墳墓ヲ拝シテ後、\n        <placename corresp=\"#place_手計\"> 手計 </placename> ニ抵リ <persname corresp=\"#pers_尾高惇忠\">\n<forename> 藍香 </forename>\n</persname> 翁建碑ノ地ヲ鹿島神社ノ附近ニ一覧ス、更ニ <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 氏ノ墓地ニ詣シ、 <persname corresp=\"#pers_定四郎\">\n<forename> 定四郎 </forename>\n</persname> ノ家ヲ訪ヒ小憩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 過キ帰宿ス、夜飧後、 <persname corresp=\"#pers_渋沢市郎\">\n<forename> 市郎 </forename>\n</persname> 宅ニ村人多数聚来シ、獅子舞ノ祭典アリテ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 過散会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

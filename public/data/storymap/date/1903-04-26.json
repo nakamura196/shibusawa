@@ -1,0 +1,109 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-04-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 朝飧ヲ畢リ二三ノ来人ニ接シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 大坂\n        <orgname> 汽車製造会社 </orgname> ニ抵リ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 社長ニ面会シ会社営業ノ近況ヲ聴ク、共ニ工場ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n       博覧会場ニ抵リ器械館、農林水産館、工業館等ヲ巡覧ス、 <persname corresp=\"#pers_伊藤与七\">\n<surname> 伊藤 </surname>\n<forename> 与七 </forename>\n</persname>\n<persname corresp=\"#pers_木村雄次\">\n<surname> 木村 </surname>\n<forename> 雄次 </forename>\n</persname> ノ二氏同伴ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 会場中ノ西洋料理店ニ於テ午飧ヲ為ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 過 <placename corresp=\"#place_梅田\"> 梅田 </placename> 伝法屋ニ抵リテ小憩シ、\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.7005611,
+                    "lon": 135.4957444,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:20:00",
+                    "text": "<time when=\"14:20:00\"> 二時二十分 </time> 発ノ汽車ニテ <placename corresp=\"#place_神戸\"> 神戸 </placename>\n       ニ赴ク、 <placename corresp=\"#place_住吉停車場\"> 住吉停車場 </placename> ニ於テ車ヲ下リ御影ナル <persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 伯別荘ヲ訪ヒ、伯ニ面会シテ京釜鉄道会社々債ノ事ヲ談話シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 過ノ汽車ニテ神戸支店ニ抵ル、\n        <persname corresp=\"#pers_熊谷辰太郎\">\n<surname> 熊谷 </surname>\n<forename> 辰太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_岸崎昌\">\n<surname> 岸崎 </surname>\n<forename> 昌 </forename>\n</persname> 其他ノ諸氏来リ迎フ、着後直ニ <persname corresp=\"#pers_熊谷\">\n<surname> 熊谷 </surname>\n</persname>\n<persname corresp=\"#pers_岸崎\">\n<surname> 岸崎 </surname>\n</persname> 二氏ト共ニ兵庫出張所ヲ一覧ス、更ニ支店ニ抵リテ夜飧ヲ為シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 午後七時半 </time> ノ汽車ニテ\n        <placename corresp=\"#place_京都\"> 京都 </placename> ニ抵ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過\n        <placename corresp=\"#place_京都\"> 京都 </placename> 着、 <persname corresp=\"#pers_中川知一\">\n<surname> 中川 </surname>\n<forename> 知一 </forename>\n</persname> 氏ヲ始メ諸氏来リ迎フ、 <placename corresp=\"#place_木屋町通\"> 木屋町 </placename>\n<orgname> 玉川楼 </orgname> ニ投宿ス、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ノ一行ハ朝来方向ヲ異ニシテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 午後七時半 </time>\n<placename corresp=\"#place_京都\"> 京都 </placename> 着、同シク <orgname> 玉川楼 </orgname> ニ宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

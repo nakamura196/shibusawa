@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-10-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<orgname> 東京商業会議所 </orgname> 役員会ヲ開ク、畢テ <persname corresp=\"#pers_井上勝\">\n<surname> 井上 </surname>\n<forename> 勝 </forename>\n</persname> 氏来ル、正午 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 銀行集会所ニ抵リ今村、 <persname corresp=\"#pers_瓜生\">\n<surname> 瓜生 </surname>\n</persname> 、 <persname corresp=\"#pers_平岡\">\n<surname> 平岡 </surname>\n</persname> ノ三氏ト会シテ <orgname> 汽車製造会社 </orgname> ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n       磐城炭坑会社ニ抵リ重役会ヲ開ク、長門無煙炭会社ノ事ヲモ并セ議ス、 <persname corresp=\"#pers_吉原正道\">\n<surname> 吉原 </surname>\n<forename> 正道 </forename>\n</persname> 、 <persname corresp=\"#pers_小林秀知\">\n<surname> 小林 </surname>\n<forename> 秀知 </forename>\n</persname> 、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏等会合ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ印度人 <persname corresp=\"#pers_タタ\">\n<surname> タタ </surname>\n</persname> 氏ノ招宴ニ列ス、 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 、 <persname corresp=\"#pers_園田\">\n<surname> 園田 </surname>\n</persname> 、 <persname corresp=\"#pers_岩永\">\n<surname> 岩永 </surname>\n</persname> 、 <persname corresp=\"#pers_小川\">\n<surname> 小川 </surname>\n</persname> 、 <persname corresp=\"#pers_朝吹\">\n<surname> 朝吹 </surname>\n</persname> ノ諸氏来会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

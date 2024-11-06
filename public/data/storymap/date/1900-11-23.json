@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-11-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前二三ノ来人ニ接ス、 <persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> 明日ノ白川丸ヲ以テ先発帰国スルニ付、 <orgname> 第一銀行 </orgname>\n<persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏、 <placename corresp=\"#place_深川\"> 深川 </placename> 宅 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 等ヘ書状ヲ裁ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_仁川\"> 仁川 </placename> 発ノ汽車ニ搭シ <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 氏ヲ伴フテ <placename corresp=\"#place_京城府\"> 京城 </placename> ニ抵ル、 <persname corresp=\"#pers_閔丙奭\">\n<surname> 閔 </surname>\n<forename> 丙奭 </forename>\n</persname> ノ招宴ニ応スル為メナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time>\n<placename corresp=\"#place_京城府\"> 京城 </placename> 着、直ニ <persname corresp=\"#pers_閔\">\n<surname> 閔 </surname>\n</persname> 氏ノ居ヲ訪フ、 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 公使、 <persname corresp=\"#pers_山座\">\n<surname> 山座 </surname>\n</persname> 公使書記官、 <persname corresp=\"#pers_大江卓\">\n<surname> 大江 </surname>\n<forename> 卓 </forename>\n</persname> 、 <persname corresp=\"#pers_朴\">\n<surname> 朴 </surname>\n</persname> 外部、 <persname corresp=\"#pers_李載純\">\n<surname> 李 </surname>\n<forename> 載純 </forename>\n</persname> 、 <persname corresp=\"#pers_金永準\">\n<surname> 金 </surname>\n<forename> 永準 </forename>\n</persname> ノ諸氏来会ス、饗宴畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> ノ汽車ニ搭シテ <placename corresp=\"#place_仁川\"> 仁川 </placename> ニ帰ル、 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 氏ヲシテブ氏ヲ訪ヒ昨日送リタル書状ノ事ヲ談セシム、汽車 <persname corresp=\"#pers_中林\">\n<surname> 中林 </surname>\n</persname> 公使、 <persname corresp=\"#pers_山座\">\n<surname> 山座 </surname>\n</persname> 公使書記官等同行ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 七時半 </time> 支那領事 <persname corresp=\"#pers_唐栄浩\">\n<surname> 唐 </surname>\n<forename> 栄浩 </forename>\n</persname> ノ招宴ニ列ス、支那調理ニシテ味極テ佳ナリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 帰宿ス此夜又 <placename corresp=\"#place_東京\"> 東京 </placename> ヘノ書状ヲ裁ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

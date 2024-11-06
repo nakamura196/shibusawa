@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-03-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、半身浴ヲ為シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_吉岡新五郎\">\n<surname> 吉岡 </surname>\n<forename> 新五郎 </forename>\n</persname> 氏ノ来訪ニ接シテ <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 身上ニ関スル詳細ノ談話ヲ為ス、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 氏来リ、養育院避病院新設ノ事ニ付土地買入ノ事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 午前十二時半 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト談話ス、又、 <persname corresp=\"#pers_大沢\">\n<surname> 大沢 </surname>\n</persname> 氏ト文事ヲ談ス、午飧後事務所ニ抵リ諸方ヘ書状ヲ裁ス、米人雑誌記者来リ話ス、株式取引所問題ニ付某氏来話ス、同文館主 <persname corresp=\"#pers_森山章之丞\">\n<surname> 森山 </surname>\n<forename> 章之丞 </forename>\n</persname> 氏来リ、青渊百話出板ノ事ニ関シ種々ノ協議ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 午後六時半 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿シ、夜飧後、百話ノ原稿修正ニ努ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\">\n        午前十一時 </time>\n<orgname> 高等商業学校 </orgname> ニ抵リ <persname corresp=\"#pers_坪野\">\n<surname> 坪野 </surname>\n</persname> 氏ニ面会シテ専攻部存続ニ関シテ協議ヲ為ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

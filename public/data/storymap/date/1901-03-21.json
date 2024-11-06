@@ -1,0 +1,79 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-03-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_上野\"> 上野 </placename> 停車場ニ抵リ王子行汽車ニテ <placename corresp=\"#place_飛鳥山邸\"> 飛鳥山別荘 </placename> ニ抵リ新築及庭園ヲ一覧、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_赤羽\"> 赤羽 </placename> 経過 <placename corresp=\"#place_品川\"> 品川\n       </placename> 行ノ汽車ニ搭シテ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7792389,
+                    "lon": 139.7202667,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<placename corresp=\"#place_品川\"> 品川 </placename> ニ抵リ <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 氏ノ大師会ニ出席ス、 <persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 伯、 <persname corresp=\"#pers_福岡孝弟\">\n<surname> 福岡 </surname>\n<forename> 孝悌 </forename>\n</persname> 、 <persname corresp=\"#pers_山本達雄_(政治家)\">\n<surname> 山本 </surname>\n<forename> 達雄 </forename>\n</persname> ノ諸氏ヲモ見受ケタリ、畢テ夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 過 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

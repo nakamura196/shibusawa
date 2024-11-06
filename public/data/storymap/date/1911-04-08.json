@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-04-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、風邪気尚未タ愈ヘス、半身浴ヲ為シテ後朝飧ス、後、来人ニ接ス、 <persname corresp=\"#pers_野依秀市\">\n<surname> 野依 </surname>\n<forename> 秀一 </forename>\n</persname> 、 <persname corresp=\"#pers_蓮沼門三\">\n<surname> 蓮沼 </surname>\n<forename> 門三 </forename>\n</persname> 、 <persname corresp=\"#pers_野口\">\n<surname> 野口 </surname>\n</persname> 、 <persname corresp=\"#pers_小島\">\n<surname> 小島 </surname>\n</persname> ノ諸氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 途中一友人ヲ訪フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\">\n        午後二時 </time> 事務所ニ抵リ書類ヲ調査ス、又、来人ニ接ス、 <persname corresp=\"#pers_西野恵之助\">\n<surname> 西野 </surname>\n<forename> 恵之助 </forename>\n</persname> 氏来リテ劇場会社ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 商業会議所ニ抵リ、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 観光団接見会ニ出席シ一場ノ挨拶ヲ為ス、畢テ <placename corresp=\"#place_浜町\"> 浜町 </placename> 岡田ニ抵リ、 <persname corresp=\"#pers_中野\">\n<surname> 中野 </surname>\n</persname> 、 <persname corresp=\"#pers_柿沼\">\n<surname> 柿沼 </surname>\n</persname> 、 <persname corresp=\"#pers_河野\">\n<surname> 河野 </surname>\n</persname> 、 <persname corresp=\"#pers_浜口\">\n<surname> 浜口 </surname>\n</persname> 四人ヲ招宴ス、浅野セメント工場ニ関シテ <placename corresp=\"#place_深川\"> 深川 </placename>\n       青年団トノ中間ニ立入リ仲裁ノ労ヲ取ラレシヲ謝スル為ニ設ケタルナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 午後十時 </time> ニ散会、帰宿ス、夜、新聞紙ヲ読ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

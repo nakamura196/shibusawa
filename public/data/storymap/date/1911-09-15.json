@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-09-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ、朝飧ヲ食ス、後、 <persname corresp=\"#pers_高野庄六\">\n<surname> 高野 </surname>\n<forename> 庄六 </forename>\n</persname> 氏及其男同伴ノ来訪ヲ受ク、又、 <persname corresp=\"#pers_小暮房雄\">\n<surname> 小暮 </surname>\n<forename> 房雄 </forename>\n</persname> 氏来話ス、養育院 <persname corresp=\"#pers_大橋勇\">\n<surname> 大橋 </surname>\n<forename> 勇 </forename>\n</persname> 氏来リ府下木賃宿ヲ調査セシ顚末ヲ詳話ス、新 <placename corresp=\"#place_日本\"> 日本 </placename>\n<persname corresp=\"#pers_安本重治\">\n<surname> 安本 </surname>\n<forename> 重治 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_井上準之助\">\n<surname> 井上 </surname>\n<forename> 準之助 </forename>\n</persname> 氏ヘノ添書ヲ交付ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time> 早稲田ニ <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯邸ヲ訪ヘ、米人ジヨルタン博士歓迎ノ午飧会ニ列席ス、来会者四十人許リナリ、午飧畢テ種々ノ談話アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時\n       </time> 事務所ニ抵リ事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename> 香雲軒ニ抵リ <placename corresp=\"#place_千代田\"> 千代田\n       </placename> 瓦斯会社ノ招宴ニ出席ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 七時半 </time> 外務大臣官舎ニ抵リ、 <persname corresp=\"#pers_石井\">\n<surname> 石井 </surname>\n</persname> 氏招宴ノ <persname corresp=\"#pers_ジヨルダン\">\n<surname> ジヨルダン </surname>\n</persname> 博士ノ晩飧ニ列席ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散会、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-08-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 午後第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 二時半 </time> 港口御越、舟を雇へ海中を乗廻し、 <placename corresp=\"#place_ブリタニー\">\n        ブリタニー </placename>\n       といふ大軍艦の碇泊せる辺を乗廻し、港口御一覧、本港は入口甚隘く、僅壱里不足之《（衍）》ニ而両縁之山特角し、恰も人の造作せることし、港内の丸く湾になりて尤深しといふ周囲凡九里程ありといふ、仏人曰、\n        <placename corresp=\"#place_シェルブール＝オクトヴィル\"> シヤルブー <pb corresp=\"#pageB1004\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/30/full/max/0/default.jpg\" n=\"B1004\" source=\"#pageB1004\"></pb> ル </placename> は《（エ）》人功もて成せる地にて尤堅牢なれとも、 <placename corresp=\"#place_ブレスト_(フランス)\"> ブレスト </placename> は天造の要領之地なりと、所以《（マヽ）》に諸事宏壮を極メしは <placename corresp=\"#place_ブレスト_(フランス)\"> ブレスト </placename> の方其勝るを覚ゆ <lb></lb> 第 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 49.633,
+                    "lon": -1.6167,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半\n       </time> 御帰館、明日当地御出立之積、理装いたす "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

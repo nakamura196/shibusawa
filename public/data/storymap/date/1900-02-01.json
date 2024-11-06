@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-02-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 午前数多ノ来人ニ接ス、午後 <orgname> 第一銀行 </orgname> ニ抵リ重役会ヲ開ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n       日本橋倶楽部ニ抵リ京釜鉄道会社発起人会ヲ開ク、議長トナリテ議事ヲ整理ス、最初 <persname corresp=\"#pers_尾崎\">\n<surname> 尾崎 </surname>\n</persname> 氏ヨリ韓国政府トノ交渉ニ関シ許可ヲ得ルニ至ルマテノ顚末及本鉄道将来ノ見込ニ付テノ意見等二十九年来ノ経歴ヲ述フ、次ニ <persname corresp=\"#pers_大江卓\">\n<surname> 大江 </surname>\n<forename> 卓 </forename>\n</persname>\n       氏ヨリ線路踏査ニ関スル手続キ及布設工費ノ概算、営業収支ノ予算等マテ詳細ニ報告ス、自分ハ参考トシテ京仁鉄道ノ工事顚末及開業後ノ収支実況ヨリ将来ノ見込マテヲ陳述ス、畢テ本日ノ議事ニ移リ\n        <persname corresp=\"#pers_竹内綱\">\n<surname> 竹内 </surname>\n<forename> 綱 </forename>\n</persname> 氏説明員トナリテ逐条ヲ審議シ、一二字ノ修正ニ止リ総テ議案ヲ決定ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n       散宴ス、創立委員ノ人員ハ十三名トシ其撰挙ハ議長指名トシ、内 <persname corresp=\"#pers_渋沢栄一\">\n<surname> 渋沢 </surname>\n</persname> 君ハ委員タルヘキ事ト定メタシトノ動議ハ満場ノ賛成（ <persname corresp=\"#pers_柴原和\">\n<surname> 柴原 </surname>\n<forename> 和 </forename>\n</persname> 氏ノ発議）ニテ決定ス、依テ散会後ニ十名ノ委員ヲ指定シ、他ノ三名ハ追テ <placename corresp=\"#place_京坂\"> 京坂\n       </placename> 地方等ニ必要アル場合ニ撰挙スヘキモノトシテ委員会ヲモ散シタリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

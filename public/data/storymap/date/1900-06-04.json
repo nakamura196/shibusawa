@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-06-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前数多ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<orgname> 東京商業会議所 </orgname> 役員会ニ列ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ヲ <placename corresp=\"#place_麻布\"> 麻布 </placename> ノ邸ニ訪ヒ <orgname> 汽車製造会社\n       </orgname> ノ事及白耳義人ノ組織セル東洋会社ノ事ヲ話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time>\n<persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 侯爵ヲ訪ヒ時事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<orgname> 第一銀行 </orgname> ニ出勤シ文書ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 過 <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵ル、 <persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 大蔵大臣及 <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> ノ二氏、 <persname corresp=\"#pers_青木\">\n<surname> 青木 </surname>\n</persname> 外務、 <persname corresp=\"#pers_内田\">\n<surname> 内田 </surname>\n</persname> 政務局長、 <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 、 <persname corresp=\"#pers_高橋\">\n<surname> 高橋 </surname>\n</persname> 二氏等ヲ招宴シテ <placename corresp=\"#place_大韓民国\"> 韓国 </placename> ノ財政経済ニ関スル談話会ヲ開ク、蓋シ\n        <persname corresp=\"#pers_西脇長太郎\">\n<surname> 西脇 </surname>\n<forename> 長太郎 </forename>\n</persname>\n<placename corresp=\"#place_仁川\"> 仁川 </placename> ヨリ帰朝シ、 <persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> 近日 <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n       ニ出張スルニ付其紹介ノ為此宴ヲ設ケタルナリ、賓主各意見ヲ快談シ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会ス、此日 <persname corresp=\"#pers_江崎\">\n<surname> 江崎 </surname>\n</persname> 某、 <persname corresp=\"#pers_藤井謙吉郎\">\n<surname> 藤井 </surname>\n<forename> 謙吉郎 </forename>\n</persname>\n<placename corresp=\"#place_ロシア\"> 露国 </placename> 行ノ事ニ付来話ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n       過 <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

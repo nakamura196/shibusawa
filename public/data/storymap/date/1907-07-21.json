@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-07-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後入浴シ、畢テ園中ヲ散歩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ食ス、 <persname corresp=\"#pers_神田鐳蔵\">\n<surname> 神田 </surname>\n<forename> 鐳蔵 </forename>\n</persname> 夫妻来訪ス、 <persname corresp=\"#pers_田中元三郎\">\n<surname> 田中 </surname>\n<forename> 元三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_吉岡新五郎\">\n<surname> 吉岡 </surname>\n<forename> 新五郎 </forename>\n</persname> 、 <persname corresp=\"#pers_山中譲三\">\n<surname> 山中 </surname>\n<forename> 譲三 </forename>\n</persname> 、 <persname corresp=\"#pers_五十嵐栄吉\">\n<surname> 五十嵐 </surname>\n<forename> 栄吉 </forename>\n</persname> 、 <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 諸氏続々来話ス、午飧後 <persname corresp=\"#pers_三島中洲\">\n<surname> 三島 </surname>\n<forename> 中洲 </forename>\n</persname> 翁ヲ訪ヒ、 <persname corresp=\"#pers_尾高惇忠\">\n<surname> 尾高 </surname>\n<forename> 藍香 </forename>\n</persname> 碑文ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 帰宿ス、夜飧後読書ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

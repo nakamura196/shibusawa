@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-03-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後書類ヲ調査シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ了ル、 <persname corresp=\"#pers_渡辺精吉郎\">\n<surname> 渡辺 </surname>\n<forename> 精吉郎 </forename>\n</persname> 来リ旧日鉄会社ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 出勤途中 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 氏ニ面会シテ <orgname> 韓国銀行 </orgname> 券ノ事ヲ談ス <pb corresp=\"#pageB1443\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/469/full/max/0/default.jpg\" n=\"B1443\" source=\"#pageB1443\"></pb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 事務所ニ抵リ、浦賀船渠会社ノ重役会ニ出席シ要務ヲ協議ス、畢テ日本倶楽部ニ抵リ喜賓会役員会ニ出席シ、 <persname corresp=\"#pers_服部\">\n<surname> 服部 </surname>\n</persname> 兵庫県知事、其他ノ人々ト会話ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

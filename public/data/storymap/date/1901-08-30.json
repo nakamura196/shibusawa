@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-08-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前海水浴ヲ為シ畢テ <placename corresp=\"#place_東京\"> 東京 </placename> ヘノ書状ヲ作ル、 <persname corresp=\"#pers_一森彦楠\">\n<surname> 一森 </surname>\n<forename> 彦楠 </forename>\n</persname> 氏京釜鉄道会社ノ事務ニ付 <persname corresp=\"#pers_竹内\">\n<surname> 竹内 </surname>\n</persname> 氏ノ来状ヲ持参ス、依テ答書ヲ裁シ且其詳細ヲ <persname corresp=\"#pers_一森\">\n<surname> 一森 </surname>\n</persname> 氏ニ附言シテ <persname corresp=\"#pers_日下\">\n<surname> 日下 </surname>\n</persname> 取締役ニ伝ヘシム <lb></lb> 東洋会社ノ書類ニ関シ <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ニ書状ヲ送ル、 <persname corresp=\"#pers_田辺貞吉\">\n<surname> 田辺 </surname>\n<forename> 貞吉 </forename>\n</persname> 、 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 等ヘノ返書ヲモ封入ス <lb></lb> 午後、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 侯爵ヲ訪フ、不在ナルニヨリ更ニ <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 氏ノ別業ヲ訪フ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

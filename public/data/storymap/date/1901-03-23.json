@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-03-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰ル、 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 、 <persname corresp=\"#pers_平沢道次\">\n<surname> 平沢 </surname>\n<forename> 道次 </forename>\n</persname> 、 <persname corresp=\"#pers_進経太\">\n<surname> 進 </surname>\n<forename> 経太 </forename>\n</persname> ノ諸氏来リ <orgname> 石川島造船所 </orgname> ノ事ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 海軍省ニ抵リ\n        <persname corresp=\"#pers_角田\">\n<surname> 角田 </surname>\n</persname> 艦政部長ニ面会シテ浦賀船渠合併ノ事ヲ談話ス、 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 同伴ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 貴族院ニ抵リ頃日来奔走心配スル処ノ京釜鉄道ニ関スル追加予算通過ノ事ヲ尽力ス\n        <persname corresp=\"#pers_原\">\n<surname> 原 </surname>\n</persname> 逓信大臣、 <persname corresp=\"#pers_坂谷芳郎\">\n<surname> 坂谷 </surname>\n<forename> 芳郎 </forename>\n</persname> 《（ <persname corresp=\"#pers_阪谷芳郎\">\n<surname> 阪谷 </surname>\n<forename> 芳郎 </forename>\n</persname> ）》、貴族院議員数名ニ面会シテ懇切ニ依頼ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ出勤ス、住友銀行 <persname corresp=\"#pers_植野\">\n<surname> 植野 </surname>\n</persname> 氏来ル、 <orgname> 十勝開墾会社 </orgname>\n<persname corresp=\"#pers_小田信樹\">\n<surname> 小田 </surname>\n<forename> 信樹 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 過帰宿、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n       偕楽園ニリ <persname corresp=\"#pers_坂田貞一\">\n<surname> 坂田 </surname>\n<forename> 貞一 </forename>\n</persname> ト会食ス、 <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 、 <persname corresp=\"#pers_堀江\">\n<surname> 堀江 </surname>\n</persname> 及帽子会社ノ諸氏来会ス、夜 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

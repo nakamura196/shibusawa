@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-06-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後 <placename corresp=\"#place_東京\"> 東京 </placename> 留守宅及 <placename corresp=\"#place_平壌\">\n        平壌 </placename> ヨリ来状ノ回答ヲ認ム、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 39.031859,
+                    "lon": 125.753765,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 過朝飧ヲ畢リ、 <persname corresp=\"#pers_宇都曾一\">\n<surname> 宇都 </surname>\n<forename> 曾一 </forename>\n</persname> 、 <persname corresp=\"#pers_渡瀬常吉\">\n<surname> 渡瀬 </surname>\n<forename> 常吉 </forename>\n</persname> 、 <persname corresp=\"#pers_和田義睦\">\n<surname> 和田 </surname>\n<forename> 義睦 </forename>\n</persname> 三氏ニ面話ス、東大門外ノ荒蕪地ニ関スル件、京城学堂ノ件、水力電気調査ノ景況等ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n       、支店ノ人々ト会シテ各地ノ状況ヲ報告セシム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_京城府\"> 京城 </placename> 発ノ汽車ニテ <placename corresp=\"#place_仁川\"> 仁川\n       </placename> ニ抵ル、 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> 随行ス、 <persname corresp=\"#pers_加藤\">\n<surname> 加藤 </surname>\n</persname> 理事、 <persname corresp=\"#pers_野口\">\n<surname> 野口 </surname>\n</persname> 支店長其他十数人来リ迎フ、 <persname corresp=\"#pers_加藤\">\n<surname> 加藤 </surname>\n</persname> 理事ニ誘ハレテ其官舎ニ抵リ午飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 過 <orgname> 第一銀行 </orgname>\n       支店ニ抵リ行務ヲ視ル、金庫其他ヲ一覧シ、行員ヲ集メテ一場ノ訓示ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n       浅岡楼ニ抵リ休憩ス、夜、当地ノ人士招宴ノ会ヲ開キ、席上一場ノ演説ヲ為ス、来賓中曾我税関長ノ答辞アリ、賓主歓ヲ尽シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1906-06-26T00:00+0900\"> 十二時 </time> 散会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

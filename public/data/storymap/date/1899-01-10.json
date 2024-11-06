@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-01-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> ヨリ来書、 <persname corresp=\"#pers_モールス\">\n<surname> モールス </surname>\n</persname> 関係ノ事ヲ報シ来ル、姪 <persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> ヨリ来書、昨年中、 <placename corresp=\"#place_神戸\"> 神戸 </placename> 、 <placename corresp=\"#place_京都\"> 京都 </placename> 、 <placename corresp=\"#place_名古屋\"> 名古屋 </placename>\n       地方歴遊ノ次第ヲ報シ来ル、 <persname corresp=\"#pers_西村勝三\">\n<surname> 西村 </surname>\n<forename> 勝三 </forename>\n</persname> 氏来ル <lb></lb>\n<pb corresp=\"#pageB1070\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/96/full/max/0/default.jpg\" n=\"B1070\" source=\"#pageB1070\"></pb>\n<lb></lb> 昨日午前 <persname corresp=\"#pers_孕石元照\">\n<surname> 孕石 </surname>\n<forename> 元照 </forename>\n</persname> 来ル、 <persname corresp=\"#pers_孕石元照\">\n<forename> 元照 </forename>\n</persname> ハ曾テ <placename corresp=\"#place_イギリス\"> 英国 </placename> ニ於テアルムストロング会社ニ於テ造船ヲ修行セシ人ナリ、\n        <persname corresp=\"#pers_板垣\">\n<surname> 板垣 </surname>\n</persname> 伯ノ親戚ナルヲ以テ伯ヨリ其身上ヲ依頼サレタリ、然レトモ <orgname> 石川島造船所 </orgname> ニハ必要ナキニヨリ予メ之ヲ謝絶ス、此日 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:45:00",
+                    "text": "<time when=\"16:45:00\"> 午後四時四十五分 </time> ノ発車ニテ <placename corresp=\"#place_大磯町\"> 大磯 </placename>\n       ヲ発シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_東京\"> 東京 </placename> 着帰宅ス、 <placename corresp=\"#place_新橋\"> 新橋\n       </placename> 駐車場ニ新戚家人多《（親）》ク来リ迎フ、此夜 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ヨリ留守中ノ事務ヲ詳聞ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

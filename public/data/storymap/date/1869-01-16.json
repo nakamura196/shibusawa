@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-01-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝より諸近隣之者つとゐ来り、 <placename corresp=\"#place_フランス\"> 仏国 </placename>\n       に在りし事共相話す、昨日より本家之折合行届ければ、夜、 <persname corresp=\"#pers_常太郎\">\n<forename> 常太郎 </forename>\n</persname> 同行ニ而罷越す、 <persname corresp=\"#pers_宗助\">\n<forename> 宗助 </forename>\n</persname> 父子及婦人共不残面会旧を話す、此夜、 <persname corresp=\"#pers_新地九一郎\">\n<surname> 新地 </surname>\n<forename> 九一郎 </forename>\n</persname> 、 <persname corresp=\"#pers_福田治助\">\n<surname> 福田 </surname>\n<forename> 治助 </forename>\n</persname> 兄弟来る、洋州の事共論話いたす "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

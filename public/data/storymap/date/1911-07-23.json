@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-07-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ後朝飧ヲ食ス、畢テ <persname corresp=\"#pers_原小太郎\">\n<surname> 原 </surname>\n<forename> 小太郎 </forename>\n</persname> 氏ノ来訪ニ接ス日記ヲ編成ス、夜来微雨、風寒シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 頃ヨリ風ヲ交テ雨強シ、気候秋冷ノ時ノ如シ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 過種々ノ来客ニ接ス、 <persname corresp=\"#pers_穂積歌子\">\n<surname> 穂積 </surname>\n<forename> 歌子 </forename>\n</persname> 、 <persname corresp=\"#pers_阪谷琴子\">\n<surname> 阪谷 </surname>\n<forename> 琴子 </forename>\n</persname> 来リテ <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ノ身上ニ関シテ談話ス、 <persname corresp=\"#pers_岡部\">\n<surname> 岡部 </surname>\n</persname> 老母来話ス <lb></lb> 演説筆記ヲ修正ス、又、雑誌ヲ読ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 及児輩共ニ自働車ニテ <placename corresp=\"#place_新橋\"> 新橋 </placename> ニ抵リ、 <persname corresp=\"#pers_矢作\">\n<surname> 矢作 </surname>\n</persname> 博士 <placename corresp=\"#place_欧洲\"> 欧洲 </placename> 行ヲ送別ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\">\n        七時 </time> 過帰宅シテ夜飧ス、後、新聞紙及小説類ヲ読マシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

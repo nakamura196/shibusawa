@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-11-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<persname corresp=\"#pers_小村\">\n<surname> 小村 </surname>\n</persname> 外務大臣ヲ官舎ニ訪ヒ、 <placename corresp=\"#place_イギリス\"> 英国 </placename>\n       ニ於テ経営セシ京釜鉄道会社々債ノ顚末ヲ陳述ス、且 <placename corresp=\"#place_支那\"> 支那 </placename> ニ関スル種々ノ設計及\n        <placename corresp=\"#place_大韓民国\"> 韓国 </placename> ニ対スル事務ヲ談ス、又 <persname corresp=\"#pers_曾禰\">\n<surname> 曾禰 </surname>\n</persname> 大蔵大臣ヲ訪ヒ、同シク京釜鉄道会社々債ノ件及 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       ニ於テ銀行家ト会見セシ我邦ノ公債ヲ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> ニ流通セシムル事ヲ談話ス、午後\n        <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ於テ書類ヲ整理シ、且来人ニ接ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 過 <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

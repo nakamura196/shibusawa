@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-02-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ食シ、家庭新聞記者ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<orgname> 人造肥料会社 </orgname> ニ抵リ、重役会ヲ開キ要件ヲ議決ス、午飧後、 <placename corresp=\"#place_日本橋兜町\"> 兜町\n       </placename> 事務所ニ抵リ、 <persname corresp=\"#pers_千家尊福\">\n<surname> 千家 </surname>\n<forename> 尊福 </forename>\n</persname> 男ノ来訪ニ接ス、 <persname corresp=\"#pers_脇田勇\">\n<surname> 脇田 </surname>\n<forename> 勇 </forename>\n</persname> 氏来リテ <orgname> 宮城屋銀行 </orgname> ノ事ヲ談ス <lb></lb> 三井物産会社 <persname corresp=\"#pers_藤野\">\n<surname> 藤野 </surname>\n</persname> 氏、及 <persname corresp=\"#pers_藤井\">\n<surname> 藤井 </surname>\n</persname> 、 <persname corresp=\"#pers_志方\">\n<surname> 志方 </surname>\n</persname> ノ諸氏来リ、 <orgname> 人造肥料会社 </orgname> 合同ノ事ヲ談ス <lb></lb>\n<persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 氏来リ、 <placename corresp=\"#place_広島\"> 広島 </placename> 水力会社ノ事ヲ詳話セラル、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス <lb></lb> 風邪気ニテ直ニ褥中ニ入リ発汗ス、夜、歯痛及頭痛ニテ苦悶ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 東洋硝子会社ノ重役会ヲ事務所ニ開ク <lb></lb>\n<orgname> 東京瓦斯会社 </orgname> 重役会ニハ出席ヲ得ス、電話ニテ断リ遣ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

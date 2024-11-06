@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-05-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後庭園ヲ散歩シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 頃入浴、畢テ朝飧ヲ喫ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時\n       </time> 養育院ニ抵リ院内ヲ一覧シ事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ午飧ス、食後重役会ヲ開キ要務ヲ議決ス、 <persname corresp=\"#pers_竹内綱\">\n<surname> 竹内 </surname>\n<forename> 綱 </forename>\n</persname> 氏来リ京釜鉄道会社ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 銀行集会所ニ抵リ癩病救助方法講究ノ事ヲ議ス、\n        <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯 <persname corresp=\"#pers_清浦\">\n<surname> 清浦 </surname>\n</persname> 、 <persname corresp=\"#pers_石黒\">\n<surname> 石黒 </surname>\n</persname> 其他多人数来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 散会ス、事務所ニ抵リテ帽子会社 <persname corresp=\"#pers_早速\">\n<surname> 早速 </surname>\n</persname> 、 <persname corresp=\"#pers_土肥\">\n<surname> 土肥 </surname>\n</persname> 、 <persname corresp=\"#pers_川田\">\n<surname> 川田 </surname>\n</persname> 、 <persname corresp=\"#pers_岡本\">\n<surname> 岡本 </surname>\n</persname> 、 <persname corresp=\"#pers_浅田正文\">\n<surname> 浅田 </surname>\n<forename> 正文 </forename>\n</persname> 、 <persname corresp=\"#pers_皆川四郎\">\n<surname> 皆川 </surname>\n<forename> 四郎 </forename>\n</persname> 、 <persname corresp=\"#pers_滝兵右衛門\">\n<surname> 滝 </surname>\n<forename> 兵右衛門 </forename>\n</persname> 等ノ諸氏ニ会話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 午後七時半 </time>\n<persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ米人 <persname corresp=\"#pers_シツフ\">\n<surname> シツフ </surname>\n</persname> 氏ノ夜飧会ニ出席ス、来会者九十名余、粧飾、割烹頗ル美善ヲ尽サレリ食卓上 <persname corresp=\"#pers_シツフ\">\n<surname> シツフ </surname>\n</persname> 氏ノ演説、 <persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 伯ノ答辞アリ、各歓ヲ尽シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 過散会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

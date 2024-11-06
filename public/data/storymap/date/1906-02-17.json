@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-02-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後先ツ書斎ニ於テ日誌ヲ整理シ書類ヲ調査ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time> 入浴、畢テ朝飧ヲ喫ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ来人ニ接シ書類ヲ検閲ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\">\n        十二時 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、食後数多ノ来人ニ接ス、 <persname corresp=\"#pers_目賀田種太郎\">\n<surname> 目賀田 </surname>\n<forename> 種太郎 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:30:00",
+                    "text": "<time when=\"13:30:00\"> 一時半 </time>\n<placename corresp=\"#place_大韓民国\"> 韓国 </placename> 水利ノ件ニ付同志数名来会シテ、 <persname corresp=\"#pers_和田\">\n<surname> 和田 </surname>\n</persname> 技師ヲシテ更ニ精査セシムル手続ヲ協議ス、畢テ又 <persname corresp=\"#pers_寺西\">\n<surname> 寺西 </surname>\n</persname> 、 <persname corresp=\"#pers_井口\">\n<surname> 井口 </surname>\n</persname> 等ノ来訪ニ接シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<orgname> 銀行倶楽部 </orgname> 晩餐会ニ出席ス、 <persname corresp=\"#pers_稲垣\">\n<surname> 稲垣 </surname>\n</persname> 公使、 <persname corresp=\"#pers_目賀田\">\n<surname> 目賀田 </surname>\n</persname> 顧問来会ス、食卓上演説ヲ為シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過散会、 <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-12-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前呉軍港ノ全景ヲ一覧スル為メ高ニ登リテ眺臨ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 過吉川旅館ヲ発シ、小蒸気船ニテ午餐シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time> 過宇品ニ達ス、 <placename corresp=\"#place_宇品\"> 宇品 </placename> ヨリ人車ニテ\n        <placename corresp=\"#place_広島\"> 広島 </placename> ニ抵リ人力電気会社《（水）》ノ本店ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 午後二時半 </time> 広島発ノ汽車ニ搭シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 午後九時 </time> 過 <placename corresp=\"#place_岡山\"> 岡山 </placename> ニ抵リ、三好野花壇ニ一泊ス、一昨夜来ノ風邪気尚未タ愈ヘス、夜ニ入リテ少シク発熱セリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

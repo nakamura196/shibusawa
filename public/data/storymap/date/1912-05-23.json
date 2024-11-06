@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-05-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_井口正之\">\n<surname> 井口 </surname>\n<forename> 正之 </forename>\n</persname> 氏来リ、青渊百話叙文ノ稿本ヲ交付シ且関係書類ヲ付与ス、 <persname corresp=\"#pers_成瀬仁蔵\">\n<surname> 成瀬 </surname>\n<forename> 仁蔵 </forename>\n</persname> 氏来リ宗教統一論 <pb corresp=\"#pageB1741\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/767/full/max/0/default.jpg\" n=\"B1741\" source=\"#pageB1741\"></pb> ニ関シテ協議ス、来ル <date when=\"1912-05-30\"> 三十日 </date> 会同ノ事ヲ約ス、\n        <persname corresp=\"#pers_大井台司\">\n<placename corresp=\"#place_大井\"> 大井 </placename>\n<forename> 台司 </forename>\n</persname> 来リ <orgname> 埼玉学生誘掖会 </orgname> ノ事ヲ談ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ <persname corresp=\"#pers_大沢\">\n<surname> 大沢 </surname>\n</persname> 氏ト談話ス、 <persname corresp=\"#pers_岩田徳義\">\n<surname> 岩田 </surname>\n<forename> 徳義 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_大木\">\n<surname> 大木 </surname>\n</persname> 伯ノ紹介ニヨレルナリ、 <placename corresp=\"#place_房州\"> 房州 </placename> 船形町長 <persname corresp=\"#pers_小宮由松\">\n<surname> 小宮 </surname>\n<forename> 由松 </forename>\n</persname> 氏来話ス、 <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname>\n<persname corresp=\"#pers_林愛作\">\n<surname> 林 </surname>\n<forename> 愛作 </forename>\n</persname> 氏、劇場会 <persname corresp=\"#pers_手塚猛昌\">\n<surname> 手塚 </surname>\n<forename> 猛昌 </forename>\n</persname> 氏《（社脱）》、 <orgname> 二十銀行 </orgname>\n<persname corresp=\"#pers_佐々木慎思郎\">\n<surname> 佐々木 </surname>\n<forename> 慎思郎 </forename>\n</persname> 諸氏来リ各要務ヲ談ス、午飧後 <orgname> 第一銀行 </orgname> 重役会ヲ開キ要件ヲ議決ス、後、 <persname corresp=\"#pers_植村澄三郎\">\n<surname> 植村 </surname>\n<forename> 澄三郎 </forename>\n</persname> 氏来訪ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 事務所ニ抵リテ庶務ヲ処理ス、又、二三ノ来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 華族会館ニ抵リ二松義会ノ顧問会ニ出席ス、 <persname corresp=\"#pers_三島\">\n<surname> 三島 </surname>\n</persname> 翁、 <persname corresp=\"#pers_入江\">\n<surname> 入江 </surname>\n</persname> 子爵、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 男爵等来会ス、寄附金募集ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:30:00",
+                    "text": "<time when=\"21:30:00\"> 九時半 </time> 散会、帰宿、夜、演説筆記ヲ修正ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

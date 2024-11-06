@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-10-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 三田 <persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 伯ヲ訪ヒ京釜鉄道ノ事ヲ談ス、伯ハ <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname>\n       侯ト同意ニテ此際ノ起業ハ全ク反対ノ説ヲ主持ス、印紙税法ノ修正ヲ請求セシニ同意ノ由ニテ、既ニ属僚ニ調査ヲ命シタリト確答セラル、午後瓦斯会社重役会ニ列シ、数項ノ要務ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 深川区役所ニ抵リ区会議員ノ協議会ニ列ス、市街鉄道ノ許否ニ関スルナリ、畢テ <placename corresp=\"#place_深川\"> 深川 </placename> 宅ニ帰宿ス、此夜 <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n<placename corresp=\"#place_釜山広域市\"> 釜山 </placename>\n<persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 、 <placename corresp=\"#place_仁川\"> 仁川 </placename>\n<persname corresp=\"#pers_西脇\">\n<surname> 西脇 </surname>\n</persname> 、 <placename corresp=\"#place_京城府\"> 京城 </placename>\n<persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 及 <persname corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persname> ニ書翰ヲ裁ス、又 <persname corresp=\"#pers_外山\">\n<surname> 外山 </surname>\n</persname> 、 <persname corresp=\"#pers_熊谷\">\n<surname> 熊谷 </surname>\n</persname> 其他ノ諸氏ヘモ書状ヲ裁ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.1,
+                    "lon": 129.033,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

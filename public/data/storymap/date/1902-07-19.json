@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-07-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 公使ヲ其館ニ訪ヒ要務ヲ談ス、帰途 <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> 子爵ヲ其旅宿ニ訪ヒシモ不在ナリキ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 印度人 <persname corresp=\"#pers_ゼー_エン_タタ\">\n<forename> ゼー・エン </forename> ・ <surname> タタ </surname>\n</persname>\n       氏ヲ其寓居ニ訪ヒ款談数刻ニシテ帰宿ス、午飧後ライシアム劇場ニ抵リ、人肉売買ト称スセツキスヒーヤ著作ノ演劇ヲ観ル、俳優中ノ首坐ハアービント云フ人ニテ極テ堪能ナリト云フ、アービンニ亜ク女優ヲテイレート云フ、男女二個ノ老優此劇場ニ於テ著名ナリキ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 過曲畢テ帰宿シ、夜食後更ニヒポドロムト称スル曲芸場ニ抵ル、軽技、手品、自転車、楽隊等種々ノ演芸アリテ最終ニ\n        <placename corresp=\"#place_イタリア\"> 伊国 </placename>\n       ノ強盗ト題スル曲ヲ演ス其男子ノ衣服ハ古代ノ野武士トモ云フヘキ風采ニテ女子ハ舞踏ノ衣服ナリ、其数六七十人相集リテ舞踏スルアリ、又馬車ニテ良家ノ女子婚儀アルヲ強盗等之ヲ掠奪スルノ体ヲ為シ、最後ニ場中ニ一面ノ水ヲ注入シ人馬共水中ニ没スル等、実ニ目ヲ驚カスモノ多シ、曲畢テ\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1902-07-20T00:00+0900\"> 午後十二時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

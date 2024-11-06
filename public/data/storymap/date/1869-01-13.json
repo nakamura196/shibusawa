@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-01-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 暁、七ツ時 <placename corresp=\"#place_浦和\"> 浦和 </placename> 発、 <placename corresp=\"#place_鴻巣市\">\n        鴻巣 </placename> 宿ニ而午餐、夕 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 36.06589,
+                    "lon": 139.52219,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 過に至 <placename corresp=\"#place_深谷\"> 深谷 </placename> 着、 <persname corresp=\"#pers_福岡春清\">\n<surname> 福岡 </surname>\n<forename> 春清 </forename>\n</persname> 為出迎並木迄罷出る、隣家の少年両三輩途中迄罷出、夜五ツ過帰着、渾家及近隣諸親一同相集り、別離以来之情緒を話す、鶏鳴に至退散 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

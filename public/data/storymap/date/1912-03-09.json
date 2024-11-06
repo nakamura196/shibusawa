@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-03-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、半身浴ヲナシテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_服部捨太郎\">\n<surname> 服部 </surname>\n<forename> 捨太郎 </forename>\n</persname> 氏来訪ニ接シ、 <date evidence=\"year inferenced\" when=\"1912-04-28\"> 四月二十八日 </date>\n       粕壁中学校ニ於テ催スヘキ教育会ニ出席ノ事ヲ約ス、 <persname corresp=\"#pers_安井正太郎\">\n<surname> 安井 </surname>\n<forename> 正太郎 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 過文部省ニ抵リ、 <persname corresp=\"#pers_福原\">\n<surname> 福原 </surname>\n</persname> 次官ニ面会シテ高商学校ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 事務所ニテ <persname corresp=\"#pers_古賀廉造\">\n<surname> 古賀 </surname>\n<forename> 廉造 </forename>\n</persname> 氏来訪、 <persname corresp=\"#pers_日下\">\n<surname> 日下 </surname>\n</persname> 、 <persname corresp=\"#pers_大木\">\n<surname> 大木 </surname>\n</persname> 両家婚儀ノ事ヲ談ス、 <persname corresp=\"#pers_坪野平太郎\">\n<surname> 坪野 </surname>\n<forename> 平太郎 </forename>\n</persname> 氏来リ高商学校商議員会開催ノ事ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧シ、後、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト行務ヲ談シ、又、 <persname corresp=\"#pers_日下\">\n<surname> 日下 </surname>\n</persname> 氏ト婚儀ノ事ヲ談ス、後、二三ノ来人ニ接シ、再ヒ事務所ニ抵リ書類ヲ撿閲ス、 <placename corresp=\"#place_アメリカ合衆国\"> 米国\n       </placename> 人ダラ氏夫妻来話ス、 <persname corresp=\"#pers_加藤辰弥\">\n<surname> 加藤 </surname>\n<forename> 辰弥 </forename>\n</persname> 通訳ス、 <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 蔵相来リ公債償還ノ方法ヲ内話ス、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏来ル、 <orgname> 二十銀行 </orgname> トノ約書案ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 午後六時半 </time>\n       帰宿、夜飧後、 <persname corresp=\"#pers_皆川\">\n<surname> 皆川 </surname>\n</persname> 氏来リ新約全書ノ講義ヲ聴ク、 <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 氏来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

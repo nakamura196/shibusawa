@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-04-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、風邪気全愈セス、依テ半身浴ヲ為シ、畢テ朝飧ヲ食シ日記ヲ編成ス、後、来人ニ接ス、此日ハ <placename corresp=\"#place_日本橋\"> 日本橋 </placename> 開通式挙行ニ付、曾テ <pb corresp=\"#pageB1666\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/692/full/max/0/default.jpg\" n=\"B1666\" source=\"#pageB1666\"></pb> 両人トモニ案内ヲ受ケタレハ早ク午飧ヲ畢リテ出張セシモ、雨頻リニ降リ出テ道路悪ク且多人数雑沓スルニヨリ、\n        <placename corresp=\"#place_西河岸\"> 西河岸 </placename> 橋ヨリ自働車ヲ返シテ、式場ニ臨マスシテ帰宅ス、夕方ヨリ新聞紙雑誌類ヲ一読ス、\n        <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 氏来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

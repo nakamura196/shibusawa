@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-12-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、朝来人ニ接ス、 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 、 <persname corresp=\"#pers_平沢道次\">\n<surname> 平沢 </surname>\n<forename> 道次 </forename>\n</persname> 二氏来ル、昨日 <persname corresp=\"#pers_角田\">\n<surname> 角田 </surname>\n</persname> 氏面話ノ事ヲ告ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 外務省ニ抵リ <persname corresp=\"#pers_加藤\">\n<surname> 加藤 </surname>\n</persname> 大臣、 <persname corresp=\"#pers_内田\">\n<surname> 内田 </surname>\n</persname> 次官ニ面会シテ <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n       滞在中ノ要務即貸金ノ談判、京釜鉄道事件等ヲ詳話ス、午後大蔵省ニ抵リ <persname corresp=\"#pers_田尻\">\n<surname> 田尻 </surname>\n</persname> 、 <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 氏ニ面会シテ前同様ノ談話ヲ為ス、畢テ <orgname> 第一銀行 </orgname> ニ出勤シ、更ニ深川区会ニ出席シテ会議ヲ開ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宅シ同族会ヲ開ク "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

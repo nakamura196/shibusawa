@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-03-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後書斎ニ於テ <placename corresp=\"#place_大韓民国\"> 韓国 </placename> ヘ送付スヘキ書状数通ヲ作ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ喫シ食後 <persname corresp=\"#pers_南\">\n<surname> 南 </surname>\n</persname> 某、 <persname corresp=\"#pers_寺本婉雅\">\n<surname> 寺本 </surname>\n<forename> 婉雅 </forename>\n</persname> 氏等ノ来訪ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ書類ヲ検閲シ事務ヲ処理ス、 <persname corresp=\"#pers_和田義睦\">\n<surname> 和田 </surname>\n<forename> 義睦 </forename>\n</persname> 来ル、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 行ノ書状ヲ交付シ水利調査ニ関スル要務ヲ注意ス、\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、食後事務ヲ処理シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n       商業会議所ニ抵リ函館船渠会社委員会ニ出席ス畢テ <persname corresp=\"#pers_千家尊福\">\n<surname> 千家 </surname>\n</persname> 知事及 <orgname> 日本銀行 </orgname>\n<persname corresp=\"#pers_小野友二郎\">\n<surname> 小野 </surname>\n<forename> 友二郎 </forename>\n</persname> 氏等ノ来訪ニ接シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス、夜、 <placename corresp=\"#place_血洗島\">\n        血洗島 </placename>\n<persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> 母子来ル、種々ノ談話ヲ為シ、 <persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> 身上ニ関ル意見ヲ訓示ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

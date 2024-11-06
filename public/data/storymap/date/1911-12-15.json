@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-12-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 午前八時半 </time> 起床、半身浴ヲ為シテ朝飧ヲ食ス、後、来状ヲ点閲シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時\n       </time> 事務所ニ抵リ、各新聞記者十名許リ会合シテ新年ノ経済界ニ付テ意見ヲ述フ、畢テ書状ヲ裁ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ午飧シ、後、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト行務ヲ談ス、 <persname corresp=\"#pers_大沢\">\n<surname> 大沢 </surname>\n</persname> 氏ニ文書ノ事ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 東京市役所ニ抵リ、 <persname corresp=\"#pers_原田\">\n<surname> 原田 </surname>\n</persname> 助役ニ面会シテ養育院ニ於テ新病院建設ノ事ヲ談ス、外務省ニ抵リ、 <persname corresp=\"#pers_内田\">\n<surname> 内田 </surname>\n</persname> 大臣ニ面会シテ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n<placename corresp=\"#place_サンフランシスコ\"> 桑港 </placename> ヨリ申越シタル日本人会請求ノ件及 <placename corresp=\"#place_清\"> 清国 </placename> ニ関スル意見ヲ述フ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 37.76667,
+                    "lon": -122.43333,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_本郷\"> 本郷 </placename> ニ抵リ夜飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time>\n       過帰宿、後、 <persname corresp=\"#pers_皆川晃雄\">\n<surname> 皆川 </surname>\n<forename> 晃雄 </forename>\n</persname> 氏来、新約全書ヲ会読ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<persname corresp=\"#pers_山本条太郎\">\n<surname> 山本 </surname>\n<forename> 条太郎 </forename>\n</persname> 氏 <placename corresp=\"#place_清\"> 清国 </placename> 留学生学費補助ノ事ヲ談ス、後、二三ノ来人ニ接見ス <lb></lb>\n       朝、 <placename corresp=\"#place_高田\"> 高田 </placename> 羽二重会社 <persname corresp=\"#pers_新井幸吉\">\n<surname> 新井 </surname>\n<forename> 幸吉 </forename>\n</persname> 氏来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

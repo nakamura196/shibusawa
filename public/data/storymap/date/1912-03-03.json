@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-03-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 昨夜ヨリ風邪気ニテ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time> 起床、半身浴ヲ為シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_山川逸郎\">\n<surname> 山川 </surname>\n<forename> 逸郎 </forename>\n</persname> 氏ノ来訪ニ接シ身上ノ事ヲ依頼セラル、 <persname corresp=\"#pers_渡辺六尺\">\n<surname> 渡辺 </surname>\n<forename> 六尺 </forename>\n</persname> 氏来リ布紙会社創設ノ事ヲ談ス、 <orgname> 高等商業学校 </orgname> 生徒三名来話ス、 <persname corresp=\"#pers_小暮房雄\">\n<surname> 小暮 </surname>\n<forename> 房雄 </forename>\n</persname> 氏来ル三省堂 <persname corresp=\"#pers_坂巻\">\n<surname> 坂巻 </surname>\n</persname> 氏来リ辞書一巻ヲ寄送《（贈）》セラル、 <persname corresp=\"#pers_相川豊三\">\n<surname> 相川 </surname>\n<forename> 豊三 </forename>\n</persname> 、 <persname corresp=\"#pers_荒木良造\">\n<surname> 荒木 </surname>\n<forename> 良造 </forename>\n</persname> 氏、 <persname corresp=\"#pers_塩島仁吉\">\n<surname> 塩島 </surname>\n<forename> 仁吉 </forename>\n</persname> 氏等来訪ス、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       ヨリノ来状ヲ一覧シ、又、日記ヲ編成ス、午飧後、浅草三筋町ナル修養団ノ向上寄宿舎ノ発会ニ出席シテ、団員ニ一場ノ訓示ヲ為ス、畢テ <persname corresp=\"#pers_宮田\">\n<surname> 宮田 </surname>\n</persname> 、 <persname corresp=\"#pers_蓮沼\">\n<surname> 蓮沼 </surname>\n</persname> 其他ノ人々ト雑誌改良ノ事ヲ談ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<persname corresp=\"#pers_明石\">\n<surname> 明石 </surname>\n</persname> ノ家ニ抵リ家人ト共ニ夜飧ス、団欒款話ノ後帰宅シテ、百話ノ修正ニ勉ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1912-03-04T00:00+0900\"> 十二時\n       </time> 過就寝 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-01-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シ、畢テ新聞紙ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       過朝飧ヲ食ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:59:00",
+                    "text": "<time when=\"09:59:00\"> 午前九時五十九分 </time> 発汽車ニテ帰京ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ食後、新聞記者其他ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ於テ大日本製糖会社ノ事ニ関シ、 <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 、 <persname corresp=\"#pers_早川\">\n<surname> 早川 </surname>\n</persname> 及 <persname corresp=\"#pers_酒匂\">\n<surname> 酒匂 </surname>\n</persname> 、其他ノ監査役四氏ト会見ス一昨日来調査セシ諸計算書類ヲ一覧シ種々ノ談話ヲ為ス、更ニ他日ノ会見ヲ約ス、 <orgname> 帝商銀行 </orgname>\n       ノ事ニ付、 <persname corresp=\"#pers_郷\">\n<surname> 郷 </surname>\n</persname> 、 <persname corresp=\"#pers_石崎\">\n<surname> 石崎 </surname>\n</persname> 、 <persname corresp=\"#pers_伊東\">\n<surname> 伊東 </surname>\n</persname> 三氏来話ス、 <persname corresp=\"#pers_竹内綱\">\n<surname> 竹内 </surname>\n<forename> 綱 </forename>\n</persname>\n<persname corresp=\"#pers_脇田勇\">\n<surname> 脇田 </surname>\n<forename> 勇 </forename>\n</persname> 二氏来話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<orgname> 銀行倶楽部 </orgname> ニ抵リ新年宴会ニ出席ス、食卓上一場ノ演説ヲ為ス、 <persname corresp=\"#pers_井上準之助\">\n<surname> 井上 </surname>\n<forename> 準之助 </forename>\n</persname> 氏 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       行送別ヲ兼タルニヨリ、送別ノ為メ一言ヲ述ヘタルナリ、畢リテ <placename corresp=\"#place_本郷\"> 本郷 </placename> ニ立寄リ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:30:00",
+                    "text": "<time when=\"22:30:00\"> 十時半 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

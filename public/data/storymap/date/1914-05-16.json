@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-05-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ後、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 氏ヘ書状ヲ作ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 一同ト共ニ朝飧シ、後、日記ヲ編成ス、食後、 <placename corresp=\"#place_漢口\"> 漢口 </placename> 税関ニ雇レ居ル邦人 <persname corresp=\"#pers_松永義愛\">\n<surname> 松永 </surname>\n<forename> 義愛 </forename>\n</persname> 氏来訪ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 領事 <persname corresp=\"#pers_高橋\">\n<surname> 高橋 </surname>\n</persname> 氏来《（副脱カ）》ル、相共ニ小蒸気船ニテ <placename corresp=\"#place_長江\"> 長江 </placename> ヲ渡リテ\n        <placename corresp=\"#place_武昌区\"> 武昌 </placename>\n       ニ至リ都督府ヲ訪問ス、河岸ニ多数ノ巡査ヲ出シテ警備頗ル厳ナリ、都督段志貴其他師団長以下ノ武官数名同席ス、民政長官モ列席、我海陸軍士官モ来会ス、都督ト会話ノ後午飧会開カル、調理頗ル佳味ニシテ且鄭重ナリ、宴散シテ衙門ヲ辞シ、更ニ官銭局ニ至リ、\n        <persname corresp=\"#pers_高如松\">\n<surname> 高 </surname>\n<forename> 如松 </forename>\n</persname> 氏ニ会談ス、 <persname corresp=\"#pers_高如松\">\n<surname> 高 </surname>\n</persname> 氏ハ八年前来朝ノ時再三会談シ、銀行業務ニ付テ種々ノ質問ヲ受ケタルナリ、暫時会談ノ後辞去、帰途 <orgname> 黄鶴楼 </orgname>\n       ヲ一覧シ、河岸ヨリ小蒸気船ニテ江ヲ渡リテ領事館ニ抵リ休憩ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 32.60389,
+                    "lon": 94.51222,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n       都督、民政長官其他ノ武官等軍艦ニテ当方ヲ訪問ス、畢テ旅宿ニ帰リ衣服ヲ更メ <pb corresp=\"#pageB1782\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/808/full/max/0/default.jpg\" n=\"B1782\" source=\"#pageB1782\"></pb> 今夕開催セル当地商務総会ノ晩飧会ニ出席ス、食卓上一場ノ謝詞ヲ述ヘ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\">\n        十一時 </time> 散会、旅宿ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,101 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-10-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シ、畢テ二三ノ来客ニ接シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時半 </time>\n<placename corresp=\"#place_市谷\"> 市ケ谷 </placename>\n<persname corresp=\"#pers_児玉\">\n<surname> 児玉 </surname>\n</persname> 伯爵ノ家ヲ訪フ、不在ニ付名刺ヲ留メテ去ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務《（所脱）》ニ抵リ、 <orgname> 宮城屋銀行 </orgname>\n       調査及善後方案ニ関シ <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 、 <persname corresp=\"#pers_竹内\">\n<surname> 竹内 </surname>\n</persname> 、 <persname corresp=\"#pers_脇田\">\n<surname> 脇田 </surname>\n</persname> 氏等ト会見協議ス、畢テ事務所ノ要務ヲ処理シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_田町_(東京都港区)\"> 田町 </placename>\n<persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏邸ニ抵リ、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 実業家ノ午飧会ニ出席ス、\n        <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 同伴、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> ヨリ <placename corresp=\"#place_アメリカ合衆国\">\n        米国 </placename> 艦隊ノ歓迎会 <pb corresp=\"#pageB1544\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/570/full/max/0/default.jpg\" n=\"B1544\" source=\"#pageB1544\"></pb> ニ出席ス、種々ノ余興アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 散会、再ヒ\n        <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ抵リ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n       銀行集会所ニ抵リ、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       実業家招宴ノ晩飧会ニ出席ス、食卓上一場ノ演説ヲ為シ、来賓中ニモ、 <persname corresp=\"#pers_トールマン\">\n<surname> トールマン </surname>\n</persname> 、 <persname corresp=\"#pers_コツク\">\n<surname> コツク </surname>\n</persname> 、 <persname corresp=\"#pers_アルベルト\"> アルベルト </persname> 其他数名ノ演説アリ、終ニ <persname corresp=\"#pers_園田孝吉\">\n<surname> 園田 </surname>\n<forename> 孝吉 </forename>\n</persname> 氏英語演説アリ、散会セシハ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1908-10-21T00:00+0900\"> 十二時 </time> 過ナリキ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

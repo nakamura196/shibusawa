@@ -1,0 +1,66 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-04-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、直ニ朝飧ヲ食シ、旅装ヲ理シテ旅亭ヲ出テ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:40:00",
+                    "text": "<time when=\"07:40:00\"> 七時四十分 </time>\n<placename corresp=\"#place_山田\"> 山田 </placename> 発ノ汽車ニ搭ス、旅亭ノ主人 <placename corresp=\"#place_松阪市\"> 松阪 </placename> マテ送リテ帰ル、亀山ニ抵リテ汽車ヲ乗替ヘ、旧関西線ニテ <placename corresp=\"#place_王寺\"> 王寺\n       </placename> ニ抵ル、 <placename corresp=\"#place_王寺\"> 王寺 </placename> ノ停車場ニテ再ヒ汽車ヲ乗替ヘ、 <placename corresp=\"#place_吉野\"> 吉野 </placename> 行線ニテ凡一時間余ニシテ <placename corresp=\"#place_吉野口\"> 吉野口\n       </placename> ニ抵ル、 <placename corresp=\"#place_大阪\"> 大阪 </placename> ヨリ <persname corresp=\"#pers_大川英太郎\">\n<surname> 大川 </surname>\n<forename> 英太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_松井万緑\">\n<surname> 松井 </surname>\n<forename> 万緑 </forename>\n</persname> 二氏来リ迎フ、 <placename corresp=\"#place_吉野\"> 吉野 </placename>\n       ノ旅亭芳雲館ヨリ迎ノ人アリテ、一行十一人、人車ニテ山間ヲ経過ス、 <placename corresp=\"#place_吉野口\"> 吉野口 </placename> ヨリ路傍桜樹多シ\n        <placename corresp=\"#place_吉野川\"> 吉野川 </placename>\n       ニ沿フテ行クコト三里ニシテ六田ニ抵リ川ヲ渡ル、是ヨリ山路ニ入リテ道少ク険ナリ、稍上リテ吉野宮ヲ拝ス、宮ハ維新後ノ造営ニシテ後醍醐天皇ヲ祀ルモノナリ、更ニ行クコト五六丁ニシテ一目千本ノ称アル所ヲ過キ、\n        <placename corresp=\"#place_吉野町\"> 吉野町 </placename> ニ抵ル、蔵王社アリ、殿堂ノ結構壮大ナリ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.57794,
+                    "lon": 136.52758,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\">\n        六時 </time> 過 <placename corresp=\"#place_吉野町\"> 吉野町 </placename> 芳雲館ニ投宿ス、 <placename corresp=\"#place_吉野山\"> 吉野山 </placename> ノ花候ハ <date evidence=\"year inferenced, month\" when=\"1910-04-10\"> 此月十日 </date> ヨリ <date evidence=\"year inferenced, month\" when=\"1910-04-20\"> 二十日 </date> 迄ノ間ト聞キシモ、桜花ハ半開ニシテ、少ク早キニ過クルノ憾アリ、然レトモ日々天気快晴ニシテ山光水色到処快意多キハ実ニ旅情ヲ慰ムルニ足ル "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.396,
+                    "lon": 135.85758,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

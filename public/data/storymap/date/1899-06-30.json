@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-06-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 参謀本部ニ於テ大生大佐ニ面会シ京坂鉄道ニ関スル事由ヲ陳フ、更ニ <persname corresp=\"#pers_大迫\">\n<surname> 大迫 </surname>\n</persname> 次長ニ面シテ同シク京坂鉄道ノ事ヲ請願ス、畢テ <placename corresp=\"#place_芝\"> 芝 </placename> 離宮ニ抵リ\n        <placename corresp=\"#place_ドイツ\"> 独乙 </placename> 皇弟ノ御安着ヲ祝シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時\n       </time> 海軍省ニ於テ大臣ニ面会シテ浦賀船渠ノ事ニ関シテ詳細事情ヲ陳述シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 過帝国ホテ <pb corresp=\"#pageB1094\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/120/full/max/0/default.jpg\" n=\"B1094\" source=\"#pageB1094\"></pb> ルニ午餐シ、午後商業会議所新築移転ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n       日本鉄道会社ノ重役会ニ列シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

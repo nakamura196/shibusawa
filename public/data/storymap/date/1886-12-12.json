@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1886-12-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time>\n<placename corresp=\"#place_豊橋\"> 豊橋 </placename> ヲ発シ、 <placename corresp=\"#place_岡崎\"> 岡崎\n       </placename> ヲ経テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_熱田\"> 熱田 </placename> ニ抵ル、 <placename corresp=\"#place_四日市\"> 四日市\n       </placename> 店 <persname corresp=\"#pers_八巻道成\">\n<surname> 八巻 </surname>\n<forename> 道成 </forename>\n</persname> 及地方商估 <persname corresp=\"#pers_下里\">\n<surname> 下里 </surname>\n</persname> 、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 、 <persname corresp=\"#pers_水谷\">\n<surname> 水谷 </surname>\n</persname> 等来迎ス、相伴フテ <placename corresp=\"#place_名古屋\"> 名古屋 </placename> ニ抵リ、 <orgname> 魚半楼\n       </orgname> ニ投宿ス <lb></lb> 三重紡績会社ニ関スル事務及 <persname corresp=\"#pers_水谷\">\n<surname> 水谷 </surname>\n</persname> 工場ノ事ヲ議ス、夜、 <persname corresp=\"#pers_船本竜之助\">\n<surname> 船本 </surname>\n<forename> 竜之助 </forename>\n</persname> 氏来ル、宴ヲ設ケテ芸妓ノ歌舞ヲ見ル <lb></lb> 三重紡績会社器械代ノ事ニ付テ、本店 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ヘ書状ヲ送ル、 <placename corresp=\"#place_東京\"> 東京 </placename> 、西京ヘ電報ヲ発ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

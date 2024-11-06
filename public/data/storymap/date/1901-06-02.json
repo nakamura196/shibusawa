@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-06-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、午前、 <persname corresp=\"#pers_阪谷芳郎\">\n<surname> 阪谷 </surname>\n<forename> 芳郎 </forename>\n</persname> 来リ身上職務ニ関スル内談アリ、 <persname corresp=\"#pers_平田文右衛門\">\n<surname> 平田 </surname>\n<forename> 文右衛門 </forename>\n</persname> 氏来ル、函館船渠会社ノ事ヲ談ス、 <persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> 氏来ル、身上ノ融通事情ヲ依頼セラル、午後書類ヲ整理ス、此日ハ <placename corresp=\"#place_磐城\"> 磐城 </placename>\n       炭坑一覧ノ為旅行ノ約アリシモ事務上差支アルヲ以テ謝絶ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

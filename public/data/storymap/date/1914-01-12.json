@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-01-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 昨夜ヨリ感冒ノ気ニテ朝来少ク熱気アリ、依テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n       過起床、静坐洗面シ、褥中ニ在テ書類ヲ調査シ、又、日記ヲ編成ス、修養団 <persname corresp=\"#pers_篠原\">\n<surname> 篠原 </surname>\n</persname> 氏来リ客年ノ演説筆記修正ノ事ヲ乞ハル、 <persname corresp=\"#pers_堀江覚治\">\n<surname> 堀江 </surname>\n<forename> 覚治 </forename>\n</persname> 、山岸某ノ来訪アリシモ謝絶ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> ニ <orgname> 東京商業会議所\n       </orgname> ニ於テ実業協会幹事会ノ約アリシモ電話ニテ断リ遣ス、又、此夕案内セラレタル <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 公爵ヨリノ済生会ニ関スル宴会モ同シク断リ遣ス、朝飧後、床中ニ在リテ演説筆記ノ修正ニ勉ム、午飧後モ同ク継続シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時\n       </time> ニ至リテ罹《（罷）》ム、但、 <orgname> 竜門社 </orgname> 修養団及銀行集会所等ノ各種ナリ、夕方、 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス、夜飧後新聞紙ヲ一覧シ雑誌類ヲ点撿ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 就寝 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

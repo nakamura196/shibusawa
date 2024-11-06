@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-01-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、例ノ如ク腰湯ヲ使ヘ、後、日記ヲ編成シ、又、書類ヲ整理ス、然レトモ宿痾快方セサルニヨリ褥中ニ在テ起居ス、去年\n        <placename corresp=\"#place_熊谷\"> 熊谷 </placename> ニテ演説セシ筆記ヲ <placename corresp=\"#place_大里\"> 大里\n       </placename> 郡長ヨリ送リ越セシニヨリ、修正ノ為メ終日ヲ費ス、午飧後、二三ノ来人ニ接ス <lb></lb> 夜ニ入リテ <persname corresp=\"#pers_明石照男\">\n<surname> 明石 </surname>\n<forename> 照男 </forename>\n</persname> 来話ス、昨日 <orgname> 第一銀行 </orgname> ヨリ送リ越シタル株主総会ニ提出スヘキ営業景況ノ草案ヲ修正ス、夜食後遊戯シテ後、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:30:00",
+                    "text": "<time when=\"23:30:00\"> 十一時半 </time> 就寝ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

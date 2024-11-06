@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-01-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、室内運動ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ畢ル <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<orgname> 日本銀行 </orgname> ニ抵リ <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 氏ニ面会シテ銀行条例及貯蓄銀行条例ノ事ヲ談ス、 <persname corresp=\"#pers_高橋是清\">\n<surname> 高橋 </surname>\n<forename> 是清 </forename>\n</persname> 氏ニ面会シテ無事帰朝ノ事ヲ賀ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ帽子会社重役会ヲ開ク、 <persname corresp=\"#pers_堀江\">\n<surname> 堀江 </surname>\n</persname> 、 <persname corresp=\"#pers_早速\">\n<surname> 早速 </surname>\n</persname> 、 <persname corresp=\"#pers_土肥\">\n<surname> 土肥 </surname>\n</persname> ノ諸氏来会ス、畢テ <orgname> 第一銀行 </orgname> ニ出勤シ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト事務ヲ談シ、 <persname corresp=\"#pers_加藤\">\n<surname> 加藤 </surname>\n</persname> 技師ニ面話シ、 <persname corresp=\"#pers_田中元三郎\">\n<surname> 田中 </surname>\n<forename> 元三郎 </forename>\n</persname> 氏ト肥料会社ノ事ヲ談ス、更ニ事務所ニ於テ書状ヲ閲覧シ数多ノ来人ニ接ス、夕 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス <lb></lb> 曾テ <persname corresp=\"#pers_植村\">\n<surname> 植村 </surname>\n</persname> 氏ノ依托ニヨリ麦酒ニ題スル一絶ヲ賦シ、之ヲ <persname corresp=\"#pers_長谷川正直\">\n<surname> 長谷川 </surname>\n<forename> 正直 </forename>\n</persname> ニ諮リシニ同氏修正意見ヲ示サル <lb></lb> 醸造芳醇別有方。醱醅麦気満缸香。占春何啻蘭陵美。勧此盈々琥珀光。○印ヲ付セシハ <persname corresp=\"#pers_長谷川\">\n<surname> 長谷川 </surname>\n</persname> ノ修正セシモノナリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

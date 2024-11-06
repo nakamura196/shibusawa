@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-12-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床入浴シ、畢テ日記ヲ編成ス、実業世界雑誌社 <persname corresp=\"#pers_木内荒次\">\n<surname> 木内 </surname>\n<forename> 荒次 </forename>\n</persname> 来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ食シ、後種々ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\">\n        午前十時 </time> 華族会館ニ抵リ <orgname> 国学院 </orgname> 寄附金ノ事ヲ談ス、畢テ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ、 <persname corresp=\"#pers_平岡熙\">\n<surname> 平岡 </surname>\n<forename> 熙 </forename>\n</persname> 氏ト会シテ <orgname> 汽車製造会社 </orgname> ノ事ヲ談ス、午後 <placename corresp=\"#place_ロシア\"> 露国\n       </placename> 人エベルト氏来話ス、日露貿易ニ関シテ種々ノ談話ヲ試ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n       過明治座ニ抵リ、養育院慈善会演劇場ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半 </time>\n<orgname> 日本銀行 </orgname> 集会所ニ抵リ、 <persname corresp=\"#pers_本野\">\n<surname> 本野 </surname>\n</persname> 大使 <placename corresp=\"#place_ロシア\"> 露国 </placename> 行送別ノ宴会ニ列席ス、洋食後、能楽数番アリ、畢テ夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1908-12-03T00:00+0900\"> 十二時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

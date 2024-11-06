@@ -1,0 +1,109 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-01-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、例ノ如ク入浴シテ後、日記ヲ編成ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       朝飧ヲ食ス <persname corresp=\"#pers_高田早苗\">\n<surname> 高田 </surname>\n<forename> 早苗 </forename>\n</persname> 氏来リ、早稲田大学ノ事ヲ談ス、 <persname corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persname> 氏来リ、 <orgname> 石川島造船所 </orgname> ノ歴史ヲ話シ、向後ノ執務ニ関スル注意ヲ与フ、 <persname corresp=\"#pers_大川平三郎\">\n<surname> 大川 </surname>\n<forename> 平三郎 </forename>\n</persname> 氏来リ、 <orgname> 東洋汽船会社 </orgname> ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト要務ヲ談ス、新聞紙記者数名ノ来訪アリ、 <persname corresp=\"#pers_広井\">\n<surname> 広井 </surname>\n</persname> 氏来訪セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 事務所ニ於テ要務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> ノ宅ニテ小話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<orgname> 銀行倶楽部 </orgname> ニ抵リ、総会ヲ開キ事務及計算ヲ報告ス、畢テ本年ノ委員ヲ撰挙ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n       ヨリ晩飧会ヲ開ク、 <persname corresp=\"#pers_大島\">\n<surname> 大島 </surname>\n</persname>\n<placename corresp=\"#place_台湾\"> 台湾 </placename> 民政長官、 <persname corresp=\"#pers_山本達雄_(政治家)\">\n<surname> 山本 </surname>\n<forename> 達雄 </forename>\n</persname> 、 <persname corresp=\"#pers_内田定槌\">\n<surname> 内田 </surname>\n<forename> 定槌 </forename>\n</persname> ノ諸氏賓客トシテ来会ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 23.767,
+                    "lon": 121.0,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半 </time>\n       食堂ニ就キ、食後一場ノ挨拶ヲ為ス三賓共ニ各其職務ニ関スル演説アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 散会、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

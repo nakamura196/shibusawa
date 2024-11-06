@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-04-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢ル、 <persname corresp=\"#pers_土岐〓\">\n<surname> 土岐 </surname>\n<forename> 〓 </forename>\n</persname> 氏来ル、 <orgname> 広島水力電気会社 </orgname>\n<persname corresp=\"#pers_松本\">\n<surname> 松本 </surname>\n</persname> 、 <persname corresp=\"#pers_海塚\">\n<surname> 海塚 </surname>\n</persname> 、 <persname corresp=\"#pers_小島\">\n<surname> 小島 </surname>\n</persname> ノ三氏来訪、会社ノ要務ヲ協議ス、其他来人頗ル多シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<orgname> 第一銀行 </orgname> 支店ニ抵リ行員ニ面会シテ事務ヲ視ル、午飧後 <placename corresp=\"#place_中ノ島\"> 中ノ島\n       </placename> 集会堂ニ抵リ全国銀行大会ニ列ス、来会者凡ソ七百人余、 <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯ト余ト <persname corresp=\"#pers_寉原\">\n<surname> 寉原 </surname>\n</persname> 市長《（ <persname corresp=\"#pers_鶴原\">\n<surname> 鶴原 </surname>\n</persname> ）》、 <persname corresp=\"#pers_添田壽一\">\n<surname> 添田 </surname>\n<forename> 寿一 </forename>\n</persname> 氏ノ演説アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 頃会ヲ散シテ更ニ大坂ホテルニ於テ立食ノ饗応アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time> 過帰宿ス、来訪人頗ル多ク "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1903-04-24T00:00+0900\"> 十二時 </time>\n       頃ニ至リテ散ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-04-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、半身浴ヲ為シテ、朝飧ヲ食ス、後、来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_品川\"> 品川 </placename>\n<persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 氏ヲ訪ヘ大師会ニ出席ス、各展覧ノ古書画ヲ一覧シ、午飧ヲ畢リテ、 <persname corresp=\"#pers_北脇久尾\">\n<surname> 北脇 </surname>\n<forename> 久尾 </forename>\n</persname> ノ居ヲ訪ヘ、更ニ劇場会社ニ抵リ、 <persname corresp=\"#pers_西野\">\n<surname> 西野 </surname>\n</persname> 氏ト共ニ <persname corresp=\"#pers_右田\">\n<surname> 右田 </surname>\n</persname> 氏ノ脚色セル振武軍ノ脚本ヲ説明セシム、畢テ <placename corresp=\"#place_築地\"> 築地 </placename>\n<orgname> 精養軒 </orgname> ニ抵リ、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 、 <persname corresp=\"#pers_高嶺\">\n<surname> 高嶺 </surname>\n</persname> 婚儀ノ披露会ニ出席ス、散会後、親族相会シテ晩飧ヲ共ニシ種々ノ雑談アリ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 同伴ス、夜、新聞紙ヲ読ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

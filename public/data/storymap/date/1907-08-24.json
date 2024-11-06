@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-08-24",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1467\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/493/full/max/0/default.jpg\" n=\"B1467\" source=\"#pageB1467\"></pb>\n<lb></lb> 起床後、児童ニ読書セシム、朝来大風雨、終日止マス、四望濛々霧海ニ在ルカ如シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time>\n       朝飧ヲ食シ、食後揮毫ヲ為ス、 <persname corresp=\"#pers_鈴木\">\n<surname> 鈴木 </surname>\n</persname> 帰京ニ付要務ヲ命シ遣ス <lb></lb> 朝、 <persname corresp=\"#pers_堀田\">\n<surname> 堀田 </surname>\n</persname> 、 <persname corresp=\"#pers_河村\">\n<surname> 河村 </surname>\n</persname> 帰京スルトテ来訪セラル <lb></lb> 終日風雨ノ為メ揮毫ト読書ニ消光スルノミ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

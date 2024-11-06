@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-05-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ朝飧ヲ食ス、 <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> 氏来訪ス、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ノ身上ニ関スル爾来ノ経過ヲ談話ス、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 氏来ル、 <placename corresp=\"#place_房州\"> 房州 </placename> 船形保養所ノ事及来ル <date when=\"1912-06-13\"> 十三日 </date>\n<persname corresp=\"#pers_楽翁\"> 楽翁 </persname> 祭ノ事ヲ談ス、 <persname corresp=\"#pers_土肥修策\">\n<surname> 土肥 </surname>\n<forename> 修策 </forename>\n</persname> 氏来リテ帽子会社ノ事ヲ <pb corresp=\"#pageB1738\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/764/full/max/0/default.jpg\" n=\"B1738\" source=\"#pageB1738\"></pb> 談ス、 <persname corresp=\"#pers_中野浩\">\n<surname> 中野 </surname>\n<forename> 浩 </forename>\n</persname> 氏来リ <persname corresp=\"#pers_田川大吉郎\">\n<surname> 田川 </surname>\n<forename> 大吉郎 </forename>\n</persname> 氏ノ伝言アリ、且、添書ヲ請ハル、 <persname corresp=\"#pers_今井清彦\">\n<surname> 今井 </surname>\n<forename> 清彦 </forename>\n</persname> 氏来リテ <orgname> 国学院 </orgname> ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<orgname> 高等商業学校 </orgname> ニ抵リ、全国商業学校長ノ会合席ニ於テ一場ノ講演ヲ為ス、畢テ劇場会社ノ重役会ヲ中央亭ニ開キ <placename corresp=\"#place_大阪\"> 大阪 </placename>\n<orgname> 帝国座 </orgname> ノ事ヲ談ス、午飧ヲ畢リテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n       事務《（所脱）》ニ抵リ、庶務ヲ処理シ書類ヲ点撿シ又書状ヲ裁ス、 <persname corresp=\"#pers_岩下清周\">\n<surname> 岩下 </surname>\n<forename> 清周 </forename>\n</persname> 氏来書ニ回答ス、 <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 少将、 <persname corresp=\"#pers_岡田\">\n<surname> 岡田 </surname>\n</persname> 学校長等ノ諸氏来訪ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_木挽町\"> 木挽町 </placename>\n<orgname> 山口楼 </orgname> ニ抵リ、 <orgname> 三菱銀行 </orgname>\n<persname corresp=\"#pers_串田\">\n<surname> 串田 </surname>\n</persname> 氏 <placename corresp=\"#place_イギリス\"> 英国 </placename> 行ニ付留別ノ宴ヲ開クニ会ス、酒間一場ノ送別辞ヲ為ス、夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:30:00",
+                    "text": "<time when=\"22:30:00\"> 十時半 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

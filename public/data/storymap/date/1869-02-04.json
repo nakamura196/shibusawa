@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-02-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n       頃宝台院へ罷出る、拝謁被仰付、公子より被仰含之儀洋洲事情等逐一申上る、海外ニ而此顚覆に遭遇し、独力ニ而骨折之段御褒詞被下午後より <persname corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persname> 旅宿を訪ふ、不在ニ付 <persname corresp=\"#pers_鵜飼弥一\">\n<surname> 鵜飼 </surname>\n<forename> 弥一 </forename>\n</persname> を訪ふ、夫より下足洗村東広寺罷越す、元局残御用之儀承る、夕方 <persname corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persname> 同行 <persname corresp=\"#pers_西吉十郎\">\n<surname> 西 </surname>\n<forename> 吉十郎 </forename>\n</persname> を訪ふ、不在夜に入 <persname corresp=\"#pers_山高八郎\">\n<surname> 山高 </surname>\n<forename> 八郎 </forename>\n</persname> を訪ふ、帰路 <persname corresp=\"#pers_大黒屋勇助\"> 大黒屋 <forename> 勇助 </forename>\n</persname> を訪ひ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 頃帰宿 <lb></lb> 今日夕七ツ時、御用有之出殿可致旨御目付より被申達 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

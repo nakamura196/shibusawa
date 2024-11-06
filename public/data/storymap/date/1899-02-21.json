@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-02-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前岩越鉄道ノ事ニ関シテ <persname corresp=\"#pers_唐橋左源次\">\n<surname> 唐橋 </surname>\n<forename> 左源次 </forename>\n</persname> 氏来ル、同件ニ関シテ <persname corresp=\"#pers_二橋元長\">\n<surname> 二橋 </surname>\n<forename> 元長 </forename>\n</persname> 、 <persname corresp=\"#pers_日下義雄\">\n<surname> 日下 </surname>\n<forename> 義雄 </forename>\n</persname> 二氏ニ書状ヲ送リテ欠席ヲ申遣ス、 <persname corresp=\"#pers_田島辰雄\">\n<surname> 田島 </surname>\n<forename> 辰雄 </forename>\n</persname> 来ル、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 在留中ノ事ヲ話ス、久留米人 <persname corresp=\"#pers_鹿子木耀之進\">\n<surname> 鹿子木 </surname>\n<forename> 耀之進 </forename>\n</persname> 来ル、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 勧業ノ事ヲ談ス、 <persname corresp=\"#pers_永戸直之助\">\n<surname> 永戸 </surname>\n<forename> 直之助 </forename>\n</persname> 来ル、 <persname corresp=\"#pers_萩原源太郎\">\n<surname> 萩原 </surname>\n<forename> 源太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_小崎懋\">\n<surname> 小崎 </surname>\n<forename> 懋 </forename>\n</persname> 二氏前後来訪ス、夕方ヨリ <pb corresp=\"#pageB1077\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/103/full/max/0/default.jpg\" n=\"B1077\" source=\"#pageB1077\"></pb>\n<placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n<placename corresp=\"#place_釜山広域市\"> 釜山 </placename>\n<persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> 、 <placename corresp=\"#place_仁川\"> 仁川 </placename>\n<persname corresp=\"#pers_西脇長太郎\">\n<surname> 西脇 </surname>\n<forename> 長太郎 </forename>\n</persname> 、領事 <persname corresp=\"#pers_石井菊次郎\">\n<surname> 石井 </surname>\n<forename> 菊次郎 </forename>\n</persname> 、 <placename corresp=\"#place_京城府\"> 京城 </placename>\n<persname corresp=\"#pers_佐々木清麿\">\n<surname> 佐々木 </surname>\n<forename> 清麿 </forename>\n</persname> 、 <persname corresp=\"#pers_加藤\">\n<surname> 加藤 </surname>\n</persname> 公使、 <persname corresp=\"#pers_秋月\">\n<surname> 秋月 </surname>\n</persname> 領事等ヘ書状ヲ裁ス、明日 <persname corresp=\"#pers_大江卓\">\n<surname> 大江 </surname>\n<forename> 卓 </forename>\n</persname> 氏同地出張ニ付其紹介ヲ兼タル通信ナリ、夜、 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> ヲ <persname corresp=\"#pers_大江\">\n<surname> 大江 </surname>\n</persname> 氏ニ遣シテ明日ノ行ヲ送リ且言ヲ托ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.1,
+                    "lon": 129.033,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

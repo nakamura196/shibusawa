@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-09-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前、 <persname corresp=\"#pers_平沼\">\n<surname> 平沼 </surname>\n</persname> 某ノ代人トシテ祥雲堂ナル者来ル、海外教育会ノ事ニ関シ、 <persname corresp=\"#pers_押川方義\">\n<surname> 押川 </surname>\n<forename> 方義 </forename>\n</persname> 、 <persname corresp=\"#pers_渡辺常吉\">\n<surname> 渡辺 </surname>\n<forename> 常吉 </forename>\n</persname> 、 <persname corresp=\"#pers_片岡\">\n<surname> 片岡 </surname>\n</persname> 某来話ス、 <placename corresp=\"#place_大阪\"> 大坂 </placename>\n       ヘノ添書数通ヲ裁シ且京城学堂ノ経常費及臨時費ノ事ヲ談ス、 <persname corresp=\"#pers_植村澄三郎\">\n<surname> 植村 </surname>\n<forename> 澄三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_大川平三郎\">\n<surname> 大川 </surname>\n<forename> 平三郎 </forename>\n</persname> 来ル、麦酒会社ノ事ヲ協議ス、 <persname corresp=\"#pers_曾禰\">\n<surname> 曾禰 </surname>\n</persname> 氏ノ添書ニテ <persname corresp=\"#pers_笠原正二\">\n<surname> 笠原 </surname>\n<forename> 正二 </forename>\n</persname> ナル者来ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

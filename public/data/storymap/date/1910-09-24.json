@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-09-24",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ、朝飧ヲ食ス、後、二三ノ来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<placename corresp=\"#place_赤坂_(東京都港区)\"> 赤阪《（坂）》 </placename> ニ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 子爵ノ死去ヲ弔ス、 <placename corresp=\"#place_麻布\"> 麻布 </placename> 内田山ニ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯爵ヲ訪ヘ種々ノ談話ヲ為ス、汽車会社ノ事ヲ詳話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6723722,
+                    "lon": 139.7365389,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_本郷\"> 本郷 </placename> ニ抵リテ午飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 過\n        <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 老母ノ病ヲ訪ヒ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 帰宅ス、 <persname corresp=\"#pers_穂積陳重\">\n<surname> 穂積 </surname>\n<forename> 陳重 </forename>\n</persname> 、 <persname corresp=\"#pers_矢作栄蔵\">\n<surname> 矢作 </surname>\n<forename> 栄蔵 </forename>\n</persname> 、 <persname corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persname> 三氏来会ス、 <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢秀雄\">\n<forename> 秀雄 </forename>\n</persname> 等修学ノ事ニ関スル集会ナリ、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ノ病ヲ診察スル為ニ <persname corresp=\"#pers_入沢達吉\">\n<surname> 入沢 </surname>\n<forename> 達吉 </forename>\n</persname> 氏、 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> ト共ニ来ル、診察、一同夜飧ヲ共ニシ、後、修学上ノ監督ヲ <persname corresp=\"#pers_矢作\">\n<surname> 矢作 </surname>\n</persname> 氏ニ托シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過一同散会ス、夜、児童ニ新聞雑誌類ヲ読マシム <lb></lb> 夜、救済会ノ事ニ関シテ\n        <placename corresp=\"#place_大阪\"> 大坂 </placename> 派出ノ事務員 <persname corresp=\"#pers_管野久\">\n<surname> 管野 </surname>\n<forename> 久 </forename>\n</persname> 氏ニ添書ヲ交付シ、出張ノ事務ニ付種々ノ訓示ヲ為ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

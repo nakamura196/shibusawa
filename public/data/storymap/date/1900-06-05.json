@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-06-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 京釜鉄道事務所ニ抵リ委員会ヲ開ク、 <persname corresp=\"#pers_竹内\">\n<surname> 竹内 </surname>\n</persname> 、 <persname corresp=\"#pers_尾崎\">\n<surname> 尾崎 </surname>\n</persname> 、 <persname corresp=\"#pers_日下\">\n<surname> 日下 </surname>\n</persname>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 諸氏来会ス、勅令案及命令書案ヲ協議シ <persname corresp=\"#pers_竹内\">\n<surname> 竹内 </surname>\n</persname> 氏ヨリ在韓中ノ要務ヲ報告ス、畢テ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ喜賓会幹事会ヲ開ク、 <persname corresp=\"#pers_蜂須賀\">\n<surname> 蜂須賀 </surname>\n</persname> 侯爵、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 、 <persname corresp=\"#pers_横山孫一郎\">\n<surname> 横山 </surname>\n<forename> 孫一郎 </forename>\n</persname> 諸氏来会ス、規則修正、会員増募ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 深川区役所ニ抵リ区会ヲ開ク、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 過 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 宅ニ帰ル、夜\n        <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 来ル "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1904-03-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、昨日ト同シク居間ニ於テ起臥ス、午後室内ノ運動ヲ試ム、 <persname corresp=\"#pers_大川照子\">\n<surname> 大川 </surname>\n<forename> 照子 </forename>\n</persname> 来話ス、 <persname corresp=\"#pers_石井健吾\">\n<surname> 石井 </surname>\n<forename> 健吾 </forename>\n</persname> 来談ス、 <persname corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persname> 氏、 <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正 </forename>\n</persname> 二児ト共ニ来ル、修学上ノ事二児ニ諭示ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

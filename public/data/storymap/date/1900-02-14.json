@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-02-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、此日病稍愈タレトモ尚外出ヲ見合ス、終日宅ニ在テ来人ニ接シ且書類ヲ調査ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ <orgname> 女子大学 </orgname> 設立ニ関スル寄附金募集ノ事ヲ協議ス、 <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯、 <persname corresp=\"#pers_近衛\">\n<surname> 近衛 </surname>\n</persname> 公、 <persname corresp=\"#pers_児島\">\n<surname> 児島 </surname>\n</persname> 、 <persname corresp=\"#pers_内海\">\n<surname> 内海 </surname>\n</persname> 、、 <persname corresp=\"#pers_土倉\">\n<surname> 土倉 </surname>\n</persname> 、、 <persname corresp=\"#pers_住友\">\n<surname> 住友 </surname>\n</persname> 、 <persname corresp=\"#pers_広岡\">\n<surname> 広岡 </surname>\n</persname> 其他ノ諸氏ト会ス、夜 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス、此日郵船会社重役会ニハ電話\n        <pb corresp=\"#pageB1125\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/151/full/max/0/default.jpg\" n=\"B1125\" source=\"#pageB1125\"></pb> ヲ以テ断リ遣ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

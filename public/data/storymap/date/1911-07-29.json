@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-07-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シテ、朝飧ヲ食シ、後、日記ヲ編成ス、朝来細雨頗ル冷気ヲ覚フ、一二ノ来客ニ接シテ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 事務所ニ抵リ事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、再ヒ事務所ニテ種々ノ来人アリ、 <orgname> 朝日新聞 </orgname>\n       記者来リ在米日本人会ヨリノ来電ニ関シテ種々ノ談話アリ、是ヨリ先外務省ニテ <persname corresp=\"#pers_石井\">\n<surname> 石井 </surname>\n</persname> 氏ヲ訪ヘ、同様ノ事ニ付協議スル処アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n       ヨリ同族会ヲ開キ、要件ヲ議決シ半季ノ計算ヲ調査承認ス、 <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 夫妻、 <persname corresp=\"#pers_阪谷琴子\">\n<surname> 阪谷 </surname>\n<forename> 琴子 </forename>\n</persname> 、 <persname corresp=\"#pers_明石照男\">\n<surname> 明石 </surname>\n<forename> 照男 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> 等来会ス、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:30:00",
+                    "text": "<time when=\"23:30:00\"> 十一時半 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

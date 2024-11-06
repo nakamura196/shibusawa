@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-01-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、室内運動ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ畢ル <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 頃ヨリ又揮毫ヲ試ム、午飧後 <persname corresp=\"#pers_山田堤雲\">\n<surname> 山田 </surname>\n<forename> 堤雲 </forename>\n</persname> 来訪セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time> 過キ市街ニ散歩シテ理髪ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\">\n        三時 </time> 帰宿ス <lb></lb>\n<persname corresp=\"#pers_加藤末郎\">\n<surname> 加藤 </surname>\n<forename> 末郎 </forename>\n</persname> 来訪、韓国興業会社ノ事業着手ノ次第ヲ聴ク、 <date when=\"1905-01-16\"> 十六日 </date>\n<placename corresp=\"#place_東京\"> 東京 </placename> ニテ面会ヲ約シテ去ル <lb></lb>\n<pb corresp=\"#pageB1346\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/372/full/max/0/default.jpg\" n=\"B1346\" source=\"#pageB1346\"></pb>\n<lb></lb> 大坂紡績会社 <persname corresp=\"#pers_山辺\">\n<surname> 山辺 </surname>\n</persname> 氏ヨリ来翰アリ、当季決算ノ事ヲ詳報セラル <lb></lb>\n<persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 夫人来ル <lb></lb> 夜、甲子夜話ヲ読ム <lb></lb>\n<persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 、 <persname corresp=\"#pers_土屋良蔵\">\n<surname> 土屋 </surname>\n<forename> 良蔵 </forename>\n</persname> 氏等ノ書状来ル、 <persname corresp=\"#pers_山辺丈夫\">\n<surname> 山辺 </surname>\n<forename> 丈夫 </forename>\n</persname> ヨリ来翰アリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

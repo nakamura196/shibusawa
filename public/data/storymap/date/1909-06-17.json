@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-06-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、未タ入浴スルヲ得ス洗面後直ニ朝飧ヲ食ス、後、 <persname corresp=\"#pers_釈密信\">\n<surname> 釈 </surname>\n<forename> 密信 </forename>\n</persname> 氏等ノ来訪ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<persname corresp=\"#pers_曾禰\">\n<surname> 曾禰 </surname>\n</persname> 統監ヲ <placename corresp=\"#place_麻布\"> 麻布 </placename> 邸ニ訪ヒ、不在ナルヲ以テ、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 公爵ヲ <placename corresp=\"#place_霊南坂\"> 霊南坂 </placename> 官舎ニ訪フ、 <orgname> 第一銀行\n       </orgname> 韓国支店ノ事及 <placename corresp=\"#place_京城府\"> 京城 </placename> 電気鉄道ノ事ヲ談話ス、 <persname corresp=\"#pers_曾禰\">\n<surname> 曾禰 </surname>\n</persname> 統監モ来会スルニ付、同シク前二件ヲ詳話シテ諒諾ヲ得タリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 午前十一時半 </time>\n<orgname> 東京瓦斯会社 </orgname> ニ抵リ、日韓瓦斯会社重役会ヲ開キ電車買収ノ件ヲ協議ス、 <persname corresp=\"#pers_竹内\">\n<surname> 竹内 </surname>\n</persname> 、 <persname corresp=\"#pers_白石\">\n<surname> 白石 </surname>\n</persname> 、 <persname corresp=\"#pers_岸\">\n<surname> 岸 </surname>\n</persname> 氏等モ来会ス、 <pb corresp=\"#pageB1578\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/604/full/max/0/default.jpg\" n=\"B1578\" source=\"#pageB1578\"></pb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<placename corresp=\"#place_日本橋\"> 日本橋 </placename> 倶楽部ニ抵リ、日糖会社株主総会ニ出席ス、畢テ <orgname> 第一銀行\n       </orgname> ニ抵リ、重役会ヲ開キ要件ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ <orgname> 人造肥料会社 </orgname>\n       重役会ヲ開キ、将来ノ重役組織ニ関スル重要ノ議事ヲ為ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス <lb></lb> 此日、 <orgname> 日本銀行 </orgname>\n<persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 氏ヨリ招宴ノ事アリシモ、病後ノ故ヲ以テ謝絶ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

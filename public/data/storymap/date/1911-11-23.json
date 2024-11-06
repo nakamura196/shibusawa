@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-11-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、半身浴ヲ為シテ朝飧ヲ食ス、 <persname corresp=\"#pers_穂積律之助\">\n<surname> 穂積 </surname>\n<forename> 律之助 </forename>\n</persname> 来リ、贈与金ニ附属スル書類ヲ交付シテ将来ノ事ヲ訓示ス、 <persname corresp=\"#pers_松井吉太郎\">\n<surname> 松井 </surname>\n<forename> 吉太郎 </forename>\n</persname> 氏来話ス、 <placename corresp=\"#place_秋田\"> 秋田 </placename> 銀行支配人 <persname corresp=\"#pers_村田豊一郎\">\n<surname> 村田 </surname>\n<forename> 豊一郎 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_竹井澹如\">\n<surname> 竹井 </surname>\n<forename> 澹如 </forename>\n</persname>\n<placename corresp=\"#place_熊谷\"> 熊谷 </placename> 寺住職来訪ス、 <persname corresp=\"#pers_東儀鉄笛\">\n<surname> 東儀 </surname>\n<forename> 季治 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_土岐\">\n<surname> 土岐 </surname>\n</persname> 〓氏、 <persname corresp=\"#pers_得能佳吉\">\n<surname> 得能 </surname>\n<forename> 佳吉 </forename>\n</persname> 氏来訪ス、午飧後、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ <persname corresp=\"#pers_神田鐳蔵\">\n<surname> 神田 </surname>\n<forename> 鐳蔵 </forename>\n</persname> 氏結婚披露園遊会ニ出席ス、余興壇上ニ於テ一場ノ披露演説ヲ為ス、畢テ立食ノ饗応アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n       頃帰宿ス、夜飧後、 <persname corresp=\"#pers_岡崎邦輔\">\n<surname> 岡崎 </surname>\n<forename> 邦輔 </forename>\n</persname> 氏来リ <orgname> 東京瓦斯会社 </orgname> ノ事ヲ談話ス、夜、各地ヘノ書状数通ヲ裁ス、 <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> 学友数名同行シテ来宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

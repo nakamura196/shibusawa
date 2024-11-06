@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-04-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ後、朝飧ヲ食シ、庭園ヲ散歩ス、太平洋記者 <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> 氏来話ス、 <persname corresp=\"#pers_成瀬仁蔵\">\n<surname> 成瀬 </surname>\n<forename> 仁蔵 </forename>\n</persname> 氏来ル、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ家事ニ関スル談話ヲ為ス午飧ヲ共ニシ、畢テ事務所ニ抵リ書類ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 華族会館ニ抵リ、\n        <persname corresp=\"#pers_芳川\">\n<surname> 芳川 </surname>\n</persname> 伯爵養嗣子披露会ニ出席ス、多数ノ旧友ニ会見ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 再ヒ事務所ニ抵リテ、 <persname corresp=\"#pers_明石\">\n<surname> 明石 </surname>\n</persname> 父子、 <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯、 <persname corresp=\"#pers_町田\">\n<surname> 町田 </surname>\n</persname> 氏其他ヘノ書状ヲ認ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n       過ヨリ同族会ヲ開ク、会員皆来集ス、相共ニ夜飧シ、今回ノ旅行談又ハ要務ヲ協議シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散会、帰宿ス、後、新聞紙ヲ一覧ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1910-04-30T00:00+0900\"> 十二時 </time> 就寝 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

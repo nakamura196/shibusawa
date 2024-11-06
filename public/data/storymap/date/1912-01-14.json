@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-01-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1721\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/747/full/max/0/default.jpg\" n=\"B1721\" source=\"#pageB1721\"></pb>\n<lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、半身浴ヲ為シテ朝飧ヲ食ス、畢テ <persname corresp=\"#pers_高瀬敏徳\">\n<surname> 高瀬 </surname>\n<forename> 敏徳 </forename>\n</persname> 氏ノ来訪ニ接シテ維新前後ニ於テ余ノ一身ニ付テ懐旧談ヲ為ス、 <persname corresp=\"#pers_相良忠道\">\n<surname> 相良 </surname>\n<forename> 忠道 </forename>\n</persname> 氏来話ス、 <placename corresp=\"#place_盛岡市\"> 盛岡 </placename> 人 <persname corresp=\"#pers_太田\">\n<surname> 太田 </surname>\n</persname> 、 <persname corresp=\"#pers_菊地\">\n<surname> 菊地 </surname>\n</persname> 氏四人来訪《（マヽ）》ス、但第三氏夫妻近日洋行ニ付告別ノ為来訪セルナリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 39.70208,
+                    "lon": 141.1545,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 午前十二時 </time>\n<placename corresp=\"#place_本郷\"> 本郷 </placename> ニ抵リ午飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n       事務所ニ抵リ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 行書状数通ヲ裁ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\">\n        午後四時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> ノ家ニ抵リ、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 、 <persname corresp=\"#pers_星野\">\n<surname> 星野 </surname>\n</persname> 、 <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 数氏及其夫人并 <persname corresp=\"#pers_辰雄\">\n<forename> 辰雄 </forename>\n</persname> 、 <persname corresp=\"#pers_己六郎\">\n<forename> 己六郎 </forename>\n</persname> 、 <persname corresp=\"#pers_八郎\">\n<forename> 八郎 </forename>\n</persname> 、其他つる、 <persname corresp=\"#pers_まつ\">\n<forename> まつ </forename>\n</persname> 等ノ一同ヲ会シテ、養子送籍等ニ関シテ従来ノ関係ヲ詳話シ、且、将来ノ懇親ト且児等ノ勉学立志等ニ付懇切ニ訓戒ス、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 、 <persname corresp=\"#pers_星野\">\n<surname> 星野 </surname>\n</persname> 二氏ヨリモ丁寧ナル答詞アリ、畢テ共ニ夜飧シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

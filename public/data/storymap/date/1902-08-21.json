@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-08-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<placename corresp=\"#place_ブリュッセル\"> ブラツセル </placename> ヲ発シ汽車ニテ <placename corresp=\"#place_アンベルス\"> アンベルス </placename> ニ抵ル、此地ハ三十六年前曾遊ノ地ナルモ、爾来 <placename corresp=\"#place_ベルギー\"> 白耳義国 </placename> 商工業ノ繁盛ニ伴ヒ百事拡張シテ市街モ港口モ皆昔日ノ観ヲ改ム、着後先ツ領事館ニ抵リ、休息シテ後余ハ\n        <persname corresp=\"#pers_萩原\">\n<surname> 萩原 </surname>\n</persname> 氏ヲ伴ヒ当地商業会議所会頭［　　　　　　］《（○欠字。コルチー）》氏ヲ訪ヒ種々ノ談話ヲ為シ、 <orgname> 東京商業会議所 </orgname>\n       議決ノ趣旨ヲ伝フ、畢テ埠頭ニ抵リ若狭丸ヲ訪フ、蓋シ該船ハ郵船会社 <placename corresp=\"#place_欧洲\"> 欧洲 </placename> 航路ノ一船ニシテ、昨日\n        <placename corresp=\"#place_アンベルス\"> アンベルス </placename> 港ニ来レルナリ、暫時談話シテ後領事館ニ帰リテ一行ト共ニ午飧ス、食事ハ\n        <persname corresp=\"#pers_諸井\">\n<surname> 諸井 </surname>\n</persname> 領事ト郵船会社船ノ厚意ニテ日本料理ナリシガ其味極テ美ナリ、食事畢テ余ハ当地ノ農工商会議長 <persname corresp=\"#pers_ストラース\">\n<surname> ストラース </surname>\n</persname> 氏ヲ訪ヒ種々ノ談話ヲ為シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 50.84361,
+                    "lon": 4.3575,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 汽車場ニテ一行ニ会シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 過帰宿ス、此夜 <persname corresp=\"#pers_加藤\">\n<surname> 加藤 </surname>\n</persname> 公使ヨリ一行ヲ招宴セラルルニヨリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 七時半 </time> ヨリ公使館ニ抵ル、晩飧畢テハ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

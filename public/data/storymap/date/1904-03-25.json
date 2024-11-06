@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1904-03-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 半晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、室内運動ヲ為ス、朝飧後新聞紙ヲ閲ス、午後 <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persname>\n<placename corresp=\"#place_東京\"> 東京 </placename> ニ帰宅ス、 <persname corresp=\"#pers_北脇久尾\">\n<surname> 北脇 </surname>\n<forename> 久尾 </forename>\n</persname>\n<placename corresp=\"#place_東京\"> 東京 </placename> ヨリ来ル、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ヨリノ書状ヲ持参ス <persname corresp=\"#pers_大川\">\n<surname> 大川 </surname>\n</persname> 老母ノ再度ノ溢血ノ事ヲ報シ来ル、此日モ午前後ニ於テ家法ノ浄書ヲ為シ、夜ニ入テ雨夜譚ヲ講読ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

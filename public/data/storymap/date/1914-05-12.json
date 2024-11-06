@@ -1,0 +1,92 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-05-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " （欄外） <lb></lb> ［津浦鉄道ノ停車場ヲ見テ頃日来ノ荒涼ト異ナリ大ニ生気ヲ生スル感アリ <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:30:00",
+                    "text": "<time when=\"05:30:00\"> 午前五時半 </time> 起床、直ニ旅装ヲ整ヘ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 馬車ニテ\n        <placename corresp=\"#place_南京市\"> 南京 </placename> 領事館ヲ発シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 32.05,
+                    "lon": 118.767,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time>\n<placename corresp=\"#place_下関\"> 下関 </placename> ニ抵リ、小蒸気船ニテ <placename corresp=\"#place_長江\"> 長江\n       </placename> ヲ渡リ、 <placename corresp=\"#place_浦口江\"> 浦口江 </placename>\n       岸ノ新停車場及津浦鉄道ノ布設ヲ見ル、且、其隣地ニ買得セル土地ヲ一見ス、此買収ハ中日実業会社外数会社ト協同シテ将来ノ繁盛ヲ企図セルナリ、後、本船 <placename corresp=\"#place_襄陽\"> 襄陽 </placename> ニ搭ス、南京警察署ヨリ楽隊ヲ送リ雨中出帆ヲ送ル為メ奏楽ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 32.60389,
+                    "lon": 94.51222,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\">\n        午前九時 </time> 開帆、〓行中朝飧ヲ食ス、 <placename corresp=\"#place_長江\"> 長江 </placename>\n       ノ景色雨中更ニ佳ナリ、両岸蘆荻多ク所々人家ヲ見ル、午飧後書類ヲ一覧ス、船中殊ニ閑ニシテ心神ヲ養フニ足ル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 32.60389,
+                    "lon": 94.51222,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<placename corresp=\"#place_蕪湖市\"> 蕪湖 </placename> ニ抵リ寄港シテ小憩ス、 <placename corresp=\"#place_蕪湖市\">\n        蕪湖 </placename> ハ <placename corresp=\"#place_長江\"> 長江 </placename>\n       東岸《（ニ脱カ）》シテ船中ヨリ、一望スルニ極メテ新進ノ市街タルヘク思ハル、船、時ニ南岸ヲ通過シ又北岸ヲ航行ス、時々汽船又ハ有名ナル大筏ノ下ルヲ見ル、其状恰モ巨船ノ如ク、数十家合同シテ筏ヲ家トスルト云フ\n      "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 32.60389,
+                    "lon": 94.51222,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

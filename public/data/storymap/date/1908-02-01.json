@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-02-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴ス、畢テ朝飧ヲ食ス、食後、 <persname corresp=\"#pers_富岡俊次郎\">\n<surname> 富岡 </surname>\n<forename> 俊次郎 </forename>\n</persname> 氏ノ来訪ニ接ス、又、 <persname corresp=\"#pers_桂次郎\">\n<surname> 桂 </surname>\n<forename> 次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_林謙吉郎\">\n<surname> 林 </surname>\n<forename> 謙吉郎 </forename>\n</persname> 二氏ノ来訪アリ、均シク <orgname> 帝国商業銀行 </orgname> ノ事ニ係ル、後、 <persname corresp=\"#pers_中井三郎兵衛\">\n<surname> 中井 </surname>\n<forename> 三郎兵衛 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <placename corresp=\"#place_スウェーデン\"> 瑞典 </placename> 公使来話ス <lb></lb>\n<persname corresp=\"#pers_鈴木利亨\">\n<surname> 鈴木 </surname>\n<forename> 利亨 </forename>\n</persname> 氏来ル、 <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_前原\">\n<surname> 前原 </surname>\n</persname> 某同伴シ来ル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 過 <orgname> 第一銀行 </orgname> ニ於テ午飧シ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:30:00",
+                    "text": "<time when=\"13:30:00\"> 午後一時半 </time> 帝国劇場会社ニ抵リ重役会ヲ開ク、議事畢テ銀行集会所ニ抵リ、経済調査会ニ出席シ <persname corresp=\"#pers_中野武営\">\n<surname> 中野 </surname>\n<forename> 武営 </forename>\n</persname> 氏ニ会話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 明治座ニ抵リ、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 大使歓迎会ニ出席ス、会員総代トシテ大使ニ対シ一場ノ謝詞ヲ演説ス、後、余興ノ演劇数番アリ（ウヱニスノ商人、〓裟《（袈）》）、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

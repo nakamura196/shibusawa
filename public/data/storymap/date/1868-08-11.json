@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-08-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 六時半 </time> 客舎御発し、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 発軔之汽車御乗組、第\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_トゥール_(アンドル＝エ＝ロワール県)\"> Tours </placename> 着午餐、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 47.393611,
+                    "lon": 0.689167,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:05:00",
+                    "text": "<time when=\"14:05:00\"> 二時五分 </time> Orl〓ans第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:30:00",
+                    "text": "<time when=\"16:30:00\"> 四時三十分 </time>\n<placename corresp=\"#place_パリ\"> 巴里 </placename>\n<placename corresp=\"#place_ガアルデヲレヤン\"> ガアルデヲレヤン </placename> 御着、 <persname corresp=\"#pers_三輪端蔵\">\n<surname> 三輪 </surname>\n<forename> 端蔵 </forename>\n</persname> 、小遣召連馬車《を備》ニ而御出迎□□《（為スカ）》、直様馬車御乗組、第 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 48.86223,
+                    "lon": 2.351074,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 五時三十分 </time> 御帰館 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

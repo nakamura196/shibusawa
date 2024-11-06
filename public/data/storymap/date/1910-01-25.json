@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-01-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、直ニ入浴ス、畢テ朝飧ヲ食ス、後、来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <persname corresp=\"#pers_水野\">\n<surname> 水野 </surname>\n</persname> 総領事ノ来訪ニ接シテ要務ヲ談ス、帰後諸方ヨリノ来書ヲ調査ス、 <persname corresp=\"#pers_明石照男\">\n<surname> 明石 </surname>\n<forename> 照男 </forename>\n</persname> ヨリノ来書ニ回答ヲ作リ、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ヲシテ更ニ返書ヲ作ラシム、 <persname corresp=\"#pers_原富太郎\">\n<surname> 原 </surname>\n<forename> 富太郎 </forename>\n</persname> 氏ヘ返書ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、後、 <placename corresp=\"#place_深川\"> 深川 </placename>\n<placename corresp=\"#place_福住町\"> 福住町 </placename> ニ抵リ、倉庫会社ノ倉庫、事務所等ヲ一覧ス総会畢テ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ抵リ昔夢会ニ出席ス、 <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 老公、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 、 <persname corresp=\"#pers_三上\">\n<surname> 三上 </surname>\n</persname> 、 <persname corresp=\"#pers_萩原\">\n<surname> 萩原 </surname>\n</persname> 其他ノ諸氏来会ス、 <persname corresp=\"#pers_民部公子\"> 民部公子 </persname>\n<placename corresp=\"#place_フランス\"> 仏国 </placename> 行ニ関スル顚末ヲ談話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時\n       </time> 散会、夫ヨリ囲碁会ニ移ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 晩飧、畢テ又囲碁アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\">\n        十一時 </time> 帰宿、後、新聞紙及来書類ヲ一覧ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-06-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ、朝飧ヲ食ス、 <persname corresp=\"#pers_池上\">\n<surname> 池上 </surname>\n</persname> 市長、 <orgname> 日本銀行 </orgname> 支店長 <orgname> 第一銀行 </orgname> 支店長、 <persname corresp=\"#pers_前原\">\n<surname> 前原 </surname>\n</persname> 氏等ノ来訪アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 過ノ <placename corresp=\"#place_大阪\"> 大阪\n       </placename> 発汽車ニ搭シテ西京ニ赴ク、停車場ニ送別スル人多シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 西京着、 <persname corresp=\"#pers_中井\">\n<surname> 中井 </surname>\n</persname> 、 <persname corresp=\"#pers_中川\">\n<surname> 中川 </surname>\n</persname> 其他諸氏ノ出迎アリ、先ツ <orgname> 玉川楼 </orgname> ニ抵リ小憩ス、午飧後同志社ニ抵リ、 <persname corresp=\"#pers_原田\">\n<surname> 原田 </surname>\n</persname> 校長ノ依頼ニ応シテ生徒一同ノ為ニ一場ノ <placename corresp=\"#place_支那\"> 支那 </placename>\n       視察談及修身上ノ訓示ヲ為ス、畢テ同社女学部ノ教室ニテ茶菓ノ饗アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 頃 <orgname> 第一銀行\n       </orgname> 支店ニ抵リ店員一同ヘ訓示ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 過帰寓ス、暫時休息ノ後、此地銀行者共同ノ請求ニ応シテ\n        <orgname> 中村楼 </orgname> ニ抵リ招宴ニ出席シ、開宴前、 <placename corresp=\"#place_支那\"> 支那 </placename>\n       旅行ニ付テノ観察及日支実業聯絡ノ必要ニ関シ詳細ノ説明講話ヲ為ス、畢テ開宴、種々ノ余興アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

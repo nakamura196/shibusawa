@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-10-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_保阪\">\n<surname> 保阪 </surname>\n</persname> 村長ノ来訪ニ接ス、又、 <persname corresp=\"#pers_永井\">\n<surname> 永井 </surname>\n</persname> 某、 <persname corresp=\"#pers_小暮房雄\">\n<surname> 小暮 </surname>\n<forename> 房雄 </forename>\n</persname> 氏等ノ訪問アリ、 <persname corresp=\"#pers_高梨英男\">\n<surname> 高梨 </surname>\n<forename> 英男 </forename>\n</persname> 及 <persname corresp=\"#pers_梅子\">\n<forename> 梅子 </forename>\n</persname> ト来話ス、日露協会書記 <persname corresp=\"#pers_高田三六\">\n<surname> 高田 </surname>\n<forename> 三六 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<orgname> 埼玉学生誘掖会 </orgname> 寄宿舎ニ抵リ剣柔道ノ稽古場落成式ト共ニ紀念式ヲ挙ケ、学生ニ一場ノ訓示ヲ為ス学生一同ト共ニ午飧シ、柔剣ノ試合ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 午後二時半 </time> 帝国劇場ニ抵リ女優ノ卒業証書授与式ヲ挙ク、畢テ一場ノ訓示ヲ演説ス、来賓中 <persname corresp=\"#pers_末松\">\n<surname> 末松 </surname>\n</persname> 子爵ヨリ一場ノ演説アリ、式畢リテ、此日ヨリ開場スル演劇ヲ一覧ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 過帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

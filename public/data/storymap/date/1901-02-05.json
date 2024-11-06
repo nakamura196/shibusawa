@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-02-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前数多ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 九時半 </time>\n<orgname> 東京商業会議所 </orgname> ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<orgname> 銀行倶楽部 </orgname> ニ抵有楽会委員会《（リ脱）》ニ列ス、 <persname corresp=\"#pers_高橋是清\">\n<surname> 高橋 </surname>\n<forename> 是清 </forename>\n</persname> 、 <persname corresp=\"#pers_池田謙三\">\n<surname> 池田 </surname>\n<forename> 謙三 </forename>\n</persname> 、 <persname corresp=\"#pers_早川千吉郎\">\n<surname> 早川 </surname>\n<forename> 千吉郎 </forename>\n</persname>\n<persname corresp=\"#pers_末延道成\">\n<surname> 末延 </surname>\n<forename> 道成 </forename>\n</persname> 及 <persname corresp=\"#pers_外山\">\n<surname> 外山 </surname>\n</persname> 、 <persname corresp=\"#pers_田中源太郎\">\n<surname> 田中 </surname>\n<forename> 源太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_中橋\">\n<surname> 中橋 </surname>\n</persname> 氏等ト共ニ銀行法案、貯蓄銀行法案ノ事ヲ議ス、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<orgname> 第一銀行 </orgname> ニ出勤シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 銀行集会所ニ於テ交換所組合銀行会ヲ開ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

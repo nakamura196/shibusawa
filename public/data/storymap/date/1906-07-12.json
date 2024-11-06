@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-07-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後入浴シ、畢リテ朝飧ヲ喫ス、食後数多ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<persname corresp=\"#pers_大川\">\n<surname> 大川 </surname>\n</persname> 氏ノ案内ニテ金巾製織会社ニ抵リ工場ヲ一覧ス、同会社ハ大阪紡績会社ト合併シタルニヨル、更ニ大阪紡績会社ニ抵リ工場ヲ一覧シ、午飧後帰寓、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 過 <persname corresp=\"#pers_植村澄三郎\">\n<surname> 植村 </surname>\n<forename> 澄三郎 </forename>\n</persname> 氏ノ案内ニテ <placename corresp=\"#place_吹田市\"> 吹田 </placename>\n       ナル旭麦酒工場ヲ一覧ス、規摸頗ル大ナリ、将来ノ業務頗ル有望ヲ覚フ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.75947,
+                    "lon": 135.51683,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 過帰寓、更ニ <orgname> 第一銀行\n       </orgname> 支店ノ招宴ニ応シテ <orgname> 灘万楼 </orgname> ニ抵リ饗宴ヲ享ク、酒間余興アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時\n       </time> 散会、帰寓ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

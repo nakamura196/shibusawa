@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-02-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、此日ハ日本鉄道会社株主総会ノ日ナレトモ、病ヲ以テ出席ヲ謝絶ス、病少シク快ナルニヨリ諸方ニ書状ヲ発ス、旧里ノ縁戚来リテ病ヲ訪フ、午後親族数名来リ会ス、終日褥中ニ於テ事務ヲ弁ス、\n        <placename corresp=\"#place_釜山広域市\"> 釜山 </placename> ヨリ <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> 来ル、蓋シ <date when=\"1900-02-05\"> 五日 </date> ニ発セシ電報アルニ依ルナリ、夜、 <persname corresp=\"#pers_穂積歌子\">\n<surname> 穂積 </surname>\n<forename> 歌子 </forename>\n</persname> カ著述セシはゝその落葉ヲ読ム "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.1,
+                    "lon": 129.033,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

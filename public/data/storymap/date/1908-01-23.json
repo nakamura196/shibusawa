@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-01-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、食後、 <placename corresp=\"#place_東京\"> 東京 </placename>\n<orgname> 朝日新聞 </orgname> 社員 <persname corresp=\"#pers_小田\">\n<surname> 小田 </surname>\n</persname> 某ノ来訪ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 午前十時半 </time>\n<orgname> 石川島造船所 </orgname> 重役会ニ出席ス、半季決算ノ評議畢テ午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ製糖会社重役会ニ列席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ重役会ヲ開キ要件ヲ議決ス、畢テ <orgname> 東京貯蓄銀行 </orgname> ノ決算報告書類ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 過キ、 <persname corresp=\"#pers_仙石\">\n<surname> 仙石 </surname>\n</persname> 、 <persname corresp=\"#pers_片岡\">\n<surname> 片岡 </surname>\n</persname> 、 <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> 三氏来話ス、又、 <persname corresp=\"#pers_中野武営\">\n<surname> 中野 </surname>\n<forename> 武営 </forename>\n</persname> 氏来リ <orgname> 帝国商業銀行 </orgname> ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n       事務所ニ於テ要務ヲ弁シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、 <persname corresp=\"#pers_竹田\">\n<surname> 竹田 </surname>\n</persname> 、 <persname corresp=\"#pers_磯永文子\">\n<surname> 磯永 </surname>\n<forename> 文子 </forename>\n</persname> 等来訪ス <lb></lb> 此夜、 <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persname> 学友ノ事ヲ訓諭シ、且 <persname corresp=\"#pers_横山\">\n<surname> 横山 </surname>\n</persname> 氏ニ該件ニ関スル書状ヲ発ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

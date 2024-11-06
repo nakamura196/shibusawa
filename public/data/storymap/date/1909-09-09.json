@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-09-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、汽車既ニ <placename corresp=\"#place_ポートランド_(オレゴン州)\">\n        ホルトラント </placename>\n       ニ着ス、支度ヲ整ヒ車ヲ下リ、歓迎員ノ案内ニテ先ツホルトランド・ホテルニ抵リ、朝飧ヲ食ス、後電車ニテ市街ヲ巡覧シ、小山ノ上ニ抵ル、先年博覧会開催ノ土地ヲ見ル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 45.52,
+                    "lon": -122.68194,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n       旅館ニ抵リテ午飧ス、後又、市街及工場等ヲ一覧シ、夜旅館ニ於テ地方人士ノ催ニ係ル宴会アリ、司会者ノ挨拶ニ次テ一場ノ答辞演説ヲ為ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時\n       </time> 散会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

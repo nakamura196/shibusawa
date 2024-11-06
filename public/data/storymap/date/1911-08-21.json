@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-08-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ、朝飧ヲ食シ、畢テ書類ヲ調査シ又日記ヲ編成ス、 <persname corresp=\"#pers_中村千代松\">\n<surname> 中村 </surname>\n<forename> 千代松 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_成瀬仁蔵\">\n<surname> 成瀬 </surname>\n<forename> 仁蔵 </forename>\n</persname> 氏来リ <orgname> 女子大学 </orgname> ノ事ヲ談ス、 <persname corresp=\"#pers_皆川巌\">\n<surname> 皆 <pb corresp=\"#pageB1692\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/718/full/max/0/default.jpg\" n=\"B1692\" source=\"#pageB1692\"></pb> 川 </surname>\n<forename> 巌 </forename>\n</persname> 氏来リ近日郷里ニ亡父ノ遺骨ヲ埋葬スル旨ヲ告ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_本郷\"> 本郷 </placename> ニ於テ他人《（知カ）》ヲ訪ヒ、午飧後、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時\n       </time> 事務所ニ抵ル、種々ノ来人アリ、 <persname corresp=\"#pers_久摩俊泰\">\n<surname> 久摩 </surname>\n<forename> 俊泰 </forename>\n</persname> 氏来話ス、種々ノ書類ヲ調査シ又来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 過 <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿、夜飧後、新聞紙雑誌類ヲ読マシム <lb></lb> 益軒全集ヲ <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> ニ読マシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

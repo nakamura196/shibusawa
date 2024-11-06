@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-06-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 頃 <placename corresp=\"#place_姫路\"> 姫路 </placename>\n       駅ニ於テ起床、汽車中ノ洗面所ニ於テ支度ヲ整フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 過 <placename corresp=\"#place_神戸\">\n        神戸 </placename> 着、 <persname corresp=\"#pers_杉田\">\n<surname> 杉田 </surname>\n</persname> 支店長来リ迎フ、其他来訪者多シ、下車シテ後、自働車ニテ <placename corresp=\"#place_諏訪山\"> 諏訪山 </placename>\n<orgname> 常盤楼 </orgname> ニ抵リテ小憩ス、入浴後朝飧ヲ為ス、夜来汽車中ニ於ル疲労頓ニ医スルノ想アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時\n       </time> 過 <orgname> 第一銀行 </orgname> 支店ニ抵リ店員ニ一場ノ訓示ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n       ミカト・ホテルニ抵リ <placename corresp=\"#place_神戸\"> 神戸 </placename> 有志者ノ催フセル歓迎会ニ出席シ、午飧ス、食後一場ノ\n        <placename corresp=\"#place_支那\"> 支那 </placename> 視察ニ関スル演説ヲ為ス後、此地各船主ノ開催スル歓迎会ニ臨ミ一場ノ講演ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 過 <placename corresp=\"#place_神戸\"> 神戸 </placename> 発、汽車ニテ\n        <placename corresp=\"#place_大阪\"> 大坂 </placename> ニ抵ル、停車場ニ多数ノ歓迎者アリ、先ツ <placename corresp=\"#place_松塚\"> 松塚 </placename> 旅宿ニ休憩シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_大阪\"> 大阪 </placename> ホテルニ於テ開催セル経済会ニ出席シ食後、 <placename corresp=\"#place_支那\"> 支那 </placename> 視察ニ付一場ノ講演ヲ為ス、来会者凡百名余、頗ル盛会ナリ、 <persname corresp=\"#pers_大久保\">\n<surname> 大久保 </surname>\n</persname> 知事、 <persname corresp=\"#pers_池上\">\n<surname> 池上 </surname>\n</persname> 市長、 <persname corresp=\"#pers_村山\">\n<surname> 村山 </surname>\n</persname> 、 <persname corresp=\"#pers_本山\">\n<surname> 本山 </surname>\n</persname> 其他有力者来会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会、 <placename corresp=\"#place_松塚\">\n        松塚 </placename> ニ投宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

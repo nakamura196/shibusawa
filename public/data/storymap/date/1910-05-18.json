@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-05-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、二三ノ来客ニ接ス、 <pb corresp=\"#pageB1623\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/649/full/max/0/default.jpg\" n=\"B1623\" source=\"#pageB1623\"></pb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 銀行集会所ニ抵リ、東亜興業会社ノ事ニ関シテ同業者ト協議ス、後、 <orgname> 東洋汽船 </orgname>\n       ノ事ニ付テ <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 氏ト談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、又、事務所ニ抵リテ事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_早稲田\"> 早稲田 </placename>\n<persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯邸ニ抵リ、 <placename corresp=\"#place_山口\"> 山口 </placename>\n<orgname> 高等商業学校 </orgname> 学生ノ為メニ一場ノ訓誡演説ヲ為ス、畢テ <placename corresp=\"#place_王子\"> 王子\n       </placename> ニ帰宅シ、諸方ニ書状ヲ裁ス（ <placename corresp=\"#place_名古屋\"> 名古屋 </placename> 又ハ <placename corresp=\"#place_イギリス\"> 英国 </placename>\n<persname corresp=\"#pers_明石照男\">\n<surname> 明石 </surname>\n<forename> 照男 </forename>\n</persname> 、 <placename corresp=\"#place_上海市\"> 上海 </placename>\n<persname corresp=\"#pers_白岩竜平\">\n<surname> 白岩 </surname>\n<forename> 竜平 </forename>\n</persname> 等ノ諸氏ナリ）、夜、 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 氏来話ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 31.16667,
+                    "lon": 121.48333,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-08-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:30:00",
+                    "text": "<time when=\"05:30:00\"> 午前五時半 </time> 起床、入浴シ、畢テ日記ヲ編成ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time>\n       朝飧ヲ食ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 区長其他地方人士ノ案内ニテ <placename corresp=\"#place_小樽市\"> 小樽\n       </placename> 港ヲ一覧スル為メ小蒸気船ニ搭ス、先ツ右方ナル第二期工事ノ予定地ヲ一覧シ、後、既成ノ防波堤ニ抵リ一覧ス、此防波堤長七百八間アリト云フ、 <persname corresp=\"#pers_広井\">\n<surname> 広井 </surname>\n</persname> 土木技師ノ設計ニシテ頗ル堅牢ナリト云フ、一覧畢テ <placename corresp=\"#place_高島郡\"> 高島郡 </placename>\n       ノ水産試験所ヲ一覧シ、更ニ <placename corresp=\"#place_手宮\"> 手宮 </placename>\n       ニ抵リテ上陸シ、炭坑会社ノ桟橋及貯炭所ヲ経テ蝦夷人ノ岩石ニ刻〓セル文字ノ跡ヲ一覧ス、後、 <orgname> 日本郵船会社 </orgname>\n       支店ニ抵リテ休憩ス、生尾支店長ノ案内ニヨレルナリ、小憩後帰宿シテ午飧ス、食後来人ニ接シ、夕 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 43.190722,
+                    "lon": 140.994361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n       ヨリ此家ニ開キタル地方人士招宴ニ出席シ、一場ノ謝詞ヲ述ヘ、椿区長ノ答辞アリ、一同歓ヲ尽シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n       散会ス、会スル者凡百人余ナリキ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

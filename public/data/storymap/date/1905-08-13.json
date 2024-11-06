@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-08-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:30:00",
+                    "text": "<time when=\"05:30:00\"> 午前五時半 </time> 起床先ツ入浴ス、浴後日記ヲ整理ス、朝飧後新聞紙ヲ一覧シ、諸方ヘノ書状ヲ裁ス、畢テ午前ノ散歩ヲ試ミ千条ケ滝ヲ一覧シ\n        <placename corresp=\"#place_仙元山\"> 仙元山 </placename> ノ半腹マテ登臨ス、然レトモ天候悪シキヲ以テ中途ニシテ帰宿ス午後 <persname corresp=\"#pers_皆川\">\n<surname> 皆川 </surname>\n</persname> 夫人来ル <lb></lb> 夕方又散歩、 <placename corresp=\"#place_小涌谷\"> 小涌谷 </placename>\n       ノ源ヲ尋ヌ、水源ハ楼ノ背面ナル山腹ニアリ、登ルコト凡ソ八丁計ナリ、山路草木繁茂シテ行程不便ナリ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.240361,
+                    "lon": 139.053028,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

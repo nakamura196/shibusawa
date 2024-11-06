@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-01-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、朝 <placename corresp=\"#place_天津市\"> 天津 </placename> ノ仏商 <persname corresp=\"#pers_ヒルホツト\">\n<surname> ヒルホツト </surname>\n</persname> 氏来ル、氏ハ <placename corresp=\"#place_清\"> 清国 </placename> ニ於テ商品陳列所ヲ開設セン事ヲ企図シテ、其方法ヲ\n        <orgname> 東京商業会議所 </orgname> ヘ申出タル人ナリ、面話数刻ニシテ他日 <placename corresp=\"#place_函館\"> 函館\n       </placename> 旅行済帰京ノ後再会ヲ約シテ去ル <lb></lb> 午後銀行集会所ニ於テ製綱会社ノ株主総会ニ出席ス、終テ <orgname> 東京商業会議所 </orgname>\n       ニ抵リ議事ヲ開ク、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 39.12361,
+                    "lon": 117.19806,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過帰宅ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

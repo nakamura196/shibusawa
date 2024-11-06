@@ -1,0 +1,66 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-02-24",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:25:00",
+                    "text": "<time when=\"07:25:00\"> 午前七時二十五分 </time> 発汽車ニテ <placename corresp=\"#place_浦賀\"> 浦賀\n       </placename> ニ抵ル、 <orgname> 石川島造船所 </orgname> 重役会ヲ同所ニ於テ開ク為メナリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.2475,
+                    "lon": 139.713972,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_浦賀\"> 浦賀 </placename> 着、各工場巡見ノ後倶楽部ニ於テ午餐シ夫ヨリ用務ヲ協議シ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.2475,
+                    "lon": 139.713972,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 帰京、 <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-09-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床直ニ入浴シ、畢テ朝飧ヲ食ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 大蔵省ニ抵リ <persname corresp=\"#pers_荒井賢太郎\">\n<surname> 荒井 </surname>\n<forename> 賢太郎 </forename>\n</persname> 氏ニ面会シテ、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n       ニ於ル銀行ノ事、及セメント、水力電気事業等ノ従来ノ経過ヲ縷陳シテ注意ヲ乞フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time> 内務省ニ抵リ <persname corresp=\"#pers_窪田\">\n<surname> 窪田 </surname>\n</persname> 氏面会ノ約アリシモ、不在ナルヲ以テ、 <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ <persname corresp=\"#pers_山口仙之介\">\n<surname> 山口 </surname>\n<forename> 仙之介 </forename>\n</persname> ニ面会シテホテル事業ニ付談話ス、午飧後新聞記者ノ来訪ニ接シ、後、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 統監ヲ訪ヒ <orgname> 韓国銀行 </orgname> 事業ニ関シ種々ノ談話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<orgname> 日本郵船 <pb corresp=\"#pageB1472\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/498/full/max/0/default.jpg\" n=\"B1472\" source=\"#pageB1472\"></pb> 会社 </orgname> ニ抵リ重役会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 二氏ニ会シテ <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 統監トノ対話及 <persname corresp=\"#pers_荒井\">\n<surname> 荒井 </surname>\n</persname> 氏会談ノ詳細ヲ話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_山谷\"> 山谷 </placename> 八百善ニ抵ル、日本精糖会社ノ招宴ニ応スルナリ、 <persname corresp=\"#pers_酒匂\">\n<surname> 酒匂 </surname>\n</persname> 、 <persname corresp=\"#pers_馬越\">\n<surname> 馬越 </surname>\n</persname> 、 <persname corresp=\"#pers_磯村\">\n<surname> 磯村 </surname>\n</persname> ノ諸氏ヨリ種々ノ饗応アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

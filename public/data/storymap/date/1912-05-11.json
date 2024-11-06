@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-05-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ朝飧ヲ食シ、後、日記ヲ編成ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時\n       </time> 事務所ニ抵リ来人ニ接シ要務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 過 <placename corresp=\"#place_永田町\"> 永田町 </placename>\n<persname corresp=\"#pers_鍋島\">\n<surname> 鍋島 </surname>\n</persname> 侯爵邸ヲ訪ヒ、侯爵ニ面会シテ皇典講究所ノ爾後ノ経過ヲ報告ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6768472,
+                    "lon": 139.7399139,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename>\n<orgname> 精養軒 </orgname> ニ抵リ、 <persname corresp=\"#pers_飯島魁\">\n<surname> 飯島 </surname>\n<forename> 魁 </forename>\n</persname> 長女 <persname corresp=\"#pers_松本\">\n<surname> 松本 </surname>\n</persname> 氏ノ新婚ノ披露会ニ出席シ、午飧ノ卓上ニ於テ一場ノ祝詞ヲ述フ、畢テ <orgname> 報知新聞 </orgname>\n       ニ抵リ、全国小学校教員ノ会同ニ対シテ訓示演説ヲ為ス、後、揮毫シテ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 過事務所ニ抵リ来人ニ接シ又要務ヲ処理シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 過帰宿ス、夜食後、百話ノ修正ニ勉ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

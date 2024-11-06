@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-04-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後庭園ヲ散歩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 七時半 </time> 朝飧ヲ畢リ、食後書類ヲ検閲ス <lb></lb>\n<persname corresp=\"#pers_皆川四郎\">\n<surname> 皆川 </surname>\n<forename> 四郎 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_橋本明六\">\n<surname> 橋本 </surname>\n<forename> 明六 </forename>\n</persname> 其他 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ノ人々来ル <lb></lb> 此日ハ <placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ於テ英人 <persname corresp=\"#pers_マルコム\">\n<surname> マルコム </surname>\n</persname> 氏招宴ニ出席スルノ約アリシモ腹部ノ工合悪キヲ以テ之ヲ辞ス、終日家ニ在テ来人ニ接シ又ハ読書ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

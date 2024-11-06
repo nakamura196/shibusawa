@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-04-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後直ニ朝飧ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 午前十時半 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務《（所脱）》ニ抵リ種々ノ来客ニ接ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\">\n        正午 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ <placename corresp=\"#place_深川\"> 深川 </placename>\n<persname corresp=\"#pers_岩崎\">\n<surname> 岩崎 </surname>\n</persname> 邸ノ園遊会ニ出席ス、 <persname corresp=\"#pers_岩崎弥之助\">\n<forename> 弥之助 </forename>\n</persname> 氏ノ男新婚披露ノ宴ナリキ、庭園壮麗ニシテ粧飾亦美ヲ尽シ頗ル目ヲ悞《（娯）》マシムルニ足ル、庭中余興トシテ俳優ノ踊アリ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\">\n        午後四時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰リ、 <orgname> 第一銀行 </orgname>\n       ニ抵リ韓国興業会社ノ重役会、 <orgname> 第一銀行 </orgname> ノ重役会ヲ開キ、更ニ浦賀船渠会社ノ重役会ヲ事務所ニ開キ、畢テ夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過 <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

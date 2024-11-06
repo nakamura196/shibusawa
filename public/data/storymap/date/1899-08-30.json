@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-08-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、午前数多ノ来客ニ接ス、午後日本橋倶楽部ニ於テ開ク処ノ製麻会社株主総会ニ列ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> ニ帰宿ス、此日ハ紅葉館ニテ、清客 <persname corresp=\"#pers_劉\">\n<surname> 劉 </surname>\n</persname> 、 <persname corresp=\"#pers_慶\">\n<surname> 慶 </surname>\n</persname> 二氏ノ留別会アリテ案内セラレシモ、遅刻セシヲ以テ書ヲ送テ之ヲ謝絶ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

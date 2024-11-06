@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-03-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、室内運動ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ畢ル <lb></lb>\n       食後新聞紙ヲ閲シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:46:00",
+                    "text": "<time when=\"09:46:00\"> 午前九時四十六分 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> 発ノ汽車ニテ <placename corresp=\"#place_上野\"> 上野\n       </placename> ニ抵リ、更ニ電車ニテ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<orgname> 第一銀行 </orgname> ニ出勤ス、 <placename corresp=\"#place_長崎\"> 長崎 </placename> 十八銀行\n        <persname corresp=\"#pers_永見寛二\">\n<surname> 永見 </surname>\n<forename> 寛二 </forename>\n</persname> 氏来リテ、 <orgname> 第一銀行 </orgname> ニ対スル請求ノ件ヲ談話ス <lb></lb>\n<persname corresp=\"#pers_福地\">\n<surname> 福地 </surname>\n</persname> 氏ノ添書ヲ持参セシ英国商 <persname corresp=\"#pers_ブツシユ\">\n<surname> ブツシユ </surname>\n</persname> 氏 <placename corresp=\"#place_営口市\"> 営口 </placename> ヨリ出京セシ由ニテ来訪スヘキノ処、至急ニ差支アリテ其協同者\n        <persname corresp=\"#pers_加藤平次郎\">\n<surname> 加藤 </surname>\n<forename> 平次郎 </forename>\n</persname> 来話ス <lb></lb> 午飧後 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 頃ヨリ電車及汽車ニテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

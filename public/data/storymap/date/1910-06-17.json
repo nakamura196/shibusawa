@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-06-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ食シ、後、 <persname corresp=\"#pers_林田\">\n<surname> 林田 </surname>\n</persname> 某氏ノ来訪ニ接ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ印度王ニ謁見ス、 <persname corresp=\"#pers_高橋\">\n<surname> 高橋 </surname>\n</persname> 、 <persname corresp=\"#pers_桜井\">\n<surname> 桜井 </surname>\n</persname> 二氏同席ス、畢テ商業会議所ニ抵リ、 <persname corresp=\"#pers_中野\">\n<surname> 中野 </surname>\n</persname> 氏ヲ訪フモ出勤前ニテ面会セス、劇場会社ニ抵リ、 <persname corresp=\"#pers_西野\">\n<surname> 西野 </surname>\n</persname> 氏ニ面会シ建築場ヲ一覧シ、又、社務ヲ談シ試演ヲ一覧ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、後、 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ニ抵リ、 <persname corresp=\"#pers_伊東祐忠\">\n<surname> 伊東 </surname>\n<forename> 祐忠 </forename>\n</persname> 氏、 <persname corresp=\"#pers_大川平三郎\">\n<surname> 大川 </surname>\n<forename> 平三郎 </forename>\n</persname> 氏等ニ接見ス、又、 <persname corresp=\"#pers_嘉納治五郎\">\n<surname> 嘉納 </surname>\n<forename> 治五郎 </forename>\n</persname> 氏ノ来訪ニ接ス、 <persname corresp=\"#pers_中野武営\">\n<surname> 中野 </surname>\n<forename> 武営 </forename>\n</persname> 氏、 <persname corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persname> 、 <persname corresp=\"#pers_植村澄三郎\">\n<surname> 植村 </surname>\n<forename> 澄三郎 </forename>\n</persname> 氏、其他二三ノ来人アリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 午後五時半 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ、 <orgname> 第一銀行 </orgname> ニ於テ開催スル宴会ニ出席ス、 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 大蔵大臣以下来賓三十有余名、食卓ニテ一場ノ謝詞的演説ヲ為ス、 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 大蔵大臣、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 男爵、 <persname corresp=\"#pers_荒井賢太郎\">\n<surname> 荒井 </surname>\n<forename> 賢太郎 </forename>\n</persname> 氏等ノ答詞アリ、賓主十分ノ歓ヲ尽シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過散会、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

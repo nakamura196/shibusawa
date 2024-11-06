@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-05-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " （欄外） <lb></lb> ［ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 過朝飧、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:30:00",
+                    "text": "<time when=\"13:30:00\"> 一時半 </time> 午飧ス\n       <lb></lb> 朝来大ニ涼味アリ、蓋シ <placename corresp=\"#place_漢口\"> 漢口 </placename> ヨリ漸次北方ニ走行スルヲ以テナリ、昨夕ヨリ歯痛アリ、\n        <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師ニ手当ヲ請フ、午後ニ至リテ追々快方ニ赴ク、各車站ニ名所古蹟アルモ只旅行指南ニヨリテ之ヲ見ルノミ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時\n       </time> 過列車 <placename corresp=\"#place_北京市\"> 北京 </placename> ニ達ス、停車場ニ来リ迎フル者多シ、 <persname corresp=\"#pers_山座\">\n<surname> 山座 </surname>\n</persname> 公使公使、 <persname corresp=\"#pers_水野\">\n<surname> 水野 </surname>\n</persname> 参事官其他公使館又ハ在留商店ノ人々皆来集ス、 <placename corresp=\"#place_支那\"> 支那 </placename>\n       官憲ノ吏員モ多人数来ル、一同無事着ヲ賀スルノ旨ヲ述ヘラル、自働車ニテ <placename corresp=\"#place_北京市\"> 北京 </placename>\n       ナルグラント・ホテルニ投宿ス、 <persname corresp=\"#pers_山座\">\n<surname> 山座 </surname>\n</persname> 公使、 <persname corresp=\"#pers_水野\">\n<surname> 水野 </surname>\n</persname> 及 <persname corresp=\"#pers_曹\">\n<surname> 曹 </surname>\n</persname> 外務次官、 <persname corresp=\"#pers_孫多森\">\n<surname> 孫 </surname>\n<forename> 多森 </forename>\n</persname> 氏其他内外ノ人士多ク来リテ安着ヲ祝ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 39.90556,
+                    "lon": 116.39139,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<persname corresp=\"#pers_楊士琦\">\n<surname> 楊 </surname>\n<forename> 士琦 </forename>\n</persname> 氏来訪ス、暫時休憩後向氏ナル支那人ノ来訪ヲ受ケ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time> ヨリ公使館ニ抵リ <persname corresp=\"#pers_山座\">\n<surname> 山座 </surname>\n</persname> 公使公使ノ晩飧会ニ出席ス、食事前後ニ於テ本邦出発前其筋トノ交渉顚末及旅行中ノ事共ヲ詳細ニ <persname corresp=\"#pers_山座\">\n<surname> 山座 </surname>\n</persname> 公使氏ト談話ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿、 <placename corresp=\"#place_東京\">\n        東京 </placename> ヨリノ来書ヲ <pb corresp=\"#pageB1783\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/809/full/max/0/default.jpg\" n=\"B1783\" source=\"#pageB1783\"></pb> 一覧ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

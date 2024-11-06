@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-12-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<date evidence=\"year inferenced\" when=\"1901-12-26\"> 十二月廿六日 </date> 、夜、手形交換所組合銀行懇親会ヲ <orgname>\n        銀行倶楽部 </orgname> ニ開ク、 <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 、 <persname corresp=\"#pers_高橋\">\n<surname> 高橋 </surname>\n</persname> 両氏及 <orgname> 日本銀行 </orgname> 各局長来会ス、席上一場ノ演説ヲ為ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-05-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n<persname corresp=\"#pers_浜政弘\">\n<surname> 浜 </surname>\n<forename> 政弘 </forename>\n</persname> 来話ス、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ英国人 <persname corresp=\"#pers_ユエント_ケン\">\n<forename> ユエント </forename> ・ <surname> ケン </surname>\n</persname> 氏及同伴者 <persname corresp=\"#pers_セール_フレーザー\">\n<forename> セール </forename> ・ <surname> フレーザー </surname>\n</persname> 二氏ノ来訪ニ接ス、種々ノ談話ヲ為ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:30:00",
+                    "text": "<time when=\"15:30:00\"> 三時半 </time>\n<persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏来話 <pb corresp=\"#pageB1308\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/334/full/max/0/default.jpg\" n=\"B1308\" source=\"#pageB1308\"></pb> ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<persname corresp=\"#pers_千家尊福\">\n<surname> 千家 </surname>\n</persname> 知事及電車、市街両鉄道重役 <persname corresp=\"#pers_牟田口\">\n<surname> 牟田口 </surname>\n</persname> 、 <persname corresp=\"#pers_佐竹\">\n<surname> 佐竹 </surname>\n</persname> 、 <persname corresp=\"#pers_野中\">\n<surname> 野中 </surname>\n</persname> 、 <persname corresp=\"#pers_吉田\">\n<surname> 吉田 </surname>\n</persname>\n<persname corresp=\"#pers_高島\">\n<surname> 高島 </surname>\n</persname> ノ諸氏来会シ、両社合併ノ事ヲ協議ス、来ル <date evidence=\"year inferenced, month\" when=\"1903-05-16\">\n        十六日 </date> ヲ以テ両社ヨリ意見書提出ノ事ヲ約ス、 <persname corresp=\"#pers_五代竜作\">\n<surname> 五代 </surname>\n<forename> 竜作 </forename>\n</persname> 氏来ル、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 過\n        <persname corresp=\"#pers_竹内綱\">\n<surname> 竹内 </surname>\n<forename> 綱 </forename>\n</persname> 氏来リ京釜鉄道会社ノ事ヲ談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

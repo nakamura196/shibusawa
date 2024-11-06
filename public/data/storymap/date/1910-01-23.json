@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-01-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、来客ニ接ス、 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏夫妻、 <persname corresp=\"#pers_堀越\">\n<surname> 堀越 </surname>\n</persname> 氏、 <persname corresp=\"#pers_竹田\">\n<surname> 竹田 </surname>\n</persname> 氏等来会ス、午飧後、 <placename corresp=\"#place_東京\"> 東京 </placename> 株式取引所新年宴会ニ出席シ\n        <persname corresp=\"#pers_中野\">\n<surname> 中野 </surname>\n</persname> 氏ニ面会シテ要務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 午後二時半 </time> 国技館ニ抵リテ相撲ヲ一覧ス、 <persname corresp=\"#pers_竹田\">\n<surname> 竹田 </surname>\n</persname> 、 <persname corresp=\"#pers_横山\">\n<surname> 横山 </surname>\n</persname> 及学生等来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 過 <placename corresp=\"#place_浜町\"> 浜町\n       </placename> 常盤屋ニ抵リ、大日本製糖会社ノ招宴ニ出席ス、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <persname corresp=\"#pers_日下\">\n<surname> 日下 </surname>\n</persname> ノ諸氏来会ス、 <persname corresp=\"#pers_藤山\">\n<surname> 藤山 </surname>\n</persname> 氏ノ挨拶ニ対シテ一場ノ訓示演説ヲ為ス、酒間種々ノ余興アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 宴散シテ、 <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、帰宅後、新聞紙ヲ一覧ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

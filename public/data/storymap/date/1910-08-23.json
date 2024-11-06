@@ -1,0 +1,95 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-08-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シテ後朝飧ヲ食ス、 <persname corresp=\"#pers_福島甲子三\">\n<surname> 福島 </surname>\n<forename> 甲子三 </forename>\n</persname> 氏来リテ <orgname> 東京瓦斯会社 </orgname> ノ事ヲ談ス、 <persname corresp=\"#pers_成瀬仁蔵\">\n<surname> 成瀬 </surname>\n<forename> 仁蔵 </forename>\n</persname> 氏来リ <orgname> 女子大学 </orgname> ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時半 </time>\n<persname corresp=\"#pers_高木\">\n<surname> 高木 </surname>\n</persname> 男爵ヲ訪問シ其夫人ノ病ヲ訪フ <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 衆議院図書館ニ抵リ、 <persname corresp=\"#pers_長谷場\">\n<surname> 長谷場 </surname>\n</persname> 議長及議員諸氏ト水害救済会ノ事ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time>\n<orgname> 東京瓦斯会社 </orgname> ニ抵リ、重役会ニ向テ一ノ意見ヲ陳述ス、蓋シ瓦斯代引下ケノ事ナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ書類ヲ撿シ、数多ノ来人ニ接ス、 <persname corresp=\"#pers_原田十衛\">\n<surname> 原田 </surname>\n<forename> 十衛 </forename>\n</persname> 、柴山某、 <persname corresp=\"#pers_佐藤\">\n<surname> 佐藤 </surname>\n</persname> 某等来話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<orgname> 東京商業会議所 </orgname>\n       ニ抵リ水災善後会ヲ開キ、会員ニ向テ爾来事務進行ノ概況ヲ報告シ、且、水害救済会ナル者議会ノ人士ニ依リテ設立セラレタル次第ヲモ報告ス、後、寄附金ノ打合ヲ為シ畢テ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ水害救済会創立ノ手続及其挙行ニ参与ス、 <persname corresp=\"#pers_黒田\">\n<surname> 黒田 </surname>\n</persname> 、 <persname corresp=\"#pers_長谷場\">\n<surname> 長谷場 </surname>\n</persname> 氏ト共ニ一場ノ経過ニ関スル演説ヲ為ス、畢テ帰路他ノ友人ヲ訪問シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 帰宿ス <lb></lb>\n       （欄外） <lb></lb> ［ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時半 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト行務ヲ談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

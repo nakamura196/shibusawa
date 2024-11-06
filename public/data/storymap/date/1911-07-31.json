@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-07-31",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シテ朝飧ヲ食ス、 <persname corresp=\"#pers_井口正之\">\n<surname> 井口 </surname>\n<forename> 正之 </forename>\n</persname> 氏来リ逆境ニ処スル人生ノ覚悟ヲ問ハルレトモ、頃日来ノ発疹頗ル痒キヲ以テ充分ノ説ヲ尽ス能ハス、 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス、 <persname corresp=\"#pers_馬越恭平\">\n<surname> 馬越 </surname>\n<forename> 恭平 </forename>\n</persname> 氏来リテ <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 身上ニ付種々ノ談話アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time>\n       病ヲ勉メテ中央亭ニ抵リ帝国劇場会社重役会ニ出席シ要務ヲ議決ス、午飧畢リテ後 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 事務所ニ抵リ、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 人 <persname corresp=\"#pers_アンダーソン\">\n<surname> アンダーソン </surname>\n</persname> 、 <persname corresp=\"#pers_ゲーリー\">\n<surname> ゲーリー </surname>\n</persname> 、 <persname corresp=\"#pers_デシユラー\">\n<surname> デシユラー </surname>\n</persname> 氏等ノ来訪ニ接シ、 <persname corresp=\"#pers_高根\">\n<surname> 高根 </surname>\n</persname> 、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 、 <persname corresp=\"#pers_前原\">\n<surname> 前原 </surname>\n</persname> 諸氏ト共ニ稷山金鉱ニ付新会社設立ノ順序ヲ協議ス、 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 氏来リ <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ノ身上ニ付談話ス、 <persname corresp=\"#pers_増田明六\">\n<surname> 増田 </surname>\n<forename> 明六 </forename>\n</persname> ニ命シテ明日 <persname corresp=\"#pers_石井\">\n<surname> 石井 </surname>\n</persname> 次官ニ面会シテ <placename corresp=\"#place_サンフランシスコ\"> 桑港 </placename>\n<persname corresp=\"#pers_永井\">\n<surname> 永井 </surname>\n</persname> 氏ニ電報ノ事ヲ取扱ハシム、 <persname corresp=\"#pers_川崎\">\n<surname> 川崎 </surname>\n</persname> 氏来ル、 <placename corresp=\"#place_サンフランシスコ\"> 桑港 </placename> 日本人会ヨリ来電ノ事ニ付種々ノ談話ヲ為ス、夜\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 37.76667,
+                    "lon": -122.43333,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 帰宿、夜食後、新聞紙ヲ読マシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

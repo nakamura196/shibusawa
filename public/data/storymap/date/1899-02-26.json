@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-02-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、朝、 <persname corresp=\"#pers_桃井可雄\">\n<surname> 桃井 </surname>\n<forename> 可雄 </forename>\n</persname> 、 <persname corresp=\"#pers_田島辰雄\">\n<surname> 田島 </surname>\n<forename> 辰雄 </forename>\n</persname> 、 <persname corresp=\"#pers_石井健吾\">\n<surname> 石井 </surname>\n<forename> 健吾 </forename>\n</persname> 来ル、 <persname corresp=\"#pers_田島辰雄\">\n<surname> 田島 </surname>\n<forename> 辰雄 </forename>\n</persname>\n<placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       ニ於テ雑貨販売業開店資金貸与ノ事ヲ請願スル為ナリ、依テ三人ニ向テ其決心ヲ聴了シ貸付ノ事ヲ諾ス、埼玉県学友会幹事評議員等（ <persname corresp=\"#pers_竹井\">\n<surname> 竹井 </surname>\n</persname> 、 <persname corresp=\"#pers_野口\">\n<surname> 野口 </surname>\n</persname> 、 <persname corresp=\"#pers_諸井\">\n<surname> 諸井 </surname>\n</persname> 及娚 <persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> 等《（甥）》）来リテ同会々頭タル事ヲ請求スル旨ヲ告ク、其会則ヲ一覧シ、従来ノ沿革ヲ聴了シタル後会頭ノ事ヲ承諾ス、寛永寺僧来リテ寄附金ノ事ヲ依頼ス、\n        <orgname> 石川島造船所 </orgname> ノ用務ニ付 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 氏来ル、 <pb corresp=\"#pageB1078\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/104/full/max/0/default.jpg\" n=\"B1078\" source=\"#pageB1078\"></pb>\n<persname corresp=\"#pers_荒木民三郎\">\n<surname> 荒木 </surname>\n<forename> 民三郎 </forename>\n</persname> 来ル、勤務上勉励ノ事ヲ懇諭ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<placename corresp=\"#place_猿楽町\"> 猿楽町 </placename>\n<persname corresp=\"#pers_皆川\">\n<surname> 皆川 </surname>\n</persname> 宅ヲ訪フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 帰宅、 <persname corresp=\"#pers_田中源太郎\">\n<surname> 田中 </surname>\n<forename> 源太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢成一郎\">\n<surname> 渋沢 </surname>\n<forename> 喜作 </forename>\n</persname> 、 <persname corresp=\"#pers_宇野保太郎\">\n<surname> 宇野 </surname>\n<forename> 保太郎 </forename>\n</persname> 来ル、製麻会社ノ要務ヲ協議ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

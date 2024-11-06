@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-03-24",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_畑\">\n<surname> 畑 </surname>\n</persname> 、 <persname corresp=\"#pers_塚崎\">\n<surname> 塚崎 </surname>\n</persname> 二氏ノ来訪ニ接シ、添書ノ事ヲ話ス、 <persname corresp=\"#pers_磯江潤\">\n<surname> 磯江 </surname>\n<forename> 潤 </forename>\n</persname> 、 <persname corresp=\"#pers_川田鉄弥\">\n<surname> 川田 </surname>\n<forename> 鉄弥 </forename>\n</persname> 二氏来リ各其学校ノ関係ヲ談ス、 <persname corresp=\"#pers_佐藤秀顕\">\n<surname> 佐藤 </surname>\n<forename> 秀顕 </forename>\n</persname> 氏来リ <orgname> 石川島造船所 </orgname> ノ事ヲ社長候補ノ意見ヲ談ス、 <persname corresp=\"#pers_吉岡新五郎\">\n<surname> 吉岡 </surname>\n<forename> 新五郎 </forename>\n</persname> 氏来話ス、学生数名来リ児等ト共ニ会食ス、午飧後庭園ヲ散歩シ、又、揮毫ヲナシ日記ヲ編成ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_田端\"> 田端 </placename> ナル自笑軒ニ抵ル、 <persname corresp=\"#pers_大川平三郎\">\n<surname> 大川 </surname>\n<forename> 平三郎 </forename>\n</persname> 氏ノ招宴ナリ、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 同伴ス、 <persname corresp=\"#pers_田中栄八郎\">\n<surname> 田中 </surname>\n<forename> 栄八郎 </forename>\n</persname> 氏来会シ、 <persname corresp=\"#pers_大川\">\n<surname> 大川 </surname>\n</persname> 夫妻ト共ニ款待至ラサルナシ、茶懐石ノ夜飧ヲ畢リ、後、点茶アリ、又余興数番アリテ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 帰宿ス、\n        <persname corresp=\"#pers_穂積歌子\">\n<surname> 穂積 </surname>\n<forename> 歌子 </forename>\n</persname> 、 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 、 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 、 <persname corresp=\"#pers_大橋半七郎\">\n<surname> 大橋 </surname>\n<forename> 半七郎 </forename>\n</persname> 氏等ヘノ書状ヲ裁ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

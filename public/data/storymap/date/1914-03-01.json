@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-03-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、静坐入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 、 <persname corresp=\"#pers_大川\">\n<surname> 大川 </surname>\n</persname> 、 <persname corresp=\"#pers_白石\">\n<surname> 白石 </surname>\n</persname> 三氏 <pb corresp=\"#pageB1775\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/801/full/max/0/default.jpg\" n=\"B1775\" source=\"#pageB1775\"></pb> ノ来訪ニ接シテ、 <orgname> 東洋汽船会社 </orgname> 航路ノ事ヲ談ス、 <persname corresp=\"#pers_星野錫\">\n<surname> 星野 </surname>\n<forename> 錫 </forename>\n</persname> 氏来リテ種々ノ談話アリ、其他数名ノ来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 公爵邸ニ抵リ故 <persname corresp=\"#pers_徳川慶喜\"> 一位公 </persname> ノ百日祭ニ参列ス、畢テ午飧ノ饗アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 過ヨリ <placename corresp=\"#place_上野\"> 上野 </placename>\n       墓地ニ抵リ墓前祭アリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 頃式全ク終了ス、夫ヨリ <placename corresp=\"#place_三田\"> 三田\n       </placename> 邸ニ抵リ孫児等ト園内ヲ散歩ス、後、種々ノ雑話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 頃夜飧シ、後、 <persname corresp=\"#pers_渋沢敦子\">\n<forename> 敦子 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢敬三\">\n<forename> 敬三 </forename>\n</persname> ト共ニ家庭上ノ訓示ヲ為ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、後、新聞紙雑誌類ヲ読ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時\n       </time> 就寝 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

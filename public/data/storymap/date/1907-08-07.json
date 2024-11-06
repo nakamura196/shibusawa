@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-08-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 病稍愈ヘタルモ未タ入浴スルヲ得ス、起床後温湯ヲ以テ身体ヲ摩擦ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ為シ、畢テ揮毫ヲ試ム、午前\n        <persname corresp=\"#pers_大川平三郎\">\n<surname> 大川 </surname>\n<forename> 平三郎 </forename>\n</persname> 来話ス、午後 <persname corresp=\"#pers_渡辺萊渚\">\n<surname> 渡辺 </surname>\n<forename> 萊渚 </forename>\n</persname> 来話ス、終日 <persname corresp=\"#pers_趙孟フ\">\n<surname> 趙 </surname>\n<forename> 子昂 </forename>\n</persname> 墨帖ノ臨書ヲ為ス、夕方医師来診ス <lb></lb> 夜、 <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> ノ金色夜叉ヲ読ムヲ聴ク <lb></lb> 諸方ヨリノ来書ニ回答ヲ作リ、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ノ来訪ニ托シテ送リ遣ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

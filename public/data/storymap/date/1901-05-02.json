@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-05-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time>\n<placename corresp=\"#place_津川\"> 津川 </placename> ヲ発シ腕車ヲ僦フテ山間ヲ上下ス、或ハ川ニ添ヘ又ハ嶺ニ攀チ行路頗ル険ナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_野沢\"> 野沢 </placename> ニ抵リテ午餐ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n       過ニ至リテ土地稍平坦ナリ、畳川ヲ越ヘ更ニ <placename corresp=\"#place_大川\"> 大川 </placename> ヲ渡リ <placename corresp=\"#place_坂下町\"> 坂下町 </placename> ニ抵ル、郡役所ニ於テ町中有志者ノ歓迎ヲ受ケ、一場ノ謝詞ヲ述ヘ更ニ車ヲ馳テ <placename corresp=\"#place_若松市\"> 若松市 </placename> ニ達ス、市ノ街頭ニハ有志者数十名来リ迎フ、腕車市ニ達スル時煙火ヲ発シテ祝砲ニ代フ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 33.90544,
+                    "lon": 130.81122,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 東山ニ抵リ浴室新滝ニ宿ス、此夜市中有志二十名許来話ス、喜多方有志者四名来訪ス、 <placename corresp=\"#place_郡山町\"> 郡山町 </placename>\n<persname corresp=\"#pers_永戸直之介\">\n<surname> 永戸 </surname>\n<forename> 直之介 </forename>\n</persname> 、 <persname corresp=\"#pers_門多顕敏\">\n<surname> 門多 </surname>\n<forename> 顕敏 </forename>\n</persname> 二氏来リ迎フ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

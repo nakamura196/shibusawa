@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1884-06-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 早朝本願寺 <persname corresp=\"#pers_渥美\">\n<surname> 渥美 </surname>\n</persname> 、 <persname corresp=\"#pers_池田\">\n<surname> 池田 </surname>\n</persname> 来ル、 <orgname> 八幡銀行 </orgname> 頭取 <persname corresp=\"#pers_西川貞二郎\">\n<surname> 西川 </surname>\n<forename> 貞二郎 </forename>\n</persname> 来ル、敦賀倉庫会社創設意見ヲ議ス、 <persname corresp=\"#pers_堀口\">\n<surname> 堀口 </surname>\n</persname> 、 <persname corresp=\"#pers_森\">\n<surname> 森 </surname>\n</persname> 両氏来ル、同ク <placename corresp=\"#place_敦賀\"> 敦賀 </placename> ノ事ヲ談話ス、 <orgname> 三井銀行 </orgname>\n<persname corresp=\"#pers_能勢\">\n<surname> 能勢 </surname>\n</persname> 其他ノ諸氏来ル、西陣、 <placename corresp=\"#place_敦賀\"> 敦賀 </placename> 等ノ事ヲ談ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<persname corresp=\"#pers_三井八郎右衛門\">\n<surname> 三井 </surname>\n<forename> 高福 </forename>\n</persname> 老人ノ招ニ応シテ其 <placename corresp=\"#place_木屋町通\"> 木屋町 </placename> ノ楼ニ至ル、盛宴満酌、歓ヲ尽シテ帰ル\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

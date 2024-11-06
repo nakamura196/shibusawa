@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-04-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、庭園中ヲ散歩シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time>\n       過朝飧ヲ畢ル、食後新聞紙ヲ閲ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 過キ <persname corresp=\"#pers_堀越角次郎\">\n<surname> 堀越 </surname>\n<forename> 角次郎 </forename>\n</persname> 、同 <persname corresp=\"#pers_堀越美代子\">\n<forename> 美代子 </forename>\n</persname> 、 <persname corresp=\"#pers_堀越常七\">\n<forename> 常七 </forename>\n</persname> 、 <persname corresp=\"#pers_堀越もと子\">\n<forename> もと子 </forename>\n</persname> 等来ル、 <persname corresp=\"#pers_綱島鉄蔵\">\n<surname> 綱島 </surname>\n<forename> 鉄蔵 </forename>\n</persname> 氏来ル、蓋シ婚嫁ノ談ヲ調フル為メ其会見ヲ為スニヨレリ、共ニ庭園ヲ散歩シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n       茶席ニ於テ午飧シ種々ノ談話ヲ試ミ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> ヨリ馬車ニテ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ抵リ、又 <orgname> 第一銀行 </orgname>\n       ニ出勤シ韓国興業会社ノ総会ニ出席ス、畢テ事務所ニ抵リテ同族会ヲ開ク、同族悉ク来会ス、会務畢テ夜飧ヲ為シ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過\n        <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

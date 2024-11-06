@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-06-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_岩尾\">\n<surname> 岩尾 </surname>\n</persname> 某ノ来訪ニ接ス、後日記ヲ編成ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 事務所ニ抵リ、来人ニ応接シ文書ヲ調査ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time> 帝国劇場会社ニ抵リ、優俳慰労会《（マヽ）》ニ出席シ食卓上一場ノ慰労演説ヲ為ス、且、故 <persname corresp=\"#pers_渋沢平九郎\">\n<forename> 平九郎 </forename>\n</persname> 戦死ニ関スル扇面ヲ作リテ俳優一同ニ頒ツ畢テ農商務省ニ抵リ、 <orgname> 人造肥料会社 </orgname>\n<persname corresp=\"#pers_平田\">\n<surname> 平田 </surname>\n</persname> 氏ト共ニ <persname corresp=\"#pers_押川\">\n<surname> 押川 </surname>\n</persname> 次官ニ面会シテ人造肥料製造販売ノ事ニ関シテ種々ノ談話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n       事務所ニ於テ文書ヲ整理シ書状ヲ裁ス、 <persname corresp=\"#pers_渋沢義一\">\n<surname> 渋沢 </surname>\n<forename> 義一 </forename>\n</persname> 、 <persname corresp=\"#pers_桃井可雄\">\n<surname> 桃井 </surname>\n<forename> 可雄 </forename>\n</persname> 等、丸喜店員一同来会ス、蓋シ決算済ニ付テノ慰労会ヲ催シタルナリ、 <orgname> 第一銀行 </orgname>\n<persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname>\n<persname corresp=\"#pers_石井\">\n<surname> 石井 </surname>\n</persname> 、 <persname corresp=\"#pers_杉田\">\n<surname> 杉田 </surname>\n</persname> 諸氏来会ス、囲碁会アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1911-06-29T00:00+0900\"> 十二時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

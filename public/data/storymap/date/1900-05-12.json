@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-05-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴風、午前 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 宅 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ニ書状ヲ送リ来翰数通ノ事ニ関スル処分案ヲ指示ス、 <persname corresp=\"#pers_平岡熙\">\n<surname> 平岡 </surname>\n<forename> 熙 </forename>\n</persname> 氏ニ書状ヲ送リテ馬車ノ事ヲ照会ス、此夜 <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ止宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

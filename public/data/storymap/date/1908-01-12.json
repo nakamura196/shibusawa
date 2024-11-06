@@ -1,0 +1,59 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-01-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、先ツ入浴シ畢テ朝飧ヲ為ス、 <persname corresp=\"#pers_江間政発\">\n<surname> 江間 </surname>\n<forename> 政発 </forename>\n</persname> 昨夜当館ニ一泊セシメ、朝来 <placename corresp=\"#place_鎌倉\"> 鎌倉 </placename> ニ向ケ出立ス、 <placename corresp=\"#place_東京\"> 東京 </placename> ヨリ <persname corresp=\"#pers_遠藤柳作\">\n<surname> 遠藤 </surname>\n<forename> 柳作 </forename>\n</persname> 氏来ル、直ニ一書ヲ <persname corresp=\"#pers_秋葉直衛\">\n<surname> 秋葉 </surname>\n<forename> 直衛 </forename>\n</persname> 氏ニ宛テ <persname corresp=\"#pers_遠藤\">\n<surname> 遠藤 </surname>\n</persname> ヲシテ携帯セシム、蓋シ <persname corresp=\"#pers_横山\">\n<surname> 横山 </surname>\n</persname> 氏ヨリ申越シタル <persname corresp=\"#pers_渋沢秀雄\">\n<forename> 秀雄 </forename>\n</persname> 学友ノ件ニ関シテナリ、 <persname corresp=\"#pers_遠藤\">\n<surname> 遠藤 </surname>\n</persname> ハ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.318806,
+                    "lon": 139.551917,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:50:00",
+                    "text": "<time when=\"09:50:00\"> 九時五十分 </time> 発ニテ <placename corresp=\"#place_鎌倉\"> 鎌倉\n       </placename> ニ向ケ罷越ス、 <placename corresp=\"#place_東京\"> 東京 </placename> ヨリ <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 其他ノ来書アリ、 <persname corresp=\"#pers_大川英太郎\">\n<surname> 大川 </surname>\n<forename> 英太郎 </forename>\n</persname> 書状来ル、 <persname corresp=\"#pers_大川英太郎\">\n<surname> 大川 </surname>\n<forename> 英太郎 </forename>\n</persname> ヘ返書ヲ発送ス、 <orgname> 埼玉学生誘掖会 </orgname> 寄宿舎ノ事ニ関シ、 <persname corresp=\"#pers_矢作栄蔵\">\n<surname> 矢作 </surname>\n<forename> 栄蔵 </forename>\n</persname> 氏ヘ書状ヲ発ス <lb></lb> 今日モ午前ヨリ日没マテ揮毫ニ勉焉ス、夜飧後、遊戯ニ消閑ス、 <persname corresp=\"#pers_高橋波太郎\">\n<surname> 高橋 </surname>\n<forename> 波太郎 </forename>\n</persname> 来話ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.318806,
+                    "lon": 139.551917,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

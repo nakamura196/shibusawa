@@ -1,0 +1,107 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-09-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:30:00",
+                    "text": "<time when=\"05:30:00\"> 午前五時半 </time> 起床、日記ヲ編成ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 六時 </time> 朝飧ヲ食シ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 頃船ニテ旅亭ヲ発シ、 <placename corresp=\"#place_松島\"> 松島 </placename>\n       湾中ヲ巡遊シテ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 38.340528,
+                    "lon": 141.151972,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 塩竈ニ抵ル、舟中ノ眺望佳絶ナリ、 <placename corresp=\"#place_松島\"> 松島\n       </placename> ニハ <placename corresp=\"#place_仙台\"> 仙台 </placename> 人多ク来リ迎フ、先ツ <placename corresp=\"#place_塩竈\"> 塩竈 </placename> 神社ニ詣シテ後、宮司ノ家ニ休憩ス、 <persname corresp=\"#pers_林子平\">\n<surname> 林 </surname>\n<forename> 子平 </forename>\n</persname> ノ遺物ヲ携来リテ一見ヲ需ムルモノアリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 38.340528,
+                    "lon": 141.151972,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 発ノ汽車ニテ <placename corresp=\"#place_仙台市\"> 仙台市 </placename> ニ向ヒ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 38.26822,
+                    "lon": 140.86942,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_仙台\"> 仙台 </placename> 着、停車場ニハ市長 <persname corresp=\"#pers_早川\">\n<surname> 早川 </surname>\n</persname> 氏其他多人数来リ迎フ、停車場ニテ家人ト分レ、 <persname corresp=\"#pers_土岐\">\n<surname> 土岐 </surname>\n</persname> 其他 <orgname> 七十七銀行 </orgname> 諸氏ト共ニ同行ニ抵リテ行務ヲ談ス、畢テ午飧ヲ食シ、行内ヲ一覧シ行員ニ訓示ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<persname corresp=\"#pers_寺田\">\n<surname> 寺田 </surname>\n</persname>\n       知事ヲ訪ヒ、後、県会議事堂ニ抵リ一場ノ経済講話ヲ為ス、来会者三四百名許ナリキ、畢テ陸奥ノ園ト云フ旅亭ニ抵リテ入浴シ、再ヒ旅亭ヲ出テ公園地ニアル挹翠館ニ抵ル、地方人士ノ開催セル歓迎会ニ応スル為メナリ、酒間一場ノ謝詞ヲ述ヘ\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 頃帰亭ス、夜、旅亭ニテ <persname corresp=\"#pers_土岐\">\n<surname> 土岐 </surname>\n</persname> 、 <persname corresp=\"#pers_神谷\">\n<surname> 神谷 </surname>\n</persname> 氏等来リテ当市ニ有名ナル歌舞ヲ奏セシメテ旅情ヲ慰ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

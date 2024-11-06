@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-02-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、例ニヨリテ室内運動ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       朝飧ヲ畢ル、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯留守宅ヘ電話ヲ送リ昨日ノ手翰配達ノ事ヲ問合ハス <lb></lb>\n<persname corresp=\"#pers_前島\">\n<surname> 前島 </surname>\n</persname> 男ニ電話ヲ送リ面会ノ事ヲ問合ハス <lb></lb>\n<persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> 滞韓中ノ日記ヲ一読ス、 <persname corresp=\"#pers_川田鉄弥\">\n<surname> 川田 </surname>\n<forename> 鉄弥 </forename>\n</persname> ノ教育演述ヲ一読ス、 <placename corresp=\"#place_四日市\"> 四日市 </placename>\n<persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 、 <persname corresp=\"#pers_斎藤\">\n<surname> 斎藤 </surname>\n</persname> 両氏ヘ書状ヲ送ル、 <persname corresp=\"#pers_岡部\">\n<surname> 岡部 </surname>\n</persname> 子爵其他三四ノ来状ニ回答ヲ発ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵ル、 <persname corresp=\"#pers_新村猛雄\">\n<surname> 新村 </surname>\n<forename> 猛雄 </forename>\n</persname> 氏、 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 氏、 <persname corresp=\"#pers_竹内綱\">\n<surname> 竹内 </surname>\n<forename> 綱 </forename>\n</persname> 、 <persname corresp=\"#pers_田中源太郎\">\n<surname> 田中 </surname>\n<forename> 源太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_堀越善重郎\">\n<surname> 堀越 </surname>\n<forename> 善重郎 </forename>\n</persname> 諸氏来話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n       大蔵大臣官邸ニ抵ル、国庫債券発行方法諮問会ニ出席ス、一場ノ演説ヲ為ス、畢テ夜飧ヲ饗セラル、 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 総理大臣モ出席ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

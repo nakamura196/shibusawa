@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-11-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、気候寒冷ナリ、午前宅ニ在テ書類ヲ整理シ、 <persname corresp=\"#pers_新村猛雄\">\n<surname> 新村 </surname>\n<forename> 猛雄 </forename>\n</persname> 氏来リテ一位公新公爵拝受ノ手続ヲ話セラレ、且将来御家産ノ保管方法ヲ協議ス午後 <placename corresp=\"#place_小日向\"> 小日向\n       </placename> ニ於テ新公爵ヲ訪ヒ種々ノ談話ヲ為シ、牛込 <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> ノ家ヲ訪ヒ其家人ニ面話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7140083,
+                    "lon": 139.7347139,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<placename corresp=\"#place_イギリス\"> 英国 </placename> 公使館ノ園遊会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:30:00",
+                    "text": "<time when=\"15:30:00\"> 三時半 </time>\n<orgname> 東京商業会議所 </orgname> ニ抵リ役員会ヲ開ク、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 、 <persname corresp=\"#pers_雨宮\">\n<surname> 雨宮 </surname>\n</persname> 、 <persname corresp=\"#pers_藤山\">\n<surname> 藤山 </surname>\n</persname> 、 <persname corresp=\"#pers_朝吹\">\n<surname> 朝吹 </surname>\n</persname>\n       ノ諸氏来会ス、改正条例ニ関シ会員撰挙資格ノ事ヲ協議シ、且工場法案ヲ農商務省ヨリ諮問セラレタルニ付、近々総会開設ノ事ヲ打合ハス、畢テ歓迎会ニ臨ミ食事後一場ノ演説ヲ為ス、宴散シテ後本会議所ニ於ケル会員撰挙方法ニ関シ紛議融和ノ事ヲ談シ、更ニ来ル\n        <date evidence=\"year inferenced, month\" when=\"1902-11-14\"> 十四日 </date> ヲ以テ一会ヲ開ク事ト定メテ散会ス、夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1902-11-09T00:00+0900\"> 十二時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

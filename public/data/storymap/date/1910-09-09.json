@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-09-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、日記ヲ編成ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ食シ、来人ニ接ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 、 <persname corresp=\"#pers_岡崎\">\n<surname> 岡崎 </surname>\n</persname> 氏、 <persname corresp=\"#pers_中川\">\n<surname> 中川 </surname>\n</persname> 氏等ト共ニ西本願寺ニ抵リ水害救済会寄附金ノ事ヲ依頼ス、門主ノ連枝迎テ接待ス、後、東本願寺ニ抵リテ同シク依頼ヲ為ス、 <persname corresp=\"#pers_阿部慧水\">\n<surname> 阿部 </surname>\n<forename> 慧水 </forename>\n</persname> 氏面接ス、東西共ニ <persname corresp=\"#pers_木村\">\n<surname> 木村 </surname>\n</persname> 代議士紹介ノ労ヲ取レリ、畢テ <persname corresp=\"#pers_田中源太郎\">\n<surname> 田中 </surname>\n<forename> 源太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_内貴甚三郎\">\n<surname> 内貴 </surname>\n<forename> 甚三郎 </forename>\n</persname> 二氏ヲ訪ヒ、更ニ <placename corresp=\"#place_京都\"> 京都 </placename> 市役所ニテ市長ニ面会シ、午後集会ノ手続ヲ談ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 旅宿ニテ午飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 再 <pb corresp=\"#pageB1643\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/669/full/max/0/default.jpg\" n=\"B1643\" source=\"#pageB1643\"></pb> ヒ市役所ニ抵リ、寄附金勧募ノ事ニ付テ来会ノ諸氏ニ演説ヲ為ス、畢テ委員等ト向後取扱ノ手続ヲ協議シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 旅宿ニ帰リテ夜飧ス、 <persname corresp=\"#pers_中井三郎兵衛\">\n<surname> 中井 </surname>\n<forename> 三郎兵衛 </forename>\n</persname> 、 <persname corresp=\"#pers_中川知一\">\n<surname> 中川 </surname>\n<forename> 知一 </forename>\n</persname> 氏等来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1884-06-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> ノ汽車ニ駕シテ <placename corresp=\"#place_敦賀\"> 敦賀 </placename>\n       ニ抵ル、 <placename corresp=\"#place_柳ヶ瀬\"> 柳ケ瀬 </placename> 墜道《（隧）》ハ此間ニアリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\">\n        八時 </time>\n<placename corresp=\"#place_敦賀\"> 敦賀 </placename> ニ達ス、米屋某ニ投宿ス <lb></lb>\n<orgname> 三井銀行 </orgname> 分店 <persname corresp=\"#pers_石田\">\n<surname> 石田 </surname>\n</persname> 某、 <persname corresp=\"#pers_中村\">\n<surname> 中村 </surname>\n</persname> 、 <persname corresp=\"#pers_室山\">\n<surname> 室山 </surname>\n</persname> 等諸子来訪、相携フテ地方ノ勝景ヲ遊覧ス、金ケ崎神社観音堂ニ詣シ、 <placename corresp=\"#place_金ヶ崎\"> 金ケ崎\n       </placename> 駐車場ニ添フタル波止場ヲ一覧ス、午後再三諸子ノ誘引ニ依テ松原ニ至ル、松原ハ港内ノ一勝地ナリ、 <persname corresp=\"#pers_武田\">\n<surname> 武田 </surname>\n</persname> 、 <persname corresp=\"#pers_伊賀\">\n<surname> 伊賀 </surname>\n</persname>\n       其他数士埋骨ノ地ナルヲ以テ水戸ノ人士碑ヲ建テ其事ヲ記ス、原頭海ニ接スル所ニ於テ開筵小酌シ、網シテ魚ヲ得、煮炙以テ酒ヲ侑ム、頗ル清興ナリ、蓋シ地方諸子余カ来遊ヲ慰ムル為メナリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.755222,
+                    "lon": 134.474222,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time> 帰宿ス、此夜、諸子来会談話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

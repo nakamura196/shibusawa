@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-05-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後身体摩擦ヲ為シ、畢テ書類ヲ検閲ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 七時半 </time> 朝飧ヲ喫ス、 <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 氏来リ <orgname> 人造肥料会社 </orgname> ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_釜屋堀\"> 釜屋堀 </placename>\n<orgname> 人造肥料会社 </orgname> ニ抵リ、更ニ新工場ニ抵リテ建築工事ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n       会社ニ於テ重役会ヲ開キ要件ヲ議決ス、午飧後事務所ニ抵リ、 <persname corresp=\"#pers_青山宙平\">\n<surname> 青山 </surname>\n<forename> 宙平 </forename>\n</persname> 氏ニ面話ス、又中津川製紙工場設立ノ発起人《（会脱）》ヲ開ク、名古屋人、中津川人及 <persname corresp=\"#pers_大川\">\n<surname> 大川 </surname>\n</persname> 、 <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 、 <persname corresp=\"#pers_中井\">\n<surname> 中井 </surname>\n</persname> ノ諸氏来会ス、協議畢リテ <placename corresp=\"#place_溜池\"> 溜池 </placename>\n       水産陳列所ニ抵リ、水産会社設立ノ事ニ関シ発起人会ヲ開ク、 <persname corresp=\"#pers_牧朴真\">\n<surname> 牧 </surname>\n<forename> 朴真 </forename>\n</persname> 氏来リテ水産ニ関スル演説アリ、協議畢リテ直ニ <placename corresp=\"#place_小石川\"> 小石川 </placename>\n<placename corresp=\"#place_原町\"> 原町 </placename> ニ抵リ、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 氏ノ招宴ニ出席ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7137833,
+                    "lon": 139.7487556,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 宴散シテ <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス <lb></lb> 此日 <orgname> 第一銀行 </orgname>\n       重役会当日ナリシモ、時間ナキヲ以テ流会トシテ次ノ木曜日迄延期ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

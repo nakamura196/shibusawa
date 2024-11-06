@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1904-04-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、病猶未タ愈ヘス、然レトモ昨日来多ク発汗セシヲ以テ聊快方ヲ覚フ、午前 <persname corresp=\"#pers_菊地市太郎\">\n<surname> 菊地 </surname>\n<forename> 市太郎 </forename>\n</persname> 来ル、其請求ニ応シテ <placename corresp=\"#place_京都\"> 京都 </placename>\n<persname corresp=\"#pers_中川知一\">\n<surname> 中川 </surname>\n<forename> 知一 </forename>\n</persname> 氏ヘ書状ヲ附托ス、 <persname corresp=\"#pers_八十島信親\">\n<surname> 八十島 </surname>\n<forename> 信親 </forename>\n</persname> 来《（マヽ）》ル、 <placename corresp=\"#place_東京\"> 東京 </placename> ノ近況ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 頃ヨリ又悪寒ノ気アリテ発熱ス、依テ再ヒ服薬シテ発汗ニ勉ム <lb></lb>\n<date when=\"1904-04-15\"> 四月十五日 </date> 病尚愈ヘス、 <date when=\"1904-04-24\"> 廿四日 </date>\n       ニ至リ、病ヲ犯シテ帰京シ、 <date when=\"1904-04-27\"> 廿七日 </date> ヨリ熱気漸ク増加シ、 <date when=\"1904-04-29\"> 廿九日\n       </date> ニハ終ニ肺炎症トナリテ一時死ヌヘク思ハ <pb corresp=\"#pageB1339\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/365/full/max/0/default.jpg\" n=\"B1339\" source=\"#pageB1339\"></pb> レシモ、医師ノ処方宜ヲ得、家人ノ看護ニ尽セルヲ以テ、 <date evidence=\"year inferenced, day\" when=\"1904-06\"> 六月 </date> 中旬ヨリ稍快方ニ赴キ、 <date evidence=\"year inferenced, day\" when=\"1904-07\"> 七月 </date> 初ヨリ起床、庭中ノ散歩ヲ試ムルニ至ル、爾後次第ニ回復シテ、\n        <date when=\"1904-08-11\"> 八月十一日 </date>\n<placename corresp=\"#place_東京\"> 東京 </placename> ヲ発シ、 <placename corresp=\"#place_箱根\"> 箱根\n       </placename> 蘆ノ湯ニ入浴シ、 <date when=\"1904-09-03\"> 九月三日 </date> ヲ以テ帰京ス、此間時々風邪気ノ事アリシモ両三日ニシテ快愈セリ、\n        <date when=\"1904-09-10\"> 九月十日 </date> 夜眩暈症ニテ一時懸念セシ事アリシモ数日ニシテ平愈シ <date when=\"1904-09-27\"> 廿七日\n       </date> ヨリ出勤、先ツ宮内省ニ抵リテ大臣ニ謝意ヲ述ヘ、夫ヨリ総理大臣其他ヲ廻勤シ爾来日々出勤執務セリ <lb></lb>\n<date evidence=\"year inferenced, day\" when=\"1904-04\"> 四月 </date> 以後ノ日誌ハ病ノ為メ記載スルヲ得サリシニヨリ、\n        <date evidence=\"year inferenced\" when=\"1904\"> 三十七年 </date> ハ殆ント之ヲ廃シ、新年ヲ迎ヘテ更始スヘキ事トセリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

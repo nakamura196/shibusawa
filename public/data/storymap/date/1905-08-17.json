@@ -1,0 +1,100 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-08-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:00:00",
+                    "text": "<time when=\"05:00:00\"> 午前五時 </time> 起床、直ニ入浴ヲ為シ畢テ朝飧ヲ喫ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 六時 </time>\n<placename corresp=\"#place_小涌谷\"> 小涌谷 </placename> 旅舎ヲ発シ、腕車ニテ雨ヲ犯シ <placename corresp=\"#place_宮ノ下\"> 宮ノ下 </placename> ニ抵リ、夫レヨリ <placename corresp=\"#place_湯本\"> 湯本\n       </placename> ニ抵リテ電車ニ乗替ヘ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.240361,
+                    "lon": 139.053028,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<placename corresp=\"#place_国府津\"> 国府津 </placename> 着、更ニ汽車ニ搭シ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.280139,
+                    "lon": 139.2116278,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時\n       </time> 過キ <placename corresp=\"#place_新橋\"> 新橋 </placename> ニ着ス、 <persname corresp=\"#pers_仙石\">\n<surname> 仙石 </surname>\n</persname> 氏ニ会見ス、共ニ馬車ニテ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ談話ス、\n        <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏来話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_麻布\"> 麻布 </placename>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ヲ訪ヒ支那人［　　　　］《ヨウシコウ》、 <persname corresp=\"#pers_袁子壮\">\n<surname> 袁 </surname>\n<forename> 子壮 </forename>\n</persname> 其他邦人数多ノ招宴ニ列席ス、種々ノ饗応アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> ヨリ銀行集会所ニ立寄リ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス、此日 <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> 二氏同行帰京ス終日雨強ク且風ヲ加ヘ少シク暴風ノ徴アリシモ夕方ヨリ歇ム <lb></lb>\n<persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> ニ養育院ノ事ヲ書通ス、 <persname corresp=\"#pers_田中太郎_(社会事業家)\">\n<surname> 田中 </surname>\n<forename> 太郎 </forename>\n</persname> ヘ書状ヲ遣ス <lb></lb>\n<persname corresp=\"#pers_仙石貢\">\n<surname> 仙石 </surname>\n<forename> 貢 </forename>\n</persname> 、 <persname corresp=\"#pers_斎藤恒三\">\n<surname> 斎藤 </surname>\n<forename> 恒三 </forename>\n</persname> 、 <persname corresp=\"#pers_福地文一郎\">\n<surname> 福地 </surname>\n<forename> 文一郎 </forename>\n</persname> 三氏ニ書状ヲ発ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

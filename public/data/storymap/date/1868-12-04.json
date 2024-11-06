@@ -1,0 +1,65 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-12-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 暁の頃 <placename corresp=\"#place_香港\"> 香港 </placename>\n       地方の島嶼多き地に至り、此よりは島嶼多く、器械なくては〓行なしかたしとて、碇を下し〓行をとゝむ、バツテーラニ而 <placename corresp=\"#place_香港\"> 香港\n       </placename> に此段を報告す、第 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 22.267,
+                    "lon": 114.188,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time> 頃迎船として川蒸気来り、同時出帆いたす、 <placename corresp=\"#place_香港\"> 香港 </placename> 帰着之上此迄乗組来りしアンペラトリースニ而御国迄〓行すへきよし申送る、第 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 22.267,
+                    "lon": 114.188,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<placename corresp=\"#place_香港\"> 香港 </placename>\n       着、直ニ同地の飛脚会社之者罷越《（船脱カ）》、夫是談話夜餐後アンヘラトリース船へ御乗移、此終夜荷物抔積替るとて雑沓絶ゐさりし《（えカ）》 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 22.267,
+                    "lon": 114.188,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

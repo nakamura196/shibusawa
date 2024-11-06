@@ -1,0 +1,135 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-05-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 朝飧ヲ畢リ書類ヲ調査ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<persname corresp=\"#pers_小畔亀太郎\">\n<surname> 小畔 </surname>\n<forename> 亀太郎 </forename>\n</persname> 来話ス、共ニ庭園ヲ散歩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ来人ニ接ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時\n       </time> 芝区裁判所ニ抵リ、露清銀行ト鴨東銀行トノ係争タル銀行ニ於テ他人ノ債務保証ニ関スル慣例及銀行一般ノ営業ニ付テ諮問アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\">\n        午後二時 </time> 過海軍省ニ抵リ <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 大臣、 <persname corresp=\"#pers_斎藤\">\n<surname> 斎藤 </surname>\n</persname> 次官ニ面会シテ浦賀船渠会社ノ事ヲ談ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n       東京市役所ニ抵リ養育院ノ事務及慈善会ノ事ニ関シ市長及助役ト協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ常盤屋ニ抵リテ <persname corresp=\"#pers_諸井\">\n<surname> 諸井 </surname>\n</persname>\n<persname corresp=\"#pers_柿沼\">\n<surname> 柿沼 </surname>\n</persname> ノ婚儀ヲ媒妁ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 午後八時 </time> 式畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時\n       </time> 過宴会ヲ開ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 新夫婦ヲ送リテ <persname corresp=\"#pers_諸井四郎\">\n<surname> 諸井 </surname>\n<forename> 四郎 </forename>\n</persname> ノ居宅 <placename corresp=\"#place_下谷\"> 下谷 </placename> ニ抵リ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7220222,
+                    "lon": 139.7834083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\">\n        午後一時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> 《（前カ）》ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

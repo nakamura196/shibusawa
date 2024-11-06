@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-03-31",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、半身浴ヲ為シ、朝飧ヲ食ス、後、 <placename corresp=\"#place_東京\"> 東京\n       </placename> 毎夕新聞記者ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 番町二松学舎ニ抵リ東宮殿下ヨリ御下賜金ノ事ヲ賀ス、\n        <persname corresp=\"#pers_三島中洲\">\n<surname> 三島 </surname>\n<forename> 中洲 </forename>\n</persname> 翁其他ト談話ス、式場一場ノ祝詞ヲ述フ、畢テ <orgname> 日本銀行 </orgname> ニ抵リ <placename corresp=\"#place_清\"> 清国 </placename> 公債募集ニ関スル協議ヲ為シ、後、 <persname corresp=\"#pers_高橋是清\">\n<surname> 高橋 </surname>\n<forename> 是清 </forename>\n</persname> 氏ト共ニ <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 大蔵大臣ヲ其邸ニ訪ヘ公債ニ関スル請願ヲ為ス、後、事務所ニ抵リ事務ヲ処理ス、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<placename corresp=\"#place_両国\"> 両国 </placename> 深川亭ニ抵リ、 <persname corresp=\"#pers_中野\">\n<surname> 中野 </surname>\n</persname> 、 <persname corresp=\"#pers_浜口\">\n<surname> 浜口 </surname>\n</persname> 、 <persname corresp=\"#pers_柿沼\">\n<surname> 柿沼 </surname>\n</persname> 氏等ノ催ス処ノ仲裁宴会ニ出席ス、 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 民等来会、一方ニハ青年団員数名来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 頃退席、帰宿ス、此夕 <placename corresp=\"#place_築地\"> 築地 </placename> 瓢屋ニモ一宴会アリシモ電話ニテ断リ遣ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

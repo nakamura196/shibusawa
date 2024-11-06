@@ -1,0 +1,94 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-09-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:00:00",
+                    "text": "<time when=\"05:00:00\"> 午前五時 </time> 過汽車 <placename corresp=\"#place_セントポール_(ミネソタ州)\"> セントホール\n       </placename> ニ着ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 44.94417,
+                    "lon": -93.09278,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 起床、支度ヲ整ヘ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時\n       </time> 朝飧ヲ食ス、食後、案内ノ人ニ導カレテ市街ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n       オーヂトリヨムト称スル公会堂ニ抵リ、市内商業者ノ催ニ係ル大宴会ニ出席ス、有名ノ <persname corresp=\"#pers_セームス_ヒル\">\n<forename> セームス </forename> ・ <surname> ヒル </surname>\n</persname> 氏其他ノ名士モ来会ス、食卓上一場ノ答辞演説ヲ為ス、畢テ <persname corresp=\"#pers_ヒル\">\n<surname> ヒル </surname>\n</persname> 氏其他市長等ヲ訪問シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_ミネソタ州\"> ミネソタ </placename> 倶楽部ニテ地方有志者ノ催ニ係ル晩飧会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:30:00",
+                    "text": "<time when=\"20:30:00\"> 八時半 </time> 汽車ニ帰リ、 <persname corresp=\"#pers_ヱリオツト\">\n<surname> ヱリオツト </surname>\n</persname> 氏其他ノ来訪ニ接ス、秘密結社ノ事情説明ノ為二人ノ来訪アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 過汽車 <placename corresp=\"#place_セントポール_(ミネソタ州)\"> セントホール </placename> ヲ発ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 44.94417,
+                    "lon": -93.09278,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

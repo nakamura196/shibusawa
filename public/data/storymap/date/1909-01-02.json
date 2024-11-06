@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-01-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴、畢テ朝飧ヲ食ス、後、賀客数人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 人 <persname corresp=\"#pers_ヘンリー\"> ヘンリー </persname>\n       、 <persname corresp=\"#pers_テイラー\">\n<surname> テーラー </surname>\n</persname> 二氏ニ面会シテ稷山ノ事ヲ協議ス、 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> 、 <persname corresp=\"#pers_前原厳太郎\">\n<surname> 前原 </surname>\n<forename> 厳太郎 </forename>\n</persname> 同席ス、意見一致スルヲ以テ直ニジヤーデン・マチソン商会 <persname corresp=\"#pers_ヘンソン\">\n<surname> ヘンソン </surname>\n</persname> 氏ヘ書通スヘキ事トス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リ、 <placename corresp=\"#place_フランス\"> 仏国\n       </placename> 人 <persname corresp=\"#pers_カーン\">\n<surname> カーン </surname>\n</persname> 氏ト会見ス、 <persname corresp=\"#pers_本野\">\n<surname> 本野 </surname>\n</persname> 大使、 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 、 <persname corresp=\"#pers_長田秋濤\">\n<surname> 長田 </surname>\n<forename> 秋濤 </forename>\n</persname> 氏等来会ス、種々ノ要件ヲ協議ス、畢テ午飧ヲ共ニシ、去テ <placename corresp=\"#place_浜町\"> 浜町 </placename>\n       宅ニ立寄リ小憩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> ヨリ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ新年祝賀会ニ出席ス、一場ノ演説ヲ為シ、後、 <persname corresp=\"#pers_内田嘉吉\">\n<surname> 内田 </surname>\n<forename> 嘉吉 </forename>\n</persname> 氏ノ <placename corresp=\"#place_南アメリカ\"> 南米 </placename> 巡遊ノ演説アリ、食卓上、 <persname corresp=\"#pers_添田\">\n<surname> 添田 </surname>\n</persname> 、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏等ノ卓上演説アリテ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 散会、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

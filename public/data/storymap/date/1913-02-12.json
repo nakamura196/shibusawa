@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-02-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シテ朝飧ヲ食ス、後、新聞紙ヲ一覧シ又書類ヲ整理ス、零時半 <placename corresp=\"#place_早稲田\"> 早稲田 </placename>\n<persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯邸ニ抵リ、米人 <persname corresp=\"#pers_メヒー\">\n<surname> メヒー </surname>\n</persname> 氏招宴ノ午飧会ニ出席ス、午飧畢テ主人伯ト種々ノ談話ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 事務所ニ抵リ庶務ヲ処理ス、\n        <orgname> 第一銀行 </orgname> ニ抵リ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト行務ヲ談ス、畢テ事務所ニ於テ <persname corresp=\"#pers_畔田明\">\n<surname> 畔田 </surname>\n<forename> 明 </forename>\n</persname> 氏ノ来訪ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 帰宿、夜飧後、書類ヲ整理ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

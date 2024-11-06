@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-10-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 昨夜ヨリ大雨頻リニ至ル、朝来煙霧多クシテ四方弁シ難シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 頃ヨリ、 <placename corresp=\"#place_薩摩\"> 薩摩 </placename> ノ島嶼 <placename corresp=\"#place_伊良武島\"> 伊良武島 </placename>\n       《（ <placename corresp=\"#place_永良部\"> 永良部 </placename> ）》ヲ右舷ニ見、尋テ <placename corresp=\"#place_硫黄島\"> 硫黄島 </placename> 、 <placename corresp=\"#place_竹島\"> 竹島 </placename>\n       等ヲ同方位ニ見ル、又 <placename corresp=\"#place_矢久島\"> 矢久島 </placename> 、 <placename corresp=\"#place_種ケ島\"> 種ケ島 </placename> 、 <placename corresp=\"#place_槙島\"> 槙島 </placename> 等《（\n        <placename corresp=\"#place_馬毛\"> 馬毛 </placename> ）》ヲ左舷ニ見ル、 <placename corresp=\"#place_鹿児島湾\">\n        鹿児島湾 </placename> ハ此辺ヨリ右折シテ達スルヲ得ヘシト云フ、午後、 <placename corresp=\"#place_大隅国\"> 大隅 </placename> 、\n        <placename corresp=\"#place_日向\"> 日向 </placename>\n       地方ヲ右舷ニ見ル、時々風雨来リテ甲板上ノ散歩自由ナラサリシガ、夕方ヨリ雨歇ミテ風静カナリ　○右舷左舷マヽ。翌 <date when=\"1902-10-30\"> 三十日 </date>\n       同断。 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 37.24167,
+                    "lon": 131.86667,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

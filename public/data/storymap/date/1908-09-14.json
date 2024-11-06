@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-09-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴ヲ癈《（廃）》シ、直ニ朝飧ヲ食ス、食後、 <persname corresp=\"#pers_早速\">\n<surname> 早速 </surname>\n</persname> 、 <persname corresp=\"#pers_土肥\">\n<surname> 土肥 </surname>\n</persname> 二氏ノ来訪ニ接シ、帽子会社ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <orgname> 人造肥料会社 </orgname>\n       重役会ヲ開ク、畢テ午飧ヲ食ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 文部省ニ抵リ、 <persname corresp=\"#pers_辻新次\">\n<surname> 辻 </surname>\n<forename> 新次 </forename>\n</persname> 、 <persname corresp=\"#pers_松崎蔵之助\">\n<surname> 松崎 </surname>\n<forename> 蔵之助 </forename>\n</persname> 二氏ト共ニ文部大臣、同次官ニ面会シテ商科大学設置ノ事ニ関シテ三氏ヨリ種々ノ意見ヲ陳述ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<orgname> 東京商業会議所 </orgname> ニ抵リ、喜賓会役員会ヲ開キ、 <persname corresp=\"#pers_鏑木\">\n<surname> 鏑木 </surname>\n</persname> 少将ヲ常務幹事ニ任スルノ件ヲ議決ス、畢テ <placename corresp=\"#place_築地\"> 築地 </placename> 瓢屋ニ抵リ、\n        <orgname> 愛知銀行 </orgname>\n<persname corresp=\"#pers_岡谷\">\n<surname> 岡谷 </surname>\n</persname> 、 <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> 二氏ノ招宴ニ出席ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 他ニ一知人ヲ訪ヒ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

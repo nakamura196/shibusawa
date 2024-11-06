@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-04-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 前起床、直ニ朝飧ヲ食ス、此日ハ <placename corresp=\"#place_越生\"> 越生\n       </placename> 町ニ開催セル各銀行ノ集会ニ出席スル為メ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 王子発ノ汽車ニテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<placename corresp=\"#place_川越\"> 川越 </placename> ニ抵リ、夫ヨリ人車ニテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_越生\"> 越生 </placename> 町ニ抵ル、地方人士多ク来リ迎フ、着後先ツ <placename corresp=\"#place_越生\"> 越生 </placename>\n       銀行ノ二階ニ小憩シ、午飧後同地ノ小学校ニ於テ一場ノ演説ヲ為ス、来会者堂ニ満ツ、畢テ黒山ニ抵ル、地方人多ク同行ス、 <placename corresp=\"#place_黒山\"> 黒山\n       </placename> ニ抵リ寺院ニ休息シ、 <persname corresp=\"#pers_渋沢平九郎\">\n<forename> 平九郎 </forename>\n</persname> ノ遺跡ヲ探リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<placename corresp=\"#place_越生\"> 越生 </placename>\n       ニ帰ル、一旅亭ニ開催スル歓迎会ニ出席ス、来会者凡弐百名計リ、頗ル盛会ナリ、席上一場ノ挨拶ヲ為ス、畢テ <persname corresp=\"#pers_樋口\">\n<surname> 樋口 </surname>\n</persname> 某ノ家ニ一宿ス、夜、地方人多ク来リ話ス、 <placename corresp=\"#place_越生\"> 越生 </placename>\n       銀行頭取等終始附随シテ款待ニ尽力セリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

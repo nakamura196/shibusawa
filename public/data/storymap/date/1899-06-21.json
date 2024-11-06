@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-06-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、午前 <placename corresp=\"#place_横浜\"> 横浜 </placename> 五品、四品、米、塩取引所ノ人々来会ス、蓋シ <persname corresp=\"#pers_浅田\">\n<surname> 浅田 </surname>\n</persname> 知事ノ委嘱ニ依テ其合併談ヲ試ル為メナリ、此日ハ風邪気ニテ午後平臥ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

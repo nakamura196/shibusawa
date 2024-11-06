@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-11-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 氏ノ来訪ニ接ス、養育院ニテ拝借シ居ル <placename corresp=\"#place_井ノ頭\"> 井ノ頭 </placename> 御料地ノ事ヲ談ス、\n        <persname corresp=\"#pers_原胤昭\">\n<surname> 原 </surname>\n<forename> 胤昭 </forename>\n</persname> 氏来リ、 <date when=\"1911-11-08\"> 本月八日 </date>\n       地方ヨリ出京セル慈善事業関係ノ人ニ慰労ノ為午飧園遊会開催ノ事ヲ依頼セラル、実業ノ世界 <persname corresp=\"#pers_大塚素江\">\n<surname> 大塚 </surname>\n<forename> 素江 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時半 </time>\n<placename corresp=\"#place_第六天町\"> 大六天 </placename>\n<persname corresp=\"#pers_徳川\"> 徳川 </persname> 老公 《（ <placename corresp=\"#place_第六天町\"> 第六天\n       </placename> ）》ヲ訪フテ、来ル <date when=\"1911-11-09\"> 九日 </date> 昔夢会開催ノ事ヲ伺候ス、新公爵、 <persname corresp=\"#pers_豊崎\">\n<surname> 豊崎 </surname>\n</persname> 家 <pb corresp=\"#pageB1706\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/732/full/max/0/default.jpg\" n=\"B1706\" source=\"#pageB1706\"></pb> 令トモ面話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 十時半 </time>\n<persname corresp=\"#pers_後藤\">\n<surname> 後藤 </surname>\n</persname> 男爵ヲ <placename corresp=\"#place_麻布\"> 麻布 </placename> 自邸ニ訪ヘ、 <persname corresp=\"#pers_清野\">\n<surname> 清野 </surname>\n</persname> 、 <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 二氏ト共ニ日露協会寄附金ノ事ヲ談話ス、畢テ世上老侯《（世外）》ヲ内田山ニ訪フテ来ル <date when=\"1911-11-10\"> 十日 </date>\n       其邸ニ会同ノ事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname>\n       ニ抵リテ午飧シ、後、内務省附属会堂ニ抵リ、中央慈善協会第四総会ヲ開キ、一場ノ演説ヲ為ス、畢テ銀行集会所ニ抵リ、日米情報会ノ会員ヲ会同シテ協議スル所アリ、畢テ <orgname> 第一銀行\n       </orgname> ニ抵リ重役会ヲ開キ要件ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 過ヨリ事務所ニ於テ <persname corresp=\"#pers_馬越\">\n<surname> 馬越 </surname>\n</persname> 、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 二氏ト <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ノ身上ニ付種々ノ内話ヲ為ス、夜飧後散会、帰宿ス、夜、新聞紙ヲ読マシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

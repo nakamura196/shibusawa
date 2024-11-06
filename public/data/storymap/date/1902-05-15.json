@@ -1,0 +1,115 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-05-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 床ヲ離レテ入浴ス、朝飧後庭園ヲ散歩シ一詩ヲ賦シ一首ヲ詠ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ヲ発シ、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 同伴ニテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ抵ル、 <orgname> 第一銀行 </orgname> 員及家人来リテ送別ス、\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 停車場ニ抵リ送別ノ人ニ接ス、各大臣及政事家、学者、商工業家多ク来リ送ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:25:00",
+                    "text": "<time when=\"09:25:00\"> 九時二十五分 </time> 発ノ汽車ニテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 過 <placename corresp=\"#place_横浜\"> 横浜 </placename> ニ抵リ <orgname> 第一銀行 </orgname> 支店楼上ニ休憩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<name type=\"ship\"> 汽船亜米利加丸 </name> ニ搭ス、 <placename corresp=\"#place_横浜\"> 横浜 </placename>\n       マテ送リ来レル人ハ皆本船ニ来ルヲ以テ船頗ル雑沓ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:20:00",
+                    "text": "<time when=\"12:20:00\"> 十二時二十分 </time> 抜錨、送別ノ諸氏ト分袂ス、此時雨頻リニ至ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 米国人 <persname corresp=\"#pers_チソン\">\n<surname> チソン </surname>\n</persname> 氏及 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏ト瓦斯事業等ニ関スル事ヲ会話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:30:00",
+                    "text": "<time when=\"13:30:00\"> 一時半 </time> 船航行ヲ始ム、午飧後行李ヲ理シ且日記ヲ調査ス <lb></lb>\n       此日時々雨降リテ風強ク <placename corresp=\"#place_観音崎\"> 観音埼《（崎）》 </placename>\n       ヲ超ヘテ船頗ル動揺ス、依テ船牀ニ枕籍シテ夜食ノ卓ニ出ル事ヲ能ハス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.25583,
+                    "lon": 139.74417,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-11-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ、朝飧ヲ食ス、畢テ <persname corresp=\"#pers_磯江\">\n<surname> 磯江 </surname>\n</persname> 氏ノ来訪ニ接ス、又 <placename corresp=\"#place_埼玉\"> 埼玉 </placename>\n       学友会委員ノ来訪ニ接ス、学友会秋季小会ノ事ヲ談ス、 <persname corresp=\"#pers_平瀬俊二\">\n<surname> 平瀬 </surname>\n<forename> 俊二 </forename>\n</persname> 氏来話ス、 <placename corresp=\"#place_大阪\"> 大坂 </placename> 紡績会社 <persname corresp=\"#pers_山辺\">\n<surname> 山辺 </surname>\n</persname> 氏、三重紡績 <persname corresp=\"#pers_斎藤\">\n<surname> 斎藤 </surname>\n</persname> 氏等来話ス、工場法ノ事ヲ協議ス、 <persname corresp=\"#pers_神田鐳蔵\">\n<surname> 神田 </surname>\n<forename> 鐳蔵 </forename>\n</persname> 氏来話ス、合名会社神田銀行設立ノ談アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 午後十二時半 </time>\n<persname corresp=\"#pers_寺内\">\n<surname> 寺内 </surname>\n</persname> 子爵ノ案内ニヨリ <placename corresp=\"#place_小石川\"> 小石川 </placename>\n       後楽園ニ抵リ、其午飧会ニ出席ス、午飧中ニ退出シテ、直ニ農商務省ニ抵リ生産調査会ニ出席ス、工場法案ヲ議題トシテ種々ノ質問アリ、終ニ十八名ノ特別委員付托トナリ、会長指名ニテ委員トナリ、更ニ委員会ノ互撰ニテ委員長トナル\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7137833,
+                    "lon": 139.7487556,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 散会ス、 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ニ於テ事務ヲ処理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 五時半 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リ、 <orgname> 人造肥料会社 </orgname>\n       ノ招宴ニ出席ス、一場ノ謝詞ヲ述フ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散 <pb corresp=\"#pageB1649\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/675/full/max/0/default.jpg\" n=\"B1649\" source=\"#pageB1649\"></pb> 会、 <placename corresp=\"#place_浜町\"> 浜町 </placename> ニ立寄リ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

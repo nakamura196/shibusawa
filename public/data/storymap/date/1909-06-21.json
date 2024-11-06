@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-06-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、風邪気ナルニヨリ入浴ヲ廃シ、洗面後直ニ朝飧ヲ食ス後、 <persname corresp=\"#pers_藤波恒\">\n<surname> 藤波 </surname>\n<forename> 恒 </forename>\n</persname> ノ来訪ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<placename corresp=\"#place_麻布\"> 麻布 </placename>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯爵ヲ訪ヒ、 <orgname> 第一銀行 </orgname> 支店ノ事、 <orgname> 汽車製造会社 </orgname> ノ事ヲ談話ス、帰途\n        <persname corresp=\"#pers_馬越恭平\">\n<surname> 馬越 </surname>\n<forename> 恭平 </forename>\n</persname> 氏ヲ <placename corresp=\"#place_桜川町\"> 桜川町 </placename> 邸ニ訪ヒ、 <persname corresp=\"#pers_犬丸\">\n<surname> 犬丸 </surname>\n</persname> 氏ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧シ、食後、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト要務ヲ談ス、午後、 <persname corresp=\"#pers_千家\">\n<surname> 千家 </surname>\n</persname> 、 <persname corresp=\"#pers_高橋\">\n<surname> 高橋 </surname>\n</persname> 、 <persname corresp=\"#pers_中野\">\n<surname> 中野 </surname>\n</persname> 三氏来リテ、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       行ノ事ニ関シ勧誘セラル、依テ同意ノ事ヲ確答ス、午後 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ニ抵リテ来人ニ接シ要務ヲ処理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯邸ヲ訪ヘ大学寄附金ノ事ヲ取引所仲買ノ人々ニ勧進ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 過夜飧後種々ノ談話ヲ為シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

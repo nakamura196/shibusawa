@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-05-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シ畢テ、電話ニテ <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯、 <persname corresp=\"#pers_曾禰\">\n<surname> 曾禰 </surname>\n</persname> 子ノ二氏ニ要務ヲ紹介《（照会）》ス、後、日記ヲ編成シ、又、雑誌ヲ読ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ食ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<orgname> 女子大学 </orgname> ニ抵リ、 <persname corresp=\"#pers_森村\">\n<surname> 森村 </surname>\n</persname> 、 <persname corresp=\"#pers_三井\">\n<surname> 三井 </surname>\n</persname> 、 <placename corresp=\"#place_広岡\"> 広岡 </placename> ノ諸氏ト同学校ノ経営ニ関シ種々ノ協議ヲ為ス、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n<orgname> 東京商業会議所 </orgname> ニ抵リ、高商学校ニ関スル集会ニ参列ス、協議中一同午飧ヲ共ニス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<orgname> 東京瓦斯会社 </orgname> ニ抵リ重役会ニ出席ス、後、日韓瓦斯会社ニ於テ、米人経営ニ係ル電気事業買収ノ事ニ関シ其調査員タル <persname corresp=\"#pers_白石\">\n<forename> 白石 </forename>\n</persname> 、 <persname corresp=\"#pers_久米\">\n<surname> 久米 </surname>\n</persname> 二氏ヨリノ報告ヲ聞キ、且向後施為ノ順序ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ事務ヲ処理ス、夕方 <placename corresp=\"#place_本郷\"> 本郷 </placename> ニテ夜飧シ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

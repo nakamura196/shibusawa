@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-08-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝来雨未タ晴レス、然レトモ小降リニテ午後ニ至ラハ放晴ナランカト思ハル、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ニ命シ <placename corresp=\"#place_宮ノ下\"> 宮ノ下 </placename> ニ抵ラシメ、 <placename corresp=\"#place_東京\"> 東京 </placename> ノ模様ヲ <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ト議セシム、午後電話アリテ明日 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 統監ノ歓迎会ハ延引ヲ請ヒシ旨報シ来ル始テ聊カ焦慮ヲ緩フスルヲ得タリ <lb></lb>\n<placename corresp=\"#place_塔之澤\"> 塔ノ沢 </placename> ハ出水ノ為メ諸橋悉ク陥落シ、 <placename corresp=\"#place_湯本\"> 湯本 </placename> モ同シク落橋ノ報アリ、京浜線モ <placename corresp=\"#place_川崎\"> 川崎\n       </placename> ノ鉄橋ニ破損ヲ生シ交通シ得サル由風聞ス <lb></lb> 終日揮毫ト読書ニ消閑ス <lb></lb> 夜ニ入リテ <placename corresp=\"#place_宮ノ下\"> 宮ノ下 </placename> ナル医師 <persname corresp=\"#pers_岡島\">\n<surname> 岡島 </surname>\n</persname> 氏ニ腹部ノ診察ヲナサシム、下剤ヲ服シタル為メ夜中数回下痢アリ、頗ル苦悶ヲ覚フ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.234444,
+                    "lon": 139.093972,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

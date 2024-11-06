@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-05-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前、 <persname corresp=\"#pers_福地\">\n<surname> 福地 </surname>\n</persname> 氏、 <persname corresp=\"#pers_江間\">\n<surname> 江間 </surname>\n</persname> 氏等ト <persname corresp=\"#pers_徳川慶喜\"> 一位公 </persname> 御伝記ノ事ヲ談ス、 <persname corresp=\"#pers_白峰駿馬\">\n<surname> 白峰 </surname>\n<forename> 駿馬 </forename>\n</persname> 来ル、山形人 <persname corresp=\"#pers_佐治\">\n<surname> 佐治 </surname>\n</persname> 某、 <persname corresp=\"#pers_萩原源太郎\">\n<surname> 萩原 </surname>\n<forename> 源太郎 </forename>\n</persname> 二氏来訪ス、 <persname corresp=\"#pers_佐治\">\n<surname> 佐治 </surname>\n</persname> 氏ハ同県下六県物産共進会ニ於テ余ノ臨場ヲ乞フ為出京セシ由ナレトモ、多忙ニ付拒絶スル旨回答ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 過 <orgname> 日本銀行 </orgname> ニ抵リ <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 総裁ニ面話ス、 <persname corresp=\"#pers_森村市左衛門\">\n<surname> 森村 </surname>\n<forename> 市左衛門 </forename>\n</persname> 氏ニ面会シテ堀越商会ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time> 過 <orgname> 第一銀行 </orgname>\n       ニ出勤ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 同行重役会ヲ開ク、各種ノ議事ヲ決了ス、 <persname corresp=\"#pers_大原春次郎\">\n<surname> 大原 </surname>\n<forename> 春次郎 </forename>\n</persname> 来リ <orgname> 汽車製造会社 </orgname> ノ事ヲ談ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰ル、夜、 <placename corresp=\"#place_若松\"> 若松\n       </placename> 地方ノ郡長 <persname corresp=\"#pers_松本時正\">\n<surname> 松本 </surname>\n<forename> 時正 </forename>\n</persname> 、 <persname corresp=\"#pers_武井格二\">\n<surname> 武井 </surname> 格二 </persname> 氏来ル、 <persname corresp=\"#pers_萩原源太郎\">\n<surname> 萩原 </surname>\n<forename> 源太郎 </forename>\n</persname> 氏来ル、統計表ノ調成ヲ托スル為ナリ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

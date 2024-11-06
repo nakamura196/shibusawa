@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-03-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前二三ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 京釜鉄道事務所ニ抵リ、 <persname corresp=\"#pers_尾崎\">\n<surname> 尾崎 </surname>\n</persname> 、 <persname corresp=\"#pers_竹内\">\n<surname> 竹内 </surname>\n</persname>\n<persname corresp=\"#pers_日下\">\n<surname> 日下 </surname>\n</persname> 、 <persname corresp=\"#pers_大三輪\">\n<surname> 大三輪 </surname>\n</persname> 諸氏ト会社成立ニ関スル要項ヲ協議シ <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 駐在専務者ノ事ヲ内談ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 麻布製綱会社ニ抵リ重役会ニ列ス、 <persname corresp=\"#pers_山田昌邦\">\n<surname> 山田 </surname>\n<forename> 昌邦 </forename>\n</persname> 、 <persname corresp=\"#pers_渡部朔\">\n<surname> 渡部 </surname>\n<forename> 朔 </forename>\n</persname> 、 <persname corresp=\"#pers_赤松\">\n<surname> 赤松 </surname>\n</persname> 某来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 帰宅ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

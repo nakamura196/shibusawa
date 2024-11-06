@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-04-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、午前数多ノ来人アリ、本店 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏 <date evidence=\"year inferenced, month\" when=\"1900-04-25\"> 廿五日 </date> 附ノ書状ニ接ス、\n        <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 借款ニ関スル事件来報セラレタルヲ以テ直ニ電報ヲ以テ当方ノ意見ヲ回答ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 長岡出張所ニ抵ル、事務ヲ視テ計算ヲ点検ス、畢テ <persname corresp=\"#pers_佐田\">\n<surname> 佐田 </surname>\n</persname> 始詰合員ニ勤務ニ関スル心得方ヲ説示ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 六十九銀行 </orgname> ヲ訪問シテ若松亭ニ帰寓ス、 <placename corresp=\"#place_塚山村\"> 塚山村 </placename>\n<persname corresp=\"#pers_長谷川\">\n<surname> 長谷川 </surname>\n</persname> 某来リ赤穂四十七士ノ書翰遺墨ヲ示サル、蓋シ此墨跡ハ <persname corresp=\"#pers_中沢雪城\">\n<surname> 中沢 </surname>\n<forename> 雪城 </forename>\n</persname> ノ集ムル所ナリト云、午餐後北越鉄道会社ニ抵リ社員一同ヲ会シテ社務整理ニ関スル一場ノ訓誡演説ヲ為シ、畢テ各課長ヲ会同シテ <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> 、久住、 <persname corresp=\"#pers_前島\">\n<surname> 前島 </surname>\n</persname> 諸氏ト共ニ向後処務ニ関スル意見ヲ述フ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 37.34831,
+                    "lon": 138.72378,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 帰寓、再ヒ <orgname> 常盤楼\n       </orgname>\n       ニ抵リ北越鉄道会社々債募集ニ付、此日越後地方各銀行者其他関係ノ諸氏ヲ招宴スルニ付、其席上ニ出席シテ同鉄道会社今日ニ至ル迄ノ経歴ヲ述ヘ、且此社債募集ノ必要ヲ説キ来会者ノ賛同ヲ求メタリシカ、一同其意ヲ領シ、勉メテ之レニ応スル事ヲ答フ、依テ饗宴ヲ開テ賓主歓ヲ尽シ、夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会帰寓ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

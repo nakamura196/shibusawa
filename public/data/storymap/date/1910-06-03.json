@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-06-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、訪問ノ客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 九時半 </time>\n<placename corresp=\"#place_桐生\"> 桐生 </placename> 町織物取引所ヲ一覧シ、又、 <placename corresp=\"#place_新宿\">\n        新宿 </placename> ニ抵リテ織物工場ヲ一覧ス、製織会社、撚糸会社ヲ一覧シテ桐生館ニ抵リテ午飧ス、畢テ揮毫ヲ試ミ、又、 <placename corresp=\"#place_桐生市\"> 桐生町 </placename> 天満宮社ヲ参拝ス、結構頗ル美麗ナリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6909194,
+                    "lon": 139.7060639,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_桐生\"> 桐生 </placename> ヲ去リ <placename corresp=\"#place_足利市\"> 足利町\n       </placename> ニ抵ル、 <placename corresp=\"#place_足利\"> 足利 </placename>\n       人多数来リ迎フ、直ニ足利館ニ投宿シ、更ニ学校ニ抵リテ撮影ス、後、小学校内ニ設ケラレタル会場ニ於テ一場 <pb corresp=\"#pageB1626\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/652/full/max/0/default.jpg\" n=\"B1626\" source=\"#pageB1626\"></pb> ノ講話ヲ為ス、畢テ <placename corresp=\"#place_足利\"> 足利 </placename>\n       織物業者集会所ニ抵リ陳列品ヲ一覧シ、地方人ノ歓迎会場ニ列ス、酒間一場ノ謝詞ヲ述ヘ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 36.34017,
+                    "lon": 139.44972,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過帰宿シテ夜飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過寝ニ就ク <lb></lb>\n<placename corresp=\"#place_桐生\"> 桐生 </placename> 町ニ設ケラレタル学校ヲ一覧ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

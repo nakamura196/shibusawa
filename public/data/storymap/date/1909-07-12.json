@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-07-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、直ニ入浴シ、畢テ朝飧ヲ食シ、後、養育院吏 <persname corresp=\"#pers_古賀\">\n<surname> 古賀 </surname>\n</persname> 某ノ来訪ニ接ス、新聞記者ノ来訪アリ、洋服仕立師来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ書類ヲ撿閲ス、又、来客ニ接ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 偕楽園ニ抵リ沖商会ノ社員総会ニ出席ス、畢テ午飧ヲ為シ、午後再ヒ事務所ニ抵リ、 <persname corresp=\"#pers_内田嘉吉\">\n<surname> 内 <pb corresp=\"#pageB1583\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/609/full/max/0/default.jpg\" n=\"B1583\" source=\"#pageB1583\"></pb> 田 </surname>\n<forename> 嘉吉 </forename>\n</persname> 氏、 <persname corresp=\"#pers_日下部\">\n<surname> 日下部 </surname>\n</persname> 某、 <persname corresp=\"#pers_成田錬之助\">\n<surname> 成田 </surname>\n<forename> 錬之助 </forename>\n</persname> 氏、 <persname corresp=\"#pers_加藤政之助\">\n<surname> 加藤 </surname>\n<forename> 政之助 </forename>\n</persname> 氏ノ来訪ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_早稲田\"> 早稲田 </placename>\n<persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯ノ邸ニ抵リ、大学ノ財務管理委員会ニ出席シ、伯及 <persname corresp=\"#pers_高田\">\n<surname> 高田 </surname>\n</persname> 、 <persname corresp=\"#pers_中野\">\n<surname> 中野 </surname>\n</persname> 、其他諸氏会談ス、夜飧後 <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、夜、 <persname corresp=\"#pers_遠藤柳作\">\n<surname> 遠藤 </surname>\n<forename> 柳作 </forename>\n</persname> 其他学生等来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-10-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、先ツ日記ヲ編成ス、 <persname corresp=\"#pers_田崎\">\n<surname> 田崎 </surname>\n</persname> 復氏ノ来訪ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ食シ、後、 <persname corresp=\"#pers_大草恵実\">\n<surname> 大草 </surname>\n<forename> 恵実 </forename>\n</persname> 氏ノ来訪ニ接シ、養育院幼童別置ノ家屋ニ付本願寺別院購入ノ事ヲ談ス、 <persname corresp=\"#pers_野田\">\n<surname> 野田 </surname>\n</persname> 、 <persname corresp=\"#pers_高梨孝右衛門\">\n<surname> 高梨 </surname>\n<forename> 孝右衛門 </forename>\n</persname> 氏ヨリ添書ニテ <persname corresp=\"#pers_川崎鉄蔵\">\n<surname> 川崎 </surname>\n<forename> 鉄蔵 </forename>\n</persname> ナル者来訪セラル、身上ニ関スル依頼アリ、午飧後 <orgname> 埼玉学生誘掖会 </orgname> ニ会同ノ約アリシモ多忙ヲ以テ之ヲ謝ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename> 新喜楽ニ抵リ <orgname> 第一銀行 </orgname> ニ於テ\n        <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 統監、其他 <persname corresp=\"#pers_鶴原\">\n<surname> 鶴原 </surname>\n</persname> 、 <persname corresp=\"#pers_荒井\">\n<surname> 荒井 </surname>\n</persname> 、 <persname corresp=\"#pers_木内\">\n<surname> 木内 </surname>\n</persname> 、 <persname corresp=\"#pers_児玉\">\n<surname> 児玉 </surname>\n</persname> 、 <persname corresp=\"#pers_池田\">\n<surname> 池田 </surname>\n</persname> 、其他ノ諸氏ヲ招宴ス、酒間種々ノ余興アリテ夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

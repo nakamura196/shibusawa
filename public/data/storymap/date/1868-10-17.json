@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-10-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:30:00",
+                    "text": "<time when=\"05:30:00\"> 五時半 </time> 客舎御発し、汽車場ニ而 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 六時 </time>\n       発軔之汽車御乗組、直ニ発軔、此日此辺新兵組入の日なりとて、撰挙せられし兵隊の多く汽車場に集り、諸方の屯所に赴くとて歌抔歌ふて別離を慰むさま殆幽情を催す、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 過、 <placename corresp=\"#place_タルブ\"> タルブ </placename>\n       といふ地ニ而御昼食、此辺ハ <placename corresp=\"#place_ピレネー\"> ヒレネ </placename> といふ <placename corresp=\"#place_イスパニヤ\"> イスパニヤ </placename> 国境の連山に沿ふたる地にて、車中諸山崔嵬たる様、最高の嶺に <pb corresp=\"#pageB1008\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/34/full/max/0/default.jpg\" n=\"B1008\" source=\"#pageB1008\"></pb> は已に積雪堆く眺望甚清絶なり、鉄道も山に添へ壑に架して至而嶮岨なり、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\">\n        六時半 </time>\n<placename corresp=\"#place_トゥールーズ\"> ツウルウズ </placename>\n       といふ地御着、ホテル・デ・ヨウロツパといふ客舎御投館、夜饌後市街御歩行、本地は市街も広く人口も稠密にして市店も繁殷なり <lb></lb>\n       此夜本地名産のスミレ花御買上、御写真二枚を御添仏国太子江御送相成、尤太子昨日 <placename corresp=\"#place_ビアリッツ\"> ヒヤリイス </placename>\n       出立サンクルー御在之旨ニ付、同地ヘ向御差送相成 <lb></lb> 此夜大雨暴風、沿道の河々水漲りて田畝に溢れたり "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 43.604503,
+                    "lon": 1.444026,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

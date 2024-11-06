@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-10-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1701\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/727/full/max/0/default.jpg\" n=\"B1701\" source=\"#pageB1701\"></pb>\n<lb></lb> 時半事務所ニ抵リ、 <persname corresp=\"#pers_馬越恭平\">\n<surname> 馬越 </surname>\n<forename> 恭平 </forename>\n</persname> 氏ノ来訪ニ接シテ帽子会社ノ事ヲ協議ス又、 <persname corresp=\"#pers_早速\">\n<surname> 早速 </surname>\n</persname> 、 <persname corresp=\"#pers_土肥\">\n<surname> 土肥 </surname>\n</persname> ノ諸氏ト会話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 銀行倶楽部 </orgname> ニ抵リ <persname corresp=\"#pers_川田鉄弥\">\n<surname> 川田 </surname>\n<forename> 鉄弥 </forename>\n</persname> 氏ノ催シ《（ニ脱）》係ル <orgname> 高千穂学校 </orgname> 寄附行為ニ関スル協議会ニ出席シ、 <persname corresp=\"#pers_森村\">\n<surname> 森村 </surname>\n</persname> 、 <persname corresp=\"#pers_郷\">\n<surname> 郷 </surname>\n</persname> 、 <persname corresp=\"#pers_古河\">\n<surname> 古河 </surname>\n</persname> 、 <persname corresp=\"#pers_小池\">\n<surname> 小池 </surname>\n</persname> 諸氏ト談話ス、畢テ内務次官ヲ本省ニ訪問シ <placename corresp=\"#place_滝野川\"> 滝野川 </placename> 火葬場ノ事ヲ依頼ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 事務所ニ抵リテ書類ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ三井集会所ニ抵リ、英人 <persname corresp=\"#pers_ウヱツプ\">\n<surname> ウヱツプ </surname>\n</persname> 氏招宴ニ列席ス、宴畢リテ帰途帝国劇場ニ抵リ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       人ト共ニ観劇ス、但昨日来訪ノ時ニ観覧ヲ勧誘セシ為メナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 過閉場シテ、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

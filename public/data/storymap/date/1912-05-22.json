@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-05-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、後、揮毫ヲ為ス、青渊百話著作ニ関シテ <persname corresp=\"#pers_森山\">\n<surname> 森山 </surname>\n</persname> 氏ノ請求ニヨレルナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 午前十時半 </time> 事務所ニ抵リ、来人ニ接シ且庶務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 銀行倶楽部 </orgname> ニ於テ午飧シ、畢テ集会所新築委員ヲ会シテ建築ニ関スル方針ヲ協議ス、五名ノ委員ヲ以テ調査スル事トス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 事務所ニ於テ <orgname> 石川島造船所 </orgname> 重役会ヲ開キ <persname corresp=\"#pers_渡邊嘉一\">\n<surname> 渡辺 </surname>\n<forename> 嘉一 </forename>\n</persname> 氏ヲ一同ニ紹介ス、後、社長ノ互撰ヲ行ヒ <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> 氏当撰ス、依テ将来ノ経営ニ関シテ重役一同ヘ注意ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿シ、同族悉ク会合シ、 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 氏モ来会ス、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 身上ノ事、改悛ヲ見ルニ至リタルヲ詳知セシメ将来ニ付テ注意ヲ与フル為ナリ、一同相集リタル後一言ノ挨拶ヲ為シ、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ヨリ誓約的ノ謝詞ヲ述フ、後、晩飧ヲ共ニシ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会ス、 <persname corresp=\"#pers_岡部\">\n<surname> 岡部 </surname>\n</persname> 老婦人　○ <persname corresp=\"#pers_渋沢栄一\">\n<forename> 栄一 </forename>\n</persname> 亡夫人 <persname corresp=\"#pers_渋沢千代子\">\n<forename> 千代 </forename>\n</persname> ノ妹 <persname corresp=\"#pers_こう\">\n<forename> こう </forename>\n</persname> 。 <persname corresp=\"#pers_尾高婦美子\">\n<surname> 尾高 </surname>\n<forename> 婦美子 </forename>\n</persname> 《（ <persname corresp=\"#pers_尾高文子\">\n<surname> 尾高 </surname>\n<forename> 文子 </forename>\n</persname> ）》モ来会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

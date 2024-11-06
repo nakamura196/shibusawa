@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-01-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シ畢テ朝飧ヲ食ス、後、 <placename corresp=\"#place_巣鴨\"> 巣鴨\n       </placename> 分院主任 <persname corresp=\"#pers_小沢\">\n<surname> 小沢 </surname>\n</persname> 氏ノ来訪ニ接シ児童教養ニ関スル方法ヲ談話ス、 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 氏 <placename corresp=\"#place_大阪\"> 大阪 </placename>\n       ヨリ帰京セシトテ来訪セラル、大阪支店ニ於ル保護預リ公債窃取セラレシ手続及其回収ノ事ヲ詳話セラル、 <orgname> 埼玉学生誘掖会 </orgname> 寄宿学生三名、\n        <persname corresp=\"#pers_柳沢\">\n<surname> 柳沢 </surname>\n</persname> 、 <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> 、堀ノ諸氏来訪、 <date evidence=\"year inferenced\" when=\"1913-02-11\"> 二月十一日 </date>\n       ヲ以テ開催スヘキ学友会ノ事ヲ談話ス、 <persname corresp=\"#pers_坂本\">\n<surname> 坂本 </surname>\n</persname> 則美氏来訪シ青渊百話ニ付種々ノ談話アリ、午飧後他ノ来人アリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7337972,
+                    "lon": 139.7390889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> ヨリ <persname corresp=\"#pers_宇野哲人\">\n<surname> 宇野 </surname>\n<forename> 哲人 </forename>\n</persname> 氏来リ論語ノ講義アリ、来会者十七八名夜飧後三時間ノ講演及種々ノ討論アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

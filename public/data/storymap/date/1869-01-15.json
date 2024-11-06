@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-01-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝召連来りし <persname corresp=\"#pers_幸蔵\">\n<forename> 幸蔵 </forename>\n</persname> を <placename corresp=\"#place_東京\"> 東京 </placename> へ差帰す、 <persname corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persname> へ一書差遣す、諸方土産物之調いたす、 <persname corresp=\"#pers_福岡春清\">\n<surname> 福岡 </surname>\n<forename> 春清 </forename>\n</persname> 来る、諸近親之者集来、夜、 <placename corresp=\"#place_手計\"> 手計 </placename>\n<persname corresp=\"#pers_尾高惇忠\">\n<forename> 藍香 </forename>\n</persname> を訪ふ、新宅へ尋問、 <persname corresp=\"#pers_忠三郎\">\n<forename> 忠三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_豊五郎\">\n<forename> 豊五郎 </forename>\n</persname> 其他来集、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1869-01-16T02:00+0900\"> 二時 </time> 頃帰宿 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

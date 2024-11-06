@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-08-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ、朝飧ヲ食ス、畢テ日記ヲ編成ス <lb></lb> 朝、 <persname corresp=\"#pers_戸ケ崎一男\">\n<surname> 戸ケ崎 </surname>\n<forename> 一男 </forename>\n</persname> 氏来リ、身上ノ事ヲ依頼セラル、 <persname corresp=\"#pers_古川常吉\">\n<surname> 古川 </surname>\n<forename> 常吉 </forename>\n</persname> 、 <persname corresp=\"#pers_高橋隆道\">\n<surname> 高橋 </surname>\n<forename> 隆道 </forename>\n</persname> 二氏来ル、 <orgname> 埼玉学生誘掖会 </orgname> ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時半 </time>\n<placename corresp=\"#place_小日向\"> 小日向 </placename>\n<placename corresp=\"#place_台町\"> 台町 </placename> ニ <persname corresp=\"#pers_新渡戸\">\n<surname> 新渡戸 </surname>\n</persname> 博士ヲ訪ヘ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 行ニ付送別会ノ事ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7140083,
+                    "lon": 139.7347139,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 事務所ニ抵リ書類ヲ調査シ事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<placename corresp=\"#place_イギリス\"> 英国 </placename> 人 <persname corresp=\"#pers_ウヱツプ\">\n<surname> ウヱツプ </surname>\n</persname> 氏夫妻来訪ス、 <persname corresp=\"#pers_加藤\">\n<surname> 加藤 </surname>\n</persname> 大使ノ添書ヲ持参ス、依テ接見シテ種々ノ談話ヲ為ス、明日ヨリ、 <placename corresp=\"#place_日光\"> 日光 </placename> 、\n        <placename corresp=\"#place_伊香保\"> 伊香保 </placename> 及 <placename corresp=\"#place_北越\"> 北越\n       </placename> 、 <placename corresp=\"#place_信州\"> 信州 </placename> 地方ノ旅行ノ由ニ付添書ヲ付スル事ヲ約ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 過中央亭ニテ陶料製造会社創立ノ事ニ付、 <persname corresp=\"#pers_高松\">\n<surname> 高松 </surname>\n</persname> 氏、 <persname corresp=\"#pers_渡部\">\n<surname> 渡部 </surname>\n</persname> 氏等ト会話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 常盤屋ニ抵リ、両瓦斯合併ニ関シテ仲介者并両会社ノ人々ト会話ス、\n        <persname corresp=\"#pers_中野武営\">\n<surname> 中野 </surname>\n<forename> 武営 </forename>\n</persname> 氏来会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-09-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 過汽車ニテ <placename corresp=\"#place_上野\"> 上野\n       </placename> ニ抵リ岩越鉄道会社事務所ニ於テ重役会ヲ開ク、 <persname corresp=\"#pers_前田青莎\">\n<surname> 前田 </surname>\n<forename> 青莎 </forename>\n</persname> 、 <persname corresp=\"#pers_久野昌一\">\n<surname> 久野 </surname>\n<forename> 昌一 </forename>\n</persname> 氏来会ス、畢テ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵ル、 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 来リ <placename corresp=\"#place_大韓民国\"> 韓国 </placename> ニテ発行スル銀行券ノ事ヲ談ス、 <persname corresp=\"#pers_外山修造\">\n<surname> 外山 </surname>\n<forename> 修造 </forename>\n</persname> 、 <persname corresp=\"#pers_押川方義\">\n<surname> 押川 </surname>\n<forename> 方義 </forename>\n</persname> ノ諸氏来話ス、 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 氏来話ス、夕 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

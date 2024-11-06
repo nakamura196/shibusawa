@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-12-31",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<date evidence=\"year inferenced\" when=\"1901-12-31\"> 十二月三十一日 </date> 、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 公使館 <persname corresp=\"#pers_萩原\">\n<surname> 萩原 </surname>\n</persname> 書記官、 <persname corresp=\"#pers_有吉\">\n<surname> 有吉 </surname>\n</persname> 領事、 <persname corresp=\"#pers_幣原\">\n<surname> 幣原 </surname>\n</persname> 領事、 <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_原田松茂\">\n<surname> 原田 </surname>\n<forename> 松茂 </forename>\n</persname> 、 <persname corresp=\"#pers_荒井栄造\">\n<surname> 荒井 </surname>\n<forename> 栄造 </forename>\n</persname> 、 <persname corresp=\"#pers_渡瀬常吉\">\n<surname> 渡瀬 </surname>\n<forename> 常吉 </forename>\n</persname> ヘ書状ヲ発ス、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 堀越商会、 <placename corresp=\"#place_上海市\"> 上海 </placename>\n<persname corresp=\"#pers_白岩竜平\">\n<surname> 白岩 </surname>\n<forename> 竜平 </forename>\n</persname> 両氏ヘモ発状ス、 <orgname> 第一銀行 </orgname> 各支店支配人ヘ悉ク歳晩ノ一書ヲ送ル "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 31.16667,
+                    "lon": 121.48333,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

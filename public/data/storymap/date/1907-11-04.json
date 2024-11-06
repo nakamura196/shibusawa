@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-11-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後入浴シ、畢テ朝飧ヲ食ス、食後来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 首相邸ニ抵リ暁星学校ノ事ヲ談ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time> 東京海上保険会社ニ抵リ重役会ニ出席ス、会議畢テ午飧ヲ食シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時\n       </time> 日清汽船会社ニ抵リ重役会ニ出席ス、畢テ華族会館ニ抵リ、日印貿易拡張ノ事ニ関シ、 <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯、 <persname corresp=\"#pers_清浦\">\n<surname> 清浦 </surname>\n</persname> 子其他ノ諸氏ト共ニ市内実業家ヲ会シテ <persname corresp=\"#pers_森田茂吉\">\n<surname> 森田 </surname>\n<forename> 茂吉 </forename>\n</persname> 氏ノ <placename corresp=\"#place_インド\"> 印度 </placename> 視察談ヲ聞ク、席上一場ノ挨拶演説ヲ為ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 21.0,
+                    "lon": 78.0,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 日本倶楽部ニ抵リ晩飧会ニ出席ス、 <persname corresp=\"#pers_花房\">\n<surname> 花房 </surname>\n</persname> 子爵、 <persname corresp=\"#pers_菊地\">\n<surname> 菊地 </surname>\n</persname> 《（ <persname corresp=\"#pers_菊池\">\n<surname> 菊池 </surname>\n</persname> ）》男爵招宴ニ係ル、食卓上一場ノ演説ヲ為シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

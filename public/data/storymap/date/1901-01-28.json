@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-01-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前 <orgname> 第一銀行 </orgname> ニ出勤ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 三井集会所ニ抵リ有楽会ヲ開ク\n        <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯来会、 <persname corresp=\"#pers_古市\">\n<surname> 古市 </surname>\n</persname> 博士来リテ <placename corresp=\"#place_東京湾\"> 東京湾 </placename> 築港ノ事ヲ演説ス、畢テ瓢屋ニ抵 <pb corresp=\"#pageB1176\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/202/full/max/0/default.jpg\" n=\"B1176\" source=\"#pageB1176\"></pb> ル、若松築港会社ノ事ニ付テ <persname corresp=\"#pers_白石\">\n<forename> 白石 </forename>\n</persname> 、 <persname corresp=\"#pers_安川\">\n<surname> 安川 </surname>\n</persname> 二氏ノ招宴ニヨル、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.417,
+                    "lon": 139.783,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過帰宿、此夜 <persname corresp=\"#pers_尾高惇忠\">\n<surname> 尾高 </surname>\n<forename> 藍香 </forename>\n</persname> 翁ノ履歴ヲ調査スル為メ家人来会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

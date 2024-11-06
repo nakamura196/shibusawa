@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-09-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ於テ <persname corresp=\"#pers_雨宮敬次郎\">\n<surname> 雨宮 </surname>\n<forename> 敬次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_今村\">\n<surname> 今村 </surname>\n</persname> 、 <persname corresp=\"#pers_麻生\">\n<surname> 麻生 </surname>\n</persname> ノ諸氏ヲ会シテ九鉄会社紛議調停ノ事ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<persname corresp=\"#pers_麻生\">\n<surname> 麻生 </surname>\n</persname> 、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ヲ訪フテ前項ノ事ヲ話シ、且其仲裁ノ事ヲ内托ス、午後 <persname corresp=\"#pers_雨宮\">\n<surname> 雨宮 </surname>\n</persname> 再ヒ来リテ <persname corresp=\"#pers_今村\">\n<surname> 今村 </surname>\n</persname> 、 <persname corresp=\"#pers_麻生\">\n<surname> 麻生 </surname>\n</persname> ト共ニ仲裁ノ事ヲ都テ無条件ニテ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ニ依頼スル事ニ決セシ旨ヲ告ク、依テ伯ニ電話ヲ発シテ明日 <placename corresp=\"#place_麻布\"> 麻布 </placename>\n       ノ邸ニ一同参会ノ事ヲ通ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

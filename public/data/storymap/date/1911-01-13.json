@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-01-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、半身浴ヲ為シテ後朝飧ヲ食ス、食後、 <persname corresp=\"#pers_今井清彦\">\n<surname> 今井 </surname>\n<forename> 清彦 </forename>\n</persname> 氏其他二三ノ来人ニ接ス、 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_巣鴨\"> 巣鴨 </placename> 養育院分院ニ抵 <pb corresp=\"#pageB1654\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/680/full/max/0/default.jpg\" n=\"B1654\" source=\"#pageB1654\"></pb> リ事務ヲ処理シ、更ニ本院ニ抵リテ <persname corresp=\"#pers_安達\">\n<surname> 安達 </surname>\n</persname> 氏以下ヲ会シテ院務ヲ協議ス午飧後 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、\n        <persname corresp=\"#pers_前原\">\n<surname> 前原 </surname>\n</persname> 、 <persname corresp=\"#pers_葛原\">\n<surname> 葛原 </surname>\n</persname> 二氏ヲ会シテ稷山金鉱ノ事ヲ談ス、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 氏来会ス、又、書類ヲ整理シ書状ヲ発送ス、 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 氏来リテ <persname corresp=\"#pers_荒井賢太郎\">\n<surname> 荒井 </surname>\n<forename> 賢太郎 </forename>\n</persname> 氏ノ伝言アリ、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 水道ノ事ニ関シテ <persname corresp=\"#pers_堀江専一郎\">\n<surname> 堀江 </surname>\n<forename> 専一郎 </forename>\n</persname> ヨリノ報知アリ、又、同件ニ付 <persname corresp=\"#pers_白石直次\">\n<surname> 白石 </surname>\n<forename> 直次 </forename>\n</persname> 氏 <placename corresp=\"#place_京城府\"> 京城 </placename> ヨリノ電報アリ、依テ回答ノ電報ヲ発ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7337972,
+                    "lon": 139.7390889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 午後六時半 </time> 帰宿、夜食後新聞紙及雑誌類ヲ読マシム、 <persname corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persname> 氏来リ身上ノ事ヲ談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

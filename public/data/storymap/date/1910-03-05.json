@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-03-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シ、畢テ朝飧ヲ食シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 午前八時半 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> ニ抵リ、急行車ニテ <placename corresp=\"#place_静岡\"> 静岡\n       </placename> ニ抵ル、 <persname corresp=\"#pers_中野武営\">\n<surname> 中野 </surname>\n<forename> 武営 </forename>\n</persname> 、 <persname corresp=\"#pers_江間俊一\">\n<surname> 江間 </surname>\n<forename> 俊一 </forename>\n</persname> 二氏同伴ス、 <placename corresp=\"#place_静岡\"> 静岡 </placename> 停車場 <pb corresp=\"#pageB1611\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/637/full/max/0/default.jpg\" n=\"B1611\" source=\"#pageB1611\"></pb>\n       ニ地方人士多人数来リ迎フ、先ツ大東館ニ於テ午飧シ、後、旧城内ノ陳列場ニ於テ渡米旅行談ヲ為ス、聴衆千有余名ナリキ、畢テ大東館ニ抵リテ休憩シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\">\n        午後六時 </time>\n<orgname> 浮月楼 </orgname> ニ抵リ懇親会ニ出席ス、酒間一場ノ謝詞ト懐旧ノ演説ヲ為ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n       大東館ニ帰宿ス、此夜、 <persname corresp=\"#pers_中野\">\n<surname> 中野 </surname>\n</persname> 、 <persname corresp=\"#pers_江間\">\n<surname> 江間 </surname>\n</persname> 二氏ハ帰京セシモ、余ハ明日 <placename corresp=\"#place_大磯町\"> 大磯 </placename> ニ抵ルノ約アルニヨリ大東館ニ一泊ス\n      "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

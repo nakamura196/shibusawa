@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-04-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ後、理髪ス、又、日記ヲ編成ス、朝来天気朗晴殊ニ春暄ヲ覚フ、 <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 氏ハ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 過ノ汽車ニテ <placename corresp=\"#place_芳野\"> 芳野\n       </placename> ニ赴クトテ先発ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ食シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時\n       </time>\n       頃ヨリ旅亭ヲ出テ、先ツ外宮ヲ参拝ス、神苑広クシテ旦佳麗ナリ、畢テ人車ニテ市街ヲ通過シ、途中新築セシ御成道ヲ通過シテ内宮ニ抵ル、外宮ニ比スレハ神苑ハ狭小ナルモ廟宇ノ在ル所頗ル壮厳ナリ、今年例ニヨリテ新ニ造営シタルヲ以テ宮殿新清ナリ、参拝畢テ電車ニテ\n        <placename corresp=\"#place_二見ケ浦\"> 二見ケ浦 </placename>\n       ニ抵リ、朝日館ニテ午飧ス、食後、有名ナル夫婦巌ヲ一覧シ、更ニ電車ニテ合ノ山ニ抵リ、徴古館ニ抵リ神宮ノ為ニ蒐集陳列セル歴史的ノ古器物ヲ一覧ス、後、 <persname corresp=\"#pers_田中芳男\">\n<surname> 田中 </surname>\n<forename> 芳男 </forename>\n</persname> 氏ノ案内ニテ附属農業館ヲ一覧シ、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n       山田ノ旅亭ニ帰リ、晩飧後再ヒ古市ニ抵リ、備前屋ニテ伊勢踊ヲ一覧ス、踊ハ旧様ヲ存スト云トモ頗ル陋拙ト云フヘシ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 帰宿\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

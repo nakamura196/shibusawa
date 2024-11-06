@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-08-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ、朝飧ヲ食ス、後、二三ノ来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師ヲ訪フテ発疹ノ診察ヲ乞フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、後、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ニ面会シテ種々ノ訓示ヲ為ス、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏立会ハル、午後 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ於テ書類ヲ調査ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 稷山金鉱ノ事ニ関シ <persname corresp=\"#pers_アンダーソン\">\n<surname> アンダーソン </surname>\n</persname> 氏、 <persname corresp=\"#pers_ゲーリー\">\n<surname> ゲーリー </surname>\n</persname> 氏其他諸氏来会シテ、 <persname corresp=\"#pers_高根\">\n<surname> 高根 </surname>\n</persname> 氏、ヒーズ氏ノ弁護士モ来会シテ会社設立ニ付テノ書類ヲ調査シ且会議シテ要件ヲ決定ス、畢テ他ノ来人ニ接シ又書類ヲ調査シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\">\n        午後七時 </time> 過帰宿ス、夜、 <persname corresp=\"#pers_穂積歌子\">\n<forename> 歌子 </forename>\n</persname> 、 <persname corresp=\"#pers_阪谷琴子\">\n<forename> 琴子 </forename>\n</persname> 等来リ話ス、午飧後、 <placename corresp=\"#place_サンフランシスコ\"> 桑港 </placename>\n<persname corresp=\"#pers_牛島\">\n<surname> 牛島 </surname>\n</persname> 氏ヨリノ電報ニ接シテ俄ニ明日ノ旅行ヲ中止シテ来電ニ関スル事ヲ尽力セントス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 37.76667,
+                    "lon": -122.43333,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

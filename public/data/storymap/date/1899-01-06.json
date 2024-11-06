@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-01-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、昨来猶残余アリシ〓紙ニ揮毫ヲ試ム、 <persname corresp=\"#pers_西村\">\n<surname> 西村 </surname>\n</persname> 夫人来ル、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 、 <persname corresp=\"#pers_松平\">\n<surname> 松平 </surname>\n</persname> 二人共ニ来ル、明日 <placename corresp=\"#place_東京\"> 東京 </placename>\n       ヘ帰ルニヨリテ家務ニ関スルノ命ヲ乞フ為メナリ、依テ雑事数件ヲ托ス、夜、 <persname corresp=\"#pers_小川正直\">\n<surname> 小川 </surname>\n<forename> 正直 </forename>\n</persname> 氏来ル <lb></lb> （欄外） <lb></lb> ［ <persname corresp=\"#pers_福島甲子三\">\n<surname> 福島 </surname>\n<forename> 甲子三 </forename>\n</persname> 氏来ル、身上ニ付種々談話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

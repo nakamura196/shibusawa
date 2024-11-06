@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-01-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 払暁 <placename corresp=\"#place_鴻巣市\"> 鴻巣 </placename> 発途、 <placename corresp=\"#place_蕨\"> 蕨\n       </placename> 宿ニ而昼食、夕方明神下着、 <persname corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persname> 在宿なりしかは別後之事共申談、夜、阿人 <persname corresp=\"#pers_小花\">\n<surname> 小花 </surname>\n</persname> 、阿米来る、 <persname corresp=\"#pers_福地源一郎\">\n<surname> 福地 </surname>\n<forename> 源一郎 </forename>\n</persname> 来 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 36.06589,
+                    "lon": 139.52219,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

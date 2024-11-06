@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-06-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ、朝飧ヲ食ス、畢テ <persname corresp=\"#pers_蓮沼門三\">\n<surname> 蓮沼 </surname>\n<forename> 門三 </forename>\n</persname> 氏ノ来訪ニ接シ修養団ノ事ヲ談ス、 <persname corresp=\"#pers_渡辺六尺\">\n<surname> 渡辺 </surname>\n<forename> 六尺 </forename>\n</persname>\n       氏来リ道ト云フ事ニ付テ種マノ哲理ヲ談ス、ニコニコ倶楽部記者来リ笑顔ノ事ニ関スル説ヲ示ス、クラヒツク記者来リ暑中避暑地ニ付テ意見ヲ微セラル、依テ心ヲ主《（ト脱カ）》スヘキ事ヲ説示シ遣ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時半 </time>\n<placename corresp=\"#place_巣鴨\"> 巣鴨 </placename> 養育院分院ニ抵リ各室ヲ一覧ス、後、 <persname corresp=\"#pers_高田\">\n<surname> 高田 </surname>\n</persname> 、 <persname corresp=\"#pers_高畠\">\n<surname> 高畠 </surname>\n</persname> 二氏ト要務ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7337972,
+                    "lon": 139.7390889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧ス、後、二三ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 事務所ニ抵リ、\n        <placename corresp=\"#place_清\"> 清国 </placename> 人 <persname corresp=\"#pers_陳\">\n<surname> 陳 </surname>\n</persname> 氏来話ス、青年会 <persname corresp=\"#pers_江原\">\n<surname> 江原 </surname>\n</persname> 、 <persname corresp=\"#pers_井深\">\n<surname> 井深 </surname>\n</persname> ノ諸氏来話ス、 <persname corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_田中太郎_(社会事業家)\">\n<surname> 田中 </surname>\n<forename> 太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_植村\">\n<surname> 植村 </surname>\n</persname> 、 <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 、其他ノ諸氏来訪ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_永田町\"> 永田町 </placename> 総理大臣官邸ニ抵リ、済生会寄附金ノ事ニ勧誘ニ勉ム、 <placename corresp=\"#place_日本橋\"> 日本橋 </placename> 区ノ富豪諸氏来会シ、各自其出金額ヲ定ム、付夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6768472,
+                    "lon": 139.7399139,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時\n       </time> 散会、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

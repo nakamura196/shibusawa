@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-03-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前、 <persname corresp=\"#pers_中島久万吉\">\n<surname> 中島 </surname>\n<forename> 久万吉 </forename>\n</persname> 来、京釜鉄道ノ事ヲ談ス、 <persname corresp=\"#pers_尾崎三良\">\n<surname> 尾崎 </surname>\n<forename> 三良 </forename>\n</persname> 氏来ル、同ク鉄道ノ事ニ関シ役員組織ノ事ヲ談ス、 <persname corresp=\"#pers_渋沢作太郎\">\n<surname> 渋沢 </surname>\n<forename> 作太郎 </forename>\n</persname> 来ル、店員増給ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 海上保険会社重役会ニ列ス、畢テ <persname corresp=\"#pers_末延\">\n<surname> 末延 </surname>\n</persname> 氏ト経済上ノ談話ヲ試ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<orgname> 第一銀行 </orgname> ニ出勤ス、 <placename corresp=\"#place_横浜\"> 横浜 </placename> 丸喜商店及\n        <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 氏等ヘ書状ヲ発ス、夜、 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏来ル、鑿井部、鉱山部及 <orgname> 東洋汽船会社 </orgname> ノ事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時\n       </time> 磐城炭坑会社ニ出勤シ諸計算ヲ閲了シ要務ヲ談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

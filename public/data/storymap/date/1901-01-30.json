@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-01-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前数多ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_深川\"> 深川 </placename>\n       宅ニ抵リテ同族会ヲ開キ家法家訓ヲ朗読シ諸計算ヲ調査ス、且本年度ノ予算ヲ決議シ、家計ノ要旨ヲ同族一同ヘ示諭ス、畢テ <persname corresp=\"#pers_西幸吉\">\n<surname> 西 </surname>\n<forename> 幸吉 </forename>\n</persname> ノ琵琶、 <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 等ノ浄瑠璃アリテ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1901-01-31T01:00+0900\"> 一時 </time> 過散会ス、此日午前偕楽園ニ於テ\n        <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏ト共ニ <persname corresp=\"#pers_渡辺渡_(冶金学者)\">\n<surname> 渡辺 </surname>\n<forename> 渡 </forename>\n</persname> 氏、 <persname corresp=\"#pers_福田畯\">\n<surname> 福田 </surname>\n<forename> 畯 </forename>\n</persname> 氏等ト会話ス、 <placename corresp=\"#place_深川\"> 深川 </placename> ニ一宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

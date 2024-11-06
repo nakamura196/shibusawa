@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-06-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、後、朝飧ヲ食シ、日記ヲ編成ス、 <persname corresp=\"#pers_堀越鉄蔵\">\n<surname> 堀越 </surname>\n<forename> 鉄蔵 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 前、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 同伴 <placename corresp=\"#place_新橋\"> 新橋 </placename> 停車場ニ抵リ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\">\n        十一時半 </time> 発ノ汽車ニ搭シテ <placename corresp=\"#place_横浜\"> 横浜 </placename> ニ抵ル、 <placename corresp=\"#place_フランス\"> 仏国 </placename> 人ベヤルン伯爵夫人ノ招宴ニ応スル為メナリ、 <placename corresp=\"#place_フランス\"> 仏国 </placename> 大使汽車中ニテ同伴ス、 <placename corresp=\"#place_横浜\"> 横浜\n       </placename>\n       ニ抵リ波止場ヨリ夫人ヨリ送レル小蒸気船ニテ本船ニ抵ル、蓋シ夫人本国ヨリ東洋漫遊ノ為メ乗来レルモノナリ、其装飾及各船室ノ美麗ナル驚クニ堪ヘタリ、本船着後其客室ニテ休憩シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 午飧アリ、後、種々ノ談話ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:30:00",
+                    "text": "<time when=\"15:30:00\"> 三時半 </time> ノ汽車ニテ帰京ス、夕\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 頃 <placename corresp=\"#place_王子\"> 王子 </placename>\n       ニ帰リ、後、庭園ヲ散歩ス、夜、雑誌類ヲ読ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

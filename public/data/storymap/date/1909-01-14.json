@@ -1,0 +1,66 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-01-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床入浴シ、畢テ朝飧ヲ食ス、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ニ電話ヲ通シテ、昨夜銀行集会所ニ於テ製糖会社ノ事ヲ協議セシ顚末ヲ通知ス、 <persname corresp=\"#pers_小野沢\">\n<surname> 小野沢 </surname>\n</persname> 氏ニ <orgname> 石川島造船所 </orgname> ノ事ヲ照会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ事務ヲ処理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 発ノ汽車ニテ <placename corresp=\"#place_大磯町\"> 大磯\n       </placename> ニ抵ル、車中 <persname corresp=\"#pers_岩田作兵衛\">\n<surname> 岩田 </surname>\n<forename> 作兵衛 </forename>\n</persname> 、 <persname corresp=\"#pers_中沢岩太\">\n<surname> 中沢 </surname>\n<forename> 岩太 </forename>\n</persname> 二氏ニ会見ス、午後 <placename corresp=\"#place_大磯町\"> 大磯 </placename> 着、夜、 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 氏来リ、 <placename corresp=\"#place_広島\"> 広島 </placename> 水力電気会社ノ事、 <orgname> 帝国商業銀行\n       </orgname> ノ事、及 <orgname> 石川島造船所 </orgname> ノ事ヲ談ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

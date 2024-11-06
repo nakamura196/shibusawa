@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-02-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シテ朝飧ヲ食ス、 <persname corresp=\"#pers_堀江\">\n<surname> 堀江 </surname>\n</persname> 、 <persname corresp=\"#pers_橋本\">\n<surname> 橋本 </surname>\n</persname> 、 <persname corresp=\"#pers_榎本\">\n<surname> 榎本 </surname>\n</persname> ノ三氏来リ、 <persname corresp=\"#pers_堀江\">\n<surname> 堀江 </surname>\n</persname> 家政上ノ整理ニ関シテ依頼アリ、 <persname corresp=\"#pers_畔田明\">\n<surname> 畔田 </surname>\n<forename> 明 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_今西兼二\">\n<surname> 今西 </surname>\n<forename> 兼二 </forename>\n</persname> 氏来リ銀行設立ニ付種々ノ談話アリ、 <persname corresp=\"#pers_磯江潤\">\n<surname> 磯江 </surname>\n<forename> 潤 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_古仁所\">\n<surname> 古仁所 </surname>\n</persname> 氏、 <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persname> 同伴修学上ノ撿閲ヲ為シ并テ其勉学ヲ奨励ス、午飧後 <placename corresp=\"#place_本郷\"> 本郷 </placename> ニテ知人ヲ訪ヒ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リ、旧 <orgname> 二十銀行 </orgname>\n       重役諸氏ヨリ合併ニ関スル慰労ノ宴会アリ、 <orgname> 第一銀行 </orgname> 員数名来会ス、種々余興アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時\n       </time> 過散会、帰宿後、新聞紙雑誌類ヲ一読ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

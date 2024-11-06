@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-11-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time>\n<placename corresp=\"#place_アデン\"> 亜丁 </placename>\n       着、午飯後一同御供ニ而御上陸、海岸の客舎ニ而一の馬車を雇ひ、市街を御遊行、城門及水溜の場処抔御一覧ニ而御帰船、御慰に駝鳥の卵弐箇を御買上相成 <lb></lb> 此地 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n       とも極熱の地にして土人は衣服も着せすせす《（衍）》唯白布を以て腰を纏ひしのミ、毛髪燥爛して夜叉のことく、真に血海九地の赤黒鬼もかくやと思ひはかるなり、先に御越のころ見及しとき、殆奇異を極め\n        <pb corresp=\"#pageB1012\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/38/full/max/0/default.jpg\" n=\"B1012\" source=\"#pageB1012\"></pb> しか、今更に其異怪を増すを覚ほゆ、此節は時節稍涼き頃なりと覚しか、朝より涼風ニ而苦熱の憂はなし <lb></lb> 夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_アデン\"> 亜丁 </placename> 発釘《（〓）》、順風ならされとも〓行は随意ニ而、夜気殊ニ清味を覚ゆ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

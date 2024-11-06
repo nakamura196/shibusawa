@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-05-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_金田\">\n<surname> 金田 </surname>\n</persname> 、 <persname corresp=\"#pers_奥寺\">\n<surname> 奥寺 </surname>\n</persname> 、 <persname corresp=\"#pers_犬丸\">\n<surname> 犬丸 </surname>\n</persname> 氏等ノ来訪ニ接ス、 <persname corresp=\"#pers_永田甚之助\">\n<surname> 永田 </surname>\n<forename> 甚之助 </forename>\n</persname> 来リ <placename corresp=\"#place_名古屋\"> 名古屋 </placename> ニ於テ <orgname> 第一銀行\n       </orgname> 支店ノ近状ヲ談話ス、 <persname corresp=\"#pers_森泰介\">\n<surname> 森 </surname>\n<forename> 泰介 </forename>\n</persname> 、 <persname corresp=\"#pers_猪飼正雄\">\n<surname> 猪飼 </surname>\n<forename> 正雄 </forename>\n</persname> 、 <persname corresp=\"#pers_古仁所豊\">\n<surname> 古仁所 </surname>\n<forename> 豊 </forename>\n</persname> 氏等来話ス、午飧後、 <persname corresp=\"#pers_藤沢正啓\">\n<surname> 藤沢 </surname>\n<forename> 正啓 </forename>\n</persname> 、 <persname corresp=\"#pers_原胤昭\">\n<surname> 原 </surname>\n<forename> 胤昭 </forename>\n</persname> 二氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n       頃ヨリ修養団員続々来会ス、且、来賓モ多ク臨場セルニ付、雨中ニモ拘ラス修養団春季大会ヲ庭中大テント内ニ開キ余モ処世十訓ト題スル趣旨ニテ一場ノ演説ヲ為シ、論語、孟子、中庸等ヲ引証シテ青年ノ訓誡ヲ為ス、余ノ演説ニ次テ、\n        <persname corresp=\"#pers_岡田良平\">\n<surname> 岡田 </surname>\n<forename> 良平 </forename>\n</persname> 、 <persname corresp=\"#pers_宮田修\">\n<surname> 宮田 </surname>\n<forename> 修 </forename>\n</persname>\n<persname corresp=\"#pers_鎌田栄吉\">\n<surname> 鎌田 </surname>\n<forename> 栄吉 </forename>\n</persname> 氏ノ演説アリ、畢リテ園遊会ヲ開キ、余興アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n       過ヨリ団員散会シ、来賓及幹事等四十名許リハ残リテ晩飧会ヲ開ク、食卓中種々ノ快談アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過散会ス、 <persname corresp=\"#pers_蓮沼\">\n<surname> 蓮沼 </surname>\n</persname> 、 <persname corresp=\"#pers_松岡\">\n<surname> 松岡 </surname>\n</persname> 二氏ハ尚内事ノ協議スヘキ事アリテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:30:00",
+                    "text": "<time when=\"22:30:00\"> 十時半 </time> 頃マテ談話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

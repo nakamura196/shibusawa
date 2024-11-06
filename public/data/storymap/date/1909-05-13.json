@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-05-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1570\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/596/full/max/0/default.jpg\" n=\"B1570\" source=\"#pageB1570\"></pb>\n<lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、先ツ入浴シ、畢テ日記ヲ編成シ、又、理髪ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時\n       </time> 朝飧ヲ食ス、後、二三ノ来人ニ接ス、家庭雑誌記者来訪ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時半 </time>\n<placename corresp=\"#place_巣鴨\"> 巣鴨 </placename> 分院ニ抵リ、 <persname corresp=\"#pers_高畠\">\n<surname> 高畠 </surname>\n</persname> 、 <persname corresp=\"#pers_吉藤\">\n<surname> 吉藤 </surname>\n</persname> 、 <persname corresp=\"#pers_高田\">\n<surname> 高田 </surname>\n</persname> 三氏ト養育院児童ニ一場ノ訓示ヲ為ス、畢テ院内ヲ一覧シ、三氏ニ処務ノ要旨ヲ示ス、更ニ養育院本院ニ抵リテ院内ヲ一覧ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7337972,
+                    "lon": 139.7390889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\">\n        午前十二時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ午飧シ、食後重役会ヲ開ク、又、来客数名ニ面話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ事務ヲ処理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 午後六時半 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿シ、明日 <placename corresp=\"#place_房州\"> 房州\n       </placename> 行ニ付旅装ヲ為ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

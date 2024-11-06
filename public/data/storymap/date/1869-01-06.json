@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-01-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝飯後、 <persname corresp=\"#pers_梅田\">\n<surname> 梅田 </surname>\n</persname> を発し礫邸に至り、御買上品来着取調、御用荷物仕訳いたす <lb></lb> 第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 頃、明神下僑居帰宿、\n        <persname corresp=\"#pers_田辺太一\">\n<surname> 田辺 </surname>\n<forename> 太一 </forename>\n</persname> 来 <lb></lb> 此夜大人僑居ニ而一宿いたす "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

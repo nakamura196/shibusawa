@@ -1,0 +1,95 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-01-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床入浴シ、畢テ朝飧ヲ食ス、食後、 <persname corresp=\"#pers_宇野哲夫\">\n<surname> 宇野 </surname>\n<forename> 哲夫 </forename>\n</persname> 氏ノ来訪ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、製糖会社 <persname corresp=\"#pers_酒匂常明\">\n<surname> 酒匂 </surname>\n<forename> 常明 </forename>\n</persname> 、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 、 <persname corresp=\"#pers_藤本\">\n<surname> 藤本 </surname>\n</persname> 氏ノ来訪ニ接ス、又、 <orgname> 帝商銀行 </orgname>\n<persname corresp=\"#pers_郷誠之助\">\n<surname> 郷 </surname>\n<forename> 誠之助 </forename>\n</persname> 、 <persname corresp=\"#pers_吉田幸作\">\n<surname> 吉田 </surname>\n<forename> 幸作 </forename>\n</persname> 二氏来話シ、尋テ旧委員数名来議ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、後、 <orgname> 人造肥料会社 </orgname> 重役会ヲ開キ諸計算ヲ撿閲シ要件ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 雑務ヲ処理シ、後、銀行集会所ニ抵リ、 <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 、 <persname corresp=\"#pers_早川\">\n<surname> 早川 </surname>\n</persname> 二氏ト共ニ製糖会社善後処分ノ事ヲ談ス <persname corresp=\"#pers_酒匂\">\n<surname> 酒匂 </surname>\n</persname> 、 <persname corresp=\"#pers_瓜生\">\n<surname> 瓜生 </surname>\n</persname> 、 <persname corresp=\"#pers_藤本\">\n<surname> 藤本 </surname>\n</persname> 三氏ノ依頼ニ応シタルナリ、種々ノ評議アリテ後、明後日 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> ノ会見ヲ約シ、夜飧ヲ共ニシ、夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 散会帰宿ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 、 <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> 支配人 <persname corresp=\"#pers_モーゼー\"> モーゼー </persname> 来話ス、依テ <persname corresp=\"#pers_小林\">\n<surname> 小林 </surname>\n</persname> 氏ヲシテ其請求ノ事ヲ <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏ニ通セシム <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time> 、 <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ、重役会ヲ開キ要件ヲ議決ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

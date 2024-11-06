@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-07-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 東京市役所ニ抵リ <placename corresp=\"#place_アメリカ合衆国\"> 米国\n       </placename> 艦隊歓迎ノ事ヲ協議ス、 <persname corresp=\"#pers_千家尊福\">\n<surname> 千家 </surname>\n</persname> 知事 <persname corresp=\"#pers_松田\">\n<surname> 松田 </surname>\n</persname> 市長、 <persname corresp=\"#pers_園田孝吉\">\n<surname> 園田 </surname>\n<forename> 孝吉 </forename>\n</persname> 、 <persname corresp=\"#pers_高橋新吉\">\n<surname> 高橋 </surname>\n<forename> 新吉 </forename>\n</persname> 、 <persname corresp=\"#pers_安田善次郎\">\n<surname> 安田 </surname>\n<forename> 善次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_森村市左衛門\">\n<surname> 森村 </surname>\n<forename> 市左衛門 </forename>\n</persname> 、 <persname corresp=\"#pers_岩谷松平\">\n<surname> 岩谷 </surname>\n<forename> 松平 </forename>\n</persname> 、 <persname corresp=\"#pers_雨宮敬次郎\">\n<surname> 雨宮 </surname>\n<forename> 敬次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_朝吹英二\">\n<surname> 朝吹 </surname>\n<forename> 英二 </forename>\n</persname> ノ諸氏来会ス、然レトモ一同充分ノ企望ナキニ付更ニ主唱者三名ヨリ別案ヲ設ケテ協議スヘキ事トシテ散会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 宅ニ抵リ来人ニ接シ且事務ヲ視ル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\">\n        午後二時 </time>\n<orgname> 第一銀行 </orgname> 重役会ヲ開ク、畢テ有栖川宮邸ニ抵ル、夜 <placename corresp=\"#place_浜町\"> 浜町 </placename>\n       宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-12-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇風強ク寒甚シ、午前数多ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 日本鉄道会社ニ抵リ <persname corresp=\"#pers_山田\">\n<surname> 山田 </surname>\n</persname> 庶務課長ト談話ス、 <persname corresp=\"#pers_益田克徳\">\n<surname> 益田 </surname>\n<forename> 克徳 </forename>\n</persname> 氏ト会シテ <orgname> 石川島造船所 </orgname> 重役ノ事ヲ内話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ <persname corresp=\"#pers_斎藤\">\n<surname> 斎藤 </surname>\n</persname> 海軍次官、左宗《（左双）》、 <persname corresp=\"#pers_諸岡\">\n<surname> 諸岡 </surname>\n</persname> 、 <persname corresp=\"#pers_村上\">\n<surname> 村上 </surname>\n</persname> 諸氏ヲ招宴ス、蓋シ <orgname> 石川島造船所 </orgname> ノ為ニ <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 、進、 <persname corresp=\"#pers_福地\">\n<surname> 福地 </surname>\n</persname> ト共ニ海軍ノ人々ヲ饗宴セシナリ、此日 <persname corresp=\"#pers_大家七平\">\n<surname> 大家 </surname>\n<forename> 七平 </forename>\n</persname> 氏造船ノ事ニ関シ <persname corresp=\"#pers_芳川\">\n<surname> 芳川 </surname>\n</persname> 逓信大臣ノ宅ヲ訪フテ事情ヲ陳述ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 宅ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

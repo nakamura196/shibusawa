@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-03-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_大磯町\"> 大磯 </placename> 発、 <persname corresp=\"#pers_皆川四郎\">\n<surname> 皆川 </surname>\n<forename> 四郎 </forename>\n</persname> 氏同行ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 過 <placename corresp=\"#place_東京\"> 東京\n       </placename> 着、直ニ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ於テ開キタル養育院慈善会ノ総会ニ列ス、 <persname corresp=\"#pers_福地\">\n<surname> 福地 </surname>\n</persname> 、 <persname corresp=\"#pers_浦田\">\n<surname> 浦田 </surname>\n</persname> 、 <persname corresp=\"#pers_安達\">\n<surname> 安達 </surname>\n</persname> 等数氏ト開会準備ニ関スル要務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 過銀行ニ抵リテ <persname corresp=\"#pers_土岐\">\n<surname> 土岐 </surname>\n</persname> 氏ニ面会シテ留守中ノ事務ノ報告ヲ受ク、 <persname corresp=\"#pers_岡部広\">\n<surname> 岡部 </surname>\n<forename> 広 </forename>\n</persname> 氏来リテ京北鉄道ノ事ヲ話ス、 <persname corresp=\"#pers_大川平三郎\">\n<surname> 大川 </surname>\n<forename> 平三郎 </forename>\n</persname> 来リテ <persname corresp=\"#pers_モールス\">\n<surname> モールス </surname>\n</persname> ヨリノ伝語ヲ話ス、 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> ヨリ留守中ノ要務ヲ申出ル、 <persname corresp=\"#pers_塩田一太郎\">\n<surname> 塩田 </surname>\n<forename> 一太郎 </forename>\n</persname>\n<placename corresp=\"#place_大韓民国\"> 韓国 </placename> 発途ニ付要務ヲ談話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

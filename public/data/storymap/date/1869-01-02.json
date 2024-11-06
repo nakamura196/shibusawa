@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-01-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 六時 </time>\n<placename corresp=\"#place_金川\"> 金川 </placename> を発し、駕を命し <placename corresp=\"#place_川崎\"> 川崎\n       </placename> を経 <placename corresp=\"#place_品川\"> 品川 </placename> に至り、夫より歩行ニ而 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 頃 <placename corresp=\"#place_中橋\"> 中橋 </placename>\n<persname corresp=\"#pers_山中隣之助\">\n<surname> 山中 </surname>\n<forename> 隣之助 </forename>\n</persname> 宅に至る、松代藩 <persname corresp=\"#pers_横田数馬\">\n<surname> 横田 </surname>\n<forename> 数馬 </forename>\n</persname> といふ留守居面会、午飯終て "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 頃 <placename corresp=\"#place_明神\">\n        明神 </placename> 田僑居《（下カ）》に至る、時に <persname corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persname> は外出にて、北堂の留守せしかは、帰着を言て一同の無事を祝し、夫より御買上品持参ニて礫邸に至る、 <persname corresp=\"#pers_民部公子\">\n        民部公子 </persname> に拝謁、数々新聞抔申上る <lb></lb> 昨日公子水戸御相続之儀相済し旨被仰聞、夜に入て水邸を罷り、明神下帰宿、 <persname corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persname> 面会 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

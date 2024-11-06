@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-12-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 昨日見廻シニナリシ田畑御払下之儀ニ付、異見論文相認監督江廻ス、少丞ヘモ申達ス、同論旨之申聞調直しイタス <lb></lb> 宮谷県管轄地畑米納代納之儀評決ス、調直しいたす <lb></lb>\n       此日改正掛之儀ニ付御書付ニテ被仰付 <lb></lb>\n<persname corresp=\"#pers_渋沢栄一\">\n<surname> 渋沢 </surname>\n</persname> 租税正 <lb></lb> 改正掛被 <lb></lb> 仰付候事 <lb></lb>\n<date type=\"旧暦\" when=\"1869-12\"> 十一月 </date> 民部省 <lb></lb> 右之通卿ヨリ御直達相成、外大輔ヨリモ申談有之、掛出勤之場処取調いたす\n       <lb></lb> 機株願書付 <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 大輔より被相廻、ナホレオンコードハ既ニ開成所にて翻訳取掛候旨 <persname corresp=\"#pers_伊達\">\n<surname> 伊達 </surname>\n</persname> 卿ヨリ御申聞有之、今朝右之儀ニ付 <persname corresp=\"#pers_栗本如雲\">\n<surname> 栗本 </surname>\n<forename> 如雲 </forename>\n</persname> 《（ <persname corresp=\"#pers_栗本鋤雲\">\n<surname> 栗本 </surname>\n<forename> 鋤雲 </forename>\n</persname> ）》ヘ書状遣す、夜 <placename corresp=\"#place_静岡\"> 静岡 </placename> 江書状認遣ス、 <persname corresp=\"#pers_平岡\">\n<surname> 平岡 </surname>\n</persname> 、 <persname corresp=\"#pers_小栗\">\n<surname> 小栗 </surname>\n</persname> ヘ壱封、掛附ヘ壱封ヲ裁ス、郷里宅 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> ヘ壱封宛認遣ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

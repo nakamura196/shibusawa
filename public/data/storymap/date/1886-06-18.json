@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1886-06-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 大雨、此日、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 発ノ汽船ヲ以テ <placename corresp=\"#place_新潟\"> 新潟\n       </placename> ニ赴ク筈ナリシカ、朝来暴雨ナルニ付行ヲ止ム、第六十九銀行員及 <persname corresp=\"#pers_高野徳平\">\n<surname> 高野 </surname>\n<forename> 徳平 </forename>\n</persname> 等来テ酒ヲ侑ム、酒間小妓数輩ノ舞伎ヲ見ル、又揮毫ヲ望ム者多シ、依テ十数葉ヲ揮灑ス此夜、又唐津屋ニ宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

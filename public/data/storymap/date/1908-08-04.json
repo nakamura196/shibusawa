@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-08-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、先ツ入浴シ、畢テ朝飧ヲ食シ、後、 <placename corresp=\"#place_岩手\"> 岩手\n       </placename> 県人 <persname corresp=\"#pers_佐藤\">\n<surname> 佐藤 </surname>\n</persname> 某ノ来訪ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<orgname> 東京瓦斯会社 </orgname> ニ抵リ、重役会ニ列シテ要務ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 氏、 <persname corresp=\"#pers_郷\">\n<surname> 郷 </surname>\n</persname> 、 <persname corresp=\"#pers_小野\">\n<surname> 小野 </surname>\n</persname> 二氏来リ <orgname> 帝商銀行 </orgname> ノ事ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time> 銀行集会所ニ抵リ <orgname> 第一銀行\n       </orgname> 株主総会ヲ開ク、畢テ再ヒ <orgname> 第一銀行 </orgname> ニ抵リテ、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <persname corresp=\"#pers_日下\">\n<surname> 日下 </surname>\n</persname>\n<persname corresp=\"#pers_竹山\">\n<surname> 竹山 </surname>\n</persname> 氏等ト <placename corresp=\"#place_京城府\"> 京城 </placename> 総支店建築ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 事務所ニ抵リ、揮毫又ハ書状数通ヲ認メ発送ス、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿シ、夜、各種ノ雑誌又ハ新聞紙ヲ一覧ス <lb></lb> （欄外） <lb></lb> ［午前、\n        <persname corresp=\"#pers_堀越角次郎\">\n<surname> 堀越 </surname>\n<forename> 角次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_鉄蔵\">\n<forename> 鉄蔵 </forename>\n</persname> 二氏来リ欧行ノ告別ヲ為ス、種々ノ訓誡ヲ与ヘテ其行ヲ送ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

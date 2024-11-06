@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-05-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前二三ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<placename corresp=\"#place_小石川\"> 小石川 </placename> 養育院ニ抵ル、英国人 <persname corresp=\"#pers_ステツト\">\n<surname> ステツト </surname>\n</persname> 夫妻来会ス、同伴シテ院内ヲ一覧セシム、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7137833,
+                    "lon": 139.7487556,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<persname corresp=\"#pers_ステツト\">\n<surname> ステツト </surname>\n</persname> 夫妻ト共ニ <placename corresp=\"#place_王子\"> 王子 </placename> ニ抵リ同族相会シテ午餐ヲ饗ス、食後庭園ヲ散歩ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:50:00",
+                    "text": "<time when=\"17:50:00\"> 午後五時五十分 </time> 発ノ汽車ニテ <placename corresp=\"#place_浜町\"> 浜町\n       </placename> 常盤屋ニ抵ル、 <persname corresp=\"#pers_清水満之助\">\n<surname> 清水 </surname>\n<forename> 満之助 </forename>\n</persname> ノ招宴ニ応スル為メナリ、 <persname corresp=\"#pers_辰野\">\n<surname> 辰野 </surname>\n</persname> 博士、 <persname corresp=\"#pers_清水釘吉\">\n<surname> 清水 </surname>\n<forename> 釘吉 </forename>\n</persname> 、同 <persname corresp=\"#pers_清水一雄\">\n<forename> 一雄 </forename>\n</persname> 、 <persname corresp=\"#pers_原林之助\">\n<surname> 原 </surname>\n<forename> 林之助 </forename>\n</persname> 、 <persname corresp=\"#pers_岡本銺太郎\">\n<surname> 岡本 </surname>\n<forename> 銺太郎 </forename>\n</persname> 来会ス、宴散シテ <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス、此夜、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 氏来リ <persname corresp=\"#pers_山縣有朋\">\n<surname> 山県 </surname>\n</persname> 侯爵ヨリノ伝言アリタリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

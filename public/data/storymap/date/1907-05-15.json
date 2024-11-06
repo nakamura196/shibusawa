@@ -1,0 +1,95 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-05-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床直ニ入浴シ、畢テ朝飧ヲ為シ、食後庭園ヲ散歩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ <placename corresp=\"#place_大韓民国\">\n        韓国 </placename> 行ノ書状ヲ裁ス、米国人 <persname corresp=\"#pers_デシユラル\"> デシユラル </persname> 氏、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏来会、稷山金鉱ニ関スル経営方法ヲ契約シ、約書ニ調印ス、畢テ <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 行ニ付要務ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 過キ東洋硝子会社ノ要務ニ関シ、仏人両名、 <persname corresp=\"#pers_長森\">\n<surname> 長森 </surname>\n</persname> 氏ト共ニ来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 銀行倶楽部 </orgname> ニ抵リテ午飧シ <orgname> 東京興信所 </orgname> ノ評議員会ニ列ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト要務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏 <placename corresp=\"#place_田町_(東京都港区)\"> 田町 </placename> 《（ヲ脱）》ニ訪ヒ、送別ノ辞ヲ述ヘ要件ヲ談話ス\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 三井集会所ニ於テ <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 伯其他ト会話シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_番町\"> 番町 </placename> 富士見軒ニ抵リ慈善協会設立ノ事ヲ談ス、 <persname corresp=\"#pers_清浦\">\n<surname> 清浦 </surname>\n</persname> 男其他 <persname corresp=\"#pers_久米\">\n<surname> 久米 </surname>\n</persname> 、 <persname corresp=\"#pers_窪田\">\n<surname> 窪田 </surname>\n</persname> 、 <persname corresp=\"#pers_小川\">\n<surname> 小川 </surname>\n</persname> 、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 、 <persname corresp=\"#pers_清野\">\n<surname> 清野 </surname>\n</persname> 、 <persname corresp=\"#pers_留岡\">\n<surname> 留岡 </surname>\n</persname> 等ノ数名来会ス、食後種々ノ談話アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

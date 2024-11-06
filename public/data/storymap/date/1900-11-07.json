@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-11-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前、 <persname corresp=\"#pers_高島義恭\">\n<surname> 高島 </surname>\n<forename> 義恭 </forename>\n</persname> 外数氏来ル、陸軍武官数名来リテ安着ヲ祝ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<persname corresp=\"#pers_国分\">\n<surname> 国分 </surname>\n</persname> 書記官及 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 氏ヲ伴フテ <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 要路ノ官人ヲ訪問ス、 <persname corresp=\"#pers_李載純\">\n<surname> 李 </surname>\n<forename> 載純 </forename>\n</persname> 、 <persname corresp=\"#pers_閔丙奭\">\n<surname> 閔 </surname>\n<forename> 丙奭 </forename>\n</persname> 二氏ハ在宅面会ス、他ハ不在ナルニヨリ名刺ヲ投シテ去ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time>\n<persname corresp=\"#pers_大江卓\">\n<surname> 大江 </surname>\n<forename> 卓 </forename>\n</persname> 氏ヲ履洞ノ寓居ニ訪フ、 <persname corresp=\"#pers_大三輪\">\n<surname> 大三輪 </surname>\n</persname> 氏来リ会ス、共ニ京釜鉄道ニ関スル韓国王入株ノ事、其他ノ要務ヲ協議シ、更ニ明日ヲ以テ <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 公使ト会議スヘキ事ヲ約シテ去ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 巴城館ニ帰ル、 <persname corresp=\"#pers_古津魚足\">\n<surname> 古津 </surname>\n<forename> 魚足 </forename>\n</persname> 来リテ開業式ノ手続ヲ話ス、 <persname corresp=\"#pers_山座\">\n<surname> 山座 </surname>\n</persname> 公使書記《（官脱）》、 <persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> ヲ伴フテ欧米公使館ヲ訪問ス、露英公使ハ在館面会セシモ他ハ不在ニ付名刺ヲ投シテ去ル、 <persname corresp=\"#pers_ブラオン\">\n<surname> ブラオン </surname>\n</persname> 氏ヲ訪ヒシカ不在ナルニヨリ明日 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 氏ヲシテ訪問セシムル事トシテ去ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 帰宿、直ニ <orgname> 掬翠楼\n       </orgname> ニ抵リ <orgname> 第一銀行 </orgname> 京城出張所新築披露ノ宴ニ列ス、 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 、 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 、 <persname corresp=\"#pers_原田\">\n<surname> 原田 </surname>\n</persname> ノ三氏ト共ニ来賓ニ謝詞ヲ述ヘ座間献酬酒ヲ侑ム、酒間京仁鉄道落成ノ披露及京釜鉄道会社設立ノ事ニ関シ一場ノ演説ヲ為ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\">\n        十時 </time> 帰宿ス <lb></lb> 此日夕方三増領事来訪、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 公使来訪ス、京仁鉄道開業式ノ時日ニ関シ <persname corresp=\"#pers_閔丙奭\">\n<surname> 閔 </surname>\n<forename> 丙奭 </forename>\n</persname> ノ来書アリタレハ、直ニ <persname corresp=\"#pers_国分\">\n<surname> 国分 </surname>\n</persname> 書記官ニ依頼シテ之ニ回答セシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

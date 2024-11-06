@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-05-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、庭園中ヲ散歩シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 朝飧ヲ畢ル <lb></lb>\n       食後各新聞紙ヲ閲シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:54:00",
+                    "text": "<time when=\"08:54:00\"> 午前八時五十四分 </time> ノ汽車ニテ <placename corresp=\"#place_日本橋兜町\">\n        兜町 </placename> 事務所ニ抵リ書類ヲ整理ス、更ニ <orgname> 第一銀行 </orgname> ニ於テ事務ヲ視ル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\">\n        十一時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ於テ午飧シ、 <persname corresp=\"#pers_常盤屋正吉\">\n<surname> 常盤屋 </surname>\n<forename> 正吉 </forename>\n</persname> ニ、来ル <date evidence=\"year inferenced, month\" when=\"1905-05-08\"> 八日 </date>\n       招客ノ事ニ関シ種々ノ指揮ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<orgname> 人造肥料会社 </orgname> ニ抵リ重役会ヲ開ク、取締役、監査役悉ク来会ス、畢テ再ヒ <placename corresp=\"#place_日本橋兜町\"> 兜町\n       </placename> ニ抵リ、 <persname corresp=\"#pers_堀越常七\">\n<surname> 堀越 </surname>\n<forename> 常七 </forename>\n</persname> 氏ト婚儀ニ関スル事ヲ談シ、 <persname corresp=\"#pers_皆川\">\n<surname> 皆川 </surname>\n</persname> 氏ノ為ニ書状二通ヲ裁ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 午後七時半 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-08-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇又雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 午前八時半 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 過\n        <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 、 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 、 <persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> 、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 、 <persname corresp=\"#pers_西河\">\n<surname> 西河 </surname>\n</persname> 嬢等ト共ニ旅宿ヲ出テ地中ノ電気車ニテハンチントン停車場ニ抵リ、汽車ニ搭シテウエンゾル・カツソルニ抵リ王城外ヲ一覧シ、途ヲ転シテ王城ニ属スル庭園ヲ一覧シ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 過一レストランニ於テ午飧ス、午飧後同所ノ汽車場ニ於テリツチモンド行ノ汽車ニ搭シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n       過リツチモンドニ抵リ、馬車ヲ僦フテ同地ノ公園ヲ遊歩ス、公園ノ構造頗ル雅致ニシテ自然ノ風景ヲ存ス、花卉ノ美観ナキモ鹿、兎等ノ芝生ニ群集スルアリ、且樹木老大ニシテ古色掬スヘク、所々高低アリテ一面ニ蕨ヲ生セリ、公園ノ一覧畢リテ更ニキユーガーデンニ抵ル、此公園ハ王家ニ属スル一庭園ニシテ日曜ニハ公衆ニ縦覧セシムルモノナリ、園中掃除行届キテ一塵ヲ見ル能ハス、草木ニハ皆其産地ヲ附記シテ来所ノ遠ク且広キヲ示ス、花卉ヲ養フ温室アリ、其構造極メテ盛大ナリ、室中ニハ種々ノ熱帯地方ノ草花アリテ香気多キモノアリ、園中都人士群集シテ或ハ一家相伴フアリ、又ハ夫婦手ヲ携フルアリ、其間才子佳人相提携スルモノ多クシテ実ニ文王ノ郁方百里ニシテ芻尭ノ者モ行キ雉兎ノ者モ行クト云ヒシ孟軻ノ言モ思ヘ起スヘキナリ、一覧畢テ園ノ出口ヨリ電気車ニテ地中電気車ノ停車場ニ抵リ、再ヒ地中電気車ニ搭シテ\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 帰宿ス <lb></lb>\n<date evidence=\"year inferenced, month\" when=\"1902-08-10\"> 十日 </date> 夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<persname corresp=\"#pers_植村俊平\">\n<surname> 植村 </surname>\n<forename> 俊平 </forename>\n</persname> 氏来ル、鉄道抵当法案ニ関シ種々ノ談話ヲ為シ、且同氏ノ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       行ヲ延引セシメ当方ノ助力タラン事ヲ依頼ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

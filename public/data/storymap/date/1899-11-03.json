@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-11-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前二三ノ来人ニ接ス、此日ハ天長節ニテ来人モ少キヲ以テ <placename corresp=\"#place_欧洲\"> 欧洲 </placename> ナル <persname corresp=\"#pers_穂積陳重\">\n<surname> 穂積 </surname>\n<forename> 陳重 </forename>\n</persname> ト <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> トニ書状ヲ裁ス、且時事ニ感スル所アルヲ以テ日用文鑑ニ載スル <persname corresp=\"#pers_室鳩巣\">\n<surname> 室 </surname>\n<forename> 鳩巣 </forename>\n</persname> ノ試筆ノ詞ヲ書シ、末尾ニ微意ヲ附言シテ并テ之ヲ送ル、 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> 長女ノ命名ヲ托サレシヲ以テ、徳不孤必有隣ノ語ニ取リテ <persname corresp=\"#pers_隣子\">\n<forename> 隣子 </forename>\n</persname> 《 <persname corresp=\"#pers_チカ\">\n<forename> チカ </forename>\n</persname> 》ト名ク、添フルニ和歌一首ヲ以テス、「咲初る軒端の梅の香にもれてさそふとなりの鶯の声」、又曾テ依頼セラレタル <persname corresp=\"#pers_江間政発\">\n<surname> 江間 </surname>\n<forename> 政発 </forename>\n</persname> 氏カ著作セシ関の家つとといふ旅日記に題して「筆のあやに木々の紅葉をおりそへてにしき色ます関の家つと」、 <persname corresp=\"#pers_室鳩巣\">\n<surname> 室 </surname>\n<forename> 鳩巣 </forename>\n</persname> 翁の試筆の詞書終りて折にふれといふ《（て脱カ）》題にて「いかてかくよきにものうき人こゝろあしきさと人立めくるらん」 <lb></lb>\n<placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n<placename corresp=\"#place_仁川\"> 仁川 </placename> 、 <persname corresp=\"#pers_足立\">\n<surname> 足立 </surname>\n</persname> 、 <persname corresp=\"#pers_西脇\">\n<surname> 西脇 </surname>\n</persname> 、 <placename corresp=\"#place_京城府\"> 京城 </placename>\n<persname corresp=\"#pers_佐々木清麿\">\n<surname> 佐々木 </surname>\n<forename> 清麿 </forename>\n</persname> ニ出状ス、其他頃日来ノ書類ヲ整理スル為終ニ夜会ニ往クヲ得ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1899-11-04T01:00+0900\"> 一時\n       </time> 寝ニ付ク "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

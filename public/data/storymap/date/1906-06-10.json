@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-06-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 昨夜ヨリ風少シク起リテ船動揺ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 頃 <placename corresp=\"#place_釜山湾\">\n        釜山湾 </placename> ニ入ル、我艦隊数〓碇舶《（隻）》ス、 <persname corresp=\"#pers_片岡\">\n<surname> 片岡 </surname>\n</persname> 中将ノ率ヘル所ナリト云フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 起床、少ク朝飧ヲ為ス、畢テ船 <placename corresp=\"#place_釜山港\"> 釜山港 </placename> ニ着ス、撿疫吏員来撿ス、釜山支店 <persname corresp=\"#pers_木村雄次\">\n<surname> 木村 </surname>\n<forename> 雄次 </forename>\n</persname> 其他同港ノ人々多人数来リ迎フ、 <persname corresp=\"#pers_有吉\">\n<surname> 有吉 </surname>\n</persname> 理事官モ来リ迎フ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.10389,
+                    "lon": 129.07889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 上陸ス、 <placename corresp=\"#place_京城府\"> 京城 </placename>\n       直通ノ汽車ハ既ニ発シタルニ付此日ハ当地ニ休足スルモノトシ、大池旅館ニ投シテ休憩ス、午飧後、京釜鉄道会社ノ停車場、工場等ヲ一覧シ、 <persname corresp=\"#pers_足立\">\n<surname> 足立 </surname>\n</persname> 氏ヲ訪フ、後当地ニ開設スル博覧会ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n       帰宿、来人ニ接ス、夜飧後支店員ノ依嘱ニヨリテ揮毫ヲ試ム <lb></lb>\n       此日ハ天気清朗ナレトモ又甚タ暑ナラス、頗ル人ニ可ナリ、船ニ迎フル人、旅宿ニ訪問スル人多クシテ応接ニ暇ナシ、夜ニ入リテ少シク閑ヲ得タリキ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

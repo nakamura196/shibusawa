@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-05-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:00:00",
+                    "text": "<time when=\"05:00:00\"> 午前五時 </time> 頃、汽車 <placename corresp=\"#place_鎮江市\"> 鎮江 </placename>\n       ニ抵ルモ下車セスシテ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 32.20167,
+                    "lon": 119.45167,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time>\n<placename corresp=\"#place_南京市\"> 南京 </placename> ニ抵ル、 <placename corresp=\"#place_打田\"> 打田\n       </placename> 領事代理其他数十人来リ迎フ、都督及警察署等ヨリ楽隊、騎馬護衛等ヲ以テ接待鄭重ナリ、 <persname corresp=\"#pers_打田\">\n<surname> 打田 </surname>\n</persname> 氏ト同乗、馬車ニテ領事館ニ抵リ朝飧ス朝天官、 <placename corresp=\"#place_血蹟碑《（碧血カ）》\"> 血蹟碑《（碧血カ）》\n       </placename> 、 <placename corresp=\"#place_孝陵\"> 孝陵 </placename> 旧科挙場、 <placename corresp=\"#place_秦淮\"> 秦淮 </placename> 、 <placename corresp=\"#place_北極館《（閣カ）》\"> 北極館《（閣カ）》\n       </placename> 、 <placename corresp=\"#place_鶏鳴寺\"> 鶏鳴寺 </placename>\n       等ヲ一覧ス、都督衙門及民政長官庁等ヲ訪問ス、都督其他ノ官憲ニテ開催セル午飧会ニ出席シ、食卓上主人側ノ挨拶ニ答ヘテ一場ノ謝詞ヲ述フ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 32.05,
+                    "lon": 118.767,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時\n       </time> 領事館ニ帰ル、民政長官其他数名来訪ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n       過領事館ニ於テ催セル晩飧会ニ出席シ、食卓上一場ノ謝詞ヲ述フ、宴散シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1914-05-12T00:00+0900\"> 十二時 </time>\n       寝ニ就ク、領事留守中《（衍カ）》ニナルモ館中ニ於テ宿泊ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

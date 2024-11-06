@@ -1,0 +1,94 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-08-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、室内ノ運動ヲ為シ、入浴後朝飧ヲ為ス、食後新聞紙ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\">\n        午前九時 </time>\n<placename corresp=\"#place_東橋\"> 東橋 </placename> 札幌麦酒会社株主総会《（ <placename corresp=\"#place_吾妻\">\n        吾妻 </placename> ）》ニ出席ス、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<orgname> 第一銀行 </orgname> ニ出勤シ事務ヲ処理ス、午飧後 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ニ抵リ書類ヲ調査ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<persname corresp=\"#pers_高松豊吉\">\n<surname> 高松 </surname>\n<forename> 豊吉 </forename>\n</persname> 、 <persname corresp=\"#pers_福島豊\">\n<surname> 福島 </surname>\n<forename> 豊 </forename>\n</persname> 、同 <persname corresp=\"#pers_福島弥兵衛\">\n<forename> 弥兵衛 </forename>\n</persname> 来ル、瓦斯会社ノ為メ其所有地売却ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 過浦賀船渠会社重役会ニ列ス、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> 、 <persname corresp=\"#pers_山口\">\n<surname> 山口 </surname>\n</persname> 技術長其外諸氏来会ス、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_田町_(東京都港区)\"> 田町 </placename>\n<persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏ノ饗宴ニ出席ス、英人サミユールノ長男及横浜支店主任 <persname corresp=\"#pers_デビス\">\n<surname> デビス </surname>\n</persname> 氏来会ス、夜飧後余興アリテ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_上野\"> 上野 </placename> 発汽車ニテ別荘ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

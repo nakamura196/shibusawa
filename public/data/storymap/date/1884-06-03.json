@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1884-06-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:00:00",
+                    "text": "<time when=\"05:00:00\"> 午前五時 </time>\n<placename corresp=\"#place_豊橋\"> 豊橋 </placename> ヲ発シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_熱田\"> 熱田 </placename> ニ抵ル、 <persname corresp=\"#pers_八巻\">\n<surname> 八巻 </surname>\n</persname> 来迎フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 汽船 <pb corresp=\"#pageB1055\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/81/full/max/0/default.jpg\" n=\"B1055\" source=\"#pageB1055\"></pb> ニ搭シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<placename corresp=\"#place_四日市\"> 四日市 </placename> ニ至リ浜田屋某ニ投宿ス <lb></lb> 着後、 <placename corresp=\"#place_四日市\"> 四日市 </placename> 新設ノ支店ヲ巡視シ行務ヲ点撿ス、夜、 <persname corresp=\"#pers_古谷\">\n<surname> 古谷 </surname>\n</persname> 、 <persname corresp=\"#pers_須藤\">\n<surname> 須藤 </surname>\n</persname> 、八巻、 <persname corresp=\"#pers_田原\">\n<surname> 田原 </surname>\n</persname> 、 <persname corresp=\"#pers_中島\">\n<surname> 中島 </surname>\n</persname> 其他数子来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

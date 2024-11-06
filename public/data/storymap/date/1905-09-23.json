@@ -1,0 +1,100 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-09-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、庭園内ヲ散歩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 入浴、畢テ朝飧ヲ喫ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:54:00",
+                    "text": "<time when=\"08:54:00\"> 午前八時五拾四分 </time> ノ汽車ニテ <placename corresp=\"#place_上野\"> 上野\n       </placename> ニ抵リ、更ニ電車ニテ芝浜館ニ抵リ <persname corresp=\"#pers_北脇久尾\">\n<surname> 北脇 </surname>\n<forename> 久尾 </forename>\n</persname> ノ病ヲ訪フ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ヲ <placename corresp=\"#place_内田山\"> 内田山 </placename> 邸ニ訪ヒ戦後経済ノ事ヲ談ス、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 邸ニテ午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<orgname> 第一銀行 </orgname> ニ出勤ス、来人ニ接シ事務ヲ処理ス、 <placename corresp=\"#place_日本橋兜町\"> 兜町\n       </placename> 事務所ニ抵リテ書類ヲ整理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_日本橋蛎殻町\"> 蠣殻町 </placename> ニ抵リ、更ニ電車ニテ <placename corresp=\"#place_本郷\"> 本郷 </placename> ニ抵リ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6818139,
+                    "lon": 139.7835056,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

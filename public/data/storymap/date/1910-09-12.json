@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-09-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、頃日来ノ風邪気全愈セサルニヨリ入浴ヲ廃シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時\n       </time> 過朝飧ヲ食シ、後、新聞紙又ハ来書ヲ一覧ス、 <persname corresp=\"#pers_今井清彦\">\n<surname> 今井 </surname>\n<forename> 清彦 </forename>\n</persname> 氏来リ、皇典講究所ノ事ヲ談ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_本郷\"> 本郷 </placename> ニテ友人ヲ訪ヘ、午飧後、事務所ニ抵リ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 衆議院図書室ニ抵リ、水害救済会ニ出席シテ、 <placename corresp=\"#place_大阪\"> 大坂\n       </placename> 、 <placename corresp=\"#place_神戸\"> 神戸 </placename> 、 <placename corresp=\"#place_京都\"> 京都 </placename> 、 <placename corresp=\"#place_名古屋\"> 名古屋 </placename>\n       ノ地方巡回勧誘ノ情況ヲ陳ス、 <persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 総裁、 <persname corresp=\"#pers_長谷場\">\n<surname> 長谷場 </surname>\n</persname> 副総裁其他会同ス、畢テ再ヒ事務所ニ抵リ書類ヲ整理ス、又数多ノ来人ニ接ス <persname corresp=\"#pers_平岡熙\">\n<surname> 平岡 </surname>\n<forename> 熙 </forename>\n</persname> 、 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 等来話ス、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、夜、児等ニ新聞紙又ハ雑誌ヲ読マシム <lb></lb> 午後、 <persname corresp=\"#pers_竹田\">\n<surname> 竹田 </surname>\n</persname> 、 <persname corresp=\"#pers_白石\">\n<surname> 白石 </surname>\n</persname> 二氏来リ、コールブラン氏ヨリ <placename corresp=\"#place_京城府\"> 京城 </placename>\n       水道ノ件ニ付回電アリシヲ報ス、依テ直ニ <persname corresp=\"#pers_荒井\">\n<surname> 荒井 </surname>\n</persname> 氏ヘ電報ニテ之ヲ通知シ、且、其処分ヲ問合ハス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

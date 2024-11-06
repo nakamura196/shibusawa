@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-10-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝コンマンダント江諸勘定相渡、向後同人給金其外手当四千仏相渡、被下物之儀ニ付 <persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤太夫 </forename>\n</persname> より印紙相渡す、御用荷物詰込いたす <lb></lb> 第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 、 <persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤太夫 </forename>\n</persname>\n<persname corresp=\"#pers_ポール_フルーリ_エラール\">\n<forename> フロリ </forename>\n<surname> ヘラルト </surname>\n</persname> 方罷越す、飛脚船会社頭取も罷出、郵船代凡積相渡す、諸勘定は今日右 <persname corresp=\"#pers_ウードラア\">\n<surname> ウードラア </surname>\n</persname>\n<placename corresp=\"#place_イギリス\"> 英国 </placename> 飛脚船会社《（仏）》に <persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤太夫 </forename>\n</persname> 相渡し、手附返却方申談候上、 <persname corresp=\"#pers_ポール_フルーリ_エラール\">\n<forename> フロリ </forename>\n</persname> 迄可差越旨申談罷帰る、 <persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤太夫 </forename>\n</persname> 東洋ハンク罷越す、為替手形請取方ニ付 <persname corresp=\"#pers_小出涌之助\">\n<forename> 涌之助 </forename>\n</persname> 同道いたす <lb></lb> 第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 、御乗廻し、 <persname corresp=\"#pers_コロネル\">\n<surname> コロネル </surname>\n</persname> 御供、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 過御帰館、 <persname corresp=\"#pers_ジユリイ\"> ジユリイ\n       </persname> 罷出、同人公子御附添 <placename corresp=\"#place_フランス\"> 仏国 </placename> に罷越、其後 <placename corresp=\"#place_日本\"> 日本 </placename> 罷越候入費之儀ニ付云々難渋之廉申立る <lb></lb> 夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時\n       </time> 、 <persname corresp=\"#pers_ポール_フルーリ_エラール\">\n<forename> フロリ </forename>\n<surname> ヘラルト </surname>\n</persname> 、 <persname corresp=\"#pers_クレイコロネル\"> クレイコロネル </persname> 及妻 <persname corresp=\"#pers_コンマンタン\"> コンマンタン </persname> 両人、其御国士官不残御発程ニ付夜餐被下、 <persname corresp=\"#pers_ポール_フルーリ_エラール\">\n<forename> フロリ </forename>\n<surname> ヘラルト </surname>\n</persname> より為御餞別唐銅置物献上いたす、飛脚船部屋札并勘定書ハ馬寨里へ相廻し可申旨、 <persname corresp=\"#pers_ポール_フルーリ_エラール\">\n<forename> フロリ </forename>\n<surname> ヘラルト </surname>\n</persname> より <persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤太夫 </forename>\n</persname> 江申聞ル <lb></lb>\n<persname corresp=\"#pers_ポール_フルーリ_エラール\">\n<forename> フロリ </forename>\n<surname> ヘラルト </surname>\n</persname> 、 <persname corresp=\"#pers_クレイコンマンタン\"> クレイコンマンタン </persname> 、パタサン江被下物有之 <lb></lb>\n       御残之者ハ <date evidence=\"year inferenced, month\" when=\"1868-10-17\"> 十七日 </date> 当地出立、 <placename corresp=\"#place_マルセイユ\"> 馬港 </placename> 罷越可申旨 <persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤太夫 </forename>\n</persname> より申達し、入用□千《（金カ分カ）》フランク、コンマンタント江相渡し毎事申談置 <lb></lb>\n<persname corresp=\"#pers_ジユリイ\"> ジユリイ </persname> 歎願之儀ニ付七百フランク被下之積 <persname corresp=\"#pers_栗本貞次郎\">\n<forename> 貞次郎 </forename>\n</persname> へ申談、金子相渡す、諸書物類写 <persname corresp=\"#pers_栗本貞次郎\">\n<forename> 貞次郎 </forename>\n</persname> ヘ相渡ス、 <persname corresp=\"#pers_ポール_フルーリ_エラール\">\n<forename> フロリ </forename>\n<surname> ヘラルト </surname>\n</persname> より御借家ニ付 <persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤太夫 </forename>\n</persname> 調印ニ而請負人ヘ相渡候書翰之写差出す、右代弐十フランク八十サ相 <pb corresp=\"#pageB1007\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/33/full/max/0/default.jpg\" n=\"B1007\" source=\"#pageB1007\"></pb> 渡す、 <persname corresp=\"#pers_ポール_フルーリ_エラール\">\n<forename> フロリ </forename>\n<surname> ヘラルト </surname>\n</persname> 献上之品其外とも荷拵之儀バンサン申残し、六十二番、六十三番と番号申談す <lb></lb> 御用御箱之残 <persname corresp=\"#pers_コロネル\">\n        コロネル </persname> 被下小遣ヘ被下 <lb></lb> ホワシミヱール為御暇乞罷出る "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 43.2975,
+                    "lon": 5.377222,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

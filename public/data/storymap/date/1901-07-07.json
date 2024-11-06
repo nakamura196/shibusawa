@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-07-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、此日ハ休日ナルモ、午前、 <persname corresp=\"#pers_南条新六郎\">\n<surname> 南条 </surname>\n<forename> 新六郎 </forename>\n</persname> 来ル、日本織物会社ノ事ヲ談話ス、養育院感化部 <persname corresp=\"#pers_戸波留郎\">\n<surname> 戸波 </surname>\n<forename> 留郎 </forename>\n</persname> 来ル、慈善旅行ノ事ヲ談ス、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 来ル、 <placename corresp=\"#place_北越\"> 北越 </placename> 石油業合併ノ談アリ、及石川島、浦賀両船渠合併ノ方法ヲ談ス、\n        <persname corresp=\"#pers_戸田宇八\">\n<surname> 戸田 </surname>\n<forename> 宇八 </forename>\n</persname> 来ル、経済財政ニ関スル意見書草案起稿ノ事ヲ談話ス、 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 、 <persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> 二氏来ル、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 借款ニ関シ頃日来 <persname corresp=\"#pers_大三輪長兵衛\">\n<surname> 大三輪 </surname>\n<forename> 長兵衛 </forename>\n</persname> 、 <persname corresp=\"#pers_呉大五郎\">\n<surname> 呉 </surname>\n<forename> 大五郎 </forename>\n</persname> 及外務省ニテ <persname corresp=\"#pers_山座\">\n<surname> 山座 </surname>\n</persname> 公使 <persname corresp=\"#pers_円次郎\">\n<forename> 円次郎 </forename>\n</persname> ト談話セシ顚末ヲ協議ス、午後、 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 来ル、 <orgname> 石川島造船所 </orgname> 合併ノ事ヲ協議ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

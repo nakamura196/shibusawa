@@ -1,0 +1,95 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-06-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時半 </time>\n<placename corresp=\"#place_巣鴨\"> 巣鴨 </placename> ニ抵リ従一位公ノ邸ニ伺候ス、拝謁シテ暫時世事ヲ話シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7337972,
+                    "lon": 139.7390889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 王子製紙会社ニ抵ル、蓋シ <persname corresp=\"#pers_徳川慶喜\"> 一位公 </persname>\n       同工場一覧ノ為御先導トシテ先着セシナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 過 <persname corresp=\"#pers_徳川慶喜\"> 一位公\n       </persname> ハ <persname corresp=\"#pers_新村猛雄\">\n<surname> 新村 </surname>\n<forename> 猛雄 </forename>\n</persname> ト共ニ工場ニ着セラル <persname corresp=\"#pers_藤山雷太\">\n<surname> 藤山 </surname>\n<forename> 雷太 </forename>\n</persname> 氏案内ニテ製紙工場御一覧、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 午前十一時半 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 飛鳥山別荘 </placename> ニ抵リ茶席ニ於テ <persname corresp=\"#pers_徳川慶喜\">\n        一位公 </persname> 及 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ノ来会ヲ待ツ、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ハ既ニ来ラレタルヲ以テ、急ニ使ヲ工場ニ馳セテ <persname corresp=\"#pers_徳川慶喜\"> 一位公 </persname> ノ臨席ヲ乞フ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 茶席ニ於テ午餐ヲ呈シ、更ニ宗匠ニ命シテ茶ヲ点セシム、畢テ別室ニテ薄茶ヲ呈シ、再ヒ眺望台ニ於テ小宴ヲ開ク、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 各歓ヲ尽シテ散会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ於テ <persname corresp=\"#pers_清水満之助\">\n<surname> 清水 </surname>\n<forename> 満之助 </forename>\n</persname> 催ス処ノ <persname corresp=\"#pers_穂積陳重\">\n<surname> 穂積 </surname>\n<forename> 陳重 </forename>\n</persname> 、男 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 欧米行送別会ニ出席ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1899-06-28T00:00+0900\"> 十二時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

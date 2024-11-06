@@ -1,0 +1,95 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-12-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 過起床、入浴シテ後朝飧ヲ食ス、 <orgname> 中央新聞 </orgname>\n       記者水田氏ノ来訪ニ接シ、経済上ノ意見ヲ述フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ来人ニ接シ又書類ヲ調査ス、 <orgname> 日本銀行\n       </orgname> ニ抵リ松尾氏ニ面会シ、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n<placename corresp=\"#place_京城府\"> 京城 </placename> ニ設立スル青年会館寄附金ノ事ヲ談ス、 日本興業銀行 <persname corresp=\"#pers_添田\">\n<surname> 添田 </surname>\n</persname> 氏ニモ同シク談話ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 銀行倶楽部 </orgname> ニ抵リ、肥料協会設立ノ事ヲ談ス、 <persname corresp=\"#pers_下岡\">\n<surname> 下岡 </surname>\n</persname> 農務局長、 <persname corresp=\"#pers_酒匂常明\">\n<surname> 酒匂 </surname>\n<forename> 常明 </forename>\n</persname> 氏、其他十数名来会ス、畢テ午飧ヲ共ニシ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト行務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 再ヒ事務所ニ於テ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\">\n        四時 </time>\n<placename corresp=\"#place_イギリス\"> 英国 </placename> 人 <persname corresp=\"#pers_ペレソン\">\n<surname> ペレソン </surname>\n</persname> 氏及技師ハローウエー氏来リ、稷山金鉱ノ事ヲ談ス <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 、 <persname corresp=\"#pers_前原\">\n<surname> 前原 </surname>\n</persname> 二氏同席ス、畢テ <placename corresp=\"#place_品川\"> 品川 </placename>\n<persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 氏ヲ訪ヒ、 <placename corresp=\"#place_フランス\"> 仏国 </placename> 人 <persname corresp=\"#pers_カン\">\n<surname> カン </surname>\n</persname> 氏招宴ニ陪席ス、夜飧畢テ種々ノ談話ヲ為シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 帰宿ス <lb></lb> （欄外） <lb></lb>\n<pb corresp=\"#pageB1554\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/580/full/max/0/default.jpg\" n=\"B1554\" source=\"#pageB1554\"></pb>\n<lb></lb> ［ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<persname corresp=\"#pers_平岡熙\">\n<surname> 平岡 </surname>\n<forename> 熙 </forename>\n</persname> 氏来リ、 <orgname> 汽車製造会社 </orgname> ノ事ヲ談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

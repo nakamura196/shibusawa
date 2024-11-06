@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1886-12-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、朝 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 七時半 </time> 、 <persname corresp=\"#pers_北垣\">\n<surname> 北垣 </surname>\n</persname> 府知事ヲ訪ヒ、織物会社ニ関スル集会ノ顚末ヲ話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<persname corresp=\"#pers_三井八郎右衛門\">\n<surname> 三井 </surname>\n<forename> 高朗 </forename>\n</persname> 氏ヲ <placename corresp=\"#place_木屋町通\"> 木屋町 </placename> ニ訪フ、帰寓後、 <persname corresp=\"#pers_浜岡光哲\">\n<surname> 浜岡 </surname>\n<forename> 光哲 </forename>\n</persname> 、 <persname corresp=\"#pers_荒川新一郎\">\n<surname> 荒川 </surname>\n<forename> 新一郎 </forename>\n</persname>\n<persname corresp=\"#pers_高木斎造\">\n<surname> 高木 </surname>\n<forename> 斎造 </forename>\n</persname> 、 <persname corresp=\"#pers_内貴甚三郎\">\n<surname> 内貴 </surname>\n<forename> 甚三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_中井三郎兵衛\">\n<surname> 中井 </surname>\n<forename> 三郎兵衛 </forename>\n</persname> 、 <persname corresp=\"#pers_渡辺伊之助\">\n<surname> 渡辺 </surname>\n<forename> 伊之助 </forename>\n</persname> 等来テ織物会社ノ事ヲ談話ス、蓋此五人ハ昨夜創立委員ノ当撰者タルニ付、定款ノ草案其他創立着手ノ順序ヲ議スル為メニ来レルナリ <lb></lb>\n<orgname> 第百十一銀行 </orgname>\n<persname corresp=\"#pers_辻\">\n<surname> 辻 </surname>\n</persname> 氏来話ス <lb></lb> 朝、 <persname corresp=\"#pers_山辺\">\n<surname> 山辺 </surname>\n</persname> 、 <persname corresp=\"#pers_蒲田\">\n<surname> 蒲田 </surname>\n</persname> ハ <placename corresp=\"#place_大阪\"> 大坂 </placename> ヘ帰ル <lb></lb>\n<persname corresp=\"#pers_伊集院兼常\">\n<surname> 伊集院 </surname>\n<forename> 兼常 </forename>\n</persname> 氏来ル <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:30:00",
+                    "text": "<time when=\"13:30:00\"> 午後一時半 </time> 、支店ニ抵リテ行務ヲ点検ス <lb></lb>\n<persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> ノ書状ヲ落手ス <lb></lb>\n<persname corresp=\"#pers_陸奥宗光\">\n<surname> 陸奥 </surname>\n<forename> 宗光 </forename>\n</persname> 氏ヨリ、第二銀行増株ノ件ニ付テ電報アリタルニ付、即時回電ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 午後六時半 </time> 帰寓、 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 氏、及留守宅、 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> ヘ郵書ヲ発ス <lb></lb> ○以下記事ヲ欠ク。 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

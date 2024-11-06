@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-02-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝雪、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 朝飧ヲ畢リ、 <placename corresp=\"#place_日本橋兜町\"> 兜町\n       </placename> 事務所ニ抵リ事務ヲ処理シ来人ニ接ス、午後 <orgname> 第一銀行 </orgname> 重役会ヲ開ク、畢テ紅葉館ニ抵リ <persname corresp=\"#pers_高峰譲吉\">\n<surname> 高峰 </surname>\n<forename> 譲吉 </forename>\n</persname> 氏 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       ヨリ帰国セシヲ歓迎スル宴会ニ出席シ一場ノ演説ヲ為シ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_深川\"> 深川 </placename> 宅ヘ帰宿ス、此日岩越鉄道会社ノ事ニ関シ地方人ト会談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

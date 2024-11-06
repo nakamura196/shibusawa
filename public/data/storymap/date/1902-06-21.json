@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-06-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 過朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 発ノ汽車ニテ\n        <placename corresp=\"#place_ナイヤガラ\"> ナイヤガラ </placename> ニ赴ク、 <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 、 <persname corresp=\"#pers_萩原\">\n<surname> 萩原 </surname>\n</persname> 、 <persname corresp=\"#pers_清水\">\n<surname> 清水 </surname>\n</persname> 、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ノ諸氏随行ス、 <persname corresp=\"#pers_堀越善重郎\">\n<surname> 堀越 </surname>\n<forename> 善重郎 </forename>\n</persname> 及 <persname corresp=\"#pers_エブリ\">\n<surname> エブリ </surname>\n</persname> 氏ハ案内者トシテ同伴ス、汽車ハ <placename corresp=\"#place_ハタソン河\"> ハタソン河 </placename>\n       ニ沿フテ北行ス、両岸小邱蜿蜒シテ河水清駛ナリ、頗ル本邦ニ旅行スルノ想アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 頃 <placename corresp=\"#place_オルバニー\"> オルバニー </placename> ニ抵ル、 <placename corresp=\"#place_紐育州\"> 紐育州\n       </placename> ノ首府ナリト云フ、遠見亦繁華ノ一市街タルヲ知ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_バツハロー\"> バツハロー </placename> 市ニ達シ直ニ汽車ヲ替テ <placename corresp=\"#place_ナイヤガラ\"> ナイヤガラ </placename> ニ抵ル、 <orgname> エンタルナシヨナール・ホテル </orgname>\n       ニ投宿ス、投宿後散歩シテ <placename corresp=\"#place_ナイアガラの滝\"> 大瀑布 </placename> ヲ一覧ス蓋シ此瀑布ハ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       有名ノ湖水流レテ川ト為ル所ニシテ其巨大ナル真ニ想像ノ外ニアリ、之ヲ瀑布ト云ハンヨリハ寧ロ一大河ノ天上ヨリ下界ニ飛下スルノ観アリ、瀑布ハ二個ニシテ一ヲ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 領瀑布トシ一ヲ <placename corresp=\"#place_加奈多\"> 加奈多\n       </placename> 領瀑布トス、此日ハ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 方面ノ各所ヲ一覧シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 43.08,
+                    "lon": -79.07111,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 午後七時半 </time> 旅宿ニ帰ル、此日夕方ヨリ雨晴ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

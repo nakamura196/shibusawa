@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-04-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、朝、 <persname corresp=\"#pers_岡部広\">\n<surname> 岡部 </surname>\n<forename> 広 </forename>\n</persname> 、 <persname corresp=\"#pers_河村隆実\">\n<surname> 河村 </surname>\n<forename> 隆実 </forename>\n</persname> 氏来、京坂鉄道、京北鉄道ノ事ヲ談ス、 <persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> 来ル、 <persname corresp=\"#pers_岩村兼□《（欠）》\">\n<surname> 岩村 </surname>\n<forename> 兼□《（欠）》 </forename>\n</persname> 、 <persname corresp=\"#pers_小倉武之助\">\n<surname> 小倉 </surname>\n<forename> 武之助 </forename>\n</persname> 、 <persname corresp=\"#pers_唐崎恭三\">\n<surname> 唐崎 </surname>\n<forename> 恭三 </forename>\n</persname> 、 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 氏等前後来訪ス、 <persname corresp=\"#pers_添田壽一\">\n<surname> 添田 </surname>\n<forename> 寿一 </forename>\n</persname> 氏来ル、 <orgname> 台湾銀行 </orgname> ノ事ヲ談ス <lb></lb> 午後銀行ニ抵リ事務ヲ視ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\">\n        二時 </time> 紅葉館ニ於テ開会スル <orgname> 日本銀行 </orgname>\n<persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname>\n<persname corresp=\"#pers_高橋\">\n<surname> 高橋 </surname>\n</persname> 両氏ノ園遊会ニ抵リ能楽二番ヲ見ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_木挽町\"> 木挽町 </placename> 花屋ニ於テ <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 氏ト共ニ左宗《（左双）》、 <persname corresp=\"#pers_石黒\">\n<surname> 石黒 </surname>\n</persname> 氏ヲ招宴ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宅ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

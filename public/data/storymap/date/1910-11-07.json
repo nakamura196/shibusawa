@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-11-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シテ、朝飧ヲ食ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<persname corresp=\"#pers_穂積陳重\">\n<surname> 穂積 </surname>\n<forename> 陳重 </forename>\n</persname> 来リ、 <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 公爵家範ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リテ書類ヲ撿閲ス、又、事 <pb corresp=\"#pageB1650\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/676/full/max/0/default.jpg\" n=\"B1650\" source=\"#pageB1650\"></pb> 務ヲ処理ス、諸方ヘ書状ヲ発送ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n       農商務省ニ抵リ、工場法ノ委員会ヲ開キ逐条質問ノ事ヲ進行ス <placename corresp=\"#place_岡\"> 岡 </placename> 局長詳細ニ説明セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> ニ至リテ未了ノ儘閉会シ、更ニ来ル <date evidence=\"year inferenced, month\" when=\"1910-11-14\"> 十四日 </date> 午後開会ヲ約ス、散会後 <orgname> 精養軒 </orgname> ニ抵リ、南洋木綿栽培調査ノ事ヲ、\n        <persname corresp=\"#pers_藤井\">\n<surname> 藤井 </surname>\n</persname> 氏、 <persname corresp=\"#pers_日比谷\">\n<surname> 日比谷 </surname>\n</persname> 氏等ト談話シ、更ニ銀行集会所ニ於テ組合銀行集会ヲ開キ、 <orgname> 台湾銀行 </orgname> 入会ノ事ヲ議決シ、又、 <persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 侯ノ金婚式ニ付祝賀ノ贈品ヲ協議シ、畢テ夜飧シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time> 過帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

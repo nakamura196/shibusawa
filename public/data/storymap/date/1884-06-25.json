@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1884-06-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝来告別ノ来人多シ、午前大阪支店ニ至リテ諸子ニ別ヲ告ケ、 <orgname> 三井銀行 </orgname>\n<persname corresp=\"#pers_五代\">\n<surname> 五代 </surname>\n</persname> 氏等ヲ訪フテ告別ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 汽車ニ駕シテ西京ニ赴ク、汽車場ニ来リテ告別スル者亦多シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 西京ニ至リ <orgname> 松力楼 </orgname> ニ投宿ス、 <orgname> 三井銀行 </orgname>\n<persname corresp=\"#pers_能勢\">\n<surname> 能勢 </surname>\n</persname> 支店、 <persname corresp=\"#pers_増田\">\n<surname> 増田 </surname>\n</persname> 、 <persname corresp=\"#pers_三木\">\n<surname> 三木 </surname>\n</persname>\n<placename corresp=\"#place_敦賀\"> 敦賀 </placename> 出張員、 <persname corresp=\"#pers_沢木\">\n<surname> 沢木 </surname>\n</persname> 、 <persname corresp=\"#pers_住田\">\n<surname> 住田 </surname>\n</persname> 、 <persname corresp=\"#pers_岸本\">\n<surname> 岸本 </surname>\n</persname> 等来リ会シテ敦賀倉庫会社設立ノ事及西陣買継所ノ事ヲ談話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

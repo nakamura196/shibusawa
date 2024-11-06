@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-11-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_野依秀市\">\n<surname> 野依 </surname>\n<forename> 秀一 </forename>\n</persname> 氏来話ス、人《（マヽ）》ノ著書ニ序文ヲ作リ与フル事ヲ依頼セラル、 <persname corresp=\"#pers_古仁所豊\">\n<surname> 古仁所 </surname>\n<forename> 豊 </forename>\n</persname> 氏来リ <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persname> 修学ノ実況ヲ縷述セラル、 <persname corresp=\"#pers_秋山一祐\">\n<surname> 秋山 </surname>\n<forename> 一祐 </forename>\n</persname> 氏来リ昨夜ノ慰藉会ニ出席セシ事ヲ謝スル旨ヲ縷陳ス、 <persname corresp=\"#pers_成瀬仁蔵\">\n<surname> 成瀬 </surname>\n<forename> 仁蔵 </forename>\n</persname> 氏来リ <persname corresp=\"#pers_林桂\">\n<surname> 林 </surname>\n<forename> 桂 </forename>\n</persname> 氏ノ身上ニ付談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n       ヨリ、内務省ニ於テ招集セシ各県下ノ孤児養育ニ関係スル多数ノ人士ヲ慰労スル為メ園遊会ヲ開ク、来会者約七八十名許ナリ、内務省官吏ニハ <persname corresp=\"#pers_水野\">\n<surname> 水野 </surname>\n</persname> 局長、 <persname corresp=\"#pers_井上友一\">\n<surname> 井上 </surname>\n<forename> 友一 </forename>\n</persname> 、 <persname corresp=\"#pers_窪田\">\n<surname> 窪田 </surname>\n</persname> 、 <persname corresp=\"#pers_小川\">\n<surname> 小川 </surname>\n</persname> 、 <persname corresp=\"#pers_生江\">\n<surname> 生江 </surname>\n</persname> 、 <persname corresp=\"#pers_留岡\">\n<surname> 留岡 </surname>\n</persname> ノ諸氏及 <placename corresp=\"#place_東京\"> 東京 </placename>\n       市又ハ養育院ノ人々来会ス、庭園散歩ノ後、大山下ニテ午飧シ、後、室内ニテ一場ノ演説ヲ為シ、後、吉備楽ノ余興アリ、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n       散会、直ニ事務所ニ出勤シテ、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 、 <persname corresp=\"#pers_小野\">\n<surname> 小野 </surname>\n</persname> 、 <persname corresp=\"#pers_福井\">\n<surname> 福井 </surname>\n</persname> 氏等ノ訪問アリ、又、 <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> 、 <persname corresp=\"#pers_団\">\n<surname> 団 </surname>\n</persname> 、 <persname corresp=\"#pers_堀田\">\n<surname> 堀田 </surname>\n</persname> 氏ノ来訪アリ、畢テ銀行集会所ニ於テ <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 大蔵大臣招宴ニ出席シ食卓上一場ノ演説ヲ為ス、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散宴、帰宿ス、後、新聞紙ヲ一読ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

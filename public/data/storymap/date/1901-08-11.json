@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-08-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、此日ハ休日ナルヲ以テ終日別荘ニ在テ書類ヲ調査ス、 <persname corresp=\"#pers_持田直\">\n<surname> 持田 </surname>\n<forename> 直 </forename>\n</persname> 、 <persname corresp=\"#pers_橋本\">\n<surname> 橋本 </surname>\n</persname> 近等来リ <persname corresp=\"#pers_渋沢宗助\">\n<surname> 渋沢 </surname>\n<forename> 宗助 </forename>\n</persname> 家政ノ事ヲ話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

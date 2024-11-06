@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-03-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<persname corresp=\"#pers_河村隆実\">\n<surname> 河村 </surname>\n<forename> 隆実 </forename>\n</persname> 、 <persname corresp=\"#pers_佐分利一嗣\">\n<surname> 佐分利 </surname>\n<forename> 一嗣 </forename>\n</persname> 二氏来リ京坂鉄道ノ事ヲ談ス、此夕 <placename corresp=\"#place_東京\"> 東京 </placename>\n<persname corresp=\"#pers_皆川\">\n<surname> 皆川 </surname>\n</persname> 氏ヘ電報シテ明日来磯ノ事ヲ促ス、此日ヨリ喘息病大ニ快方ニ赴キ終《（日カ）》ニ読書又ハ遊戯ニ消閑ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

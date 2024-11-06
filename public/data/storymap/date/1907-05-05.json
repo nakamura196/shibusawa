@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-05-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後入浴、畢テ朝飧ヲ為ス、食後数多ノ来人ニ接ス、 <persname corresp=\"#pers_岡本善七\">\n<surname> 岡本 </surname>\n<forename> 善七 </forename>\n</persname> 氏来リ自働車会社ノ事ヲ談ス <lb></lb>\n<persname corresp=\"#pers_皆川四郎\">\n<surname> 皆川 </surname>\n<forename> 四郎 </forename>\n</persname> 、 <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 二氏来ル、遠洋漁業会社、 <orgname> 人造肥料会社 </orgname> ノ事ヲ談ス <lb></lb> 午後庭園ヲ散歩ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

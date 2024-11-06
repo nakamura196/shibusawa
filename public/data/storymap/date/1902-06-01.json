@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-06-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 、\n        <persname corresp=\"#pers_上野\">\n<surname> 上野 </surname>\n</persname> 領事夫妻、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 氏夫妻及 <orgname> 東洋汽船会社 </orgname> 雇米人 <persname corresp=\"#pers_エブリー\">\n<surname> エブリー </surname>\n</persname> 氏ノ細君来ル、 <persname corresp=\"#pers_御酒本\">\n<surname> 御酒本 </surname>\n</persname> 氏、 <persname corresp=\"#pers_関根\">\n<surname> 関根 </surname>\n</persname> 等又来ル、蓋シ今日ハ日曜日ナルヲ以テ一行相携テ市中ヲ散歩シ且コールテンゲートヲ眺望シ、クリースハウス及海水浴場ヲ一覧シテ後、 <placename corresp=\"#place_サンフランシスコ\"> 桑港 </placename> ニ有名ナル公園遊覧ノ約アリシ為メナリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 37.76667,
+                    "lon": -122.43333,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 九時半\n       </time> 馬車二輛ヲ以テ男女ヲ区別シ市街ヲ通過シテ兵隊調練場ニ抵ル、奏楽アリ、停車数分ニシテ去テ海岸ニ出テ、尋テクリスハウスト称スル家屋ニ抵ル、 <placename corresp=\"#place_桑港公園\"> 桑港公園 </placename>\n       ニ接近スル遊覧場ナリ、海ニ添フテ岸上ニ建築ス、眺望壮快ナリ、海上数十歩ニシテ巨巌アリ、オツトセー其巌上ニ棲息ス、此家ニテ小憩シ後海水浴場ニ入リテ一覧ス、博物館アリ、動植物及海産物等ノ陳列場アリ、此場ヲ出テ公園ニ入リ馬車ニテ園内ヲ一覧シ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 過キ旅寓ニ帰リテ午飧ス、畢テ <persname corresp=\"#pers_上野\">\n<surname> 上野 </surname>\n</persname> 氏夫妻ハ帰宅ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n<persname corresp=\"#pers_エブリー\">\n<surname> エブリー </surname>\n</persname> 氏ヨリノ招宴アリテ一行之ニ赴ク、 <persname corresp=\"#pers_上野\">\n<surname> 上野 </surname>\n</persname> 領事、 <persname corresp=\"#pers_伊藤幸次郎\">\n<surname> 伊藤 </surname>\n<forename> 幸次郎 </forename>\n</persname> 夫妻皆来会ス、食事中種々ノ談話アリテ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰寓ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

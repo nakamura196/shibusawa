@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-01-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝、御用荷物其外荷繕ひいたす、 <persname corresp=\"#pers_須永伝蔵\">\n<surname> 須永 </surname>\n<forename> 於莵之助 </forename>\n</persname> 来、郷里へ取落し物送来る、夕方より水邸に至り、 <persname corresp=\"#pers_柴田章彦\">\n<surname> 柴田 </surname>\n<forename> 章彦 </forename>\n</persname> 面会、荷拵之儀申談す、夫より <placename corresp=\"#place_駒込片町\"> 駒込片町 </placename>\n<persname corresp=\"#pers_田中清三郎\">\n<surname> 田中 </surname>\n<forename> 清三郎 </forename>\n</persname> を尋問、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過帰宿、写真之儀ニ付 <persname corresp=\"#pers_河津\">\n<surname> 河津 </surname>\n</persname> へ書翰遣す朝、 <persname corresp=\"#pers_五来要助\">\n<surname> 五来 </surname>\n<forename> 要助 </forename>\n</persname> 来る、其忰 <placename corresp=\"#place_駿河国\"> 駿州 </placename> 之儀申立ニ付承届遣す "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.9642306,
+                    "lon": 138.4266222,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-02-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後直ニ朝飧ヲ喫ス、 <persname corresp=\"#pers_長崎\">\n<surname> 長崎 </surname>\n</persname> 氏ヨリ英国皇族ノ事ニ関シ電話来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 十時半 </time> 東京海上保険会社ニ抵リ重役会ニ出席ス、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 総理大臣ヲ官邸ニ訪ヒ鉄道国有ニ関スル利害ヲ討議ス、午飧後迄種々ノ談話ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<orgname> 日本興業銀行 </orgname> 株主総会ニ出席ス、会議畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵ル、 <persname corresp=\"#pers_小宮三保松\">\n<surname> 小宮 </surname>\n<forename> 三保松 </forename>\n</persname> 氏来リ身上ニ関スル内話アリ、 <persname corresp=\"#pers_内藤游\">\n<surname> 内藤 </surname>\n<forename> 游 </forename>\n</persname> 氏 <pb corresp=\"#pageB1408\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/434/full/max/0/default.jpg\" n=\"B1408\" source=\"#pageB1408\"></pb> 来リ瓦斯事業調査ノ為 <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n       行ニ付テ添書ヲ乞ハル、 <persname corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persname> 氏来リテ煉瓦事業ニ関スル談話アリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename> 瓢屋ニ抵リ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯、 <persname corresp=\"#pers_豊川良平\">\n<surname> 豊川 </surname>\n<forename> 良平 </forename>\n</persname> 氏ト会シ、鉄道国有ニ関スル談話ヲ為ス、夜食後再ヒ事務所ニ抵リ同族会ヲ開キ決算ノ事ヲ承認シ議事ヲ決ス、 <persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> 身上ニ関シ種々ノ談話ヲ為シ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1906-02-28T00:00+0900\"> 十二時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿シ、更ニ書類ヲ一覧シ、 <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 氏ニ一書ヲ作ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

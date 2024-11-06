@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-09-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 過 <placename corresp=\"#place_里昂\"> 里昂 </placename>\n       ヲ発シ、汽車ニテ <placename corresp=\"#place_ブルゴワンス\"> ブルゴワンス </placename> ニ抵リ、 <persname corresp=\"#pers_ミトリー\">\n<surname> ミトリー </surname>\n</persname>\n       氏織物器械製造所ヲ一覧ス、此工場ハ織物器械ノ外ニ汽織機六百台ヲ有シテ多数ノ織物ヲ製出ス、其機場ノ構造及女工操業ノ現状等悉ク一覧シテ後、此地ノ小旅亭ニ於テ午飧ス、此日同行セシハ\n        <persname corresp=\"#pers_山田\">\n<surname> 山田 </surname>\n</persname> 領事及 <placename corresp=\"#place_里昂\"> 里昂 </placename> 留学ノ練習生二名、 <persname corresp=\"#pers_井上金治郎\">\n<surname> 井上 </surname>\n<forename> 金治郎 </forename>\n</persname> ノ諸氏ナリ、午飧後、 <placename corresp=\"#place_ブーシイユー\"> ブーシイユー </placename>\n       ニ於テ瑞西人ノ設立セル織物会社ニ抵リ其工場ヲ一覧ス、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:35:00",
+                    "text": "<time when=\"18:35:00\"> 六時三十五分 </time>\n<placename corresp=\"#place_里昂\"> 里昂 </placename> ニ帰リ、衣服ヲ整理シテ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time>\n<persname corresp=\"#pers_山田\">\n<surname> 山田 </surname>\n</persname> 領事ノ饗宴ニ出席ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 宴散シテ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

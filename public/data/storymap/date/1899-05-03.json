@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-05-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、風邪稍愈ルト云トモ外出ヲ得ス、終日宅ニ在テ事務ヲ処ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<persname corresp=\"#pers_清浦奎吾\">\n<surname> 清浦 </surname>\n<forename> 奎吾 </forename>\n</persname> 、 <persname corresp=\"#pers_三好退蔵\">\n<surname> 三好 </surname>\n<forename> 退蔵 </forename>\n</persname> 、 <persname corresp=\"#pers_留岡幸助\">\n<surname> 留岡 </surname>\n<forename> 幸助 </forename>\n</persname> 、 <persname corresp=\"#pers_広津友信\">\n<surname> 広津 </surname>\n<forename> 友信 </forename>\n</persname> 、 <persname corresp=\"#pers_田口卯吉\">\n<surname> 田口 </surname>\n<forename> 卯吉 </forename>\n</persname> 、 <persname corresp=\"#pers_小川繁次郎\">\n<surname> 小川 </surname>\n<forename> 繁次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 、 <persname corresp=\"#pers_山本徳尚\">\n<surname> 山本 </surname>\n<forename> 徳尚 </forename>\n</persname> 氏等来会、慈善問題ニ付テ討議ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

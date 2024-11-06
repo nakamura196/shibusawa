@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-02-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シテ朝飧ヲ食ス、 <persname corresp=\"#pers_蓮沼門三\">\n<surname> 蓮沼 </surname>\n<forename> 門三 </forename>\n</persname> 氏来リ、修養団第二寄宿舎ノ事其他ニ付種々ノ協議ヲ為ス、建築予算書ヲ一覧ス、 <persname corresp=\"#pers_堀金\">\n<surname> 堀金 </surname>\n</persname> 某氏来リ皇道会ノ事ニ付勧誘セラル、他日ヲ約シテ辞シ去ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯爵ヲ内田山邸ニ訪ヘ病床ニテ面晤ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n<placename corresp=\"#place_小山町\"> 小山町 </placename> ノ邸ニ抵リ <persname corresp=\"#pers_渋沢敬三\">\n<forename> 敬三 </forename>\n</persname> ノ病ヲ訪フ、 <persname corresp=\"#pers_渋沢敦子\">\n<forename> 敦子 </forename>\n</persname> 等ト談話シ午飧ヲ食ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.36008,
+                    "lon": 138.98728,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 大蔵省ニ抵リ <persname corresp=\"#pers_勝田\">\n<surname> 勝田 </surname>\n</persname> 次官ニ面会シテ <orgname> 興業銀行 </orgname> 総裁ノ事ヲ談シ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯ノ注意ヲ通告ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 事務所ニ抵リ新聞記者数名ノ来訪アリ、又、 <persname corresp=\"#pers_畔田明\">\n<surname> 畔田 </surname>\n<forename> 明 </forename>\n</persname> 氏ノ来訪ニ接シテ其身上ニ付種々ノ談話ヲ為ス、此夕、 <persname corresp=\"#pers_肝付\">\n<surname> 肝付 </surname>\n</persname> 氏 <placename corresp=\"#place_大阪\"> 大坂 </placename>\n       市長トシテ赴任スルニ付送別会ヲ催セシモ、遅刻ニ付電話ニテ断リ遣ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 帰宿夜飧後、新聞紙及他ノ書類ヲ一読ス <lb></lb>\n       夕方、 <persname corresp=\"#pers_川田鷹\">\n<surname> 川田 </surname>\n<forename> 鷹 </forename>\n</persname> 氏来リ <placename corresp=\"#place_ブラジル\"> 伯剌西爾 </placename> 殖民会社ノ事ヲ協議ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": -15.783,
+                    "lon": -47.867,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

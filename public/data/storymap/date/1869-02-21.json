@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-02-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 昨夜、 <persname corresp=\"#pers_北村彦次郎\">\n<surname> 北村 </surname>\n<forename> 彦次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_荻原四郎兵衛\">\n<surname> 荻原 </surname>\n<forename> 四郎兵衛 </forename>\n</persname> 来、商法筋見込之儀申談す <lb></lb> 朝、仏行調物いた《（す脱）》、御入用残調御品残高とも明細書調済之上出殿ニ而差出す、中老衆御覧之積ニ付御用部屋へ差出す\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

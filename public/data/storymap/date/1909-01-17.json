@@ -1,0 +1,66 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-01-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、学友会書生ノ来訪ニ接シ、学友会大会ノ事ヲ談ス、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 氏来リテ養育院ノ事ヲ談ス、 <persname corresp=\"#pers_植村澄三郎\">\n<surname> 植村 </surname>\n<forename> 澄三郎 </forename>\n</persname> 氏来リ、 <placename corresp=\"#place_台湾\"> 台湾 </placename> 製糖ノ事ニ関シ種々談話アリ、午飧後、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 23.767,
+                    "lon": 121.0,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 侯爵ヲ <placename corresp=\"#place_三田\"> 三田 </placename> 邸ニ訪フ、 <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 、 <persname corresp=\"#pers_平川\">\n<surname> 平川 </surname>\n</persname> 二氏来会、日糖会社ノ事ヲ談ス、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:36:00",
+                    "text": "<time when=\"16:36:00\"> 午後四時三十六分 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 発ノ汽車ニテ <placename corresp=\"#place_大磯町\"> 大磯\n       </placename> ニ抵ル、長生館ニ投宿ス、夜、新聞紙及伝記等ヲ読ム "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-08-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 松濤園ヲ発シ <placename corresp=\"#place_国府津\"> 国府津\n       </placename> 発 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.280139,
+                    "lon": 139.2116278,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:20:00",
+                    "text": "<time when=\"06:20:00\"> 六時二十分 </time> ノ汽車ニ搭シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       過 <placename corresp=\"#place_東京\"> 東京 </placename> ニ着ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time>\n<placename corresp=\"#place_神田美土代町\"> 神田美土代町 </placename> 青年会館《「車中 <persname corresp=\"#pers_今村清之助\">\n<surname> 今村 </surname>\n<forename> 清之助 </forename>\n</persname> 、 <persname corresp=\"#pers_松本重太郎\">\n<surname> 松本 </surname>\n<forename> 重太郎 </forename>\n</persname>\n<placename corresp=\"#place_九州\"> 九州 </placename> ヨリ帰京スルニ邂逅ス。九州鉄道会社ノ事ニ関シ談話スル処アリ」○ <date evidence=\"year inferenced, month\" when=\"1899-08-15\"> 十五日 </date>\n       ノ記事ニアリ。是ノ追記ハ誤リ。》ニ催ス処ノ日本鉄道会社株主総会ニ列ス、畢テ <orgname> 東京瓦斯会社 </orgname> 重役会ニ出席ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.69285,
+                    "lon": 139.7659639,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<persname corresp=\"#pers_岩崎弥之助\">\n<surname> 岩崎 </surname>\n<forename> 弥之助 </forename>\n</persname> 氏ヲ訪フ、九鉄ノ事ヲ話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<orgname> 第一銀行 </orgname> ニ出勤ス、此夜 <placename corresp=\"#place_浜町\"> 浜町 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,59 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-11-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰ル、 <persname corresp=\"#pers_長沼\">\n<surname> 長沼 </surname>\n</persname> 、 <persname corresp=\"#pers_松岡\">\n<surname> 松岡 </surname>\n</persname> 二氏来リテ肖像ノ事ニ付テ模型ト油絵トヲ作ル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<placename corresp=\"#place_上野\"> 上野 </placename>\n<orgname> 精養軒 </orgname> ニ於テ、 <orgname> 竜門社 </orgname> 第二十三回秋季総会ニ出席ス、此日 <persname corresp=\"#pers_阪谷芳郎\">\n<surname> 阪谷 </surname>\n<forename> 芳郎 </forename>\n</persname> 社長ニ代リ各般ノ報告ヲ為シ、且経済ニ関スル一場ノ演説ヲ為ス、次ニ <persname corresp=\"#pers_諸井六郎\">\n<surname> 諸井 </surname>\n<forename> 六郎 </forename>\n</persname> 氏 <placename corresp=\"#place_清\"> 清国 </placename>\n<placename corresp=\"#place_蘇州\"> 蘇州 </placename> ノ風土商業等ニ関スル演説ヲ為シ、次ニ <persname corresp=\"#pers_堀越善重郎\">\n<surname> 堀越 </surname>\n<forename> 善重郎 </forename>\n</persname> 氏我国商業ノ不振ヲ歎スル演説アリ、次ニ <persname corresp=\"#pers_林忠正\">\n<surname> 林 </surname>\n<forename> 忠正 </forename>\n</persname> 氏ハ <persname corresp=\"#pers_堀越\">\n<surname> 堀越 </surname>\n</persname> 氏ノ歎息ヲ慰シ、我邦ノ商業ハ大ニ進歩ノ望アリトノ意ヲ陳弁ス、最後ニ商業者ノ徳操ニ関シテ <orgname> 竜門社 </orgname>\n       後進生ニ告クト云フ演題ヲ以テ一場ノ演説ヲ為ス、先年独乙人ト談話セシ道徳談及一昨夜記載セシ <persname corresp=\"#pers_室鳩巣\">\n<forename> 鳩巣 </forename>\n</persname> 試筆ノ詞等ヲ加ヘテ終局ス、此夜石油事業ニ付 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 、 <persname corresp=\"#pers_林忠正\">\n<surname> 林 </surname>\n<forename> 忠正 </forename>\n</persname> 、 <persname corresp=\"#pers_田中善助\">\n<surname> 田中 </surname>\n<forename> 善助 </forename>\n</persname> 、米国人 <persname corresp=\"#pers_ハース\">\n<surname> ハース </surname>\n</persname> 氏ト偕楽園ニ会ス、夜 <placename corresp=\"#place_浜町\"> 浜町 </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

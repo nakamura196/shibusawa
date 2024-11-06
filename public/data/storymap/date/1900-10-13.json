@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-10-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前数多ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<orgname> 第一銀行 </orgname> ニ出勤ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 商業会議所ニ抵リ京釜鉄道会社発起人会ニ列ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 後開会、先ツ <date evidence=\"year inferenced\" when=\"1896\">\n        二十九年 </date> 来ノ経歴ヲ叙シ、更ニ <persname corresp=\"#pers_日下義雄\">\n<surname> 日下 </surname>\n<forename> 義雄 </forename>\n</persname> 氏ヨリ会計ノ事ヲ略叙シ、 <persname corresp=\"#pers_竹内綱\">\n<surname> 竹内 </surname>\n<forename> 綱 </forename>\n</persname> 氏ヨリ <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 滞在中ノ景況其他ノ要務ヲ述ヘ、 <persname corresp=\"#pers_笠井愛次郎\">\n<surname> 笠井 </surname>\n<forename> 愛次郎 </forename>\n</persname> 氏ヨリ線路実測ノ概況ヲ報告シ、畢テ議事ニ入リ、 <persname corresp=\"#pers_尾崎三良\">\n<surname> 尾崎 </surname>\n<forename> 三良 </forename>\n</persname> 氏ヨリ定款ノ事ヲ略陳シ、議事ハ総テ原案ニ可決シ、畢テ発起人ハ各其引受株高ヲ定メテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n       散会ス、此夜銀行集会所ニ於テ <orgname> 竜門社 </orgname> 員月次会ヲ開ク、幻灯ノ余興アリテ一同歓ヲ尽ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1900-10-14T00:00+0900\"> 十二時 </time> 散会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

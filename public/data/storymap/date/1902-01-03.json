@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-01-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝餐ヲ喫ス、食後 <orgname> 第一銀行 </orgname>\n       株主総会ニ提出スヘキ本季営業報告書ノ緒言ヲ熟覧修正シ、書状ヲ添ヘテ <persname corresp=\"#pers_清水泰吉\">\n<surname> 清水 </surname>\n<forename> 泰吉 </forename>\n</persname> ニ送付ス、又、慰労金恩給金給与規則ノ草案ヲ閲覧シ、文義明亮ナラサル処及字句穏当ヲ欠キタル処ヲ修正シ、書状ヲ添ヘテ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 支配人ヘ送付ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<persname corresp=\"#pers_竹沢\">\n<surname> 竹沢 </surname>\n</persname> 帰京ニ付右二書状ヲ交付シ伝達セシム、午後、 <persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> 氏来話ス、 <placename corresp=\"#place_箱根\"> 箱根 </placename> ヨリノ帰路訪問スルモノナリ、 <orgname>\n        第一銀行 </orgname> 業務拡張ノ意見ニ関シ縷述スル処アリタリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<persname corresp=\"#pers_武田政智\">\n<surname> 武田 </surname>\n<forename> 政智 </forename>\n</persname> 《（ <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> ）》来ル、夜、 <placename corresp=\"#place_東京\"> 東京 </placename>\n<persname corresp=\"#pers_キルビー\">\n<surname> キルビー </surname>\n</persname> 氏ヨリ電報アリ、明日来訪ノ事ヲ報シ来ル <lb></lb>\n<persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 氏来状、 <persname corresp=\"#pers_石黒忠悳\">\n<surname> 石黒 </surname>\n<forename> 忠悳 </forename>\n</persname> 氏来状 <placename corresp=\"#place_東京\"> 東京 </placename> ヨリ送リ来ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

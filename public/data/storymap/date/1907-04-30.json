@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-04-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後入浴シ、後朝飧ヲ為ス、 <persname corresp=\"#pers_麻生正蔵\">\n<surname> 麻生 </surname>\n<forename> 正蔵 </forename>\n</persname> 来話ス、 <persname corresp=\"#pers_木村長七\">\n<surname> 木村 </surname>\n<forename> 長七 </forename>\n</persname> 、 <persname corresp=\"#pers_葛西重雄\">\n<surname> 葛西 </surname>\n<forename> 重雄 </forename>\n</persname> 来リ <persname corresp=\"#pers_古河\">\n<surname> 古河 </surname>\n</persname> 家ノ事ニ関シ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 東京市役所ニ抵リ、 <persname corresp=\"#pers_尾崎\">\n<surname> 尾崎 </surname>\n</persname> 市長ニ面会シ瓦斯会社ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ浦賀船渠会社重役会ニ列シ要件ヲ談ス、畢テ銀行事務ヲ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト協議シ、事務所ニ於テ事務ヲ処理シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<orgname> 日本銀行 </orgname> ニ抵リ <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 氏ニ面話シ、瓦斯会社 <persname corresp=\"#pers_高松豊吉\">\n<surname> 高松 </surname>\n<forename> 豊吉 </forename>\n</persname> 氏ノ来訪ニ接シ市長トノ談判ヲ報知ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 過帰宿ス <lb></lb> 此日 <persname corresp=\"#pers_明石愛子\">\n<forename> 愛子 </forename>\n</persname> ノ祝宴ヲ催シ、縁戚ノ婦人女児来会スル者五十余名、庭園ヲ散歩シ、後種々ノ余興アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散会ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time>\n<persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏来話、沖電気事業及浦賀船渠会社ノ事ヲ談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1886-12-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、朝、 <persname corresp=\"#pers_中井三平\">\n<surname> 中井 </surname>\n<forename> 三平 </forename>\n</persname> 来テ <persname corresp=\"#pers_井口新三郎\">\n<surname> 井口 </surname>\n<forename> 新三郎 </forename>\n</persname> ノ事ヲ話ス、 <persname corresp=\"#pers_中井三郎兵衛\">\n<surname> 中井 </surname>\n<forename> 三郎兵衛 </forename>\n</persname> 、 <persname corresp=\"#pers_山岸嘉蔵\">\n<surname> 山岸 </surname>\n<forename> 嘉蔵 </forename>\n</persname> 来テ織物会社ノ事ヲ話ス、 <persname corresp=\"#pers_近藤徳太郎\">\n<surname> 近藤 </surname>\n<forename> 徳太郎 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_大倉喜八郎\">\n<surname> 大倉 </surname>\n<forename> 喜八郎 </forename>\n</persname> 氏来ル "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 支店ニ抵リ行務ヲ視ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:30:00",
+                    "text": "<time when=\"15:30:00\"> 午後三時半 </time>\n<placename corresp=\"#place_木屋町通\"> 木屋町 </placename>\n<orgname> 池亀楼 </orgname> ニ抵ル、蓋シ織物会社創立ノ為、地方同志者ト集会ノ約アルニ依ル、此日、会同スル者三十三人、会社創設ノ要領ヲ議定ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time> 去テ河東大嘉楼ニ小酌ス、大坂紡績会社 <persname corresp=\"#pers_山辺\">\n<surname> 山辺 </surname>\n</persname> 、 <persname corresp=\"#pers_蒲田\">\n<surname> 蒲田 </surname>\n</persname> 二氏来ル <persname corresp=\"#pers_熊谷\">\n<surname> 熊谷 </surname>\n</persname> 、 <persname corresp=\"#pers_三木\">\n<surname> 三木 </surname>\n</persname> 二氏モ織物会社創設ノ集会ヲ散シテ来会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1886-12-17T00:00+0900\"> 十二時 </time> 帰寓寝ニ就ク\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1886-06-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time>\n<placename corresp=\"#place_柏崎\"> 柏崎 </placename> ヲ発シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<placename corresp=\"#place_関原\"> 関原 </placename> ニ至ル、 <placename corresp=\"#place_長岡\"> 長岡 </placename>\n<orgname> 第六十九銀行 </orgname>\n<persname corresp=\"#pers_三島\">\n<surname> 三島 </surname>\n</persname> 、 <persname corresp=\"#pers_岸\">\n<surname> 岸 </surname>\n</persname> 其他数名来リ迎フ、相伴フテ <placename corresp=\"#place_長岡\"> 長岡 </placename> ニ抵ル、 <persname corresp=\"#pers_三島\">\n<surname> 三島 </surname>\n</persname> 、 <persname corresp=\"#pers_岸\">\n<surname> 岸 </surname>\n</persname> 等ノ周旋ニテ <persname corresp=\"#pers_山田\">\n<surname> 山田 </surname>\n</persname> 氏ノ別業ニ抵ル <lb></lb> 着後、 <persname corresp=\"#pers_三島\">\n<surname> 三島 </surname>\n</persname> 、 <persname corresp=\"#pers_岸\">\n<surname> 岸 </surname>\n</persname> 及第六十九銀行員ノ誘引ニテ市街ヲ一覧シ、 <orgname> 第六十九銀行 </orgname> ヲ訪ヒ、更ニ公園地ヲ遊歩シ、撃石館ニ至ル、蓋シ\n        <orgname> 六十九銀行 </orgname>\n       株主等及地方商估協同シテ余カ此地ニ来遊セシヲ以テ、殊ニ此館ニ宴会ヲ開テ余ヲ饗スル為ナリ、至レハ則来会ノ者交来リテ名刺ヲ通シ、更ニ盛宴ヲ開キ、名妓数十来テ酒ヲ侑ム、酒間歌舞頻リナリ、興酣ナル時、\n        <persname corresp=\"#pers_岸\">\n<surname> 岸 </surname>\n</persname> 、 <persname corresp=\"#pers_小林\">\n<surname> 小林 </surname>\n</persname> 、及 <persname corresp=\"#pers_高野徳平\">\n<surname> 高野 </surname>\n<forename> 徳平 </forename>\n</persname> 等ノ誘引ニ従テ席ヲ唐津屋ヲ《（ニ）》転シテ又一宴 <pb corresp=\"#pageB1063\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/89/full/max/0/default.jpg\" n=\"B1063\" source=\"#pageB1063\"></pb> ヲ開ク、此夜唐津屋ニ投宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7716917,
+                    "lon": 139.7902417,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

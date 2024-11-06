@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-05-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、船中ニテ入浴シ、室外ニ出レハ船 <placename corresp=\"#place_備前\"> 備前\n       </placename> 来島附近ヲ通過ス、住友家ノ経営セル日阪島精煉所煙突ヲ遠望ス、 <placename corresp=\"#place_今治\"> 今治 </placename>\n       附近ヲ通過スル時其煙突ヲ見ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 午前八時半 </time> 朝飧ヲ食ス、後、 <persname corresp=\"#pers_大沢\">\n<surname> 大沢 </surname>\n</persname> 氏ト自動団ニ関スル趣旨書及規約等ニ付テ種々協議ヲ為シ、其文案ヲ托ス、又、日記ヲ編成ス <lb></lb>\n<pb corresp=\"#pageB1778\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/804/full/max/0/default.jpg\" n=\"B1778\" source=\"#pageB1778\"></pb>\n<lb></lb>\n<persname corresp=\"#pers_明石\">\n<surname> 明石 </surname>\n</persname> 、 <persname corresp=\"#pers_増田\">\n<surname> 増田 </surname>\n</persname> 二氏ト旅行中各員ノ担当分掌ノ事ヲ談ス、午飧後読書室ニテ演説筆記ヲ修正ス、夕方ニ至リ <placename corresp=\"#place_下関市\"> 馬関\n       </placename> 、 <placename corresp=\"#place_門司\"> 門司 </placename>\n       ノ海峡ヲ通過ス、両岸ノ眺望佳絶ナリ、甲板上ヲ散歩シ、船長室ニ於テ望遠鏡ヲ以テ四方ヲ展望ス、海峡ヲ出レハ玄海洋ニシテ波濤渺茫タリ、船少ク動ク、夜飧後甲板上ニ活動写真ノ余興アリ、又、囲碁等アリテ毫モ寂寥ノ感ナシ、夜\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 33.95789,
+                    "lon": 130.94133,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 就寝ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

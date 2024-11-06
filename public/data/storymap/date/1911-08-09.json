@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-08-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ、朝飧ヲ食シ、後、 <persname corresp=\"#pers_成瀬\">\n<surname> 成瀬 </surname>\n</persname> 氏ト共ニ <persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 侯ヲ <persname corresp=\"#pers_木暮\">\n<surname> 木暮 </surname>\n</persname> 別館ニ訪ヘ教育ト財政経済トニ関シテ種々ノ談話ヲ為ス、午飧前帰寓、 <placename corresp=\"#place_東京\"> 東京 </placename>\n<persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 、 <persname corresp=\"#pers_堀越\">\n<surname> 堀越 </surname>\n</persname> 、 <persname corresp=\"#pers_横山\">\n<surname> 横山 </surname>\n</persname> 氏等ヨリ書状来ル、午飧後児等ト遊戯ス、後、日記ヲ編成シ又読書ス <lb></lb>\n<persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ヨリ来書アリテ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n<placename corresp=\"#place_日本\"> 日本 </placename> 会《（人脱）》ヘ返電ノ事ヲ通シ来ル、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ヘ書状ヲ発シテ要務ヲ指示ス、夜飧後児輩ト遊戯シ又読書セシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

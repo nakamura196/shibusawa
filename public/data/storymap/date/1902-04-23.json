@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-04-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 朝飧ヲ畢ル、英米二国ノ友人ニ書状ヲ裁ス、此日ハ英国人 <persname corresp=\"#pers_ビセツト\">\n<surname> ビセツト </surname>\n</persname> 氏招宴ノ約アルヲ以テ朝来庭園ヲ散歩シテ種々ノ指揮ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n       来賓稍会ス、依テ庭中ヲ逍遥ス、抹茶室ニ於テ茶ヲ点シ、崖ヲ下リテ泉石ヲ一覧シ、更ニ邸ニ登リテ小憩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time>\n       舞台ニ於テ午餐ス、賓主廿三名ナリ、 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 総理、 <persname corresp=\"#pers_芳川\">\n<surname> 芳川 </surname>\n</persname> 逓信、 <persname corresp=\"#pers_曾禰\">\n<surname> 曾禰 </surname>\n</persname> 大蔵、 <persname corresp=\"#pers_小村\">\n<surname> 小村 </surname>\n</persname> 外務、 <persname corresp=\"#pers_松本\">\n<surname> 松本 </surname>\n</persname> 、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 、 <persname corresp=\"#pers_犬塚\">\n<surname> 犬塚 </surname>\n</persname> 、曾我日鉄、 <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 日銀等ノ諸氏皆来会ス、午餐畢テ <pb corresp=\"#pageB1234\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/260/full/max/0/default.jpg\" n=\"B1234\" source=\"#pageB1234\"></pb> 席上 <persname corresp=\"#pers_川端玉章\">\n<surname> 川端 </surname>\n<forename> 玉章 </forename>\n</persname> ノ席画アリ、来賓皆其妙技ヲ感ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 散会ス、直ニ馬車ヲ馳テ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ抵リ事務ヲ処理シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n       過華族会館ニ抵リ日本鉄道会社重役一同ノ催フセル送別会ニ出席ス、賓主十数名、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 宴ヲ散シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

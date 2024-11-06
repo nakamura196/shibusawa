@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-11-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起テ船窓ヲ開ケハ天気朗晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 船\n        <placename corresp=\"#place_下関市\"> 馬関 </placename> ニ着シス《（テカ）》投錨ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 33.95789,
+                    "lon": 130.94133,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時\n       </time> 小蒸気船ニテ <placename corresp=\"#place_下関市\"> 馬関 </placename> ニ上陸、 <orgname> 大吉楼 </orgname>\n       ニ投ス、郵船会社支店主任 <persname corresp=\"#pers_甲藤\">\n<surname> 甲藤 </surname>\n</persname> 氏来リ迎フ、 <orgname> 大吉楼 </orgname> ニ於テ <persname corresp=\"#pers_古沢滋\">\n<surname> 古沢 </surname>\n<forename> 滋 </forename>\n</persname> 氏ニ邂逅ス、商業会議所会頭 <persname corresp=\"#pers_松尾寅三\">\n<surname> 松尾 </surname>\n<forename> □三 </forename>\n</persname> 《（ <persname corresp=\"#pers_松尾寅三\">\n<surname> 松尾 </surname>\n<forename> 寅三 </forename>\n</persname> カ）》外一人来リ迎フ、午餐後当地ニ開設セル水産共進会ヲ一覧ス、県庁ヨリ吏員ヲシテ場内ヲ案内セシムルヲ以テ各県ノ水産ニ就テ悉ク説明スル所アリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 33.95789,
+                    "lon": 130.94133,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<orgname> 大吉楼 </orgname> ニ帰リ更ニ安徳帝陵ヲ拝シテ本船ニ搭ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n       抜錨出帆ス、六連湾ヲ過クル頃ヨリ風起リテ船頗ル動 <pb corresp=\"#pageB1161\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/187/full/max/0/default.jpg\" n=\"B1161\" source=\"#pageB1161\"></pb> 揺ス、此夜ハ船病ニ係リテ食事ヲ廃スル者多シ、 <placename corresp=\"#place_玄海洋\"> 玄海洋\n       </placename> ノ風濤ハ臥床苦悶ノ中ニ経過セリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

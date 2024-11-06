@@ -1,0 +1,66 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-09-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後直ニ朝飧ヲ食シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 過ノ汽車ニテ帰京ス、 <placename corresp=\"#place_新橋\">\n        新橋 </placename> ニ抵リ、馬車ニテ <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 大蔵大臣ノ午飧会ニ出席ス、韓国人 <persname corresp=\"#pers_柳\">\n<surname> 柳 </surname>\n</persname> 、 <persname corresp=\"#pers_李\">\n<surname> 李 </surname>\n</persname> ノ二氏及新任度支次官 <persname corresp=\"#pers_荒井\">\n<surname> 荒井 </surname>\n</persname> 氏モ来会ス、午飧後種々ノ談話アリ、且叙勲ノ事ヲ大蔵大臣ヨリ伝達セラル、畢テ <placename corresp=\"#place_日本橋兜町\"> 兜町\n       </placename> 事務所ニ抵リ事務ヲ処理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n       東洋協会ニ抵リ、其臨時集会ニ出席シ東洋拓殖会社設立ノ事ヲ協議ス、畢リテ又 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ニ抵リ、韓国人 <persname corresp=\"#pers_柳\">\n<surname> 柳 </surname>\n</persname> 氏、 <persname corresp=\"#pers_李\">\n<surname> 李 </surname>\n</persname> 氏及 <persname corresp=\"#pers_西尾\">\n<surname> 西尾 </surname>\n</persname> 等ヲ招宴ス、食卓前後ニ於テ種々ノ談話ヲ為シ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散会、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

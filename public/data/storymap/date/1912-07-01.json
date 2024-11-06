@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-07-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、 <persname corresp=\"#pers_中村千代松\">\n<surname> 中村 </surname>\n<forename> 千代松 </forename>\n</persname> 氏来話ス、奥山半僧房 <persname corresp=\"#pers_林宗賢\">\n<surname> 林 </surname>\n<forename> 宗賢 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時半 </time>\n<persname corresp=\"#pers_住友吉左衛門\">\n<surname> 住友 </surname>\n<forename> 吉左衛門 </forename>\n</persname> 氏ヲ <placename corresp=\"#place_麻布\"> 麻布 </placename> ノ家ニ訪ヘ <orgname> 汽車製造会社\n       </orgname> 増資ノ事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 十時半 </time>\n<placename corresp=\"#place_三田\"> 三田 </placename> ニ <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 公爵ヲ訪ヘ要件ヲ談話ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_高輪\"> 高輪 </placename> ニ <persname corresp=\"#pers_森村\">\n<surname> 森村 </surname>\n</persname> 氏ヲ訪ヘ、 <persname corresp=\"#pers_森村開作\">\n<forename> 開作 </forename>\n</persname> 氏ニ面会シテ汽車会社ノ事ヲ談ス、帰途交詢社ニ抵リ時事新報ノ主催ニ係ル義勇表賞会《（彰）》ニ出席ス、協議畢リテ、 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 伯、 <persname corresp=\"#pers_福沢\">\n<surname> 福沢 </surname>\n</persname> 氏等ト午飧ヲ共ニス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6385306,
+                    "lon": 139.737167,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 事務所ニ抵リ庶務ヲ処理ス、 <persname corresp=\"#pers_成瀬仁蔵\">\n<surname> 成瀬 </surname>\n<forename> 仁蔵 </forename>\n</persname> 氏来リ帰一協会ノ事ヲ談ス、諸方ヘ書状ヲ裁ス、夕方 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 帰宿、夜飧後、演説筆記ヲ修正ス、夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1912-07-02T01:00+0900\"> 一時 </time> 就寝ス <lb></lb> 此日、夕方雷鳴強ク強雨来ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

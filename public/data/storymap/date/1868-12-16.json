@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-12-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 風静にして〓行席のことし、暁より富峰を見る、山の半腹迄白雪に掩はれ旭日に映して恰も銀山のことし、尤快然の想をなせり、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 午時\n       </time> 頃 <placename corresp=\"#place_伊豆\"> 伊豆 </placename> 七島を際して〓行す、 <placename corresp=\"#place_浦賀\"> 浦賀 </placename> 港を船の左辺に認む、追々相房の湾口に入る、第 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.2475,
+                    "lon": 139.713972,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時\n       </time> 頃 <placename corresp=\"#place_本牧\"> 本牧 </placename> の鼻を〓行す、初而 <placename corresp=\"#place_横浜\"> 横賓《（浜）》 </placename> の湾を認む、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:30:00",
+                    "text": "<time when=\"16:30:00\"> 四時半 </time>\n<placename corresp=\"#place_横浜\"> 横賓 </placename> 御着船、直ニ <placename corresp=\"#place_駿府\"> 駿府\n       </placename> より罷出し御迎として、 <persname corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n<forename> 愛蔵 </forename>\n</persname> 、 <persname corresp=\"#pers_浜中儀左衛門\">\n<surname> 浜中 </surname>\n<forename> 儀左衛門 </forename>\n</persname> 罷出る、其外 <persname corresp=\"#pers_塩田三郎\">\n<surname> 塩田 </surname>\n<forename> 三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_保科俊太郎\">\n<surname> 保科 </surname>\n<forename> 俊太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_川路寛堂\">\n<surname> 川路 </surname>\n<forename> 太郎 </forename>\n</persname> 抔、或は仏国士官に雇はれ居り又は帰田せしとて様々の姿ニ而罷出る、仏国公使の使として治部助といふ通弁官罷出る但仏人なり、公使館御訊問の儀申上る、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半 </time> 御越之積、答差遣す、水戸表より罷出し御迎之者、手筈打合として <persname corresp=\"#pers_井坂泉太郎\">\n<surname> 井坂 </surname>\n<forename> 泉太郎 </forename>\n</persname> 上陸、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time> 頃御迎之者一同帰来る、夜に入たれは仏公使御訊問は御見合ニ而直ニ御上陸、小舟ニ而\n        <placename corresp=\"#place_神奈川\"> 神奈川 </placename> 御越、 <persname corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n<forename> 愛蔵 </forename>\n</persname> 諸事取扱として御供いたす <lb></lb>\n<persname corresp=\"#pers_渋沢栄一\">\n<surname> 渋沢 </surname>\n<forename> 篤太夫 </forename>\n</persname> 、 <persname corresp=\"#pers_浜中儀左衛門\">\n<surname> 浜中 </surname>\n<forename> 儀左衛門 </forename>\n</persname> は <placename corresp=\"#place_横浜\"> 横賓 </placename> 上陸、明日荷物請取方御為替取組の手筈のため、同所一泊いたす <lb></lb>\n<persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤太夫 </forename>\n</persname> 、夜、 <persname corresp=\"#pers_川路寛堂\">\n<surname> 川路 </surname>\n<forename> 太郎 </forename>\n</persname> 旅宿を <placename corresp=\"#place_横浜\"> 横浜 </placename> ニ而訊問、 <persname corresp=\"#pers_田辺太一\">\n<surname> 田辺 </surname>\n<forename> 太一 </forename>\n</persname> 罷来り、終夜旧情を話す <lb></lb> 此夜 <persname corresp=\"#pers_儀左衛門\">\n<forename> 儀左衛門 </forename>\n</persname> は小舟もて <placename corresp=\"#place_神奈川\"> 神奈川 </placename> へ罷越す "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

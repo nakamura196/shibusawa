@@ -1,0 +1,73 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-03-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ書類ヲ整理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_葵町\"> 葵町 </placename>\n<persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏ヲ訪ヒ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> 事務ニ関シテ雇外国人 <persname corresp=\"#pers_フライグ\">\n<surname> フライグ </surname>\n</persname> ト会話ス、畢テ <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏ノ博物館ヲ一覧シ、再ヒ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <persname corresp=\"#pers_西郷\">\n<surname> 西郷 </surname>\n</persname> 侯爵 <persname corresp=\"#pers_田健次郎\">\n<surname> 田 </surname>\n<forename> 健次郎 </forename>\n</persname> 氏《（ <persname corresp=\"#pers_田健治郎\">\n<surname> 田 </surname>\n<forename> 健治郎 </forename>\n</persname> 氏）》等来訪ニ接ス、畢テ <orgname> 第一銀行 </orgname> 重役会ヲ開ク、閉会後 <persname corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persname> 、 <persname corresp=\"#pers_大川平三郎\">\n<surname> 大川 </surname>\n<forename> 平三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_田中栄八郎\">\n<surname> 田中 </surname>\n<forename> 栄八 </forename>\n</persname> 《（郎脱・ <persname corresp=\"#pers_田中栄八郎\">\n<surname> 田中 </surname>\n<forename> 栄八郎 </forename>\n</persname> ）》ノ諸氏ト会社事務ヲ協議シ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

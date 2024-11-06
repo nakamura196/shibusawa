@@ -1,0 +1,96 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-10-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、直ニ入浴シ、畢テ日記ヲ編成ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       朝飧ヲ食シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n       市内ニアル鋼線製造会社ニ抵リ、場内各所ヲ巡覧ス、鋼線ノ細キモノハ〓糸ノ如キニ至ル、実ニ巧緻ト云フベシ、一覧畢リテ公園ニ抵リ、草木培養ノ事ヲ説明セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 過青年会ノ案内ニテ商業会議所ニ抵リテ会員ト会シテ午飧ヲ共ニス、食後、一場ノ演説ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 旅宿ニ帰リ、更ニ <persname corresp=\"#pers_頭本元貞\">\n<surname> 頭本 </surname>\n</persname> 氏ト共ニ <persname corresp=\"#pers_ヘリツク\">\n<surname> ヘリツク </surname>\n</persname>\n       氏ノ銀行ヲ一覧シ、又、他ノ銀行ニ抵リテ市内電車鉄道ニ関スル処置ノ事ヲ聞ク、後、自働車ニテ十哩余ノ田舎ニ赴キ、養老院及感化院ヲ見ル、合計人員約七八百人其経費ハ市ヨリ支出スト云フ、一覧畢リテ帰宿シ、此夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 七時半 </time> 商業会議所ノ催ニ係ル宴会ニ出席ス、有名ノ <persname corresp=\"#pers_ロツクヘーラー\">\n<surname> ロツクヘーラー </surname>\n</persname> 氏参席シテ種々ノ談話ヲ為ス、会頭ノ演説ニ次テ一場ノ答辞ヲ述ヘ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散会、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1909-10-05T00:00+0900\"> 十二時 </time> 汽車ニ帰リ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1909-10-05T01:00+0900\">\n        午後一時 </time> 就寝、汽車夜中ニ <placename corresp=\"#place_ダンキルク\"> ダンキルク </placename> ニ向テ進行ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

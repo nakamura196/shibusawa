@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-06-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、後、雑誌記者ノ来訪ニ接シテ経済談ヲ為ス、 <placename corresp=\"#place_札幌\"> 札幌 </placename> 農学校長 <persname corresp=\"#pers_佐藤昌介\">\n<surname> 佐藤 </surname>\n<forename> 昌介 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_福島甲子三\">\n<surname> 福島 </surname>\n<forename> 甲子三 </forename>\n</persname> 、 <persname corresp=\"#pers_江間政発\">\n<surname> 江間 </surname>\n<forename> 政発 </forename>\n</persname>\n<persname corresp=\"#pers_円城寺\">\n<surname> 円城寺 </surname>\n</persname> 某、 <persname corresp=\"#pers_中村\">\n<surname> 中村 </surname>\n</persname> 鎌雄等前後来訪ス、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 京城支店 <persname corresp=\"#pers_竹山純平\">\n<surname> 竹山 </surname>\n<forename> 純平 </forename>\n</persname> 氏来ル、今日帰任ノ由ニテ、 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 、 <persname corresp=\"#pers_岡崎\">\n<surname> 岡崎 </surname>\n</persname> 氏等ヘ要務ヲ伝言ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<placename corresp=\"#place_インド\"> 印度 </placename>\n<persname corresp=\"#pers_モルバンヂ\"> モルバンヂ </persname> 王及 <placename corresp=\"#place_インド\"> 印度\n       </placename> 人数名来ル、午飧ニ招宴セシニヨル、 <persname corresp=\"#pers_神田\">\n<surname> 神田 </surname>\n</persname> 、 <persname corresp=\"#pers_桜井\">\n<surname> 桜井 </surname>\n</persname> 二氏来会ス、一同庭園ヲ散歩シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 21.0,
+                    "lon": 78.0,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time> 書院ニ於テ午飧ヲ饗シ、三曲ノ余興アリテ後絵画ヲ展観シ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 散会ス、後、 <persname corresp=\"#pers_成瀬仁蔵\">\n<surname> 成瀬 </surname>\n<forename> 仁蔵 </forename>\n</persname> 氏来話ス、夜食後、雑誌類ヲ読マシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-05-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 甲板上ニ於テ船長ト談話ス、午後 <placename corresp=\"#place_サンフランシスコ\"> 桑港 </placename> 到着後本邦ニ発スル書状ヲ裁ス、一ハ <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ニ、一ハ <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 氏ニ宛ルモノナリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 37.76667,
+                    "lon": -122.43333,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 過キヨリ仮装会開会ス、船中ノ乗客多ク之ニ加ハル、余ハ\n        <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ本邦服装ニテ出席ス、余カ一行中或ハ維新前ノ日本男子及日本婦人ニ扮スルモノ、韓人ニ仮装スルモノ、衣冠ヲ着ケテ天満宮ニ擬スルモノ、鬚長キニヨリテ\n        <persname corresp=\"#pers_関雲長\">\n<surname> 関 </surname>\n<forename> 雲長 </forename>\n</persname> ニ粧ヒ青竜刀ヲ提クルモノ、其他同船ノ外客ニシテ本邦人又ハ印度人ニ仮装スルモノ及種々ノ服装ヲ為シテ頗ル奇観ヲ極メ衆皆興ニ入ル、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 七時半 </time> 一同食卓ニ就キ、食後再ヒ甲板上ニ於テ舞踏ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 寝ニ就ク\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

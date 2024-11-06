@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-05-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、風邪尚未タ愈ヘサルヲ以テ出勤スルヲ得ス、朝、ブラオン商会 <persname corresp=\"#pers_ウエルソン\">\n<surname> ウエルソン </surname>\n</persname> 氏来ル、仏国 <persname corresp=\"#pers_カン\">\n<surname> カン </surname>\n</persname> 氏ヨリノ電報アリタルヲ以テナリ、依テ面会ノ上其来意ニ応シ、曾テ <persname corresp=\"#pers_カン\">\n<surname> カン </surname>\n</persname> 氏ニ於テ買入置キタル <orgname> 第一銀行 </orgname> 株式四百三十個ノ半額弐百十五個ヲ売却シ、其代金ヲ以テ <orgname> 台湾銀行\n       </orgname> 株引受ノ事ヲ取扱フ <lb></lb> （欄外） <lb></lb> ［夕方 <persname corresp=\"#pers_皆川\">\n<surname> 皆川 </surname>\n</persname> 氏来ル、 <persname corresp=\"#pers_日置藤夫\">\n<surname> 日置 </surname>\n<forename> 藤夫 </forename>\n</persname> 氏身上ノ事ヲ話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

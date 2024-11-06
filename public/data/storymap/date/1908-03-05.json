@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-03-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、昨日ヨリ腹部ヲ損シ、夜中数回ノ下痢アリシニヨリ、先ツ腰湯ヲ為シテ後、褥中ニ在テ療養ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 朝飧ヲ食ス、 <persname corresp=\"#pers_岸宇吉\">\n<surname> 岸 </surname>\n<forename> 宇吉 </forename>\n</persname> 及 <persname corresp=\"#pers_高野徳平\">\n<surname> 高野 </surname>\n<forename> 徳平 </forename>\n</persname> ノ嗣子来訪ス、褥中接見談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 、 <persname corresp=\"#pers_早速\">\n<surname> 早速 </surname>\n</persname> 、 <persname corresp=\"#pers_土肥\">\n<surname> 土肥 </surname>\n</persname> 二氏来リ、東京帽子会社ノ事ヲ談ス <lb></lb>\n<persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 氏ヨリ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 集会所ニ来会ノ電話アレトモ、病ノ為メ謝絶ス、今夕、 <persname corresp=\"#pers_馬越\">\n<surname> 馬越 </surname>\n</persname> 氏ヨリ常盤屋ヘノ招宴、及 <orgname> 石川島造船所 </orgname> 株主総会、又白耳義会、 <orgname> 第一銀行 </orgname>\n       重役会等、総テ出席シカタキヲ以テ電話ヲ以テ断リ遣ハス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

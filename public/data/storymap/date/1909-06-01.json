@@ -1,0 +1,108 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-06-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、庭園ヲ散歩シ、後、入浴ス、畢テ朝飧ヲ食ス、又、来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\">\n        午前九時 </time>\n<orgname> 女子大学 </orgname> ニ抵リ評議員会ヲ開ク、 <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 、 <persname corresp=\"#pers_森村\">\n<surname> 森村 </surname>\n</persname> ノ諸氏来会ス、畢テ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ニ抵リ、来人ニ接シ、又、事務ヲ処理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニテ午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 公爵ヲ訪ヒ、 <placename corresp=\"#place_京城府\"> 京城 </placename> 電気鉄道ノ事ヲ談ス、 <persname corresp=\"#pers_白石\">\n<surname> 白石 </surname>\n</persname> 、 <persname corresp=\"#pers_久米\">\n<surname> 久米 </surname>\n</persname> 、 <persname corresp=\"#pers_岡崎\">\n<surname> 岡崎 </surname>\n</persname> 三氏同行ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> ロセツタ号船舶ニテ開設スル <orgname> 東京瓦斯会社\n       </orgname> 同好会ノ宴会ニ出席ス、一場ノ謝詞ヲ述ヘ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ、高商同窓会ノ催ニ係ル宴会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 七時半 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リ、 <orgname> 六十九銀行 </orgname> ヨリノ招宴ニ出席ス、\n        <orgname> 第一銀行 </orgname> ノ諸氏多ク来会ス、余興アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 午後九時 </time> 散会、帰途\n        <placename corresp=\"#place_本郷\"> 本郷 </placename> ニ立寄リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、 <persname corresp=\"#pers_阪本則美\">\n<surname> 阪本 </surname>\n<forename> 則美 </forename>\n</persname> 氏来リ、 <placename corresp=\"#place_北海道\"> 北海道 </placename>\n       鉄道会社ノ諸計算決了ニ付爾来ノ添心ヲ謝スル為メ金員物品ヲ送与セラル "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 43.064333,
+                    "lon": 141.346889,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

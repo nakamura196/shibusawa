@@ -1,0 +1,113 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-05-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後身体ヲ摩擦シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 七時半 </time> 朝飧ヲ喫ス、保険銀行新報社 <persname corresp=\"#pers_五十嵐栄吉\">\n<surname> 五十嵐 </surname>\n<forename> 栄吉 </forename>\n</persname>\n<persname corresp=\"#pers_横川回天\">\n<surname> 横川 </surname>\n<forename> 回天 </forename>\n</persname> 二氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 家ヲ出テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 発ノ汽車ニテ <placename corresp=\"#place_大磯町\"> 大磯\n       </placename> ニ抵リ、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 侯爵ノ義親王招宴ニ陪席ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 頃 <placename corresp=\"#place_大磯町\"> 大磯 </placename> 着、侯爵邸前ニハ小学生徒相集リ各小国籏ヲ持チ道ノ両側ニ立テ万歳ヲ祝ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> ヨリ開宴、酒間、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 侯、義親王各立テ両国陛下ノ寿抔ヲ挙ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:10:00",
+                    "text": "<time when=\"16:10:00\"> 午後四時十分 </time>\n<placename corresp=\"#place_大磯町\"> 大磯 </placename> 発ノ汽車ニテ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半 </time>\n<placename corresp=\"#place_東京\"> 東京 </placename> ニ達シ、夫ヨリ <placename corresp=\"#place_築地\"> 築地\n       </placename> 瓢屋ニ開キタル <persname corresp=\"#pers_加藤正義\">\n<surname> 加藤 </surname>\n<forename> 正義 </forename>\n</persname> 氏欧米行ノ送別会ニ出席ス、来会スル者十八名許リ、各歓ヲ尽シ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 過 <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

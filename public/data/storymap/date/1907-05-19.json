@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-05-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後庭園ヲ散歩シ、本日ノ来客ニ対スル設備ノ事ヲ家人ニ指揮ス、 <persname corresp=\"#pers_中村秋香\">\n<surname> 中村 </surname>\n<forename> 秋香 </forename>\n</persname> 氏ノ歌集ニ題スル歌一首ヲ書シテ <persname corresp=\"#pers_穂積歌子\">\n<surname> 穂積 </surname>\n<forename> 歌子 </forename>\n</persname> ニ送ル、 <persname corresp=\"#pers_尾高惇忠\">\n<surname> 尾高 </surname>\n<forename> 藍香 </forename>\n</persname> 翁ノ性行ヲ過日演説セシ筆記ヲ修正ス <lb></lb>\n<persname corresp=\"#pers_山本徳尚\">\n<surname> 山本 </surname>\n<forename> 徳尚 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<persname corresp=\"#pers_土岐〓\">\n<surname> 土岐 </surname>\n<forename> 〓 </forename>\n</persname> 氏来リテ <placename corresp=\"#place_平壌\"> 平壌 </placename>\n<placename corresp=\"#place_南浦特別市\"> 鎮南浦 </placename> 電気鉄道ノ事ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 39.031859,
+                    "lon": 125.753765,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時\n       </time> 頃ヨリ <orgname> 第一銀行 </orgname> 本支店ノ行員及丸喜商店員等多人数ヲ招宴ス、 <persname corresp=\"#pers_中川\">\n<surname> 中川 </surname>\n</persname> 碁伯其他種々ノ余興アリ、一同歓ヲ尽シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n       散会ス頃日来ノ所労聊怠リタルヲ以テ、此日ハ終日来客ニ接遇スルヲ得タリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

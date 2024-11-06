@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-09-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 過 <placename corresp=\"#place_チユラン\"> チユラン\n       </placename> ヲ発シ、 <placename corresp=\"#place_ゼノア港\"> ゼノア港 </placename> 、 <placename corresp=\"#place_ピーザ\"> ピーザ </placename> 市等ヲ経テ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_ローマ\"> 羅馬 </placename> ニ着ス、停車場ニハ <persname corresp=\"#pers_市来\">\n<surname> 市来 </surname>\n</persname> 書記官、 <persname corresp=\"#pers_甘利\">\n<surname> 甘利 </surname>\n</persname> 書記生等来リ迎フ、直ニ公使館ノ馬車ニテホテル・ド・キーナールニ投宿ス、此夜 <placename corresp=\"#place_里昂\"> 里昂\n       </placename> ニ於テ汽車ニ托セシ荷物到着セサルニヨリ、 <persname corresp=\"#pers_井上金治郎\">\n<surname> 井上 </surname>\n<forename> 金治郎 </forename>\n</persname> 氏頻ニ苦配シテ各停車場ニ電報シテ其所在ヲ問合ハス <lb></lb> （欄外） <lb></lb> ■■[img図]〓■ <placename corresp=\"#place_チユラン\"> チユラン </placename> ヲ過キ、 <placename corresp=\"#place_ゼノワ\"> ゼノワ\n       </placename> 、 <placename corresp=\"#place_ピーザ\"> ピーザ </placename> ニ至レハ、気候全ク <placename corresp=\"#place_フランス\"> 仏国 </placename> ト異リテ残暑頗ル強キヲ覚フ、 <placename corresp=\"#place_ローマ\"> 羅馬\n       </placename> ニ於テハ恰モ本邦 <date evidence=\"year inferenced, day\" when=\"1902-08\"> 八月 </date> 頃ノ暑熱アリ\n      "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 41.89306,
+                    "lon": 12.48278,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

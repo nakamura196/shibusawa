@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-03-24",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<persname corresp=\"#pers_荒木民三郎\">\n<surname> 荒木 </surname>\n<forename> 民三郎 </forename>\n</persname> 来ル、其身上ノ事ヲ談ス、 <persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> 氏来ル、横浜支店ノ概況ヲ談話ス、 <persname corresp=\"#pers_児玉春房\">\n<surname> 児玉 </surname>\n<forename> 春房 </forename>\n</persname> 来ル、 <orgname> 広島水力電気会社 </orgname> ノ事ヲ談ス、此日ハ休日ナリシヲ以テ家ニ在テ演説筆記ノ修正ニ勉ム、 <persname corresp=\"#pers_荒木民三郎\">\n<surname> 荒木 </surname>\n<forename> 民三郎 </forename>\n</persname> ヘ説諭ノ趣旨ヲ書面ニテ <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 氏ヘ通知ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-01-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シテ後朝飧ヲ食ス、畢テ <persname corresp=\"#pers_原小太郎\">\n<surname> 原 </surname>\n<forename> 小太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_磯江潤\">\n<surname> 磯江 </surname>\n<forename> 潤 </forename>\n</persname> 氏等ノ来訪ニ接ス、又、 <persname corresp=\"#pers_大竹貫一\">\n<surname> 大竹 </surname>\n<forename> 貫一 </forename>\n</persname> 氏来リ、水害救助ノ事ニ関シ地方人ヲ代表シテ感謝状ヲ持参ス、来状二三アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 午前十時半 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <persname corresp=\"#pers_平岡熙\">\n<surname> 平岡 </surname>\n<forename> 熙 </forename>\n</persname> 氏ノ来訪ニ接シ汽車会社ノ事ヲ談ス、 <persname corresp=\"#pers_瓜生震\">\n<surname> 瓜生 </surname>\n<forename> 震 </forename>\n</persname> 氏来訪、同シク汽車会社ノ事ヲ談ス <lb></lb>\n<persname corresp=\"#pers_加藤増雄\">\n<surname> 加藤 </surname>\n<forename> 増雄 </forename>\n</persname> 氏来、会社設立ノ事ニ関シテ種々ノ談話アリシモ、其関係ヲ謝絶ス、 <persname corresp=\"#pers_堀江\">\n<surname> 堀江 </surname>\n</persname> 氏来リ <placename corresp=\"#place_京城府\"> 京城 </placename> 水道ノ事ニ付経過ヲ報告ス、 <persname corresp=\"#pers_白石直次\">\n<surname> 白石 </surname>\n<forename> 直次 </forename>\n</persname> 氏ヨリ電報ノ往復アリ <lb></lb>\n<persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏来話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リ、浅野セメント会社総会ニ出席ス、畢テ夜飧シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time> 過帰宿ス、夜、 <persname corresp=\"#pers_皆川\">\n<surname> 皆川 </surname>\n</persname> 氏来リテ新約全書ヲ会読ス、 <persname corresp=\"#pers_明石\">\n<surname> 明石 </surname>\n</persname> 夫妻モ来会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

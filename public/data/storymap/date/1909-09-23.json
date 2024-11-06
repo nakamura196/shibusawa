@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-09-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床入浴シ、畢テ支度ヲ整ヒ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       朝飧ヲ食ス、後、自働車ニテ湖水ニ沿フタル公園ヲ経テアルムスチヤルマス云《（ト脱）》フ鉄工所ニ抵リ場内ヲ一覧ス、構造壮大ニシテ頗ル整頓ス、工場ノ敷地三十六ヱーカーアリト云フ、起業費六百万弗ニシテ一ケ年ノ事業高弐千五百万弗ナリト云フ一覧畢テ工場内ノ倶楽部ニ於テ午飧シ、一場ノ答辞演説ヲ為シ、夫ヨリ市役所、商業会議所、穀物取引所、廃兵院等ヲ一覧シ、取引所ニテ一場ノ挨拶ヲ述ヘ、夕\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n       旅宿ニ帰ル、晩飧後、当地ニ於テ新築セシ公会堂ニ於テ催ス処ノ音楽会ニ抵ル、来会者七八千人ナリト云フ、頗ル盛会ナリキ、畢テ直ニ汽車ニ搭シテ <placename corresp=\"#place_シカゴ\"> 市加古 </placename> ニ向テ発車ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 41.9,
+                    "lon": -87.65,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

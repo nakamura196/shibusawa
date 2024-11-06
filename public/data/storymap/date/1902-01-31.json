@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-01-31",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 過\n        <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵ル、 <persname corresp=\"#pers_仙石貢\">\n<surname> 仙石 </surname>\n<forename> 貢 </forename>\n</persname> 氏来リ、鉄道抵当法案ノ事ヲ談ス、依テ <persname corresp=\"#pers_今村\">\n<surname> 今村 </surname>\n</persname> 氏ヲ招致シ共ニ謀リテ明日 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 総理訪問ノ事ヲ約ス、京仁鉄道会社々員会ヲ開ク、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 、 <persname corresp=\"#pers_大倉喜八郎\">\n<surname> 大倉 </surname>\n<forename> 喜八郎 </forename>\n</persname> 、 <persname corresp=\"#pers_今村清之助\">\n<surname> 今村 </surname>\n<forename> 清之助 </forename>\n</persname> 、 <persname corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persname> 来会ス、都而原案ニ決定シテ会ヲ閉ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ水力電気会社ノ重役会ニ列ス、 <persname corresp=\"#pers_富田鐵之助\">\n<surname> 富田 </surname>\n<forename> 鉄之助 </forename>\n</persname> 、 <persname corresp=\"#pers_大倉喜八郎\">\n<surname> 大倉 </surname>\n<forename> 喜八郎 </forename>\n</persname> 、 <persname corresp=\"#pers_柿沼谷蔵\">\n<surname> 柿沼 </surname>\n<forename> 谷蔵 </forename>\n</persname> 、 <persname corresp=\"#pers_福島甲子三\">\n<surname> 福島 </surname>\n<forename> 甲子三 </forename>\n</persname> 氏等来会ス、畢テ <persname corresp=\"#pers_神谷\">\n<surname> 神谷 </surname>\n</persname> 氏ト談話シ更ニ喜賓会ノ事務ニ関シ <persname corresp=\"#pers_南貞助\">\n<surname> 南 </surname>\n<forename> 貞助 </forename>\n</persname> 氏ト談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ抵リ <persname corresp=\"#pers_前田青莎\">\n<surname> 前田 </surname>\n<forename> 青莎 </forename>\n</persname>\n<persname corresp=\"#pers_二橋元長\">\n<surname> 二橋 </surname>\n<forename> 元長 </forename>\n</persname> 氏等ヘ書状ヲ発ス、明日催ス処ノ英人ミツチヱル氏送別会席次ニ関シ宮内大臣ヨリ来書アリ、尋テ <persname corresp=\"#pers_長崎省吾\">\n<surname> 長崎 </surname>\n<forename> 省吾 </forename>\n</persname> 氏来リテ席次ノ事ヲ談ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time> 過 <placename corresp=\"#place_浜町\">\n        浜町 </placename> 宅ニ帰宿ス、此夜、 <persname corresp=\"#pers_安川敬一郎\">\n<surname> 安川 </surname>\n<forename> 敬一郎 </forename>\n</persname> 氏其男 <persname corresp=\"#pers_阿部\">\n<surname> 阿部 </surname>\n</persname> 氏ト結婚ノ祝宴アリテ紅葉館ニ招待セラレシモ、差支アリテ之ヲ謝絶ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

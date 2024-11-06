@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-10-31",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、午前神戸市長 <persname corresp=\"#pers_鳴瀧幸恭\">\n<surname> 鳴滝 </surname>\n</persname> 氏、商業会議所会頭 <persname corresp=\"#pers_山本亀太郎\">\n<surname> 山本 </surname>\n<forename> 亀太郎 </forename>\n</persname> ノ諸氏来ル、監査役 <persname corresp=\"#pers_須藤時一郎\">\n<surname> 須藤 </surname>\n<forename> 時一郎 </forename>\n</persname> 、取締役 <persname corresp=\"#pers_熊谷辰太郎\">\n<surname> 熊谷 </surname>\n<forename> 辰太郎 </forename>\n</persname> 来ル、其他銀行及会社ノ諸員来リテ行ヲ送ル者甚タ多シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n       埠頭ニ抵リ小蒸気船ニテ本船玄海丸ニ搭ス、一行六人、外ニ内外ノ旅客頗ル多ク船中雑沓セリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n       送別ノ人悉ク船ヲ去ル、尋テ船進行ヲ始ム、有名ナル <placename corresp=\"#place_須磨\"> 須磨 </placename> 、 <placename corresp=\"#place_明石\"> 明石 </placename> 、 <placename corresp=\"#place_淡路島\"> 淡路島 </placename>\n       ノ勝景モ雲霧ノ間ニ出没セリ、雨弥強ク風光ヲ見ル能ハス、空ク船室内ニ在テ雑談スルノミナリ、夜ニ入ルモ雨猶歇マス四顧暗淡タリ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.383,
+                    "lon": 134.833,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

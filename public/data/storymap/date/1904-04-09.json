@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1904-04-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、朝飧後 <persname corresp=\"#pers_土屋\">\n<surname> 土屋 </surname>\n</persname> 医師ノ診察ヲ受ク、 <persname corresp=\"#pers_中村\">\n<surname> 中村 </surname>\n</persname> 氏来話ス、皆 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:39:00",
+                    "text": "<time when=\"09:39:00\"> 九時三十九分 </time> 発ノ列車ヲ以テ帰京セラル、 <persname corresp=\"#pers_堀越善重郎\">\n<surname> 堀越 </surname>\n<forename> 善重郎 </forename>\n</persname> 氏ヨリ書状来ル、午後 <placename corresp=\"#place_東京\"> 東京 </placename>\n<persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 宛ノ書状ヲ発送ス、 <persname corresp=\"#pers_堀越\">\n<surname> 堀越 </surname>\n</persname> 氏ヘノ返書ヲ封入ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 市街及海辺ヲ散歩ス、夕方法帖ノ習字ヲ試ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

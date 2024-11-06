@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-01-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time>\n       起床、半身浴ヲ為シテ後、家人ト共ニ屠蘇酒ノ祝盃ヲ挙ク、朝飧後種々ノ祝賀客ニ接ス、延暦寺大僧正来訪セラル、本年ヨリ住職スルトノ事ナリ、且、本年ハ <placename corresp=\"#place_比叡\"> 比叡 </placename> 登山ノ事ヲ勧誘セラル、 <persname corresp=\"#pers_織田一\">\n<surname> 織田 </surname>\n<forename> 一 </forename>\n</persname> 氏来リ、一昨年開催セシ生産調査会ニ於テ調査セシ事項ノ成績ヲ調査シタル書類ヲ携帯シテ其手続ヲ説明セラル、 <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 夫妻、 <persname corresp=\"#pers_成瀬\">\n<surname> 成瀬 </surname>\n</persname> 校長、 <persname corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persname> 父子三人来訪ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> ヨリ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ、市内実業家ノ新年祝賀会ニ出席ス、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 男ノ <placename corresp=\"#place_支那\"> 支那 </placename> ニ関スル演説アリ、食卓上一場ノ祝賀演説ヲ為ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 過会食畢テ <placename corresp=\"#place_王子\"> 王子 </placename>\n       ニ帰宿、夜、児童等ト歌留多ノ遊戯ヲ為ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

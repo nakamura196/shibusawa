@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-01-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢リ二三ノ来状ヲ閲シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<placename corresp=\"#place_原町\"> 原町 </placename>\n<persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> ヲ訪ヒ <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 借款ノ件及会計法修正ノ件、銀行法改正案ノ件ヲ談ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵ル、 <persname corresp=\"#pers_郷隆三郎\">\n<surname> 郷 </surname>\n<forename> 隆三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_清水泰吉\">\n<surname> 清水 </surname>\n<forename> 泰吉 </forename>\n</persname> 、 <persname corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_戸田宇八\">\n<surname> 戸田 </surname>\n<forename> 宇八 </forename>\n</persname> ノ諸氏来ル、各其要務ヲ談話シ、午餐後外務省ニ於テ <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 公使、 <persname corresp=\"#pers_山座\">\n<surname> 山座 </surname>\n</persname> 公使書記官ト共ニ <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 借款手続ヲ談シ、去ル <date evidence=\"year inferenced, month\" when=\"1902-01-08\"> 八日 </date> 葉山ニ於テ口約セシ <orgname> 第一銀行\n       </orgname>\n       ノ決意ヲ確答ス、其要旨ハ（金額三百万円マデハ同行ノ担任ヲ以テ之ヲ引受ル事（一）、其貸出ノ手続ハ一昨年ブ氏ヨリ送ラレタル書面ノ如クシ、而シテ海関銀行トシテ取扱フ、年限ハ二十五年ト確定スル事ヲ要求スル事（二）、\n        <persname corresp=\"#pers_李容翊\">\n<surname> 李 </surname>\n<forename> 容翊 </forename>\n</persname> ノ企望ニ係ル資金ハ政府又ハ他ノ方法ヲ以テ其資金ヲ供給シ、 <orgname> 第一銀行 </orgname> ノ名ヲ以テ貸付スル事（三）、万一 <orgname>\n        第一銀行 </orgname> 引受ノ金額意外ニ早ク貸出ヲ要スル場合アレハ、其際ニハ政府ハ何分ノ補助尽力アルヘキ旨ヲ <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 公使ニ請ヘ、公使ヨリ予メ承諾ノ旨ヲ回答アルヘキ事（四）、等ヲ口約ス、畢テ <persname corresp=\"#pers_杉村\">\n<surname> 杉村 </surname>\n</persname> 通商局長ニ面会シ <placename corresp=\"#place_支那\"> 支那 </placename> 物品輸出ニ関スル税金ノ事ヲ談話シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ事務ヲ談シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 発ノ汽車ニテ <placename corresp=\"#place_大磯町\"> 大磯\n       </placename> ニ抵ル、 <placename corresp=\"#place_東京\"> 東京 </placename> ニテ <persname corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persname> 来リ煉瓦会社株主総会ノ事ヲ <date evidence=\"year inferenced, month\" when=\"1902-01-21\"> 廿一日\n       </date> ト定ムル事ヲ約ス、 <persname corresp=\"#pers_萩原源太郎\">\n<surname> 萩原 </surname>\n<forename> 源太郎 </forename>\n</persname> 来リ商業会議所ノ事ヲ談ス <lb></lb> 夜、 <placename corresp=\"#place_仙石原\"> 仙石原 </placename>\n<persname corresp=\"#pers_須永伝蔵\">\n<surname> 須永 </surname>\n<forename> 伝蔵 </forename>\n</persname> 来リ、牧場ノ景況ヲ談話ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

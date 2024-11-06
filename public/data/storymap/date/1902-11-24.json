@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-11-24",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 郵船会社臨時重役会ニ出席ス、畢テ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ於テ来人ニ接ス、午後大坂瓦斯会社ノ事ニ関シ米国人 <persname corresp=\"#pers_パリス\">\n<surname> パリス </surname>\n</persname> 及 <persname corresp=\"#pers_岸\">\n<surname> 岸 </surname>\n</persname> 、 <persname corresp=\"#pers_松原\">\n<surname> 松原 </surname>\n</persname> ノ両氏来話ス、夜同事件ニ付テ <persname corresp=\"#pers_内海\">\n<surname> 内海 </surname>\n</persname> 、内務大臣ヲ官邸ニ訪フテ種々ノ協議ヲ為ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 午後九時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

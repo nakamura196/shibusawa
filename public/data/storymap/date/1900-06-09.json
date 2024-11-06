@@ -1,0 +1,94 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-06-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 総理大臣邸ニ抵リ京釜鉄道会社設立ニ関スル勅令案及命令書案ノ事ヲ陳情ス、 <persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 大蔵、 <persname corresp=\"#pers_青木\">\n<surname> 青木 </surname>\n</persname> 外務、 <persname corresp=\"#pers_芳川\">\n<surname> 芳川 </surname>\n</persname> 逓信来会ス、委員ハ <persname corresp=\"#pers_竹内\">\n<surname> 竹内 </surname>\n</persname> 、 <persname corresp=\"#pers_尾崎\">\n<surname> 尾崎 </surname>\n</persname> 、 <persname corresp=\"#pers_日下\">\n<surname> 日下 </surname>\n</persname> ノ三氏同行ス、種々ノ雑談モアリテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 帰宅ス、昨日認残リタル <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 行書状ヲ裁ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<persname corresp=\"#pers_鹿島岩蔵\">\n<surname> 鹿島 </surname>\n<forename> 岩蔵 </forename>\n</persname> 氏ノ園遊会ニ抵ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 頃 <placename corresp=\"#place_深川\"> 深川\n       </placename> 宅ニ立寄リテ倉庫部ノ事ヲ <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ニ談話シ、且 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 老人ノ病ヲ訪ヒ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 銀行集会所ニ抵リ <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <persname corresp=\"#pers_波多野\">\n<surname> 波多野 </surname>\n</persname> 、 <persname corresp=\"#pers_三崎\">\n<surname> 三崎 </surname>\n</persname> 、 <persname corresp=\"#pers_池田\">\n<surname> 池田 </surname>\n</persname> ノ諸氏ト共ニ規程修正ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename> 香雪軒ニ抵リ <persname corresp=\"#pers_福原有信\">\n<surname> 福原 </surname>\n<forename> 有信 </forename>\n</persname>\n<placename corresp=\"#place_欧洲\"> 欧洲 </placename> 行ノ送別会ニ列ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

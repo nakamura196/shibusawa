@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-08-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ、朝飧ヲ食ス、後、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 氏来リテ、来ル <date evidence=\"year inferenced\" when=\"1910-09-01\"> 九月一日 </date>\n       ヨリ四区施療ノ手続ヲ協議ス、又、 <orgname> 女子大学 </orgname> ノ <persname corresp=\"#pers_堤\">\n<surname> 堤 </surname>\n</persname> 氏《（ <persname corresp=\"#pers_塘\">\n<surname> 塘 </surname>\n</persname> 氏）》来リ、 <placename corresp=\"#place_北越\"> 北越 </placename> 旅行中ノ経費分担割合ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ、 <orgname> 汽車製造会社 </orgname> 総会ニ出席ス、協議畢テ午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時\n       </time> 事務所ニ抵リ書類ヲ整理ス、 <placename corresp=\"#place_八基村\"> 八基村 </placename>\n<persname corresp=\"#pers_渋沢市郎\">\n<forename> 市郎 </forename>\n</persname> 来リテ水災ノ実況ヲ縷述シ、且寄附金分配ノ事ヲ談ス、浦賀船渠会社委員等来リ、同会社後任重役ノ事ニ関シ協議アリ、依テ <persname corresp=\"#pers_足立\">\n<surname> 足立 </surname>\n</persname> 氏ヲ招キ、明日実地一覧ノ事ヲ協議ス、夕 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 36.23331,
+                    "lon": 139.26167,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、夜、小説ヲ読マシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

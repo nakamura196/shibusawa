@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1886-12-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 <persname corresp=\"#pers_三井八郎右衛門\">\n<surname> 三井 </surname>\n<forename> 高朗 </forename>\n</persname> 氏来訪、 <persname corresp=\"#pers_中井三平\">\n<surname> 中井 </surname>\n<forename> 三平 </forename>\n</persname> 氏来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<persname corresp=\"#pers_三木安三郎\">\n<surname> 三木 </surname>\n<forename> 安三郎 </forename>\n</persname> ヲ伴ヒ <persname corresp=\"#pers_北垣\">\n<surname> 北垣 </surname>\n</persname> 府知事ヲ訪フ、 <persname corresp=\"#pers_尾越\">\n<surname> 尾越 </surname>\n</persname> 書記官、 <persname corresp=\"#pers_荒川新一郎\">\n<surname> 荒川 </surname>\n<forename> 新一郎 </forename>\n</persname> 、 <persname corresp=\"#pers_浜岡光哲\">\n<surname> 浜岡 </surname>\n<forename> 光哲 </forename>\n</persname> 、 <persname corresp=\"#pers_板原\">\n<surname> 板原 </surname>\n</persname> 等来会ス、午餐中織物会社創立ノ事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<persname corresp=\"#pers_三井\">\n<surname> 三井 </surname>\n</persname> 氏ノ招ニ応シテ四条橋ノ劇ヲ観ル、後、 <orgname> 井筒楼 </orgname> ニ夜餐ス、劇場 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏、 <persname corresp=\"#pers_磯野\">\n<surname> 磯野 </surname>\n</persname> 氏ニ会話ス、夜 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏ヲ <orgname> 万東楼 </orgname> ニ訪フ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-09-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、庭内ヲ散歩シ、入浴後朝飧ヲ為ス、食後各新聞紙ヲ一覧ス、畢テ書類ヲ整理ス、午飧後 <orgname> 第一銀行\n       </orgname> ニ抵リ重役会ヲ開ク、畢テ <persname corresp=\"#pers_高松豊吉\">\n<surname> 高松 </surname>\n<forename> 豊吉 </forename>\n</persname> 氏、 <persname corresp=\"#pers_谷七太郎\">\n<surname> 谷 </surname>\n<forename> 七太郎 </forename>\n</persname> 氏等ニ会話ス、 <persname corresp=\"#pers_南貞助\">\n<surname> 南 </surname>\n<forename> 貞助 </forename>\n</persname> 氏来リテ国事ニ関スル談話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n       過キ <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス、此日 <persname corresp=\"#pers_三井八郎右衛門\">\n<surname> 三井 </surname>\n<forename> 八郎右衛門 </forename>\n</persname> 氏ヨリ米国人 <persname corresp=\"#pers_エドワード_ヘンリー_ハリマン\">\n<surname> ハリマン </surname>\n</persname> 氏一行招宴ニ付テ案内アリタレトモ、世間騒然タルニヨリ延期ス <lb></lb>\n       頃日来引続キ市中騒擾シテ終ニ政府ハ戒厳令ヲ頒布《（マヽ）》スルニ至ル、実ニ浩歎ノ涯ナリ、想ハサリキ連戦連勝ノ我帝国ノ首府、敵兵ナキニ戦争ノ衢トナラントハ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

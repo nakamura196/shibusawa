@@ -1,0 +1,99 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-01-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time>\n       、寝ヲ離ル、昨夜ノ雨沢、樹上ニ在ルモノ凍テ雪トナリ、群樹悉ク銀ノ如ク頗ル奇観ナリシ、蓋シ朝来寒気ノ厳ナル識ルヘキナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       朝飧ヲ畢リ少時読書ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:08:00",
+                    "text": "<time when=\"10:08:00\"> 十時八分 </time> 発ノ汽車ニテ葉山ニ赴ク、大船ニテ汽車ヲ転シ、 <placename corresp=\"#place_逗子市\"> 逗子 </placename> ニ到テ汽車ヲ下リ腕車ヲ僦テ行ク、此日強風車中帽ヲ吹飛サレン事ヲ恐レ常ニ手ヲ以テ之ヲ護ス、\n        <placename corresp=\"#place_逗子市\"> 逗子 </placename> ヨリ壱里余ニシテ葉山ニ達ス、 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 総理大臣別荘ニ抵ル、主人家ニ在リ、暫クシテ <persname corresp=\"#pers_小村\">\n<surname> 小村 </surname>\n</persname> 外務大臣、林駐韓公使来会シ、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 借款ニ関スル将来ノ処置ヲ協議ス、\n        <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 公使ハ頻ニ <orgname> 第一銀行 </orgname> ハ此際速ニ海関抵当ヲ以テ三百万円ヲ貸付スルノ約ヲ締結セラルン事ヲ勧告ス、 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 、 <persname corresp=\"#pers_小村\">\n<surname> 小村 </surname>\n</persname> 二氏モ之ヲ賛成ス、依テ予ハ彼ノ <persname corresp=\"#pers_李容翊\">\n<surname> 李 </surname>\n<forename> 容翊 </forename>\n</persname> ノ企望ニ係ル借款ニシテ政府又ハ其他ニ於テ資金ヲ調成スルノ目的確実ナルニ於テハ、 <orgname> 第一銀行 </orgname>\n       モ亦決意スヘキ旨ヲ答フ、種々談論ノ末来ル <date evidence=\"year inferenced, month\" when=\"1902-01-11\"> 十一日 </date>\n       迄ニ決答スヘキヲ約シテ去ル <lb></lb> 此日本店 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ヨリ <placename corresp=\"#place_仁川\"> 仁川 </placename>\n<persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> ノ来状ヲ送致ス、蓋シ今日ノ談判ニ関係大ナルコトアルヲ以テナリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.29561,
+                    "lon": 139.58033,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 前 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 氏別荘ヲ辞シ、 <placename corresp=\"#place_逗子市\"> 逗子 </placename> 停車場ニ抵リ、途中一書ヲ裁シテ\n        <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ニ送ル、明後 <date evidence=\"year inferenced, month\" when=\"1902-01-10\"> 十日 </date>\n<orgname> 第一銀行 </orgname> 重役会ヲ開クヘキ事ヲ通知スル為ナリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.29561,
+                    "lon": 139.58033,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:30:00",
+                    "text": "<time when=\"16:30:00\"> 四時三十分 </time>\n<placename corresp=\"#place_逗子市\"> 逗子 </placename> 発ノ汽車ニテ <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 公使ト同乗シ、大船ニテ分祇シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.29561,
+                    "lon": 139.58033,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_大磯町\"> 大磯 </placename> 着、長生館ニ投宿ス、 <persname corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persname> ヨリ書状来ル "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

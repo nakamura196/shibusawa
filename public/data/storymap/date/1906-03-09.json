@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-03-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後書斎ニ於テ日誌ヲ整理シ書状ヲ裁ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 入浴、畢テ朝飧ヲ喫ス、 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 氏ヘ電話ヲ通ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 貴族院ニ抵リ <persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 総理大臣ニ面会シテ鉄道国有ニ関シ公債証書発行ノ時期ヲ談話ス、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 大蔵、 <persname corresp=\"#pers_山県\">\n<surname> 山県 </surname>\n</persname> 逓信共ニ之ヲ談ス、更ニ総理ニ湖南汽船会社ノ事ヲ談ス、別席ニ於テ <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 大蔵大臣、 <persname corresp=\"#pers_水町\">\n<surname> 水町 </surname>\n</persname> 理財局長ト共ニ <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 公債ニ関シ、 <persname corresp=\"#pers_目賀田\">\n<surname> 目賀田 </surname>\n</persname> ヨリ電報ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、食後要務ヲ談シ、畢テ事務所ニ抵リテ書類ヲ検閲ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ立寄リ <pb corresp=\"#pageB1410\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/436/full/max/0/default.jpg\" n=\"B1410\" source=\"#pageB1410\"></pb> 夜飧後、 <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename>\n       ニ帰宿ス <lb></lb> 此日 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<orgname> 女子大学校 </orgname> ニ抵リ、本年ノ卒業生徒ニ一場ノ訓示演説ヲ為ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

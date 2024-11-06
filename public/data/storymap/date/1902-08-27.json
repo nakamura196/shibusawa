@@ -1,0 +1,66 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-08-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 過 <placename corresp=\"#place_ベルリン\"> 伯林 </placename>\n       ニ着ス、汽車場ニハ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 公使其属僚ト共ニ来リ迎フ、相携フテ《（ヘ）》同地ノ旅舎カイゾルホフニ投宿ス、朝飧後 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 公使ト <placename corresp=\"#place_ベルリン\"> 伯林 </placename> 滞在中諸方訪問又ハ一覧等ノ手続ヲ協議シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 52.51639,
+                    "lon": 13.3775,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 公使館ノ吏員ノ案内ニテ <placename corresp=\"#place_ドイツ\"> 独乙 </placename>\n       帝室ニ属スル美術品陳列所ヲ一覧ス、午飧後更ニ公園ヲ巡視シ、動物園ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time> 帰宿ス <lb></lb> （欄外）\n       <lb></lb> ■■[img図]〓■男爵 <persname corresp=\"#pers_シーボルト\">\n<surname> シーホルト </surname>\n</persname> 旅宿ニ来リテ <placename corresp=\"#place_ベルリン\"> 伯林 </placename> ニ於ル経済界有名ノ人ニ会見ノ手続ヲ談話セラル\n      "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 52.51639,
+                    "lon": 13.3775,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

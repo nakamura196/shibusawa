@@ -1,0 +1,94 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-04-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、後、数多ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時\n       </time> 網島ニ <persname corresp=\"#pers_藤田平太郎\">\n<surname> 藤田 </surname>\n<forename> 平太郎 </forename>\n</persname> 氏ヲ訪ヘ故 <persname corresp=\"#pers_伝三郎\">\n<forename> 伝三郎 </forename>\n</persname> 氏ヲ追悼ス、霊前ニ香ヲ奠シテ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 大阪支店ニ抵リ店員一同ニ会見ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_堂島\"> 堂島 </placename> 門野ト云フ料理店ニ抵リ、地方銀行者ノ饗宴ニ出席ス、午飧後余興アリ、畢テ\n        <placename corresp=\"#place_大阪\"> 大阪 </placename> 川口ニ抵リ、 <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 氏ト共ニ築港ヲ一覧ス、川蒸汽船ニテ川口ヨリ港内ニ抵リ桟橋附近ニテ上陸ス、曾テ <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯ト共ニ一覧セシ時ヨリハ電車ノ聯絡、市街ノ開設等アリテ大ニ面目ヲ改メタルヲ覚フ、築港ヨリ電車ニ搭シテ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.6962694,
+                    "lon": 135.4942972,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_大阪\"> 大阪 </placename> ホテルニ抵リ、夫ヨリ同所ニ開カレタル経済会ニ出席ス、 <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 氏モ共ニ出席セラル、食後一場ノ演説ヲ為シ、経済上ニ付政府ノ施設ニ関シテ企望ヲ述フ、畢テ旅亭ニ帰リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時\n       </time> 過ヨリ <placename corresp=\"#place_梅田\"> 梅田 </placename> 停車場ニ抵リ、 <placename corresp=\"#place_東京\"> 東京 </placename> 行ノ汽車ニ搭シテ帰京ノ途ニ就ク、送別者頗ル多シ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.7005611,
+                    "lon": 135.4957444,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:35:00",
+                    "text": "<time when=\"23:35:00\"> 十一時三十五分 </time>\n<placename corresp=\"#place_大阪\"> 大阪 </placename> 発車ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

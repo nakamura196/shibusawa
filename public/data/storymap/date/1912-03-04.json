@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-03-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、半身浴ヲナシ、朝飧ヲ食ス、後、来書ヲ撿シ日記ヲ編成ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\">\n        午前十時半 </time> 事務所ニ抵リ書類ヲ調査ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、後、行員ト事務ヲ談ス、食後、事務所ニ於テ書状数通ヲ裁シテ諸方ニ送付ス、 <persname corresp=\"#pers_北原種忠\">\n<surname> 北原 </surname>\n<forename> 種忠 </forename>\n</persname> 氏ヘ一書ヲ送ル、 <persname corresp=\"#pers_中村歌右衛門_(5代目)\">\n<surname> 中村 </surname>\n<forename> 歌右衛門 </forename>\n</persname> ヘノ返書 <placename corresp=\"#place_熊本\"> 熊本 </placename> 県人ヘノ書状ヲ送付ス、 <persname corresp=\"#pers_渋沢元治\">\n<surname> 渋沢 </surname>\n<forename> 元治 </forename>\n</persname> 来リ話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 午後六時半 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宅シ、夜食後、御伝記ノ草稿ヲ撿閲ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1912-03-05T00:00+0900\"> 十二時 </time> 過就寝ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

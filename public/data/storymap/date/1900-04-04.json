@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-04-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前数多ノ来人ニ接ス、午後 <orgname> 第一銀行 </orgname> ニ出勤ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 大蔵省ニ抵リ\n        <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 両氏ニ面会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 二時半 </time>\n<placename corresp=\"#place_東京\"> 東京 </placename> 市庁《（府）》ニ於テ開キタル御慶事奉祝会ノ評議員内会議ニ列ス、畢テ郵船会社ニ抵リ\n        <persname corresp=\"#pers_岩永\">\n<surname> 岩永 </surname>\n</persname> 、 <persname corresp=\"#pers_須田\">\n<surname> 須田 </surname>\n</persname> 両氏ニ面会シテ寄附金ノ事、 <orgname> 石川島造船所 </orgname> ニ関スル談話ヲ為シ、更ニ三菱会社ニ抵リ <persname corresp=\"#pers_岩崎久弥\">\n<surname> 岩崎 </surname>\n<forename> 久弥 </forename>\n</persname> 氏、 <persname corresp=\"#pers_瓜生震\">\n<surname> 瓜生 </surname>\n<forename> 震 </forename>\n</persname> 氏ニ面会シテ御慶事ニ関スル寄附金ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 慈善会ノ演劇ニ出席シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 常盤屋ニ抵リ <persname corresp=\"#pers_高橋新吉\">\n<surname> 高橋 </surname>\n<forename> 新吉 </forename>\n</persname> 氏ノ宴会ニ列ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

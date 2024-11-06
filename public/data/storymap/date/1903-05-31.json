@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-05-31",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢リ来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<persname corresp=\"#pers_松浦\">\n<surname> 松浦 </surname>\n</persname> 伯爵邸ノ茶事ニ会ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 茶事畢テ <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス、此日茶事ニ来会スルハ <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 、 <persname corresp=\"#pers_園田孝吉\">\n<surname> 園田 </surname>\n<forename> 孝吉 </forename>\n</persname> 、 <persname corresp=\"#pers_有島武\">\n<surname> 有島 </surname>\n<forename> 武 </forename>\n</persname> 、 <persname corresp=\"#pers_吉田\">\n<surname> 吉田 </surname>\n</persname> 氏等ナリ、夜皆川夫人、 <persname corresp=\"#pers_竹田\">\n<surname> 竹田 </surname>\n</persname> 氏等来会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

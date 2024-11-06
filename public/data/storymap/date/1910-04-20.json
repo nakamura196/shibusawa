@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-04-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 過朝飧ヲ食ス、畢テ旅宿ヲ発シ、\n        <placename corresp=\"#place_尊具山\"> 尊具山 </placename> 、 <placename corresp=\"#place_片男波\"> 片男波\n       </placename> 、東照権現等ヲ参拝シ、又、電車ニテ <placename corresp=\"#place_紀三井寺\"> 紀三井寺 </placename>\n       ニ抵リ、寺院ニ入リテ少憩ス、地方銀行者等来リテ饗応ニ勉ム、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.185167,
+                    "lon": 135.190025,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 電車ニテ <placename corresp=\"#place_和歌山\"> 和歌山 </placename> ニ抵リ南海鉄道ニ搭シテ <placename corresp=\"#place_大阪\"> 大阪\n       </placename> ニ赴ク、車中午飧シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<placename corresp=\"#place_難波\"> 難波 </placename> 停車場ニ着ス、 <placename corresp=\"#place_大阪\"> 大阪\n       </placename> 人多ク来リ迎フ、伝法屋ニ抵リテ少憩ス、入浴後 <orgname> 灘万 </orgname> ニ抵リ、大阪支店ニ於テ開催シタル銀行者招待会ニ出席ス、\n        <persname corresp=\"#pers_小山\">\n<surname> 小山 </surname>\n</persname> 、 <persname corresp=\"#pers_町田\">\n<surname> 町田 </surname>\n</persname>\n<persname corresp=\"#pers_永田\">\n<surname> 永田 </surname>\n</persname> 其他十数人来リ会ス、席上一場ノ挨拶ヲ為シ、宴散シテ夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.6658083,
+                    "lon": 135.5010667,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 帰宿ス、後、 <placename corresp=\"#place_東京\"> 東京 </placename> ヨリ来着ノ信書ヲ一覧シテ、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ヘ回答書ヲ裁ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

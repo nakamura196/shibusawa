@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-07-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ、朝飧ヲ食ス、後、 <persname corresp=\"#pers_瓜生\">\n<surname> 瓜生 </surname>\n</persname> 修養団幹事ノ来訪ニ接シ、 <placename corresp=\"#place_静岡\"> 静岡 </placename> 県下 <placename corresp=\"#place_藤枝\"> 藤枝 </placename> 支部ヨリ請求ノ事ニ付 <date evidence=\"year inferenced, month\" when=\"1911-07-09\"> 本月九日 </date> 同地ヘ出張ヲ乞ハレシモ差支アルヲ以テ之ヲ謝絶ス、喜多院住職 <persname corresp=\"#pers_遠賀亮仲\">\n<surname> 遠賀 </surname>\n<forename> 亮中 </forename>\n</persname> 師来リ保勝会寄附金ノ事ヲ談話ス、後、書類ヲ整理シ日記ヲ編成シ、 <persname corresp=\"#pers_渋沢元治\">\n<surname> 渋沢 </surname>\n<forename> 元治 </forename>\n</persname> 氏 <persname corresp=\"#pers_矢代\">\n<surname> 矢代 </surname>\n</persname> 学生等来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time> 、 <persname corresp=\"#pers_渋沢秀雄\">\n<forename> 秀雄 </forename>\n</persname> 、 <persname corresp=\"#pers_矢代\">\n<surname> 矢代 </surname>\n</persname> 氏等ト自働車ニテ <placename corresp=\"#place_小川町\"> 小川町 </placename> ニ抵リ、更ニ事務所ニ於テ <persname corresp=\"#pers_原胤昭\">\n<surname> 原 </surname>\n<forename> 胤昭 </forename>\n</persname> 氏ニ面接シテ、来ル <date when=\"1911-07-05\"> 五日 </date> 会合ノ事ヲ協議ス、畢テ修養団 <persname corresp=\"#pers_蓮沼門三\">\n<surname> 蓮沼 </surname>\n<forename> 門三 </forename>\n</persname> 氏及 <placename corresp=\"#place_藤枝\"> 藤枝 </placename> 町 <persname corresp=\"#pers_橋本\">\n<surname> 橋本 </surname>\n</persname> 氏等ヘ書状ヲ発ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 36.05667,
+                    "lon": 139.26183,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> ニテ種々ノ訓戒ヲ為シ将来ノ家計ヲ指導ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\">\n        六時 </time>\n<placename corresp=\"#place_日本\"> 日本 </placename> 倶楽部ニ於テ <placename corresp=\"#place_日本\"> 日本\n       </placename> 畜産会社株主集合ノ宴会ニ出席シ、席上営業上ノ注意ヲ演説シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿ス、後、新聞紙ヲ読マシム\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

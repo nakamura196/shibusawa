@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-09-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、宿痾尚未タ愈ヘス熱気大ニ高シ、朝来 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ヲ招キテ本日ノ約束ニ係ル事務ニ付諸方ヘ伝言セシム、日本鉄道会社、岩越鉄道会社、京釜鉄道会社等三会社ノ重役ニ申通《（セ脱カ）》シム、午後 <persname corresp=\"#pers_阪谷琴子\">\n<surname> 阪谷 </surname>\n<forename> 琴子 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 等来ル、 <persname corresp=\"#pers_穂積歌子\">\n<surname> 穂積 </surname>\n<forename> 歌子 </forename>\n</persname> モ来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

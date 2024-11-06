@@ -1,0 +1,86 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-09-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1534\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/560/full/max/0/default.jpg\" n=\"B1534\" source=\"#pageB1534\"></pb>\n<lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:30:00",
+                    "text": "<time when=\"05:30:00\"> 午前五時半 </time> 起床、入浴シ、畢テ昨夜落手セシ <placename corresp=\"#place_東京\"> 東京\n       </placename> ヨリノ来状ヲ一覧ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 朝飧ヲ食シ、 <orgname> 盛岡銀行 </orgname>\n       重役等ノ来訪ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:40:00",
+                    "text": "<time when=\"07:40:00\"> 午前七時四十分 </time> 寓居ヲ出テ <placename corresp=\"#place_盛岡市\"> 盛岡\n       </placename> 停車場ニ抵リ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 39.70208,
+                    "lon": 141.1545,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:10:00",
+                    "text": "<time when=\"08:10:00\"> 八時十分 </time> 発ノ汽車ニ搭ス、車中海軍士官等ノ <placename corresp=\"#place_大湊\"> 大湊 </placename> ヨリ帰京スルアリテ頗ル雑沓セリ、 <placename corresp=\"#place_一関市\"> 一関\n       </placename> 駅ニ抵リテ <placename corresp=\"#place_仙台\"> 仙台 </placename>\n<orgname> 七十七銀行 </orgname>\n<persname corresp=\"#pers_神谷\">\n<surname> 神谷 </surname>\n</persname> 氏来リ迎フ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 38.93472,
+                    "lon": 141.12658,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_松島\"> 松島 </placename> 駅ニ抵リ、車ヲ下リテ <placename corresp=\"#place_松島\"> 松島\n       </placename> ニ抵ル、 <placename corresp=\"#place_松島\"> 松島 </placename> 館ニ投宿ス、館ハ本姓ヲ大宮司ト称シ、\n        <persname corresp=\"#pers_北条時頼\">\n<surname> 北条 </surname>\n<forename> 時頼 </forename>\n</persname> ノ頃ヨリ連綿トシテ此地ニ継続スルモノナリト云フ、午飧後、先ツ舟ニ乗リテ洲立テト唱フル方法ニテ海中ニ於テ魚ヲ捕ルヲ見ル、後、 <placename corresp=\"#place_松島\"> 松島 </placename> ノ名勝ヲ巡覧ス、瑞巌寺ニテハ廟宇及画幅等ヲ見ル、又、観瀾亭ニ抵リ、更ニ徒歩シテ雄島ニ抵ル、夜ニ入リテ\n        <persname corresp=\"#pers_神谷\">\n<surname> 神谷 </surname>\n</persname> 氏ノ催フセル湾上ノ流灯ヲ見ル、頗ル奇観ナリキ <lb></lb> 夜、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ヨリ電報アリ、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯ノ病状ヲ告ケ来ル、直ニ回答ヲ発ス、又、瓦斯会社 <persname corresp=\"#pers_高松\">\n<surname> 高松 </surname>\n</persname> 氏ノ来状ニ答フル為メ発電ス <lb></lb> （欄外） <lb></lb> ■■[img図]〓■雨中 <placename corresp=\"#place_松島\"> 松島\n       </placename> 湾に舟を浮へて <lb></lb> 月花のなかめはよそにまかせおきてあめにとひ来し松か <placename corresp=\"#place_浦島\"> 浦島\n       </placename>\n"
+                },
+                "location": {
+                    "line": true,
+                    "lat": 38.340528,
+                    "lon": 141.151972,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

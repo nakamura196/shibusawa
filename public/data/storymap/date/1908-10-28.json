@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-10-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、風邪未タ愈ヘス、入浴スルヲ得ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n       朝飧ヲ食ス、 <persname corresp=\"#pers_萩原源太郎\">\n<surname> 萩原 </surname>\n<forename> 源太郎 </forename>\n</persname> 氏来リ、 <orgname> 東京瓦斯会社 </orgname> ノ事ヲ談ス、終日褥中ニ在テ読書又ハ遊戯ニ閑ヲ消ス <lb></lb>\n       此日、三井集会所ニ招宴アリシモ、病ヲ以テ之ヲ謝ス <lb></lb>\n<persname corresp=\"#pers_脇田勇\">\n<surname> 脇田 </surname>\n<forename> 勇 </forename>\n</persname> 氏来リ、 <orgname> 宮城屋銀行 </orgname> ノ事ニ関シ、昨日集会談話セシ顚末ヲ述ヘラル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

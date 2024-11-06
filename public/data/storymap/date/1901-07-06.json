@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-07-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、午前東京市役所ニ抵リ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       艦隊歓迎ノ事ニ関シテ協議ス、然レトモ閣員ハ出席ヲ好マサル由ナルヲ以テ之ヲ開カサル事ト定メ、別ニ市ニ於テ歓迎ノ文ヲ具シ、市長ヨリ艦隊指令長官ニ送付スルノ案ヲ議シ <pb corresp=\"#pageB1201\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/227/full/max/0/default.jpg\" n=\"B1201\" source=\"#pageB1201\"></pb> テ散会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 宅ニ抵リ来人ニ接ス、 <orgname> 第一銀行 </orgname>\n<persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 二氏来ル、 <date evidence=\"year inferenced, month\" when=\"1901-07-07\"> 七日 </date> ヲ以テ\n        <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ来会ノ事ヲ通知ス、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 借款ニ関スル要件ヲ議スル為ナリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<persname corresp=\"#pers_呉大五郎\">\n<surname> 呉 </surname>\n<forename> 大五郎 </forename>\n</persname> 来ル、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 借款ノ取扱方ニ付内話アリ、之ヨリ先 <persname corresp=\"#pers_大三輪長兵衛\">\n<surname> 大三輪 </surname>\n<forename> 長兵衛 </forename>\n</persname> 氏ト市役所ニ於テ面会シ、同シク借款問題ニ関スル談話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_本所\"> 本所 </placename>\n<placename corresp=\"#place_錦糸町\"> 錦糸町 </placename> 平岡工場ニ抵リ <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_瓜生\">\n<surname> 瓜生 </surname>\n</persname> 、今村ノ諸氏ト共ニ同工場買収ニ関スル検閲ノ事ヲ為ス、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n       明治法律学校卒業証書授与式ニ列シ一場ノ法律演説ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

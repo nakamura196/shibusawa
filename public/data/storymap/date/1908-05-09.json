@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-05-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、食後二三来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時\n       </time> 日清汽船会社重役会ニ出席シ要務ヲ議決ス、畢テ <orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、食後、 <persname corresp=\"#pers_仙石\">\n<surname> 仙石 </surname>\n</persname> 、 <persname corresp=\"#pers_牛場\">\n<surname> 牛場 </surname>\n</persname> 、 <persname corresp=\"#pers_山田\">\n<surname> 山田 </surname>\n</persname> 、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 、 <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> ノ諸氏来リ、各鉄 <pb corresp=\"#pageB1510\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/536/full/max/0/default.jpg\" n=\"B1510\" source=\"#pageB1510\"></pb> 道会社ニ交付セラルヽ公債価格維持ニ関シ種々ノ依頼アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<orgname> 埼玉学生誘掖会 </orgname> ニ抵リ、総会ヲ開キ諸報告ヲ為ス、畢テ一場ノ演説ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<persname corresp=\"#pers_安楽\">\n<surname> 安楽 </surname>\n</persname> 警視総監ヨリ <persname corresp=\"#pers_松井吉太郎\">\n<surname> 松井 </surname>\n<forename> 吉太郎 </forename>\n</persname> 氏ヲ以テ <orgname> 宮城屋銀行 </orgname> ニ関シ <orgname> やまと新聞 </orgname> ニ於テ記載スル事ニ関シ問合アリ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 総会ヲ畢リテ <placename corresp=\"#place_日本橋\"> 日本橋 </placename>\n       倶楽部ニ抵リ懇親会ニ出席ス、 <persname corresp=\"#pers_島田\">\n<surname> 島田 </surname>\n</persname> 知事、 <persname corresp=\"#pers_中川\">\n<surname> 中川 </surname>\n</persname> 書記官其他ノ県官来会ス、食卓又ハ食後ニ於テ種々ノ談話アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

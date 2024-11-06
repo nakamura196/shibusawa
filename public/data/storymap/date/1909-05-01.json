@@ -1,0 +1,114 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-05-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床入浴シ、畢テ庭園ヲ散歩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       朝飧ヲ食シ、後、二三ノ来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ来人ニ面会ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、食後要務ヲ談ス、午後再ヒ事務所ニテ事務ヲ処理ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename> 新喜楽ニ抵リ、 <orgname> 石川島造船所 </orgname> ノ宴会ニ出席ス、\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time>\n<placename corresp=\"#place_赤坂_(東京都港区)\"> 赤坂 </placename> 三河屋ニ抵リ、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n<persname corresp=\"#pers_閔詠韶\">\n<surname> 閔 </surname>\n<forename> 詠韶 </forename>\n</persname> 氏等《（ <persname corresp=\"#pers_閔泳韶\">\n<surname> 閔 </surname>\n<forename> 泳韶 </forename>\n</persname> 氏）》ノ饗宴ニ列ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6723722,
+                    "lon": 139.7365389,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過 <placename corresp=\"#place_浜町\"> 浜町\n       </placename> 宅ニ立寄リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス <lb></lb> 此日、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時\n       </time> 華族会館ニ抵リ、 <persname corresp=\"#pers_尾崎\">\n<surname> 尾崎 </surname>\n</persname> 、 <persname corresp=\"#pers_千家\">\n<surname> 千家 </surname>\n</persname> 両家ノ新婚披露会ニ出席ス、又、厚生館ニ韓客 <persname corresp=\"#pers_金宗漢\">\n<surname> 金 </surname>\n<forename> 宗漢 </forename>\n</persname> 氏ヲ訪問ス <lb></lb> 午前韓客 <persname corresp=\"#pers_李尚鉉\">\n<surname> 李 </surname>\n<forename> 尚鉉 </forename>\n</persname> 《（ <persname corresp=\"#pers_李升鉉\">\n<surname> 李 </surname>\n<forename> 升鉉 </forename>\n</persname> ）》、 <persname corresp=\"#pers_韓相鳳\">\n<surname> 韓 </surname>\n<forename> 相鳳 </forename>\n</persname> 二氏来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

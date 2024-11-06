@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-08-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 日本鉄道会社重役会ニ列ス、畢テ <placename corresp=\"#place_日本橋兜町\">\n        兜町 </placename> 事務所ニ抵リ事務ヲ処理ス、 <persname corresp=\"#pers_曾禰\">\n<surname> 曾禰 </surname>\n</persname> 大蔵大臣其他ヨリノ来書ニ返書ヲ裁ス、 <persname corresp=\"#pers_平岡熙\">\n<surname> 平岡 </surname>\n<forename> 熙 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_郷隆三郎\">\n<surname> 郷 </surname>\n<forename> 隆三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_赤羽克已\">\n<surname> 赤羽 </surname>\n<forename> 克已 </forename>\n</persname> 等来話ス、夕方 <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename>\n       ニ帰宿ス、夕方月島丸遭難醵金ノ処分ニ関スル集会ニ列ス <lb></lb> 此日、 <persname corresp=\"#pers_渡辺福三郎\">\n<surname> 渡辺 </surname>\n<forename> 福三郎 </forename>\n</persname> 氏ヘ <orgname> 石川島造船所 </orgname> 合併ニ関スル意見ヲ詳話ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

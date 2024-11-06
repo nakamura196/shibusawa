@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-02-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、宿痾稍愈ルヲ以テ此日ヨリ褥ヲ離ル、然レトモ食事ハ尚粥ヲ用フ午後 <persname corresp=\"#pers_渡辺甚吉\">\n<surname> 渡辺 </surname>\n<forename> 甚吉 </forename>\n</persname> 氏来リ経済上ノ事ヲ談ス、午前 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏来リ鉱山部ニ関スル <placename corresp=\"#place_秋田県\"> 秋田県 </placename> 下硫黄坑業ノ経営ニ付詳話アリ、夕方、\n        <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 、 <persname corresp=\"#pers_谷口小次郎\">\n<surname> 谷口 </surname>\n<forename> 小次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_前田青莎\">\n<surname> 前田 </surname>\n<forename> 青莎 </forename>\n</persname> 、 <persname corresp=\"#pers_増田多郎\">\n<surname> 増田 </surname>\n<forename> 多郎 </forename>\n</persname> ノ諸氏来訪ス、終日宅ニ在テ人ニ接シ且書類ヲ整理ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 39.718611111111,
+                    "lon": 140.1025,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

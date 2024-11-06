@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-05-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、日記ヲ編成ス、此日風雨強クシテ、地方有志者ヨリ案内アリシ島嶼一覧ノ事ヲ果スヲ得ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ食シ、地方人士ノ訪問ニ接ス、来客十数名ニ及フ、郡長、村長、町長等ノ人々多シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\">\n        正午 </time> 旅宿ニテ午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n       人車ニテ雨中船形ニ抵リ、養育院分院ノ開院式ニ出席シ、一場ノ演説ヲ為ス、来会者弐百人許リナリ、分院ハ船形観音堂ノ下ニ在リテ眺望佳絶、気候人ニ可ナリ、入院者百名余リ収容スルヲ得ヘク、構造頗ル堅牢ニシテ且便利ナリ、式畢テ来賓ニ饗宴ヲ勧メ、後、兼約ニヨリテ\n        <placename corresp=\"#place_北条\"> 北条 </placename> ニ抵リ、中学校内ニ開カルヽ講演会ニ臨席シ一場ノ演説ヲ為ス、 <persname corresp=\"#pers_尾崎\">\n<surname> 尾崎 </surname>\n</persname> 市長同伴ス、畢テ再ヒ船形町ニ来リ、 <persname corresp=\"#pers_山口\">\n<surname> 山口 </surname>\n</persname> 某氏ノ家ニ宿ス、夜、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 、 <persname corresp=\"#pers_正木清一郎\">\n<surname> 正木 </surname>\n<forename> 清一郎 </forename>\n</persname> 氏、 <persname corresp=\"#pers_桜井円次郎\">\n<surname> 桜井 </surname>\n<forename> 円次郎 </forename>\n</persname> 氏等来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-11-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 六時 </time>\n<placename corresp=\"#place_セイロン島\"> 錫蘭島 </placename>\n       御着、直ニ御上陸、一同御供、東洋客舎御投宿、午前市中御遊歩、午飯後釈伽埋没之地御一覧《（迦）》、第 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 7.0,
+                    "lon": 81.0,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n       頃御帰宿御休息、夜 <pb corresp=\"#pageB1013\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/39/full/max/0/default.jpg\" n=\"B1013\" source=\"#pageB1013\"></pb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n       夜餐之後海岸御遊歩、壱人の村童を雇へ道案内せしめ、砲台、灯明台、其外諸方御遊歩、御帰宿、夜客舎御一泊、一同御供ニ而投宿いたす、 <placename corresp=\"#place_馬港\"> 馬港 </placename> 江出帆後《（をカ）》、初而陸地の安眠を得、一同快然の想をなす "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

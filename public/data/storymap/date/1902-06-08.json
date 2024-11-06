@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-06-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time>\n<placename corresp=\"#place_シカゴ\"> シカゴ市 </placename> ニ着ス、 <persname corresp=\"#pers_藤田\">\n<surname> 藤田 </surname>\n</persname> 領事、 <persname corresp=\"#pers_水谷\">\n<surname> 水谷 </surname>\n</persname> 某及留学生数名、米国人 <persname corresp=\"#pers_フエービアン\">\n<surname> フエービアン </surname>\n</persname> 氏夫妻等来リテ停車場ニ迎フ、相携ヘテ <orgname> ホテル・オーヂートリヨアン・ネツクキス </orgname> ニ投宿ス、朝食後米国人 <persname corresp=\"#pers_フエービアン\">\n<surname> フエービアン </surname>\n</persname> 夫妻及 <persname corresp=\"#pers_藤田\">\n<surname> 藤田 </surname>\n</persname> 領事同伴ニテ公園ニ抵ル、公園内ノ茶亭ニ於テ午飧ス、食後園中ヲ散歩シ各種ノ観覧場ヲ縦覧ス、米国土人ノ相集テ雑貨ヲ販売スルアリ、更ニ <placename corresp=\"#place_ジヤクソン公園\"> ジヤクソン公園 </placename>\n       ニ抵リテ鳳凰殿ヲ一覧ス、先年我邦ヨリシカゴ万国博覧会ニ出品セシ建築ニシテ会畢テ後政府ヨリ市ニ寄附セ <pb corresp=\"#pageB1243\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/269/full/max/0/default.jpg\" n=\"B1243\" source=\"#pageB1243\"></pb> シモノナリ、爾来修繕宜キヲ得サルヲ以テ堂宇廻廊大ニ頽敗シテ美観ヲ損セリ、依テ <persname corresp=\"#pers_藤田\">\n<surname> 藤田 </surname>\n</persname> 領事ニ注意ノ一言ヲ述ヘ置キタリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 41.9,
+                    "lon": -87.65,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 帰館 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時\n       </time> 、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 、 <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 、 <persname corresp=\"#pers_萩原\">\n<surname> 萩原 </surname>\n</persname> 、 <persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> 、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 等ト共ニ <persname corresp=\"#pers_藤田\">\n<surname> 藤田 </surname>\n</persname> 領事ヨリ招宴ニ応シテ其宅ニ抵リ日本風ノ夜飧ヲ饗宴セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

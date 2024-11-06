@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-02-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_小林徳重\">\n<surname> 小林 </surname>\n<forename> 徳重 </forename>\n</persname> 氏ノ来訪ニ接シ <orgname> 第一銀行 </orgname> 勤務志望者ノ事ヲ依頼セラル、 <persname corresp=\"#pers_巽孝市\">\n<surname> 巽 </surname>\n<forename> 孝市 </forename>\n</persname> 氏来リ、小学生徒ノ読物タル学友雑誌ニ付種々ノ談話アリ、 <persname corresp=\"#pers_丹羽富美子\">\n<surname> 丹羽 </surname>\n<forename> 富美子 </forename>\n</persname> 女史来リ皇道雑誌ノ事ニ付依頼アリシモ、初面会ニ付拒絶ス、 <persname corresp=\"#pers_山本安三郎\">\n<surname> 山本 </surname>\n<forename> 安三郎 </forename>\n</persname> 氏来話ス、畢テ来書ヲ点撿シ又日記ヲ編成ス、 <persname corresp=\"#pers_桜井円次郎\">\n<surname> 桜井 </surname>\n<forename> 円次郎 </forename>\n</persname> 氏来リ <placename corresp=\"#place_井頭\"> 井頭 </placename>\n       学校ノ事ヲ話ス午飧後早稲田大学ニ抵リ、工手学校生徒卒業式ニ出席ス、一場ノ訓示演説ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<placename corresp=\"#place_本郷\"> 本郷 </placename> ニ友人ヲ訪ヘ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename> 瓢屋ニ抵リ東亜興業会社ノ饗宴ニ出席ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時\n       </time> 過ヨリ帝国劇場ニ抵リ観劇ス、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢秀雄\">\n<forename> 秀雄 </forename>\n</persname> 同伴ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿、後、新聞紙ヲ一覧ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

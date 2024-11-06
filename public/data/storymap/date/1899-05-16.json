@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-05-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇午後雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ於テ <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 、 <persname corresp=\"#pers_大橋\">\n<surname> 大橋 </surname>\n</persname> 、 <persname corresp=\"#pers_土田\">\n<surname> 土田 </surname>\n</persname> 諸氏ト北越石油会社ノ重役会ニ列ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<placename corresp=\"#place_榎木坂\"> 榎木坂 </placename>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 子ノ邸ヲ訪ヒ <orgname> 汽車製造合資会社 </orgname> ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<persname corresp=\"#pers_加藤正義\">\n<surname> 加藤 </surname>\n<forename> 正義 </forename>\n</persname> 氏ヲ元園町ニ訪ヒ其招 <pb corresp=\"#pageB1088\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/114/full/max/0/default.jpg\" n=\"B1088\" source=\"#pageB1088\"></pb> 宴ニ参ス、 <persname corresp=\"#pers_渡辺洪基\">\n<surname> 渡辺 </surname>\n<forename> 洪基 </forename>\n</persname> 、 <persname corresp=\"#pers_中上川彦次郎\">\n<surname> 中上川 </surname>\n<forename> 彦次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_浅田正文\">\n<surname> 浅田 </surname>\n<forename> 正文 </forename>\n</persname> 、小幡、 <persname corresp=\"#pers_今村\">\n<surname> 今村 </surname>\n</persname> 、 <persname corresp=\"#pers_園田\">\n<surname> 園田 </surname>\n</persname> ノ諸氏ト会話ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

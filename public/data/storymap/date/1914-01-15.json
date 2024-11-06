@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-01-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、静坐入浴シテ後朝飧ヲ食シ、又、来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時\n       </time> 衆議院図書館ニ抵リ、災害救済会評議員会ヲ開キ趣意書規約等ヲ決シ委員ヲ選定ス、後、内閣ニ抵リ、 <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 総理ト <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> 宮相ニ面会シテ本会ノ成立ヲ告ケ充分ノ賛成ヲ求ム、再ヒ図書館ニ抵リテ其報告ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time>\n       内務大臣官邸ニ抵リ神宮奉祀委員会ニ出席ス、畢テ再ヒ銀行ニ抵リテ重役会ヲ開キ要件ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_日本橋\"> 日本橋 </placename> 倶楽部ニ抵リ、 <persname corresp=\"#pers_諸井\">\n<surname> 諸井 </surname>\n</persname> 、大友二氏結婚披露会ニ臨席ス、余興数番アリ、畢テ洋食ノ晩飧アリ、食卓ニテ一場ノ挨拶ヲ述ヘ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n       散会、帰宿ス、後、新聞紙雑誌類ヲ一覧ス、演説筆記ノ修正ヲ為ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

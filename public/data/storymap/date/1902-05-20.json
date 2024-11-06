@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-05-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、此日ハ <date when=\"1902-05-20\"> 五月ニ十日 </date>\n       ヲ重ヌルナリ、蓋シ本邦ヲ発シテ太平洋ヲ航スルニ於テ必スアルヘキ地球ノ数理ニヨレルナリ、朝来航行平穏ナルヲ以テ蚤起鬚ヲ剃リテ入浴ス、朝飧後甲板上ヲ散歩シ或ハ読書ス、午後本船事務員\n        <persname corresp=\"#pers_松本\">\n<surname> 松本 </surname>\n</persname> 氏ノ誘引ニテ下等船室及機関室等ヲ一覧ス、夜食後甲板上月明カニシテ夜色殊ニ佳ナリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-07-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、午前 <orgname> 中央新聞 </orgname> 社員来ル、 <persname corresp=\"#pers_谷\">\n<surname> 谷 </surname>\n</persname> 、 <persname corresp=\"#pers_竹田\">\n<surname> 竹田 </surname>\n</persname> 二氏来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 東京市役所ニ抵リ美術館建築ノ事ヲ談ス、 <persname corresp=\"#pers_片山\">\n<surname> 片山 </surname>\n</persname> 技師来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename> 瓢屋ニ抵リ若松築港会社ノ事ヲ談ス、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯、 <persname corresp=\"#pers_岩崎久弥\">\n<surname> 岩崎 </surname>\n<forename> 久弥 </forename>\n</persname> 其他諸氏来会ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ重役会ヲ開ク、畢テ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       宅ニ於テ <placename corresp=\"#place_横浜\"> 横浜 </placename> 英一館主ケスウエツキ及支配人 <persname corresp=\"#pers_ホルム\">\n<surname> ホルム </surname>\n</persname> 其他諸氏来ル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 向後 <orgname> 八百松楼 </orgname> 《（島）》ニ抵リ\n        <persname corresp=\"#pers_清水満之助\">\n<surname> 清水 </surname>\n<forename> 満之助 </forename>\n</persname> ノ招宴ニ出席ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_深川\"> 深川 </placename> ニ帰宿ス、此日朝 <persname corresp=\"#pers_平岡熙\">\n<surname> 平岡 </surname>\n<forename> 熙 </forename>\n</persname> 氏来リ <orgname> 汽車製造合資会社 </orgname> ノ事ヲ談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

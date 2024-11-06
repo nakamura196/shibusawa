@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-01-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 郷里大人帰郷いたす、午飯後、田安御殿に出る、 <persname corresp=\"#pers_織田和泉\">\n<surname> 織田 </surname> 和泉 </persname> 面会、 <persname corresp=\"#pers_民部公子\"> 民部公子 </persname>\n       御内用之儀申談す、 <persname corresp=\"#pers_森川\">\n<surname> 森川 </surname>\n</persname> 、 <persname corresp=\"#pers_栗本\">\n<surname> 栗本 </surname>\n</persname> 等不罷出ニ付、明日 <persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤太夫 </forename>\n</persname> 、 <persname corresp=\"#pers_栗本\">\n<surname> 栗本 </surname>\n</persname> 方可罷越儀申談、夫より礫邸に至り、昨日之謝詞申述、荷物仕訳残取調いたす、夜に入明神下帰宿 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

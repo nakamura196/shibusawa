@@ -1,0 +1,59 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-09-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ畢テ朝飧ヲ食ス、食後、河ニ沿フタル製材所ヲ一覧ス、夫ヨリ河ヲ下リテ <placename corresp=\"#place_バンクーバー_(ワシントン州)\"> バンクーバ </placename> ニ抵ル、途中小麦製粉所ヲ見ル <persname corresp=\"#pers_オールコツク\">\n<surname> オールコツク </surname>\n</persname> 氏ノ経営ニ係ル、此日ハ蒸気船ニテ午飧シ、河ヲ下リテ <placename corresp=\"#place_バンクーバー_(ワシントン州)\"> ハンクーバ\n       </placename> ニ着ス、此地陸軍ノ兵営アルヲ以テ、将軍某氏ハ一行ノ為メニ練兵ノ式ヲ行ヒ、且士官集会ノ倶楽部ニ於テ小宴ヲ開キテ一行ヲ饗ス、畢テ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 45.633,
+                    "lon": -122.6,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 頃ヨリ汽車 <placename corresp=\"#place_バンクーバー_(ワシントン州)\"> ハンクーバ\n       </placename> ヲ発シテ <placename corresp=\"#place_スポケーン\"> スホケン </placename> ニ向フ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 45.633,
+                    "lon": -122.6,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

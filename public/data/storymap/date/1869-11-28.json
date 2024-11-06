@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-11-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n       発程之期も迫れハ、此日は早天より一同取集り頗る紛冗お極む、朝より是迄之御用書類、伺書、引続書類等不残取広け、総而一読之上所々解釈せしめ、尚不明了之事ハ一同より質問させ、取扱振之廉書も稍全備せしかば、詳悉にこれを下知し、別ニ当用心覚書を認め、これお示し、又外ニ心得方のため壱封之秘書を認め、一同へ相達し、先、公務も稍整頓したれは、是より夜に入て旅装にとりかゝる、\n        <date evidence=\"year inferenced, month\" type=\"旧暦\" when=\"1869-11-24\"> 廿一日 </date>\n       より送別之来人、或ハ暇乞とて罷越せし方もあれと、私事なれハ略之 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

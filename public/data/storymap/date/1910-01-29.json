@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-01-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、先ツ入浴ス、後、朝飧ヲ食ス、食後、来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 九時半\n       </time> 鉄道院ニ抵リ、 <persname corresp=\"#pers_平井\">\n<surname> 平井 </surname>\n</persname> 氏ニ面会シテ喜賓会寄附金ノ事ニ付同院ノ事情ヲ陳弁セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 十時半 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ、 <orgname> 汽車製造会社 </orgname> 社員会ニ出席ス、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 子爵、 <persname corresp=\"#pers_瓜生震\">\n<surname> 瓜生 </surname>\n<forename> 震 </forename>\n</persname> 、 <persname corresp=\"#pers_原六郎\">\n<surname> 原 </surname>\n<forename> 六郎 </forename>\n</persname> 、 <persname corresp=\"#pers_羽野知顕\">\n<surname> 羽野 </surname>\n<forename> 知顕 </forename>\n</persname> 諸氏来会ス、会議畢テ共ニ午飧ス、 <persname corresp=\"#pers_鏑木\">\n<surname> 鏑木 </surname>\n</persname> 氏来リ喜賓会ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト行務ヲ談シ、 <persname corresp=\"#pers_大沢\">\n<surname> 大沢 </surname>\n</persname> 氏ト書類ヲ撿閲ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 事務所ニ於テ事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:30:00",
+                    "text": "<time when=\"16:30:00\">\n        四時半 </time>\n<persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 大蔵大臣官舎ニ抵リ、公債借替ノ事ニ関シ <placename corresp=\"#place_京阪\"> 京阪 </placename> 各銀行会同ノ協議ヲ為ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過帰宿後、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n<persname corresp=\"#pers_松井\">\n<surname> 松井 </surname>\n</persname> 、 <persname corresp=\"#pers_埴原\">\n<surname> 埴原 </surname>\n</persname> 、 <persname corresp=\"#pers_永井\">\n<surname> 永井 </surname>\n</persname> 、 <persname corresp=\"#pers_沼野\">\n<surname> 沼野 </surname>\n</persname> 、 <persname corresp=\"#pers_頭本\">\n<surname> 頭本 </surname>\n</persname> 、 <persname corresp=\"#pers_高峰\">\n<surname> 高峰 </surname>\n</persname> 、 <persname corresp=\"#pers_山崎\">\n<surname> 山崎 </surname>\n</persname> 等ノ諸氏ニ書状ヲ裁ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

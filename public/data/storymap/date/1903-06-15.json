@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-06-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n       米国人 <persname corresp=\"#pers_チソン\"> チソン </persname> 氏 <persname corresp=\"#pers_松原重栄\">\n<surname> 松原 </surname>\n<forename> 重栄 </forename>\n</persname> 氏ニ面話ス、大坂瓦斯会社ノ事ヲ協議ス、午後米国人 <persname corresp=\"#pers_アーレン\">\n<surname> アーレン </surname>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<orgname> 女子大学 </orgname> ニ抵リ教育上ニ関スル主義方法ニ関スル談話ヲ為ス、 <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 、 <persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 、 <persname corresp=\"#pers_岡部\">\n<surname> 岡部 </surname>\n</persname> 、 <persname corresp=\"#pers_高田\">\n<surname> 高田 </surname>\n</persname> 等ノ諸氏来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 朝鮮協会ニ抵リ評議員会ニ列ス、 <persname corresp=\"#pers_近衛\">\n<surname> 近衛 </surname>\n</persname> 公爵、 <persname corresp=\"#pers_日下\">\n<surname> 日下 </surname>\n</persname> 、 <persname corresp=\"#pers_押川\">\n<surname> 押川 </surname>\n</persname> 諸氏来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 五時半 </time> 銀行集会所ニ抵リ此夜 <orgname> 銀行倶楽部 </orgname>\n       ニテ催シタル晩飧会ニ出席ス、 <persname corresp=\"#pers_児玉\">\n<surname> 児玉 </surname>\n</persname> 台湾総督、 <persname corresp=\"#pers_後藤\">\n<surname> 後藤 </surname>\n</persname> 長官、 <persname corresp=\"#pers_稲垣\">\n<surname> 稲垣 </surname>\n</persname> 公使、 <persname corresp=\"#pers_祝\">\n<surname> 祝 </surname>\n</persname> 財務官等来会ス、食卓上会員ヲ代表シテ一場ノ挨拶ヲ為ス、畢テ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

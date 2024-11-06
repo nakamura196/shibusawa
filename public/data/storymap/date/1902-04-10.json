@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-04-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢リ、昨夜調査セシ書類ヲ <persname corresp=\"#pers_松本\">\n<surname> 松本 </surname>\n</persname> ニ交付ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ来客ニ接ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<placename corresp=\"#place_番町\"> 番町 </placename>\n<persname corresp=\"#pers_三島中洲\">\n<surname> 三島 </surname>\n<forename> 中洲 </forename>\n</persname> ヲ訪ヒ <persname corresp=\"#pers_尾高惇忠\">\n<forename> 藍香居士 </forename>\n</persname> 墓碑文ノ事ヲ依托ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ヲ <placename corresp=\"#place_麻布\"> 麻布 </placename>\n<placename corresp=\"#place_内田山\"> 内田山 </placename> 邸ニ訪ヒ余ノ海外行ニ関シ種々ノ談話ヲ為ス、伯ハ <placename corresp=\"#place_支那\"> 支那 </placename> 行ノ企図アルニ付キ <placename corresp=\"#place_欧洲\"> 欧洲\n       </placename> ノ帰途余ニ <placename corresp=\"#place_支那\"> 支那 </placename>\n<pb corresp=\"#pageB1231\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/257/full/max/0/default.jpg\" n=\"B1231\" source=\"#pageB1231\"></pb> 行セラレン事ヲ勧誘セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ重役会ヲ開キ、海外行随行者ノ事ヲ決ス、畢テ <persname corresp=\"#pers_押川\">\n<surname> 押川 </surname>\n</persname> 、 <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> ノ諸氏ニ面話シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰ル、此日ハ十日会ヲ別荘ニ催ス筈ナルニ付、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> ヨリ来会スル者十数名、種々ノ余興アリテ各歓ヲ尽シテ散会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

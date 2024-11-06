@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-03-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、腹部ノ工合悪シキ為メ、半身浴ヲ為シテ、朝飧ヲ食シ、褥中ニ在テ病ヲ養フ、 <persname corresp=\"#pers_西垣恒矩\">\n<surname> 西垣 </surname>\n<forename> 恒矩 </forename>\n</persname> 氏来リ地方信用組合ノ事ヲ談ス、氏ハ <persname corresp=\"#pers_田尻\">\n<surname> 田尻 </surname>\n</persname> 博士ノ紹介ニテ <persname corresp=\"#pers_平田東助\">\n<surname> 平田 </surname>\n<forename> 東助 </forename>\n</persname> 氏トモ懇親ノ由ナリ、依テ種々ノ意見ヲ交換ス、午飧後、新聞紙ト雑誌類ヲ通覧ス、蓋シ頃日来多忙ノ為メ読マント欲シテ能ハサリシモノヲ悉ク閲了シタルナリ、午前\n        <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス、夜ニ入ルマテ読書ニ勉ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

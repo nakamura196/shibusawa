@@ -1,0 +1,73 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-01-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、室内運動ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ畢ル <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<orgname> 第一銀行 </orgname> ニ出勤シ韓国興業会社重役会ヲ開ク、 <persname corresp=\"#pers_日下義雄\">\n<surname> 日下 </surname>\n<forename> 義雄 </forename>\n</persname> 、 <persname corresp=\"#pers_土岐〓\">\n<surname> 土岐 </surname>\n<forename> 〓 </forename>\n</persname> 、 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 氏等来会ス、技師 <persname corresp=\"#pers_加藤\">\n<surname> 加藤 </surname>\n</persname> 氏在韓中取扱ヒタル事務概況ヲ報告シ、 <placename corresp=\"#place_北韓\"> 北韓 </placename>\n       土地ニ関スル将来施設ノ方針ヲ議ス、畢テ <orgname> 第一銀行 </orgname> 重役会ヲ開ク、京城支店ヨリ来電ニ関スル要件ヲ議決ス <lb></lb> 午飧後 <orgname>\n        東京商業会議所 </orgname> ニ抵リ瓦斯会社株主総会ヲ開ク、畢テ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ニ抵リ書状ヲ裁ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、夜、甲子夜話ヲ読ム <lb></lb> 此夜 <placename corresp=\"#place_神田区\"> 神田区 </placename> ニ祝捷ノ提灯行列アリ、頗ル壮観ナリシ、 <orgname> 三井銀行 </orgname> 、又ハ\n        <orgname> 帝国大学 </orgname> 等ニ、エルミネーシヨンアリテ市街昼ノ如シ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.69278,
+                    "lon": 139.76333,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

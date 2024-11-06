@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-10-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏来リ、 <persname corresp=\"#pers_大川\">\n<surname> 大川 </surname>\n</persname> 身上、 <orgname> 東洋汽船会社 </orgname> ノ事ニ関シ種々ノ談話アリ、 <persname corresp=\"#pers_渋沢元治\">\n<surname> 渋沢 </surname>\n<forename> 元治 </forename>\n</persname> 来リ <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 身上ニ付内談アリ、 <persname corresp=\"#pers_田川大吉郎\">\n<surname> 田川 </surname>\n<forename> 大吉郎 </forename>\n</persname> 氏来リ瓦斯会社合併問題ニ付内話アリ、後 <persname corresp=\"#pers_高松\">\n<surname> 高松 </surname>\n</persname> 、 <persname corresp=\"#pers_福島\">\n<surname> 福島 </surname>\n</persname> 二氏来リテ <persname corresp=\"#pers_田川\">\n<surname> 田川 </surname>\n</persname> 氏ノ来議ヲ伝達シテ重役ノ協議ヲ為サシム <persname corresp=\"#pers_岩本栄之助\">\n<surname> 岩本 </surname>\n<forename> 栄之助 </forename>\n</persname> 、 <placename corresp=\"#place_栗山\"> 栗山 </placename> 一二氏来《（ <persname corresp=\"#pers_栗山寛二\">\n<surname> 栗山 </surname>\n<forename> 寛二 </forename>\n</persname> 氏）》リ、 <placename corresp=\"#place_大阪\"> 大坂 </placename> 公会堂建設ニ関スル爾来ノ経過ヲ詳述セラル、\n        <persname corresp=\"#pers_神田鐳蔵\">\n<surname> 神田 </surname>\n<forename> 鐳蔵 </forename>\n</persname> 氏来リ明日ノ婚儀ニ付手続ヲ協議ス、午飧後、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ヲ訪ヘ、 <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> 来会シテ種々ノ協議ヲ尽ス、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 頃ヨリ他ノ一友人ヲ訪ヘ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 午後六時半 </time> 帰宿、夜飧後、新聞紙類ヲ読マシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-05-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後庭園ヲ散歩ス、 <persname corresp=\"#pers_麻生正蔵\">\n<surname> 麻生 </surname>\n<forename> 正蔵 </forename>\n</persname> 氏来リ、 <orgname> 女子大学 </orgname> ノ地所ニ関シ協議アリ、 <persname corresp=\"#pers_五十嵐栄吉\">\n<surname> 五十嵐 </surname>\n<forename> 栄吉 </forename>\n</persname> 、横川某来リ <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n       経営ニ関スル意見ヲ述フ、蓋シ保険銀行新報ニ記載スル為メナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 過朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 事務所ニ抵ル来人ニ接シ来書ヲ撿閲ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧ス、食後又来人ニ接シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<orgname> 日本郵船会社 </orgname> ニ抵リテ重役会ニ列席ス、畢テ事務所ニ抵リ書類ヲ撿閲ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 五時半 </time>\n<orgname> 銀行倶楽部 </orgname> ニ抵リ晩餐会ヲ開ク、司法大臣以下各裁判所長来会ス、食卓上一場ノ演説ヲ為ス、畢テ <placename corresp=\"#place_浜町\"> 浜町 </placename> ニ知人ヲ訪ヒ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1906-05-24T00:00+0900\"> 十二時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 日本鉄道会社ニ抵リ評議会ニ出席ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

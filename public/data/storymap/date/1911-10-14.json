@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-10-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_山下弥七郎\">\n<surname> 山下 </surname>\n<forename> 弥七郎 </forename>\n</persname> 氏ノ来訪ニ接シテ其身上ニ付種々談話アリ、 <persname corresp=\"#pers_玉利伝十\">\n<surname> 玉利 </surname>\n<forename> 伝十 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_堀田瑞松\">\n<surname> 堀田 </surname>\n<forename> 瑞松 </forename>\n</persname> 氏 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> ヨリ帰来ノ由ニテ来訪セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 事務所ニ抵リ来人ニ接シ事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧ス、畢テ行務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n       明治大学ニ抵リ、三十年紀念祭ノ式ニ臨ミ、一場ノ演説ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 過 <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ抵リ、児童等ニ修学上ノ訓誡ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_富士見町\"> 富士見町 </placename> 農商務大臣官舎ニ抵リ、 <placename corresp=\"#place_清\"> 清国 </placename> 人渡来ニ付其接伴順序ニ関シテ種々ノ協議アリ、 <persname corresp=\"#pers_中野武営\">\n<surname> 中野 </surname>\n<forename> 武営 </forename>\n</persname> 氏外各地商業会議所員来会ス、 <persname corresp=\"#pers_牧野\">\n<surname> 牧野 </surname>\n</persname> 大臣ヨリ丁寧ナル相談アリタリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

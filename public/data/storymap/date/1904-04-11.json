@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1904-04-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、浴場ニ抵リテ海水ヲ以テ身体ヲ摩擦ス、朝飧後新聞紙ヲ閲シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ヲ蔦屋ニ訪フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:19:00",
+                    "text": "<time when=\"09:19:00\"> 九時十九分 </time>\n       ノ発車ヲ以テ同伯当地ヲ去リ帰京セルニヨリ、停車場マテ同行シテ時事ニ関スル種々ノ談話ヲ為ス、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ヲ送リシ帰途家人ト共ニ海辺ヲ散歩ス、午飧後 <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 夫妻ト雑談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:39:00",
+                    "text": "<time when=\"14:39:00\"> 午後二時三十九分 </time>\n       其帰京ヲ送リテ再ヒ停車場ニ抵ル、帰途又海辺ヲ散歩ス、帰後読書ニ閑ヲ消ス <lb></lb> 夜、 <placename corresp=\"#place_東京\"> 東京 </placename>\n<persname corresp=\"#pers_中村秋香\">\n<surname> 中村 </surname>\n<forename> 秋香 </forename>\n</persname> 氏ヨリ書状来ル、詠草ノ添削ヲモ封入ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

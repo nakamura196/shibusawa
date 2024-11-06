@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-10-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_高木松次郎\">\n<surname> 高木 </surname>\n<forename> 松次郎 </forename>\n</persname> 氏ノ来訪ニ接シテ明治初年ノ経済界及当時ノ人物ニ関シテ懐旧談ヲ為ス、 <persname corresp=\"#pers_井口正之\">\n<surname> 井口 </surname>\n<forename> 正之 </forename>\n</persname> 氏来リ青渊百話ニ関スル意見ヲ述フ、 <persname corresp=\"#pers_白石元次郎\">\n<surname> 白石 </surname>\n<forename> 元次郎 </forename>\n</persname> 氏来《（ <persname corresp=\"#pers_白石元治郎\">\n<surname> 白石 </surname>\n<forename> 元治郎 </forename>\n</persname> 氏）》リ、 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 、 <persname corresp=\"#pers_大川\">\n<surname> 大川 </surname>\n</persname> 二氏ノ身上及 <orgname> 東洋汽船会社 </orgname> ノ事ニ関シ種々ノ談話アリ、 <persname corresp=\"#pers_成瀬仁蔵\">\n<surname> 成瀬 </surname>\n<forename> 仁蔵 </forename>\n</persname> 氏来リ <persname corresp=\"#pers_林桂\">\n<surname> 林 </surname>\n<forename> 桂 </forename>\n</persname> 氏ノ事ニ関シテ談話ス、午飧後 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ要務ヲ処理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 午後二時半 </time>\n<placename corresp=\"#place_日比谷\"> 日比谷 </placename> 大神宮ニ抵リ、 <persname corresp=\"#pers_神田鐳蔵\">\n<surname> 神田 </surname>\n<forename> 鐳蔵 </forename>\n</persname> 氏ノ婚儀ヲ媒酌《（妁）》ス、式畢テ <placename corresp=\"#place_牛込\"> 牛込 </placename>\n<persname corresp=\"#pers_神田\">\n<surname> 神田 </surname>\n</persname> 氏宅ニ抵リ、宴会ニ列席シ、 <persname corresp=\"#pers_神田\">\n<surname> 神田 </surname>\n</persname> 、 <persname corresp=\"#pers_清水\">\n<surname> 清水 </surname>\n</persname> 両家ノ親戚来会ス、宴散シテ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

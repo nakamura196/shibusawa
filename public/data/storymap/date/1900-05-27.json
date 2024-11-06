@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-05-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前 <persname corresp=\"#pers_本多庸一\">\n<surname> 本多 </surname>\n<forename> 庸一 </forename>\n</persname> 、 <persname corresp=\"#pers_麻生正義\">\n<surname> 麻生 </surname>\n<forename> 正義 </forename>\n</persname> 《（ <persname corresp=\"#pers_麻生正蔵\">\n<surname> 麻生 </surname>\n<forename> 正蔵 </forename>\n</persname> ）》、 <persname corresp=\"#pers_三谷軌秀\">\n<surname> 三谷 </surname>\n<forename> 軌秀 </forename>\n</persname> 、 <persname corresp=\"#pers_荒川新一郎\">\n<surname> 荒川 </surname>\n<forename> 新一郎 </forename>\n</persname> 其他ノ諸氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> ヨリ同族会ヲ開ク、 <placename corresp=\"#place_牛込\"> 牛込 </placename> 、 <placename corresp=\"#place_小石川\"> 小石川 </placename> 、\n        <placename corresp=\"#place_深川\"> 深川 </placename> ノ諸家来集ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7137833,
+                    "lon": 139.7487556,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n       ヨリ会議ヲ開キ議案ヲ決了シ、諸計算ヲ調査シ、将来家計上節約ヲ主トスヘキ事ヲ訓諭ス、畢テ余興アリテ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1900-05-28T00:00+0900\"> 十二時\n       </time> 散会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,66 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-07-31",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n       旅宿ヲ発シボルトンニ抵リヂヨン・マスグレーブ造機工場ニ抵リ主人ノ案内ニテ各部ノ工場ヲ一覧シ、畢テ一紡績工場ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時\n       </time> 再ヒ汽車ニテオルドハムニ抵リプラツト紡績器械製造工場ヲ一覧ス、同工場ハ二十年前ヨリ我邦ニ於テ紡績事業創始ヨリ其製造ノ器械ヲ多ク購入スルヲ以テ頗ル款待セラル、\n        <persname corresp=\"#pers_渡辺専次郎\">\n<surname> 渡辺 </surname>\n<forename> 専次郎 </forename>\n</persname> 氏案内ニテ同工場ノ人々数人、余等一行ヲ誘導ス、地金鋳造場ヨリ、鋳物、鍛冶、木工其他各部ノ工場ヲ一覧ス、午飧モ工場内ニテ饗応シ、其食卓上ニ於テ <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> 氏 <placename corresp=\"#place_日本\"> 日本 </placename> ニ帰ルヲ送ル為メ一ノ銀器大盃ヲ造リ、此日之ヲ\n        <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> 氏ニ披露ス、且会社重役ヨリ一場ノ謝辞演説アリ、 <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> ヨリモ答辞アリテ各其盃ヲ以テ一巡ノ献酬ヲ為ス <lb></lb>\n       プラツト工場一覧畢テ同地ニ於テ木綿ビロード工場ヲ一覧ス、畢テ又紡績工場ヲ一覧ス、紡錘拾万七千個アリト云フ、綿花ハ多ク <placename corresp=\"#place_エジプト\">\n        埃及 </placename> 産ニ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       産ヲ混用スト云フ、製糸ノ番数ハ六十手位ナリ、工女ハ極テ少ク操業ノ順序頗ル熟練セリ、一覧畢テ再ビプラツト工場ニ抵リ、喫茶シテ暫ク休憩シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 30.033,
+                    "lon": 31.217,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\">\n        午後七時 </time> 旅宿ニ帰ル、此日 <orgname> 第一銀行 </orgname>\n<persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 、 <placename corresp=\"#place_釜山広域市\"> 釜山 </placename> 出張 <persname corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persname> ヨリ書状来ル "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.1,
+                    "lon": 129.033,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

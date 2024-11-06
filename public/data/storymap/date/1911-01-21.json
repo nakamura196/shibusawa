@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-01-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シ畢テ朝飧ヲ食シ、後、来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_麻布\"> 麻布 </placename>\n<placename corresp=\"#place_笄町\"> 笄町 </placename> ニ <persname corresp=\"#pers_山下\">\n<surname> 山下 </surname>\n</persname> 氏ヲ訪ヒ、午飧ス、 <persname corresp=\"#pers_平山成信\">\n<surname> 平山 </surname>\n<forename> 成信 </forename>\n</persname> 氏来会ス、後、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯爵ヲ訪ヒ時事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<orgname> 報知新聞 </orgname> 社ニ抵リ、商工業者懇話会ニ出席シテ食卓ニテ一場ノ演説ヲ為ス、畢テ <placename corresp=\"#place_王子\"> 王子\n       </placename> ニ帰宿ス <lb></lb> 夜、 <persname corresp=\"#pers_皆川晃雄\">\n<surname> 皆川 </surname>\n<forename> 晃雄 </forename>\n</persname> 氏来リ新約聖書ヲ読ム、 <persname corresp=\"#pers_明石\">\n<surname> 明石 </surname>\n</persname> 夫妻、 <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> 等来会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

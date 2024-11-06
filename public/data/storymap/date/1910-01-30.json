@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-01-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、 <persname corresp=\"#pers_蓮沼門三\">\n<surname> 蓮沼 </surname>\n<forename> 門三 </forename>\n</persname> 氏等修養団 <pb corresp=\"#pageB1605\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/631/full/max/0/default.jpg\" n=\"B1605\" source=\"#pageB1605\"></pb> 諸氏ニ面話ス、 <persname corresp=\"#pers_長沢\">\n<surname> 長沢 </surname>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 三井集会所ニ抵リ、 <placename corresp=\"#place_京阪\"> 京阪 </placename>\n       各銀行者ト共ニ公債借替ニ関スル方法及各行ニ於テ引受クヘキ高ニ付種々ノ協議ヲ為ス、午飧後ニ至ルモ決定セス、衆議紛々ノ有様ナリシヲ以テ、取扱手続及引受割合ニ関スル覚書ヲ作リテ各自ノ協賛ヲ求メ、概略妥協ヲ得タルヲ以テ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_三田\"> 三田 </placename>\n<persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 宅ニ抵リテ同族会ヲ開キ、例ニヨリテ家法家訓ヲ朗読シ、 <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> 等ニ修身上及勉学ノ事ニ付訓誡ヲ為ス、畢テ夜飧シテ後、諸計算ヲ一覧承認ス、更ニ各家ノ決算及予算ヲモ承認ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 侯爵邸ニ抵リ、今日各銀行協議決定セシ要項及引受予定ノ高ヲ報告ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1910-01-31T01:00+0900\"> 一時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

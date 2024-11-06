@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-04-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後、 <persname corresp=\"#pers_原田一道\">\n<surname> 原田 </surname>\n<forename> 一道 </forename>\n</persname> 氏ノ来訪ニ接シ、曾テ <placename corresp=\"#place_熊本県\"> 熊本県 </placename>\n       ニ癩病院ヲ設置シ居ル英国人リデル嬢ヨリ依頼ノ件ニ関シ種々ノ談話ヲ為ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 32.78972,
+                    "lon": 130.741639,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ畢リ日記ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧《（マヽ）》ヲ畢リ庭園ヲ散歩ス、 <persname corresp=\"#pers_皆川四郎\">\n<surname> 皆川 </surname>\n<forename> 四郎 </forename>\n</persname> 、 <persname corresp=\"#pers_寺見\">\n<surname> 寺見 </surname>\n</persname> 夫人等来話ス、午飧後 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ小石川後楽園ニ抵リ、 <orgname> 日本銀行 </orgname> ニ於テ催シタル米人シフ氏招待ノ園遊会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 過 <placename corresp=\"#place_永田町\"> 永田町 </placename> 大蔵大臣官舎ニ抵リ、\n        <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 氏ノ催フセル親族相会スル招宴ニ出席ス、会スル者五十人許リ、皆親族中ノ者ナリ、種々ノ余興アリ、各歓ヲ尽シ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6768472,
+                    "lon": 139.7399139,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1906-04-08T00:00+0900\"> 十二時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-08-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、先ツ入浴シ、浴後書類ヲ整理ス、 <placename corresp=\"#place_東京\"> 東京 </placename>\n<persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ヨリ書状来ル、他方ノ来書モ封入シ来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<persname corresp=\"#pers_添田壽一\">\n<surname> 添田 </surname>\n<forename> 寿一 </forename>\n</persname> 氏来リ同行営業ニ関シ <placename corresp=\"#place_イギリス\"> 英国 </placename>\n<persname corresp=\"#pers_高橋\">\n<surname> 高橋 </surname>\n</persname> ヨリ来電ニ付要務ヲ協議ス、午後読書ニ閑消ス <lb></lb> 夜ニ入、 <persname corresp=\"#pers_佐々木清麿\">\n<surname> 佐々木 </surname>\n<forename> 清麿 </forename>\n</persname> 、 <persname corresp=\"#pers_岩楯林蔵\">\n<surname> 岩楯 </surname>\n<forename> 林蔵 </forename>\n</persname> 《（ <persname corresp=\"#pers_岩楯林造\">\n<surname> 岩楯 </surname>\n<forename> 林造 </forename>\n</persname> ）》二氏来訪セラル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

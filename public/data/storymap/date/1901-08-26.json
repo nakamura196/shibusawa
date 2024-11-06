@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-08-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 海水浴ヲ為ス、 <persname corresp=\"#pers_増田義一\">\n<surname> 増田 </surname>\n<forename> 義一 </forename>\n</persname> 氏来ル、 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 氏来リ <date evidence=\"year inferenced, month\" when=\"1901-08-28\"> 廿八日 </date>\n<placename corresp=\"#place_浦賀\"> 浦賀 </placename> 行ノ事ヲ談ス、同姓 <persname corresp=\"#pers_渋沢成一郎\">\n<forename> 喜作 </forename>\n</persname> 、 <persname corresp=\"#pers_宇野保太郎\">\n<surname> 宇野 </surname>\n<forename> 保太郎 </forename>\n</persname> 二氏来ル、製麻会社ノ諸計算書ヲ査閲ス、 <orgname> 女子大学 </orgname>\n<persname corresp=\"#pers_堤\">\n<surname> 堤 </surname>\n</persname> 氏《（ <persname corresp=\"#pers_塘\">\n<surname> 塘 </surname>\n</persname> 氏）》来ル、東京本店 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ヨリ <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 貸金ノ事ニ関シ来書アリ、依テ同意ノ旨直ニ返電ス\n      "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.2475,
+                    "lon": 139.713972,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

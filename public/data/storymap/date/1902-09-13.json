@@ -1,0 +1,101 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-09-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前 <persname corresp=\"#pers_シーボルト\">\n<surname> シーボルト </surname>\n</persname> 氏来着スルヲ以テ旅宿ニ於テ面会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<placename corresp=\"#place_シヤンゼリセー\"> シヤンゼリセー </placename> ニテ美術館ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\">\n        十一時 </time> バンク・ド・フランスニ抵リ当直ノ役員ニ請フテ行内ヲ一覧ス、機械室、印刷局等極テ整頓セリ、営 <pb corresp=\"#pageB1275\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/301/full/max/0/default.jpg\" n=\"B1275\" source=\"#pageB1275\"></pb> 業ノ各局ハ他ノ家屋ニアルヲ以テ一見スルヲ得ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n       帰宿、午飧後、株式取引所、商品取引所及商業会議所ヲ一覧ス、 <persname corresp=\"#pers_林忠正\">\n<surname> 林 </surname>\n<forename> 忠正 </forename>\n</persname> 氏誘引セラル、株式取引所ニ抵リテ仲買ノ一人ニ就テ取引ノ実況ヲ質問ス、 <placename corresp=\"#place_ロンドン\"> 倫敦\n       </placename> 又ハ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       ニ於テ聞知セシ処ト大同小異ナリ、転売、買戻ノ方法ハ規則上ニ之ヲ禁スレトモ実際ハ都テ行ルヽモノナリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 51.50778,
+                    "lon": -0.12806,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:30:00",
+                    "text": "<time when=\"15:30:00\"> 三時半 </time>\n       商業会議所ニ抵レハ会頭 <persname corresp=\"#pers_ヒモーズ\">\n<surname> ヒモーズ </surname>\n</persname>\n       氏ハ十数名ノ重立タル会員ヲ集メテ余ノ訪問ヲ待テリ、面会ノ後縷々訪問ノ趣旨ヲ通シ、先方ヨリ答詞ヲ受ケ待合室ニ於テシヤンハン祝盃ヲ挙ケ両国商業ノ未来ニ繁盛ヲ祝シ、夫ヨリ貿易調査会ノ事ヲ質問シ其取扱方法ヲ一覧ス、此調査会ハ政府ト商業会議所トニテ協議上設立スルモノニシテ外務、大蔵、農商務等ノ諸官衙ハ何レモ戮力スル所アリト云フ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 過帰宿、此夜在 <placename corresp=\"#place_パリ\"> 巴里 </placename>\n       ノ日本人会ニ於テ臨時会ヲ開キ、余ノ一行ヲ饗宴スル由ニテ曾テ案内セラレタレハ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 48.86223,
+                    "lon": 2.351074,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time> ヨリ <placename corresp=\"#place_ハレー_ロワヤル\"> ハレー・ロワヤル </placename>\n       ノ一料理店ニ抵ル、来会スル者三十余名、官吏、軍人、商工業者、学生等種々ノ種類皆集マル、食卓上一場ノ演説ヲ為シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n       過其席ヲ辞シ、 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 氏ノ案内ニテ各種ノ狭斜場裏ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1902-09-14T00:00+0900\"> 十二時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

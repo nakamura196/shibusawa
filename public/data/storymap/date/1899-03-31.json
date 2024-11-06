@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-03-31",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨午後雨歇ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 午後十時 </time>\n<placename corresp=\"#place_上野\"> 上野 </placename> 発車《（前カ）》ニテ旧里亡父母ノ法事ニ赴ク、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 夫婦、 <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 夫妻、挙家十名同行ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_熊谷\"> 熊谷 </placename> 駅ニテ汽車ヲ下リ <persname corresp=\"#pers_竹井澹如\">\n<surname> 竹井 </surname>\n<forename> 澹如 </forename>\n</persname> 別邸ニテ午餐ス、更ニ人車ヲ僦テ <placename corresp=\"#place_妻沼村\"> 妻沼村 </placename> 聖天宮ニ参詣ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:20:00",
+                    "text": "<time when=\"18:20:00\"> 午後六時二十分 </time>\n<placename corresp=\"#place_熊谷\"> 熊谷 </placename> 発ノ汽車ニ搭シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:40:00",
+                    "text": "<time when=\"18:40:00\"> 六時四十分 </time>\n<placename corresp=\"#place_深谷\"> 深谷 </placename> 駅ニ着ス、此夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 過\n        <placename corresp=\"#place_八基村\"> 八基村 </placename>\n<persname corresp=\"#pers_渋沢市郎\">\n<forename> 市郎 </forename>\n</persname> 宅ニ抵リテ宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 36.23331,
+                    "lon": 139.26167,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

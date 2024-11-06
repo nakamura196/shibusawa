@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-10-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time>\n<placename corresp=\"#place_スエイズ\"> スエイズ </placename> 着、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 十時半 </time>\n       御昼食、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 馬車ニ而市辺御遊覧 <placename corresp=\"#place_イギリス\"> 英国\n       </placename> ニ而築造せる病院及市中飲水の源広大なるポンプ等御一覧、市街入口の鉄路の側にある仏人の催せる舟入所製造するとて巨石抔数多運輸し来りあるを御一覧、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time> 御帰館、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n       客舎を御発し、小蒸気船ニ而本船アンペラトリイス御乗組 <lb></lb> 公子分御部屋代　七千五百フラク　弐人分 <lb></lb> 外七人分　弐万千三百五十フランク <lb></lb>\n       此夜天気朗晴、月色清明、頗る良夜を覚ゆ、歴山より気候漸暑く、此に至りては殆御邦暑中の候のことし、夜に入ては風故稍凌よし "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

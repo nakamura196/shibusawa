@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-08-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、朝来人ニ接ス、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 来リテ養育院ノ事ヲ談ス、午後銀行ニ於テ事務ヲ視ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n       日本倶楽部ニ於テ女学館ノ将来ニ付テ協議ス <persname corresp=\"#pers_土方\">\n<surname> 土方 </surname>\n</persname> 伯、 <persname corresp=\"#pers_外山正一\">\n<surname> 外山 </surname>\n<forename> 正一 </forename>\n</persname> 、 <persname corresp=\"#pers_増島六一郎\">\n<surname> 増島 </surname>\n<forename> 六一郎 </forename>\n</persname> 、 <persname corresp=\"#pers_富田鐵之助\">\n<surname> 富田 </surname>\n<forename> 鉄之助 </forename>\n</persname> 、 <persname corresp=\"#pers_神田乃武\">\n<surname> 神田 </surname>\n<forename> 乃武 </forename>\n</persname> 及 <persname corresp=\"#pers_西田敬止\">\n<surname> 西田 </surname>\n<forename> 敬止 </forename>\n</persname> 来会ス、此夜 <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 氏 <placename corresp=\"#place_木挽町\"> 木挽町 </placename> ノ宅ヲ訪フテ一宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

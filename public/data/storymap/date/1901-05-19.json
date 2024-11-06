@@ -1,0 +1,73 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-05-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time>\n<persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 来リ、昨夜 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯邸ニ於テ予ノ入閣ニ関スル事ニ付種々差支ノ事情ヲ述ヘタル旨ヲ申聞ラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 王子発ノ汽車ニテ\n        <placename corresp=\"#place_上野\"> 上野 </placename> ニ抵リテ <placename corresp=\"#place_日本橋兜町\"> 兜町\n       </placename> 宅ニ出勤ス、 <persname corresp=\"#pers_園田孝吉\">\n<surname> 園田 </surname>\n<forename> 孝吉 </forename>\n</persname> 、 <persname corresp=\"#pers_日下義雄\">\n<surname> 日下 </surname>\n<forename> 義雄 </forename>\n</persname> 二氏来リテ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ヨリノ談話ヲ伝フ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_麻布\"> 麻布 </placename>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ヲ訪ヒ <persname corresp=\"#pers_芳川\">\n<surname> 芳川 </surname>\n</persname> 子爵来会シテ共ニ予ノ入閣ヲ懇話ス、依テ更ニ再考ヲ約シテ去リ、日本橋倶楽部ニ抵リ <orgname> 竜門社 </orgname> ノ春季総会ニ出席ス、畢テ\n        <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 邸ニ帰リ、 <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 及 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 等ヲ会シテ入閣ノ事ヲ内話ス、一同其不可ヲ切言スルヲ以テ明朝迄ニ決定スルモノトシテ散会ス、之ヨリ先、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ニ内話セシモ同シク入閣ノ不可ヲ論シ、且銀行ノ困却ヲ述ヘラル、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

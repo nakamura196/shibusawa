@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1884-05-31",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time>\n<placename corresp=\"#place_湯本\"> 湯本 </placename> ヲ発シ竹輿ヲ買テ <placename corresp=\"#place_仙石原\"> 仙石原\n       </placename> ニ抵ル、 <persname corresp=\"#pers_須永\">\n<surname> 須永 </surname>\n</persname> 、 <persname corresp=\"#pers_松村\">\n<surname> 松村 </surname>\n</persname> 来リ迎フ、牧場ノ馬車ニ駕シテ牛馬ノ緑野ニ遊嘶スルヲ見ル、意頗ル爽快ナリ、牧舎ニテ午餐シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.269639,
+                    "lon": 139.01025,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n       扁舟ヲ買テ湖水ヲ航シ <placename corresp=\"#place_箱根\"> 箱根 </placename> 宿ニ抵ル、更ニ竹輿ニ乗リ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_三島\"> 三島 </placename>\n<persname corresp=\"#pers_世古六太夫\">\n<surname> 世古 </surname>\n<forename> 六太夫 </forename>\n</persname> ニ投宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

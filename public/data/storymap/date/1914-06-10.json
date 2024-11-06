@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-06-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ、朝飧ヲ食ス、此日ハ当地ヲ出立シテ <placename corresp=\"#place_下関市\">\n        馬関 </placename> ニ赴クノ予定ニシテ、且、途中 <placename corresp=\"#place_中津\"> 中津 </placename>\n       町ニ於テ下車、町内有志者ノ企望ニ応シテ一場ノ <placename corresp=\"#place_支那\"> 支那 </placename> 視察《（談脱カ）》ヲ為ス筈ニテ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 33.95789,
+                    "lon": 130.94133,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 過 <placename corresp=\"#place_別府\"> 別府 </placename>\n       発ノ汽車ニテ出発ス、来リテ行ヲ送ル人多シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 過 <placename corresp=\"#place_中津\"> 中津\n       </placename> 着下車、歓迎ノ人ニ案内セラレテ <persname corresp=\"#pers_池大雅\"> 大雅堂 </persname> ノ書画アル一寺ヲ訪ヒ、又、故\n        <persname corresp=\"#pers_福沢\">\n<surname> 福沢 </surname>\n</persname> 翁ノ旧宅ヲ一覧ス、町ノ保存スル所ナリ、後、一料理亭ニ於テ午飧ス、食後、学校ニ於テ町民ノ企望ニ応シ一場ノ演説ヲ為ス、来会者数百名、頗ル盛会ナリ、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 過 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ノ来着ヲ待テ共ニ発車シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 過 <placename corresp=\"#place_下関市\"> 馬関 </placename> 着、 <orgname> 春帆楼 </orgname>\n       ニ投宿ス、休憩後、地方経済会ノ請求ニ応シテ一場ノ演説ヲ為ス夜食後、此地ニ有名ナル小門ノ夜焚ヲ一覧ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 33.95789,
+                    "lon": 130.94133,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 帰宿ス\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

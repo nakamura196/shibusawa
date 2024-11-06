@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-03-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前数多ノ来人ニ接ス、 <persname corresp=\"#pers_村山藤太\">\n<surname> 村山 </surname>\n<forename> 藤太 </forename>\n</persname> （ <placename corresp=\"#place_釜山広域市\"> 釜山 </placename> 京坂亭主人）、 <persname corresp=\"#pers_村上彰一\">\n<surname> 村上 </surname>\n<forename> 彰一 </forename>\n</persname> 、 <persname corresp=\"#pers_山田昌邦\">\n<surname> 山田 </surname>\n<forename> 昌邦 </forename>\n</persname> 、 <persname corresp=\"#pers_大原春次郎\">\n<surname> 大原 </surname>\n<forename> 春次郎 </forename>\n</persname> 諸氏来ル、午後 <orgname> 帝国大学 </orgname> ニ抵リ <persname corresp=\"#pers_菊池\">\n<surname> 菊池 </surname>\n</persname> 総長ニ面会シテ養育院医員ノ事、 <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> 博士ノ事、及 <orgname> 商業大学 </orgname> ノ事等ヲ談話ス、後文部省ニ抵リ梅次官ニ面会シテ <orgname> 商業大学\n       </orgname> ノ事ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.1,
+                    "lon": 129.033,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 過瓦斯会社重役会ニ列ス、畢テ <orgname> 日本銀行\n       </orgname> ニ抵リ <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 総裁ニ面会シテ経済上ノ事、及興信所ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n       銀行集会所ニ抵リ銀行条例改正委員会ニ列ス、畢テ夜 <placename corresp=\"#place_深川\"> 深川 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

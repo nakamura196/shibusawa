@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-06-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、半身浴ヲ為シテ朝飧ヲ食シ、後、修養団員、 <persname corresp=\"#pers_原\">\n<surname> 原 </surname>\n</persname> 、 <persname corresp=\"#pers_小塩\">\n<surname> 小塩 </surname>\n</persname> 二氏ノ来訪ニ接シテ、来ル <date evidence=\"year inferenced, month\" when=\"1911-06-11\"> 十一日 </date>\n<persname corresp=\"#pers_森村\">\n<surname> 森村 </surname>\n</persname> 邸会同ノ事ニ関シテ種々ノ意見ヲ示シ、且、案内状ノ草稿ヲ付与ス、 <persname corresp=\"#pers_戸ケ崎\">\n<surname> 戸ケ崎 </surname>\n</persname> 氏来リ就職ノ事ニ付依頼アリ、 <persname corresp=\"#pers_佐藤毅\">\n<surname> 佐藤 </surname>\n<forename> 毅 </forename>\n</persname> 氏来リ <placename corresp=\"#place_サンフランシスコ\"> 桑港 </placename>\n<orgname> クロニクル新聞 </orgname> ノ寄書ニ関シテ原稿ヲ説明セラル、依テ尚意見ヲ添ヘテ詳細ニ指示ス、午飧後、 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス、 <persname corresp=\"#pers_近藤正通\">\n<surname> 近藤 </surname>\n<forename> 正通 </forename>\n</persname> 氏及新婚ノ若夫婦来訪セラル、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 夫人来訪、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 37.76667,
+                    "lon": -122.43333,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 頃 <placename corresp=\"#place_アメリカ合衆国\">\n        米国 </placename> 宗教家夫妻、 <persname corresp=\"#pers_石川角次郎\">\n<surname> 石川 </surname>\n<forename> 角次郎 </forename>\n</persname> 氏同伴来訪セラル、庭園ヲ散歩シテ種々ノ談話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 午後五時半 </time>\n<placename corresp=\"#place_第六天町\"> 大六天《（第）》 </placename> ナル <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 公爵邸ニ抵ル、授爵紀念日ノ祝宴ニ陪スルナリ、老公及公爵夫妻主人ニテ、 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 伯、余及 <persname corresp=\"#pers_山内\">\n<surname> 山内 </surname>\n</persname> 氏、其他家令、家扶等ヲ饗宴セラル、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 宴罷テ、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

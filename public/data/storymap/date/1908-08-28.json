@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-08-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:00:00",
+                    "text": "<time when=\"05:00:00\"> 午前五時 </time> 起床、先ツ朝飧ヲ食シ、 <persname corresp=\"#pers_北垣\">\n<surname> 北垣 </surname>\n</persname> 男爵ト談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 六時半 </time> 発ノ汽車ニ搭シテ <placename corresp=\"#place_旭川\"> 旭川 </placename> ヲ発ス、暫時ニシテ汽車 <placename corresp=\"#place_石狩\"> 石狩\n       </placename> 川ニ沿ツテ進行ス、 <placename corresp=\"#place_神居古潭\"> 神居古 <pb corresp=\"#pageB1532\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/558/full/max/0/default.jpg\" n=\"B1532\" source=\"#pageB1532\"></pb> 潭 </placename> ノ絶景ヲ通過ス、 <placename corresp=\"#place_岩見沢市\">\n        岩見沢 </placename> 駅ニ抵リテ <persname corresp=\"#pers_宇野\">\n<surname> 宇野 </surname>\n</persname> 製麻会社取締役、 <persname corresp=\"#pers_川島\">\n<surname> 川島 </surname>\n</persname> 麦酒会社員来リテ行ヲ送ル、汽車中ニテ午飧シ、 <placename corresp=\"#place_栗山\"> 栗山 </placename>\n       駅ニ抵リテ多ク水田ヲ見ル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 43.731833,
+                    "lon": 142.2025,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 午後二時半 </time>\n<placename corresp=\"#place_夕張\"> 夕張 </placename> ニ達ス、 <persname corresp=\"#pers_足立\">\n<surname> 足立 </surname>\n</persname> 、 <persname corresp=\"#pers_前川\">\n<surname> 前川 </surname>\n</persname> 二氏途中マテ来リ迎フ、炭坑会社 <persname corresp=\"#pers_宇野鶴太\">\n<surname> 宇野 </surname>\n<forename> 鶴太 </forename>\n</persname> 氏《（礦）》モ同シク来ル、 <placename corresp=\"#place_夕張\"> 夕張 </placename> 着後、 <persname corresp=\"#pers_植村\">\n<surname> 植村 </surname>\n</persname> 氏及 <persname corresp=\"#pers_西\">\n<surname> 西 </surname>\n</persname>\n       技術長ニ誘ハレテ先ツ北海炭坑会社ノ各工場ヲ一覧シ、坑口ヲ視察ス、総テ其規模宏大ニシテ且精緻ナリ、就中安全灯ノ装置、通風機械ノ設備抔頗ル力ヲ尽セシモノト思ハル、一覧畢リテ鹿ノ谷停車場ニ抵リ、\n        <persname corresp=\"#pers_足立\">\n<surname> 足立 </surname>\n</persname> 氏ノ案内ニテ <placename corresp=\"#place_石狩\"> 石狩 </placename>\n       炭坑会社ノ諸設備ヲ一覧ス、新創ナレハ未タ整頓セスト云トモ営業ハ相応ノ見込アリト云フ、巡覧畢リテ <persname corresp=\"#pers_足立\">\n<surname> 足立 </surname>\n</persname> 氏ノ社宅ニ抵リ投宿ス、山中寂寥トシテ時々汽車通過ノ響アルノミ <lb></lb>\n<persname corresp=\"#pers_足立\">\n<surname> 足立 </surname>\n</persname> 氏社宅ハ仮設ナレトモ用意周到ニシテ、饗応モ亦鄭重ナリキ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

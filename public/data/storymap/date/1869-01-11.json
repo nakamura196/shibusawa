@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-01-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 暁、舟ニ而 <placename corresp=\"#place_深川\"> 深川 </placename> を発し、筋違ニ而上陸帰宿、 <persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤太夫 </forename>\n</persname> ハ直ニ礫邸に至り御内命等被仰付、被下物拝領 <lb></lb> 御小性頭取 <lb></lb>\n<persname corresp=\"#pers_柴田章彦\">\n<surname> 柴田 </surname>\n<forename> 章彦 </forename>\n</persname>\n<lb></lb> 御小納戸 <lb></lb>\n<persname corresp=\"#pers_今井与左衛門\">\n<surname> 今井 </surname>\n<forename> 与左衛門 </forename>\n</persname>\n<lb></lb> 外ニ荷物等調分いたし、包立之上明神下迄差立方取計、夫より田安御殿 <pb corresp=\"#pageB1032\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/58/full/max/0/default.jpg\" n=\"B1032\" source=\"#pageB1032\"></pb> 江出、郷省願済《（帰カ）》、諸事引合相済、夕方より麦斗ニ而小酌、 <persname corresp=\"#pers_田辺\">\n<surname> 田辺 </surname>\n</persname> 、 <persname corresp=\"#pers_塩田\">\n<surname> 塩田 </surname>\n</persname> 其外両人来 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

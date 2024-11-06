@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-05-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time>\n       起床、昨夜来腹部ヲ損シテ朝来洋食ヲ喫スルヲ得ス、粥ヲ以テ朝食トス、服薬摂養ス、船中殊ニ無事ナリ、時ニ江ノ両岸ニ島嶼又ハ村落ヲ見ル、終日読書又ハ囲碁ノ傍観等ニ消閑ス、腹部ノ工合漸次快方ニテ、夜ニ入リテハ少分ノ洋食ヲ食スルヲ得ル《（重脱カ）》、要書類ノ調査等ニ勉ム\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

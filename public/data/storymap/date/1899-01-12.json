@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-01-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 農商務省ニ抵リ <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 氏ト共ニ <persname corresp=\"#pers_曾根\">\n<surname> 曾根 </surname>\n</persname> 《（ <persname corresp=\"#pers_曾禰\">\n<surname> 曾禰 </surname>\n</persname> ）》大臣ニ面会シ、 <placename corresp=\"#place_清\"> 清国 </placename> ニ関スル貸金ノ事及 <placename corresp=\"#place_イギリス\"> 英国 </placename> ヨリ渡来セシベルスフオルト卿歓迎ノ事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 侯爵ヲ訪フ、逢ハス、明日ヲ約シテ帰ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_深川区\"> 深川区 </placename> ニ於テ区会ヲ開ク、且此会合ノ序ヲ以テ養育院感化部寄附金ノ事ヲ区会議員ニ委托ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 過銀行ニ抵リ重役会ヲ開キ行務数件ヲ議定ス、 <persname corresp=\"#pers_小崎\">\n<surname> 小崎 </surname>\n</persname> 氏来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename>\n<orgname> 湖月楼 </orgname> ニテ <orgname> 清水組 </orgname> 年始ノ招宴ヲ受ク、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時\n       </time> 帰宅、此夜 <persname corresp=\"#pers_柿沼谷蔵\">\n<surname> 柿沼 </surname>\n<forename> 谷蔵 </forename>\n</persname> 氏ニ <persname corresp=\"#pers_福島甲子三\">\n<surname> 福島 </surname>\n<forename> 甲子三 </forename>\n</persname> ノ事ヲ書状ニテ申遣ス、 <persname corresp=\"#pers_孕石元照\">\n<surname> 孕石 </surname>\n<forename> 元照 </forename>\n</persname> ニ書状ヲ発シテ其身上ノ事ヲ謝絶ス此日銀行ニテ <persname corresp=\"#pers_金子堅太郎\">\n<surname> 金子 </surname>\n<forename> 堅太郎 </forename>\n</persname> 氏ニ書状ヲ送テ人造肥料免税ノ事ヲ依頼ス、 <persname corresp=\"#pers_稲垣満治郎\">\n<surname> 稲垣 </surname>\n<forename> 満治郎 </forename>\n</persname> 氏ニ書ヲ発シテ <persname corresp=\"#pers_ペルスフオールト\"> ペルスフオールト </persname> 氏歓迎《（ <persname corresp=\"#pers_ベルスフオルトカ\"> ベルスフオルトカ </persname> ）》ノ事ヲ申遣ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

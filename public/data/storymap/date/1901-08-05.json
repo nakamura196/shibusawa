@@ -1,0 +1,59 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-08-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴酷暑、午前早ク <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ニ抵ル、二三ノ来人ニ接シ、更ニ京釜鉄道会社重役会ニ列ス、畢テ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ海軍大佐 <persname corresp=\"#pers_松本\">\n<surname> 松本 </surname>\n</persname> 氏及 <persname corresp=\"#pers_武田\">\n<surname> 武田 </surname>\n</persname> 氏等ト長門無煙炭ノ事ニ関シテ談話ス、 <persname corresp=\"#pers_小林秀知\">\n<surname> 小林 </surname>\n<forename> 秀知 </forename>\n</persname> 氏来会ス、畢テ <placename corresp=\"#place_麻布\"> 麻布 </placename>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 海軍中将ヲ訪ヒ船渠会社合併ニ関スル意見ヲ陳述ス、更ニ <persname corresp=\"#pers_角田\">\n<surname> 角田 </surname>\n</persname> 中将ヲ <placename corresp=\"#place_渋谷\"> 渋谷 </placename> ノ宅ニ訪ヒ、再ヒ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯邸ヲ訪フ、蓋シ此日ハ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ヨリ <persname corresp=\"#pers_原敬\">\n<surname> 原 </surname>\n<forename> 敬 </forename>\n</persname> 氏及 <persname corresp=\"#pers_室田\">\n<surname> 室田 </surname>\n</persname> 氏ヲ将来銀行業ニ従事スルニ付紹介ノ為同業者ヲ招宴セラレシタメナリ、 <orgname> 日本銀行 </orgname> 、 <orgname> 正金銀行\n       </orgname> 其他ノ諸銀行者来会ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.65985,
+                    "lon": 139.7029222,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

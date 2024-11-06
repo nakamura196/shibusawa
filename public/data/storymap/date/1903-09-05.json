@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-09-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇後晴、熱気更ニ高ク煩悶甚シキヲ以テ独乙国人 <persname corresp=\"#pers_エルヴィン_フォン_ベルツ\">\n<surname> ベルツ </surname>\n</persname> 氏ノ来診ヲ請フトス《（コト脱カ）》、明日午前来訪ノ事通シ来ル、来書ヲ一覧ニ止メ返信ヲ発スル能ハス、只就床閑々読書スルヲ得ルノミナリシ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

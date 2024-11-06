@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-02-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_小林徳重\">\n<surname> 小林 </surname>\n<forename> 徳重 </forename>\n</persname> 、 <persname corresp=\"#pers_富田達三郎\">\n<surname> 富田 </surname>\n<forename> 達三郎 </forename>\n</persname> 二氏ノ来訪ニ接ス、大正公論記者来話ス、 <persname corresp=\"#pers_足立\">\n<surname> 足立 </surname>\n</persname> 荒人、 <persname corresp=\"#pers_大橋只三郎\">\n<surname> 大橋 </surname>\n<forename> 只三郎 </forename>\n</persname> 二氏来リ園芸会社ノ事ヲ談ス、 <persname corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persname> 氏来リ水力電気ノ事ヲ談ス、午飧後青年会館ニ抵リ <persname corresp=\"#pers_孫文\">\n<surname> 孫 </surname>\n<forename> 文 </forename>\n</persname> 氏歓迎会ニ出席ス、開会ニ先テ辞《（マヽ）》リ去リテ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ、 <persname corresp=\"#pers_矢野謹爾\">\n<surname> 矢野 </surname>\n<forename> 謹爾 </forename>\n</persname> 氏婚儀披露会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 事務所ニ抵リ書類ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 一友人ト談話シ夜飧ヲ共ニシ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 帰宿、後、新聞紙ヲ一覧ス\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

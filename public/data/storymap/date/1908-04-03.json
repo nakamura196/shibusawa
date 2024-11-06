@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-04-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、感化部副幹事 <persname corresp=\"#pers_桜井円次郎\">\n<surname> 桜井 </surname>\n<forename> 円次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_鈴木佐恵茂\">\n<surname> 鈴木 </surname>\n<forename> 佐恵茂 </forename>\n</persname> 二氏来話ス、朝来書籍ヲ調査シ、 <persname corresp=\"#pers_皆川四郎\">\n<surname> 皆川 </surname>\n<forename> 四郎 </forename>\n</persname> ヘ書状ヲ裁ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 頃ヨリ <orgname> 竜門社 </orgname>\n       春季総会ノ為メ来会スル者頗ル多シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 開会、 <persname corresp=\"#pers_土岐\">\n<surname> 土岐 </surname>\n</persname> 〓氏ハ <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> ノ洋行ヲ送別スル為メ一場ノ演説アリ、尋テ <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 氏ノ答詞アリ、最終ニ余モ亦一場ノ送別演説ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n       ヨリ園遊会ヲ開キ、午飧ヲ庭園中ニ於テス、畢テ余興トシテ支那人ノ曲芸アリ、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 頃散会ス、後、 <placename corresp=\"#place_滝野川\"> 滝野川 </placename> 辺ヲ散歩シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n       帰宿ス、此日、会スル者凡五六百人許リナリキ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

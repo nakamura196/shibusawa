@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-01-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 午前海上保険会社重役会ニ出席ス、明治性命保険会社《（明治生命）》ニ抵リ <persname corresp=\"#pers_阿部泰蔵\">\n<surname> 阿部 </surname>\n<forename> 泰蔵 </forename>\n</persname> 氏ニ面会シ、 <orgname> 石川島造船所 </orgname> ニ係ル借入金ノ事ヲ談ス、更ニ三菱会社ヲ訪ヒ、 <persname corresp=\"#pers_岩崎久弥\">\n<surname> 岩崎 </surname>\n<forename> 久弥 </forename>\n</persname> 氏ニ会シテ <placename corresp=\"#place_清\"> 清国 </placename> 貸金ノ事、京仁鉄道ノ事ヲ談話ス、 <persname corresp=\"#pers_安川敬一郎\">\n<surname> 安川 </surname>\n<forename> 敬一郎 </forename>\n</persname> 氏、 <persname corresp=\"#pers_二橋元長\">\n<surname> 二橋 </surname>\n<forename> 元長 </forename>\n</persname> 氏ニ面会ス、午後銀行ニ抵リテ、若松郡長 <persname corresp=\"#pers_松本時正\">\n<surname> 松本 </surname>\n<forename> 時正 </forename>\n</persname> 《（ <placename corresp=\"#place_北会津\"> 北会津 </placename> ）》、 <persname corresp=\"#pers_佐治幸平\">\n<surname> 佐治 </surname>\n<forename> 幸平 </forename>\n</persname> ニ面話ス、岩越鉄道ノ事ニ関スル談話ナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 大蔵省 <persname corresp=\"#pers_松尾臣善\">\n<surname> 松尾 </surname>\n<forename> 臣善 </forename>\n</persname> 氏ヲ其局ニ訪ヒ、京仁鉄道下付金ノ事ヲ談話ス、 <orgname> 横浜正金銀行 </orgname>\n<persname corresp=\"#pers_高橋是清\">\n<surname> 高橋 </surname>\n<forename> 是清 </forename>\n</persname> 氏来会ス、此夜爪哇移住人 <persname corresp=\"#pers_峰岸\">\n<surname> 峰岸 </surname>\n</persname> 氏、 <persname corresp=\"#pers_堀越善重郎\">\n<surname> 堀越 </surname>\n<forename> 善重郎 </forename>\n</persname> 氏、其他、 <persname corresp=\"#pers_林権助\">\n<surname> 林 </surname>\n<forename> 権助 </forename>\n</persname> 、 <persname corresp=\"#pers_木内重四郎\">\n<surname> 木内 </surname>\n<forename> 重四郎 </forename>\n</persname> 、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 、 <persname corresp=\"#pers_矢野\">\n<surname> 矢野 </surname>\n</persname> 、 <persname corresp=\"#pers_坂谷\">\n<surname> 坂谷 </surname>\n</persname> 等《（ <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> ）》ノ諸氏ヲ招宴ス、 <persname corresp=\"#pers_峰岸茂太郎\">\n<surname> 峰岸 </surname>\n<forename> 茂太郎 </forename>\n</persname> 氏ヨリ <placename corresp=\"#place_ジャワ島\"> 爪哇 </placename> ノ移住民ニ関スル談話及幻灯ノ余興アリ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": -7.49167,
+                    "lon": 110.00444,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1899-01-24T01:00+0900\"> 一時 </time> 過散会ス <lb></lb> （欄外） <lb></lb> ［此夜商業会議所臨時会ニ出席シ、\n        <persname corresp=\"#pers_大江\">\n<surname> 大江 </surname>\n</persname> 氏ニ托シテ帰宅ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

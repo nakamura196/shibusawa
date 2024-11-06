@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-12-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝、 <persname corresp=\"#pers_西吉十郎\">\n<surname> 西 </surname>\n<forename> 吉十郎 </forename>\n</persname> 面会、夫より <persname corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n<forename> 愛蔵 </forename>\n</persname> 縁戚の <placename corresp=\"#place_両国広小路\"> 両国広小路 </placename> を尋、 <persname corresp=\"#pers_吉田次郎\">\n<surname> 吉田 </surname>\n<forename> 次郎 </forename>\n</persname> 面会《 <placename corresp=\"#place_箱舘\"> 箱舘 </placename> の新報承る》いたす <lb></lb> 夕方独行ニ而\n        <persname corresp=\"#pers_梅田慎之助\">\n<surname> 梅田 </surname>\n<forename> 慎之助 </forename>\n</persname> を尋、留守中ニ付婦人面会、折節郷里の従妹罷越居りしとて、呼寄、面会、旧話徹夜 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

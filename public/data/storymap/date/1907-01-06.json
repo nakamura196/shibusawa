@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-01-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1434\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/460/full/max/0/default.jpg\" n=\"B1434\" source=\"#pageB1434\"></pb>\n<lb></lb> 起床直ニ入浴シテ後日記ヲ編成ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ為シ、新聞紙ヲ一覧シ夫ヨリ揮毫ヲ試ム、午飧後モ尚之ヲ続ク、\n        <persname corresp=\"#pers_桃井可雄\">\n<surname> 桃井 </surname>\n<forename> 可雄 </forename>\n</persname> 来話ス、昨年生糸販売ノ景況ヲ詳説セラル、夜食マテ揮毫ヲ為シ数十紙ニ及フ、食後読書ニ閑ヲ消ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

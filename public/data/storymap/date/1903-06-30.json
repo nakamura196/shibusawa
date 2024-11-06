@@ -1,0 +1,89 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-06-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n       宮内省ニ抵ル、大臣、次官トモニ出省ナキヲ以テ名刺ヲ留メテ去ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 磐城炭坑会社ニ抵リ重役会ニ列ス、畢テ\n        <orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、 <persname corresp=\"#pers_宇野保太郎\">\n<surname> 宇野 </surname>\n<forename> 保太郎 </forename>\n</persname> 氏来リ製麻会社善後処分ノ事ヲ談ス、 <persname corresp=\"#pers_日下義雄\">\n<surname> 日下 </surname>\n<forename> 義雄 </forename>\n</persname> 氏来リテ <orgname> 七十七銀行 </orgname> 業務改良方針ニ関シ、其調査書類ヲ以テ得失ヲ討議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\">\n        午後二時 </time>\n<persname corresp=\"#pers_前島\">\n<surname> 前島 </surname>\n</persname> 、 <persname corresp=\"#pers_塚原\">\n<surname> 塚原 </surname>\n</persname> 、 <persname corresp=\"#pers_富岡\">\n<surname> 富岡 </surname>\n</persname> ノ三氏来リテ、浦賀船渠会社ニテ製造シタルヒリツピン政府ヨリ注文ノ船舶ニ関シテ将来ノ処分方法ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<orgname> 日本煉瓦会社 </orgname> 事務所ニ抵リ埼玉誘掖会評議員会ヲ開ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 再ヒ\n        <orgname> 第一銀行 </orgname> ニ抵リ、 <placename corresp=\"#place_仙台\"> 仙台 </placename>\n<orgname> 七十七銀行 </orgname> 整理ニ関シ、 <persname corresp=\"#pers_平岡\">\n<surname> 平岡 </surname>\n</persname> 書記官、 <persname corresp=\"#pers_早川\">\n<surname> 早川 </surname>\n</persname> 市長、 <persname corresp=\"#pers_遠藤頭取\">\n<surname> 遠藤 </surname> 頭取 </persname> 、 <persname corresp=\"#pers_大森\">\n<surname> 大森 </surname>\n</persname> 監査役等ニ会話ス、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 支配人同席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 過談畢テ、 <persname corresp=\"#pers_堀越\">\n<surname> 堀越 </surname>\n</persname> 、 <persname corresp=\"#pers_赤羽\">\n<surname> 赤羽 </surname>\n</persname> 二氏ノ来訪ニ接シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 七時半 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

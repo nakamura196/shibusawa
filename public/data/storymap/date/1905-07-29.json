@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-07-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、庭内ヲ散歩シ、入浴畢テ後朝飧ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 九時半 </time>\n<orgname> 第一銀行 </orgname> ニ出勤シ、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> ヨリ渡来セル\n        <persname corresp=\"#pers_閔丙奭\">\n<surname> 閔 </surname>\n<forename> 丙奭 </forename>\n</persname> 、 <persname corresp=\"#pers_閔泳錡\">\n<surname> 閔 </surname>\n<forename> 泳錡 </forename>\n</persname> 《（ <persname corresp=\"#pers_閔泳綺\">\n<surname> 閔 </surname>\n<forename> 泳綺 </forename>\n</persname> ）》等一行ノ来訪ニ接シ、種々ノ談話ヲ為シ、行内ヲ一覧セシム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n       偕楽園ニ抵リ製麻会社ノ重役会ニ出席シ計算表ヲ一覧ス、午飧後水天宮辺ニ抵リ知人ヲ訪フ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <persname corresp=\"#pers_高松豊吉\">\n<surname> 高松 </surname>\n<forename> 豊吉 </forename>\n</persname> 氏ト共ニ <persname corresp=\"#pers_岸精一\">\n<surname> 岸 </surname>\n<forename> 精一 </forename>\n</persname> 《（ <persname corresp=\"#pers_岸清一\">\n<surname> 岸 </surname>\n<forename> 清一 </forename>\n</persname> ）》ニ夕張炭山ニ関スル契約事項ヲ協議シ、約定書案ノ作成ヲ依托ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n       紅葉館ニ抵リ韓客一行招待会ニ列ス、蓋シ京釜鉄道会社ノ催フス所ナリ、夜飧後、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

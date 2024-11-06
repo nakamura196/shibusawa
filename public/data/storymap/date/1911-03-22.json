@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-03-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、風邪気ニテ半身浴ヲ為シ、畢テ朝飧ヲ食シ、 <placename corresp=\"#place_早稲田\">\n        早稲田 </placename> 青年講習録記者ノ訪問ニ接シテ、少年離郷ノ理由ニ関シテ懐旧談ヲ為ス、グラヒツク記者ノ来訪ニ接ス、午飧後、 <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 氏来話ス <lb></lb>\n<persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診セラル、終日、臥床中ニ於テ新聞紙又ハ雑誌類ヲ読ム <persname corresp=\"#pers_豊崎信\">\n<surname> 豊崎 </surname>\n<forename> 信 </forename>\n</persname> 氏ヘ電話ヲ通シテ、 <placename corresp=\"#place_日本橋\"> 日本橋 </placename> 開通式ノ事ニ付老公ヘ臨場ヲ請フ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

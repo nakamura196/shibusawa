@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-12-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 暁より <placename corresp=\"#place_日本\"> 日本 </placename> 南陲の島嶼を認む、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時\n       </time> 頃、 <placename corresp=\"#place_モンシケン\"> モンシケン </placename> といふ島の辺を〓行す、夫より <placename corresp=\"#place_硫黄島\"> 硫黄島 </placename> 、 <placename corresp=\"#place_竹島\"> 竹島 </placename>\n       を際して〓行す、 <placename corresp=\"#place_海門岳\"> 海門岳 </placename> 《（ <placename corresp=\"#place_開聞\">\n        開聞 </placename> ）》を船の左辺に認る、追々 <placename corresp=\"#place_薩隅\"> 薩隅 </placename>\n       南辺の諸山を見る、風強く舟行速なり <lb></lb> 三ツ部屋、弐ツ中檀、弐ツ下檀入、〆七ツ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 37.24167,
+                    "lon": 131.86667,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

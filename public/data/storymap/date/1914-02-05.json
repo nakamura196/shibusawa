@@ -1,0 +1,89 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-02-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴静坐シテ朝飧ヲ食ス、 <persname corresp=\"#pers_伊藤守松\">\n<surname> 伊藤 </surname>\n<forename> 守松 </forename>\n</persname> 氏、 <persname corresp=\"#pers_斎藤恒三\">\n<surname> 斎藤 </surname>\n<forename> 恒三 </forename>\n</persname> 氏及支店支配人 <persname corresp=\"#pers_永田\">\n<surname> 永田 </surname>\n</persname> 夫妻、 <persname corresp=\"#pers_伊藤伝七\">\n<surname> 伊藤 </surname>\n<forename> 伝七 </forename>\n</persname> 夫妻等来訪ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時半 </time> 自働車ニテ市ノ北部ニ設立セル国技館ノ新築ヲ一覧ス、 <persname corresp=\"#pers_伊藤守松\">\n<surname> 伊藤 </surname>\n<forename> 守松 </forename>\n</persname> 氏ノ誘引ニヨル一覧後 <persname corresp=\"#pers_松井\">\n<surname> 松井 </surname>\n</persname> 知事官舎ニ抵リ、地方人士有力ノ者二十名余会合シテ救済会ノ趣旨ヲ演説ス、畢テ知事ヨリ午飧ノ饗応アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時\n       </time> 過市会議事堂ニ於テ地方多数ノ人集合シテ救済会ノ趣旨ヲ演説ス、後、知事、市長ヨリモ寄附金勧誘ノ言アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n       過散会ス、夫ヨリ旅舎ニ抵リ小憩シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<orgname> 魚半楼 </orgname> ニ抵ル、名古屋支店ノ招宴ニヨル、潮参事官、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname>\n<persname corresp=\"#pers_斎藤\">\n<surname> 斎藤 </surname>\n</persname> 及支店ノ人々会同ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会、帰宿ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時\n       </time> 就寝 <lb></lb> （欄外） <lb></lb> ［ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 頃 <placename corresp=\"#place_名古屋\"> 名古屋 </placename> 本店ニ抵リ行員ニ一場ノ訓示ヲ為ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

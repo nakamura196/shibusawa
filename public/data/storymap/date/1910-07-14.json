@@ -1,0 +1,107 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-07-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ、朝飧ヲ食ス、後、 <persname corresp=\"#pers_野依秀市\">\n<surname> 野依 </surname>\n<forename> 秀一 </forename>\n</persname> 氏ノ来訪アリ、雑誌ニ関シテ種々ノ談話ヲ為ス、 <orgname> 報知新聞社 </orgname>\n<persname corresp=\"#pers_中村\">\n<surname> 中村 </surname>\n</persname> 氏来リ、過日来依頼セラレシ事ヲ談ス <lb></lb>\n<persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<orgname> 東京瓦斯会社 </orgname> ニ抵リ、 <placename corresp=\"#place_北海道\"> 北海道 </placename>\n       ニ創設スヘキ瓦斯事業ニ付発起者会ヲ開キ要務ヲ協議ス、畢テ <persname corresp=\"#pers_高松\">\n<surname> 高松 </surname>\n</persname> 、 <persname corresp=\"#pers_久米\">\n<surname> 久米 </surname>\n</persname> 、 <persname corresp=\"#pers_福島\">\n<surname> 福島 </surname>\n</persname> 氏等ト談話シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 43.064333,
+                    "lon": 141.346889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、畢テ重役会ヲ開キ要務ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 二時半 </time>\n       事務所ニ抵リテ来人ニ接シ、又、書類ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:30:00",
+                    "text": "<time when=\"15:30:00\"> 三時半 </time>\n<placename corresp=\"#place_上野\"> 上野 </placename> 墓所ニ抵リ宝光院ノ忌日ニ詣ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename> 新喜楽ニ抵リ、 <orgname> 帝商銀行 </orgname> ノ招宴ニ出席ス、\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time> 辞シ去リテ <placename corresp=\"#place_三田\"> 三田 </placename>\n       邸ニ抵リ、親戚ノ会同ニ列席ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

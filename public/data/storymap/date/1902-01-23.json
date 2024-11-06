@@ -1,0 +1,101 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-01-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 朝飧ヲ畢リ書類ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_虎ノ門\"> 虎ノ門 </placename> ナル御料局ニ抵リ <persname corresp=\"#pers_岩村\">\n<surname> 岩村 </surname>\n</persname> 局長ニ面会シ、江《（井）》ノ頭御料地ノ事ヲ談話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6668583,
+                    "lon": 139.7475,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time> 東京市役所ニ抵リ <persname corresp=\"#pers_浦田\">\n<surname> 浦田 </surname>\n</persname> 助役ニ面会シテ御料地ノ事、及感化部別置ニ関スル将来ノ措置如何ヲ談ス、更ニ東京府庁ニ抵リ、 <persname corresp=\"#pers_千家尊福\">\n<surname> 千家 </surname>\n</persname> 知事不在ナルニ付 <persname corresp=\"#pers_阪本\">\n<surname> 阪本 </surname>\n</persname> 書記官ニ面会シテ感化部ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ出勤ス、 <persname corresp=\"#pers_萩原源太郎\">\n<surname> 萩原 </surname>\n<forename> 源太郎 </forename>\n</persname> 来リ外人招宴ノ事ヲ協議ス、 <persname corresp=\"#pers_島津忠斎\">\n<surname> 島津 </surname>\n<forename> 忠斎 </forename>\n</persname> 氏《（ <persname corresp=\"#pers_島津忠済\">\n<surname> 島津 </surname>\n<forename> 忠済 </forename>\n</persname> 氏）》来リ朝鮮協会ノ事ヲ談ス、 <persname corresp=\"#pers_岸宇吉\">\n<surname> 岸 </surname>\n<forename> 宇吉 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_渡邊嘉一\">\n<surname> 渡辺 </surname>\n<forename> 嘉一 </forename>\n</persname> 氏来話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<orgname> 第一銀行 </orgname> 重役会ヲ開ク <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n       貸付金ノ事ニ関シ外務省 <persname corresp=\"#pers_山座\">\n<surname> 山座 </surname>\n</persname> 公使氏ヨリ来書アリ、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n       銀行集会所ニ抵リ総会ヲ開ク、事務計算ノ報告ヲ畢リ本季ノ予算ヲ決議シ役員ノ改撰ヲ為ス、更ニ銀行法ニ関スル問題ヲ議シ、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 午後八時 </time>\n<placename corresp=\"#place_葵町\"> 葵町 </placename>\n<persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏招宴ニ抵ル、種々ノ余興アリ、 <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 、 <persname corresp=\"#pers_高橋\">\n<surname> 高橋 </surname>\n</persname> 、 <persname corresp=\"#pers_相馬\">\n<surname> 相馬 </surname>\n</persname> 、 <persname corresp=\"#pers_三崎\">\n<surname> 三崎 </surname>\n</persname> 、 <persname corresp=\"#pers_中井\">\n<surname> 中井 </surname>\n</persname> 、 <persname corresp=\"#pers_園田\">\n<surname> 園田 </surname>\n</persname> 、 <persname corresp=\"#pers_近藤\">\n<surname> 近藤 </surname>\n</persname> ノ諸氏来会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

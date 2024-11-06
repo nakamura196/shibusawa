@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-03-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴ヲ見合ハセ直ニ朝飧ヲ食ス、 <persname corresp=\"#pers_熊谷辰太郎\">\n<surname> 熊谷 </surname>\n<forename> 辰太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 其他大阪支店ノ人及紡績会社又ハ <orgname> 汽車製造会社 </orgname> 々員等多数来訪ス、 <persname corresp=\"#pers_岩本\">\n<surname> 岩本 </surname>\n</persname> 氏ノ代理トシテ <persname corresp=\"#pers_栗山寛一\">\n<surname> 栗山 </surname>\n<forename> 寛一 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<orgname> 堺卯楼 </orgname> ニ抵ル、 <persname corresp=\"#pers_熊谷\">\n<surname> 熊谷 </surname>\n</persname> 、 <persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 同伴ス、 <persname corresp=\"#pers_岩本\">\n<surname> 岩本 </surname>\n</persname> 氏ノ追善会ニ列席シ、其家人親戚等ニ面会シ、陳列セル古書画及什器類ヲ一覧ス、就中楊文驄ノ画ハ頗ル名声アルモノナリ、畢テ北浜銀行ニ抵リテ午飧ヲ饗セラル、\n        <placename corresp=\"#place_高崎\"> 高崎 </placename> 知事、 <persname corresp=\"#pers_植村\">\n<surname> 植村 </surname>\n</persname> 市長及地方名力《（有）》ナル人士十数名来会ス、畢テ別室ニ一会場ヲ開キ、 <persname corresp=\"#pers_岩本栄之助\">\n<surname> 岩本 </surname>\n<forename> 栄之助 </forename>\n</persname> 氏此回ノ美挙ニ付来由ヲ詳叙ス、畢テ知事先ツ口ヲ開キ大体ノ賛同ヲ表シ、尋テ各自其意見ヲ陳述シ、全体ノ同意ヲ以テ知事ト市長ト <persname corresp=\"#pers_栗山\">\n<surname> 栗山 </surname>\n</persname> 氏トヲ委員ト定メ、 <persname corresp=\"#pers_岩本\">\n<surname> 岩本 </surname>\n</persname> 氏ノ企望ヲ原案トシテ相当ノ成案ヲ調査シ追テ一同ノ賛成ヲ求ムル事トシテ散会ス <lb></lb> 畢テ <persname corresp=\"#pers_岩本\">\n<surname> 岩本 </surname>\n</persname> 氏ノ案内ニテ文楽座ニ抵リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 過キ再ヒ堺卯ニテ <persname corresp=\"#pers_岩本\">\n<surname> 岩本 </surname>\n</persname> 氏ノ宴会ニ出席シ、饗宴散シテ、更ニ <placename corresp=\"#place_大阪\"> 大阪 </placename> ナル帝国劇場ニ抵リ、\n        <placename corresp=\"#place_名古屋\"> 名古屋 </placename> 芸妓ノ舞踊ヲ一覧シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1911-03-09T00:00+0900\"> 十二時 </time> 過帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-01-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後直ニ入浴シ、了テ朝飧ヲ喫ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:05:00",
+                    "text": "<time when=\"08:05:00\"> 午前八時五分 </time> 発ノ汽車ニテ <placename corresp=\"#place_東京\"> 東京 </placename> ニ抵ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:40:00",
+                    "text": "<time when=\"10:40:00\"> 十時四十分 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 着、直ニ馬車ニテ <placename corresp=\"#place_日本橋兜町\">\n        兜町 </placename> 事務所ニ抵リ留守中ノ事務ヲ処理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 過 <orgname> 第一銀行\n       </orgname> ニ於テ午飧シ二三ノ来人ニ接ス、午 <pb corresp=\"#pageB1435\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/461/full/max/0/default.jpg\" n=\"B1435\" source=\"#pageB1435\"></pb> 後 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time> 過事務所ニ於テ亜鉛煉工所創立委員会ヲ開ク、\n        <persname corresp=\"#pers_中野\">\n<surname> 中野 </surname>\n</persname> 、 <persname corresp=\"#pers_鳩山\">\n<surname> 鳩山 </surname>\n</persname> 、 <persname corresp=\"#pers_大橋\">\n<surname> 大橋 </surname>\n</persname> 、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 、 <persname corresp=\"#pers_堀田\">\n<surname> 堀田 </surname>\n</persname> 諸氏来会ス、畢テ <orgname> 第一銀行 </orgname> ニ抵リ重役会ヲ開ク、議事畢テ再ヒ事務所ニ抵リテ数多ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 過 <placename corresp=\"#place_番町\"> 番町 </placename>\n       ニ抵リ友人ヲ訪フ、夜飧後、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過 <placename corresp=\"#place_飛鳥山邸\"> 王子別荘\n       </placename> ニ帰宿ス <lb></lb>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 着ノ後麻布ニ抵リ <persname corresp=\"#pers_三井八郎右衛門\">\n<surname> 三井 </surname>\n<forename> 八郎右衛門 </forename>\n</persname> ノ病ヲ訪フ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

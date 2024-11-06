@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-07-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後直ニ朝飧ヲ為シ、人車ニテ <placename corresp=\"#place_草梁\"> 草梁 </placename> ニ抵リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 六時 </time> 発ノ汽車ニ搭シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 過 <placename corresp=\"#place_大邱広域市\">\n        大邱 </placename> ニ抵ル、 <persname corresp=\"#pers_泉末治\">\n<surname> 泉 </surname>\n<forename> 末治 </forename>\n</persname> 其他地方ノ人士数十人来リ迎フ、歩シテ <orgname> 第一銀行 </orgname>\n       出張所ニ抵リ、店員ニ面会シ行務ノ概況ヲ視ル、財務官其他来話ス、韓人数名来リテ少話ス、此地ニ人車ナキヲ以テ輿ニ乗リテ市中ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時\n       </time> 頃達城館ニ抵リ地方有志ノ饗宴ヲ享ク、午飧畢リテ後一場ノ講話ヲ為シ、専ラ <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n       農事改良ヲ説ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 過 <placename corresp=\"#place_大邱広域市\"> 大邱\n       </placename> ヲ発シ <placename corresp=\"#place_三浪津\"> 三浪津 </placename> ニ抵リ、 <placename corresp=\"#place_馬山浦\"> 馬山浦 </placename> 行ノ汽車ニ乗替ヘ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time> 過\n        <placename corresp=\"#place_馬山浦\"> 馬山浦 </placename> ニ着ス、 <persname corresp=\"#pers_三増久米吉\">\n<surname> 三増 </surname>\n</persname> 理事其他地方人士数十人来リ迎フ、 <persname corresp=\"#pers_中村\">\n<surname> 中村 </surname>\n</persname>\n<orgname> 第一銀行 </orgname> 出張所主任ハ <placename corresp=\"#place_三浪津\"> 三浪津 </placename> ニ来リ迎フ、夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過 <placename corresp=\"#place_馬山浦\"> 馬山浦 </placename> 新市街ニ在ル\n        <orgname> 望月楼 </orgname> ニ投宿ス、地方人数名来話ス、夜ニ入リテ少雨、風冷シ <lb></lb>\n<pb corresp=\"#pageB1430\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/456/full/max/0/default.jpg\" n=\"B1430\" source=\"#pageB1430\"></pb>\n<lb></lb>\n<placename corresp=\"#place_草梁\"> 草梁 </placename> 停車場ニテ <persname corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persname> 氏ニ面会シ、 <placename corresp=\"#place_東京\"> 東京 </placename>\n<persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ヘ <placename corresp=\"#place_北海道\"> 北海道 </placename> 木材ノ件ニ関シ <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 氏ト共ニ詳細ノ伝語ヲ托ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 43.064333,
+                    "lon": 141.346889,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

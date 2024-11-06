@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-05-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、然レトモ風邪気ナルヲ以テ、更ニ褥中ニ在テ朝飧シ、各新聞紙ヲ一覧シ書類ヲ整理ス <lb></lb> 此日、\n        <orgname> 第一銀行 </orgname> 重役会当日ナリシモ病ヲ以テ欠席ノ事ヲ電話シ遣ス <lb></lb>\n<persname corresp=\"#pers_堀越美代子\">\n<surname> 堀越 </surname>\n<forename> 美代子 </forename>\n</persname> ト <persname corresp=\"#pers_綱島鉄蔵\">\n<surname> 綱島 </surname>\n<forename> 鉄蔵 </forename>\n</persname> 氏トノ婚儀ニ関シ、先般来種々ノ協議調整シ、此日結納ノ当日ナルモ病ノ為出席シ得サルヲ以テ、 <persname corresp=\"#pers_尾高幸五郎\">\n<surname> 尾高 </surname>\n<forename> 幸五郎 </forename>\n</persname> ヲ以テ双方ニ代理タラシテ《（メ脱）》結納ノ式ヲ結了ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

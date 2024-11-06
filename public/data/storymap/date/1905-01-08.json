@@ -1,0 +1,73 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-01-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:15:00",
+                    "text": "<time when=\"07:15:00\"> 午前七時十五分 </time> 起床、室内運動後、朝飧ヲ喫ス <lb></lb> 食後又教育ノ詔ヲ書ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 、 <persname corresp=\"#pers_田中元三郎\">\n<surname> 田中 </surname>\n<forename> 元三郎 </forename>\n</persname> 二氏来リ <orgname> 人造肥料会社 </orgname>\n       ニテ買入ヘキ燐礦石ノ事ヲ談シ、且本月ノ株主総会ニ提出スヘキ増株ニ関スル議案ヲ協議シ、燐礦ニ付テハ明日 <orgname> イリス商会 </orgname> ニ照会スヘキ事トシ、且来ル\n        <date evidence=\"year inferenced, month\" when=\"1905-01-14\"> 十四日 </date> 午後 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ重役会ヲ開ク事ヲ約ス、 <orgname> 第一銀行 </orgname>\n<persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ニ書状ヲ発シ <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 来状ヲ封入一覧セシム、 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> ニ二回ノ書状ヲ送ル、 <persname corresp=\"#pers_渋沢作太郎\">\n<surname> 渋沢 </surname>\n<forename> 作太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 二氏来訪セラル <lb></lb>\n"
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> ヨリ <placename corresp=\"#place_大磯町\"> 大磯 </placename>\n       市街ヲ散歩シ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 帰寓ス、 <persname corresp=\"#pers_前田青莎\">\n<surname> 前田 </surname>\n<forename> 青莎 </forename>\n</persname> 氏来リ岩越鉄道会社ノ重役談アリ <lb></lb> 夜、甲子夜話ヲ読ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

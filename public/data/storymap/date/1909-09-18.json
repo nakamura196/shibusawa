@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-09-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time>\n       起床、入浴シ畢テ朝飧ヲ食ス、後、旅館ノ前ヨリ小蒸気船ニテ湖水ニ出テ、鉱石、石炭又ハ穀物等ノ積卸ニ関スル設備ヲ見ル、午後メーソン社ニ抵リテ午飧シ、午後市街ヲ遊覧ス、小山ノ上ヨリ湖面ヲ眺望スル光景頗ル佳ナリ、夕方一鉄工場ニ抵リ、更ニ化学工場ヲ一覧ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time> 再ヒメーソン結社ノ会堂ニ抵リ晩飧ス、司会者ヨリ歓迎ノ辞アリ、依テ答辞ヲ述ヘ、畢テ汽車ニ搭シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 汽車 <placename corresp=\"#place_ミネアポリス\"> ミネヤホリス </placename>\n       ニ向テ出発ス <lb></lb> 明日 <placename corresp=\"#place_ミネアポリス\"> ミネヤホリス </placename>\n       ニ於テ大統領謁見ノ筈ニ付、其際ニ演説スヘキ原案ヲ、 <persname corresp=\"#pers_頭本元貞\">\n<surname> 頭本 </surname>\n</persname> 、 <persname corresp=\"#pers_水野幸吉\">\n<surname> 水野 </surname>\n</persname> 二氏ニ協議シテ文案ヲ車中ニ於テ起草ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 44.98,
+                    "lon": -93.26417,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

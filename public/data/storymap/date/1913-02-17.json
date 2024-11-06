@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-02-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シテ朝飧ヲ食ス、 <persname corresp=\"#pers_坂本\">\n<surname> 坂本 </surname>\n</persname> 則美氏来リ土地改良会社創立ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ <persname corresp=\"#pers_孫文\">\n<surname> 孫 </surname>\n<forename> 文 </forename>\n</persname> 氏ヲ訪問ス、 <persname corresp=\"#pers_何天炯\">\n<surname> 何 </surname>\n<forename> 天炯 </forename>\n</persname> 氏ノ通訳ニテ時事及経済上ノ談ヲ為ス、又、米人 <persname corresp=\"#pers_メヒー\">\n<surname> メヒー </surname>\n</persname> 氏ヲ訪問シ、近日 <placename corresp=\"#place_関西\"> 関西 </placename> 旅行ノ慰問ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 過 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ニ抵、来人ニ接シ又書状ヲ認メ来書ヲ撿閲ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time>\n       銀行集会所ニ抵リ、新築委員会ヲ開キ新築事務ヲ協議ス、畢テ再ヒ事務所ニ抵リ、庶務ヲ処理ス、 <persname corresp=\"#pers_山本条太郎\">\n<surname> 山本 </surname>\n<pb corresp=\"#pageB1759\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/785/full/max/0/default.jpg\" n=\"B1759\" source=\"#pageB1759\"></pb>\n<forename> 条太郎 </forename>\n</persname> 氏来リ <persname corresp=\"#pers_孫文\">\n<surname> 孫 </surname>\n</persname> 氏会談ノ要件ヲ談話ス、前後数人ノ来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 午後六時半 </time>\n<placename corresp=\"#place_支那\"> 支那 </placename> 公使館ノ招宴ニ出席ス、 <persname corresp=\"#pers_孫文\">\n<surname> 孫 </surname>\n<forename> 文 </forename>\n</persname> 氏渡来ニ付紹介ノ為メニ開催スルモノナリ、食卓上公使及 <persname corresp=\"#pers_孫文\">\n<surname> 孫 </surname>\n</persname> 氏ノ演説アリ、余モ一場ノ答詞ヲ述ヘ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過散会、帰宿後、新聞紙雑誌類ヲ読ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

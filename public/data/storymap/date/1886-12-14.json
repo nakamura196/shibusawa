@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1886-12-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、朝、 <orgname> 三井銀行 </orgname>\n<persname corresp=\"#pers_浅井\">\n<surname> 浅井 </surname>\n</persname> 氏、 <persname corresp=\"#pers_中井三郎兵衛\">\n<surname> 中井 </surname>\n<forename> 三郎兵衛 </forename>\n</persname> 、 <persname corresp=\"#pers_山岸嘉蔵\">\n<surname> 山岸 </surname>\n<forename> 嘉蔵 </forename>\n</persname> 等来テ織物会社創立ノ事ヲ談ス、 <persname corresp=\"#pers_荒川新一郎\">\n<surname> 荒川 </surname>\n<forename> 新一郎 </forename>\n</persname> 氏来ル、織物会社ニ関スル書類調査ノ事ヲ托シ、且来ル <date evidence=\"year inferenced, month\" when=\"1886-12-16\"> 十六日 </date> 午後地方発起者ト会合談話ノ事ヲ約ス、 <persname corresp=\"#pers_高木斎造\">\n<surname> 高木 </surname>\n<forename> 斎造 </forename>\n</persname> 来ル、同シク織物会社ノ事ヲ談ス、 <persname corresp=\"#pers_稲畑勝太郎\">\n<surname> 稲畑 </surname>\n<forename> 勝太郎 </forename>\n</persname> 来ル、大坂店 <persname corresp=\"#pers_熊谷\">\n<surname> 熊谷 </surname>\n</persname> 来訪ス、神戸店 <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> ハ来ル <date evidence=\"year inferenced, month\" when=\"1886-12-17\"> 十七 </date>\n<date evidence=\"year inferenced, month\" when=\"1886-12-18\"> 八日 </date>\n       頃同地ヘ巡回ノ事ヲ約シテ帰店ス、四日市支店営業ノ見込ヲ <persname corresp=\"#pers_八巻\">\n<surname> 八巻 </surname>\n</persname> ニ細説ス <lb></lb>\n<placename corresp=\"#place_東京\"> 東京 </placename>\n<persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> ヘ郵書ヲ発シテ、 <persname corresp=\"#pers_稲畑\">\n<surname> 稲畑 </surname>\n</persname> 氏ヨリ借リ置キタル染物ノ見本逓送ノ事ヲ書通ス <lb></lb>\n<pb corresp=\"#pageB1065\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/91/full/max/0/default.jpg\" n=\"B1065\" source=\"#pageB1065\"></pb>\n<lb></lb>\n<persname corresp=\"#pers_陸奥宗光\">\n<surname> 陸奥 </surname>\n<forename> 宗光 </forename>\n</persname> 氏ヘ一書ヲ送リテ、第二銀行増株ノ事ニ付、 <persname corresp=\"#pers_原善三郎\">\n<surname> 原 </surname>\n<forename> 善三郎 </forename>\n</persname> 氏ニ於テ仲裁ヲ諾セサルニ付、此取扱ヲ謝絶ノ旨ヲ通知ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 、一力楼ノ宴会ニ赴シ《（ク）》、蓋シ <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏疎水工事ヲ引受ケタルニ付、京都府知事及其吏員ヲ招請開宴スルモノナリ、坐間 <persname corresp=\"#pers_北垣\">\n<surname> 北垣 </surname>\n</persname> 府知事ト織物会社創立ノ事ヲ話ス <lb></lb> 夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 宴散シテ後、 <persname corresp=\"#pers_岸サク\">\n<surname> 岸 </surname>\n<forename> サク </forename>\n</persname> ノ家ヲ訪フテ一泊ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

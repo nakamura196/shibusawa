@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1886-06-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_四日市\"> 四日市 </placename> ヲ発シテ、 <persname corresp=\"#pers_熊谷\">\n<surname> 熊谷 </surname>\n</persname> 、 <persname corresp=\"#pers_八巻\">\n<surname> 八巻 </surname>\n</persname> 、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 、諸氏ト共ニ <placename corresp=\"#place_津\"> 津 </placename> ニ赴ク、 <persname corresp=\"#pers_後藤仁兵衛\">\n<surname> 後藤 </surname>\n<forename> 仁兵衛 </forename>\n</persname> 昨夜ヨリ来リ迎フ、依テ同行ス、 <placename corresp=\"#place_追分\"> 追分 </placename> 、 <placename corresp=\"#place_神戸\"> 神戸 </placename> 、 <placename corresp=\"#place_白子\"> 白子 </placename> ヲ経テ\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<placename corresp=\"#place_津\"> 津 </placename> ニ抵リ、大観亭ニ投宿ス、 <persname corresp=\"#pers_後藤\">\n<surname> 後藤 </surname>\n</persname> 、 <persname corresp=\"#pers_佐伯\">\n<surname> 佐伯 </surname>\n</persname> 、 <persname corresp=\"#pers_松本\">\n<surname> 松本 </surname>\n</persname> 及 <orgname> 第百五銀行 </orgname> 員、 <orgname> 三井銀行 </orgname> 員等来話ス、県官 <persname corresp=\"#pers_日置\">\n<surname> 日置 </surname>\n</persname> 某来訪ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time> 県令ノ招宴ニ応シテ公園地苦楽部《（マヽ）》ニ到ル、食後款談数刻、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1886-06-02T00:00+0900\"> 十二時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

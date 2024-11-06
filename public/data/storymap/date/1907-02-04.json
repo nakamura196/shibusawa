@@ -1,0 +1,100 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-02-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後数多ノ来人ニ接ス、 <persname corresp=\"#pers_安中\">\n<surname> 安中 </surname>\n</persname> 某電気器械ノ事ヲ談シ、 <persname corresp=\"#pers_五十嵐\">\n<surname> 五十嵐 </surname>\n</persname> 外一人経済界ノ事ヲ話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 前朝飧ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> ト共ニ <persname corresp=\"#pers_荒川\">\n<surname> 荒川 </surname>\n</persname> 其他ノ人々ト花筵ノ事ヲ談シ、又 <persname corresp=\"#pers_渋沢成一郎\">\n<surname> 渋沢 </surname>\n<forename> 喜作 </forename>\n</persname> 、 <persname corresp=\"#pers_益田太郎冠者\">\n<surname> 益田 </surname>\n<forename> 太郎 </forename>\n</persname>\n<persname corresp=\"#pers_犬丸鉄太郎\">\n<surname> 犬丸 </surname>\n<forename> 鉄太郎 </forename>\n</persname> 三氏ト <orgname> 人造肥料会社 </orgname> ノ事ヲ談ス <lb></lb>\n<persname corresp=\"#pers_皆川四郎\">\n<surname> 皆川 </surname>\n<forename> 四郎 </forename>\n</persname> 来リ、自働車会社ノ事ヲ談ス <lb></lb>\n"
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リテ、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏、 <persname corresp=\"#pers_テイラー\">\n<surname> テーラー </surname>\n</persname> 氏等ト午飧ス、食後、 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 、 <persname corresp=\"#pers_安田\">\n<surname> 安田 </surname>\n</persname> 氏等トセメント事業ニ関シ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 憲政本党ニ於テ <placename corresp=\"#place_大船渡市\"> 大船渡 </placename> ノ事ヲ演説ス、畢テ外務省ニ <persname corresp=\"#pers_珍田\">\n<surname> 珍田 </surname>\n</persname> 次官ヲ訪ヒ要務ヲ談シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 39.08189,
+                    "lon": 141.70856,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 過 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ抵リ <persname corresp=\"#pers_緒明\">\n<surname> 緒明 </surname>\n</persname> 氏ニ面話ス、 <persname corresp=\"#pers_鈴木\">\n<surname> 鈴木 </surname>\n</persname> 氏来話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ於テ夜飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n       帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

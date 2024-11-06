@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-01-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝、 <persname corresp=\"#pers_福地源一郎\">\n<surname> 福地 </surname>\n<forename> 源一郎 </forename>\n</persname> 来、午餐後、 <persname corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persname> 、 <persname corresp=\"#pers_福地\">\n<surname> 福地 </surname>\n</persname> 同行、田安殿に至る、 <persname corresp=\"#pers_森川\">\n<surname> 森川 </surname>\n</persname> 面会、中老 <persname corresp=\"#pers_織田和泉\">\n<surname> 織田 </surname>\n<forename> 和泉 </forename>\n</persname> に逢ふて公子御内御用之儀申談す、帰省之儀願差出す、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n       頃礫邸へ出る、明日仏行御供之者一同罷出候様被申渡 <lb></lb>\n<persname corresp=\"#pers_栗本\">\n<surname> 栗本 </surname>\n</persname> 仏行勘定書之儀ニ付、明後 <date type=\"旧暦\" when=\"1869-01-09\"> 廿七日 </date> 田安殿可罷出旨相達す、夕方帰宿、此夜\n        <persname corresp=\"#pers_伊東玄伯\">\n<surname> 伊東 </surname>\n<forename> 玄伯 </forename>\n</persname> 之招に応し、 <persname corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persname> 同行、 <placename corresp=\"#place_両国\"> 両国 </placename> 川長といふ割庖楼に至る、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 頃帰宿 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

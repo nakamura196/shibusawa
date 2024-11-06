@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-04-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、腫物ノ痛疼昨日ト同シクシテ外出スルヲ得ス、依テ褥中ニ於テ書類ヲ調査ス、且緊急ノ要務ヲ以テ来ル者アレハ褥中面接ス、此夜 <persname corresp=\"#pers_伊藤登喜蔵\">\n<surname> 伊藤 </surname>\n<forename> 登喜蔵 </forename>\n</persname> 《（ <persname corresp=\"#pers_伊藤登喜造\">\n<surname> 伊藤 </surname>\n<forename> 登喜造 </forename>\n</persname> ）》婚儀ノ披露会ヲ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ催セシヲ以テ、臨席ヲ乞ハレシモ病ヲ以テ之ヲ謝絶ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

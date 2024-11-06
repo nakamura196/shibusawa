@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1884-06-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝、東京本店其他諸子ニ書ヲ発ス <lb></lb>\n<persname corresp=\"#pers_田中武兵衛\">\n<surname> 田中 </surname>\n<forename> 武兵衛 </forename>\n</persname> 、 <persname corresp=\"#pers_伊藤伝七\">\n<surname> 伊藤 </surname>\n<forename> 伝七 </forename>\n</persname> 、 <persname corresp=\"#pers_九鬼文之助\">\n<surname> 九鬼 </surname>\n<forename> 文之助 </forename>\n</persname> 、 <persname corresp=\"#pers_古谷竜蔵\">\n<surname> 古谷 </surname>\n<forename> 竜蔵 </forename>\n</persname> 其他諸子来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 支店ニ至リテ事務ヲ見ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\">\n        二時 </time> 浜田屋ニ於テ地方得意ノ人々ヲ招飲ス、来会者三十余人各観《（歓）》ヲ尽シテ去ル、宴散シテ後更ニ地方諸子ノ懇請ニ応□テ <orgname> 松茂楼\n       </orgname> ニ上ル、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿ス、此夜 <persname corresp=\"#pers_書上順四郎\">\n<surname> 書上 </surname>\n<forename> 順四郎 </forename>\n</persname> 来着ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

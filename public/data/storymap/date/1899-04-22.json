@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-04-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇小雨、朝数多ノ来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<persname corresp=\"#pers_岩崎弥之助\">\n<surname> 岩崎 </surname>\n<forename> 弥之助 </forename>\n</persname> 氏ヲ <placename corresp=\"#place_駒込\"> 駒込 </placename> 別邸ニ訪ヒ、 <placename corresp=\"#place_清\"> 清国 </placename> ニ銀行創立ノ件及 <orgname> 汽車製造合資会社 </orgname> ノ件ヲ話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<orgname> 日本銀行 </orgname> ニ抵リ、 <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 総裁ニ面会シテ <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n       ヨリ金地金輸入ニ関スル事ヲ談シ、及ヒ払込未済株式ニ対シ貸付金ヲ為スノ得失ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ事務ヲ視ル、此夜 <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

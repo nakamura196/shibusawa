@@ -1,0 +1,103 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-08-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ、日記ヲ編成ス、又、揮毫ヲ試ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       朝飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 旅宿ヲ発ス、 <persname corresp=\"#pers_岸\">\n<surname> 岸 </surname>\n</persname> 、 <persname corresp=\"#pers_松井\">\n<surname> 松井 </surname>\n</persname> 、 <persname corresp=\"#pers_小畔\">\n<surname> 小畔 </surname>\n</persname> 其他諸氏来訪セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 九時三十分 </time>\n<placename corresp=\"#place_長岡\"> 長岡 </placename> 発ノ汽車ニテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 十時半 </time>\n<placename corresp=\"#place_加茂\"> 加茂 </placename> ニ抵リテ下車ス、 <persname corresp=\"#pers_松井\">\n<surname> 松井 </surname>\n</persname> 、 <persname corresp=\"#pers_長部\">\n<surname> 長部 </surname>\n</persname> 、 <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> 、 <persname corresp=\"#pers_今泉\">\n<surname> 今泉 </surname>\n</persname> 等ノ諸氏同車ス、 <placename corresp=\"#place_加茂\"> 加茂 </placename>\n       農林学校ニ於テ一場ノ経済演説ヲ為ス、蓋シ昨日来此地 <persname corresp=\"#pers_石田友蔵\">\n<surname> 石田 </surname>\n<forename> 友蔵 </forename>\n</persname> 氏等ノ請求ニ応シタルナリ、畢テ学校ニテ午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:37:00",
+                    "text": "<time when=\"13:37:00\"> 一時三十七分 </time> 発ノ汽車ニテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 過 <placename corresp=\"#place_新潟\"> 新潟 </placename>\n       市ニ達ス、来リ迎フ者地方人士頗ル多シ、篠田旅館ニ投シ休息後、数多ノ来訪客アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n       行形亭ニ開催セル地方人士ノ歓迎会ニ出席ス、開宴前一場ノ経済演説ヲ為ス、畢テ宴会アリ、来会者百余名、酒間一場ノ謝詞ヲ述ヘ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時\n       </time> 過帰宿、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 就寝ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

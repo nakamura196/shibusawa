@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-08-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ後書類ヲ調査ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time>\n       朝飧ヲ食ス、畢テ揮毫ニ努ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time> ニ至リテ止ム、昨夜ヨリ <persname corresp=\"#pers_渋沢秀雄\">\n<forename> 秀雄 </forename>\n</persname> 病アリ、朝来熱気強ク外出スルヲ得ス、依テ <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> 、 <persname corresp=\"#pers_河野\">\n<surname> 河野 </surname>\n</persname> 等ニ其看護ヲ命シ、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 及家僕ヲ伴ヒ七重弁天、大滝等ノ各所ヲ見物ス、竹輿ヲ僦フテ行ク、山行往返三里許リナリ、弁天ト大滝トハ稍一覧ノ価値アルヲ覚フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半 </time> 帰寓ス、 <persname corresp=\"#pers_渋沢秀雄\">\n<forename> 秀雄 </forename>\n</persname> ノ病更ニ進ミテ熱気強キニヨリ、地方医師 <persname corresp=\"#pers_豊永\">\n<surname> 豊永 </surname>\n</persname> 氏及御用邸ノ侍医 <persname corresp=\"#pers_長田\">\n<surname> 長田 </surname>\n</persname> 某ヲ請フテ診察セシム、 <persname corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persname> 氏ヘ書状ヲ発ス、夕方 <persname corresp=\"#pers_岡崎邦輔\">\n<surname> 岡崎 </surname>\n<forename> 邦輔 </forename>\n</persname> 氏来リ東京瓦斯 <placename corresp=\"#place_千代田\"> 千代田 </placename> 瓦斯合同ノ事ニ付内話アリ、夜、\n        <persname corresp=\"#pers_福島\">\n<surname> 福島 </surname>\n</persname> 氏来リ同様ノ談話アリ、夜、児輩ト遊戯ス、 <persname corresp=\"#pers_増田明六\">\n<surname> 増田 </surname>\n<forename> 明六 </forename>\n</persname> ヘ書状ヲ送ル、其来書ニ答ヘタルナリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

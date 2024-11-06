@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-09-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前数多ノ来人ニ接ス、午後 <orgname> 第一銀行 </orgname> ニ出勤シ、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n<persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> ヨリ報シ来レル電信ノ事ヲ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 外務省ニ抵リ <persname corresp=\"#pers_青木\">\n<surname> 青木 </surname>\n</persname> 大臣ニ面会シテ、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> ヨリ来報セル電信ノ事ニ付テ種々ノ談話ヲ為ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<orgname> 銀行倶楽部 </orgname> 晩餐会ニ出席ス、 <persname corresp=\"#pers_相馬永胤\">\n<surname> 相馬 </surname>\n<forename> 永胤 </forename>\n</persname> 、 <persname corresp=\"#pers_柳生\">\n<surname> 柳生 </surname>\n</persname> 某、 <persname corresp=\"#pers_古城\">\n<surname> 古城 </surname>\n</persname> 某諸氏来会ス、食卓上種々ノ演説アリテ尤モ盛会ナリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿、此夜三本木開墾会社ノ事ニ関シ <persname corresp=\"#pers_野村新八郎\">\n<surname> 野村 </surname>\n<forename> 新八郎 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 、 <persname corresp=\"#pers_木村\">\n<surname> 木村 </surname>\n</persname> 両人ト共ニ爾来ノ事情ヲ詳話ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

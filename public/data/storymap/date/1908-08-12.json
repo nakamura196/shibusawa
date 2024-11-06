@@ -1,0 +1,105 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-08-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:30:00",
+                    "text": "<time when=\"05:30:00\"> 午前五時半 </time> 頃 <placename corresp=\"#place_岩沼\"> 岩沼 </placename>\n       駅ニ抵リテ起床、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 六時 </time> 過 <placename corresp=\"#place_仙台\"> 仙台 </placename>\n       停車場ニ抵ル、是ヨリ先 <orgname> 七十七銀行 </orgname>\n<persname corresp=\"#pers_神谷\">\n<surname> 神谷 </surname>\n</persname> 氏迎ノ為来リ会ス、種々ノ要務ヲ談ス、 <placename corresp=\"#place_仙台\"> 仙台 </placename> 市ヨリ市長\n        <persname corresp=\"#pers_早川\">\n<surname> 早川 </surname>\n</persname> 氏、 <orgname> 七十七銀行 </orgname> 員、県官其他多人数来リ迎フ、車ヲ下リテ之ニ接シ、帰途ノ一泊ヲ約ス、停留十五分間ニテ発車ス、\n        <persname corresp=\"#pers_神谷義雄\">\n<surname> 神谷 </surname>\n<forename> 義雄 </forename>\n</persname> 、 <persname corresp=\"#pers_木村一是\">\n<surname> 木村 </surname>\n<forename> 一是 </forename>\n</persname> 及新聞記者一名同乗シテ <placename corresp=\"#place_松島\"> 松島 </placename> ニ抵ル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 38.340528,
+                    "lon": 141.151972,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 午前十時半 </time>\n<placename corresp=\"#place_盛岡市\"> 盛岡 </placename> ニ抵ル、 <persname corresp=\"#pers_瀬川\">\n<surname> 瀬川 </surname>\n</persname> 、 <persname corresp=\"#pers_村井\">\n<surname> 村井 </surname>\n</persname> 、 <persname corresp=\"#pers_小野\">\n<surname> 小野 </surname>\n</persname> 、 <persname corresp=\"#pers_太田\">\n<surname> 太田 </surname>\n</persname> 、其他ノ諸氏来リ迎ヒ種々ノ送品アリ、 <placename corresp=\"#place_仙台\"> 仙台 </placename> ト同シク帰途ノ一泊ヲ約ス、\n        <placename corresp=\"#place_古間木\"> 古間木 </placename> 駅ニテ <persname corresp=\"#pers_金子\">\n<surname> 金子 </surname>\n</persname> 、 <persname corresp=\"#pers_山口\">\n<surname> 山口 </surname>\n</persname> ノ来リ迎フルニ接ス、 <persname corresp=\"#pers_広沢安宅\">\n<surname> 広沢 </surname>\n<forename> 安宅 </forename>\n</persname> 氏ニ会見ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 39.70208,
+                    "lon": 141.1545,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_青森\"> 青森 </placename> ニ抵ル、 <placename corresp=\"#place_浅虫\"> 浅虫\n       </placename> 駅ヨリ鉄道員 <persname corresp=\"#pers_金子六蔵\">\n<surname> 金子 </surname>\n<forename> 六蔵 </forename>\n</persname> 氏来迎フ、且聯絡船ノ都合ニヨリ、此夕 <placename corresp=\"#place_函館市\"> 箱館 </placename>\n       渡航ノ事トシテ其旨ヲ通知セシム、 <placename corresp=\"#place_青森\"> 青森 </placename> 停車場ニハ地方銀行者、 <orgname> 秋田銀行 </orgname>\n<persname corresp=\"#pers_辻兵吉\">\n<surname> 辻 </surname>\n<forename> 兵吉 </forename>\n</persname> 、 <persname corresp=\"#pers_村田豊一郎\">\n<surname> 村田 </surname>\n<forename> 豊一郎 </forename>\n</persname> 氏等来リ迎フ、鉄路ヲ下リテ <orgname> 中島楼 </orgname> ニ休憩シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 41.768667,
+                    "lon": 140.728917,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 五時半 </time>\n       出帆ノ田村丸ニ搭シ、船中ニテ夜飧シ、航路頗ル平穏ニテ一行愉快ニ <placename corresp=\"#place_函館市\"> 箱館 </placename>\n       ニ達ス、此夜、月明清朗、海路ノ眺望佳絶ナリキ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 41.768667,
+                    "lon": 140.728917,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:30:00",
+                    "text": "<time when=\"22:30:00\"> 十時半 </time>\n<placename corresp=\"#place_函館市\"> 箱館 </placename>\n       港ニ安着ス、地方多数ノ人士小蒸気船ニテ来リ迎フ、相携ヒテ小蒸気船ニテ上陸シ、市街ヲ通過シテ公園附近ノ勝田楼ニ投宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 41.768667,
+                    "lon": 140.728917,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

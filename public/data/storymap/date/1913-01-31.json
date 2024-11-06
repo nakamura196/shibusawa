@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-01-31",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、半身浴ヲ為シ、後、朝飧ヲ食ス、畢テ <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏ノ来訪ニ接シ、 <orgname> 東洋汽船会社 </orgname> ノ将来ニ付種々ノ談話アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 十時半\n       </time> 海軍省ニ抵リ艦政本部長 <persname corresp=\"#pers_松本\">\n<surname> 松本 </surname>\n</persname> 氏ヲ訪ヘ、 <persname corresp=\"#pers_藤井\">\n<surname> 藤井 </surname>\n</persname> 少将モ来会セラレテ、 <orgname> 石川島造船所 </orgname> 、浦賀船渠会社ノ事ニ付懇切ニ依頼ス、両氏モ充分同情助力ノ旨 <pb corresp=\"#pageB1755\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/781/full/max/0/default.jpg\" n=\"B1755\" source=\"#pageB1755\"></pb> 明答セラル、後、 <placename corresp=\"#place_東京\"> 東京 </placename>\n       市ニ抵リ、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 市長、 <persname corresp=\"#pers_原田\">\n<surname> 原田 </surname>\n</persname> 助役、 <persname corresp=\"#pers_森久保\">\n<surname> 森久保 </surname>\n</persname> 参事会員等ニ養育院ノ事務ヲ説明ス、後、 <placename corresp=\"#place_浜町\"> 浜町 </placename>\n       宅ニ抵リテ児女等ニ面話ス、午飧ヲ為シテ後事務所ニ抵リ、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <persname corresp=\"#pers_高根\">\n<surname> 高根 </surname>\n</persname> 二氏ト <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ノ身上ニ付懇話ス、午前、 <persname corresp=\"#pers_松本\">\n<surname> 松本 </surname>\n</persname> 氏トノ会談ノ要旨ヲ <orgname> 石川島造船所 </orgname> 及浦賀船渠会社当局者ニ電話ニテ通知ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\">\n        午後六時 </time> 帰宿、夜食後、 <persname corresp=\"#pers_皆川晃雄\">\n<surname> 皆川 </surname>\n<forename> 晃雄 </forename>\n</persname> 氏来リ新約全書ヲ復読ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 過就寝ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

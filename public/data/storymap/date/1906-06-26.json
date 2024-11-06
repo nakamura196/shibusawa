@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-06-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後楼上ニ在テ四方ヲ眺望ス、前面 <placename corresp=\"#place_仁川湾\"> 仁川湾 </placename> 潮満テ舟船輻湊ス、左顧スレハ\n        <placename corresp=\"#place_八阪\"> 八阪 </placename> 眼前ニ在リ、首ヲ回セハ邱上各個ノ洋行屹然并立ス、観来リテ地方ノ繁昌ヲ知ルニ足ル、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 七時半 </time> 朝飧ヲ畢リ、書類ヲ撿閲ス、午 <pb corresp=\"#pageB1428\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/454/full/max/0/default.jpg\" n=\"B1428\" source=\"#pageB1428\"></pb> 前 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 、 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 、 <persname corresp=\"#pers_野口\">\n<surname> 野口 </surname>\n</persname> 其他ノ人々ト先ツ <placename corresp=\"#place_八阪\"> 八阪 </placename> ニ抵リ社宅ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 十時半 </time>\n<placename corresp=\"#place_仁川\"> 仁川 </placename> 停車場ニ抵リ <persname corresp=\"#pers_牧野\">\n<surname> 牧野 </surname>\n</persname> 氏ノ案内ニテ <placename corresp=\"#place_月尾島\"> 月尾島 </placename> ヲ一覧ス（トロツクニ便乗ス）大小両\n        <placename corresp=\"#place_月尾島\"> 月尾島 </placename> ヲ遊覧シ、軍事上ノ経営ヲ説示セラル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 37.475389,
+                    "lon": 126.597806,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\">\n        午後一時 </time> 過帰寓、午飧ス、食後、地方人士ヲ訪問シ、更ニ測候所ニ抵リテ、風雨、寒暖、乾濡等ヲ知ルノ器械ヲ一覧シ、之カ説明ヲ聴ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 日本人倶楽部ニテ同窓会ニ出席シ一《（場脱カ）》ノ談話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時\n       </time> 一山楼ニ於テ当地商業者ヲ招宴シ、一場ノ演説ヲ為ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散会帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

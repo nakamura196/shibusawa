@@ -1,0 +1,66 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1904-03-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 半晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、今日 <placename corresp=\"#place_国府津\"> 国府津\n       </placename> ヘ転地ノ予定ナルヲ以テ家人旅装ニ忙シ、午飧後 <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename>\n       ヲ出テ馬車ニテ <placename corresp=\"#place_新橋\"> 新橋 </placename> ニ抵ル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.280139,
+                    "lon": 139.2116278,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 二時三十分\n       </time> 発ノ汽車ニ搭ス、 <persname corresp=\"#pers_穂積陳重\">\n<surname> 穂積 </surname>\n<forename> 陳重 </forename>\n</persname> 、 <persname corresp=\"#pers_清水\">\n<surname> 清水 </surname>\n</persname> 兄弟 、 <persname corresp=\"#pers_吉岡\">\n<surname> 吉岡 </surname>\n</persname> 、 <persname corresp=\"#pers_諸井\">\n<surname> 諸井 </surname>\n</persname> 等数十名停車場ニ来ル、発車後天気朗晴ナリ、且車中客少クシテ雑沓ノ事ナシ、 <placename corresp=\"#place_大森\"> 大森\n       </placename> ヨリ <persname corresp=\"#pers_中田敬義\">\n<surname> 中田 </surname>\n<forename> 敬義 </forename>\n</persname> 同乗ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_国府津\"> 国府津 </placename> 着、国府館《（津脱）》ニ投宿ス、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 及久尾其他ノ婢僕三人随従ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.280139,
+                    "lon": 139.2116278,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-01-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後直ニ入浴シ畢テ新聞紙ヲ読ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ為シ、食後書状ヲ裁ス、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 行 <persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> 及 <persname corresp=\"#pers_小田川全之\">\n<surname> 小田川 </surname>\n<forename> 全之 </forename>\n</persname> 、 <placename corresp=\"#place_上海市\"> 上海 </placename> 行 <persname corresp=\"#pers_白岩竜平\">\n<surname> 白岩 </surname>\n<forename> 竜平 </forename>\n</persname> ノ分ハ <placename corresp=\"#place_東京\"> 東京 </placename> ノ事務所ヘ送リテ発送セシム、其他 <placename corresp=\"#place_大阪\"> 大阪 </placename>\n<persname corresp=\"#pers_熊谷\">\n<surname> 熊谷 </surname>\n</persname>\n<persname corresp=\"#pers_不二樹\">\n<surname> 不二樹 </surname>\n</persname> 、三重ノ <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 、 <persname corresp=\"#pers_斎藤\">\n<surname> 斎藤 </surname>\n</persname> 、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname>\n<placename corresp=\"#place_越後国\"> 越後 </placename> ノ <persname corresp=\"#pers_岸\">\n<surname> 岸 </surname>\n</persname> 、 <persname corresp=\"#pers_松井\">\n<surname> 松井 </surname>\n</persname> 等ハ直ニ発送セシム、午飧後更ニ揮毫ヲ試ム <lb></lb> 午前 <persname corresp=\"#pers_都倉\">\n<surname> 都倉 </surname>\n</persname> 氏ヨリ送越セル戦後経営ニ関スル意見ノ筆記ヲ修正シテ、 <placename corresp=\"#place_大磯町\"> 大磯 </placename>\n       ナル同氏ノ寓居ニ送致ス、夜ニ入リテ遊戯ニ閑ヲ消ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 31.16667,
+                    "lon": 121.48333,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

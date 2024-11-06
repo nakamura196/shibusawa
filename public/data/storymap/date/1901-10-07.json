@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-10-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 養育院ニ抵リ米国人 <persname corresp=\"#pers_モツト\">\n<surname> モツト </surname>\n</persname> 氏ニ会見ス、 <persname corresp=\"#pers_モツト\">\n<surname> モツト </surname>\n</persname> 氏ハ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       青年会ノ事務ニ関シ来航セシモノナリ、院内ヲ一覧セシメ且其沿革ヲ詳述ス、 <persname corresp=\"#pers_モツト\">\n<surname> モツト </surname>\n</persname>\n       ヨリ青年ニ関スル意見ヲ諮問セラルヽニ付、近来マデ我邦ノ青年ニハ政治熱ニ傾クノ弊アリシカ、今日ハ大ニ減却セシヲ覚フ、然リト云トモ志操堅実ナラサルハ我青年ノ大欠点ト思惟スル旨ヲ答フ、午後\n        <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵ル、大坂 <orgname> 日本銀行 </orgname> 支店長\n        <persname corresp=\"#pers_首藤諒\">\n<surname> 首藤 </surname>\n<forename> 諒 </forename>\n</persname> 氏来リ岸畑一件ニ付テ仲裁ノ内談アリ、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト共ニ当銀行ノ意見ヲ言明ス、午後 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精《（一脱）》 </forename>\n</persname> 、 <persname corresp=\"#pers_進経太\">\n<surname> 進 </surname>\n<forename> 経太 </forename>\n</persname> 氏来ル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス、此日京釜鉄道会社ノ <persname corresp=\"#pers_福田\">\n<surname> 福田 </surname>\n</persname> 来ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

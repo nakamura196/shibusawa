@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-06-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、昨夜来汽車 <placename corresp=\"#place_カリフォルニア州\"> カリホルニヤ州 </placename> ヲ経過シテ今朝ハ <placename corresp=\"#place_ネバタ砂漠\"> ネバタ砂漠 </placename>\n       ニ出ルノ山脈ニ達ス、両辺ノ山ニハ雪ヲ見ル、気候寒冷ヲ覚フ、線路漸ク下リテ曠原ニ出ツ、即チネハタ砂漠ナリ、終日原野中ヲ進行シ、又一物ノ目ヲ慰ムルモノナシ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 37.0,
+                    "lon": -120.0,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

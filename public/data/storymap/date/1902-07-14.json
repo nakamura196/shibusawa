@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-07-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前二三ノ本邦人来訪セラル、印度人 <persname corresp=\"#pers_ゼー_エン_タタ\">\n<forename> ゼー・エン </forename> ・ <surname> タタ </surname>\n</persname> 氏及 <persname corresp=\"#pers_ホマンジー\">\n<surname> ホマンジー </surname>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 過陸海軍人会合スル倶楽部ニ抵リ、サー・ <persname corresp=\"#pers_ウエリヤム_ビセツト\">\n<forename> ウエリヤム </forename> ・ <surname> ビセツト </surname>\n</persname> 氏ニ会見ス、共ニ午餐ヲ為シテ九州、北越両会社社債ノ事ヲ談話シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n       シチイニ抵リ、ベヤリング銀行ニ於テロードレブル・ストツク氏ニ会見ス、談話数刻ニシテ更ニ <date evidence=\"year inferenced, month\" when=\"1902-07-24\"> 廿四日 </date> ヲ約シテ去ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n       過リゼント・パークニ抵日本協会《（リ脱）》ニ於テ催シタル園遊会ニ出席ス、 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 公使、英人 <persname corresp=\"#pers_デオシー\">\n<surname> デオシー </surname>\n</persname> 、 <persname corresp=\"#pers_シヤンド\">\n<surname> シヤンド </surname>\n</persname> 、 <persname corresp=\"#pers_ミツチヨル\">\n<surname> ミツチヨル </surname>\n</persname> 等凡ソ我邦ニ在住セシ人士悉ク来集シ頗ル盛会ナリキ、庭園ノ中央ニテ日本楽隊アリテ終始奏楽ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n       過帰宿ス、此夜公使館一等書記官 <persname corresp=\"#pers_松井\">\n<surname> 松井 </surname>\n</persname> 氏来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-02-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、昨日ヨリ熱気全ク平時ニ復シタルニヨリ、褥ヲ去テ平日ノ起居ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 朝飧ヲ食シ、後、新聞紙ヲ一覧ス、 <persname corresp=\"#pers_加藤辰弥\">\n<surname> 加藤 </surname>\n<forename> 辰弥 </forename>\n</persname> 氏来リ、今日余ノ誕生日ナルヲ以テ、渡米実業団ノ人々ヨリ草花ヲ送ラル、 <persname corresp=\"#pers_川田鉄弥\">\n<surname> 川田 </surname>\n<forename> 鉄弥 </forename>\n</persname> 氏来リ <orgname> 高千穂学校 </orgname> ノ事ヲ談ス、 <persname corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_湯浅徳次郎\">\n<surname> 湯浅 </surname>\n<forename> 徳次郎 </forename>\n</persname> 氏来リ、身上ノ事ニ関シテ種々ノ談アリ、午後 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス、 <persname corresp=\"#pers_吉岡新五郎\">\n<surname> 吉岡 </surname>\n<forename> 新五郎 </forename>\n</persname> 来話ス <lb></lb> 夜食後、曾テ依頼セラレタル揮毫ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1910-02-14T00:00+0900\"> 十二時 </time>\n       ニ至リテ就寝ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

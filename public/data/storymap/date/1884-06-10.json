@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1884-06-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1056\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/82/full/max/0/default.jpg\" n=\"B1056\" source=\"#pageB1056\"></pb>\n<lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<persname corresp=\"#pers_三木安三郎\">\n<surname> 三木 </surname>\n<forename> 安三郎 </forename>\n</persname> ト共ニ伏見出張所ニ赴テ事務取扱ノ順序ヲ点撿ス又、同地ニ新設スル倉庫会社ノ事務ヲ一覧シ、其支配人及重立タル株主等ト営業ノ実況ヲ談話ス <lb></lb>\n       伏見商估数名ノ招請ニヨリテ依水園ニ小酌シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 帰寓ス <lb></lb> 此夜、府庁官員ノ招請ニヨリテ <placename corresp=\"#place_京都市\"> 洛東 </placename>\n<orgname> 万東楼 </orgname> ニ宴ス、大少書記官、庶務会計、勧業課長ノ諸子来会ス、西陣買継所設立ノ意見及米商会所、倉庫会社等ノ利弊ヲ熟議ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.01161,
+                    "lon": 135.76811,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1884-06-11T00:00+0900\"> 十二時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

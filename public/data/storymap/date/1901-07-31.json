@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-07-31",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<placename corresp=\"#place_本所\"> 本所 </placename>\n<placename corresp=\"#place_錦糸町\"> 錦糸町 </placename>\n<orgname> 汽車製造会社 </orgname> 支社ニ抵リ社員総会ヲ開ク、 <persname corresp=\"#pers_井上勝\">\n<surname> 井上 </surname>\n<forename> 勝 </forename>\n</persname>\n<persname corresp=\"#pers_羽野知顕\">\n<surname> 羽野 </surname>\n<forename> 知顕 </forename>\n</persname> 、 <persname corresp=\"#pers_平岡熙\">\n<surname> 平岡 </surname>\n<forename> 熙 </forename>\n</persname> 氏来会ス、 <placename corresp=\"#place_大阪\"> 大坂 </placename> ニ於ル本社営業ノ状況ヲ <persname corresp=\"#pers_平岡\">\n<surname> 平岡 </surname>\n</persname> 氏ヨリ聞知ス、畢テ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ事務ヲ処理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 日本郵船会社 </orgname> ニ抵リ重役会ニ列ス、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰ル、此日同族会ヲ別荘ニ開キ、諸計算ヲ調査シ下半季ノ予算ヲ議決ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

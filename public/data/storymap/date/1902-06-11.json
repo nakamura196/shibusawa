@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-06-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇又雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time>\n<placename corresp=\"#place_ピッツバーグ\"> ヒツツブルグ </placename> ニ抵ル、汽車ヲ下リテピツツブルグ市旅館ニ投シ朝飧ヲ為シ、直ニ\n        <orgname> カーネギー鉄工場 </orgname> ニ抵ル、工場ハ <placename corresp=\"#place_ホームステツト\"> ホームステツト\n       </placename> ト称スル土地ニ在リテ、 <placename corresp=\"#place_ピッツバーグ\"> ピツツフルグ </placename>\n       ヨリ電車ニテ凡一時間ニシテ達ス、工場ノ巨大ナル各種器械装置ノ壮宏ニシテ整頓セル鋼鉄ノ鋳造又ハ鍛錬ノ順序等総テ電気器械ヲ以テ操縦ス、其壮大ニシテ軽妙ナル実ニ驚クニ堪ヘタリ、工場ノ坪数［　　　　　　　］《（○欠字。二二万坪余）》ニシテ職工凡ソ六千人ヲ使役スト云フ、此日ハ時々大雨衣ヲ濡フス、工場ノ観覧\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 40.44167,
+                    "lon": -80.0,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> ヨリ始メ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n       工場内ニテ午飧シ、食後更ニ他ノ方面ヲ巡覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> ニ畢リテ旅宿ニ帰リ衣服ヲ改メ入浴ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 旅宿ニテ夜食シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 発ノ汽車ニテ <placename corresp=\"#place_ピッツバーグ\"> ピツツブルグ </placename> ヲ発ス、 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 氏ハ此地ノ天然瓦斯産出ノ実況其他ノ工事ヲ調査スルトテ一行ニ別レテ此地ニ滞留ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 40.44167,
+                    "lon": -80.0,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

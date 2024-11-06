@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-05-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 番町ニ抵リ\n        <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname>\n<orgname> 日本銀行 </orgname> 総裁ヲ訪ヒ京釜鉄道会社々債ノ事ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 九時半 </time>\n<placename corresp=\"#place_上野\"> 上野 </placename>\n<orgname> 精養軒 </orgname> ニ抵リ貝子載振殿下ヲ訪問シ、 <persname corresp=\"#pers_陶大均\">\n<surname> 陶 </surname>\n<forename> 大均 </forename>\n</persname> ノ通訳ニヨリテ謁見談話スルヲ得、依テ <orgname> 銀行倶楽部 </orgname> ニ於テ殿下及一行ヲ招待ノ企望ヲ述ヘ、来ル <date evidence=\"year inferenced, month\" when=\"1903-05-20\"> 廿日 </date> ヲ以テ其宴ヲ開ク事ヲ予約ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ於テ衣服ヲ更メ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_品川\"> 品川 </placename>\n<persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 氏ノ茶事ニ会ス、 <persname corresp=\"#pers_松浦\">\n<surname> 松浦 </surname>\n</persname> 伯、 <persname corresp=\"#pers_三井高保\">\n<surname> 三井 </surname>\n<forename> 高保 </forename>\n</persname> 、 <persname corresp=\"#pers_吉田\">\n<surname> 吉田 </surname>\n</persname> 氏、 <persname corresp=\"#pers_若井\">\n<surname> 若井 </surname>\n</persname> 氏来会ス、茶事畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-10-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前数多ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 第一銀行 </orgname> ニ出勤シテ重役会ヲ開 <pb corresp=\"#pageB1158\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/184/full/max/0/default.jpg\" n=\"B1158\" source=\"#pageB1158\"></pb> ク、畢テ <placename corresp=\"#place_深川\"> 深川 </placename>\n       宅ニ抵リ鷗盟会常議員会ヲ開キ秋季総会ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リ水力電気会社ノ招宴ニ列ス、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 、 <persname corresp=\"#pers_富田\">\n<surname> 富田 </surname>\n</persname> 、 <persname corresp=\"#pers_柿沼\">\n<surname> 柿沼 </surname>\n</persname> 、 <persname corresp=\"#pers_浅田\">\n<surname> 浅田 </surname>\n</persname> 、 <persname corresp=\"#pers_村田\">\n<surname> 村田 </surname>\n</persname> 諸氏来会ス、畢テ <placename corresp=\"#place_深川\"> 深川 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-01-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、半身浴ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 銀行集会所書記長\n        <persname corresp=\"#pers_久万俊泰\">\n<surname> 久万 </surname>\n<forename> 俊泰 </forename>\n</persname> 氏来リ、 <persname corresp=\"#pers_メビー\">\n<surname> メビー </surname>\n</persname> 博士ヲ <date when=\"1913-01-17\"> 本月十七日 </date> ヲ以テ <orgname> 銀行倶楽部 </orgname>\n       晩飧会ニ招待シ、同時ニ集会所楼上ニ於テ其講演ヲ聴問スルニ付、開宴其他ノ手続ヲ協議ス後、昨夜脱稿セシ二様ノ序文ニ修正ヲ加フ、朝飧後揮毫ヲ為ス、午飧ニ至リテ罷ム、後、種々ノ雑書ヲ閲覧ス <lb></lb>\n<persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 未亡人来話ス、其家計ノ書類ヲ示サル <lb></lb> 夕方、 <persname corresp=\"#pers_中島\">\n<surname> 中島 </surname>\n</persname> 男爵、 <persname corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persname> 、 <persname corresp=\"#pers_滝沢吉三郎\">\n<surname> 滝沢 </surname>\n<forename> 吉三郎 </forename>\n</persname> 三氏来訪、南洋護謨園ノ事ニ付種々協議アリ、夜飧後深更マテ熟議シ、明日三井物産会社ニ依頼シテ電報スル事ニ決議ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1913-01-10T00:00+0900\"> 十二時 </time> 就寝ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

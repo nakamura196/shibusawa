@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-08-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:50:00",
+                    "text": "<time when=\"08:50:00\"> 午前八時五十分 </time>\n<placename corresp=\"#place_ヱツセン\"> ヱツセン </placename> ヲ発シ、汽車ニテ <placename corresp=\"#place_ジツセルドルフ\"> ジツセルドルフ </placename> ニ抵リ同地ニ開設スル博覧会ヲ一覧ス、此博覧会ハ <placename corresp=\"#place_ドイツ\"> 独乙聯邦 </placename>\n       中僅ニ二州ノ共同ニテ開設スル由ナリ、就中クルツプ鉄工場ニ於テ盛大ナル鋼鉄砲其他種々ノ出品アリテ場中ノ大観ト為スヲ以テ、一見大博覧会ノ態アリ入場後各室ヲ巡視シ、 <placename corresp=\"#place_スイス\"> 瑞西 </placename> ノ山水ニ擬スル景色、又ハ海軍操練及交戦ノ模型等ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\">\n        午後六時 </time> 過 <placename corresp=\"#place_ヱツセン\"> ヱツセン </placename> ニ帰着シ、夜食後旅装ヲ理シテ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 汽車ニ搭シテ <placename corresp=\"#place_ベルリン\"> 伯林 </placename>\n       ニ向テ出発シ、汽車中ニテ一夜ヲ徹ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 52.51639,
+                    "lon": 13.3775,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

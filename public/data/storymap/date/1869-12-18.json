@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-12-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝、 <persname corresp=\"#pers_阿部祐三\">\n<surname> 阿部 </surname>\n<forename> 祐三 </forename>\n</persname> 来、宿所見分ニ付同行、 <placename corresp=\"#place_和泉橋\"> 和泉橋 </placename> 辺お行、 <placename corresp=\"#place_天神下\"> 天神下 </placename>\n<persname corresp=\"#pers_後藤錠太郎\">\n<surname> 後藤 </surname>\n<forename> 錠太郎 </forename>\n</persname> 宅見分す、毎事 <persname corresp=\"#pers_祐三\">\n<forename> 祐三 </forename>\n</persname> 江申談置、 <placename corresp=\"#place_柳原\"> 柳原 </placename> にて <persname corresp=\"#pers_梅田\">\n<surname> 梅田 </surname>\n</persname> を訪ふ、不逢、裏 <placename corresp=\"#place_猿楽町\"> 猿楽町 </placename>\n<persname corresp=\"#pers_岡本\">\n<surname> 岡本 </surname>\n</persname> を訪、面会、省中改正之儀其外見込申談す、表二番町 <persname corresp=\"#pers_郷純蔵\">\n<surname> 郷 </surname>\n<forename> 純蔵 </forename>\n</persname> 《（マヽ）》を訪、不逢、夕方帰宿、夜 <persname corresp=\"#pers_平岡庄七\">\n<surname> 平岡 </surname>\n<forename> 庄七 </forename>\n</persname> を訪ふ、 <persname corresp=\"#pers_加藤木\">\n<surname> 加藤木 </surname>\n</persname> 之事談判ス、此夕 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 帰府、夫々談し遣す "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.69694,
+                    "lon": 139.775472,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

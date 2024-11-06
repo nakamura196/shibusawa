@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-01-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、直ニ入浴ス、浴後読書又ハ新聞紙ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 七時半\n       </time> 朝飧ヲ喫ス、食後郊外ヲ散歩シ <placename corresp=\"#place_北山\"> 北山 </placename> ニアル小瀑布ヲ観ル、更ニ路ヲ転シテ海岸ニ出テ\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time> 帰寓ス、午飧後読書遊戯ニ閑ヲ消ス、 <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 、 <persname corresp=\"#pers_田中元三郎\">\n<surname> 田中 </surname>\n<forename> 元三郎 </forename>\n</persname> 二氏来話ス <lb></lb> 実業日本社員某来ル、戦後経営談ヲ為ス、蓋シ雑誌ニ記載スル為メ <persname corresp=\"#pers_増田\">\n<surname> 増田 </surname>\n</persname> 氏ノ請ニ依ルナリ、 <persname corresp=\"#pers_上原豊吉\">\n<surname> 上原 </surname>\n<forename> 豊吉 </forename>\n</persname> 氏来訪ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

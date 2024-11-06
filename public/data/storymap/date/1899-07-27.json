@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-07-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、朝数多ノ来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 銀行ニ於テ重役会ヲ開キ要件ヲ議決シ、本季ノ賞与配当金ヲ付与ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<orgname> 亀清楼 </orgname> ニ於テ清客 <persname corresp=\"#pers_劉学詢\">\n<surname> 劉 </surname>\n<forename> 学詢 </forename>\n</persname>\n<persname corresp=\"#pers_慶寛\">\n<surname> 慶 </surname>\n<forename> 寛 </forename>\n</persname> 及同行三氏ヲ招宴ス、蓋シ此会ハ <orgname> 日本銀行 </orgname>\n       、三井、三菱其他各種有力ノ団体協同シテ設クル所ナリ、坐定テ後来賓ニ対スル一場ノ演説ヲ為シテ主人ヲ代表シテ臨席ノ謝意ヲ述フ、清客 <persname corresp=\"#pers_劉学詢\">\n<surname> 劉 </surname>\n<forename> 学詢 </forename>\n</persname> モ亦答詞アリタリ、主客雑話各歓ヲ尽シ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n       散宴ス、此日東京府知事、警視総監ヨリ条約実施祝賀ノ事ニ付テ、 <placename corresp=\"#place_東京府\"> 東京府 </placename>\n       ニ会話ノ事ヲ通シ来ル、依テ相会シテ種々ノ協議アリシモ決定ニ至ラサリキ、夜 <placename corresp=\"#place_深川邸\"> 深川邸 </placename> ニ帰宿ス\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

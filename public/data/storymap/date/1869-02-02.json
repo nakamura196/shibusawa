@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-02-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝、 <persname corresp=\"#pers_浅野次郎八\">\n<surname> 浅野 </surname>\n<forename> 次郎八 </forename>\n</persname> を訪ふ、御用向申上る、 <persname corresp=\"#pers_小出涌之助\">\n<surname> 小出 </surname>\n<forename> 涌之助 </forename>\n</persname> 面会、書状渡す、帰宿後 <persname corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persname> と共に大六手代人 <persname corresp=\"#pers_勇助\">\n<forename> 勇助 </forename>\n</persname> 面会、商社之儀申談す、 <persname corresp=\"#pers_川村\">\n<surname> 川村 </surname>\n</persname> 来る、子息同伴いたす、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n       水府より被進候御品持参、宝□院罷出《（原本欠。○台）》る、御品は御小性頭取へ引渡す、 <persname corresp=\"#pers_梅沢孫太郎\">\n<surname> 梅沢 </surname>\n<forename> 孫太郎 </forename>\n</persname> より拝謁之儀明日之積被申聞退出、掛新村主計を訪ふ、夕方 <persname corresp=\"#pers_梅沢\">\n<surname> 梅沢 </surname>\n</persname> を訪ふ、京師以来之事情詳悉承及ふ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 頃帰宿 <lb></lb>\n<persname corresp=\"#pers_川村\">\n<surname> 川村 </surname>\n</persname> へ金五拾両貸遣す、請取書預置、但 <persname corresp=\"#pers_荒井\">\n<surname> 荒井 </surname>\n</persname> より頼之由 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-04-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、朝家族ト共ニ村内ノ神社及□□等《（欠）》ヲ為シ更ニ <placename corresp=\"#place_横瀬町\"> 横瀬村 </placename>\n       華蔵寺ニ至リテ桜花ヲ見ル、老樹ナレトモ花甚タ妍ナリ、路ヲ転シテ堤坡ヲ歩シ <placename corresp=\"#place_八基村\"> 八基村 </placename>\n       ニ帰ル、此日法会ヲ開ク、会スル者数十人、頗ル盛会ナリ、会畢テ後 <persname corresp=\"#pers_渋沢宗助\">\n<surname> 渋沢 </surname>\n<forename> 宗助 </forename>\n</persname> 宅ニ抵リテ <persname corresp=\"#pers_菊地容斎\">\n<surname> 菊地 </surname>\n<forename> 容斎 </forename>\n</persname> ノ画幅ヲ一覧ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.98731,
+                    "lon": 139.10008,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過 <persname corresp=\"#pers_渋沢市郎\">\n<forename> 市郎 </forename>\n</persname> 家ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

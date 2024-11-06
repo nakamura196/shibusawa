@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-03-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、 <orgname> 高等商業学校 </orgname> 生徒\n        <persname corresp=\"#pers_沓沢源一郎\">\n<surname> 沓沢 </surname>\n<forename> 源一郎 </forename>\n</persname> ノ来訪ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ来人ニ接シ事務ヲ処理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\">\n        十一時 </time> 偕楽園ニ抵リ、東京帽子会社株主総会ニ出席ス、午飧後 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 総理大臣ヲ貴族院ニ訪ヒ、日英水力電気会社ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<placename corresp=\"#place_坂本町\"> 坂本町 </placename> 銀行集会所ニ抵リ、大日本製糖会社債権者会ニ出席シ、 <placename corresp=\"#place_大阪\"> 大阪 </placename> ヨリ来会セル <persname corresp=\"#pers_小山\">\n<surname> 小山 </surname>\n</persname> 、 <persname corresp=\"#pers_町田\">\n<surname> 町田 </surname>\n</persname> 氏等ト協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<placename corresp=\"#place_谷中\"> 谷中 </placename> 初音町女子美術学校ニ抵リ、生徒ノ出品セル絵画刺繡其他ノ陳列品ヲ見ル、 <persname corresp=\"#pers_福島\">\n<surname> 福島 </surname>\n</persname> 氏其他ノ来会者ト談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<orgname> 花月楼 </orgname> ニ抵リ、 <orgname> 東京瓦斯会社 </orgname> ノ宴会ニ出席ス英人 <persname corresp=\"#pers_セール\">\n<surname> セール </surname>\n</persname> 及 <persname corresp=\"#pers_キルビー\">\n<surname> キルビー </surname>\n</persname> 、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 人 <persname corresp=\"#pers_フレーザー\">\n<surname> フレーザー </surname>\n</persname> 氏等来会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

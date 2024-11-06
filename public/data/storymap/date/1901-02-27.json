@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-02-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 、 <persname corresp=\"#pers_長谷川一彦\">\n<surname> 長谷川 </surname>\n<forename> 一彦 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢成一郎\">\n<surname> 渋沢 </surname>\n<forename> 喜作 </forename>\n</persname> 、 <persname corresp=\"#pers_井上角五郎\">\n<surname> 井上 </surname>\n<forename> 角五郎 </forename>\n</persname> 、 <persname corresp=\"#pers_今村清之助\">\n<surname> 今村 </surname>\n<forename> 清之助 </forename>\n</persname> 等ノ諸氏来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<orgname> 日本郵船会社 </orgname> ニ抵リ重役会ニ列ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 帰宅、直ニ <placename corresp=\"#place_飯田町\"> 飯田町 </placename>\n<persname corresp=\"#pers_樫村清徳\">\n<surname> 樫村 </surname>\n<forename> 清徳 </forename>\n</persname> 氏ヨリノ招宴ニ応シテ其宅ニ抵ル、蓋シ <persname corresp=\"#pers_郷隆三郎\">\n<surname> 郷 </surname>\n<forename> 隆三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_樫村米子\">\n<surname> 樫村 </surname>\n<forename> □子 </forename>\n</persname> 《（ <persname corresp=\"#pers_樫村米子\">\n<surname> 樫村 </surname>\n<forename> 米子 </forename>\n</persname> ）》ノ結婚ヲ媒妁セシ為メ、其里帰リノ宴ヲ催セシニヨリ招待セラレシナリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 宴散シテ帰宿ス\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

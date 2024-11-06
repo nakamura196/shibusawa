@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-08-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ後、朝飧ヲ食シ、又、来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リテ来人ニ接シ事務ヲ処理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\">\n        十二時 </time>\n<persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 総理大臣官舎ニ抵リ午飧会ニ列ス、 <persname corresp=\"#pers_小村\">\n<surname> 小村 </surname>\n</persname> 、 <persname corresp=\"#pers_大浦\">\n<surname> 大浦 </surname>\n</persname> 二氏参会ス、 <persname corresp=\"#pers_中野\">\n<surname> 中野 </surname>\n</persname> 、 <persname corresp=\"#pers_土居\">\n<surname> 土居 </surname>\n</persname> 、 <persname corresp=\"#pers_西村\">\n<surname> 西村 </surname>\n</persname> 、 <persname corresp=\"#pers_大谷\">\n<surname> 大谷 </surname>\n</persname> 氏等来会ス、畢テ <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 大臣、 <persname corresp=\"#pers_小村\">\n<surname> 小村 </surname>\n</persname> 大臣等ヨリ種々ノ談話アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ、重役会ヲ開キ要件ヲ談ス、畢テ <placename corresp=\"#place_日本橋兜町\"> 兜町\n       </placename> ニ抵リ、米人ジヤクソン氏ニ会見ス、 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏来会ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

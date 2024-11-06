@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-01-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、昨夜寒風ニ夜行セシ為メ朝来感冒ノ気味ニテ平臥ス、此日北越鉄道会社株主総会アリシモ、出席スルヲ得サルヲ以テ社長 <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> 氏ニ書ヲ送リテ之ヲ通ス <lb></lb>\n<persname corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persname> 来リテ煉瓦会社当季計算ノ事ヲ談ス <lb></lb> 此日終日臥床ニアリテ外出ヲ得サリシ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

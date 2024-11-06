@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-03-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前、 <persname corresp=\"#pers_大家七平\">\n<surname> 大家 </surname>\n<forename> 七平 </forename>\n</persname> 、 <persname corresp=\"#pers_鈴木省作\">\n<surname> 鈴木 </surname>\n<forename> 省作 </forename>\n</persname> 二氏来リ <placename corresp=\"#place_北清\"> 北清 </placename> 及 <placename corresp=\"#place_ウラジオストク\"> 浦塩斯徳 </placename> 航路ノ事ヲ依頼セラル、 <persname corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persname> 氏来リ京釜鉄道ノ事ヲ談ス、 <persname corresp=\"#pers_進経太\">\n<surname> 進 </surname>\n<forename> 経太 </forename>\n</persname> 氏来ル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 43.117,
+                    "lon": 131.917,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<orgname> 東京商業会議所 </orgname>\n       ニ抵リ仲裁委員会ヲ開ク、当事者双方ノ代人ヲ招喚シテ委員会合ノ上審問ヲ為ス、畢テ委員会ヲ開キテ討議ニ時ヲ移スト云トモ決議スルヲ得ス、終ニ商習慣ヲ調査スヘキ事トナリテ、 <date evidence=\"year inferenced, day\" when=\"1900-04\"> 四月 </date> ノ初ヲ以テ第三回委員会ヲ開クヘキ事ヲ約シテ散会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 深川区役所ニ抵リ区会ヲ開ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time> 議事了リテ\n        <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

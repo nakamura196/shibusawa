@@ -1,0 +1,73 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-02-24",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、室内運動ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 過朝飧ヲ畢ル\n       <lb></lb> 食後新聞紙ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:46:00",
+                    "text": "<time when=\"09:46:00\"> 九時四十六分 </time> 発ノ汽車ニテ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ <placename corresp=\"#place_会津\"> 会津\n       </placename> 水力電気組合ノ会合ヲ開ク、 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 、 <persname corresp=\"#pers_日下\">\n<surname> 日下 </surname>\n</persname> 、 <persname corresp=\"#pers_佐治\">\n<surname> 佐治 </surname>\n</persname> 、 <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 氏等来会ス、畢テ <orgname> 第一銀行 </orgname> ニ抵リ午飧ヲ為ス、食後 <orgname> 人造肥料会社 </orgname>\n       ニ抵リ新工場建設ノ件、土地買入ノ件ヲ協議シ、 <placename corresp=\"#place_中川\"> 中川 </placename> ノ地所ヲ一覧ス、 <persname corresp=\"#pers_竹田\">\n<surname> 竹田 </surname>\n</persname> 、 <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 、 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 、 <persname corresp=\"#pers_益田太郎冠者\">\n<surname> 益田 </surname>\n<forename> 太郎 </forename>\n</persname> ノ諸氏同行ス、一覧後更ニ会社ニ於テ種々ノ議ヲ凝ラシ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 過 <placename corresp=\"#place_日本橋人形町\"> 人形町 </placename> ヨリ電車ニテ <placename corresp=\"#place_本郷\"> 本郷\n       </placename> ニ抵リ、更ニ人力ニテ <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.68611,
+                    "lon": 139.78222,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-07-31",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後更ニ病褥ヲ設ケ、褥中ニテ新聞紙其他ノ書類ヲ閲覧ス、 <placename corresp=\"#place_鹿児島\"> 鹿児島 </placename>\n       高等ノ学校々長以下四氏ヘ書状ヲ裁ス <lb></lb>\n<placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n<persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 統監以下十数名ニ書状ヲ裁ス、統監ノ勲労ヲ頌シテ一詩ヲ賦呈ス <lb></lb> 午後同族会ヲ開キ、 <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 等ノ夫妻皆来会ス、 <date evidence=\"year inferenced\" when=\"1907\"> 四十年 </date>\n       上季ノ各家計ヲ決算シ、下季ノ歳計予算ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 共ニ夜飧シ、食後種々ノ談話ニ時ヲ移シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

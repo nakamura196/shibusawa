@@ -1,0 +1,94 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-06-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後直ニ朝飧ヲ為シ、兼二浦農場一覧ノ為ニ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time>\n<placename corresp=\"#place_平壌\"> 平壌 </placename> 発ノ汽車ニ搭ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 39.031859,
+                    "lon": 125.753765,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<placename corresp=\"#place_黄州\"> 黄州 </placename> 駅ニ抵リ、更ニ兼二浦行ノ汽車ニ搭シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時\n       </time> 兼二浦ニ達ス、農場ノ農民数多来リ迎フ、 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 、 <persname corresp=\"#pers_宇都\">\n<surname> 宇都 </surname>\n</persname>\n       二氏ノ案内ニテ社員ノ合宿所ニ抵リ、先ツ社員一同ヘ訓示ノ辞ヲ為シ、更ニ小作人、世話役及一般小作人中ノ重立タル韓人六十名余ニ会社成立ノ趣旨ヨリシテ将来施設ノ方針等ヲ丁寧ニ諭示ス、畢テ社宅ニテ午飧シ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 頃農場中ノ一邱ニ上リテ各農場ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n       帰社、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 過兼二浦発ノ汽車ニテ <placename corresp=\"#place_黄州\"> 黄州\n       </placename> ニ抵リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 過 <placename corresp=\"#place_平壌\"> 平壌\n       </placename> ニ帰宿ス、此日 <persname corresp=\"#pers_菊地\">\n<surname> 菊地 </surname>\n</persname> 理事官、 <persname corresp=\"#pers_山田\">\n<surname> 山田 </surname>\n</persname> 財務官、 <persname corresp=\"#pers_茂木\">\n<surname> 茂木 </surname>\n</persname> 氏等同行ス、終日快談 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 39.031859,
+                    "lon": 125.753765,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

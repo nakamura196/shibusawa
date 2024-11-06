@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-03-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ為シ、後、二三ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時\n       </time> 大学病院ニ抵リ <persname corresp=\"#pers_皆川\">\n<surname> 皆川 </surname>\n</persname> 氏ヲ訪ヒ、又、順天堂ニ <persname corresp=\"#pers_徳川昭武\">\n<surname> 徳川 </surname>\n<forename> 昭武 </forename>\n</persname> 侯ノ病ヲ慰問ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 過 <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リテ午飧シ、支配人ト談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 過 <persname corresp=\"#pers_岩崎\">\n<surname> 岩崎 </surname>\n</persname> 男爵ヲ <placename corresp=\"#place_高輪\"> 高輪 </placename> 邸ニ訪ヒ、 <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 、 <persname corresp=\"#pers_志原\">\n<surname> 志原 </surname>\n</persname> 、 <persname corresp=\"#pers_幣原\">\n<surname> 幣原 </surname>\n</persname> 、 <persname corresp=\"#pers_末延\">\n<surname> 末延 </surname>\n</persname> 諸氏ト会見ス、更ニ <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 氏ヲ訪ヒ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6385306,
+                    "lon": 139.737167,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename> ニ抵リ、メトルホール・ホテルニ抵リ又一知人ニ面会ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス <lb></lb> 此日、ホテルニ於テ日英銀行重役某、 <placename corresp=\"#place_イギリス\"> 英国 </placename> ヨリ来着セルニ会見ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

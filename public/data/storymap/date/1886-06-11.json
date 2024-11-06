@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1886-06-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_金沢市\"> 金沢 </placename> ヲ発シ、駅頭ニ於テ送行ノ人ト分袂シ、［　　　］《（原本欠字）》ヲ経テ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 36.56106,
+                    "lon": 136.6565,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<placename corresp=\"#place_越中\"> 越中 </placename>\n<placename corresp=\"#place_高岡\"> 高岡 </placename> ニ着ス、 <persname corresp=\"#pers_山本与三平\">\n<surname> 山本 </surname>\n<forename> 与三平 </forename>\n</persname> ノ家ニ至テ午餐ス、高岡商估出テ余カ来着ヲ迎フ者、絡繹路ニ接ス、食後、 <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> ヲ辞シ <persname corresp=\"#pers_吉野徳平\">\n<surname> 吉野 </surname>\n<forename> 徳平 </forename>\n</persname> ヲ訪フ、又開宴饗応ス、此夜地方商估三十余名、余カ来着ヲ祝スル為宴ヲ木津屋ニ設ケテ臨席ヲ乞フ、依テ <persname corresp=\"#pers_吉野\">\n<surname> 吉野 </surname>\n</persname> 氏ヲ辞シ、其宴会ニ赴キ酒間地方商業ノ隆興ヲ望ミ、并テ商估各員ノ奮励ヲ要スル為メ一場ノ演説ヲナス、衆皆勧呼踏舞《（歓）》、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1886-06-12T01:00+0900\"> 一時 </time> 宴ヲ散ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

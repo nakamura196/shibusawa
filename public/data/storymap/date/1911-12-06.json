@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-12-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_野依秀市\">\n<surname> 野依 </surname>\n<forename> 秀一 </forename>\n</persname> 氏ノ来訪ニ接シテ社会観ニ付種々ノ談話ヲ為ス、又、日記ヲ編成ス、夜、 <persname corresp=\"#pers_堀越\">\n<surname> 堀越 </surname>\n</persname> 氏ノ案内ニ係ル <placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ノ宴会ニ出席ス、 <placename corresp=\"#place_栗野\"> 栗野 </placename> 大使、 <persname corresp=\"#pers_高橋\">\n<surname> 高橋 </surname>\n</persname> 男爵等来会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

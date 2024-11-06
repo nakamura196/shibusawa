@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-05-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<placename corresp=\"#place_巣鴨\"> 巣鴨 </placename> 養育院分院ニ抵リ、 <persname corresp=\"#pers_楽翁\"> 楽翁\n       </persname> 公ノ忌日ニ付其紀念会ヲ聞キ、式ヲ挙ケ且一場ノ講話ヲ為ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7337972,
+                    "lon": 139.7390889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_本郷\"> 本郷 </placename> ニ抵リテ午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 二時半 </time>\n<orgname> 高等商業学校 </orgname> ニ <persname corresp=\"#pers_沢柳\">\n<surname> 沢柳 </surname>\n</persname> 校長ヲ訪ヒ、学校商議員ニ関スル事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:30:00",
+                    "text": "<time when=\"15:30:00\"> 三時半 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リテ書状ヲ作ル、 <persname corresp=\"#pers_服部一三\">\n<surname> 服部 </surname>\n<forename> 一三 </forename>\n</persname> 、 <persname corresp=\"#pers_原田貞之助\">\n<surname> 原田 </surname>\n<forename> 貞之助 </forename>\n</persname> 、其他数通アリ、夕方、 <persname corresp=\"#pers_沢田\">\n<surname> 沢田 </surname>\n</persname> 、 <persname corresp=\"#pers_鏑木\">\n<surname> 鏑木 </surname>\n</persname> 二氏来話ス、又、来書及事務ノ整理ヲ為シ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 過帰宿ス、夜食後、演説筆記ヲ修正ス <lb></lb>\n       朝、 <persname corresp=\"#pers_桜井義肇\">\n<surname> 桜井 </surname>\n<forename> 義肇 </forename>\n</persname> 氏来リテ印度王ノ事ヲ談ス、 <placename corresp=\"#place_新潟\"> 新潟 </placename> 県人 <persname corresp=\"#pers_青木\">\n<surname> 青木 </surname>\n</persname> 某来リ揮毫ヲ依頼セラル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

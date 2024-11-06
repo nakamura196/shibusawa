@@ -1,0 +1,101 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-05-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " （欄外） <lb></lb> ［ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 六時 </time> 起床、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 朝食、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:30:00",
+                    "text": "<time when=\"13:30:00\"> 一時半 </time> 午飧、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 晩飧 <lb></lb> 朝来暑気強ク風少シ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、直ニ入浴シテ旅装ヲ整ヘ、朝飧後、京漢鉄道ノ停車場ニ抵ル、送別スル日支両国人頗ル多シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 発車、各駅ヲ経 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:30:00",
+                    "text": "<time when=\"13:30:00\"> 午後一時半 </time> 午飧ス、 <placename corresp=\"#place_北京市\"> 北京 </placename> ヨリ迎ノ為メニ来レル <persname corresp=\"#pers_梁兆元\">\n<surname> 梁 </surname>\n<forename> 兆元 </forename>\n</persname> 氏同車シテ百事周旋ス、列車賃ハ <placename corresp=\"#place_支那\"> 支那 </placename>\n       政府ヨリ特別ニ支給セラレ、車中ノ食事ハ <persname corresp=\"#pers_楊士琦\">\n<surname> 楊 </surname>\n<forename> 士琦 </forename>\n</persname> 氏ニ於テ饗応ノ由ナリ、車中ノ光景只渺茫トシテ麦圃ヲ見ルノミ、時々左方又ハ右方ニ於テ小邱ヲ見ル、 <placename corresp=\"#place_鶏口山\">\n        鶏口山 </placename> ヲ右方ニ見ル、 <placename corresp=\"#place_漢口\"> 漢口 </placename>\n       人ノ避暑地ナル由ナリ、群山中ニ屹立シテ鶏ノ貌アルヲ以テ名アリト云フ、此夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 39.90556,
+                    "lon": 116.39139,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1914-05-19T00:00+0900\"> 十二時 </time> 頃\n        <placename corresp=\"#place_黄河\"> 黄河 </placename>\n       鉄橋ヲ通過ス、但、就寝後ナレハ特ニ一覧ハセサリキ、車中平安ニシテ読書ニ便ナリ、京漢旅行指南ノ一書ヲ通覧ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.49194,
+                    "lon": 96.34028,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

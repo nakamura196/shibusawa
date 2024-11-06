@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-04-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、直ニ入浴シテ朝飧ヲ食ス、此日ハ粕壁地方ヘ旅行ノ約アリテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:50:00",
+                    "text": "<time when=\"07:50:00\">\n        午前七時五十分 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> 停車場ニ抵ル、 <persname corresp=\"#pers_江花佐七\">\n<surname> 江花 </surname>\n<forename> 佐七 </forename>\n</persname> 氏来話ス、汽車 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:54:00",
+                    "text": "<time when=\"07:54:00\"> 七時五十四分 </time> 発、 <persname corresp=\"#pers_野口弘毅\">\n<surname> 野口 </surname>\n<forename> 弘毅 </forename>\n</persname> 氏同行ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 過粕壁駅着、多数ノ人士来リ迎フ、停車場ヨリ人車ニテ直ニ <placename corresp=\"#place_牛島\"> 牛島 </placename>\n       村ニ抵リ藤樹ヲ見ル、頗ル大木ナリ、開花ハ未タ充分ナラサルモ、棚ノ広サ凡ソ二百坪余アルヘク真ニ稀ニ見ル所ナリ、小亭ニ休憩シテ夫ヨリ税務署ニ抵リ午飧ノ饗応アリ席上地方人士ヘ一場ノ講話ヲ為ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n       過小学校ニ抵リ講演会ヲ開ク、来会者六七百名、盛会ナリ、国家経済ト教育ニ関スル問題ヲ以テ修学ノ目的ニ就テ充分ノ講演ヲ為ス、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:40:00",
+                    "text": "<time when=\"17:40:00\"> 午後五時四十分\n       </time> 発ノ汽車ニテ帰途ニ就キ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

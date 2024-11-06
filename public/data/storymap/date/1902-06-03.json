@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-06-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 、\n        <persname corresp=\"#pers_上野\">\n<surname> 上野 </surname>\n</persname> 領事来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 、 <persname corresp=\"#pers_上野\">\n<surname> 上野 </surname>\n</persname> 、 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 、 <pb corresp=\"#pageB1242\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/268/full/max/0/default.jpg\" n=\"B1242\" source=\"#pageB1242\"></pb>\n<persname corresp=\"#pers_萩原\">\n<surname> 萩原 </surname>\n</persname> 氏同伴ニテ桑港市長ヲ市役所ニ訪フ、此市長 <persname corresp=\"#pers_スエーツ\">\n<surname> スエーツ </surname>\n</persname>\n       氏ハ本年春当撰セシ人ナリト云フ、年齢四十歳位ニシテ風采野鄙ナラス、一見能ク事務ヲ弁スル能力アルヲ覚フ、依テ先ツ市ノ制度及経費徴収ノ手続等ヲ問フ、市長ハ順次詳細ニ之ヲ説明ス、其問答ノ要領ハ\n        <persname corresp=\"#pers_萩原\">\n<surname> 萩原 </surname>\n</persname> ヲシテ之ヲ筆録セシム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 帰宿午飧ヲ為シ、午後、領事館、 <orgname> 正金銀行\n       </orgname> 支店及三井物産会社等ヲ訪問ス、更ニ帰宿シテ旅装ヲ理シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_サンフランシスコ\"> 桑港 </placename> 発ノ汽船ニテ <placename corresp=\"#place_オークランド_(カリフォルニア州)\"> オークランド </placename> ニ達シ同所ニテ汽車ニ搭シ夜中汽車ニ一宿ス <placename corresp=\"#place_サンフランシスコ\"> 桑港 </placename>\n       ヲ発シテ後凡一時間許ニシテ汽車ヲ水上ニ搭シテ前岸ニ送ルノ仕掛アリ、其設備壮大ニシテ軽妙ナル驚クニ堪ヘタリ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 37.76667,
+                    "lon": -122.43333,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-08-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、来人ニ接シ、又、書類ヲ調査ス、午飧畢テ <placename corresp=\"#place_小石川\"> 小石川 </placename>\n<placename corresp=\"#place_第六天町\"> 大六天《（第）》 </placename> ニ抵リ、 <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 公爵ニ謁シ渡米ノ告別ヲ為ス、又、早稲田ニ <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯ヲ訪ヒ告別シ、且種々ノ談話ヲ為ス、又 <placename corresp=\"#place_千駄ヶ谷\"> 千駄ケ谷 </placename> ニ\n        <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 公爵ヲ訪ヒ告別シ、 <placename corresp=\"#place_高輪\"> 高輪 </placename> ニ <persname corresp=\"#pers_北脇\">\n<surname> 北脇 </surname>\n</persname> ヲ訪フ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7137833,
+                    "lon": 139.7487556,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> ヨリ <placename corresp=\"#place_田町_(東京都港区)\"> 田町 </placename>\n<persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏ニ抵リ、工業協会、貿易協会二団体ヨリノ送別会ニ出席ス食卓上ニ <persname corresp=\"#pers_金子\">\n<surname> 金子 </surname>\n</persname> 、 <persname corresp=\"#pers_池田\">\n<surname> 池田 </surname>\n</persname> 氏等ノ演説アリ、依テ其答辞ヲ為シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:30:00",
+                    "text": "<time when=\"21:30:00\"> 九時半 </time> 散会ス、帰路 <placename corresp=\"#place_本郷\"> 本郷 </placename> ニ立寄リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

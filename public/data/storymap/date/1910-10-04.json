@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-10-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ、朝飧ヲ食シ、来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:22:00",
+                    "text": "<time when=\"08:22:00\"> 八時二十二分\n       </time> 王子発ノ汽車ニ搭シテ <placename corresp=\"#place_前橋\"> 前橋 </placename>\n       ニ赴ク、同地共進会ニ際シ、聯合商業会議所会ヲ開催セラルヽニ付講演ヲ乞ハレタレハ、此日ヲ以テ出張シタルナリ、汽車中、 <persname corresp=\"#pers_中野武営\">\n<surname> 中野 </surname>\n<forename> 武営 </forename>\n</persname> 氏同行ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 頃 <placename corresp=\"#place_前橋\"> 前橋\n       </placename> 着、地方人多ク来リ迎フ、同地商業会議所会頭 <persname corresp=\"#pers_藤井\">\n<surname> 藤井 </surname>\n</persname> 氏、市長 <persname corresp=\"#pers_江原\">\n<surname> 江原 </surname>\n</persname> 氏等種々款待セリ、公園内ニ新築セル会堂ニテ午飧シ、後、共進会場ノ一室ニ於テ聯合会ヲ開キ一場ノ講演ヲ為ス、畢テ公会堂ニ於テ大宴会アリ、席上挨拶ヲ為シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過臨江閣ニ一泊ス <lb></lb> 閣ハ刀根川ニ臨ミ眺望佳絶ナリキ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

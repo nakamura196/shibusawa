@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-02-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time>\n       起床、入浴シ、畢テ朝飧ヲ食ス、腹部昨日ニ比スレハ稍快方ヲ覚フモ尚出勤スルヲ得ス、家ニ在テ書類ヲ整理ス、午後ヨリ揮毫ヲ試ミ、教育勅語ヲ浄書ス <lb></lb>\n       青山寄宿舎ニ必要ナル額面及幅物ノ揮毫ヲ為ス、又、曾テ <persname corresp=\"#pers_横山\">\n<surname> 横山 </surname>\n</persname> 氏ヨリ依頼セラレタル揮毫ヲ為ス <lb></lb>\n<pb corresp=\"#pageB1495\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/521/full/max/0/default.jpg\" n=\"B1495\" source=\"#pageB1495\"></pb>\n<lb></lb> 此夜、銀行集会所ニ於テ <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 氏ノ為メニ晩餐会ノ催アリタレトモ、病ヲ以テ謝絶ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

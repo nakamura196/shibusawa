@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-05-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、午前 <placename corresp=\"#place_麻布\"> 麻布 </placename>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ヲ訪ヒ内閣組織ノ事ニ関シ種々ノ談話アリ、午餐後東京市役所ニ抵リ <persname corresp=\"#pers_浦田\">\n<surname> 浦田 </surname>\n</persname> 助役ニ面会シテ <placename corresp=\"#place_東京湾\"> 東京湾 </placename> 築港ノ事ヲ談シ、且養育院感化部ノ事ヲ談ス、午後\n        <orgname> 第一銀行 </orgname> ニ出勤シテ重役会ヲ開ク、 <persname corresp=\"#pers_渋沢成一郎\">\n<surname> 渋沢 </surname>\n<forename> 喜作 </forename>\n</persname> 来話ス、 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 宅ニ帰リテ <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 等ニ事務ヲ指示シ夜ニ入テ <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.417,
+                    "lon": 139.783,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

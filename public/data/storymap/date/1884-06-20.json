@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1884-06-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝、 <persname corresp=\"#pers_書上\">\n<surname> 書上 </surname>\n</persname> 西京ニ赴クヲ以テ <persname corresp=\"#pers_増田充績\">\n<surname> 増田 </surname>\n<forename> 充績 </forename>\n</persname> ニ一書ヲ托ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 内務卿ヲ其旅寓ニ訪ヒ、造幣局ニ至リ <persname corresp=\"#pers_遠藤\">\n<surname> 遠藤 </surname>\n</persname> 局長ニ面接シ銀銅貨鋳造工事ヲ一覧ス、鎔銅課長 <persname corresp=\"#pers_花田\">\n<surname> 花田 </surname>\n</persname> 某ニ鎔銅ノ順序ヲ質議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 午前十一時半 </time> 支店ニ来リ <persname corresp=\"#pers_井口\">\n<surname> 井口 </surname>\n</persname> ト共ニ <persname corresp=\"#pers_住友\">\n<surname> 住友 </surname>\n</persname> 氏ヲ訪フ、蓋シ同氏ヨリ一夕招飲ノ懇請アリシカ時日ナキヲ以テ、本日午餐ノ饗応ヲ受クル事ヲ前約セシカ為メナリ、午餐畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\">\n        午後三時 </time>\n<persname corresp=\"#pers_住友\">\n<surname> 住友 </surname>\n</persname> 氏ヲ辞シテ帰宿、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 株式取引所、米商会所等ノ招請ニヨリテ <persname corresp=\"#pers_鴻池\">\n<surname> 鴻池 </surname>\n</persname> 別業ニ至ル、庭園古雅頗ル風致アリ、両所役員悉ク来会シテ饗応鄭重ナリ、声妓競テ酒ヲ侑メ舞隊争テ研ヲ呈ス、更深テ遁レテ帰宿ス <date evidence=\"year inferenced\" when=\"1884-06-21\"> 六月廿一日 </date> 雨 <lb></lb> 朝 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\">\n        八時 </time> ノ汽車ニ駕シテ <placename corresp=\"#place_神戸\"> 神戸 </placename> ニ赴ク、 <placename corresp=\"#place_三宮\"> 三ノ宮 </placename> 駐車場ニ至レハ <persname corresp=\"#pers_長谷川\">\n<surname> 長谷川 </surname>\n</persname>\n       氏来リ迎フヲ以テ共ニ支店ニ至リ、相伴フテ小野浜造船所ヲ一覧シ、桟橋新築ノ模様及倉庫築造工事ヲ歴覧シテ後、一洋食亭ニ於テ午餐シ、更ニ兵庫出張所ニ至リ事務取扱方及諸帳簿ヲ点撿シ、倉庫、融通両会社ノ支店ニ至リテ事務ノ景況ヲ見聞シ、海浜ヲ歩シテ兵庫倉庫ヲ一覧シ\n        <placename corresp=\"#place_湊川\"> 湊川 </placename> ヲ過キ楠公社ニ詣シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.693528,
+                    "lon": 135.195056,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時\n       </time> 神戸支店ニ帰リテ行務ノ各項ヲ撿査ス、 <persname corresp=\"#pers_北風正造\">\n<surname> 北風 </surname>\n<forename> 正造 </forename>\n</persname> 来話ス、撿査畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n<placename corresp=\"#place_諏訪山\"> 諏訪山 </placename>\n<orgname> 常盤楼 </orgname> ニ一宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

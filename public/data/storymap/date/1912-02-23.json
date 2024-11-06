@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-02-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯寿像碑ノ揮毫ヲ為ス早朝ヨリ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 過ニ至リテ成ル、午飧ヲ食シ、 <persname corresp=\"#pers_尾高婦美子\">\n<surname> 尾高 </surname>\n<forename> 婦美子 </forename>\n</persname> 来話ス、 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 夫人来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト内事ヲ話ス、又、 <persname corresp=\"#pers_竹山\">\n<surname> 竹山 </surname>\n</persname>\n<persname corresp=\"#pers_野口\">\n<surname> 野口 </surname>\n</persname> 二氏ト同シク談話ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 頃事務所ニ抵リ事務ヲ処理ス、又、来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リ <orgname> 東京瓦斯会社 </orgname> ノ招宴ニ出席ス、\n        <persname corresp=\"#pers_佐竹\">\n<surname> 佐竹 </surname>\n</persname> 、 <persname corresp=\"#pers_岡崎\">\n<surname> 岡崎 </surname>\n</persname> 等ノ諸氏来会ス余興アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過帰宿、後、 <persname corresp=\"#pers_皆川\">\n<surname> 皆川 </surname>\n</persname> 氏来リ新約全書ノ講義ヲ聴聞ス、 <persname corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persname> 氏来話ス <lb></lb>\n<persname corresp=\"#pers_西野恵之助\">\n<surname> 西野 </surname>\n<forename> 恵之助 </forename>\n</persname> 氏、夫人ト共ニ来訪ス、近日欧米行ニ付告別ノ為メニ来レルナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 頃辞シ去ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

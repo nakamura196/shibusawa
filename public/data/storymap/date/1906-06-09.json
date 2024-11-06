@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-06-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後直ニ朝飧ヲ喫シ、旅装ヲ整ヒ、 <placename corresp=\"#place_大阪\"> 大阪 </placename> 、 <placename corresp=\"#place_神戸\"> 神戸 </placename> 等ヨリ送リ来リタル <persname corresp=\"#pers_熊谷\">\n<surname> 熊谷 </surname>\n</persname> 、 <persname corresp=\"#pers_岸崎\">\n<surname> 岸崎 </surname>\n</persname> 氏等ト共ニ <placename corresp=\"#place_神戸\"> 神戸 </placename> 停車場ニ抵リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 発ノ急行列車ニ搭ス、車中人少クシテ一行ノ談話自由ナリ、 <placename corresp=\"#place_淡路島\"> 淡路島\n       </placename> 、 <placename corresp=\"#place_須磨\"> 須磨 </placename> 、 <placename corresp=\"#place_舞子\"> 舞子 </placename> 、 <placename corresp=\"#place_明石\"> 明石 </placename>\n       等ヲ指顧ノ間ニ評シツヽ過ク、 <placename corresp=\"#place_岡山\"> 岡山 </placename> ニ抵リテ <persname corresp=\"#pers_片山広斗\">\n<surname> 片山 </surname>\n<forename> 広斗 </forename>\n</persname> 氏来リ迎フ、氏ハ近日 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n<placename corresp=\"#place_テキサス州\"> テキサス </placename> ニ移住スル者ナリ、 <placename corresp=\"#place_広島\"> 広島 </placename> ニ抵リ <persname corresp=\"#pers_松本清助\">\n<surname> 松本 </surname>\n<forename> 清助 </forename>\n</persname> 、同万兵衛及人力電気会社技師長来リ迎フ、社員多ク来リ候ス、 <persname corresp=\"#pers_松本\">\n<surname> 松本 </surname>\n</persname> 氏等ハ同車シ車中種々ノ談話アリ、且水力電気会社ノ要務ヲ諮詢セラル、 <placename corresp=\"#place_宮島\"> 宮島 </placename>\n       ニ抵 <pb corresp=\"#pageB1424\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/450/full/max/0/default.jpg\" n=\"B1424\" source=\"#pageB1424\"></pb> リテ辞シ帰ル、 <placename corresp=\"#place_岩国\"> 岩国 </placename> ニテ\n        <persname corresp=\"#pers_佐伯維馨\">\n<surname> 佐伯 </surname>\n<forename> 維馨 </forename>\n</persname> 氏来訪ス、旧ヲ話シテ <placename corresp=\"#place_柳井津\"> 柳井津 </placename> ニテ分袂ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.383,
+                    "lon": 134.833,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 赤馬関ニ着ス、途中 <persname corresp=\"#pers_野口\">\n<surname> 野口 </surname>\n</persname> 氏来リ迎フ、停車場ニハ多人数来リテ歓迎ス、山陽ホテルニ少憩シテ直ニ聯絡壱岐丸ニ搭ス、 <persname corresp=\"#pers_荘田平五郎\">\n<surname> 荘田 </surname>\n<forename> 平五郎 </forename>\n</persname> 来リ話ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 出帆ス、船中無事 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

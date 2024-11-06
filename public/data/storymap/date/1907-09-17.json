@@ -1,0 +1,95 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-09-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後入浴シ、畢テ書類ヲ調査シ、又来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n       東京市役所ニ抵リ、日露協約祝賀会開催ノ事ヲ協議ス、後、外務省ニ抵リ、 <persname corresp=\"#pers_珍田\">\n<surname> 珍田 </surname>\n</persname> 次官ニ面会シテ日露協約祝賀会ノ事及米国陸軍主任者 <persname corresp=\"#pers_タフト\">\n<surname> タフト </surname>\n</persname> 氏歓迎ノ事ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、後、要務ヲ談シ、更ニ事務所ニ抵リテ事務ヲ処理シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 東京瓦斯会社 </orgname> ニ抵リ重役会ニ出席シ、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n       三井集会所ニ抵リ日清起業調査会ニ出席シ、 <persname corresp=\"#pers_原田要\">\n<surname> 原田 </surname>\n<forename> 要 </forename>\n</persname> 氏其他ト <placename corresp=\"#place_清\"> 清国 </placename> 鉄道工工事《（衍）》ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 同気倶楽部ニ抵リ、 <orgname> 石川島造船所 </orgname> 株主協議会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_上野\"> 上野 </placename>\n<orgname> 精養軒 </orgname> ニ抵リ、 <persname corresp=\"#pers_久米孝三郎\">\n<surname> 久米 </surname>\n<forename> 孝三郎 </forename>\n</persname> 氏送別会ニ出席シ食卓上一場ノ演説ヲ為シ、 <orgname> 埼玉学生誘掖会 </orgname> ノ事ニ関シ、 <persname corresp=\"#pers_矢作栄造\">\n<surname> 矢作 </surname>\n<forename> 栄造 </forename>\n</persname> 氏《（ <persname corresp=\"#pers_矢作栄蔵\">\n<surname> 矢作 </surname>\n<forename> 栄蔵 </forename>\n</persname> 氏）》ニ副監督ヲ托スルニ付従来ノ手続ヲ陳述ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 午後八時 </time> 常盤花壇ニ抵リ <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 氏ノ宴会ニ出席シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

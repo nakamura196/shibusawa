@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-12-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、昨夜ヨリ腹瀉アリ、朝来熱気ヲ加フルヲ以テ出勤ヲ得ス、此日 <persname corresp=\"#pers_高橋新吉\">\n<surname> 高橋 </surname>\n<forename> 新吉 </forename>\n</persname> 氏ノ案内ニテ富士見軒ニ午飧饗応ノ約アリシモ病ヲ以テ之ヲ謝ス、夜岩越鉄道重役会ヲ <placename corresp=\"#place_築地\"> 築地 </placename>\n<orgname> 精養軒 </orgname> ニ開キタルモ同シク之ヲ謝絶シ、褥中ニ在テ終日加養ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

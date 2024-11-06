@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-10-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、昨日ハ風雨強ク雲靄四方ヲ眺望スル能ハサリシヲ以テ、今日ノ入港ニ当リテモ尚四望ノ不自由ナラン事ヲ恐レタリシカ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "03:30:00",
+                    "text": "<time when=\"03:30:00\"> 午前三時半\n       </time> 頃 <placename corresp=\"#place_土佐\"> 土佐 </placename> ノ東方ナル <placename corresp=\"#place_室戸崎島\"> 室戸崎島 </placename> 灯台ヲ右舷近方ニ見ル、時ニ雨歇ミテ天色稍明カナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\">\n        午前六時 </time> 頃ヨリ <placename corresp=\"#place_阿波\"> 阿波 </placename> 地方ヲ右舷ニ、 <placename corresp=\"#place_紀州\"> 紀州 </placename> 地方ヲ左舷ニ見ル "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 過キヨリ\n        <placename corresp=\"#place_淡路島\"> 淡治島《（路）》 </placename> ヲ右舷ニ見ル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.383,
+                    "lon": 134.833,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時\n       </time> 頃ヨリ遥ニ <placename corresp=\"#place_摩耶連山\"> 摩耶連山 </placename> ヲ見ルヲ得テ <placename corresp=\"#place_神戸\"> 神戸 </placename> ノ市街雲煙ノ中ニ在リ、一行ノ喜識ルヘキナリ、ヤカテ <placename corresp=\"#place_和田\"> 和田 </placename>\n       ノ岬ニ着スルヤ検疫船来リテ満船ノ乗組員ヲ点検シ、同時ニ来着セシ数〓ノ小蒸気船ハ余等ヲ迎ノ為来レル多人数ヲ乗セテ本船ニ来リ、船中俄ニ混雑ヲ極ムルニ至レリ、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 及一二ノ家僕モ来リ迎フ、 <orgname> 第一銀行 </orgname> 員及各会社ノ人々又ハ <placename corresp=\"#place_神戸\">\n        神戸 </placename> 、 <placename corresp=\"#place_大阪\"> 大坂 </placename>\n       、西京ヨリ来レル商業会議員等数百人《（所脱カ）》ニ及ヒタリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:30:00",
+                    "text": "<time when=\"13:30:00\"> 午後一時半 </time> 小蒸気船ニテ上陸シ、 <placename corresp=\"#place_諏訪山\"> 諏訪山 </placename> 常盤ニテ暫時休憩ス、此時 <placename corresp=\"#place_神戸\"> 神戸\n       </placename> 、 <placename corresp=\"#place_大阪\"> 大坂 </placename>\n       、西京ヨリ来シ商業会議所ノ人々ヨリ、寸間ニテモ歓迎ノ宴ニ臨席スル事ヲ乞ハレテ中常盤ニ抵リテ其宴ニ出席シ、改正条例ニ関シテ農商務省及 <orgname> 東京商業会議所\n       </orgname> ト意見ニ差違アリシ顚末ヲ、 <placename corresp=\"#place_大阪\"> 大坂 </placename> 、 <placename corresp=\"#place_神戸\"> 神戸 </placename> 会議所ノ人ヨリ縷述セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_神戸\"> 神戸 </placename> 停車場ニ於テ汽車ニ搭シ直ニ出発ス、 <placename corresp=\"#place_神戸\"> 神戸 </placename> ノ人々多人数来リ送ル、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 及 <placename corresp=\"#place_東京\"> 東京 </placename> ヨリ迎ノ為メニ来リシ人々ハ同行ス、 <persname corresp=\"#pers_田中源太郎\">\n<surname> 田中 </surname>\n<forename> 源太郎 </forename>\n</persname> 氏上京ノ由ニテ同車ス、車中、 <placename corresp=\"#place_大阪\"> 大坂 </placename> 、西京、 <placename corresp=\"#place_岐阜\"> 岐阜 </placename> 、 <placename corresp=\"#place_名古屋\"> 名古屋 </placename>\n       ノ各地停車場ニハ来リテ無事帰京ヲ祝スル人多シ、汽車ハ寝台附ナルヲ以テ車中幸ニ安眠スルヲ得タリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

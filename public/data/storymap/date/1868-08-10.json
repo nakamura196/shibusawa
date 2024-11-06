@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-08-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 御旅館御発、市街に添たる川口ニ而、 <placename corresp=\"#place_ロヲワル\">\n        ロヲワル </placename> の川口ニ而乗合船に乗船、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:20:00",
+                    "text": "<time when=\"07:20:00\"> 七時二十分 </time> 発程、船中の眺望尤絶佳なり、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:20:00",
+                    "text": "<time when=\"11:20:00\"> 十一時二十分 </time>\n<placename corresp=\"#place_サンナゼール\"> サンナゼール </placename>\n       着、河岸に添たる羽戸場より御上陸、海岸御巡覧、船入場にある広大之飛脚御一覧《（船脱カ）》、夫より汽車場御越、暫時御休息 <lb></lb> 第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:20:00",
+                    "text": "<time when=\"13:20:00\">\n        一時二十分 </time> 同所発軔之汽車御乗組、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:10:00",
+                    "text": "<time when=\"15:10:00\"> 三時十分 </time>\n<placename corresp=\"#place_バースアンドル\"> バースアンドル </placename> といふ地御着、夫より製鉄所御一覧、此製鉄所は総而蒸気船の器械也 <lb></lb>\n<placename corresp=\"#place_バースアンドル\"> Basse-Jndrd《(Basse-Indre)》 </placename> , Indre t\n       St-Nazaire <lb></lb> Manufaqueture《(Manufacture)》 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

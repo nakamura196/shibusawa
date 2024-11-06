@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-03-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_斎藤阿具\">\n<surname> 斎藤 </surname>\n<forename> 阿具 </forename>\n</persname> 氏来リ、 <orgname> 埼玉学生誘掖会 </orgname> ノ事ヲ談シ、且、地方各学校ヘノ祝詞ヲ協議ス、 <persname corresp=\"#pers_林田耕三\">\n<surname> 林田 </surname>\n<forename> 耕三 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_坪谷善四郎\">\n<surname> 坪谷 </surname>\n<forename> 善四郎 </forename>\n</persname> 氏博文館雑誌ノ件ニ付来話ス、 <persname corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persname> 氏来話ス、運送事業ニ付種々ノ談話ヲ為ス、 <placename corresp=\"#place_イギリス\"> 英国 </placename> 総領事ボナー氏来リ、\n        <placename corresp=\"#place_朝鮮\"> 朝鮮 </placename> ニ於テ事業経営ノ事ニ付談話アリ、追テ <persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> ト協議スヘキ事ヲ答フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<persname corresp=\"#pers_大木\">\n<surname> 大木 </surname>\n</persname> 伯爵ヲ麻布ニ訪ヘ、 <persname corresp=\"#pers_日下\">\n<surname> 日下 </surname>\n</persname> 家トノ婚儀ニ付協議スル処アリ、午飧ヲ食シテ辞シ去ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:30:00",
+                    "text": "<time when=\"13:30:00\"> 午後一時半 </time>\n<persname corresp=\"#pers_高木兼寛\">\n<surname> 高木 </surname>\n<forename> 兼寛 </forename>\n</persname> 氏ヲ訪ヘ、身体ノ診 <pb corresp=\"#pageB1731\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/757/full/max/0/default.jpg\" n=\"B1731\" source=\"#pageB1731\"></pb> 察ヲ受ク、後、 <persname corresp=\"#pers_閑院宮\"> 閑院宮 </persname>\n       邸ニ伺候シ過日御饗宴ノ事ヲ拝謝ス、 <persname corresp=\"#pers_杉\">\n<surname> 杉 </surname>\n</persname> 氏ノ病ヲ訪ヒ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 頃 <placename corresp=\"#place_浜町\"> 浜町\n       </placename> ノ家ニ立寄リ <persname corresp=\"#pers_八郎\">\n<forename> 八郎 </forename>\n</persname> 等ヘ訓示シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス夜飧後、新聞紙雑誌類ヲ読ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

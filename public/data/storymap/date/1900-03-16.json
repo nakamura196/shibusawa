@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-03-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前種々ノ来人ニ接ス、午後日本鉄道会社重役会ニ列スル筈ナリシモ、 <placename corresp=\"#place_東京府\"> 東京府 </placename>\n       ニ会同ノ事アルヲ以テ鉄道会社ニ電話ヲ以テ出席ヲ断ル "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<placename corresp=\"#place_東京府\"> 東京府 </placename>\n       ニ抵リ御慶事奉祝ノ典ニ関スル委員会ヲ開ク、其大体ハ美術館ヲ建築シテ奉献スル事ニ決シ、明日ヲ以テ技師ニ其設計ヲ協議ス <pb corresp=\"#pageB1128\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/154/full/max/0/default.jpg\" n=\"B1128\" source=\"#pageB1128\"></pb> ル事トシテ散会ス、更ニ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ大坂 <orgname> 汽車製造合資会社 </orgname> ノ将来ニ付、平岡工場トノ合併談及増資ノ事ヲ協議セシモ充分ノ協定ヲ得サリシ、此日会同セシハ\n        <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_原六郎\">\n<surname> 原 </surname>\n<forename> 六郎 </forename>\n</persname> 、 <persname corresp=\"#pers_高田慎蔵\">\n<surname> 高田 </surname>\n<forename> 慎蔵 </forename>\n</persname> 、 <persname corresp=\"#pers_瓜生震\">\n<surname> 瓜生 </surname>\n<forename> 震 </forename>\n</persname>\n       ノ諸氏ニシテ、平岡工場ノ合併ハ其価格相当ナレハ異議ナキモ、少クモ其半額ハ平岡ノ出資ヲ此合資会社ニ加入スル事、又此合併ニ付テハ殊ニ増資ヲ為ス事ナク、銀行借入金ニテ運転ヲ為スヘキ事ト《（ノ脱）》意向ナリキ、夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宅、此夜 <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname>\n<placename corresp=\"#place_大韓民国\"> 韓国 </placename> 行ニ関シ、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏ハ鉱山採堀ノ事ニ関シ、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 両氏ノ《（ハ）》銀行事務ニ関シ来会シテ協議スル所アリ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 出立ス、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> ノ人々ヘ伝言ヲ托ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,108 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-12-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、朝来風強ク、時ニ雨ヲ送ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 地方有志者来訪ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時\n       </time> 過旅宿ヲ出テ箱崎八幡ノ祠ヲ参拝シ、醍酸帝震筆《（醍醐帝）》ノ敵国降伏ノ金字ヲ拝観ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時三十分 </time>\n       博多発ノ汽車ニ搭シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 過 <placename corresp=\"#place_門司\"> 門司\n       </placename> ニ着ス、 <persname corresp=\"#pers_安川敬一郎\">\n<surname> 安川 </surname>\n<forename> 敬一郎 </forename>\n</persname> 、高僑達、 <persname corresp=\"#pers_三好\">\n<surname> 三好 </surname>\n</persname> 某同行ス、 <placename corresp=\"#place_小倉\"> 小倉 </placename> ニ抵リテ <persname corresp=\"#pers_和田維四郎\">\n<surname> 和田 </surname>\n<forename> 維四郎 </forename>\n</persname> 、 <persname corresp=\"#pers_仙石貢\">\n<surname> 仙石 </surname>\n<forename> 貢 </forename>\n</persname> 、 <persname corresp=\"#pers_白石直治\">\n<surname> 白石 </surname>\n<forename> 直治 </forename>\n</persname> ノ諸氏来リ迎フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<placename corresp=\"#place_下関市\"> 馬関 </placename>\n<orgname> 大吉楼 </orgname> ニ休憩ス、此夜仙石氏ヨリ饗宴アリ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 33.95789,
+                    "lon": 130.94133,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n       馬関丸ニ乗組ム、蓋シ九州鉄道ト山陽鉄道トノ聯絡ヲ為スタメニ特ニ築造セル船舶ニシテ <placename corresp=\"#place_瀬戸\"> 瀬戸 </placename>\n       中ノ航路ニ供スルモノナリ、其構造頗ル華麗ナリ、此日 <placename corresp=\"#place_下関市\"> 馬関 </placename> ニ開キタル水産共進会ニ来会ノ者帰県\n        <pb corresp=\"#pageB1169\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/195/full/max/0/default.jpg\" n=\"B1169\" source=\"#pageB1169\"></pb> ノ為メ船中殊ニ雑沓セリ、此日 <placename corresp=\"#place_下関市\"> 馬関\n       </placename> ヨリ本店 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 宛及 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 宛ノ書状ヲ裁ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 33.95789,
+                    "lon": 130.94133,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 出帆、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<placename corresp=\"#place_徳山\"> 徳山 </placename> 着、直ニ上陸シテ徳山ホテルニ於テ小憩ス、 <placename corresp=\"#place_広島\"> 広島 </placename> ヨリ <persname corresp=\"#pers_松本清助\">\n<surname> 松本 </surname>\n<forename> 清助 </forename>\n</persname> 、 <persname corresp=\"#pers_児玉春房\">\n<surname> 児玉 </surname>\n<forename> 春房 </forename>\n</persname> ノ二氏来リ迎フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:40:00",
+                    "text": "<time when=\"05:40:00\"> 午前五時四十分 </time> 徳山発ノ汽車ニテ <placename corresp=\"#place_広島\"> 広島 </placename> ニ向フ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-10-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1108\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/134/full/max/0/default.jpg\" n=\"B1108\" source=\"#pageB1108\"></pb>\n<lb></lb> 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<persname corresp=\"#pers_山縣有朋\">\n<surname> 山県 </surname>\n</persname> 総理大臣ヲ訪ヒ京釜鉄道ノ事ヲ話シ、尋テ政界及商工業者ニ関スル悖徳ノ事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n       鉄道作業局ニ抵リ、 <persname corresp=\"#pers_松本\">\n<surname> 松本 </surname>\n</persname> 局長ニ面会シテ昨日 <persname corresp=\"#pers_唐橋左源次\">\n<surname> 唐橋 </surname>\n<forename> 左源次 </forename>\n</persname> ヨリ受取リタル岩越線路絵図面及計算書ヲ交付ス、且此件ニ関スル依頼ノ趣旨ヲ再演ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ重役会ヲ開ク、 <persname corresp=\"#pers_岡野広\">\n<surname> 岡野 </surname>\n<forename> 広 </forename>\n</persname> 来リテ京坂鉄道ノ事ヲ談ス、 <persname corresp=\"#pers_渡邊嘉一\">\n<surname> 渡辺 </surname>\n<forename> 嘉一 </forename>\n</persname> 来リテ北越鉄道ノ営業景況ヲ話ス、 <persname corresp=\"#pers_久我通久\">\n<surname> 久我 </surname>\n<forename> 通久 </forename>\n</persname> 氏来リテ学生ニ関スル会館ノ事ヲ話ス、夜 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス、此夜\n        <orgname> 台湾銀行 </orgname>\n<persname corresp=\"#pers_土岐\">\n<surname> 土岐 </surname>\n</persname> 〓ヘ書状ヲ発ス、 <persname corresp=\"#pers_二橋元長\">\n<surname> 二橋 </surname>\n<forename> 元長 </forename>\n</persname> 、 <persname corresp=\"#pers_大橋半七郎\">\n<surname> 大橋 </surname>\n<forename> 半七郎 </forename>\n</persname> 二氏ヘモ書状ヲ裁ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

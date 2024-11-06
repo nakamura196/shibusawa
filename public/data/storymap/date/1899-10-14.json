@@ -1,0 +1,86 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-10-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:50:00",
+                    "text": "<time when=\"07:50:00\"> 七時五十分 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 発ノ汽車ニテ <orgname> 石川島造船所 </orgname>\n       浦賀分工場ニ抵リ第五犬島丸進水ノ式ニ列ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_浦賀\"> 浦賀 </placename> ニ着ス、 <persname corresp=\"#pers_西村捨三\">\n<surname> 西村 </surname>\n<forename> 捨三 </forename>\n</persname> 夫妻、 <persname corresp=\"#pers_進経太\">\n<surname> 進 </surname>\n<forename> 経太 </forename>\n</persname>\n<persname corresp=\"#pers_荒木民三郎\">\n<surname> 荒木 </surname>\n<forename> 民三郎 </forename>\n</persname> 諸氏同車ス、分工場ニ於ル進水ノ準備十分ナラスシテ大ニ遅刻セリ、且盤木ニ故隙《（障）》アルヲ以テ船水際ニ在テ進水セス、一同大ニ失望ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.2475,
+                    "lon": 139.713972,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 過、食卓場ニ来客ヲ誘フテ立食ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_浦賀\"> 浦賀 </placename> ヲ発シ <placename corresp=\"#place_横須賀\"> 横須賀\n       </placename> 発ノ汽車ニテ大船ニ抵リ、汽車ヲ転シ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.2475,
+                    "lon": 139.713972,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 過 <placename corresp=\"#place_大磯町\"> 大磯 </placename> 長生館ニ投宿ス、蓋シ <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 病ニ由テ此家ニ療養シ在ルヲ以テナリ、 <persname corresp=\"#pers_皆川\">\n<surname> 皆川 </surname>\n</persname> 夫人モ同宿セラレシニヨリ種々ノ談話ニ欝寥ヲ散シタリ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

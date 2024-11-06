@@ -1,0 +1,96 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-01-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シテ朝飧ヲ食ス、 <persname corresp=\"#pers_柏木孤竜\">\n<surname> 柏木 </surname>\n<forename> 孤竜 </forename>\n</persname> 氏来リ雑誌発行ノ談アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 事務所ニ抵リ、来人ニ接シ又庶務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 午前十二時 </time>\n<orgname> 日本銀行 </orgname> ニ抵リ支那人 <persname corresp=\"#pers_胡暎\">\n<surname> 胡 </surname>\n<forename> 暎 </forename>\n</persname> 氏招宴《（ <persname corresp=\"#pers_胡瑛\">\n<surname> 胡 </surname>\n<forename> 瑛 </forename>\n</persname> 氏）》ニ出席ス、午食卓上同氏ト種々ノ談話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:30:00",
+                    "text": "<time when=\"13:30:00\"> 午後一時半 </time> 銀行集会所ニ抵リ <orgname>\n        第一銀行 </orgname> 株主総会ヲ開ク、議事畢テ事務所ニ抵リ、更ニ <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> ヨリ同族会ヲ開キ諸計算書ヲ閲覧シ要件ヲ議決ス、後、家法家訓ヲ朗読ス、又、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 身上ニ付爾来ノ経過ヲ同族ニ示シ、昨年内示シタル遺言状中一条ヲ削除スル事トス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 午後七時半 </time>\n       夜飧ス、畢テ同族中種々ノ談話アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過散会ス、後、新聞ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1913-01-29T00:00+0900\"> 十二時 </time> 就寝ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 過、 <placename corresp=\"#place_朝鮮\"> 朝鮮 </placename> 総督府員\n        <persname corresp=\"#pers_小松緑\">\n<surname> 小松 </surname>\n<forename> 緑 </forename>\n</persname> 氏来訪、総督ノ伝言ナリトテ <persname corresp=\"#pers_李\">\n<surname> 李 </surname>\n</persname> 王コールフラン氏係争ノ訴訟事件ニ付種々ノ談話アリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

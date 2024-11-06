@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-10-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝、 <persname corresp=\"#pers_遠藤庸治\">\n<surname> 遠藤 </surname>\n<forename> 庸治 </forename>\n</persname> 来ル、陸羽水力電気鉄道ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time>\n       台湾協会ニ於テ催ス処ノ函樽鉄道会社創業総会ニ出席ス、議事終了ノ後 <orgname> 第一銀行 </orgname> ニ出勤ス、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏来ル、 <persname corresp=\"#pers_斎藤精一\">\n<surname> 斎藤 </surname>\n<forename> 精一 </forename>\n</persname> 、 <persname corresp=\"#pers_石井八万次郎\">\n<surname> 石井 </surname>\n<forename> 八万次郎 </forename>\n</persname> 両人同伴シテ <placename corresp=\"#place_朝鮮\"> 朝鮮 </placename> 鉱山ノ実況ヲ談話ス、 <persname corresp=\"#pers_中島行孝\">\n<surname> 中島 </surname>\n<forename> 行孝 </forename>\n</persname> 、 <persname corresp=\"#pers_加藤斌\">\n<surname> 加藤 </surname>\n<forename> 斌 </forename>\n</persname> 、 <persname corresp=\"#pers_大沢\">\n<surname> 大沢 </surname>\n</persname> 某三氏来リ市街鉄道ノ事ヲ陳情セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 商業会議所役員会ヲ開ク、要件数項ヲ議決ス、夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

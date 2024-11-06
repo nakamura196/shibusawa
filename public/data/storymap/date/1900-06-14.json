@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-06-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前 <persname corresp=\"#pers_河村隆実\">\n<surname> 河村 </surname>\n<forename> 隆実 </forename>\n</persname> 来ル、昨日 <persname corresp=\"#pers_児玉\">\n<surname> 児玉 </surname>\n</persname> 総督ニ依頼セシ <placename corresp=\"#place_大阪\"> 大坂 </placename> 陸軍省ノ土地ニ関スル事ヲ詳話ス、午後\n        <orgname> 第一銀行 </orgname> 重役会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n       三井集会所ニ抵リ、白耳義人ノ発起セル東洋会社ノ事ニ関シ同国公使及ウートル、其他 <persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 伯、 <persname corresp=\"#pers_青木\">\n<surname> 青木 </surname>\n</persname> 子、 <persname corresp=\"#pers_岩崎久弥\">\n<surname> 岩崎 </surname>\n<forename> 久弥 </forename>\n</persname> 男、 <persname corresp=\"#pers_山本達雄_(政治家)\">\n<surname> 山本 </surname>\n<forename> 達雄 </forename>\n</persname> 、 <persname corresp=\"#pers_園田孝吉\">\n<surname> 園田 </surname>\n<forename> 孝吉 </forename>\n</persname> 、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 、 <persname corresp=\"#pers_瓜生震\">\n<surname> 瓜生 </surname>\n<forename> 震 </forename>\n</persname> 、 <persname corresp=\"#pers_波多野承五郎\">\n<surname> 波多野 </surname>\n<forename> 承五郎 </forename>\n</persname> 諸氏来会ス、 <persname corresp=\"#pers_曾根\">\n<surname> 曾根 </surname>\n</persname> 《（ <persname corresp=\"#pers_曾禰\">\n<surname> 曾禰 </surname>\n</persname> ）》農商務及二三ノ人ハ差支アルトテ参会セサリシ、食後東洋会社加盟ノ事ニ関シ種々ノ協議ヲ為ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宅ス、此夜大坂 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ヘ書状ヲ送リ要務ヲ委嘱ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

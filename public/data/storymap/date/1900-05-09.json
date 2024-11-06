@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-05-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、昨夜三宮式部長ヨリ通知アリテ本日 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 九時三十分 </time> 授爵相成ルニ付参内ノ事ヲ申来ル、依テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時三十分 </time>\n       大礼服着用宮城ニ抵ル、東御車寄ヨリ昇殿ス、暫時休憩シテ後数間ヲ越テ奥殿ニ召サレ、華族ニ列セラルヽノ宣旨ヲ宮内次官ヨリ授与セラル、後更ニ美麗ナル一室ニ抵リテ男爵ヲ授ケラルノ宣旨ヲ宮内大臣ヨリ授与セラル、畢テ賢所ヲ拝シテ誓詞ヲ奉ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 帰宅ス、午後岩越鉄道会社ノ事ニ関シ日本鉄道会社ニ抵ル、 <persname corresp=\"#pers_二橋\">\n<surname> 二橋 </surname>\n</persname> 、浜、 <persname corresp=\"#pers_三島\">\n<surname> 三島 </surname>\n</persname> ノ諸氏同行ス、 <persname corresp=\"#pers_曾我\">\n<surname> 曾我 </surname>\n</persname> 、 <persname corresp=\"#pers_有島\">\n<surname> 有島 </surname>\n</persname> 、 <persname corresp=\"#pers_久米\">\n<surname> 久米 </surname>\n</persname> 諸氏ト談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<placename corresp=\"#place_東京市\"> 東京市 </placename>\n       ニ抵リ奉祝会常議員会ニ列ス、畢テ商業会議所経済ニ関スル調査委員会ニ参列シテ二三ノ意見ヲ陳述ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename>\n<persname corresp=\"#pers_三野村\">\n<surname> 三野村 </surname>\n</persname> 氏別荘ニ於テ <persname corresp=\"#pers_高橋是清\">\n<surname> 高橋 </surname>\n<forename> 是清 </forename>\n</persname> 氏ノ催シタル鰻会ニ招宴セラル、経済談酣ニシテ賓主各意見ヲ討ハス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス、此夜親戚来会授爵ノ歓ヲ述フ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\">\n        午前七時 </time>\n<persname corresp=\"#pers_唐橋左源次\">\n<surname> 唐橋 </surname>\n<forename> 左源次 </forename>\n</persname> 、 <persname corresp=\"#pers_伊藤一隆\">\n<surname> 伊藤 </surname>\n<forename> 一隆 </forename>\n</persname> ノ諸氏来ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-01-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝、 <persname corresp=\"#pers_梅田\">\n<surname> 梅田 </surname>\n</persname> より明神下に帰り、旅装整たれは、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 頃出立、尤荷物は不残船ニ而今晩 <placename corresp=\"#place_品川\"> 品川 </placename> へ差送る、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 頃 <placename corresp=\"#place_品川\"> 品川 </placename> 着、肥後兵隊其外等ニ而人足多く入用故継立出来せすとて、問屋場役人詰合なけれは本陣を頼み人足雇方取計、夕方\n        <placename corresp=\"#place_川崎\"> 川崎 </placename> 宿着ニ而一泊 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-12-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、風邪気未タ愈ヘス、半身浴ヲナシテ後、病床ニ在テ朝飧ヲ食ス、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_阪谷芳郎\">\n<surname> 阪谷 </surname>\n<forename> 芳郎 </forename>\n</persname> 氏来リ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 平和協会ノ事ヲ談ス、 <placename corresp=\"#place_三田\"> 三田 </placename>\n<persname corresp=\"#pers_渋沢敬三\">\n<forename> 敬三 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢信雄\">\n<forename> 信雄 </forename>\n</persname> 、 <persname corresp=\"#pers_加賀谷真一\">\n<surname> 加賀谷 </surname>\n<forename> 真一 </forename>\n</persname> 三氏来ル、修学上ノ訓誡ヲ為ス、 <persname corresp=\"#pers_伊藤半次郎\">\n<surname> 伊藤 </surname>\n<forename> 半次郎 </forename>\n</persname> 来話ス、 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス、午飧後、 <persname corresp=\"#pers_高橋波太郎\">\n<surname> 高橋 </surname>\n<forename> 波太郎 </forename>\n</persname> 氏来話、桜田義挙録ヲ読ム、夜飧ヲ共ニシ、夜半マテ読続ク、 <persname corresp=\"#pers_皆川晃雄\">\n<surname> 皆川 </surname>\n<forename> 晃雄 </forename>\n</persname> 氏来訪セラルヽモ病中ナルヲ以テ聖書ノ会読ハ為ササリキ、終日褥中ニ在テ休養ス、但、来書ヲ撿シ来人ニ接シ新聞紙ヲ一覧スルハ平日ト異ナルコトナシ、午前、\n        <placename corresp=\"#place_支那\"> 支那 </placename> 学生救護ノ事ニ付会合アリシモ出席ヲ謝絶ス、夜 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏宅ノ宴会ニモ断リ遣ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

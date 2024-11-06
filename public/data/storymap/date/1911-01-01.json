@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-01-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 去年ヨリ腹部ヲ損シテ昨夜モ脚湯、薬用等種々ノ手当ヲ為シタルニヨリ朝来稍快方ノ様ナレトモ、平常ノ如ク蚤起スルヲ得ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 午前八時半\n       </time> 起床シ、衣服ヲ改ムルト云トモ褥中ニ在テ、先ツ家人ノ年賀ヲ受ク、朝飧後、 <persname corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_穂積重遠\">\n<surname> 穂積 </surname>\n<forename> 重遠 </forename>\n</persname> 氏等ノ賀正来訪アリ、尋テ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏、 <persname corresp=\"#pers_石井\">\n<surname> 石井 </surname>\n</persname> 氏、其他 <orgname> 第一銀行 </orgname> 員多数来賀アリ、夜ニ入ルマテ来客陸続セリ、 <persname corresp=\"#pers_穂積陳重\">\n<surname> 穂積 </surname>\n<forename> 陳重 </forename>\n</persname> 夫妻モ亦来リ賀ス <lb></lb> 褥中ニ於テ終日来客ニ接シ、又、新聞紙ヲ読ム、時々雑誌又ハ竜門雑誌ノ記念号ヲ一読ス、夜ニ入リテ腹部少ク痛ヲ覚フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 就寝ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

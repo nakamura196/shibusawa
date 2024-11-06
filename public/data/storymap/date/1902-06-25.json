@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-06-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、夕方ヨリ雨降ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<persname corresp=\"#pers_ヴァンダーリップ\">\n<surname> ヴワンデリツプ </surname>\n</persname> 来話ス、氏 <orgname> ハシチー国立銀行 </orgname> 副頭取ニシテ頗ル論客ナル由ニ付、種々ノ談話ヲ試ミシモ今夕 <persname corresp=\"#pers_スチルマン\">\n<surname> スチルマン </surname>\n</persname> 氏ノ宴会ニテ款話スヘキ旨ヲ告テ帰ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 領事館ニ抵リ夫ヨリ <orgname>\n        ミユーチユワル性命保険会社 </orgname> ニ抵リ <persname corresp=\"#pers_マカーヂー\">\n<surname> マカーヂー </surname>\n</persname> 氏ニ面会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n       午飧ノ饗宴アリ、食卓上主人外数名ノ演説アリ、余モ一場ノ答詞ヲ述フ、此日会スル者ハ <persname corresp=\"#pers_ゲーチ\"> ゲーチ </persname> 、\n        <persname corresp=\"#pers_モルトン\"> モルトン </persname> 、 <persname corresp=\"#pers_ロツクヘーラー\">\n        ロツクヘーラー </persname> 、 <orgname> ナシヨナルバンク・オフ・コンメルス </orgname>\n       頭取其他数名ニシテ、賓主合テ十二名ナリ、何レモ当府有力ノ巨商ナリキ、食事畢テ <persname corresp=\"#pers_エドワード_ヘンリー_ハリマン\">\n<surname> ハリマン </surname>\n</persname> 氏ノ事務所ヲ訪ヘシモ面会ヲ得サルニヨリ領事館ニ於テ暫時休足シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 再ヒ <persname corresp=\"#pers_エドワード_ヘンリー_ハリマン\">\n<surname> ハリマン </surname>\n</persname> 氏ヲ訪ヒ種々ノ会談ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:30:00",
+                    "text": "<time when=\"16:30:00\"> 午後四時半 </time> 旅宿ニ帰ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\">\n        午後七時半 </time>\n<persname corresp=\"#pers_スチルマン\">\n<surname> スチルマン </surname>\n</persname> 氏ノ招宴ニ応シテ其家ニ抵ル、 <persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> 同行ス、当日来会ノ相客ハ <persname corresp=\"#pers_ゲーチ\"> ゲーチ </persname> 氏、 <persname corresp=\"#pers_ロツクヘーラー\"> ロツクヘーラー </persname> 、 <persname corresp=\"#pers_ヴァンダーリップ\"> ヴハンデリツプ\n       </persname> 及 <persname corresp=\"#pers_ネバタ州\"> ネバタ州 </persname>\n       ヨリ撰出セラレシ議員ノ一人ニテ賓主僅ニ六人ニシテ主人ノ待遇頗ル懇篤ナリ、食卓上種々ノ談話アリ、畢テ主人ノ案内ニテ室内ヲ一 <pb corresp=\"#pageB1249\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/275/full/max/0/default.jpg\" n=\"B1249\" source=\"#pageB1249\"></pb>\n       覧ス、此日ノ饗応ハ仏国風ノ割烹ニシテ高尚ニシテ且善美ヲ尽セリ、其食器及室内装飾ノ如キモ総テ優美壮麗ヲ極ム、以テ当地有数ノ豪富タルヲ知ルヘシ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\">\n        午後十一時 </time> 帰宅ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-10-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、少シク風邪気ナルニヨリ入浴ヲ廃ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time>\n       ヨリ各商業会議所会頭ト共ニ朝飧シ、今日団員ノ総会ニ関スル要件ヲ協議ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 事務所ニ於テ総会ヲ開キ要務ヲ議決ス（\n        <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 側ヘ紀念品贈与ニ関スル経費支出ノ件、常議員撰定ノ件、明日 <persname corresp=\"#pers_久弥宮\"> 久弥宮 </persname> 殿下《（ <persname corresp=\"#pers_久邇宮邦彦王\"> 久邇宮 </persname>\n       ）》ヘ伺候ノ件、其他諸件ヲ議定ス）、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:30:00",
+                    "text": "<time when=\"13:30:00\"> 午後一時半 </time> 午飧シ、後、 <persname corresp=\"#pers_大野伊之助\">\n<surname> 大野 </surname>\n<forename> 伊之助 </forename>\n</persname> 氏及新聞記者等ノ訪問ニ接シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 頃ヨリ本邦留守宅、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persname> 等、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 等ヘノ書状ヲ認ム、又、 <placename corresp=\"#place_シアトル\"> シヤトル </placename> 及 <placename corresp=\"#place_サンフランシスコ\"> 桑港 </placename> ノ領事ヘ書状ヲ発送ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 47.60972,
+                    "lon": -122.33306,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 七時半 </time>\n       晩飧シ、後、露人ノ来訪アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1909-10-04T00:00+0900\"> 十二時 </time> 就寝ス <lb></lb> 此日ハ <persname corresp=\"#pers_久弥宮\"> 久弥宮 </persname> 殿下《（ <persname corresp=\"#pers_久邇宮邦彦王\"> 久邇宮 </persname>\n       ）》ヘノ伺候ヲ他人ニ托シ、明日此地ノ歓迎ヲ受クル事ニセシヨリ、終日旅宿ニ在テ書状ヲ認ムル事トス <lb></lb>\n<persname corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persname> 氏ヘ書状ヲ発シテ児等ノ勉学ヲ依頼ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

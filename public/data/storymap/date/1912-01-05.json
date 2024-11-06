@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-01-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シテ朝飧ヲ食ス、 <persname corresp=\"#pers_北脇友吉\">\n<surname> 北脇 </surname>\n<forename> 友吉 </forename>\n</persname> 来ル、寿尾《（久尾）》ノ墓碑ヲ揮毫シ遣ス、寛永寺大僧正来リ新年ノ賀詞ヲ述フ、此日午前ヨリ揮毫ニ勉ム、午飧後モ尚ホ揮毫ヲ継続ス、夜ニ至リテ止ム <lb></lb> 夜、\n        <persname corresp=\"#pers_明石照男\">\n<surname> 明石 </surname>\n<forename> 照男 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢敬三\">\n<surname> 渋沢 </surname>\n<forename> 敬三 </forename>\n</persname> 等来リ種々ノ談話ヲナス、夜飧後新聞紙ヲ一覧シ、又、児童等ト遊戯ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-01-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝、 <persname corresp=\"#pers_梅田慎之助\">\n<surname> 梅田 </surname>\n<forename> 慎之助 </forename>\n</persname> を訪ひ、郷里より来りし <persname corresp=\"#pers_藤十郎\">\n<forename> 藤十郎 </forename>\n</persname>\n       といふ者面会いたす、いまた郷里より書状の報なかりせは、同人に托し、品物及消息等申通度とて、其日書翰を認め、明後日同人帰省之積申談す、午飯後礫邸に罷越し、御用荷物仕訳いたす <lb></lb>\n       夕、 <persname corresp=\"#pers_梅田\">\n<surname> 梅田 </surname>\n</persname> に来り、 <persname corresp=\"#pers_藤十郎\">\n<forename> 藤十郎 </forename>\n</persname> 面会、帰省之手続申談す、此夜、 <persname corresp=\"#pers_梅田\">\n<surname> 梅田 </surname>\n</persname> 一泊 <lb></lb>\n<persname corresp=\"#pers_須永虎之助\">\n<surname> 須永 </surname>\n<forename> 虎之助 </forename>\n</persname> 来会 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

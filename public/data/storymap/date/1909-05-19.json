@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-05-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シ、畢テ日記ヲ編成シ、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ト共ニ朝飧ヲ食シ、要務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n<persname corresp=\"#pers_鈴木寅彦\">\n<surname> 鈴木 </surname>\n<forename> 寅彦 </forename>\n</persname> 氏来話ス、又、理髪ス、 <persname corresp=\"#pers_和田守菊次郎\">\n<surname> 和田守 </surname>\n<forename> 菊次郎 </forename>\n</persname> 氏来話ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <persname corresp=\"#pers_中野武営\">\n<surname> 中野 </surname>\n<forename> 武営 </forename>\n</persname> 、 <persname corresp=\"#pers_大橋新太郎\">\n<surname> 大橋 </surname>\n<forename> 新太郎 </forename>\n</persname> 二氏ノ来訪ニ接シ、高商生徒ノ事ヲ談ス、 <persname corresp=\"#pers_阪本則美\">\n<surname> 阪本 </surname>\n<forename> 則美 </forename>\n</persname> 、 <persname corresp=\"#pers_杉山岩三郎\">\n<surname> 杉山 </surname>\n<forename> 岩三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_川田鉄弥\">\n<surname> 川田 </surname>\n<forename> 鉄弥 </forename>\n</persname> ノ諸氏来リ、各其所要ノ事ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 午飧シ、後、書類ヲ撿閲ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<orgname> 日本郵船会社 </orgname> ニ抵リ重役会ニ出席ス、畢テ <persname corresp=\"#pers_近藤\">\n<surname> 近藤 </surname>\n</persname> 氏ト高商学校ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_本郷\"> 本郷 </placename> ニ抵リ夜飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

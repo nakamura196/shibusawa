@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-05-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、畢テ <persname corresp=\"#pers_円城寺艮\">\n<surname> 円城寺 </surname>\n<forename> 艮 </forename>\n</persname> 氏来リ同文館雑誌ノ談アリ、 <persname corresp=\"#pers_加賀谷真一\">\n<surname> 加賀谷 </surname>\n<forename> 真一 </forename>\n</persname> 来リ其身上ノ事ニ付依頼アリ、卒業ノ後 <orgname> 第一銀行 </orgname> 勤務ノ企望ヲ述フ、 <persname corresp=\"#pers_神谷義雄\">\n<surname> 神谷 </surname>\n<forename> 義雄 </forename>\n</persname> 氏来リ <placename corresp=\"#place_仙台\"> 仙台 </placename>\n<orgname> 七十七銀行 </orgname> ニ関スル談話アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 事務所ニ抵リ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧ス後、重役会ヲ開キ要件ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n       再ヒ事務所ニ抵リ庶務ヲ処理シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、此日、宗教統一ノ事ヲ協議スル為メ、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 、 <persname corresp=\"#pers_中島\">\n<surname> 中島 </surname>\n</persname>\n<persname corresp=\"#pers_姉崎\">\n<surname> 姉崎 </surname>\n</persname> 、 <persname corresp=\"#pers_森村\">\n<surname> 森村 </surname>\n</persname> 、 <persname corresp=\"#pers_成瀬\">\n<surname> 成瀬 </surname>\n</persname> 、米人キユリキノ諸氏来会ス、 <date evidence=\"year inferenced, month\" when=\"1912-04-11\"> 客月十一日\n       </date>\n       開会ヨリ都合三回ニシテ趣意書ニ関スル諸氏ノ意見モ稍一致シタルニヨリ、更ニ字句ノ修正ヲ為シ、且規約ハ余ノ手ニテ調成シ、来月ニ於テ数十名ノ同意者ヲ勧募シ、発会ノ運ニ向ハン事ヲ期シテ散会ス\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

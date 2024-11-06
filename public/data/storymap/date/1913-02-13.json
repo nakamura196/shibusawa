@@ -1,0 +1,73 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-02-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <placename corresp=\"#place_飯能\"> 飯能\n       </placename> 町ヨリ来訪セル双木氏外二名ヲ接見シテ同地ニ神宮建設ノ企望ヲ聞ク、写真及請願書類ヲ落手ス、他日機会アラハ其筋ヘ進言スヘキ事ヲ答フ、蚕糸会書記 <persname corresp=\"#pers_加藤知正\">\n<surname> 加藤 </surname>\n<forename> 知正 </forename>\n</persname> 氏来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 午前十時半 </time>\n<placename corresp=\"#place_巣鴨\"> 巣鴨 </placename> 養育院分院ニ抵リ児童修学ノ実況ヲ一覧ス、 <persname corresp=\"#pers_安達\">\n<surname> 安達 </surname>\n</persname> 、 <persname corresp=\"#pers_小沢\">\n<surname> 小沢 </surname>\n</persname> 二氏同伴ス、畢テ <placename corresp=\"#place_大塚\"> 大塚 </placename>\n       本院ニ抵リ要務ヲ協議ス、医長幹事其他ノ吏員来会ス、午飧後 <orgname> 第一銀行 </orgname>\n       ニ抵リ重役会ヲ開キ要件ヲ議決ス、畢テ事務所ニ抵リ、来人ニ接シ、又、庶務ヲ処理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7337972,
+                    "lon": 139.7390889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<pb corresp=\"#pageB1758\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/784/full/max/0/default.jpg\" n=\"B1758\" source=\"#pageB1758\"></pb> 帰宿、 <persname corresp=\"#pers_穂積陳重\">\n<surname> 穂積 </surname>\n<forename> 陳重 </forename>\n</persname> 夫妻来ル、夜飧後、 <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persname> 修学上ノ事ニ付種々ノ協議ヲ為ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1913-02-14T00:00+0900\"> 十二時 </time> 就寝ス <lb></lb>\n<persname corresp=\"#pers_神谷正雄\">\n<surname> 神谷 </surname>\n<forename> 正雄 </forename>\n</persname> 氏来《（ <persname corresp=\"#pers_神谷忠雄\">\n<surname> 神谷 </surname>\n<forename> 忠雄 </forename>\n</persname> カ）》リ <placename corresp=\"#place_ブラジル\"> 伯剌西爾 </placename> 殖民会社ノ事ヲ談ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": -15.783,
+                    "lon": -47.867,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

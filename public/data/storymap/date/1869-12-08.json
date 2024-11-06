@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-12-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 此日休省ニ付、朝より <placename corresp=\"#place_静岡\"> 静岡 </placename> 行書状を裁す、 <persname corresp=\"#pers_大久保一翁\">\n<surname> 大久保 </surname>\n<forename> 一翁 </forename>\n</persname> 、 <persname corresp=\"#pers_平岡四郎\">\n<surname> 平岡 </surname>\n<forename> 四郎 </forename>\n</persname> 及掛所出役之者へ書状遣す、留守宅へも壱封遣す、爾来之手続丁寧ニ <persname corresp=\"#pers_四郎\">\n<forename> 四郎 </forename>\n</persname> 及常平倉掛附へ申遣す <lb></lb> 郷里へ壱封を出す、近況申遣す <lb></lb>\n<persname corresp=\"#pers_大坪七兵衛\">\n<surname> 大坪 </surname>\n<forename> 七兵衛 </forename>\n</persname> 来、午餐後 <persname corresp=\"#pers_平岡庄七\">\n<surname> 平岡 </surname>\n<forename> 庄七 </forename>\n</persname> へ罷越す、 <persname corresp=\"#pers_堀鼎\">\n<surname> 堀 </surname>\n<forename> 鼎 </forename>\n</persname> 、 <persname corresp=\"#pers_福田作太郎\">\n<surname> 福田 </surname>\n<forename> 作太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_川村恵十郎\">\n<surname> 川村 </surname>\n<forename> 恵十郎 </forename>\n</persname> 、 <persname corresp=\"#pers_織田研斎\">\n<surname> 織田 </surname>\n<forename> 研斎 </forename>\n</persname> 其外等面会す、五ツ過帰宿 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

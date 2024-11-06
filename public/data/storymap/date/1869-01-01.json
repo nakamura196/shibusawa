@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-01-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 昨夜運送方へ請取し品物相渡し、朝連発銃も請取之積申談せしに、 <persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤太夫 </forename>\n</persname> ならてハ渡方不相成旨ニ付、東波塘場に罷越、連発銃の箱請取、海岸に来り積入の手筈取扱、 <persname corresp=\"#pers_森川\">\n<surname> 森川 </surname>\n</persname> より相頼まれし牛肉及買上し反物は上乗の水人に相托し、届方申談す <lb></lb> 廻船の手筈よろしく、荷物改方等波塘場に相済たれは、夫より一同ニ而午飯をいたし、第\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 頃 <placename corresp=\"#place_黄賓\"> 黄賓 </placename>\n       出立、乗合船ニ而第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 頃 <placename corresp=\"#place_金川\"> 金川 </placename>\n       着、下田屋といふ客舎投宿 <lb></lb> 銀丁二丁目 <persname corresp=\"#pers_西山幸助\">\n<surname> 西山 </surname>\n<forename> 幸助 </forename>\n</persname>\n"
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

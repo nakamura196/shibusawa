@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-02-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、病尚全愈セサルヲ以テ宅ニ在テ来人ニ接ス、此日ハ紅葉館ニ於テ清国人ヨリ招宴セラレシモ外出ヲ得サルヲ以テ書ヲ以テ之ヲ謝絶ス、埼玉学友会ハ <placename corresp=\"#place_神田\"> 神田 </placename>\n<orgname> 開花楼 </orgname> ニ於テ開会スルヲ以テ、出席ヲ促シ来リシモ同シク之ヲ謝絶セリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

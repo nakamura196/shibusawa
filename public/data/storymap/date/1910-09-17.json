@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-09-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ、朝飧ヲ食ス、後、実業之世界記者来訪シテ種々ノ談話ヲ為ス、又、太平洋記者 <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> 氏来リテ青年ノ際ニ経過セシ歴史ヲ質問セラル、後、書状数通ヲ裁ス、 <placename corresp=\"#place_大阪\"> 大坂 </placename>\n<persname corresp=\"#pers_小山\">\n<surname> 小山 </surname>\n</persname> 氏ヘ送付ノ分モ此中ニアリ、午飧後事務所ニ抵リ、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏来リ行務ヲ談ス、 <orgname> 汽車製造会社 </orgname> ノ事ニ関シテ、社員ニ協議会開催ノ事ヲ通知ス、又、各地方ヘノ書状、 <persname corresp=\"#pers_明石\">\n<surname> 明石 </surname>\n</persname> ニ <placename corresp=\"#place_イギリス\"> 英国 </placename> 行及其親父ヘ <placename corresp=\"#place_岡山\"> 岡山 </placename> 宛ノ書状ヲ発送ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 七時半 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、夜食後、雑誌ヲ読マシム <lb></lb>\n<persname corresp=\"#pers_戸田宇八\">\n<surname> 戸田 </surname>\n<forename> 宇八 </forename>\n</persname> 氏来リ救済会寄附金ノ事ヲ談シ、 <persname corresp=\"#pers_白石\">\n<surname> 白石 </surname>\n</persname> 書記長来リ善後会ノ事ヲ談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

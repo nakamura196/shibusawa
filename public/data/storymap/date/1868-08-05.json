@@ -1,0 +1,94 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-08-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 十時半 </time> 午餐、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:40:00",
+                    "text": "<time when=\"11:40:00\"> 十一時四十分 </time>\n       御旅宿を御発、昨日到着せし汽車場ニ而汽車乗組、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time> 発軔、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時\n       </time> leGuillaumes着、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:50:00",
+                    "text": "<time when=\"15:50:00\"> 三時五十分 </time>\n<placename corresp=\"#place_Rennes\"> Rennes </placename> 着、小休、汽車乗替、此日午後甚暑し、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_サン＝ブリユー\"> St-Brieuc </placename> 着、小夜食、第 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 48.513611,
+                    "lon": -2.765277,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1868-08-06T00:00+0900\"> 十二時 </time>\n<placename corresp=\"#place_ブレスト_(フランス)\"> Brest </placename> 着、夕方より雨Brest Hotel de province\n      "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 48.390834,
+                    "lon": -4.485556,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

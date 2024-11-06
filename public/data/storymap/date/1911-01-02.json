@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-01-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 午前八時半 </time>\n       起床、先ツ脚湯ヲ行ヒ、後、朝飧ヲ食ス、腹部快方セサルヲ以テ今日ヨリ全ク流動物ノミヲ食スル事トス、食後、数多ノ年賀来客ニ褥中ニ在テ接待談話ス、 <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> 氏、性名保険会社《（生命）》ノ人々数名ヲ同伴シテ揮毫ヲ請ハル、褥中ニ於テ十数枚ヲ揮毫ス、公爵伝記ノ草稿ヲ読ム <lb></lb>\n<persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 氏来賀ス、 <persname corresp=\"#pers_皆川\">\n<surname> 皆川 </surname>\n</persname> ノ家事ニ関シテ種々ノ談話ヲ為ス、 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス、灌腸ヲ行フ、夕方ヨリ腹部幾分ノ快方ヲ覚ヘシモ、夜ニ入リテ又旧ノ如ク下痢数行アリ、夜、腰湯ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:30:00",
+                    "text": "<time when=\"23:30:00\">\n        十一時半 </time> 就寝 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

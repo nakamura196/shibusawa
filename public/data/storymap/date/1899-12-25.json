@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-12-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前 <persname corresp=\"#pers_尾崎\">\n<surname> 尾崎 </surname>\n</persname> 、 <persname corresp=\"#pers_竹内\">\n<surname> 竹内 </surname>\n</persname> 、 <persname corresp=\"#pers_大江\">\n<surname> 大江 </surname>\n</persname> 諸氏来ル、京釜鉄道ノ事ヲ談ス、 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 氏来ル、 <orgname> 石川島造船所 </orgname> ノ事ヲ話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n       磐城炭坑会社株主総会ニ列ス、畢テ陸軍省ニ抵リ <persname corresp=\"#pers_野田\">\n<surname> 野田 </surname>\n</persname> 経理局長ニ面会シテ <persname corresp=\"#pers_平沢\">\n<surname> 平沢 </surname>\n</persname> 氏ノ事ヲ話ス、更ニ <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 大臣ヲ訪フテ京釜鉄道ノ事ヲ話ス、夜 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 宅ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

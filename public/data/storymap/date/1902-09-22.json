@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-09-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、朝来船少シク動揺ス、時々左舷《（右カ）》ニ <placename corresp=\"#place_イタリア\"> 伊太里 </placename> 地方ヲ観ル、午後\n        <placename corresp=\"#place_ギリシャ\"> 希臘 </placename> ノ一端ヲ見ル、船或時ハ島嶼ノ間ヲ過クル事アリ、終日海波ノ縹緲ヲ見ルノミ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 38.0,
+                    "lon": 24.0,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

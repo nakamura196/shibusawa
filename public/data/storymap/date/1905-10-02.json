@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-10-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、庭園内ヲ散歩シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time>\n       入浴、畢テ朝飧ヲ為ス、食後新聞紙ヲ閲ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ <persname corresp=\"#pers_早崎源吾\">\n<surname> 早崎 </surname>\n<forename> 源吾 </forename>\n</persname> 、 <persname corresp=\"#pers_佐々木慎思郎\">\n<surname> 佐々木 </surname>\n<forename> 慎思郎 </forename>\n</persname> 二氏ノ来訪ニ接シ浦賀船渠会社ノ事ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<persname corresp=\"#pers_佃一予\">\n<surname> 佃 </surname>\n<forename> 一予 </forename>\n</persname> 氏来ル、同氏ハ一昨年ヨリ <placename corresp=\"#place_清\"> 清国 </placename> ニ於テ <persname corresp=\"#pers_袁世凱\">\n<surname> 袁 </surname>\n<forename> 世凱 </forename>\n</persname> ノ財政顧問ニ任スルニ付 <placename corresp=\"#place_清\"> 清国 </placename> 事情ニ通暁スルヲ以テ種々ノ質問ヲ試ム、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <persname corresp=\"#pers_西脇\">\n<surname> 西脇 </surname>\n</persname> 二氏ヲ誘引シ <persname corresp=\"#pers_佃\">\n<surname> 佃 </surname>\n</persname> 氏ト共ニ <orgname> 銀行倶楽部 </orgname> ニ抵リテ夜飧シ、宴散シテ後更ニ一友人ト会話シテ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\">\n        十時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

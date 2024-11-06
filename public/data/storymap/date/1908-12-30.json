@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-12-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、 <persname corresp=\"#pers_清水釘吉\">\n<surname> 清水 </surname>\n<forename> 釘吉 </forename>\n</persname> 、同 <persname corresp=\"#pers_清水一雄\">\n<forename> 一雄 </forename>\n</persname> 、 <persname corresp=\"#pers_原林之助\">\n<surname> 原 </surname>\n<forename> 林之助 </forename>\n</persname> 氏等来リ、 <orgname> 清水組 </orgname> 本季営業決算ヲ報告セラル、後、 <orgname> 毎日新聞 </orgname>\n       社員ニ面会シテ、明年経済界ニ関スル意見ヲ述フ、大日本製糖会社 <persname corresp=\"#pers_磯村\">\n<surname> 磯村 </surname>\n</persname> 、 <persname corresp=\"#pers_秋山\">\n<surname> 秋山 </surname>\n</persname> 、 <persname corresp=\"#pers_甲津\">\n<surname> 甲津 </surname>\n</persname> 三氏来リ、会社ノ維持、社長ノ留任ニ付種々ノ談話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time>\n<persname corresp=\"#pers_松崎蔵之助\">\n<surname> 松崎 </surname>\n<forename> 蔵之助 </forename>\n</persname> 氏 <persname corresp=\"#pers_明石照男\">\n<surname> 明石 </surname>\n<forename> 照男 </forename>\n</persname> 氏ヲ伴ヒ来ル、 <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 夫妻モ来会シテ <persname corresp=\"#pers_明石愛子\">\n<forename> 愛子 </forename>\n</persname> ノ婚嫁ニ付種々協議ス、後、共ニ午飧ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ書類ヲ整理シ、 <persname corresp=\"#pers_酒匂常明\">\n<surname> 酒匂 </surname>\n<forename> 常明 </forename>\n</persname> 氏ト製糖会社ノ事ヲ談シ、畢テ <persname corresp=\"#pers_郷誠之助\">\n<surname> 郷 </surname>\n<forename> 誠之助 </forename>\n</persname> 、 <persname corresp=\"#pers_薄井佳久\">\n<surname> 薄井 </surname>\n<forename> 佳久 </forename>\n</persname> 氏ト <orgname> 帝商銀行 </orgname> ノ事ヲ談ス、尚他ニ種々ノ来人アリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename> 新喜楽ニ抵リ、 <persname corresp=\"#pers_徳川厚\">\n<surname> 徳川 </surname>\n<forename> 厚 </forename>\n</persname> 氏ニ会シテ其身上ニ付忠告ヲ為シ、共ニ夜飧シ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿シ、夜、新聞紙其他ノ書類ヲ読マシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

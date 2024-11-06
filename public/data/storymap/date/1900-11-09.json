@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-11-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前二三ノ来人ニ接シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 過公使館ニ抵リ <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 公使ト面会ス、蓋シ此日 <persname corresp=\"#pers_ブラオン\">\n<surname> ブラオン </surname>\n</persname> 氏会見ノ約アルニ付其談話ニ関シ公使ヨリ内話セラルヽノ要アリシ為メナリ、畢テ <persname corresp=\"#pers_ブラオン\">\n<surname> ブラオン </surname>\n</persname>\n       氏ヲ其事務所ニ訪フ、面会ノ上貸付金ノ顚末ニ関シ種々ノ懇話ヲ為シ、終ニ最終ノ意見トシテ一種ノ方法ヲ陳ヘテ同氏ノ見込ヲ問ヒシニ、同氏モ大ニ之ニ同意シ、尚覚書ヲ作リテ之ヲ熟案シ、来ル\n        <date evidence=\"year inferenced, month\" when=\"1900-11-13\"> 十三日 </date> ヲ以テ再会見スヘキ事ニ約ス、此日\n        <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 氏同行充分ノ情意ヲ通スルノ談判ヲ為スヲ得タリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 旅宿ニ帰ル、 <persname corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persname> 来ル、杻峴停車場移転料ノ件及鉄道脇人道ノ事、竜山支線ノ事等ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 京城学堂ニ抵リ\n        <persname corresp=\"#pers_渡瀬\">\n<surname> 渡瀬 </surname>\n</persname> 、 <persname corresp=\"#pers_宇津木\">\n<surname> 宇津木 </surname>\n</persname> 両氏ノ案内ニテ生徒修学ノ概況ヲ視ル、畢テ生徒ニ対シテ一場ノ演説ヲ為シ、更ニ一同ト共ニ撮影シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時\n       </time> 帰宿ス、支那公使徐氏其書記官ト共ニ来訪セラル、 <persname corresp=\"#pers_大江卓\">\n<surname> 大江 </surname>\n<forename> 卓 </forename>\n</persname> 、 <persname corresp=\"#pers_大三輪長兵衛\">\n<surname> 大三輪 </surname>\n<forename> 長兵衛 </forename>\n</persname> 二氏来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<orgname> 第一銀行 </orgname> 出張所新築披露トシテ <orgname> 掬翠楼 </orgname> ニ於テ日本官吏及韓国大官ノ人々総計五十人余ヲ招宴ス、\n        <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 公使、 <persname corresp=\"#pers_山座\">\n<surname> 山座 </surname>\n</persname> 公使書記官、 <persname corresp=\"#pers_田村\">\n<surname> 田村 </surname>\n</persname>\n       大佐其他ノ武官、領事及其館員、駅逓官吏等約五十名、外ニ韓国各大臣其外トモ九人来会シテ頗ル盛会ナリ、席上簡単ノ謝辞ヲ述フ、此夜ノ宴会ハ内外人混交ノ盛筵ニシテ余興等モ尤モ雑沓セリ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過散宴ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

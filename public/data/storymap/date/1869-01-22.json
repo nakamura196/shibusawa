@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-01-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝、 <persname corresp=\"#pers_田中清三郎\">\n<surname> 田中 </surname>\n<forename> 清三郎 </forename>\n</persname> 来、 <persname corresp=\"#pers_栗本\">\n<surname> 栗本 </surname>\n</persname> へ書状差遣す書類催促之儀申遣す、三ツ井 <persname corresp=\"#pers_加太\">\n<surname> 加太 </surname>\n</persname> へ調達金之儀相達す、四ツ頃より <persname corresp=\"#pers_平岡四郎\">\n<surname> 平岡 </surname>\n<forename> 四郎 </forename>\n</persname> を訪ふ、不在ニ付不逢、夫より <persname corresp=\"#pers_梅田\">\n<surname> 梅田 </surname>\n</persname> を尋ね、 <persname corresp=\"#pers_昇之助\">\n<forename> 昇之助 </forename>\n</persname> 衣服之儀相頼み、夫より <placename corresp=\"#place_両国\"> 両国 </placename> に至り、 <persname corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persname> 同行ニ而 <persname corresp=\"#pers_河津\">\n<surname> 河津 </surname>\n</persname> に至る、 <persname corresp=\"#pers_河津\">\n<surname> 河津 </surname>\n</persname> 、 <persname corresp=\"#pers_田辺\">\n<surname> 田辺 </surname>\n</persname> 抔相伴ふて <placename corresp=\"#place_深川\"> 深川 </placename> 扇橋玉忠別荘を訪ひ、 <persname corresp=\"#pers_松平\">\n<surname> 松平 </surname>\n</persname> 伊賀守の庭園一覧、当時売品也、夫より <persname corresp=\"#pers_大黒屋\"> 大黒屋 </persname> の別業に至る、其庭は\n        <persname corresp=\"#pers_谷文晁\">\n<forename> 文晁 </forename>\n</persname> 、 <persname corresp=\"#pers_酒井抱一\">\n<forename> 抱一 </forename>\n</persname> 抔文人の戮力して築成せし園なりければ、石泉の設、樹木の植並抔雅致を究めたり、一覧後其亭ニ而饗応を受、酒間其娘に三曲を調さしむ、酒後商法之事六兵衛父子に申談し、夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 頃舟ニ而 <placename corresp=\"#place_柳橋\"> 柳橋 </placename> ニ而\n        <persname corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persname> の老人 <persname corresp=\"#pers_田辺\">\n<surname> 田辺 </surname>\n</persname> 抔と別れ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 頃 <placename corresp=\"#place_筋違\"> 筋違\n       </placename> 着、直ニ <placename corresp=\"#place_明神下\"> 明神下 </placename> に帰宿 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

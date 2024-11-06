@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-04-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、朝数多ノ来客ニ接ス、午後銀行ニ於テ事務ヲ視ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<placename corresp=\"#place_向島\"> 向島 </placename>\n<orgname> 八百松楼 </orgname> ニ於テ各銀行懇親会ニ出席ス、 <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname>\n<orgname> 日本銀行 </orgname> 総裁、 <persname corresp=\"#pers_高橋\">\n<surname> 高橋 </surname>\n</persname> 、 <persname corresp=\"#pers_藤島\">\n<surname> 藤島 </surname>\n</persname> 、 <persname corresp=\"#pers_相馬\">\n<surname> 相馬 </surname>\n</persname> 、 <persname corresp=\"#pers_中上川\">\n<surname> 中上川 </surname>\n</persname> 、 <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 等ノ諸氏来会ス、講談歌舞等ノ余興アル《（リ）》、夜 <placename corresp=\"#place_浜町\"> 浜町 </placename> ニ帰宿ス\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

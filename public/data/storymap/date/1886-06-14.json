@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1886-06-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、朝、 <persname corresp=\"#pers_正村\">\n<surname> 正村 </surname>\n</persname> 氏ニ抵リテ餐ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_高岡\"> 高岡 </placename> ヲ発ス、送別ノ人最モ多シ、大門新町ニ至リ諸子ト分袂ス、富山 <orgname> 第十二銀行\n       </orgname> 員来リ迎ス、 <persname corresp=\"#pers_原田金之祐\">\n<surname> 原田 </surname>\n<forename> 金之祐 </forename>\n</persname> 、及高岡人 <persname corresp=\"#pers_和田\">\n<surname> 和田 </surname>\n</persname> 、両 <persname corresp=\"#pers_正村\">\n<surname> 正村 </surname>\n</persname> 、 <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 、 <persname corresp=\"#pers_菅野\">\n<surname> 菅野 </surname>\n</persname> 、 <persname corresp=\"#pers_吉野\">\n<surname> 吉野 </surname>\n</persname> 、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 諸子行ヲ送テ <placename corresp=\"#place_富山\"> 富山 </placename> ニ抵ル、 <orgname> 第十二銀行\n       </orgname> 役員数名来リ迎フ、相伴フテ <placename corresp=\"#place_富山\"> 富山 </placename> ニ抵リ木屋ニ投宿ス、此夜\n        <orgname> 十二銀行 </orgname> ノ請ニ応シテ楽只園ニ赴ク、県令、郡長勧業課長等来会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n       更ニ地方諸士ノ開宴アルヲ以テ［　］《（原本欠字）》楼ニ至ル、県令其他来会シ衆歓ヲ尽ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1886-06-15T02:00+0900\"> 二時\n       </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

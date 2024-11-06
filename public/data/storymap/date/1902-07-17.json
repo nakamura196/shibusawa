@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-07-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前二三ノ来人アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> シチーニ抵リ、サミユール・サミユール商会ヲ訪問シ、 <persname corresp=\"#pers_マークス_サミユール\">\n<forename> マークス </forename> ・ <surname> サミユール </surname>\n</persname> 、 <persname corresp=\"#pers_サミユール_サミユール\">\n<forename> サミユール </forename> ・ <surname> サミユール </surname>\n</persname> 及 <persname corresp=\"#pers_ミツチヨル\">\n<surname> ミツチヨル </surname>\n</persname> ノ三氏ニ面会シ、京釜鉄道社債ノ事ヲ談ス、来 <date evidence=\"year inferenced, month\" when=\"1902-07-22\">\n        廿二日 </date>\n<persname corresp=\"#pers_ミツチヨル\">\n<surname> ミツチヨル </surname>\n</persname> 更ニ来リテ詳細ニ談話スヘキ事ヲ約ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 過帰宿シ直ニ同氏ニ書類ヲ送付ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<orgname> 正金銀行 </orgname> 支店長 <persname corresp=\"#pers_青木鉄太郎\">\n<surname> 青木 </surname>\n<forename> 鉄太郎 </forename>\n</persname> 氏ヲ其家ニ訪フ、一行ノ者皆同行ス、 <persname corresp=\"#pers_青木\">\n<surname> 青木 </surname>\n</persname> 宅ニ於テ日本料理ノ饗応アリ、畢 <pb corresp=\"#pageB1254\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/280/full/max/0/default.jpg\" n=\"B1254\" source=\"#pageB1254\"></pb> テ、キリスタル・ハレース所謂水昌宮《（晶）》ニ抵ル、此夜同地ニテ花火打揚ノ事アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n       頃ヨリ場内種々ノ細工火ニテ粧点シ且打揚花火、仕掛花火等頗ル壮観ナリ、観客来集スル者無慮二三万人ナルヘシ、実ニ広大ノ場内モ立錐ノ地ナキニ至レリ、 <placename corresp=\"#place_ロンドン\"> 倫敦 </placename> 都府人口ノ稠密以テ知ルヘキナリ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 51.50778,
+                    "lon": -0.12806,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n       帰途ニ就キ汽車ニ搭セシモ多人数ニテ汽車ノ進行自由ナラス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1902-07-18T01:00+0900\"> 一時 </time> 過帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

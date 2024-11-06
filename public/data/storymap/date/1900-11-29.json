@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-11-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、此日ハ <placename corresp=\"#place_東莱\"> 東萊 </placename> 行ノ筈ナリシモ天候悪敷ヲ以テ之ヲ停ム、 <orgname> 光月楼\n       </orgname> ニ於テ朝餐ヲ為シ、畢テ京坂亭ニ移ル、地方有志者数名来リテ京釜鉄道ノ事及銀行業務ヲ談話ス、午後市街ヲ散歩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時\n       </time> 領事、税関長、 <persname corresp=\"#pers_太田\">\n<surname> 太田 </surname>\n</persname>\n<persname corresp=\"#pers_小倉\">\n<surname> 小倉 </surname>\n</persname> 等ノ諸氏ヲ京坂亭ニ招宴ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散宴 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

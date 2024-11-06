@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-01-31",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、朝 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 発ノ汽車ニテ <placename corresp=\"#place_横浜\"> 横浜\n       </placename> ニ抵ル、 <persname corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> 同行ス、京仁鉄道取引ニ関シ <orgname> 横浜正金銀行 </orgname> ニ於テ <persname corresp=\"#pers_モールス\">\n<surname> モールス </surname>\n</persname> 氏ト其取引ヲ為スカタメナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<persname corresp=\"#pers_モールス\">\n<surname> モールス </surname>\n</persname> 、 <persname corresp=\"#pers_デニソン\">\n<surname> デニソン </surname>\n</persname> 二氏来ル、 <orgname> 正金銀行 </orgname>\n<persname corresp=\"#pers_高橋\">\n<surname> 高橋 </surname>\n</persname> 氏ト共ニ決算ノ事ヲ了ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<persname corresp=\"#pers_モールス\">\n<surname> モールス </surname>\n</persname> 氏ノ誘引ニ応シグラントホテルニ抵リテ午餐ス、 <persname corresp=\"#pers_デニソン\">\n<surname> デニソン </surname>\n</persname> 、 <persname corresp=\"#pers_足立\">\n<surname> 足立 </surname>\n</persname> 、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 同行ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 過 <orgname> 第一銀行 </orgname> 支店ニ抵リ\n        <persname corresp=\"#pers_長谷川\">\n<surname> 長谷川 </surname>\n</persname> 氏ニ面話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:35:00",
+                    "text": "<time when=\"14:35:00\"> 二時三十五分 </time>\n<placename corresp=\"#place_横浜\"> 横浜 </placename> 発ノ汽車ニ搭シテ帰京ス <lb></lb>\n<placename corresp=\"#place_三十軒堀\"> 三十軒堀 </placename>\n<persname corresp=\"#pers_杉山\">\n<surname> 杉山 </surname>\n</persname> 氏ヲ訪フテ京釜鉄道委員集会ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 海上保険会社ニ抵リテ重役会ニ列ス、畢テ\n        <placename corresp=\"#place_麹町\"> 麴町 </placename> ナル宮内大臣官邸ヲ訪フ、不在面会ヲ得ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6844472,
+                    "lon": 139.7416083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\">\n        六時 </time> 過 <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

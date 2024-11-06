@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-06-24",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後直ニ朝飧ヲ喫シ、来状等ヲ撿閲シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time>\n<placename corresp=\"#place_竜山\"> 竜山 </placename> ニ抵リ養蚕試験場ヲ一覧ス、 <persname corresp=\"#pers_塩川\">\n<surname> 塩川 </surname>\n</persname> 氏及 <persname corresp=\"#pers_本多\">\n<surname> 本多 </surname>\n</persname> 博士其他ノ諸氏来会ス、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> ニ蚕業奨励ノ意見ヲ、\n        <persname corresp=\"#pers_塩川\">\n<surname> 塩川 </surname>\n</persname> 、 <persname corresp=\"#pers_本多\">\n<surname> 本多 </surname>\n</persname> 二氏ニ詳話ス、更ニ旧貨幣鎔解所ニ抵ル、 <persname corresp=\"#pers_西尾\">\n<surname> 西尾 </surname>\n</persname> 氏各倉庫ヲ開キテ取扱手続ヲ示サル、旧貨幣断截機械ヲ運転シテ実際ノ景況ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n       帰寓、直ニ一同ト共ニ三井物産会社支店長小田柿氏ノ午飧饗宴ニ抵ル、食事畢リテ <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 氏ヲ伴フテ <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 統監官舎ヲ訪ヒ別後ノ事ヲ話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<persname corresp=\"#pers_加藤\">\n<surname> 加藤 </surname>\n</persname> 顧問ヲ其家ニ訪ヒ、東大門外ノ土地ノ件、明太洞金鉱ノ事ヲ詳話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 帰寓、夫ヨリ\n        <orgname> 花月楼 </orgname> ニ抵リ、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n       漢城銀行、天一銀行、農工銀行及倉庫会社等ノ催ニ係ル饗宴ニ出席ス酒間一場ノ演説ヲ為ス、本邦経済界ノ沿革ヲ叙シテ大ニ韓国ノ人士ニ訓誡ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1906-06-25T00:00+0900\"> 十二時 </time> 宴散シテ、帰寓ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-10-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 船 <placename corresp=\"#place_シンガポール\"> 新嘉埠\n       </placename> ヲ発ス、風少シト云トモ暑熱大ニ減シテ又苦脳《（悩）》ノ事ナシ、航行平穏ナリ、 <placename corresp=\"#place_馬来本島\"> 馬来本島\n       </placename> ヲ船ノ左舷ニ見ル、終日読書ニ閑ヲ消ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 1.3,
+                    "lon": 103.8,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

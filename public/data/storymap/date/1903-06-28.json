@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-06-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 朝飧ヲ畢リ日記ヲ調査ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<persname corresp=\"#pers_平岡熙\">\n<surname> 平岡 </surname>\n<forename> 熙 </forename>\n</persname> 氏来話、 <orgname> 汽車製造会社 </orgname> ノ事、及九州鉄道等ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<persname corresp=\"#pers_小宮三保松\">\n<surname> 小宮 </surname>\n<forename> 三保松 </forename>\n</persname> 氏、 <persname corresp=\"#pers_堀越角次郎\">\n<surname> 堀越 </surname>\n<forename> 角 <pb corresp=\"#pageB1316\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/342/full/max/0/default.jpg\" n=\"B1316\" source=\"#pageB1316\"></pb> 次郎 </forename>\n</persname> 氏姉弟二人来ル、家事ニ関シテ余ノ添心ヲ依頼スルタメナリ、姉ニ配スル婿ノ人撰ノ事ニ付談話アリ、午飧ヲ共ニシテ帰リ去ル、午後書類ヲ整理ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

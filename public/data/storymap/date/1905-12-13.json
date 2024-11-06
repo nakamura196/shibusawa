@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-12-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、冷水ノ摩擦ヲ為シ、朝飧後新聞紙ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<persname corresp=\"#pers_古河\">\n<surname> 古河 </surname>\n</persname> 別邸ヲ訪ヒ <persname corresp=\"#pers_古河潤吉\">\n<forename> 潤吉 </forename>\n</persname> 氏ノ死去ヲ弔シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 東京市役所ニ抵リ歓迎会ノ事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 侯爵ヲ訪ヒ <date when=\"1905-12-18\"> 十八日 </date> 夜 <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ノ歓迎会及 <date when=\"1905-12-20\"> 廿日 </date>\n<orgname> 第一銀行 </orgname> 宴会ノ事ヲ約ス、更ニ <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 総理ヲ訪問シ両日共ニ来会ノ事ヲ乞ヒ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ於テ午飧シ、且 <date when=\"1905-12-18\"> 十八日 </date> ノ準備ヲ命ス、此日外務省ニ抵リ <persname corresp=\"#pers_珍田\">\n<surname> 珍田 </surname>\n</persname> 氏ニ面会シテ侯爵歓迎ノ事ヲ協議ス、夕方事務所ニ抵リ事務ヲ処理シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 過 <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

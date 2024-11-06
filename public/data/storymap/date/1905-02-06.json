@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-02-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、室内運動ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 過朝飧ヲ畢ル <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ札幌麦酒会社重役会ニ出席ス、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname>\n<persname corresp=\"#pers_植村\">\n<surname> 植村 </surname>\n</persname> 、 <persname corresp=\"#pers_大川\">\n<surname> 大川 </surname>\n</persname> 、 <persname corresp=\"#pers_鈴木\">\n<surname> 鈴木 </surname>\n</persname> 諸氏来会ス、株主総会ニ関スル要件ヲ議了ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ《（マヽ）》 <orgname> 六十九銀行 </orgname>\n<persname corresp=\"#pers_岸宇吉\">\n<surname> 岸 </surname>\n<forename> 宇吉 </forename>\n</persname> 氏来ル、新潟支店ノ事ヲ内話ス、畢テ行務ヲ視テ更ニ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ニ於テ書状ヲ裁ス、大坂紡績、三重紡績其他諸方会社ノ報告計算表ヲ一覧ス <lb></lb>\n"
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<orgname> 銀行倶楽部 </orgname> ニ抵リ興信所ノ集会ニ出席シ、直ニ <placename corresp=\"#place_飛鳥山邸\"> 王子別荘\n       </placename> ニ帰宿ス <lb></lb>\n<pb corresp=\"#pageB1351\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/377/full/max/0/default.jpg\" n=\"B1351\" source=\"#pageB1351\"></pb>\n<lb></lb>\n<persname corresp=\"#pers_古市公威\">\n<surname> 古市 </surname>\n<forename> 公威 </forename>\n</persname> 、 <persname corresp=\"#pers_片山国嘉\">\n<surname> 片山 </surname>\n<forename> 国嘉 </forename>\n</persname> ノ二氏ニ同仁会ノ事ニ付書状ヲ送ル <lb></lb>\n<persname corresp=\"#pers_多賀儀三郎\">\n<surname> 多賀 </surname>\n<forename> 儀三郎 </forename>\n</persname> 来ル、曾テ内話セシ <persname corresp=\"#pers_堀越\">\n<surname> 堀越 </surname>\n</persname> 家トノ縁談ハ不調ニ畢リシ事ヲ告ケ梅氏ヘノ伝言ヲ托ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

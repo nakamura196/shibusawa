@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-07-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ、朝飧ヲ食ス、後、 <persname corresp=\"#pers_相見磐\">\n<surname> 相見 </surname>\n<forename> 磐 </forename>\n</persname> 氏ノ来訪ニ接ス、 <persname corresp=\"#pers_木村政次郎\">\n<surname> 木村 </surname>\n<forename> 政次郎 </forename>\n</persname> 氏ノ添書ニテ <placename corresp=\"#place_猪苗代\"> 猪苗代 </placename> 水力電気会社ノ株式ニ関スル事ヲ談ス\n        <persname corresp=\"#pers_岡崎邦輔\">\n<surname> 岡崎 </surname>\n<forename> 邦輔 </forename>\n</persname> 氏来リ <persname corresp=\"#pers_渡邊嘉一\">\n<surname> 渡辺 </surname>\n<forename> 嘉一 </forename>\n</persname> 氏身上ノ事ヲ談ス、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏来リテ稷山金鉱ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 事務所ニ抵リ来人ニ接シ事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、後、来人ニ応接シ又重役会ヲ開キ要件ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:30:00",
+                    "text": "<time when=\"15:30:00\"> 午後三時半 </time>\n<placename corresp=\"#place_三田\"> 三田 </placename>\n<persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 公爵ヲ訪ヘ、 <orgname> 汽車製造会社 </orgname> ノ事、済生会ノ事及 <persname corresp=\"#pers_渡邊嘉一\">\n<surname> 渡辺 </surname>\n<forename> 嘉一 </forename>\n</persname> 氏ノ身上ニ関スル事ヲ談話ス、後、 <placename corresp=\"#place_三田\"> 三田 </placename> 邸ヲ訪ヘ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 午後六時半 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宅シ、家人ト共ニ庭園ヲ散歩ス、夜飧後、新聞紙雑誌類ヲ読マシム <lb></lb>\n       東京貯蓄銀行株主総会ヲ開キ要件ヲ議決ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

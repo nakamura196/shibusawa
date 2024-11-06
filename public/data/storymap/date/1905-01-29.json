@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-01-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、室内運動ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ畢ル <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 馬車ニテ <placename corresp=\"#place_釜屋堀\"> 釜屋堀 </placename>\n<orgname> 人造肥料会社 </orgname> ニ抵リ株主総会ヲ開ク、定時、臨時ノ議案ヲ決定シ、更ニ重役会議ヲ開キテ二三ノ要件ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:30:00",
+                    "text": "<time when=\"13:30:00\"> 午後一時半 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ <persname corresp=\"#pers_高木\">\n<surname> 高木 </surname>\n</persname> 博士ノ来診ヲ受ク、午飧後 <persname corresp=\"#pers_堀越常七\">\n<surname> 堀越 </surname>\n<forename> 常七 </forename>\n</persname> 、同 <persname corresp=\"#pers_堀越角次郎\">\n<forename> 角次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_堀越美代子\">\n<forename> 三代子 </forename>\n</persname> 等来リ <persname corresp=\"#pers_堀越美代子\">\n<forename> 三代子 </forename>\n</persname> 縁談ノ事ニ付種々ノ談話ヲ為ス、先頃来交渉セシ <persname corresp=\"#pers_多賀\">\n<surname> 多賀 </surname>\n</persname> 氏ノ事ハ、 <persname corresp=\"#pers_堀越美代子\">\n<forename> 三代子 </forename>\n</persname> ニ不同意ノ点アルニヨリ之ヲ見合ハセ、別ニ撰定スヘキ事トシ其方針ニ付種々ノ協議ヲ為シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n       頃退散ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 過 <placename corresp=\"#place_飛鳥山邸\"> 王子別荘\n       </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

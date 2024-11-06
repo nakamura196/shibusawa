@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-07-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 前起床、先ツ日誌ヲ整理ス、朝飧後白山神社ヲ詣ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 午前八時半\n       </time> 旅宿ヲ発シ万代橋停車場ニ抵ル、県知事及地方ノ紳商等来リテ送別ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 発車ノ頃ヨリ雨降ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 午前十一時半 </time>\n<placename corresp=\"#place_長岡\"> 長岡 </placename>\n       着、直ニ北越鉄道会社ニ抵リ社員一同ニ一場ノ訓示ヲ為シ、多人数ノ歓迎ヲ受ケテ同地若松ニ投宿ス、午飧後休憩シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<orgname> 長岡銀行 </orgname> ヲ訪問シ、長岡館ニ抵リ両銀行及鉄道会社ノ催ニ係ル宴会ニ出席ス、酒間一場ノ謝辞ヲ述ヘ種々ノ余興アリテ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 若松ニ帰宿ス <lb></lb>\n<persname corresp=\"#pers_足立\">\n<surname> 足立 </surname>\n</persname> 少尉の戦死を悼ミて <lb></lb> つゝの音のほかの響もきこゆなり君かのこしゝいさをしのかつ《（す）》 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

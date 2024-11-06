@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-03-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、朝来喘息ノ発作アリテ帰京スルヲ得サルニ付、電報ヲ発シテ海上保険会社ノ重役会及 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 陸軍大臣ノ夜宴ヲ謝セシメ、終日褥中ニ在テ養痾ス、 <placename corresp=\"#place_東京\"> 東京 </placename> 宅ヘ書状ヲ発ス\n       <lb></lb> 養育院幹事 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 来リテ慈善会ノ事ヲ談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

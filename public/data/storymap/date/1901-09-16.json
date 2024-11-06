@@ -1,0 +1,73 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-09-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1210\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/236/full/max/0/default.jpg\" n=\"B1210\" source=\"#pageB1210\"></pb>\n<lb></lb> 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 北越鉄道会社事務所ニ抵リ <placename corresp=\"#place_イギリス\">\n        英国 </placename> ホルツ会社ヘ社債引受ノ事ヲ打電ス、蓋シ当春同会社 <persname corresp=\"#pers_マデソン\">\n<surname> マデソン </surname>\n</persname> 氏ト協議セシモノナリ、 <persname corresp=\"#pers_キルビー\">\n<surname> キルビー </surname>\n</persname> 氏モ来リテ此事ニ関シ尽力ス、 <persname corresp=\"#pers_前島\">\n<surname> 前島 </surname>\n</persname> 、 <persname corresp=\"#pers_末延\">\n<surname> 末延 </surname>\n</persname> 、 <persname corresp=\"#pers_原\">\n<surname> 原 </surname>\n</persname> 、今村ノ取締役来会ス、協議畢テ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 宅ニ抵リ事務ヲ処理ス、\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 午後十二時三十分 </time> ノ汽車ニ搭シテ <placename corresp=\"#place_大磯町\"> 大磯\n       </placename> ニ抵ル、 <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 氏ノ別荘ニ於テ <persname corresp=\"#pers_渡辺治右衛門\">\n<surname> 渡辺 </surname>\n<forename> 治右衛門 </forename>\n</persname> 氏ト会見シ船渠会社合併ノ事ヲ談話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 侯爵ヲ訪問シテ海外行ヲ送別シ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:10:00",
+                    "text": "<time when=\"19:10:00\"> 七時十分 </time> ノ汽車ニテ帰京、夜 <placename corresp=\"#place_深川\"> 深川 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

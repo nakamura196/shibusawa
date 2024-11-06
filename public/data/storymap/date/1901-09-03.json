@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-09-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨又晴、午前 <orgname> 第一銀行 </orgname> ニ出勤ス、 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ニ於テ書類ヲ整理ス、午 <pb corresp=\"#pageB1208\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/234/full/max/0/default.jpg\" n=\"B1208\" source=\"#pageB1208\"></pb> 後外務省ニテ <persname corresp=\"#pers_山座\">\n<surname> 山座 </surname>\n</persname> 公使氏、 <persname corresp=\"#pers_内田\">\n<surname> 内田 </surname>\n</persname> 氏ニ面会シテ <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 貸金ノ事等ヲ談話ス、 <persname corresp=\"#pers_曾禰\">\n<surname> 曾禰 </surname>\n</persname> 大臣ニ面会シ、 <placename corresp=\"#place_ベルギー\"> 白耳義 </placename> 東洋会社ノ事ヲ談話ス、及\n        <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 貸金ノ事ヲ談ス、 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 総理ヲ訪ヘ鉄道抵当ニ関スル件及外国人ニ土地所有ヲ許可スル事ヲ談話ス、夕方 <placename corresp=\"#place_飛鳥山邸\"> 王子別荘\n       </placename> ニ帰宿ス、午後 <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 、 <persname corresp=\"#pers_平沢進\">\n<surname> 平沢 </surname>\n<forename> 進 </forename>\n</persname> ノ諸氏来話ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-11-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 午前曇、午後晴、朝来送別ノ人陸続来訪ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 頃ヨリ揮毫ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\">\n        午後二時 </time>\n       旅宿ヲ発シ、送別ノ人数十名ト共ニ埠頭ニ至リ、小船ニテ小蒸気成歓号ニ搭シ本船筑後川丸ニ抵ル、本船ハ大坂商船会社ノ汽船ニシテ日韓間ノ定期航路ニ供スルモノナリ、船体小ナレトモ船長老練ノ聞アリ、旅客、貨物満載ニシテ船中雑沓セリ、送行ノ人数十人船ニ抵リテ旅行ノ無事ヲ祝ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 開帆ス、風ナクシテ船動揺セス、夕方本邦汽車《（船）》ノ <placename corresp=\"#place_仁川\"> 仁川 </placename> ヘ〓行スルニ逢フ、夜ニ入ルモ波静カニシテ船中安寧ナリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

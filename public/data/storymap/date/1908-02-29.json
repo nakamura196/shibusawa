@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-02-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、先ツ入浴シ、後、朝飧ヲ食ス、 <persname corresp=\"#pers_吉田清太郎\">\n<surname> 吉田 </surname>\n<forename> 清太郎 </forename>\n</persname> 来リ地方税ノ事ニ付談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ来訪ノ仏人ニ接ス、曲木如長氏通訳ス、事務所ノ要務ヲ処理シテ後、\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 同気倶楽部ニ抵リ <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 、 <persname corresp=\"#pers_朝田\">\n<surname> 朝田 </surname>\n</persname> 、 <persname corresp=\"#pers_中園\">\n<surname> 中園 </surname>\n</persname> 氏等ト午飧ヲ共ニシ浦賀船渠会社ノ事ヲ談ス、午飧後、 <persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 総理大臣官邸ニ抵リ、暁星学校寄附金ノ事ヲ談ス、 <persname corresp=\"#pers_寺西\">\n<surname> 寺西 </surname>\n</persname>\n<persname corresp=\"#pers_斎藤\">\n<surname> 斎藤 </surname>\n</persname> 、 <persname corresp=\"#pers_大橋\">\n<surname> 大橋 </surname>\n</persname> 、 <persname corresp=\"#pers_添田\">\n<surname> 添田 </surname>\n</persname> 、 <persname corresp=\"#pers_近藤\">\n<surname> 近藤 </surname>\n</persname> ノ諸氏来会ス、寄附金ノ予定畢リテ再ヒ同気倶楽部ニ抵リ、浦賀船渠会社ノ事ニ関シ <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏等ト種々ノ談話ヲ為ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename> ニ一知人ヲ訪ヒ夜飧ヲ共ニス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

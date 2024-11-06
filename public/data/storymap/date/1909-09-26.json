@@ -1,0 +1,95 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-09-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、直ニ入浴シ、畢テ日記ヲ編成ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       朝飧ヲ食シ、後、家人等ト撮影ス、 <persname corresp=\"#pers_柳原寿三郎\">\n<surname> 柳原 </surname>\n<forename> 寿三郎 </forename>\n</persname> 氏 <placename corresp=\"#place_セントルイ\"> セントルイ </placename> ヨリ来訪ス、又、 <orgname> 東京瓦斯会社\n       </orgname> 員 <persname corresp=\"#pers_前田\">\n<surname> 前田 </surname>\n</persname> 某来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> オーデトリヤム劇場内ニ於テ、 <persname corresp=\"#pers_カンソーラス\"> カンソーラス </persname> 博士ノ耶蘇教カ東洋ヨリ得タルモノト題スル演題ニテ説教アリ、畢テ旅館ニ帰ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> ホテルニテ午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 過ヨリ <persname corresp=\"#pers_堀越善重郎\">\n<surname> 堀越 </surname>\n</persname> 氏 <persname corresp=\"#pers_中野武営\">\n<surname> 中野 </surname>\n</persname> 氏等ト <persname corresp=\"#pers_松原\">\n<surname> 松原 </surname>\n</persname> 領事ヲ訪問ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 過旅亭ニ帰リ、 <placename corresp=\"#place_シアトル\"> シヤトル </placename> 領事 <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 氏及 <placename corresp=\"#place_ポートランド_(オレゴン州)\"> ホートランド </placename> 領事 <persname corresp=\"#pers_沼野安太郎\">\n<surname> 沼野 </surname>\n</persname> 氏ヘ書状ヲ発送シ、且寄附金合計六百弗ヲ郵送ス、又、 <placename corresp=\"#place_サンフランシスコ\"> 桑港 </placename>\n       領事ニ書状ヲ発ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 47.60972,
+                    "lon": -122.33306,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time> 此地ノ青年会館ニ <pb corresp=\"#pageB1599\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/625/full/max/0/default.jpg\" n=\"B1599\" source=\"#pageB1599\"></pb> 抵リ晩飧ノ饗ヲ受ク、 <persname corresp=\"#pers_神田乃武\">\n<surname> 神田 </surname>\n</persname> 、渡瀬、 <persname corresp=\"#pers_田村新吉\">\n<surname> 田村 </surname>\n</persname> 、 <persname corresp=\"#pers_石橋為之助\">\n<surname> 石橋 </surname>\n</persname> ノ諸氏同行ス、食卓上一場ノ謝詞ヲ述ヘ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰寓ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

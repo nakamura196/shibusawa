@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-10-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、直ニ朝飧ヲ喫シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:50:00",
+                    "text": "<time when=\"06:50:00\"> 六時五十分 </time> 頃人車ニテ\n        <placename corresp=\"#place_飯田町\"> 飯田町 </placename> 甲武鉄道会社停車場ニ抵リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:50:00",
+                    "text": "<time when=\"07:50:00\"> 七時五十分 </time>\n<placename corresp=\"#place_八王子\"> 八王子 </placename> 行ノ汽車ニテ <placename corresp=\"#place_吉祥寺\"> 吉祥寺\n       </placename> ニ抵リ夫ヨリ井頭学校ニ抵ル、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 、 <persname corresp=\"#pers_山本徳尚\">\n<surname> 山本 </surname>\n<forename> 徳尚 </forename>\n</persname> 二氏同行ス、蓋シ養育院感化部生徒ヲ過日井頭学校ニ移転セシメタルヲ以テ之ヲ一覧スル為メナリ、教場其他各処一覧後移転式開設ノ手続等ヲ議シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 頃帰京、 <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニテ午飧シ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 午後二時半 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ英国人 <persname corresp=\"#pers_セール\">\n<surname> セール </surname>\n</persname> 氏ノ来訪ニ接ス、其他種々ノ来人アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 事務所ニ於テモ亦来客ニ接シ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 過汽車ニテ <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

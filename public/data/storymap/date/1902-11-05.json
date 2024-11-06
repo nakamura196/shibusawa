@@ -1,0 +1,103 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-11-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 過朝飧ヲ畢ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n<persname corresp=\"#pers_園田実徳\">\n<surname> 園田 </surname>\n<forename> 実徳 </forename>\n</persname> 氏来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 総理大臣ヲ官舎ニ訪と旅行中ノ概況及抵当法案、京釜鉄道社債ノ事ヲ詳話ス、 <persname corresp=\"#pers_山本達雄_(政治家)\">\n<surname> 山本 </surname>\n<forename> 達雄 </forename>\n</persname> 氏来リ会ス、 <persname corresp=\"#pers_芳川\">\n<surname> 芳川 </surname>\n</persname> 逓信大臣、 <persname corresp=\"#pers_一木\">\n<surname> 一木 </surname>\n</persname> 局長来ル、依テ総理ニ談話セシ事項ヲ談話シテ他日ノ会見ヲ約ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<persname corresp=\"#pers_小村\">\n<surname> 小村 </surname>\n</persname> 外務ヲ官邸ニ訪ヒ総理ト談セシ事共ヲ詳話ス、且来ル <date evidence=\"year inferenced, month\" when=\"1902-11-11\"> 十一日 </date> 夜 <persname corresp=\"#pers_小村\">\n<surname> 小村 </surname>\n</persname> 氏ヨリ官邸ヘ会合ノ事ヲ請求セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n       過農商務省ニ抵リ工務局長ニ面会シテ、工場法案ニ関スル意見ヲ述ヘ商業会議所ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト会話シ直ニ事務所ニ於テ午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<orgname> 日本郵船会社 </orgname> 重役会ニ出席シ、当日ノ要務ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ住友氏支店主任交替披露ノ宴会ニ臨ミ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 去テ <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏邸ノ招宴ニ出席ス、小松宮殿下御夫婦、 <persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 伯、 <persname corresp=\"#pers_岩崎\">\n<surname> 岩崎 </surname>\n</persname> 男其他本年洋行ヨリ帰京セシ人々ヲ歓迎スルノ宴ナリキ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1902-11-06T00:00+0900\"> 十二時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス、此夜種々ノ余興アリシ由ナルモ遅刻セシヲ以テ見ルヲ得サリキ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

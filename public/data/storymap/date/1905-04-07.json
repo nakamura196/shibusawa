@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-04-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、室内運動ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       朝飧ヲ畢ル、食後新聞紙ヲ閲シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 農商務省ニ抵リ <persname corresp=\"#pers_清浦\">\n<surname> 清浦 </surname>\n</persname> 大臣ニ面話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 芝離宮ニ抵リ韓国大使ニ面謁ス、知人数名来会ス、大使ト午飧ヲ共ニシ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ尾勢紡績会社合併ノ事ニ関シ、 <persname corresp=\"#pers_奥田\">\n<surname> 奥田 </surname>\n</persname> 、 <persname corresp=\"#pers_花井\">\n<surname> 花井 </surname>\n</persname> 、 <persname corresp=\"#pers_斎藤\">\n<surname> 斎藤 </surname>\n</persname> 三氏ト協議ス、畢テ英国人 <persname corresp=\"#pers_セール\">\n<surname> セール </surname>\n</persname> 、 <persname corresp=\"#pers_キルビー\">\n<surname> キルビ </surname>\n</persname> 二氏来話ス、 <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 総裁来話ス、 <persname corresp=\"#pers_堀越常七\">\n<surname> 堀越 </surname>\n<forename> 常七 </forename>\n</persname> 来ル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 午後七時半 </time>\n<placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 公使館ノ宴会ニ出席ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1905-04-08T00:00+0900\"> 十二時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-07-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 養育院ニ抵ル、感化部開始ノ式ヲ挙ク、府知事 <persname corresp=\"#pers_千家尊福\">\n<surname> 千家 </surname>\n<forename> 尊福 </forename>\n</persname> 市長 <persname corresp=\"#pers_松田秀雄\">\n<surname> 松田 </surname>\n<forename> 秀雄 </forename>\n</persname> 祝詞ヲ朗読ス、畢テ慈善ニ関スル一場ノ演説ヲ為シ、并テ養育院及感化部ノ今日ニ至レル沿革ヲ叙ス、 <persname corresp=\"#pers_三好退蔵\">\n<surname> 三好 </surname>\n<forename> 退蔵 </forename>\n</persname> 、 <persname corresp=\"#pers_清浦奎吾\">\n<surname> 清浦 </surname>\n<forename> 奎吾 </forename>\n</persname> 、 <persname corresp=\"#pers_土方久元\">\n<surname> 土方 </surname>\n<forename> 久元 </forename>\n</persname> 氏ノ演説アリ、午後会畢テ銀行集会所ニ抵リ <orgname> 第一銀行 </orgname> 株主総会ヲ開ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\">\n        午後三時 </time> 閉会、此日行員一同集会所ニ於テ夜餐ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 宅ヘ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

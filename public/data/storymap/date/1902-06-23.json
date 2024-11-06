@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-06-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time>\n<placename corresp=\"#place_ニューヨーク\"> 紐育 </placename> 着、停車場ヨリ馬車ヲ僦フテ <orgname> ホテル・マセスチツク\n       </orgname> ニ投ス、朝飧後 <persname corresp=\"#pers_内田\">\n<surname> 内田 </surname>\n</persname> 領事来リ相伴フテ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 貿易会社 <persname corresp=\"#pers_スチービンス\">\n<surname> スチービンス </surname>\n</persname> 氏ノ招宴ニ抵ル、 <persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> 同行ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 40.71278,
+                    "lon": -74.00611,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n<persname corresp=\"#pers_スチービンス\">\n<surname> スチービンス </surname>\n</persname> ノ事務所ニ於テ <pb corresp=\"#pageB1248\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/274/full/max/0/default.jpg\" n=\"B1248\" source=\"#pageB1248\"></pb>\n       暫時談話シ更ニ［　　　　　　　　　　　　　　　　］《（○欠字。ダウンタウン・アツソシエーシヨン）》ニ抵リテ午飧ス、銀行者、商業家十数人来会ス、午飧後 <persname corresp=\"#pers_ブレヂ\">\n<surname> ブレヂ </surname>\n</persname> 氏来リテ、過日協議セシ <orgname> 東京瓦斯会社 </orgname>\n       増資方法ニ関シテ計算上ノ異見ヲ申述ヘラル、依テ種々説明セシモ了解スルヲ得ス、明日ヲ約シテ去ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 旅宿ニ帰ル、\n        <orgname> モルトン信托会社 </orgname> 々長 <persname corresp=\"#pers_モルトン\">\n<surname> モルトン </surname>\n</persname> 氏来ル、談話数刻ニシテ去ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 午後七時半 </time> ブレヂ氏ノ招宴ニ応シテ <orgname>\n        ホテル・ホフマン </orgname> ニ抵ル、一行相伴フテ出席ス、此日会スル者二十一名ニシテ、 <persname corresp=\"#pers_スチルマン\">\n<surname> スチルマン </surname>\n</persname> 、 <persname corresp=\"#pers_モルトンシフ\">\n<surname> モルトンシフ </surname>\n</persname> 、 <persname corresp=\"#pers_ヂユーク\">\n<surname> ヂユーク </surname>\n</persname> 、 <persname corresp=\"#pers_ベーカー\">\n<surname> ベーカー </surname>\n</persname> 等何レモ府内有名ノ巨商ナリ、饗宴ノ設備モ割烹ノ配置美善ヲ尽セリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 宴散シテ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

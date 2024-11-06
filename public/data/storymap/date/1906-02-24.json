@@ -1,0 +1,89 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-02-24",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後書斎ニ於テ日誌ヲ整理シ新聞紙ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 朝飧ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<persname corresp=\"#pers_阪谷芳郎\">\n<surname> 阪谷 </surname>\n<forename> 芳郎 </forename>\n</persname> ヲ官舎ニ訪ヒ、鉄道国有ニ関スル得失ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ午飧ス、食後要務ヲ談シ、更ニ事務所ニ抵リテ事務ヲ処理ス、夕方地震ニ関スル訛伝頻ニ諸方ヨリ電話アルニヨリ、大学総長\n        <persname corresp=\"#pers_浜尾\">\n<surname> 浜尾 </surname>\n</persname> 氏ニ電話ヲ以テ質問ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 過歌舞伎座ニ抵リ此夕貴賓歓迎ノ事ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 午後九時 </time> ヨリ続々来賓アリ、英国皇族及我皇族ハ何レモ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:30:00",
+                    "text": "<time when=\"21:30:00\"> 九時半 </time>\n       頃臨場セラル、夫ヨリ数番ノ演劇アリ、畢テ三階ニ於テ立食ヲ饗シ、卓上殿下ノ万歳ヲ頌シ、御退場後、関係者、演技者等ヘ一場ノ挨拶ヲ為シ、全ク閉場セシハ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1906-02-25T01:00+0900\"> 午前一時 </time> 過ナリキ、諸事結了シテ <placename corresp=\"#place_王子\">\n        王子 </placename> ニ帰宿セシハ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1906-02-25T02:30+0900\"> 午後二時半 </time> 《（前カ）》ナリ、\n        <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 同伴セリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

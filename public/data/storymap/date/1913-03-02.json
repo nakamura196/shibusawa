@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-03-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シテ朝飧ヲ食ス、後、島田町修養団員 <persname corresp=\"#pers_大井\">\n<surname> 大井 </surname>\n</persname> 、 <persname corresp=\"#pers_池田\">\n<surname> 池田 </surname>\n</persname> 二氏ノ来訪ニ接シ、 <date when=\"1913-03-23\"> 本月廿三日 </date> 同地ニ開催スル支部会出席ノ事ヲ約ス、 <placename corresp=\"#place_静岡\"> 静岡 </placename> 市長等ヨリノ書状アリ、新 <placename corresp=\"#place_日本\"> 日本\n       </placename> 社 <persname corresp=\"#pers_安本\">\n<surname> 安本 </surname>\n</persname> 氏来リ事物改進ニ関スル意見ヲ問ハル、三四ノ説ヲ述フ、電報通信社 <persname corresp=\"#pers_上田碩三\">\n<surname> 上田 </surname>\n<forename> 碩三 </forename>\n</persname> 氏来リ <placename corresp=\"#place_朝鮮\"> 朝鮮 </placename> 経営ニ関スル歴史ノ質問アリ、十一年以来ノ経歴ヲ略述ス、\n        <persname corresp=\"#pers_土居修策\">\n<surname> 土居 </surname>\n<forename> 修策 </forename>\n</persname> 氏近日 <placename corresp=\"#place_欧洲\"> 欧洲 </placename> 行ニ付告別トシテ来話ス、 <persname corresp=\"#pers_安部\">\n<surname> 安部 </surname>\n</persname> 子爵、 <persname corresp=\"#pers_望月久要\">\n<surname> 望月 </surname>\n<forename> 久要 </forename>\n</persname> 二氏来訪セラル、 <persname corresp=\"#pers_古仁所豊\">\n<surname> 古仁所 </surname>\n<forename> 豊 </forename>\n</persname> 氏来リ <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persname> 修学上ニ付種々ノ協議ヲ為シ、向後 <placename corresp=\"#place_王子\"> 王子 </placename>\n       ニ於テ完全ノ学友ヲ得テ修学セシムル事ト定メ其手続ヲ定ム、 <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persname> 学友 <persname corresp=\"#pers_下川芳太郎\">\n<surname> 下川 </surname>\n<forename> 芳太郎 </forename>\n</persname> 氏ニ委嘱センタメ <persname corresp=\"#pers_古仁所\">\n<surname> 古仁所 </surname>\n</persname> 氏ニ書状ヲ <pb corresp=\"#pageB1762\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/788/full/max/0/default.jpg\" n=\"B1762\" source=\"#pageB1762\"></pb> 托ス、夜飧後、新聞紙雑誌類ヲ通覧ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

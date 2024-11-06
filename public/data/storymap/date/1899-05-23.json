@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-05-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前 <persname corresp=\"#pers_石井十次\">\n<surname> 石井 </surname>\n<forename> 十次 </forename>\n</persname> 、 <persname corresp=\"#pers_留岡幸助\">\n<surname> 留岡 </surname>\n<forename> 幸助 </forename>\n</persname> 二氏来ル、 <persname corresp=\"#pers_笹瀬元明\">\n<surname> 笹瀬 </surname>\n<forename> 元明 </forename>\n</persname> 、 <persname corresp=\"#pers_河村隆実\">\n<surname> 河村 </surname>\n<forename> 隆実 </forename>\n</persname> 氏来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 岩城炭坑会社重役会ニ列ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\">\n        午後一時 </time> 外務省ニ抵リ <persname corresp=\"#pers_林権助\">\n<surname> 林 </surname>\n<forename> 権助 </forename>\n</persname> 氏ニ面会シテ <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 貨幣制度ノ事及京仁鉄道ニ関スル事ヲ談ス、更ニ\n        <persname corresp=\"#pers_内田康哉\">\n<surname> 内田 </surname>\n<forename> 康哉 </forename>\n</persname> ニ面会シテ同シク鉄道ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 瓦斯会社重役会ニ列シ要件数項ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 銀行ニ出勤シテ事務ヲ視ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_深川邸\"> 深川邸 </placename> ヘ帰宿シテ鷗盟会常議員会ヲ開ク、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時\n       </time> 散会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

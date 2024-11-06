@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-06-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、此日風邪気ナルヲ以テ外出スル能ハス、依テ書ヲ以テ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ申遣 <pb corresp=\"#pageB1143\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/169/full/max/0/default.jpg\" n=\"B1143\" source=\"#pageB1143\"></pb> ス、諸方ノ来書ヲ調査シ、演説筆記ノ字句ヲ修正ス、夕方 <placename corresp=\"#place_飯倉\">\n        飯倉 </placename> ナル <persname corresp=\"#pers_竹内\">\n<surname> 竹内 </surname>\n</persname> 氏ニ於テ韓国公使ノ招宴アリシモ病ヲ以テ出席ヲ謝絶ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

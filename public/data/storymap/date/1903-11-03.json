@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-11-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、朝飧ヲ畢リ書類ヲ検閲シ且諸方ヘ送ルヘキ書状七通ヲ裁ス、此日 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time> ニハ故 <persname corresp=\"#pers_谷啓三\">\n<surname> 谷 </surname>\n<forename> 啓三 </forename>\n</persname> 《（故 <persname corresp=\"#pers_谷敬三\">\n<surname> 谷 </surname>\n<forename> 敬三 </forename>\n</persname> ）》ノ遺児ヨリ仏事開宴ノ通知アリシモ之ヲ謝絶シテ出席セス、夜ハ例ノ天長節ノ夜会ヲ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ催フサレシモ路遠ク冒寒ノ恐アルヲ以テ欠席セリ、終日家ニ在テ書類調査ニ従事ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

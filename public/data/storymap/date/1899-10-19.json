@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-10-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1107\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/133/full/max/0/default.jpg\" n=\"B1107\" source=\"#pageB1107\"></pb>\n<lb></lb> 晴、朝、 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 氏来リ浦賀分工場ノ事ヲ談ス、 <persname corresp=\"#pers_園田実徳\">\n<surname> 園田 </surname>\n<forename> 実徳 </forename>\n</persname> 、 <persname corresp=\"#pers_阪本則美\">\n<surname> 阪本 </surname>\n<forename> 則美 </forename>\n</persname> 二氏来リ函樽鉄道重役ノ事ヲ依頼セラル、依テ <persname corresp=\"#pers_北垣\">\n<surname> 北垣 </surname>\n</persname> 氏ニ答ヘタル趣旨ヲ以テ謝絶ス、 <persname corresp=\"#pers_藤山雷太\">\n<surname> 藤山 </surname>\n<forename> 雷太 </forename>\n</persname> 氏来リ王子製紙会社ヨリノ贈品ヲ持参ス、 <persname corresp=\"#pers_福本誠\">\n<surname> 福本 </surname>\n<forename> 誠 </forename>\n</persname> 来リテ <placename corresp=\"#place_清\"> 清国 </placename> 工業調査ノ事ヲ談ス、 <persname corresp=\"#pers_銀林綱男\">\n<surname> 銀林 </surname>\n<forename> 綱男 </forename>\n</persname> 来リテ体育会ノ事ヲ依頼セラル、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 来リテ養育院ノ事ヲ談ス、 <persname corresp=\"#pers_戸田宇八\">\n<surname> 戸田 </surname>\n<forename> 宇八 </forename>\n</persname> 来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 日本銀行 </orgname> ニ抵リ <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 氏ニ面会シ銀行集会所寄附金ノ事ヲ依頼ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<orgname> 第一銀行 </orgname> 重役会ヲ開ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 早稲田 <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯邸ニ赴キ <placename corresp=\"#place_横浜\"> 横浜 </placename> 、 <placename corresp=\"#place_神戸\"> 神戸 </placename> 在留ノ支那商估及学校従事ノ人々二十名余ト会話ス、伯ノ邸中ニ開キタル園遊会ニ於テ一場ノ演説ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

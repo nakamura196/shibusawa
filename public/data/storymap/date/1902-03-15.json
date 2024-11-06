@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-03-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前、 <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 来ル、 <persname corresp=\"#pers_伊藤登喜蔵\">\n<surname> 伊藤 </surname>\n<forename> 登喜蔵 </forename>\n</persname> ノ事ヲ談ス、 <persname corresp=\"#pers_若尾逸平\">\n<surname> 若尾 </surname>\n<forename> 逸平 </forename>\n</persname> 来話ス、 <persname corresp=\"#pers_渋沢作太郎\">\n<surname> 渋沢 </surname>\n<forename> 作太郎 </forename>\n</persname> 来ル、商店将来ノ経営ヲ協議ス、 <persname corresp=\"#pers_宇佐\">\n<surname> 宇佐 </surname>\n</persname> 某来リ <placename corresp=\"#place_清\"> 清国 </placename> ニ関スル調査ノ事ヲ話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_上野\"> 上野 </placename>\n<orgname> 精養軒 </orgname> ニ抵リ <orgname> 埼玉学生誘掖会 </orgname> 発起総会 <pb corresp=\"#pageB1227\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/253/full/max/0/default.jpg\" n=\"B1227\" source=\"#pageB1227\"></pb> ヲ開ク、議長席ニ於テ会則ノ議事ヲ整理ス、畢テ会頭ノ推薦ヲ受ケ之ヲ承諾ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\">\n        午後四時 </time>\n<orgname> 第一銀行 </orgname> ニ出勤シ行務ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<persname corresp=\"#pers_三好退蔵\">\n<surname> 三好 </surname>\n<forename> 退蔵 </forename>\n</persname> 来話ス、夜、 <persname corresp=\"#pers_田中栄八郎\">\n<surname> 田中 </surname>\n<forename> 栄八郎 </forename>\n</persname> 来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 七時半 </time>\n<placename corresp=\"#place_清\"> 清国 </placename> 公使館ニ赴ク、晩飧ノ宴アリ、 <persname corresp=\"#pers_榎本\">\n<surname> 榎本 </surname>\n</persname> 、 <persname corresp=\"#pers_長岡\">\n<surname> 長岡 </surname>\n</persname> 、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_永井\">\n<surname> 永井 </surname>\n</persname> ノ諸氏来会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

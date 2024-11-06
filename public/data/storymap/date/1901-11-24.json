@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-11-24",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<date evidence=\"year inferenced\" when=\"1901-11-24\"> 十一月廿四日 </date> ヨリ <date evidence=\"year inferenced, month\" when=\"1901-11-06\"> 廿六日 </date> マテ三日間、養育院慈善会ヲ <orgname>\n        神田錦輝館 </orgname> ニ開キ、三日トモニ出席シテ養育院ノ沿革、現況及将来ノ企望ニ就テ長時間ノ演説ヲ為ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

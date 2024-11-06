@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1886-06-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time>\n<placename corresp=\"#place_長岡\"> 長岡 </placename> ヲ発シ半里、坐王《（蔵）》ト云フ地ニ於テ汽船ニ搭ス、昨来暴雨ノ為メ信濃川水高ク舟行甚疾シ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_新潟\"> 新潟 </placename> ニ達ス、 <persname corresp=\"#pers_三島\">\n<surname> 三島 </surname>\n</persname> 、 <persname corresp=\"#pers_岸\">\n<surname> 岸 </surname>\n</persname> 、 <persname corresp=\"#pers_高野\">\n<surname> 高野 </surname>\n</persname> 等数名行ヲ送テ <placename corresp=\"#place_新潟\"> 新潟 </placename> ニ至ル、 <persname corresp=\"#pers_鍵富三作\">\n<surname> 鍵富 </surname> 三作 </persname> 氏ニ投宿ス、着後地方ノ商估及三条会社ノ <persname corresp=\"#pers_石田\">\n<surname> 石田 </surname>\n</persname> 某、 <placename corresp=\"#place_見付\"> 見付 </placename>\n<persname corresp=\"#pers_坂田\">\n<surname> 坂田 </surname>\n</persname> 等数十名来話ス <lb></lb> 支店主任 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> ヨリ、今夕余カ来着セシヲ以テ県令及属官、第四銀行員其他地方商估数十名ヲ <orgname> 堀田楼 </orgname> ニ招飲スヘキ事ヲ通知セシニ付、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 支店ヲ一見シテ、直ニ其宴ニ赴ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 、\n        <persname corresp=\"#pers_篠崎新潟県令\">\n<surname> 篠崎 </surname> 新潟県令 </persname> 、警部長、出納課長、其他第四銀行員、米商会所頭取　○以下記事ナシ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

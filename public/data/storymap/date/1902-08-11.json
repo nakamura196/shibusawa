@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-08-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 午前八時半 </time> 朝飧ヲ畢リ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 過\n        <persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> 、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname>\n       ヲ伴ヒ瓦斯製造工場一覧ノ為市外東隅ノ地ニ抵ル、先ツ地中電気車ニテバンクニ抵リ夫ヨリ普通ノ汽車停車場ニ於テ汽車ニ搭シベクトント云フ停車場ニテ汽車ヲ下リ瓦斯工場ニ抵ル、総支配人及各部ノ技術長等出テ迎ヒ場内ニ使用スル汽車ニテ案内ス、此工場ニテ日々製造スル瓦斯ノ量ハ石炭瓦斯五千弐百万立方尺、水性瓦斯千三百万立方尺ニシテ瓦斯溜器ハ工場内ニ五個アリト云トモ、尚各需用先ノ土地ニ設備スト云フ、副製物ハコークスノ外タール、アンモニヤ、ヒツチ其他染料ヲモ精製シ、各部局ニ適当ノ技術長アリ、石炭ハ\n        <placename corresp=\"#place_ニューカッスル_アポン_タイン\"> ニユーカツソル </placename>\n       地方ヨリ海路ヲ輸送シ、工場附近ニ接続スルテームス河岸ニ於テ起重機ニヨリテ桟橋様ノ汽車ニ移シ夫ヨリレトルト場ニ運輸ス、レトルト場ハ拾四棟アリテ一棟ニ百弐十個乃至百四十四個ノレトルトヲ粧置ス、工場敷地ノ総坪数ハ三百ヱヽクルアリト云フ、其株金ノ高及毎年営業利益ノ模様等ハ追テ報告書ヲ寄送スヘキ筈ナレハ之ニ依テ調査スヘキナリ、一覧畢テ\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 54.96667,
+                    "lon": -1.6,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 過帰宿、此日工場ノ案内ハ高田商会ナル <persname corresp=\"#pers_柳谷\">\n<surname> 柳谷 </surname>\n</persname> 氏同伴シテ百事周旋ヲ為シタリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time> ステレー氏来訪ス、同氏ハ曾テ <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 来遊ノ時英学ヲ修ムル為メ雇用セシ人ナリ、此夜 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> 等ト共ニ夜餐ヲ供シ種々ノ雑談ヲ為ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

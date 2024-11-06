@@ -1,0 +1,94 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-03-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 午前八時半 </time> 起床、入浴シ、畢テ読書ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 朝飧ヲ食ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 過 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 公爵夫人ヲ滄浪閣ニ訪ヒ弔詞ヲ述フ、午後 <placename corresp=\"#place_大磯町\"> 大磯 </placename> ヲ発シ、\n        <placename corresp=\"#place_片瀬\"> 片瀬 </placename> ニテ <persname corresp=\"#pers_曾禰\">\n<surname> 曾禰 </surname>\n</persname> 統監ヲ訪ヒ、種々ノ談話ヲ為ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<placename corresp=\"#place_藤沢\"> 藤沢 </placename> 発ノ汽車ニテ帰京ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半 </time>\n<persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 総理大臣 <placename corresp=\"#place_永田町\"> 永田町 </placename>\n       邸ニ抵リ、公債借替ニ関スル会議アリ、晩飧後大臣及大蔵省当局者及 <orgname> 日本銀行 </orgname> 総裁、各組合銀行者会同シテ、大蔵省提出ノ原案ニ付テ種々ノ協議アリ、夜\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6768472,
+                    "lon": 139.7399139,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散会、帰途一友人ヲ訪ヒ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1910-03-10T00:00+0900\"> 十二時\n       </time> 過 <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、夜、書類ヲ撿閲ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

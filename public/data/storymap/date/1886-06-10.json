@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1886-06-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、朝、金沢人、高岡人等来話ス、午前県令ヲ其家ニ訪フ、午後県官ノ誘引ニ従テ銅器会社、捻糸場ヲ見ル、蓋シ此二工場ハ昨日見ル所ノ製糸会社ト同シク県人 <persname corresp=\"#pers_長谷川\">\n<surname> 長谷川 </surname>\n</persname> 某ノ創設ニ係ル、然レトモ得失相償ハサルヲ以テ僅ニ今日ヲ維持スルト云フ <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 、地方商估ノ請ニ応シテ古今亭ニ抵ル、県令及県官数名、北陸銀行員、地方豪商数輩来会ス、蓋シ此宴ハ <orgname>\n        北陸銀行 </orgname> 及地方商估等余カ来遊ヲ饗スル為ニ設クル所ナリ、酒間地方商估等ト款談シ、宴散シテ後、更ニ県令ト共ニ東新地ニ至リ某楼ニ飲ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

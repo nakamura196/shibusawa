@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-04-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、半身浴ヲ為シテ、朝飧ヲ食ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時半 </time>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯爵ヲ <placename corresp=\"#place_麻布\"> 麻布 </placename> ノ邸ニ訪ヘ汽車会社ノ事及施薬救療ノ件ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 公爵ヲ訪ヘ同事件ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 中央亭ニ抵リ、帝国劇場会社重役会ニ列シ要件ヲ議決ス、畢テ\n        <orgname> 第一銀行 </orgname> ニ抵リテ重役会ヲ開キ要務ヲ決ス、後、事務所ニ於テ各所ニ書状ヲ裁ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時\n       </time> 銀行集会所ニ抵リ中央慈善協会幹事会ヲ開キ、 <persname corresp=\"#pers_久米\">\n<surname> 久米 </surname>\n</persname> 、 <persname corresp=\"#pers_窪田\">\n<surname> 窪田 </surname>\n</persname> 、 <persname corresp=\"#pers_安達\">\n<surname> 安達 </surname>\n</persname> 、原ノ諸氏来会、要務ヲ協議ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 帝国劇場ニ抵リ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 人 <persname corresp=\"#pers_バーレン\">\n<surname> バーレン </surname>\n</persname> 氏夫妻ト共ニ観劇ス、 <persname corresp=\"#pers_加藤辰弥\">\n<surname> 加藤 </surname>\n<forename> 辰弥 </forename>\n</persname> 氏来会ス、蓋シ昨日案内シ置キタルナリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿ス <lb></lb>\n<persname corresp=\"#pers_阪井徳太郎\">\n<surname> 阪井 </surname>\n<forename> 徳太郎 </forename>\n</persname> 氏来リ、 <orgname> クロニクル新聞 </orgname> ノ事ニ付談話ス <lb></lb> 朝、 <persname corresp=\"#pers_伊藤広之\">\n<surname> 伊藤 </surname>\n<forename> 広之 </forename>\n</persname> 、 <persname corresp=\"#pers_井上雅二\">\n<surname> 井上 </surname>\n<forename> 雅二 </forename>\n</persname> 、 <persname corresp=\"#pers_井口正之\">\n<surname> 井口 </surname>\n<forename> 正之 </forename>\n</persname> 氏等来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

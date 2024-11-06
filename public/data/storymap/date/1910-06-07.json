@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-06-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、来人ニ接シ、又、書類ヲ調査ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\">\n        午前十一時 </time> 事務所ニ抵リ事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 銀行倶楽部 </orgname> ニ抵リ、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏、 <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 氏ト共ニ午飧シテ、 <orgname> 東洋汽船会社 </orgname> ノ事ヲ談ス、後 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 、 <persname corresp=\"#pers_大川\">\n<surname> 大川 </surname>\n</persname> 二氏ノ来会ヲ促シテ共ニ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト行務ヲ談ス、後、事務所ニ抵リ、 <orgname> 上武鉄道会社 </orgname> ノ事ニ関シ <persname corresp=\"#pers_山中\">\n<surname> 山中 </surname>\n</persname> 、 <persname corresp=\"#pers_諸井\">\n<surname> 諸井 </surname>\n</persname> 、 <persname corresp=\"#pers_柿原\">\n<surname> 柿原 </surname>\n</persname> 、 <persname corresp=\"#pers_中村\">\n<surname> 中村 </surname>\n</persname> 諸氏ト談話ス、蓋シ今朝 <persname corresp=\"#pers_加藤政之助\">\n<surname> 加藤 </surname>\n<forename> 政之助 </forename>\n</persname> 氏来リ、 <placename corresp=\"#place_東武\"> 東武 </placename> 鉄道会社 <persname corresp=\"#pers_根津\">\n<surname> 根津 </surname>\n</persname> 氏ノ企望ニヨリテ上武線買収ノ談ヲ申出ラレシニヨリテ其得失ヲ協議スルナリ、一同ノ意見一致セシニヨリ、 <persname corresp=\"#pers_加藤\">\n<surname> 加藤 </surname>\n</persname> 氏ヘ回答ノ事ヲ打合ハセテ散会ス、後、書類ヲ整理シ、夕方 <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、\n        <pb corresp=\"#pageB1627\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/653/full/max/0/default.jpg\" n=\"B1627\" source=\"#pageB1627\"></pb> 夜、新聞紙ヲ読マシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

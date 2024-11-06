@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-08-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨未タ晴レス、朝来郷書ヲ裁ス、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <persname corresp=\"#pers_小村\">\n<surname> 小村 </surname>\n</persname> 外務、 <persname corresp=\"#pers_尾崎\">\n<surname> 尾崎 </surname>\n</persname> 、 <persname corresp=\"#pers_日下\">\n<surname> 日下 </surname>\n</persname> 、仙石、 <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> 其他拾弐通ノ書状ヲ裁シテ郵便ニ付ス、又明後日、 <placename corresp=\"#place_ベルギー\"> 白耳義 </placename> 、\n        <placename corresp=\"#place_ドイツ\"> 独乙 </placename> ヘ旅行ノ事ニ関シ <persname corresp=\"#pers_諸井六郎\">\n<surname> 諸井 </surname>\n<forename> 六郎 </forename>\n</persname> 、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 公使等ヘ書状ヲ発シ、行程ノ順序ヲ <persname corresp=\"#pers_鍋島\">\n<surname> 鍋島 </surname>\n</persname> 氏ニ聞合ハス、夕方 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 、 <persname corresp=\"#pers_萩原源太郎\">\n<surname> 萩原 </surname>\n<forename> 源太郎 </forename>\n</persname> 来ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

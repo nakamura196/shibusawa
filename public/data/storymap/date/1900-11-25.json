@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-11-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝曇午後晴、午前揮毫ヲ試ム、且旅装ヲ理ム、午後 <persname corresp=\"#pers_大江卓\">\n<surname> 大江 </surname>\n<forename> 卓 </forename>\n</persname> 氏来訪ス、 <persname corresp=\"#pers_塩川\">\n<surname> 塩川 </surname>\n</persname> 、 <persname corresp=\"#pers_垣原\">\n<surname> 垣原 </surname>\n</persname> ノ諸氏来リテ行ヲ送ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time>\n<persname corresp=\"#pers_ブラオン\">\n<surname> ブラオン </surname>\n</persname> 氏来ル、頃日来ノ要務ヲ談スル為仁川税関長 <persname corresp=\"#pers_チヤーマル\">\n<surname> チヤーマル </surname>\n</persname> ノ居ヲ訪ヒ、 <persname corresp=\"#pers_ブラオン\">\n<surname> ブ </surname>\n</persname> 氏ト会話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 筑後川丸ニ乗船シ <placename corresp=\"#place_木浦\"> 木浦 </placename> ヘ向ケ〓行ノ筈ナリシヲ以テ、 <orgname> 第一銀行 </orgname>\n       、郵船会社等ノ支店ヲ訪ヒ告別ヲ為シ、直ニ碼頭ニ抵ラントセシニ、俄ニ筑後川丸ノ出帆明日ニ延引セシトノ事ニテ、終ニ海岸ヲ散歩シテ旅宿ニ帰リ、更ニ <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 、 <persname corresp=\"#pers_西川\">\n<surname> 西川 </surname>\n</persname> 、 <persname corresp=\"#pers_原田\">\n<surname> 原田 </surname>\n</persname> ノ数氏ト共ニ山上ヲ散歩シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 帰宿ス、此夜旅宿ニ於テ <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 、京坂亭其他ノ数氏ノ素人浄琉璃《（瑠）》ヲ聞ク、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-01-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後直ニ新聞紙ヲ一覧シ、家人ニ命シテ諸方ニ電話ヲ以テ用務ヲ通セシム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 過朝飧ヲ畢リ、直ニ馬車ヲ馳セテ\n        <persname corresp=\"#pers_阪谷芳郎\">\n<surname> 阪谷 </surname>\n<forename> 芳郎 </forename>\n</persname> ヲ訪ヒ栄転ヲ賀シ、且財政ニ関スル意見ヲ説示ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 侯爵ヲ訪ヒ <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 使命ヲ復スル文書ノ曾テ借覧セシモノヲ返還ス、帰途\n        <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏ヲ訪ヒ一二ノ用務ヲ弁シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time> 事務所ニ抵リ <persname corresp=\"#pers_堀越善重郎\">\n<surname> 堀越 </surname>\n<forename> 善重郎 </forename>\n</persname> 、 <persname corresp=\"#pers_諸井四郎\">\n<surname> 諸井 </surname>\n<forename> 四郎 </forename>\n</persname> 、 <persname corresp=\"#pers_益田英作\">\n<surname> 益田 </surname>\n<forename> 英作 </forename>\n</persname> 、 <persname corresp=\"#pers_手塚猛昌\">\n<surname> 手塚 </surname>\n<forename> 猛昌 </forename>\n</persname> 及 <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯ヨリ添書セラレタル一員ニ面話シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、 <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_清水一雄\">\n<surname> 清水 </surname>\n<forename> 一雄 </forename>\n</persname>\n<persname corresp=\"#pers_原林之助\">\n<surname> 原 </surname>\n<forename> 林之助 </forename>\n</persname> 等ニ面会シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:10:00",
+                    "text": "<time when=\"14:10:00\"> 午後二時十分 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 発ノ汽車ニテ <placename corresp=\"#place_国府津\"> 国府津\n       </placename> ニ抵ル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.280139,
+                    "lon": 139.2116278,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 過国府津館ニ着ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

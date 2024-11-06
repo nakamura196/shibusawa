@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-07-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴後朝飧ス、食後、 <persname corresp=\"#pers_渡辺六尺\">\n<surname> 渡辺 </surname>\n<forename> 六尺 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_穂積八束\">\n<surname> 穂積 </surname>\n<forename> 八束 </forename>\n</persname>\n<persname corresp=\"#pers_諸井時三郎\">\n<surname> 諸井 </surname>\n<forename> 時三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏等前後来訪セラレ、種々ノ談話ヲ為ス、 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏トハ会社事務及 <persname corresp=\"#pers_足立\">\n<surname> 足立 </surname>\n</persname> 氏ノ身上ニ付協議スル所アリ、午飧後、書類ヲ調査シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 事務所ニ抵リ <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 氏送別会ヲ開ク、近親来会スル男女老幼六七十人許リ、種々ノ談話アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n       過キ食卓ヲ開キ、盃ヲ挙テ一場ノ送別演説ヲ為ス、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 氏答詞アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 散会ス、帰宿後、 <persname corresp=\"#pers_矢作\">\n<surname> 矢作 </surname>\n</persname> 氏、 <persname corresp=\"#pers_横山\">\n<surname> 横山 </surname>\n</persname> 氏来リ、 <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persname> 以下修学上ノ事ヲ協議ス、蓋シ <persname corresp=\"#pers_矢作\">\n<surname> 矢作 </surname>\n</persname> 氏近日出立 <placename corresp=\"#place_欧洲\"> 欧洲 </placename>\n       行アルニ付、其留守中ニ於ル児輩修学上ノ注意ヲ乞フ為メナリ共ニ晩飧シ、種々ノ談話ヲ為ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

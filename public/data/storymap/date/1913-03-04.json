@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-03-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、実業ノ世界 <persname corresp=\"#pers_大塚素江\">\n<surname> 大塚 </surname>\n<forename> 素江 </forename>\n</persname> 氏来訪ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 三井集会所ニ抵リテ <persname corresp=\"#pers_孫文\">\n<surname> 孫 </surname>\n<forename> 文 </forename>\n</persname> 氏ト <placename corresp=\"#place_支那\"> 支那 </placename>\n       貨幣制度及銀行組織ノ事ニ付談話ス、先ツ帝国ニ於ル両制度実施ノ沿革ヲ詳述シ、 <placename corresp=\"#place_支那\"> 支那 </placename>\n       将来ノ事ニ付種々ノ談話ヲ為ス、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 、 <persname corresp=\"#pers_山本条太郎\">\n<surname> 山本 </surname>\n<forename> 条太郎 </forename>\n</persname> 二氏来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time> 談話畢リテ散会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧ス、後、行務ヲ談シ又来人ト談話ス、後、事務所ニ於テ庶務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ <persname corresp=\"#pers_孫文\">\n<surname> 孫 </surname>\n<forename> 文 </forename>\n</persname> 氏ノ留別会ニ出席ス、来会者六十人許リ、頗ル盛会ナリ、食卓上 <persname corresp=\"#pers_孫\">\n<surname> 孫 </surname>\n</persname> 氏及 <persname corresp=\"#pers_清浦\">\n<surname> 清浦 </surname>\n</persname> 氏ノ演説アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過散会、帰宿ス、後、新聞紙ヲ一読ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

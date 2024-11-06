@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-09-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 大倉商業学校仮開校式ニ出席ス、生徒ニ対シテ一場ノ演説ヲ為ス、畢テ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ヲ <placename corresp=\"#place_麻布\"> 麻布 </placename>\n<placename corresp=\"#place_内田山\"> 内田山 </placename> ニ訪フ、 <persname corresp=\"#pers_藤田伝三郎\">\n<surname> 藤田 </surname>\n<forename> 伝三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_日下義雄\">\n<surname> 日下 </surname>\n<forename> 義雄 </forename>\n</persname> 等ニ面会ス、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ヨリ新政党ニ関スル意見ト経歴トヲ縷陳セラル、余モ其期念ヲ開陳ス、午後逓信省ニ <persname corresp=\"#pers_古市\">\n<surname> 古市 </surname>\n</persname> 氏ヲ訪ヒシモ退出後ヲ以テ面会ヲ得ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 帰宅、 <persname corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persname>\n<placename corresp=\"#place_大韓民国\"> 韓国 </placename> ヨリ帰京セシヲ以テ来訪セラル、依テ爾来ノ京仁鉄道ニ関スル一切ノ景況ヲ詳話ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:30:00",
+                    "text": "<time when=\"16:30:00\"> 午後四時半 </time> 手形交換所委員会ニ出席ス、良川《（ <persname corresp=\"#pers_豊川良平\">\n<surname> 豊川 </surname>\n<forename> 良平 </forename>\n</persname> カ）》、 <persname corresp=\"#pers_池田\">\n<surname> 池田 </surname>\n</persname> 、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 、 <persname corresp=\"#pers_池田\">\n<surname> 池田 </surname>\n</persname> 、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> ノ諸氏来会ス、 <orgname> 日本銀行 </orgname>\n<persname corresp=\"#pers_伊藤祐之\">\n<surname> 伊藤 </surname>\n<forename> 祐之 </forename>\n</persname>\n       氏来リテ、明治商業銀行ト愛国銀行トノ関係及手形附箋ノ行違ニ係ル手続ヲ詳話セラル、依テ委員会ハ一致ヲ以テ取引停止ヲ解除スル事ニ決ス、但シ明治商業銀行ノ行為ニ付テハ委員会ノ意見ヲ以テ将来ニ注意スヘキモノトシテ、余ハ代表シテ同行頭取ニ之ヲ告示スル事ヲ約シテ散会ス、夜\n        <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 宅ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

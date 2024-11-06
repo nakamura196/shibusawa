@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-05-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:30:00",
+                    "text": "<time when=\"05:30:00\"> 午前五時半 </time> 起床、洗面後庭園ヲ散歩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 六時 </time> 過朝飧ス、\n        <persname corresp=\"#pers_杉山\">\n<surname> 杉山 </surname>\n</persname> 氏及家人地方諸士続々来訪ス、此日 <placename corresp=\"#place_岡山\"> 岡山 </placename>\n       ヲ発シテ帰路ニ就クヲ以テ送別人頗ル多シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 過停車場ニ抵リ、多数ノ送別者ニ別ヲ告ケ、 <persname corresp=\"#pers_森村\">\n<surname> 森村 </surname>\n</persname> 、 <persname corresp=\"#pers_成瀬\">\n<surname> 成瀬 </surname>\n</persname> 氏等ト "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:40:00",
+                    "text": "<time when=\"07:40:00\"> 七時四十分 </time> 発ノ汽車ニテ東上ス、 <placename corresp=\"#place_姫路\"> 姫路 </placename> 、 <placename corresp=\"#place_明石\"> 明石 </placename> 、\n        <placename corresp=\"#place_須磨\"> 須磨 </placename> 、 <placename corresp=\"#place_舞子\">\n<forename> 舞子 </forename>\n</placename> 、 <placename corresp=\"#place_神戸\"> 神戸 </placename> 等ヲ経テ汽車中ニテ午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:30:00",
+                    "text": "<time when=\"13:30:00\"> 一時半 </time>\n<placename corresp=\"#place_大阪\"> 大坂 </placename> ニ抵リ、車ヲ下リテ伝法屋ニ <pb corresp=\"#pageB1674\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/700/full/max/0/default.jpg\" n=\"B1674\" source=\"#pageB1674\"></pb> 抵リ休憩ス、 <orgname> 女子大学 </orgname> 分校ノ事ニ関シ、 <placename corresp=\"#place_小山\"> 小山 </placename> 、 <persname corresp=\"#pers_本山\">\n<surname> 本山 </surname>\n</persname> 、 <placename corresp=\"#place_竹原\"> 竹原 </placename> ノ諸氏ト談話ス、 <persname corresp=\"#pers_森村\">\n<surname> 森村 </surname>\n</persname> 、 <persname corresp=\"#pers_成瀬\">\n<surname> 成瀬 </surname>\n</persname> 二氏同席ス、畢テ <persname corresp=\"#pers_岩本\">\n<surname> 岩本 </surname>\n</persname> 氏ノ招宴ニ出席ス、 <placename corresp=\"#place_高崎\"> 高崎 </placename> 知事 <persname corresp=\"#pers_植村\">\n<surname> 植村 </surname>\n</persname> 市長、 <persname corresp=\"#pers_土居\">\n<surname> 土居 </surname>\n</persname> 、 <persname corresp=\"#pers_本山\">\n<surname> 本山 </surname>\n</persname> 、 <persname corresp=\"#pers_岩下\">\n<surname> 岩下 </surname>\n</persname> 、 <persname corresp=\"#pers_浜崎\">\n<surname> 浜崎 </surname>\n</persname> 、 <persname corresp=\"#pers_片岡\">\n<surname> 片岡 </surname>\n</persname> ノ諸氏来会ス、 <date evidence=\"year inferenced, day\" when=\"1911-03\"> 三月 </date> 初旬ニ発表セシ\n        <persname corresp=\"#pers_岩本\">\n<surname> 岩本 </surname>\n</persname> 氏ノ寄附行為ニ付種々ノ協議ヲ為シ、要務畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:50:00",
+                    "text": "<time when=\"20:50:00\"> 八時五十分 </time>\n<placename corresp=\"#place_大阪\"> 大坂 </placename> 発ノ汽車ニテ <placename corresp=\"#place_京都\"> 京都\n       </placename> ニ抵リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 頃 <placename corresp=\"#place_木屋町通\"> 木屋町 </placename>\n<orgname> 玉川楼 </orgname> ニ投宿ス、 <persname corresp=\"#pers_中川\">\n<surname> 中川 </surname>\n</persname> 氏其外来訪ス、今朝、 <persname corresp=\"#pers_杉山\">\n<surname> 杉山 </surname>\n</persname> 氏等ト撮影ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

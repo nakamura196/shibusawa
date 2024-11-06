@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-09-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ、朝飧ス、 <placename corresp=\"#place_青森\"> 青森\n       </placename> 人某来リ故 <persname corresp=\"#pers_広沢安任\">\n<surname> 広沢 </surname>\n<forename> 富次郎 </forename>\n</persname> 氏ノ事ヲ談シ且馬匹改良談ヲ為ス、 <persname corresp=\"#pers_矢野由次郎\">\n<surname> 矢野 </surname>\n<forename> 由次郎 </forename>\n</persname> 氏来リ平和ト軍備ト云フ問題ニ付意見ヲ問ハル、実業之世界記者 <persname corresp=\"#pers_大塚\">\n<surname> 大塚 </surname>\n</persname> 氏来リ新内閣ニ対スル意見ヲ問ハル <lb></lb>\n<orgname> 東京瓦斯会社 </orgname>\n<persname corresp=\"#pers_萩原源太郎\">\n<surname> 萩原 </surname>\n<forename> 源太郎 </forename>\n</persname> 氏来リ会社ノ要務ヲ談ス、 <persname corresp=\"#pers_有賀長文\">\n<surname> 有賀 </surname>\n<forename> 長文 </forename>\n</persname> 氏来リ、王子製紙会社ノ近況ヲ説キ且 <persname corresp=\"#pers_藤原\">\n<surname> 藤原 </surname>\n</persname> 氏ニ面会ノ事ヲ請ハル、 <persname corresp=\"#pers_山下弥七郎\">\n<surname> 山下 </surname>\n<forename> 弥七郎 </forename>\n</persname> 氏来リ、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 巡遊中ノ景況及ブライヤン氏会話、\n        <persname corresp=\"#pers_内田\">\n<surname> 内田 </surname>\n</persname> 大使ト内談等ニ係ル政事談アリ、午飧後筆記ヲ修正シ、夕方学生等ト共ニ <persname corresp=\"#pers_明石\">\n<surname> 明石 </surname>\n</persname> ノ家ニ抵ル、散歩ノ為メナリ、帰宅後夜飧シ、夜、学生等多数ト遊戯ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

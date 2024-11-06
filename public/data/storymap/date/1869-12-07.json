@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-12-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       頃、小川街公用方より書状来、本日御用召之儀申来る、即刻支度を整ひ罷越す、公用局にて暫時待合せ、使役之者同行にて西城江罷出る、宮中にある藩之公用局扣所にて休息、無程 <persname corresp=\"#pers_村井直見\">\n<surname> 村井 </surname>\n<forename> 直見 </forename>\n</persname> 来る、公用方差添人也少間を経て御呼出、官省之案内て大広間脇廊下を過り、柳間之入口にて扣居る、暫くして <persname corresp=\"#pers_五辻\">\n<surname> 五辻 </surname>\n</persname> 少弁殿より左之通御書付被相渡、但柳之間にて被相達 <lb></lb>\n<persname corresp=\"#pers_渋沢栄一\">\n<surname> 渋沢 </surname>\n<forename> 篤太郎 </forename>\n</persname>\n<lb></lb> 任租税正 <lb></lb> 右 <lb></lb> 宣下候事 <lb></lb>\n<date evidence=\"year inferenced, day\" type=\"旧暦\" when=\"1869-11\"> 十一月 </date> 太政官 <lb></lb>\n       受任相済之後民部省江罷出、大輔 <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 従四位其他少丞并同列之者其外小吏に至迄面会、勤向夫々承合す、夕方帰宿、此夜 <persname corresp=\"#pers_阿部祐三\">\n<surname> 阿部 </surname>\n<forename> 祐三 </forename>\n</persname> 租税少佑や <persname corresp=\"#pers_前田重吾\">\n<surname> 前田 </surname>\n<forename> 重吾 </forename>\n</persname> 監督小佑や来る、夜、 <persname corresp=\"#pers_橋本長七郎\">\n<surname> 橋本 </surname>\n<forename> 長七郎 </forename>\n</persname> 来、 <placename corresp=\"#place_静岡\"> 静岡 </placename> 常平倉掛附より書状来る、留守宅之書状も封入す "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

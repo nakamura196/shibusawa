@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-06-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、 <persname corresp=\"#pers_馬淵生\">\n<surname> 馬淵生 </surname>\n</persname> 来話ス、 <placename corresp=\"#place_鹿児島\"> 鹿児島 </placename> 県人 <persname corresp=\"#pers_中村正\">\n<surname> 中村 </surname>\n<forename> 正 </forename>\n</persname> 来訪ス、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 氏来リ養育院ノ事ヲ談ス、客去リテ後、統監府ニ進達スヘキ <orgname> 第一銀行 </orgname> ノ要書ヲ浄書ス、午飧後、 <orgname> 第一銀行\n       </orgname> ニ出勤シ <persname corresp=\"#pers_竹内綱\">\n<surname> 竹内 </surname>\n<forename> 綱 </forename>\n</persname> 、 <persname corresp=\"#pers_脇田勇\">\n<surname> 脇田 </surname>\n<forename> 勇 </forename>\n</persname> 二氏ノ来訪ニ接シ、 <persname corresp=\"#pers_西野恵之助\">\n<surname> 西野 </surname>\n<forename> 恵之助 </forename>\n</persname> 、 <persname corresp=\"#pers_益田太郎冠者\">\n<surname> 益田 </surname>\n<forename> 太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_末川軍吉\">\n<surname> 末川 </surname>\n<forename> 軍吉 </forename>\n</persname> 諸氏ノ来談アリ、後、 <orgname> 第一銀行 </orgname> 重役会ヲ開キ要件ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <persname corresp=\"#pers_渡辺譲\">\n<surname> 渡辺 </surname>\n<forename> 譲 </forename>\n</persname> 、 <persname corresp=\"#pers_原林之助\">\n<surname> 原 </surname>\n<forename> 林之助 </forename>\n</persname> 二氏ノ来訪ニ接シ、 <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> 家屋修繕ノ事ヲ談ス、後、書状ヲ裁ス、 <persname corresp=\"#pers_徳川厚\">\n<surname> 徳川 </surname>\n<forename> 厚 </forename>\n</persname> 、 <persname corresp=\"#pers_豊崎信\">\n<surname> 豊崎 </surname>\n<forename> 信 </forename>\n</persname> 、 <persname corresp=\"#pers_中橋徳五郎\">\n<surname> 中橋 </surname>\n<forename> 徳五郎 </forename>\n</persname> ノ諸氏ニ送付ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半 </time>\n<orgname> 銀行倶楽部 </orgname> ニ抵リ晩餐会ニ出席ス、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 大使、 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 大使、 <persname corresp=\"#pers_石井\">\n<surname> 石井 </surname>\n</persname> 次官、 <persname corresp=\"#pers_伊集院\">\n<surname> 伊集院 </surname>\n</persname> 公使、 <persname corresp=\"#pers_倉知\">\n<surname> 倉知 </surname>\n</persname> 、 <persname corresp=\"#pers_萩原\">\n<surname> 萩原 </surname>\n</persname> 諸氏来会ス、食卓ニ於テ一場ノ演説ヲ為ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

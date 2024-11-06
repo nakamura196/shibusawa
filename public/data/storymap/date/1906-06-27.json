@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-06-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後入浴シ、畢テ朝飧ヲ喫ス、食後来人数多ニ接シ且揮毫ヲ試ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<persname corresp=\"#pers_野口\">\n<surname> 野口 </surname>\n</persname> 支配人社宅ニ抵リ、 <placename corresp=\"#place_満州\"> 満洲 </placename> 巡廻ニテ当地ニ立寄リタル <persname corresp=\"#pers_水町\">\n<surname> 水町 </surname>\n</persname> 理財局長ニ面会ス、共ニ午飧ヲ為シ種々ノ要務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 当地在住独乙商ウオルター氏来話ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 旅寓ニ帰リ、在京 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <persname corresp=\"#pers_添田\">\n<surname> 添田 </surname>\n</persname> 、 <placename corresp=\"#place_京都\"> 京都 </placename>\n<persname corresp=\"#pers_中川\">\n<surname> 中川 </surname>\n</persname> 等ヘ書状ヲ発ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n       日本人倶楽部ニ於テ当地ノ人士歓迎会ヲ開キ出席ヲ乞ハル、依テ一同ヲ伴ヒ之ニ出席シ、酒間一場ノ謝辞ヲ述フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 午後九時 </time>\n       発ノ汽車ニテ <placename corresp=\"#place_京城府\"> 京城 </placename> ニ帰ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時\n       </time> 過帰着、 <persname corresp=\"#pers_竹山\">\n<surname> 竹山 </surname>\n</persname> 、 <persname corresp=\"#pers_三島\">\n<surname> 三島 </surname>\n</persname> 其他数名来リ迎フ、京城支店社宅ニ投宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

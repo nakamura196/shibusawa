@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-03-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、半身浴ヲ為シテ後朝飧ヲ食ス、 <persname corresp=\"#pers_福島甲子三\">\n<surname> 福島 </surname>\n<forename> 甲子三 </forename>\n</persname> 氏来リテ瓦斯会社ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<placename corresp=\"#place_芝\"> 芝 </placename>\n<placename corresp=\"#place_巴町\"> 巴町 </placename> ナル区裁判所ニ抵リ、白紙委任状ノ事ニ関シ鑑定ノ要アルナリ、 <placename corresp=\"#place_三田\"> 三田 </placename> ノ <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 邸ヲ訪ヘ夫妻ニ訓戒ス、後葵町ニ <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏ノ病ヲ訪ヘ其家人ニ面話ス、帰途 <persname corresp=\"#pers_村井吉兵衛\">\n<surname> 村井 </surname>\n<forename> 吉兵衛 </forename>\n</persname> 氏ヲ訪問シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time>\n<orgname> 銀行倶楽部 </orgname> ニ抵リテ午飧ス、後、 <orgname> 東京興信所 </orgname> ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<orgname> 日本銀行 </orgname> ニ抵リ、 <persname corresp=\"#pers_高橋是清\">\n<surname> 高橋 </surname>\n<forename> 是清 </forename>\n</persname> 氏ニ面会シテ国債償還ノ方法ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<orgname> 第一銀行 </orgname> ニテ <persname corresp=\"#pers_石井\">\n<surname> 石井 </surname>\n</persname> 氏ニ面会シ、明日同業者ノ会同ヲ催フサシム、畢テ事務所ニ抵リテ多数ノ来人ニ接ス、新聞記者尤モ多シ、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏、 <placename corresp=\"#place_加賀\"> 加賀 </placename> 某モ来話ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\">\n        七時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿後、書状数通ヲ裁ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 劇場会社ニ <persname corresp=\"#pers_西野\">\n<surname> 西野 </surname>\n</persname> 氏ヲ訪ヘ、演劇ノ事ヲ協議ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

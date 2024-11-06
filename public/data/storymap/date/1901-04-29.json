@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-04-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前数多来訪ノ人アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<persname corresp=\"#pers_渡邊嘉一\">\n<surname> 渡辺 </surname>\n<forename> 嘉一 </forename>\n</persname> 氏及 <persname corresp=\"#pers_浜政弘\">\n<surname> 浜 </surname>\n<forename> 政弘 </forename>\n</persname> 、 <persname corresp=\"#pers_鍵富三作\">\n<surname> 鍵富 </surname>\n<forename> 三作 </forename>\n</persname> 其他ノ諸氏ト共ニ万代橋辺ノ停車場位地ヲ一覧ス、堤上ヲ歩シテ終ニ <placename corresp=\"#place_沼垂\"> 沼垂 </placename>\n       停車場ニ到ル、帰途浜氏ノ別業ニ於テ小憩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 旅宿ニ帰ル、午後 <persname corresp=\"#pers_鈴木長蔵_(衆議院議員)\">\n<surname> 鈴木 </surname>\n<forename> 長蔵 </forename>\n</persname> 、 <persname corresp=\"#pers_山崎利七\">\n<surname> 山崎 </surname>\n<forename> 利七 </forename>\n</persname> 、 <persname corresp=\"#pers_白瀬春三\">\n<surname> 白瀬 </surname>\n<forename> 春三 </forename>\n</persname> 、 <persname corresp=\"#pers_清水貞三郎\">\n<surname> 清水 </surname>\n<forename> 貞三郎 </forename>\n</persname> 諸氏来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<orgname> 第一銀行 </orgname> 支店ニ抵リ事務ヲ視ル、畢テ <persname corresp=\"#pers_松井吉太郎\">\n<surname> 松井 </surname>\n<forename> 吉太郎 </forename>\n</persname> 氏ト共ニ海岸ヲ散歩シテ日和山ニ抵ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 過帰寓、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\">\n        午後五時 </time> 、 <persname corresp=\"#pers_浜\">\n<surname> 浜 </surname>\n</persname> 、 <persname corresp=\"#pers_鍵富\">\n<surname> 鍵富 </surname>\n</persname> 二氏ノ招宴ニ応シテ浜氏ノ家ニ抵ル、県官及市長其他ノ諸氏来会ス、饗宴畢テ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 帰寓ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

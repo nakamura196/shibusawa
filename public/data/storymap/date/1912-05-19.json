@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-05-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ朝飧ヲ食ス、此日ハ <placename corresp=\"#place_房州\"> 房州\n       </placename> 船形ナル養育院ノ保養所一覧ノ為出張ノ約アリシモ、昨夜来風強クシテ汽船ノ動揺ヲ恐レテ出発ヲ断リ遣ス、朝飧後一意百話ノ校正ニ勉ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_越生\"> 越生 </placename> 町銀行者来訪ス、庭園ヲ案内シテ後、愛蓮堂ニテ茶ヲ供ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 午飧ヲ共ニス、其帰後又校正ニ従事ス <lb></lb>\n<persname corresp=\"#pers_神田鐳蔵\">\n<surname> 神田 </surname>\n<forename> 鐳蔵 </forename>\n</persname> 、 <persname corresp=\"#pers_上田碩三\">\n<surname> 上田 </surname>\n<forename> 碩三 </forename>\n</persname> 氏等来ル、 <persname corresp=\"#pers_堀切登志子\">\n<surname> 堀切 </surname>\n<forename> 登志子 </forename>\n</persname> 来《（ <persname corresp=\"#pers_堀切敏子\">\n<surname> 堀切 </surname>\n<forename> 敏子 </forename>\n</persname> ）》ル、夜ニ入ルモ百話ノ校正ニ勉メ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1912-05-20T01:00+0900\"> 一時 </time>\n       過ニ至リテ全部ヲ終了セリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1912-05-20T01:30+0900\"> 一時半 </time> 頃就寝ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

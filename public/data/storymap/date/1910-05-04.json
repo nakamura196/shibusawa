@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-05-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ後、朝飧ヲ食シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 過\n        <placename corresp=\"#place_王子\"> 王子 </placename> 発ノ汽車ニ搭シテ <placename corresp=\"#place_八基村\">\n        八基村 </placename> ニ抵ル、 <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 二氏モ停車場ニ相会シテ同車ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 36.23331,
+                    "lon": 139.26167,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 頃 <placename corresp=\"#place_深谷\"> 深谷 </placename> ニ達シ、夫ヨリ人車ニテ <placename corresp=\"#place_血洗島\"> 血洗島\n       </placename> ニ抵リ、 <persname corresp=\"#pers_渋沢貞子\">\n<forename> 貞子 </forename>\n</persname> ノ病ヲ訪フ、大患ナリ、回復覚束ナシ、午飧後、鎮守諏訪神社ヲ参拝シ田圃ヲ散歩ス、病ヲ見舞フ人多ク来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<persname corresp=\"#pers_入沢\">\n<surname> 入沢 </surname>\n</persname> 博士、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 同行ニテ来診ス、是ヨリ先、地方ノ医師 <persname corresp=\"#pers_斎藤増次郎\">\n<surname> 斎藤 </surname>\n<forename> 増次郎 </forename>\n</persname> 氏来リ患者ノ病状ヲ詳話ス、 <persname corresp=\"#pers_入沢\">\n<surname> 入沢 </surname>\n</persname> 氏ノ診察ヲ待テ向後ノ処方ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time> 夜飧シ、 <persname corresp=\"#pers_入沢\">\n<surname> 入沢 </surname>\n</persname> 氏ト共ニ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time> 過 <placename corresp=\"#place_深谷\"> 深谷\n       </placename> 発ノ汽車ニテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:30:00",
+                    "text": "<time when=\"22:30:00\"> 十時半 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

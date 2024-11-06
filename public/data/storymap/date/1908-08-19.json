@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-08-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、 <persname corresp=\"#pers_対馬嘉三郎\">\n<surname> 対馬 </surname>\n<forename> 嘉三郎 </forename>\n</persname> 氏来話ス、製麻会社 <persname corresp=\"#pers_鈴木鈴馬\">\n<surname> 鈴木 </surname>\n<forename> 鈴馬 </forename>\n</persname> 氏来リ迎フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 旅亭ヲ発シ停車場ニ抵ル、 <placename corresp=\"#place_小樽市\"> 小樽 </placename> 区長始トシテ重立タル区民来リテ行ヲ送ル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 43.190722,
+                    "lon": 140.994361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:13:00",
+                    "text": "<time when=\"08:13:00\"> 八時十三分\n       </time> 列車ニ搭シ <placename corresp=\"#place_札幌\"> 札幌 </placename> ニ向フ、汽車断崖ト海岸トノ間ヲ進行ス、銭箱駅ヲ経\n        <placename corresp=\"#place_軽川\"> 軽川 </placename> 駅ニ抵リ汽車海ヲ離レテ平野ニ入ル、田野開ケテ処々ニ水田ヲ見ル、 <persname corresp=\"#pers_植村澄三郎\">\n<surname> 植村 </surname>\n<forename> 澄三郎 </forename>\n</persname> 氏ノ植林地此辺ニ在リトテ頻ニ其経営難ヲ説示ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:40:00",
+                    "text": "<time when=\"09:40:00\"> 午前九時四十分 </time>\n<placename corresp=\"#place_札幌\"> 札幌 </placename> ニ着ス、 <persname corresp=\"#pers_山田\">\n<surname> 山田 </surname>\n</persname> 書記官以下数十人来リ迎フ、停車場ヨリ馬車ニテ北海道庁ニ抵リ、 <persname corresp=\"#pers_山田\">\n<surname> 山田 </surname>\n</persname> 、 <persname corresp=\"#pers_黒金\">\n<surname> 黒金 </surname>\n</persname> 二氏ニ面会シテ要務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 旅亭山形屋ニテ午飧シ、食後、遊園地ニ開カレタル\n        <placename corresp=\"#place_札幌\"> 札幌 </placename> 畜産共進会ニ抵リ馬牛ノ出品ヲ一覧ス、又、水産陳列所ニ抵リテ出品ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 豊平館ニ抵リ、此夜招宴セシ地方人士ニ接ス、 <persname corresp=\"#pers_河島\">\n<surname> 河島 </surname>\n</persname> 長官、 <persname corresp=\"#pers_山田\">\n<surname> 山田 </surname>\n</persname>\n       書記官、学校長、其他貴紳来会スル者百名余ニ及フ、席上一場ノ謝詞ヲ述ヘ、且当道経営方針ニ関スル演説ヲ為ス、長官ヨリ丁寧ナル答辞アリ、畢リテ立食場ニ入リ、賓主歓ヲ尽シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time> 過散会ス、帰宿後、 <placename corresp=\"#place_東京\"> 東京 </placename>\n       ヨリ種々ノ電報アリ、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 艦隊歓迎ノ事ニ付銀行集会所ヨリノ来報、 <persname corresp=\"#pers_三好退蔵\">\n<surname> 三好 </surname>\n<forename> 退蔵 </forename>\n</persname> 氏ノ訃音及 <placename corresp=\"#place_王子\"> 王子 </placename> 留守宅ヨリ下婢ノ訃音来ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

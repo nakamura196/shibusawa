@@ -1,0 +1,52 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-12-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 昨夜破損せし機関修繕覚束なしとて暁より楫を転し、 <placename corresp=\"#place_香港\"> 香港 </placename>\n       に帰帆、同所ニ而別船に乗替再航すへしとて、第 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 22.267,
+                    "lon": 114.188,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 六時 </time> 頃より帆前ニ而 <placename corresp=\"#place_香港\"> 香港 </placename>\n       に引返す、帰航なれば順風なれとも器械なけれは〓行遅緩なり、夕方より風少し強く舟行稍速なり、夕方此辺の島中に浮める漁船を雇へ、 <placename corresp=\"#place_香港\"> 香港 </placename> 飛船会所江此変事を報告す "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 22.267,
+                    "lon": 114.188,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

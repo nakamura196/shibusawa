@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-03-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<placename corresp=\"#place_駿河台\"> 駿河台 </placename> ニ於テ <persname corresp=\"#pers_岩崎弥之助\">\n<surname> 岩崎 </surname>\n<forename> 弥之助 </forename>\n</persname> 氏ヲ訪ヒ送別ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 文部省ニ於テ <persname corresp=\"#pers_岡田良平\">\n<surname> 岡田 </surname>\n<forename> 良平 </forename>\n</persname> 氏ニ面会シ、 <orgname> 高等商業学校 </orgname> ノ事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、午飧後 <placename corresp=\"#place_新橋\">\n        新橋 </placename> 停車場ニ抵リ <persname corresp=\"#pers_岩崎\">\n<surname> 岩崎 </surname>\n</persname> 氏ノ発途ヲ送別ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<orgname> 第一銀行 </orgname> 重役会ヲ開ク、畢テ <persname corresp=\"#pers_渋沢成一郎\">\n<surname> 渋沢 </surname>\n<forename> 喜作 </forename>\n</persname> 等来話ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 過 <persname corresp=\"#pers_小村\">\n<surname> 小村 </surname>\n</persname> 外務大臣官舎ニ抵リ、 <persname corresp=\"#pers_本野\">\n<surname> 本野 </surname>\n</persname> 仏国公使、 <persname corresp=\"#pers_加藤\">\n<surname> 加藤 </surname>\n</persname>\n<placename corresp=\"#place_ベルギー\"> 白耳義 </placename> 公使ト会話ス、 <placename corresp=\"#place_ベルギー\">\n        白耳義 </placename> 万国東洋会社ノ成立ヨリ目下ノ関係ヲ詳話ス、及曾テ <persname corresp=\"#pers_青木\">\n<surname> 青木 </surname>\n</persname> 子爵ヨリ内話アリシ銀行合併談ノ概略ヲ話ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

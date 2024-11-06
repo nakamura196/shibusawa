@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-02-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 腹部未タ快方セス、褥中ニ在テ新聞紙其他ノ書類ヲ読ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time> 朝飧ヲ畢リ、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 氏ノ来訪ニ接シ養育院ノ事ヲ談ス <lb></lb> 午前後七年史ヲ読ム、夕方 <persname corresp=\"#pers_皆川四郎\">\n<surname> 皆川 </surname>\n<forename> 四郎 </forename>\n</persname> 来訪セラル <lb></lb> 此夕、 <placename corresp=\"#place_イギリス\"> 英国 </placename>\n       大使館ニ夜会アリテ招状ヲ得タリシモ、病ノ為メ行ヲ得サリキ <lb></lb>\n<persname corresp=\"#pers_松平隼太郎\">\n<surname> 松平 </surname>\n<forename> 隼太郎 </forename>\n</persname> 来リ <persname corresp=\"#pers_後藤新平\">\n<surname> 後藤 </surname>\n<forename> 新平 </forename>\n</persname> 氏ヘ添書ヲ乞ハル、依テ直ニ認メ遣ス、且数種ノ書状及書類ヲ同人ニ付シテ <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ヘ宛事務所ニ送致ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

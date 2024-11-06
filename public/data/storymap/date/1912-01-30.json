@@ -1,0 +1,89 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-01-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シテ朝飧ヲ食ス、畢テ <persname corresp=\"#pers_井口正之\">\n<surname> 井口 </surname>\n<forename> 正之 </forename>\n</persname> 氏来訪、青渊百話ノ事ヲ談ス、 <persname corresp=\"#pers_若山徳\">\n<surname> 若山 </surname>\n<forename> 徳 </forename>\n</persname> 氏来リ学友会大会ノ事ヲ談ス、 <persname corresp=\"#pers_犬丸鉄太郎\">\n<surname> 犬丸 </surname>\n<forename> 鉄太郎 </forename>\n</persname> 氏来訪、 <persname corresp=\"#pers_志村源太郎\">\n<surname> 志村 </surname>\n<forename> 源太郎 </forename>\n</persname> 氏来リ勧業銀行総裁ニ栄転ノ披露アリ、 <persname corresp=\"#pers_大川平太郎\">\n<surname> 大川 </surname>\n<forename> 平太郎 </forename>\n</persname> 《（ <persname corresp=\"#pers_大川平三郎\">\n<surname> 大川 </surname>\n<forename> 平三郎 </forename>\n</persname> ）》、 <persname corresp=\"#pers_白石元次郎\">\n<surname> 白石 </surname>\n<forename> 元次郎 </forename>\n</persname> 二氏来《（ <persname corresp=\"#pers_白石元治郎\">\n<surname> 白石 </surname>\n<forename> 元治郎 </forename>\n</persname> ）》リテ鉄管製造会社設立ノ事ニ付談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 午前十一時半 </time>\n<persname corresp=\"#pers_明石\">\n<surname> 明石 </surname>\n</persname> ト共ニ <placename corresp=\"#place_新橋\"> 新橋 </placename> 停車場ニ抵リ、 <persname corresp=\"#pers_珍田\">\n<surname> 珍田 </surname>\n</persname> 大使ノ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 行ヲ送別シ、途次 <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 氏ト <placename corresp=\"#place_支那\"> 支那 </placename> 関係ニ付談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time> 事務所ニテ午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time> 過株式取引所ニ抵リ新年会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ抵リ児等ト会見ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n       夜飧シテ事務所ニ帰リ、 <persname corresp=\"#pers_明石\">\n<surname> 明石 </surname>\n</persname> 、 <persname corresp=\"#pers_竹山\">\n<surname> 竹山 </surname>\n</persname> 二氏ト共ニ <orgname> 帝国座 </orgname> ニ抵リ外国人ノ演劇ヲ観ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:30:00",
+                    "text": "<time when=\"21:30:00\"> 九時半 </time>\n       中央亭ニ抵リ、 <persname corresp=\"#pers_西野\">\n<surname> 西野 </surname>\n</persname> 氏ト共ニ <persname corresp=\"#pers_中村歌右衛門_(5代目)\">\n<surname> 中村 </surname>\n<forename> 歌右衛門 </forename>\n</persname> 氏ト会話ス <pb corresp=\"#pageB1723\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/749/full/max/0/default.jpg\" n=\"B1723\" source=\"#pageB1723\"></pb>\n<orgname> 帝国座 </orgname> ニ出演ノ事ヲ勧告ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

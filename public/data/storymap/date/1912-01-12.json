@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-01-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床スルモ風邪気ニ付半身浴ヲ為シ、後、褥中ニ在テ朝飧ヲ食ス、畢テ来書ヲ披閲シ日記ヲ編成ス、 <persname corresp=\"#pers_秋山一裕\">\n<surname> 秋山 </surname>\n<forename> 一裕 </forename>\n</persname> 氏来《（ <persname corresp=\"#pers_秋山一祐\">\n<surname> 秋山 </surname>\n<forename> 一祐 </forename>\n</persname> 氏）》リ、南 <placename corresp=\"#place_日本\"> 日本 </placename> 製糖会社株式募集ノ事アリ、 <persname corresp=\"#pers_蓮沼門三\">\n<surname> 蓮沼 </surname>\n<forename> 門三 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persname> 氏来リ煉瓦会社ノ事、毛織物会社ノ事ヲ談話ス、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 男爵来リ、 <placename corresp=\"#place_支那\"> 支那 </placename> 銀行設立ノ事ニ関シ種々ノ談話アリ、 <persname corresp=\"#pers_井口\">\n<surname> 井口 </surname>\n</persname> 氏ヨリ送ラレタル百話ノ原稿ヲ修正ス、新聞雑誌等ヲ一覧ス、夜、 <persname corresp=\"#pers_木暮祐雄\">\n<surname> 木暮 </surname>\n<forename> 祐雄 </forename>\n</persname> 来話ス <lb></lb>\n<persname corresp=\"#pers_皆川晃雄\">\n<surname> 皆川 </surname>\n<forename> 晃雄 </forename>\n</persname> 氏来リ、新約全書ノ講義ヲ聴キ、且種々ノ意見ヲ交換ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

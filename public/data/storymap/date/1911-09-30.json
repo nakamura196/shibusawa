@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-09-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シテ、朝飧ヲ食ス、後、 <persname corresp=\"#pers_蓮沼門三\">\n<surname> 蓮沼 </surname>\n<forename> 門三 </forename>\n</persname> 氏ノ来訪ニ接ス、諸方巡回ノ景況ヲ談話ス、又、 <persname corresp=\"#pers_早速鎮蔵\">\n<surname> 早速 </surname>\n<forename> 鎮蔵 </forename>\n</persname> 氏来ル、其身上ニ付種々ノ訓誡ヲ為ス、陸軍歩兵大尉 <persname corresp=\"#pers_林桂\">\n<surname> 林 </surname>\n<forename> 桂 </forename>\n</persname> 氏、 <persname corresp=\"#pers_塘茂太郎\">\n<surname> 塘 </surname>\n<forename> 茂太郎 </forename>\n</persname> 氏来訪、 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 氏ノ身上ニ付種々ノ談話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 事務所ニ抵リ来人ニ接シ又事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 午後六時半 </time>\n<placename corresp=\"#place_芝\"> 芝 </placename> 区 <placename corresp=\"#place_田町_(東京都港区)\"> 田町 </placename>\n<persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏ヲ訪フ、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       人招宴ニ付陪賓トシテ列席スルナリ、種々ノ余興アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過散会、帰宿ス、後、新聞紙ヲ一覧ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

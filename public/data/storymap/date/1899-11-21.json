@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-11-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、此日ハ午後 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       宅ニ来人ノ約アリシモ、家人ノ勧誘ニ従ヒ電報ニテ来人ヲ謝絶シ、更ニ一日ノ閑ヲ偸ム事ニ決ス、 <orgname> 第一銀行 </orgname>\n<persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ヘモ電信シテ銀行集会所ノ事ヲ依頼シ、終日 <placename corresp=\"#place_大磯町\"> 大磯 </placename>\n       ニ在テ散歩又ハ遊戯等ニ消閑ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

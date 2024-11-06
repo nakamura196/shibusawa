@@ -1,0 +1,73 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-08-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、朝、 <persname corresp=\"#pers_成瀬仁蔵\">\n<surname> 成瀬 </surname>\n<forename> 仁蔵 </forename>\n</persname> 来ル、 <orgname> 女子大学 </orgname> ノ事ヲ話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時三十分 </time> ノ列車ニテ\n        <placename corresp=\"#place_大磯町\"> 大磯 </placename> ヲ発ス、車中 <persname corresp=\"#pers_今村清之助\">\n<surname> 今村 </surname>\n<forename> 清之助 </forename>\n</persname> 、 <persname corresp=\"#pers_松本重太郎\">\n<surname> 松本 </surname>\n<forename> 重太郎 </forename>\n</persname>\n<placename corresp=\"#place_九州\"> 九州 </placename> ヨリ帰京スルニ邂逅ス、九州鉄道会社ノ事ニ関シ談話スル処アリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_品川\"> 品川 </placename> ニ着ス、三田 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏ヲ訪フテ種々ノ要件ヲ談話ス、午餐後 <placename corresp=\"#place_下谷\"> 下谷 </placename>\n       岩越鉄道会社ノ重役会ニ列ス、要務数項ヲ議決ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7220222,
+                    "lon": 139.7834083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<orgname> 精養軒 </orgname> ニ抵リテ夜餐ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> ニ帰宿ス、此日汽車中ニテ <persname corresp=\"#pers_今村清之助\">\n<surname> 今村 </surname>\n<forename> 清之助 </forename>\n</persname> 、 <persname corresp=\"#pers_松本重太郎\">\n<surname> 松本 </surname>\n<forename> 重太郎 </forename>\n</persname> ニ面会シテ九 <pb corresp=\"#pageB1100\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/126/full/max/0/default.jpg\" n=\"B1100\" source=\"#pageB1100\"></pb> 州鉄道会社ノ事ヲ談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

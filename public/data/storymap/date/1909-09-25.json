@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-09-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ畢テ朝飧ヲ食ス、食後、室内ニテ <placename corresp=\"#place_シアトル\">\n        シヤトル市 </placename> ノ <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 領事、 <placename corresp=\"#place_ポートランド_(オレゴン州)\"> ホートランド </placename> ノ <persname corresp=\"#pers_沼野安太郎\">\n<surname> 沼野 </surname>\n</persname> 領事、 <placename corresp=\"#place_サンフランシスコ\"> 桑港 </placename>\n<persname corresp=\"#pers_永井松三\">\n<surname> 永井 </surname>\n</persname> 領事ニ書状ヲ認テ郵送ス、且、 <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 、 <persname corresp=\"#pers_沼野安太郎\">\n<surname> 沼野 </surname>\n</persname> 二氏ヘ為替金ヲ送付ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 47.60972,
+                    "lon": -122.33306,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time>\n<persname corresp=\"#pers_ヘビヤン\">\n<surname> ヘビヤン </surname>\n</persname> 氏ノ案内ニテ湖岸倶楽部ニ抵ル、 <placename corresp=\"#place_シカゴ\"> シカコ </placename>\n       ・ミルオーキー鉄道会社ノ催ニ係ル午飧会ニ列シ、食卓上一場ノ演説ヲ為ス、後、 <placename corresp=\"#place_市加古\"> 市加古 </placename>\n       大学ニ抵リ校内ヲ一覧シ、校長宅ニテ茶菓ノ饗応アリ、教員 <persname corresp=\"#pers_ホルトン\">\n<surname> ホルトン </surname>\n</persname> 氏夫妻ト会話ス蓋シ氏ハ <placename corresp=\"#place_日本\"> 日本 </placename> ニ来遊セシ人ナリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 41.9,
+                    "lon": -87.65,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 帰宿、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 晩飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:30:00",
+                    "text": "<time when=\"22:30:00\"> 十時半 </time> ヨリ <persname corresp=\"#pers_頭本元貞\">\n<surname> 頭本 </surname>\n</persname> 氏其他ノ人々ト <orgname> トレビオン新聞 </orgname> 社ヲ一覧ス、規模宏大ニシテ経営敏活ナリ、五十余年継続シテ営業スルト云フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1909-09-26T00:00+0900\"> 十二時 </time> 過帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

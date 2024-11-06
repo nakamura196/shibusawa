@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-12-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、風邪快方ニ至ラサルヲ以テ入浴ヲ廃ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       朝飧ヲ食シ二三ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <persname corresp=\"#pers_袴田\">\n<surname> 袴田 </surname>\n</persname> 、 <persname corresp=\"#pers_駒井\">\n<surname> 駒井 </surname>\n</persname> 二氏ノ来訪ニ接ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ、 <persname corresp=\"#pers_平岡\">\n<surname> 平岡 </surname>\n</persname> 氏ト共ニ <persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 、 <persname corresp=\"#pers_奥田正香\">\n<surname> 奥田 </surname>\n<forename> 正香 </forename>\n</persname> 氏等ト会シテ <orgname> 汽車製造会社 </orgname> ノ事ヲ協議ス、午飧後、皇典講究所ニ抵リ <orgname> 国学院大学 </orgname>\n       寄附金ノ事ニ付、 <persname corresp=\"#pers_鍋島\">\n<surname> 鍋島 </surname>\n</persname> 侯、 <persname corresp=\"#pers_芳川\">\n<surname> 芳川 </surname>\n</persname> 伯其他ノ来会者ト協議ス、畢テ <placename corresp=\"#place_王子\"> 王子 </placename>\n       ニ帰宿シ、後、演説筆記ヲ修正シ、来人ニ接ス、夜、新聞紙ヲ読ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-09-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1103\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/129/full/max/0/default.jpg\" n=\"B1103\" source=\"#pageB1103\"></pb> 晴、朝、 <persname corresp=\"#pers_大江卓\">\n<surname> 大江 </surname>\n<forename> 卓 </forename>\n</persname> 氏来ル、九州鉄道会社ノ事ニ関シ意見ヲ述ヘラル、午後 <persname corresp=\"#pers_麻生太吉\">\n<surname> 麻生 </surname>\n<forename> 太吉 </forename>\n</persname> 、 <persname corresp=\"#pers_今村清之助\">\n<surname> 今村 </surname>\n<forename> 清之助 </forename>\n</persname> 来ル、 <persname corresp=\"#pers_雨宮敬次郎\">\n<surname> 雨宮 </surname>\n<forename> 敬次郎 </forename>\n</persname> 来ル、共ニ九州鉄道ノ事ヲ談ス、 <persname corresp=\"#pers_雨宮\">\n<surname> 雨宮 </surname>\n</persname> ハ明日ヲ約シテ帰ル、午後 <orgname> 日本郵船会社 </orgname> 重役会ニ列ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時\n       </time> 瓦斯会社重役及 <persname corresp=\"#pers_中島\">\n<surname> 中島 </surname>\n</persname> 土木学士来会シテ電気事業ニ付、瓦斯鉄管ニ与フル妨害ノ事ヲ談話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

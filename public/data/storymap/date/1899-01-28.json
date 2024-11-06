@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-01-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 少曇寒甚シ、朝 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<persname corresp=\"#pers_モールス\">\n<surname> モールス </surname>\n</persname> 氏来ル、外務省雇米人 <persname corresp=\"#pers_テニソン\">\n<surname> テニソン </surname>\n</persname> 氏来ル、蓋シ京仁鉄道譲渡ノ件ニ付今日ヲ以テ会合スヘキ約アルニヨル、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 、 <persname corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persname> 来会セシニヨリ取引ニ関スル協議ヲ為セシモ、 <orgname> 横浜正金銀行 </orgname> ヘノ返金 <persname corresp=\"#pers_モールス\">\n<surname> モールス </surname>\n</persname> ヨリ借入タル金額 <date when=\"1899-01-31\"> 三十一日 </date> ナラデハ終了シ得サルニヨリ、同日ヲ以テ決算スル事ヲ約シテ諸氏退散ス <lb></lb>\n<persname corresp=\"#pers_モールス\">\n<surname> モールス </surname>\n</persname> 去テ後、 <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 、 <persname corresp=\"#pers_足立\">\n<surname> 足立 </surname>\n</persname> 氏ト京仁鉄道将来ノ取扱ヲ協議ス、午後 <persname corresp=\"#pers_前島\">\n<surname> 前島 </surname>\n</persname> 氏来ル、依テ <persname corresp=\"#pers_モールス\">\n<surname> モールス </surname>\n</persname> 氏ト談話ノ手続ヲ示ス <lb></lb> 午後銀行ニ於テ寸時間行務ヲ視ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 過 <placename corresp=\"#place_麻布\"> 麻布 </placename>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯邸ヲ訪フ、 <persname corresp=\"#pers_三井高保\">\n<surname> 三井 </surname>\n<forename> 高保 </forename>\n</persname> 、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 、同 <persname corresp=\"#pers_益田克徳\">\n<forename> 克徳 </forename>\n</persname> 、同 <persname corresp=\"#pers_益田英作\">\n<forename> 英作 </forename>\n</persname> 、 <persname corresp=\"#pers_朝吹英二\">\n<surname> 朝吹 </surname>\n<forename> 英二 </forename>\n</persname> 、 <persname corresp=\"#pers_杉孫七郎\">\n<surname> 杉 </surname>\n<forename> 孫七郎 </forename>\n</persname>\n       其他数氏来会ス蓋シ一品会ト唱フル会同ニシテ、各品珍蔵一品ノ名器ヲ携ヒテ其優劣ヲ競ヒ美術ヲ話スルノ讌会ナリ、主人伯爵自ラ客ヲ誘引シ周旋甚タ勉ム、且其割烹ノ如キモ皆自身之ヲ指揮シテ調理頗ル佳ナリ、夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会帰宅ス、此夜 <placename corresp=\"#place_日本橋兜町\"> 兜町\n       </placename> ニ福引ノ会アリ、更深テ散ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-09-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ、朝飧ヲ食ス、後、旅装ヲ理シ、来人ニ接ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:10:00",
+                    "text": "<time when=\"08:10:00\"> 午前八時十分 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 発ノ汽車ニ搭シテ <placename corresp=\"#place_大阪\"> 大阪\n       </placename> ニ向テ発程ス、水害救済会ノ為ニ寄附金募集ノ要務ヲ以テナリ、 <persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 総裁、 <persname corresp=\"#pers_長谷場\">\n<surname> 長谷場 </surname>\n</persname> 副総裁及会員諸 <pb corresp=\"#pageB1642\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/668/full/max/0/default.jpg\" n=\"B1642\" source=\"#pageB1642\"></pb> 氏来リテ行ヲ送ル、急行列車途中滞ル事ナク、西京停車場ニテ <persname corresp=\"#pers_中川\">\n<surname> 中川 </surname>\n</persname> 氏来リ迎フ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:30:00",
+                    "text": "<time when=\"20:30:00\"> 八時半 </time>\n<placename corresp=\"#place_大阪\"> 大阪 </placename> 着、 <persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 支店長、 <persname corresp=\"#pers_熊谷辰太郎\">\n<surname> 熊谷 </surname>\n<forename> 辰太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_岩下清周\">\n<surname> 岩下 </surname>\n<forename> 清周 </forename>\n</persname> 、 <persname corresp=\"#pers_土居\">\n<surname> 土居 </surname>\n</persname> 、 <persname corresp=\"#pers_山辺\">\n<surname> 山辺 </surname>\n</persname> 其他十数名来リ迎フ、伝法屋ニ投宿ス、 <persname corresp=\"#pers_岡崎\">\n<surname> 岡崎 </surname>\n</persname> 氏、 <persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 氏等来会シテ当地勧募ニ関スル手続ヲ協議ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 就寝ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

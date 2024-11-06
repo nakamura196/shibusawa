@@ -1,0 +1,92 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-06-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、昨日 <placename corresp=\"#place_ワシントン\"> ワシントン </placename> 公使館ヘ <persname corresp=\"#pers_藤田\">\n<surname> 藤田 </surname>\n</persname> 領事ヨリ電報ヲ発シテ来ル <date when=\"1902-06-16\"> 十六日 </date> ヲ以テ同府着ノ事ヲ通知ス、 <placename corresp=\"#place_紐克府\"> 紐克府 </placename>\n<persname corresp=\"#pers_内田\">\n<surname> 内田 </surname>\n</persname> 領事及ビ <persname corresp=\"#pers_堀越\">\n<surname> 堀越 </surname>\n</persname> 氏等ヘモ同シク電報ヲ以テ来 <date evidence=\"year inferenced, month\" when=\"1902-06-13\"> 十三日\n       </date> 到着ノ事ヲ通知ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時半 </time>\n<persname corresp=\"#pers_水谷\">\n<surname> 水谷 </surname>\n</persname> 氏ノ誘引ニテ、 <placename corresp=\"#place_シカゴ\"> シカゴ市 </placename>\n<orgname> 第一国立銀行 </orgname> ニ抵リ行内ヲ一覧ス、頭取 <persname corresp=\"#pers_ホーガン\">\n<surname> ホーガン </surname>\n</persname> 氏ニ面話ス氏ハ <placename corresp=\"#place_イギリス\"> 英国 </placename>\n       スコツトランド人ニシテ十七歳ヨリ銀行事務ニ従事シ、前頭取 <persname corresp=\"#pers_ゲージ\">\n<surname> ゲージ </surname>\n</persname>\n       氏ノ抜擢ヲ得テ頭取ニ就職セル由ナリ、為人頗ル堅固老実ノ態アリ、自ラ各局ヲ案内シテ詳細ニ説明セラル、極テ深切ナリ、本行ノ資本高ハ八百万弗ニシテ現ニ預金ノ総高四千五百万弗余ナリ、而シテ利足ヲ付スルモ多キモ二分ヲ出スト云フ、割引取扱ノ順序、貸出ノ手続、各地方コルレスホンデンスノ約束等其詳細ノ事ハ\n        <persname corresp=\"#pers_清水\">\n<surname> 清水 </surname>\n</persname> 氏ヲシテ記録セシム、蓋シ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       銀行中有数ノ大銀行ト云フベシ、一覧畢テ <orgname> 第一国立銀行 </orgname> ヲ辞シ、 <persname corresp=\"#pers_水谷\">\n<surname> 水谷 </surname>\n</persname> 氏ノ茶業事務所ニ抵リ本邦茶ヲ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       ニ販売スルノ手続ヲ聴ク、更ニ <persname corresp=\"#pers_水谷\">\n<surname> 水谷 </surname>\n</persname> 氏ノ案内ニテ一料理店ニ抵リテ午飧ス、 <orgname> 第一国立銀行 </orgname> 頭取 <persname corresp=\"#pers_ホーガン\">\n<surname> ホーガン </surname>\n</persname> 氏モ来会ス、食事中銀行営業上及法律上ニ付種々ノ談話ヲ為シ、且 <persname corresp=\"#pers_清水泰吉\">\n<surname> 清水 </surname>\n<forename> 泰吉 </forename>\n</persname> ノ修行講習ヲ依頼ス、畢テ <placename corresp=\"#place_シカゴ\"> シカゴ市 </placename> ニ開店スル <orgname>\n        エリノイ貯蓄銀行 </orgname> ニ抵リ、支配人 <persname corresp=\"#pers_ヘンクル\"> ヘンクル </persname>\n       氏ニ面会シ銀行営業ノ大体ヲ質問シ、且ツ行中ノ各室ヲ一覧ス、其建築壮麗ヲ極ム、之ヲ <orgname> 第一国立銀行 </orgname>\n       ニ比スレハ彼レハ事業繁雑ニシテ取引先モ頗ル多ク所謂多々益弁ノ態アリ、之ニ反シ貯蓄銀行ハ信托業ヲ兼営スルヲ以テ其経営静粛ニシテ閑雅ノ風アリ、一覧畢テ旅宿ニ帰リ、更ニ <persname corresp=\"#pers_藤田\">\n<surname> 藤田 </surname>\n</persname> 氏ト共ニ <persname corresp=\"#pers_フエービアン\">\n<surname> フエービアン </surname>\n</persname> 氏ヲ訪フテ告別ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 41.9,
+                    "lon": -87.65,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<orgname> シカゴ青年会館 </orgname> ニ抵リ館内各室ヲ一覧ス、此青年会館ハ <placename corresp=\"#place_シカゴ\"> シカゴ市\n       </placename> 人多数ノ寄附金ニテ設立スルモノニシテ、其費額五拾万弗余、年々ノ維持費拾六万弗余ヲ要スト云フ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 41.9,
+                    "lon": -87.65,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時\n       </time> 旅宿ヲ発シ停車場ニ抵リ <placename corresp=\"#place_ピッツバーグ\"> ヒツツブルグ </placename> 行ノ汽車ニ乗組ム <lb></lb>\n<pb corresp=\"#pageB1244\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/270/full/max/0/default.jpg\" n=\"B1244\" source=\"#pageB1244\"></pb>\n<lb></lb> 此日 <placename corresp=\"#place_シカゴ\"> シカゴ </placename> ニ於テ <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ニ別レ、余ハ <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 、 <persname corresp=\"#pers_清水\">\n<surname> 清水 </surname>\n</persname> 、 <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 、 <persname corresp=\"#pers_萩原\">\n<surname> 萩原 </surname>\n</persname> ノ五氏ヲ伴フテ <placename corresp=\"#place_ピッツバーグ\"> ヒツツブルグ </placename> ノ製鉄事業ヲ一覧シ、\n        <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ハ元治、 <persname corresp=\"#pers_西河\">\n<surname> 西河 </surname>\n</persname> 嬢及 <persname corresp=\"#pers_エブリー\">\n<surname> エブリー </surname>\n</persname> ノ三氏ト共ニ <placename corresp=\"#place_ナイヤガラ瀑布\"> ナイヤガラ瀑布 </placename> ヲ一覧シ、共ニ <date when=\"1902-06-12\"> 十二日 </date> ヲ以テ <placename corresp=\"#place_フィラデルフィア\"> ヒラデルヒヤ市\n       </placename> ニ於テ相会スルヲ約ス、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ハ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 40.44167,
+                    "lon": -80.0,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> ニ出発シ、余ハ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n       ヲ以テ <placename corresp=\"#place_シカゴ\"> シカゴ </placename> ヲ出発セリ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 41.9,
+                    "lon": -87.65,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

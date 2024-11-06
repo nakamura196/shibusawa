@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-05-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、 <placename corresp=\"#place_血洗島\"> 血洗島 </placename>\n       ヨリ電報アリテ病人愈危篤ノ事ヲ通知セラル、直ニ入浴シ且朝飧ヲ食シ、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 、 <persname corresp=\"#pers_明石愛子\">\n<forename> 愛子 </forename>\n</persname> ヲ伴ヒ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 発ノ汽車ニテ <placename corresp=\"#place_血洗島\"> 血洗島\n       </placename> ニ抵ルモ、既ニ死去ノ後ナリキ、依テ家人等ト葬儀ニ関スル手続ヲ談ス、午飧後モ死者埋葬ニ関スル順序ヲ協議ス、且種々ノ準備ヲ為ス、此夜、 <placename corresp=\"#place_血洗島\"> 血洗島 </placename> ノ家ニ一泊シテ夜飧後死者ノ側ナル一室ニ於テ家族ト共ニ懐旧ノ談話ヲ為シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1910-05-28T00:00+0900\"> 十二時 </time> 過就寝 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-02-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝、 <persname corresp=\"#pers_勇助\">\n<forename> 勇助 </forename>\n</persname> へ書状遣し、同人早速出張有之度申遣す、 <persname corresp=\"#pers_勇助\">\n<forename> 勇助 </forename>\n</persname> 来る、商法之儀行れ申間敷旨申聞、昨日よりの手続荒増申聞る、午頃 <persname corresp=\"#pers_大坪七兵衛\">\n<surname> 大坪 </surname>\n<forename> 七兵衛 </forename>\n</persname> 来、頭衆より是非出勤之儀申来る、尤 <persname corresp=\"#pers_大久保一翁\">\n<forename> 一翁 </forename>\n</persname> 殿御逢被成度儀ニ付、同人以使罷越旨をも申聞る、午後同行ニ而出殿、 <persname corresp=\"#pers_大久保一翁\">\n<forename> 一翁 </forename>\n</persname> 殿面会、 <placename corresp=\"#place_水戸\"> 水戸 </placename>\n       復命之儀御不都合之儀数々仔細等被申渡、明日御請可申上儀相答、 <persname corresp=\"#pers_平岡四郎\">\n<surname> 平岡 </surname>\n<forename> 四郎 </forename>\n</persname> へも品品申談引取、夕方 <persname corresp=\"#pers_山高信離\">\n<surname> 山高 </surname>\n</persname> を訪へ、時雨庵ニ而 <persname corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persname> 面会、夜に入 <persname corresp=\"#pers_大坪\">\n<surname> 大坪 </surname>\n</persname> を訪へ、 <persname corresp=\"#pers_平岡庄七\">\n<surname> 平岡 </surname>\n<forename> 庄七 </forename>\n</persname> を訪へ、帰宿 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

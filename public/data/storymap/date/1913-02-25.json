@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-02-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、畢テ雑誌ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時\n       </time> 事務所ニ抵リ書類ヲ調査ス、後、 <persname corresp=\"#pers_渡辺甚吉\">\n<surname> 渡辺 </surname>\n<forename> 甚吉 </forename>\n</persname> 、 <persname corresp=\"#pers_三輪猶作\">\n<surname> 三輪 </surname>\n<forename> 猶作 </forename>\n</persname> 二氏来リ、 <placename corresp=\"#place_名古屋\"> 名古屋 </placename>\n       ニテ発生セシ不正手形始末ニ付、曾テ三井物産会社ヨリ依頼ノ趣旨ヲ告ケ、来書ノ写ヲ交付ス、 <placename corresp=\"#place_愛知\"> 愛知 </placename>\n       銀行ヘモ写一葉ヲ <persname corresp=\"#pers_渡辺甚吉\">\n<surname> 渡辺 </surname>\n<forename> 甚吉 </forename>\n</persname> 氏ヘ付托ス <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_高橋\">\n<surname> 高橋 </surname>\n</persname> 大蔵大臣ヘ書状ヲ発シ、昨日内話アリタル <orgname> 日本銀行 </orgname> 総裁推薦ノ件ヲ謝絶ス、新聞記者数名来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 大蔵省ニ抵リ、 <persname corresp=\"#pers_勝田\">\n<surname> 勝田 </surname>\n</persname> 次官ニ面会シテ日華合弁会社創立ニ関スル目論見書草案ヲ交付ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯邸ニ抵リ <persname corresp=\"#pers_孫文\">\n<surname> 孫 </surname>\n<forename> 文 </forename>\n</persname> 氏歓迎会ニ出席ス、伯爵、 <persname corresp=\"#pers_孫\">\n<surname> 孫 </surname>\n</persname> 氏共ニ演説アリ、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 紅葉館ニ抵リ、 <placename corresp=\"#place_東京\"> 東京 </placename> 市主催ノ <persname corresp=\"#pers_孫\">\n<surname> 孫 </surname>\n</persname> 氏歓迎会ニ出席ス、余興数番アリ、饗宴頗ル盛ナリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

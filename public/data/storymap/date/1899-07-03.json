@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-07-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、此日 <placename corresp=\"#place_大阪\"> 大坂 </placename> ニ赴クトテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:20:00",
+                    "text": "<time when=\"06:20:00\"> 午前六時二十分\n       </time> ノ汽車ニテ <placename corresp=\"#place_新橋\"> 新橋 </placename> ヲ発ス、 <persname corresp=\"#pers_今村清之助\">\n<surname> 今村 </surname>\n<forename> 清之助 </forename>\n</persname> 、 <persname corresp=\"#pers_毛利\">\n<surname> 毛利 </surname>\n</persname> 男爵、 <persname corresp=\"#pers_川上謹一\">\n<surname> 川上 </surname>\n<forename> 謹一 </forename>\n</persname> 等ノ諸氏同車ス、 <placename corresp=\"#place_大磯町\"> 大磯 </placename> ニ抵リテ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯同行セラル、車中談論頗ル盛ナリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 午後十時 </time> 過大坂ニ着ス、大坂支配店支配人 <persname corresp=\"#pers_田中元三郎\">\n<surname> 田中 </surname>\n<forename> 元三郎 </forename>\n</persname> 《（衍）》、 <persname corresp=\"#pers_伊藤与七\">\n<surname> 伊藤 </surname>\n<forename> 与七 </forename>\n</persname> 、 <persname corresp=\"#pers_中川浅七\">\n<surname> 中川 </surname>\n<forename> 浅七 </forename>\n</persname> 等来リ迎フ、停車場附近ナル伝法屋ニ投宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

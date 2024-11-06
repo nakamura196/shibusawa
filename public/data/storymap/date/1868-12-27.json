@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-12-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝、礫邸へ罷帰り、支度を整ひ出立之手続いたす、御用之儀ニ付公子拝謁いたす、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n       礫邸を発し、同行三人ニ而田安御殿へ出、印章を受取、夫より登途、雨降路あしけれは駕を雇へ、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time> 頃 <placename corresp=\"#place_品川\"> 品川 </placename> 着 <lb></lb> 壱弗 <lb></lb> 弗九千百八十九枚四分八厘　但 <lb></lb> 四十九匁九分四厘 <lb></lb>\n       此金七千六百四十八両弐分三朱弐百三十弐文 <lb></lb> 残金三百五拾壱両壱分一朱也 <lb></lb> 此日風雨強く寒威甚し、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 五時半\n       </time> 頃、 <placename corresp=\"#place_川崎\"> 川崎 </placename> 着、藤やといふ駅舎に投宿夜に入て雨歇て風稍静なりしか、寒威は更に烈し\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

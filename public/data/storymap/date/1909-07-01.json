@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-07-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、昨日負フタル疵所ノ為メ入浴スルヲ得ス、洗面シテ後朝飧ヲ食ス、 <persname corresp=\"#pers_今井清彦\">\n<surname> 今井 </surname>\n<forename> 清彦 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 家ヲ出テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:20:00",
+                    "text": "<time when=\"11:20:00\"> 十一時二十分 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 発ノ汽車ニテ <placename corresp=\"#place_横浜\"> 横浜\n       </placename> ニ抵ル、開国五十年ノ祝賀会ニ列スル為ナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_横浜\"> 横浜 </placename> 着、 <persname corresp=\"#pers_石井\">\n<surname> 石井 </surname>\n</persname> 、 <persname corresp=\"#pers_左右田\">\n<surname> 左右田 </surname>\n</persname> 二氏等ニ誘ハラレテ《（衍カ）》式場ニ抵《（ル）》リ、海岸新経営ノ税関敷地ナリ、先ツ午飧会ニ出席シ、畢テ式場ニ抵ル《（リ）》祝詞ヲ朗読ス、式畢テ余興ヲ観、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:40:00",
+                    "text": "<time when=\"16:40:00\"> 午後四時四十分 </time>\n<placename corresp=\"#place_横浜\"> 横浜 </placename> 発ノ汽車ニテ <placename corresp=\"#place_蒲田\"> 蒲田\n       </placename> ニ抵リ、菖蒲園ヲ一覧ス、又、穴守稲荷ヲ参拝シ、 <placename corresp=\"#place_蒲田\"> 蒲田 </placename> ヨリ電車ニテ\n        <placename corresp=\"#place_品川\"> 品川 </placename> ニ抵リ、更ニ市街ノ電車ニ乗更ヘテ <placename corresp=\"#place_新橋\"> 新橋 </placename> ニ抵リ、迎ノ馬車ニテ <placename corresp=\"#place_王子\"> 王子\n       </placename> ニ帰宿ス、 <placename corresp=\"#place_横浜\"> 横浜 </placename> ヨリノ帰途ハ、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 、 <persname corresp=\"#pers_明石愛子\">\n<forename> 愛子 </forename>\n</persname> 同伴ナリキ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.5613111,
+                    "lon": 139.7160944,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,89 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-04-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_江花佐七\">\n<surname> 江花 </surname>\n<forename> 佐七 </forename>\n</persname> 氏ノ来訪ニ接ス、又、 <persname corresp=\"#pers_畑弥右衛門\">\n<surname> 畑 </surname>\n<forename> 弥右衛門 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_福島甲子三\">\n<surname> 福島 </surname>\n<forename> 甲子三 </forename>\n</persname> 氏来訪ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 青山墓地ニ抵リ <persname corresp=\"#pers_三井三郎助\">\n<surname> 三井 </surname>\n<forename> 三郎助 </forename>\n</persname> 氏葬儀ニ会ス、畢リテ事務所ニ抵リ事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯ヲ <placename corresp=\"#place_早稲田\"> 早稲田 </placename> 邸ニ訪ヘ、日英同盟ニ関スル将来ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 王子ニ帰宅シ此日催ス処ノ博士会ニ出席ス、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 、 <persname corresp=\"#pers_浮田\">\n<surname> 浮田 </surname>\n</persname> 、 <persname corresp=\"#pers_姉崎\">\n<surname> 姉崎 </surname>\n</persname> 、 <persname corresp=\"#pers_上田\">\n<surname> 上田 </surname>\n</persname> 、 <persname corresp=\"#pers_成瀬\">\n<surname> 成瀬 </surname>\n</persname>\n       、米人ギユルキーノ六氏来会ス、思想界ノ改善ニ関シテ種々ノ討論ヲ為ス、先ツ愛蓮堂ニ於テ談話シ、休憩中庭園ヲ散歩シ、枯松ヲ祭ル文ヲ一覧シ、再ヒ新書斎ニ於テ談話ヲ継続シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半 </time> 夜飧、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会ス、夜、 <placename corresp=\"#place_三田\"> 三田 </placename>\n<persname corresp=\"#pers_渋沢敬三\">\n<forename> 敬三 </forename>\n</persname> 、 <persname corresp=\"#pers_加賀谷\">\n<surname> 加賀谷 </surname>\n</persname> 同行一泊ス、 <persname corresp=\"#pers_渋沢敬三\">\n<forename> 敬三 </forename>\n</persname> 修学上ニ付種々訓戒スル所アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1912-04-12T00:00+0900\"> 十二時 </time> 就寝ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-01-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、静坐入浴畢リテ朝飧ヲ食ス、二三ノ新年祝賀客ニ接シテ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\">\n        午前九時半 </time>\n<placename corresp=\"#place_永田町\"> 永田町 </placename> ニ <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 首相ヲ官邸ニ訪ヒ、 <placename corresp=\"#place_東北地方\"> 東北 </placename> 凶作ニ付救済会組織ノ事ヲ談ス、又、\n        <persname corresp=\"#pers_高田早苗\">\n<surname> 高田 </surname>\n<forename> 早苗 </forename>\n</persname> 氏、政尾博士ノ身上ニ付依頼ノ事アリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6768472,
+                    "lon": 139.7399139,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 侯爵ヲ <placename corresp=\"#place_三田\"> 三田 </placename> 邸ニ訪ヒ同シク凶作救済会ノ事ヲ談話ス、\n        <placename corresp=\"#place_三田\"> 三田 </placename> 邸ヲ訪問ス、更ニ <placename corresp=\"#place_品川\"> 品川\n       </placename> ニ <persname corresp=\"#pers_池田\">\n<surname> 池田 </surname>\n</persname> 男爵邸ヲ訪ヒ新年ヲ賀ス、帰路 <persname corresp=\"#pers_福原有信\">\n<surname> 福原 </surname>\n<forename> 有信 </forename>\n</persname> 氏ヲ訪ヒ新正ヲ賀ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_春樹街\"> 春樹街 </placename> ニ抵リテ午飧ス、小憩後、 <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 公爵邸ヲ訪ヒ <persname corresp=\"#pers_勝海舟\">\n<surname> 勝 </surname>\n</persname> 伯ノ事ニ付談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 過帰宅後、新聞紙雑誌類ヲ通覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 夜飧畢テ又雑誌類ヲ読ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 就寝 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

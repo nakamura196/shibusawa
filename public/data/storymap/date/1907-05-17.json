@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-05-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝来不快ニテ一且起床スルモ別ニ病褥ヲ設ク、褥中ニ於テ書類ヲ一覧ス、午前 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス <lb></lb>\n<placename corresp=\"#place_東京\"> 東京 </placename> ヨリ書類数多送リ来ル <lb></lb> 終日安静ニ読書又ハ遊戯ニ消閑ス <lb></lb> （欄外）\n       <lb></lb> ［誤テ此一日ヲ逸シテ次葉ニ <date evidence=\"year inferenced, month\" when=\"1907-05-15\"> 十五日 </date>\n       ノ事記載ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

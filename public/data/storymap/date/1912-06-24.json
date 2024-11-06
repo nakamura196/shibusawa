@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-06-24",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ朝飧ヲ食ス、 <persname corresp=\"#pers_矢野由次郎\">\n<surname> 矢野 </surname>\n<forename> 由次郎 </forename>\n</persname> 氏来リ <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 氏ヲ市長タラシメントノ事ニ付種々ノ事情ヲ述フ、依テ明瞭ニ余ノ意志ヲ答ヘ遣ハス、 <persname corresp=\"#pers_梅浦吾一\">\n<surname> 梅浦 </surname>\n<forename> 吾一 </forename>\n</persname> 氏来リ家政上ニ付種々ノ訓示ヲ為ス、 <persname corresp=\"#pers_伊藤真之\">\n<surname> 伊藤 </surname>\n<forename> 真之 </forename>\n</persname> 氏同 <pb corresp=\"#pageB1746\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/772/full/max/0/default.jpg\" n=\"B1746\" source=\"#pageB1746\"></pb> 伴ス、市内貧民学校後援ノ事ニ付後援会 <persname corresp=\"#pers_太田政徳\">\n<surname> 太田 </surname>\n<forename> 政徳 </forename>\n</persname> 氏来リ寄附金ノ事ヲ依頼セラル <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 事務所ニ抵リ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、後、英人 <persname corresp=\"#pers_セール\">\n<surname> セール </surname>\n</persname> 、 <persname corresp=\"#pers_キルビー\">\n<surname> キルビ </surname>\n</persname> 二氏ノ来訪ニ接シ、財政経済ニ関シテ種々ノ談話ヲ為ス、畢テ事務所ニ於テ庶務ヲ処理シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、 <persname corresp=\"#pers_皆川晃雄\">\n<surname> 皆川 </surname>\n<forename> 晃雄 </forename>\n</persname> 氏来リ聖書ヲ講義ス、夕方 <persname corresp=\"#pers_高松\">\n<surname> 高松 </surname>\n</persname> 某来リ、来ル <date evidence=\"year inferenced, day\" when=\"1912-08\"> 八月 </date>\n<placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 行ニ付送別ノ宴ヲ開ク、夜飧後家人ト共ニ散歩シテ <persname corresp=\"#pers_明石\">\n<surname> 明石 </surname>\n</persname> ノ家ニ抵ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宅ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

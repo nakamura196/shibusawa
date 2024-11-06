@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-05-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後直ニ入浴シ、畢テ朝飧ヲ為ス、食後庭中ヲ散歩シテ、本日 <orgname> 竜門社 </orgname> 春季総会ニ関スル設備ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> ヨリ <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n       ノ来客数十名先ツ来会ス、迎ヘテ庭園ヲ散歩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> ヨリ開会、 <persname corresp=\"#pers_坪井\">\n<surname> 坪井 </surname>\n</persname> 博士人類学ト博覧会ト云フ演題ニテ詳細ナル演説アリ、後、余モ常識ノ修養ト云フ演題ニテ一場ノ演説ヲ為シ、夫ヨリ韓客及内国来客六十名余ト共 <pb corresp=\"#pageB1452\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/478/full/max/0/default.jpg\" n=\"B1452\" source=\"#pageB1452\"></pb> ニ午飧ヲ為シ、食後余興ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n       頃散会、後、家人ト共ニ郊外ヲ散策シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time> 夜飧、夜読書ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

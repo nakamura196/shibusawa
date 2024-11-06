@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-05-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、朝来数多ノ来人アリ、福島県知事 <persname corresp=\"#pers_有田\">\n<surname> 有田 </surname>\n</persname> 氏、 <persname corresp=\"#pers_阪谷芳郎\">\n<surname> 阪谷 </surname>\n<forename> 芳郎 </forename>\n</persname> 氏等モ来話ス午後 <orgname> 第一銀行 </orgname> ニ出勤シテ旅行中ノ概況ヲ談話ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 京釜鉄道会社事務所ニ抵リ創立委員会ヲ開ク、 <persname corresp=\"#pers_尾崎\">\n<surname> 尾崎 </surname>\n</persname> 、 <persname corresp=\"#pers_日下\">\n<surname> 日下 </surname>\n</persname>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 諸氏来会ス、議事畢テ <placename corresp=\"#place_築地\"> 築地 </placename> メトルホール・ホテルニ抵リ\n        <placename corresp=\"#place_ベルギー\"> 白耳義 </placename> 公使ダンヌタン氏ヲ訪問ス、談話数刻、去テ外務省ニ抵リ <persname corresp=\"#pers_内田\">\n<surname> 内田 </surname>\n</persname> 次官ニ面話ス、午後 <orgname> 第一銀行 </orgname> ニ出勤ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

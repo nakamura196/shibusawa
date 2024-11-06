@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-11-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、此日モ <orgname> 三井銀行 </orgname> 新築落成披露ノ招宴アリシモ、病未タ愈ヘサルヲ以テ之ヲ辞ス、夜 <persname corresp=\"#pers_小村\">\n<surname> 小村 </surname>\n</persname> 外務大臣ヨリ案内アリタルモ同シク書状ヲ以テ謝絶ス、終日褥ニ在テ休養ス <lb></lb> （欄外） <lb></lb> ［ <placename corresp=\"#place_深川\"> 深川 </placename> 区名誉職ノ人々ヨリ午後《（飧カ）》ノ案内アリシモ同シク之ヲ謝絶ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

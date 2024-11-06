@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-08-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1265\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/291/full/max/0/default.jpg\" n=\"B1265\" source=\"#pageB1265\"></pb>\n<lb></lb> 曇又雨、明日大陸旅行ヲ為スニ付行李ヲ整理ス、過日来ベヤリング銀行ト協議セシ鉄道抵当法案ノ事ニ付、 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> ヲシテ同行ニ照会ヲナサシメシモ、同行顧問法律家ヨリ草案ノ浄写未成ナル旨ヲ申来ル、夜 <persname corresp=\"#pers_植村俊平\">\n<surname> 植村 </surname>\n<forename> 俊平 </forename>\n</persname> 来ル、明日大陸行ヲ為スニ付、頃日来ノ手続ニヨリテベヤリングトノ協議調成ノ事ヲ托ス、 <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 氏今夕ヨリ出発 <placename corresp=\"#place_ロシア\"> 露国 </placename> 旅行ヲ為スニヨリ告別ノ為メ来訪セラル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

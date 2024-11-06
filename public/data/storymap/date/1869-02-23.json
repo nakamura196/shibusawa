@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-02-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 今日御殿へ罷出候様頭より被申達四ツ頃出殿、昼後御用召御役御免御勘定頭支配中老手附被命商法之儀申上る、御入用調之儀相済候旨申上る <persname corresp=\"#pers_浜中義左衛門\">\n<surname> 浜中 </surname>\n<forename> 義左衛門 </forename>\n</persname> 来、 <persname corresp=\"#pers_北村彦次郎\">\n<surname> 北村 </surname>\n<forename> 彦次郎 </forename>\n</persname> 来 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

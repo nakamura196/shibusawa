@@ -1,0 +1,89 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-09-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床入浴シ、後、朝飧ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 家ヲ出テ\n        <placename corresp=\"#place_新橋\"> 新橋 </placename> 停車場 <pb corresp=\"#pageB1535\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/561/full/max/0/default.jpg\" n=\"B1535\" source=\"#pageB1535\"></pb> ニ抵リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 発ノ汽車ニ搭シテ <placename corresp=\"#place_興津\"> 興津 </placename> ニ抵ル、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯ノ病ヲ訪フ為メナリ、 <persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> 氏同伴ス、汽車中ニテ <persname corresp=\"#pers_山縣有朋\">\n<surname> 山県 </surname>\n</persname> 公爵ニ面話ス、其他種々ノ友人同行ス、 <placename corresp=\"#place_沼津\"> 沼津 </placename> ニ於テ他ノ汽車ニ乗替ヘ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time>\n<placename corresp=\"#place_興津\"> 興津 </placename> ニ抵ル、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯別邸ニ於テ病ヲ訪ヒ、家人其他ニ会話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 公ヲ <placename corresp=\"#place_川崎\"> 川崎 </placename> 別荘ニ訪問シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\">\n        午後四時 </time>\n<placename corresp=\"#place_興津\"> 興津 </placename> 発ノ汽車ニテ帰京ス、車中 <persname corresp=\"#pers_青山\">\n<surname> 青山 </surname>\n</persname> 博士同伴ス夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 着、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、夜、新聞紙及雑誌類ヲ読ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

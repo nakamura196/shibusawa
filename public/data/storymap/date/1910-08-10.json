@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-08-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:00:00",
+                    "text": "<time when=\"05:00:00\"> 午前五時 </time> 起床、直ニ朝飧ヲ食シ、 <persname corresp=\"#pers_鍵富\">\n<surname> 鍵富 </surname>\n</persname> 、 <persname corresp=\"#pers_佐田\">\n<surname> 佐田 </surname>\n</persname> 其他送別ノ為メ来訪セル人々ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:30:00",
+                    "text": "<time when=\"05:30:00\"> 五時半 </time> 篠田旅宿ヲ発シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:50:00",
+                    "text": "<time when=\"05:50:00\"> 五十分 </time>\n<placename corresp=\"#place_新潟\"> 新潟 </placename>\n       停車場ニ抵リ、市人士多数ノ送別ヲ受ケ、直ニ発車シテ三条ニ抵リ下車ス、地方人多ク来リ迎フ、衆楽館ニ於テ休憩ス、地方人ノ依頼ニヨリテ揮毫ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\">\n        九時 </time> 過同地小学校ニ抵リ、女子教育ニ関スル講演ヲ為ス、畢テ衆楽館ニ於テ午飧シ且地方人士ノ開催ニ係ル歓迎会ニ出席ス、一場ノ謝詞ヲ述フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 過発車ノ下列車ニテ <placename corresp=\"#place_新津\"> 新津 </placename>\n       ニ抵リ、菓城寺ト称スル寺院ニ於テ一場ノ講演ヲ為シ、時ニ風雨強クシテ同地ノ油田ヲ一覧スルヲ得ス、演説後少憩シテ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n       過発ノ上リ列車ニテ出立ス、沿道三条及 <placename corresp=\"#place_長岡\"> 長岡 </placename> 、 <placename corresp=\"#place_柏崎\"> 柏崎 </placename> 等ノ各駅ニ地方人出テ行ヲ送ラル、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:40:00",
+                    "text": "<time when=\"22:40:00\"> 十時四十分 </time>\n<placename corresp=\"#place_高田\"> 高田 </placename> ニ達ス、高陽館ニ投宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

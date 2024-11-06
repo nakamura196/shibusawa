@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-08-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "04:30:00",
+                    "text": "<time when=\"04:30:00\"> 午前四時半 </time> 起床、日記ヲ編成ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:00:00",
+                    "text": "<time when=\"05:00:00\"> 五時 </time>\n       過朝飧ヲ食シ、直ニ旅宿ヲ発シ泥濘深キ市街ノ悪路ヲ人車ニテ通過シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 六時 </time> 停車場ニ抵ル、地方多数ノ人士来リテ行ヲ送ル、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 六時半 </time> 発車ス、汽車ハ海ニ沿フテ進行ス、 <persname corresp=\"#pers_池田\">\n<surname> 池田 </surname>\n</persname> 、 <placename corresp=\"#place_帯広市\"> 帯広 </placename> 等ヲ経テ清水停車場ニ抵ル、 <persname corresp=\"#pers_小田\">\n<surname> 小田 </surname>\n</persname>\n<placename corresp=\"#place_十勝\"> 十勝 </placename> 農場長来リ迎フ、進徳駅ヨリ <placename corresp=\"#place_狩勝隧道\"> 狩勝墜道《（隧）》 </placename>\n       ニ達スル迄ノ鉄路ハ有名ナル難工事ニテ、線路ノ迂回甚シク、乗客車窓ヨリ眺望スルモ汽車ノ進行ヲ知悉シ能ハサルコトアリ、墜道《（隧）》ニ抵リテ <placename corresp=\"#place_十勝\"> 十勝 </placename> 原野ヲ一望スレハ、天涯渺茫トシテ所謂鵬翼千里ノ感アリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 42.9213861,
+                    "lon": 143.1999889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 午後九時 </time>\n<placename corresp=\"#place_旭川\"> 旭川 </placename> 駅ニ抵リ三浦屋ニ投宿ス、此日ハ午飧晩餐皆汽車中ニ於テシ、投宿後、直ニ寝ニ就ク、\n        <persname corresp=\"#pers_北垣国道\">\n<surname> 北垣 </surname>\n<forename> 国道 </forename>\n</persname> 氏モ此家ニ投宿セラレタリ、汽車停車場ニ着スル時、地方人土数名来リ迎フ <lb></lb> （欄外） <lb></lb> ■■[img図]〓■夜、 <persname corresp=\"#pers_小田\">\n<surname> 小田 </surname>\n</persname> 農場長及 <persname corresp=\"#pers_植村\">\n<surname> 植村 </surname>\n</persname> 氏等ト農場経営ノ事ヲ談ス、 <placename corresp=\"#place_石狩\"> 石狩 </placename>\n       地方ハ土地膏腴ニシテ農事進歩シ、各村ノ人煙稠密トナリタレハ、停車場ノ雑沓恰モ都会ニ似タリ、就中 <placename corresp=\"#place_岩見沢市\"> 岩見沢\n       </placename> ノ如キハ其繁盛大都近傍ニモ譲ラサルカ如シ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 43.196167,
+                    "lon": 141.775889,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

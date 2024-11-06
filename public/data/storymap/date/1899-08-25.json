@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-08-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前海外教育会書記来ル、 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 、 <persname corresp=\"#pers_谷敬三\">\n<surname> 谷 </surname>\n<forename> 敬三 </forename>\n</persname> 氏等来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<orgname> 東京商業会議所 </orgname> 役員会ニ列シ要件数項ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n       農商務省ヲ訪フモ既ニ大臣退省後ニ付 <orgname> 精養軒 </orgname> ニテ午餐シ、 <placename corresp=\"#place_銀座\"> 三十間堀 </placename>\n<persname corresp=\"#pers_杉山市松\">\n<surname> 杉山 </surname>\n<forename> 市松 </forename>\n</persname> 方ニ開キタル八重山糖業会社株主総会ニ列ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.671222,
+                    "lon": 139.765,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 日本鉄道会社重役会 <pb corresp=\"#pageB1101\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/127/full/max/0/default.jpg\" n=\"B1101\" source=\"#pageB1101\"></pb> ニ列ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 過 <placename corresp=\"#place_浜町\"> 浜町 </placename> ニ帰宿ス <lb></lb> 帰宿後 <persname corresp=\"#pers_阪谷芳郎\">\n<surname> 阪谷 </surname>\n<forename> 芳郎 </forename>\n</persname> 、 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 、 <persname corresp=\"#pers_小栗倉三郎\">\n<surname> 小栗 </surname>\n<forename> 倉三郎 </forename>\n</persname> 等ヘ書状ヲ発ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

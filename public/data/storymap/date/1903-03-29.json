@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-03-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢リ書類ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n       歌舞伎座ニ抵リ劇ヲ観ル、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 及家人同伴ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 、 <placename corresp=\"#place_飛鳥山邸\">\n        王子別荘 </placename> ニ帰宿ス、此日ノ演劇ハ加藤精忠録、俗ニ毒饅頭ト称スルモノナリ、 <persname corresp=\"#pers_市川團十郎_(9代目)\">\n<forename> 団十郎 </forename>\n</persname> ノ <persname corresp=\"#pers_清正\">\n<forename> 清正 </forename>\n</persname> 尤モ真ニ迫ル、又対面曾我アリ、二番目ニハ <persname corresp=\"#pers_天竺徳兵衛\"> 天竺徳兵衛 </persname>\n       ノ演劇、肥後ノ士人憤怒セシ事ヲ演セシモノナリシカ、其作拙ニシテ俳優モ第二流ナルヲ以テ頗ル倦怠ヲ生スルニ至レリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

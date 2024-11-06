@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-06-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後直ニ朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 六時 </time>\n<placename corresp=\"#place_南浦特別市\"> 鎮南浦 </placename> ヲ発ス、海岸ヨリ小舟ニテ平安丸ニ搭ス、 <persname corresp=\"#pers_染谷\">\n<surname> 染谷 </surname>\n</persname> 理事、 <persname corresp=\"#pers_小川\">\n<surname> 小川 </surname>\n</persname> 民長、其他軍人商業家十数名来リ送ル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 38.733,
+                    "lon": 125.4,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 六時 </time> 過出帆、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\">\n        九時 </time> 過兼二浦ニ抵リテ上陸シ、興業会社事務所ニ休足シ、午飧ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 過兼二浦発ノ汽車ニテ\n        <placename corresp=\"#place_黄州\"> 黄州 </placename> ニ抵リ、 <placename corresp=\"#place_京城府\"> 京城\n       </placename> 行ノ汽車ニ搭シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:40:00",
+                    "text": "<time when=\"21:40:00\"> 九時四十分 </time>\n<placename corresp=\"#place_京城府\"> 京城 </placename> ニ着ス、支店員其他多人数来リ迎フ、共ニ社宅ニ抵リ別後ノ要務ヲ談話ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1906-06-20T00:00+0900\"> 十二時 </time> 過寝ニ就ク "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

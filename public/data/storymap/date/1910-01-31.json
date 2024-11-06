@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-01-31",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床先ツ入浴ス、後、日記ヲ編成ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       朝飧ヲ食ス、 <persname corresp=\"#pers_長尾\">\n<surname> 長尾 </surname>\n</persname> 某来、身上ノ事ヲ依頼セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ事務ヲ処理ス、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏来リ公債借換ノ事ヲ談ス、其他二三ノ来客アリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n<orgname> 日本銀行 </orgname> ニ抵リ、各銀行ト組合規約其他ノ要務ヲ協議ス、午飧後再ヒ種々ノ談話アリ、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時\n       </time> ニ散会ス、 <persname corresp=\"#pers_鶴原定吉\">\n<surname> 鶴原 </surname>\n<forename> 定吉 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ抵リ、 <persname corresp=\"#pers_田中忠義\">\n<surname> 田中 </surname>\n<forename> 忠義 </forename>\n</persname> 父子来リテ、教育ノ事ニ関シ種々ノ注意ヲ与フ、夜飧後尚談話ヲ為ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過 <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿シ、後、 <persname corresp=\"#pers_早川\">\n<surname> 早川 </surname>\n</persname> 氏及 <persname corresp=\"#pers_東敬治\">\n<surname> 東 </surname>\n<forename> 敬治 </forename>\n</persname> 氏ニ書状ヲ裁ス、又、各銀行ヨリ大蔵大臣ヘ提出スヘキ書面ヲ起草ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-02-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前、 <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 来リ <orgname> 人造肥料会社 </orgname> ノ事ヲ談ス、 <persname corresp=\"#pers_大川平三郎\">\n<surname> 大川 </surname>\n<forename> 平三郎 </forename>\n</persname> 来リ四日市製紙会社融通金ノ事ヲ依頼セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 商業学校教員 <persname corresp=\"#pers_福田\">\n<surname> 福田 </surname>\n</persname> 、関、東、 <persname corresp=\"#pers_佐野\">\n<surname> 佐野 </surname>\n</persname> 、 <persname corresp=\"#pers_村瀬\">\n<surname> 村瀬 </surname>\n</persname> ノ五氏及 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> 同伴来訪ス、面会ノ上頃日来校長撰任ニ関スル顚末ヲ談話シ、切ニ過激ニ失スヘカラサル事ヲ忠告シ且ツ大学タラシムヘキ方法ヲ協議ス、午飧後一同都テ領意シテ去ル、\n        <persname corresp=\"#pers_福田庫文司\">\n<surname> 福田 </surname>\n<forename> 庫文司 </forename>\n</persname> 来ル、明後 <date evidence=\"year inferenced, month\" when=\"1902-02-11\"> 十一日 </date>\n       学友会開設ノ事ヲ談ス、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 来ル、磐城炭坑会社技師解雇ノ件、鑿井部ニ関スル近況及硫黄採堀ニ付テノ意見ヲ述ヘラル <lb></lb> 此日ハ病稍快方セシモ、尚家ニ在テ療養ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

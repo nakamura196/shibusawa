@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-06-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前 <persname corresp=\"#pers_竹内綱\">\n<surname> 竹内 </surname>\n<forename> 綱 </forename>\n</persname> 、 <persname corresp=\"#pers_前島密\">\n<surname> 前島 </surname>\n<forename> 密 </forename>\n</persname> 氏来リ京釜鉄道会社々長ノ事ヲ談ス、 <persname corresp=\"#pers_大原春次郎\">\n<surname> 大原 </surname>\n<forename> 春次郎 </forename>\n</persname> 来リ <orgname> 汽車製造会社 </orgname> 金融ノ事ヲ話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<orgname> 銀行倶楽部 </orgname> ニ抵リ白耳義人ヨリ勧誘セラルヽ東洋会社加盟ノ事ヲ協議ス、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 、 <persname corresp=\"#pers_瓜生震\">\n<surname> 瓜生 </surname>\n<forename> 震 </forename>\n</persname> 、 <persname corresp=\"#pers_原六郎\">\n<surname> 原 </surname>\n<forename> 六郎 </forename>\n</persname> 、 <persname corresp=\"#pers_高島小金次\">\n<surname> 高島 </surname>\n<forename> 小金次 </forename>\n</persname> 来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 過 <orgname> 第一銀行 </orgname> ニ於テ重役会ヲ開ク、畢テ\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リ台湾鉄道終局ニ関スル謝儀トシテ <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 陸軍大臣、 <persname corresp=\"#pers_児玉\">\n<surname> 児玉 </surname>\n</persname> 総督ヲ招宴ス、 <persname corresp=\"#pers_岡部\">\n<surname> 岡部 </surname>\n</persname> 子爵、 <persname corresp=\"#pers_小野\">\n<surname> 小野 </surname>\n</persname> 、 <persname corresp=\"#pers_川村\">\n<surname> 川村 </surname>\n</persname> 、 <persname corresp=\"#pers_松木\">\n<surname> 松木 </surname>\n</persname> 諸氏来会 <pb corresp=\"#pageB1141\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/167/full/max/0/default.jpg\" n=\"B1141\" source=\"#pageB1141\"></pb> ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

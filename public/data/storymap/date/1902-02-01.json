@@ -1,0 +1,115 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-02-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 総理ヲ <placename corresp=\"#place_永田町\"> 永田町 </placename> 官舎ニ訪フ、 <persname corresp=\"#pers_仙石貢\">\n<surname> 仙石 </surname>\n<forename> 貢 </forename>\n</persname> 氏同伴ス、鉄道抵当法案ノ事ヲ談スル為ナリ、面会ノ上曾テ梅法学博士ヨリ立案セラレシ書類ヲ以テ立法ノ事ヲ請願ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6768472,
+                    "lon": 139.7399139,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時\n       </time> 京釜鉄道会社ニ抵リ重役会ヲ開ク、英人 <persname corresp=\"#pers_キルビー\">\n<surname> キルビー </surname>\n</persname> 氏来話ス、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ <persname corresp=\"#pers_白岩竜平\">\n<surname> 白岩 </surname>\n<forename> 竜平 </forename>\n</persname> 氏ヨリ請求セラルヽ <placename corresp=\"#place_清\"> 清国 </placename>\n<placename corresp=\"#place_湖南\"> 湖南 </placename> 航路開設ノ事ヲ談ス、来会スル者 <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_馬越\">\n<surname> 馬越 </surname>\n</persname> 、 <persname corresp=\"#pers_園田\">\n<surname> 園田 </surname>\n</persname> 、 <persname corresp=\"#pers_近藤\">\n<surname> 近藤 </surname>\n</persname> 、 <persname corresp=\"#pers_加藤\">\n<surname> 加藤 </surname>\n</persname> 、 <persname corresp=\"#pers_岩永\">\n<surname> 岩永 </surname>\n</persname> 、 <persname corresp=\"#pers_有地\">\n<surname> 有地 </surname>\n</persname> 其他数名アリタリ、大体ニ於テハ開設ノ事ニ決シ其施設ノ法案及順序ハ余ト <persname corresp=\"#pers_近藤\">\n<surname> 近藤 </surname>\n</persname> 、 <persname corresp=\"#pers_加藤\">\n<surname> 加藤 </surname>\n</persname> 及 <persname corresp=\"#pers_白岩\">\n<surname> 白岩 </surname>\n</persname> トニ於テ担当スルモノト定メ散会セリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ書類ヲ調査シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時\n       </time> 華族会館ニ抵ル、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 同伴タリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 過キヨリ英人其他今夕ノ来客続々来会シ、手品等ノ余興アリテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 七時半 </time> 過食卓ニ列シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 頃畢ル、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1902-02-02T00:00+0900\"> 十二時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス、此宴ニ会スル者ハ英国人 <persname corresp=\"#pers_ミツチヱル\">\n<surname> ミツチヱル </surname>\n</persname> 夫妻及 <persname corresp=\"#pers_デビス\">\n<surname> デビス </surname>\n</persname> 夫妻、英国公使、 <persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 伯、 <pb corresp=\"#pageB1221\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/247/full/max/0/default.jpg\" n=\"B1221\" source=\"#pageB1221\"></pb>\n<persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 宮相夫妻、 <persname corresp=\"#pers_曾禰\">\n<surname> 曾禰 </surname>\n</persname> 蔵相、 <persname corresp=\"#pers_児玉\">\n<surname> 児玉 </surname>\n</persname> 陸相、 <persname corresp=\"#pers_後藤\">\n<surname> 後藤 </surname>\n</persname> 長官、 <persname corresp=\"#pers_浅田\">\n<surname> 浅田 </surname>\n</persname> 長官、 <persname corresp=\"#pers_目賀田\">\n<surname> 目賀田 </surname>\n</persname> 局長及英国人 <persname corresp=\"#pers_ブリンクリン\">\n<surname> ブリンクリン </surname>\n</persname> 夫妻其他主人位地ノ人々二十人計ナリ、食卓上一場ノ挨拶ヲ為シ、ミツチヱル、デビーヨリモ同様謝詞アリ、頗ル盛会ナリシ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

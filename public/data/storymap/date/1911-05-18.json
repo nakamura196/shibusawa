@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-05-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ、朝飧ヲ食ス、畢テ旅装ヲ理シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:20:00",
+                    "text": "<time when=\"07:20:00\"> 七時二十分 </time>\n<placename corresp=\"#place_神戸\"> 神戸 </placename> 発ノ汽車ニ搭ス、 <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯ハ此汽車ニテ <placename corresp=\"#place_大阪\"> 大坂 </placename> ヨリ乗組マル、車中多人数雑沓ス、\n        <placename corresp=\"#place_須磨\"> 須磨 </placename> 、 <placename corresp=\"#place_舞子\">\n<forename> 舞子 </forename>\n</placename> 、 <placename corresp=\"#place_姫路\"> 姫路 </placename> 、 <placename corresp=\"#place_三石\"> 三石 </placename> 其他ノ各駅ヲ経テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_岡山\"> 岡山 </placename> 市ニ着ス、停車場ニ迎フル者頗ル多シ、車ヲ下リテ <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯ハ <persname corresp=\"#pers_阪本金弥\">\n<surname> 阪本 </surname>\n<forename> 金弥 </forename>\n</persname> 氏余ハ <persname corresp=\"#pers_杉山岩三郎\">\n<surname> 杉山 </surname>\n<forename> 岩三郎 </forename>\n</persname>\n       氏別荘ニ抵リ午飧ス、後、高砂座ニ抵リ講演会ニ出席ス、実業ト女子教育ト題スル演題ニテ一場ノ講演ヲ為シ、畢テ後楽園ニ抵リ市人ノ歓迎会場ニ列席ス、会スル者演劇場ヨリ少キモ無慮四五百名アリ、\n        <persname corresp=\"#pers_香川\">\n<surname> 香川 </surname>\n</persname> 氏ノ歓迎ノ詞ニ次テ <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯ノ挨拶アリ、畢テ <persname corresp=\"#pers_明石\">\n<surname> 明石 </surname>\n</persname> 氏ヲ其家ニ訪ヒ午飧ヲ饗セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 七時半 </time>\n       又後楽園中ノ鳴鶴館《（鶴鳴）》ニ抵リ地方有志ノ懇親会ニ列席ス、一場ノ謝詞ヲ述フ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_杉山\"> 杉山 </placename> 別荘ニ帰ル、 <persname corresp=\"#pers_重政雄造\">\n<surname> 重政 </surname>\n<forename> 雄造 </forename>\n</persname> 来リ話ス <lb></lb> 到着後来訪者頗ル多シ、 <placename corresp=\"#place_津山\"> 津山 </placename> 人及\n        <placename corresp=\"#place_備中\"> 備中 </placename>\n<placename corresp=\"#place_井原\"> 井原 </placename> 人ヨリ来遊ヲ乞ハレシモ、時日ナキヲ以テ之ヲ謝絶ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

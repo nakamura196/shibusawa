@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-12-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝、 <persname corresp=\"#pers_比留間良八\">\n<surname> 比留間 </surname>\n<forename> 良八 </forename>\n</persname> 来、五ツ半頃出省、近日来調取掛たる戸籍編成之下調 <pb corresp=\"#pageB1049\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/75/full/max/0/default.jpg\" n=\"B1049\" source=\"#pageB1049\"></pb> 出来いたす、御布告案等草案し、 <persname corresp=\"#pers_岡本\">\n<surname> 岡本 </surname>\n</persname> 江廻ス、小札引替之儀并銭交換之事、 <persname corresp=\"#pers_林又七郎\">\n<surname> 林 </surname>\n<forename> 又七郎 </forename>\n</persname> へ引合、銭ハ不出来旨申聞る <lb></lb> 省中諸務釐正大基本相立度旨、 <persname corresp=\"#pers_岡本\">\n<surname> 岡本 </surname>\n</persname> 其外江申談す "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

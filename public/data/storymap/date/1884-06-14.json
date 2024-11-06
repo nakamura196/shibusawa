@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1884-06-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 早朝 <persname corresp=\"#pers_三条\">\n<surname> 三条 </surname>\n</persname> 公ノ旅寓ヲ訪ヒ其執事ニヨリテ、明 <date when=\"1884-06-15\"> 十五日 </date> 紡績会社開業式ニ臨場アラン事ヲ乞ヘタリシカ、公ニハ\n        <placename corresp=\"#place_箕面市\"> 箕面 </placename> 行ノ前約アルヲ以テ応シ難キ旨ノ答詞アリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.826942,
+                    "lon": 135.470439,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\">\n        午前八時 </time>\n       三軒屋紡績会社ニ抵リ社員一同ニ面会シ、工場ノ全体ヨリ器械運転操業ノ順序ヲ熟覧ス、配置極メテ整頓シテ工業頗ル練熟スルヲ覚フ、一覧後明日開業式ニ関スル事務ヲ商議シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 大阪支店ニ至リ行務ノ各項ヲ点撿ス、朝鮮支店 <persname corresp=\"#pers_大橋\">\n<surname> 大橋 </surname>\n</persname> ヘ郵書ヲ発ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n<persname corresp=\"#pers_平瀬\">\n<surname> 平瀬 </surname>\n</persname> 、 <persname corresp=\"#pers_外山\">\n<surname> 外山 </surname>\n</persname> 等ノ招請ニ応シテ <orgname> 大七楼 </orgname> ニ至ル、夜ニ入テ感冒ノ気味アルヲ以テ辞シテ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

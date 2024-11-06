@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-01-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ後、新聞紙又ハ御伝記草稿ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時\n       </time> 過朝飧ヲ食ス、畢テ <persname corresp=\"#pers_近藤正通\">\n<surname> 近藤 </surname>\n<forename> 正通 </forename>\n</persname> 氏ノ来訪ニ接ス、児等ト社会問題ニ関シテ種々ノ討論ヲ為ス、後、御伝記草稿ヲ精読シテ処々修正ノ意見ヲ付ス晩ニ至リテ閲了ス、午後 <persname corresp=\"#pers_明石照男\">\n<surname> 明石 </surname>\n<forename> 照男 </forename>\n</persname> 来ル、夕方 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 及児等ト共ニ市街ヲ散歩シ、海岸ニ抵リテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 過帰寓ス、夜飧後児等及 <persname corresp=\"#pers_明石\">\n<surname> 明石 </surname>\n</persname> 其他ト遊戯ス又、実業ノ <placename corresp=\"#place_日本\"> 日本 </placename> 雑誌ヲ読ム、 <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 氏 <persname corresp=\"#pers_竹子\">\n<forename> 竹子 </forename>\n</persname> 嬢《（たけ）》ト共ニ来話ス、 <persname corresp=\"#pers_塙忠雄\">\n<surname> 塙 </surname>\n<forename> 忠雄 </forename>\n</persname> 氏 <placename corresp=\"#place_大阪\"> 大坂 </placename> 行途中来訪セラル、 <persname corresp=\"#pers_西園寺亀次郎\">\n<surname> 西園寺 </surname>\n<forename> 亀次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_岩本栄之助\">\n<surname> 岩本 </surname>\n<forename> 栄之助 </forename>\n</persname> 二氏ヘ添書シテ群書類従ノ事ヲ申遣ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1913-01-03T00:00+0900\"> 十二時 </time> 迄雑誌ヲ読ミ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1913-01-03T00:30+0900\"> 十二時半 </time> 就寝 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

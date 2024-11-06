@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-02-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、 <persname corresp=\"#pers_安本重治\">\n<surname> 安本 </surname>\n<forename> 重治 </forename>\n</persname> 氏来ル、明日ヲ約シテ帰ル、 <persname corresp=\"#pers_松下軍治\">\n<surname> 松下 </surname>\n<forename> 軍治 </forename>\n</persname> 氏来リ <persname corresp=\"#pers_福地源一郎\">\n<surname> 福地 </surname>\n<forename> 桜痴 </forename>\n</persname> 居士ノ碑銘ヲ協議ス、 <placename corresp=\"#place_小金\"> 小金 </placename> 人 <persname corresp=\"#pers_竹田\">\n<surname> 竹田 </surname>\n</persname> 、 <persname corresp=\"#pers_梅沢\">\n<surname> 梅沢 </surname>\n</persname> 二氏来リ、 <date when=\"1913-02-21\"> 本月二十一日 </date> 故 <persname corresp=\"#pers_竹内錬太郎\">\n<surname> 竹内 </surname>\n<forename> 錬太郎 </forename>\n</persname> 建碑除幕式《（マヽ）》ニ出席ノ事ヲ乞ハル、乃チ出席ヲ約ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.8329667,
+                    "lon": 139.9309306,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n       事務所ニ抵リ、来人ニ接シ又庶務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 集会所ニ抵リ <orgname> 東京興信所 </orgname>\n       ノ評議員会ヲ開ク、畢テ事務所ニ抵リ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n       帝国劇場ニ抵リ、株主総会ヲ開キ定期総会ノ議事ヲ決ス、畢テ再ヒ事務所ニ抵リ、新聞記者又ハ <persname corresp=\"#pers_竹内綱\">\n<surname> 竹内 </surname>\n<forename> 綱 </forename>\n</persname> 、 <persname corresp=\"#pers_脇田勇\">\n<surname> 脇田 </surname>\n<forename> 勇 </forename>\n</persname> 其他種々ノ来人ニ接ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半 </time> 帰宿、夜飧後、新聞紙雑誌類ヲ一覧ス <lb></lb>\n<placename corresp=\"#place_横浜\"> 横浜 </placename> 二十七番館貿易商会主フレーキ氏来話ス <lb></lb>\n<persname corresp=\"#pers_清水一雄\">\n<surname> 清水 </surname>\n<forename> 一雄 </forename>\n</persname> 氏来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

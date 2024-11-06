@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-12-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、風強ク寒甚シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 過大坂発ノ汽車ニ搭シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時\n       </time> 西京ニ抵ル、直ニ銀行支店ニ於テ行員一同ヲ会シテ、執務上ニ関スル心得方ヲ説示シ、午餐後荒神口織物会社ニ抵リ、 <persname corresp=\"#pers_田中源太郎\">\n<surname> 田中 </surname>\n<forename> 源太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_渡辺伊之助\">\n<surname> 渡辺 </surname>\n<forename> 伊之助 </forename>\n</persname> 、 <persname corresp=\"#pers_辻川\">\n<surname> 辻川 </surname>\n</persname> 、 <persname corresp=\"#pers_中井\">\n<surname> 中井 </surname>\n</persname> 、 <persname corresp=\"#pers_船坂\">\n<surname> 船坂 </surname>\n</persname> ノ諸氏ニ面会シ、営業ノ概況ヲ聴キ且工場ヲ一覧ス、畢テ <persname corresp=\"#pers_山縣有朋\">\n<surname> 山県 </surname>\n</persname> 侯爵ヲ無隣庵ニ訪ヒ <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 旅行中ノ事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<orgname> 玉川楼 </orgname> ニ帰リ一泊ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

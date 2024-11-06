@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-03-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time>\n       起床、朝飧ヲ食シ、地方人士ノ案内ニヨリテ浅間社ニ詣ス、殿宇宏壮ナリ、宝物ヲ一覧シテ後、緑茶再製会社ヲ一覧ス、富士製茶会社ト称シテ此地方ニ於テ最モ有力ナルモノト云フ、支配人工場ヲ案内ス、用意頗ル密ナルヲ覚フ、一覧畢テ一茶亭ニ於テ\n        <placename corresp=\"#place_静岡\"> 静岡 </placename> 市長ノ招宴ニテ午飧ヲ饗セラレ、会食中地方人士ト種々ノ談話ヲ為シ、午後\n        <placename corresp=\"#place_静岡\"> 静岡 </placename> 発ノ汽車ニテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 頃\n        <placename corresp=\"#place_大磯町\"> 大磯 </placename> ニ着シ、 <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 氏別荘ニ投宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

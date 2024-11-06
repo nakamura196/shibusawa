@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-01-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、昨来寒甚シ、朝、 <persname corresp=\"#pers_熊谷辰太郎\">\n<surname> 熊谷 </surname>\n<forename> 辰太郎 </forename>\n</persname> ヨリ書状来ル、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 其他ノ各家ヘ送品ヲ <persname corresp=\"#pers_戸田\">\n<surname> 戸田 </surname>\n</persname> ヲ以テ送リ遣ス <lb></lb> 昨年春秋両度ノ <orgname> 竜門社 </orgname>\n       大会ニテ演説セシ筆記、及曾テ東京市参事会ニ於テ市街鉄道ニ関スル意見ヲ陳述セシ記録ノ草案等ヲ修正シテ <persname corresp=\"#pers_黒崎\">\n<surname> 黒崎 </surname>\n</persname> ノ帰京便ニ留守宅 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ヘ送リ遣ス、 <placename corresp=\"#place_新潟\"> 新潟 </placename> 、 <placename corresp=\"#place_四日市\"> 四日市 </placename> 、 <placename corresp=\"#place_名古屋\"> 名古屋 </placename>\n       三支店、及 <pb corresp=\"#pageB1120\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/146/full/max/0/default.jpg\" n=\"B1120\" source=\"#pageB1120\"></pb>\n<placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n<placename corresp=\"#place_京城府\"> 京城 </placename>\n<persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <placename corresp=\"#place_仁川\"> 仁川 </placename>\n<persname corresp=\"#pers_西脇\">\n<surname> 西脇 </surname>\n</persname> 、 <placename corresp=\"#place_釜山広域市\"> 釜山 </placename>\n<persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 等ヘ書状ヲ認テ同シク <placename corresp=\"#place_東京\"> 東京 </placename> ヘ送リ遣ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.1,
+                    "lon": 129.033,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

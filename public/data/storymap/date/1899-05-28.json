@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-05-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、此日ハ <placename corresp=\"#place_宇都宮\"> 宇都宮 </placename> ニ於テ開会スル下野各銀行ノ懇親会ニ列スルノ約アルヲ以テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 午後八時 </time> 過同地《（午前）》ヨリ迎ノ為ニ出京セシ <persname corresp=\"#pers_久保\">\n<surname> 久保 </surname>\n</persname> 、 <persname corresp=\"#pers_手塚\">\n<surname> 手塚 </surname>\n</persname> ノ両氏ト共ニ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ヲ発シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<placename corresp=\"#place_上野\"> 上野 </placename> ニ於テ汽車ニ搭シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n       過 <placename corresp=\"#place_宇都宮\"> 宇都宮 </placename> 着、直ニ旅宿ニ投シテ午餐シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\">\n        午後三時 </time>\n       会場ニ抵リ、経済界先進者ノ注意ヲ望ムト云フ演題ヲ以テ経済界ト政治界トノ区別ヲ明ニシ、経済界ヲ政治ノ奴隷タラシメサル事ヲ勉メ、又株式会社近来ノ弊ハ極力之ヲ矯正セサルヘカラサルノ要旨ヲ談話ス、演説畢テ獅子舞ノ余興アリ、是ハ\n        <placename corresp=\"#place_宇都宮\"> 宇都宮 </placename> 近在ノ村落ニ伝来スルモノナリト云フ、殆ント旧里 <placename corresp=\"#place_血洗島\"> 血洗島 </placename>\n       ノ獅子舞即俚言サヽラト云フ者ト同シ、依テ二曲ヲ見ル、畢テ宴会ヲ開ク、来会者凡百名一堂ニ会食ス、盃盤雑沓ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会ス\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

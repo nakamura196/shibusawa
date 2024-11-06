@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-10-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:25:00",
+                    "text": "<time when=\"08:25:00\"> 八時廿五分 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> 発ノ汽車ニテ <placename corresp=\"#place_本庄\"> 本庄\n       </placename> 駅ニ抵ル、 <persname corresp=\"#pers_竹井澹如\">\n<surname> 竹井 </surname>\n<forename> 澹如 </forename>\n</persname> 、 <persname corresp=\"#pers_高田早苗\">\n<surname> 高田 </surname>\n<forename> 早苗 </forename>\n</persname> 、 <persname corresp=\"#pers_本多静六\">\n<surname> 本多 </surname>\n<forename> 静六 </forename>\n</persname> ノ諸氏同伴ス、 <placename corresp=\"#place_浦和\"> 浦和 </placename> ヨリ木下知事同伴ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_本庄\"> 本庄 </placename> 駅ニ抵リ <persname corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persname> ノ家ニ於テ午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 駅内小学校ニテ演説会アリ、聴衆数百人、 <persname corresp=\"#pers_高田\">\n<surname> 高田 </surname>\n</persname> 、 <persname corresp=\"#pers_本多\">\n<surname> 本多 </surname>\n</persname> 二氏ト共ニ一場ノ演説ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_本庄\"> 本庄 </placename> 発ノ汽車ニテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

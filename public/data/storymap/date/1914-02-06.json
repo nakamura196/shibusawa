@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-02-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、洗面シテ朝飧ヲ食ス、支店ノ人々来訪ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time>\n<persname corresp=\"#pers_阪本\">\n<surname> 阪本 </surname>\n</persname> 市長来ル、共ニ自働車ニテ停車場ニ抵ル、 <persname corresp=\"#pers_松井\">\n<surname> 松井 </surname>\n</persname> 知事ヲ始トシテ地方人士数十名来リテ余ノ行ヲ送ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時三十分 </time>\n<placename corresp=\"#place_名古屋\"> 名古屋 </placename> 発、車中新聞紙ヲ一覧シ、又、 <persname corresp=\"#pers_金原明善\">\n<surname> 金原 </surname>\n<forename> 明善 </forename>\n</persname> 氏ノ小伝及 <persname corresp=\"#pers_松井茂\">\n<surname> 松井 </surname>\n<forename> 茂 </forename>\n</persname> 氏演説筆記等ヲ読ム、汽車中他人ノ乗合ナク終日清閑ヲ得タリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_国府津\"> 国府津 </placename> 着下車、国府津館ニ投宿ス、蓋シ <placename corresp=\"#place_大阪\"> 大阪 </placename> ヨリ留守宅ヘ書通シテ、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ニ来リテ余ノ到着ヲ待タシメタルナリ、随行ノ <persname corresp=\"#pers_増田明六\">\n<surname> 増田 </surname>\n<forename> 明六 </forename>\n</persname> ハ夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.280139,
+                    "lon": 139.2116278,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time>\n<placename corresp=\"#place_国府津\"> 国府津 </placename> 発汽車ニテ先ニ帰京ス、国府津館到着後、 <placename corresp=\"#place_東京\"> 東京 </placename> ヨリノ来書ヲ一覧シテ之ヲ整理ス、夜食後、 <persname corresp=\"#pers_森恪\">\n<surname> 森 </surname>\n<forename> 恪 </forename>\n</persname> 氏来話ス、氏ハ今夕発途シ <placename corresp=\"#place_支那\"> 支那 </placename>\n       ニ赴ク為メナリ、夜、日記ヲ編成シ又来書ヲ点撿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.280139,
+                    "lon": 139.2116278,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,66 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-04-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食シ、後、御伝記原稿ヲ調査ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:25:00",
+                    "text": "<time when=\"09:25:00\"> 午前九時二十五分\n       </time> ノ <placename corresp=\"#place_大磯町\"> 大磯 </placename> 発汽車ニテ <placename corresp=\"#place_国府津\"> 国府津 </placename> ニ抵リ <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 老公ノ僑居ヲ訪フ、 <date evidence=\"year inferenced, day\" when=\"1912-02\"> 二月 </date>\n       頃ヨリ喘息ヲ患ヒ熱気モ高カリシカ昨今ハ略全愈トノ事ナリ、御僑居ハ <persname corresp=\"#pers_大鳥\">\n<surname> 大鳥 </surname>\n</persname> 氏ノ別業ニテ頗ル山水ノ景勝タリ、持参セシ老公幼時ノ書画及 <persname corresp=\"#pers_小田又蔵\">\n<surname> 小田 </surname>\n<forename> 又蔵 </forename>\n</persname> 氏ノ秘蔵シテ其孫 <persname corresp=\"#pers_耕二\">\n<forename> 耕二 </forename>\n</persname> カ愛蔵セシ諸名家ノ書状ノ巻物ヲ御覧ニ供シ、共ニ往事ヲ回想シテ懐旧ノ談多カリキ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_大磯町\"> 大磯 </placename> ニ帰リ背後ノ小邱ヲ散歩ス、午飧後、御伝記原稿調査ニ勉ム、 <placename corresp=\"#place_東京\"> 東京 </placename>\n<persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 氏、 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> 等ヨリ書状来ル、夜飧後、遊戯ニ消閑ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

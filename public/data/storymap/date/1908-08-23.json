@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-08-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、直ニ朝飧ヲ食シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 六時三十分 </time>\n       発ノ汽車ニ搭ス、地方ノ人々停車場ニ来リテ行ヲ送ル、陸軍士官 <persname corresp=\"#pers_矢野\">\n<surname> 矢野 </surname>\n</persname> 氏、 <persname corresp=\"#pers_鈴木\">\n<surname> 鈴木 </surname>\n</persname> 氏ト共ニ同車ス製麻事業ニ関シテ種々ノ談話ヲ為ス、汽車中ニテ午飧シ、有名ナル <placename corresp=\"#place_石狩\"> 石狩 </placename>\n<placename corresp=\"#place_十勝\"> 十勝 </placename> 両国ノ境界ヲ越ヒ、汽車迂廻シテ峻阪ヲ下ル処ニ至レハ車中ノ眺望佳絶ナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:30:00",
+                    "text": "<time when=\"13:30:00\"> 午後一時半 </time>\n<placename corresp=\"#place_清水\"> 清水 </placename> 駅ニ抵リテ下車シ、是ヨリ <placename corresp=\"#place_十勝\">\n        十勝 </placename> 農場ヨリ迎ノ為メニ来レル人車ニテ原野ヲ徐行ス、 <placename corresp=\"#place_清水\"> 清水 </placename> 駅ハ汽車\n        <placename corresp=\"#place_釧路\"> 釧路 </placename>\n       ニ聯絡後僅ニ成立セル市街ニテ、住居僅少ナリ、農場ノ途中ヨリ雨降リ来リテ行程困難ナリ、牧草地ヲ一覧シテ後、 <placename corresp=\"#place_十勝\"> 十勝\n       </placename> 川ヲ渡リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 頃農場着、 <persname corresp=\"#pers_小田\">\n<surname> 小田 </surname>\n</persname> 農場長ノ家ニ宿ス、夜、農場員ヲ会シテ一場ノ訓示ヲ為ス <lb></lb> （欄外） <lb></lb> ［たち迎ふ人のこゝろにならひてや尾花もまねく里の夕暮 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-04-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、直ニ入浴シテ後、朝飧ヲ為シ、日記ヲ編成シ、又、来書ヲ撿閲ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\">\n        午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、書類ヲ調査シ来客ニ接ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\">\n        正午 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<placename corresp=\"#place_芝\"> 芝 </placename> 三縁亭ニ抵リ、 <persname corresp=\"#pers_芳川\">\n<surname> 芳川 </surname>\n</persname> 伯爵ノ開催セル皇典講究所ノ小集ニ出席ス、 <persname corresp=\"#pers_芳川\">\n<surname> 芳川 </surname>\n</persname> 氏ヨリ披露アリテ後、立食ノ饗応アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 散会、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\">\n        六時 </time>\n<placename corresp=\"#place_牛込\"> 牛込 </placename>\n<orgname> 埼玉学生誘掖会 </orgname> ニ抵リ、学生ノ催ニ係ル茶話会ニ出席ス、先ツ寄宿舎ヲ一覧シ、学生ト共ニ夜飧シ、後、一場ノ講話ヲ為ス、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 旅行談ニ加ヘテ、修学上精神修養ニ関スル要旨ヲ談ス、畢テ <placename corresp=\"#place_本郷\"> 本郷 </placename> ニ立寄リ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 過帰宿ス <lb></lb>\n<placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 人 <persname corresp=\"#pers_ヘンリー\"> ヘンリー\n       </persname> 及 <persname corresp=\"#pers_アンダーソン\">\n<surname> アンダーソン </surname>\n</persname> 氏等来リ、稷山金鉱経営ニ関スル将来ノ施設ニ付種々ノ談話ヲ為ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

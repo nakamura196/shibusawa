@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-04-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、半身浴ヲ為シテ、朝飧ヲ食ス、後、 <orgname> 万朝報 </orgname> 及 <orgname>\n        やまと新聞 </orgname> 記者ニ接見ス、 <placename corresp=\"#place_清\"> 清国 </placename>\n       公債ニ関スル広告ノ事ニ付請求ノ旨縷陳セラル <persname corresp=\"#pers_白岩竜平\">\n<surname> 白岩 </surname>\n<forename> 竜平 </forename>\n</persname> 氏来リ二松義会寄附金ノ事ヲ談ス、午飧後、 <orgname> 女子大学 </orgname> ニ抵リ卒業証書授与式及十年紀念祭ニ出席ス、一場ノ演説ヲ為ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:30:00",
+                    "text": "<time when=\"15:30:00\"> 三時半 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n<placename corresp=\"#place_サンフランシスコ\"> 桑港 </placename>\n<orgname> クロニクル新聞 </orgname> 社員 <persname corresp=\"#pers_バーレン\">\n<surname> バーレン </surname>\n</persname> 氏ニ接見ス、 <persname corresp=\"#pers_永井\">\n<surname> 永井 </surname>\n</persname> 領事ノ添書ヲ持参ス、且、頃日 <persname corresp=\"#pers_石井\">\n<surname> 石井 </surname>\n</persname> 外務次官ヨリ紹介アリタルニヨリ種々ノ談話ヲ為ス、又、 <placename corresp=\"#place_デンバー\"> デンバー </placename>\n       市人ダーン氏外数名ノ来訪アリ談話ノ後ニ帝国劇場ニ誘引ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-06-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後身体ヲ摩擦ス、 <persname corresp=\"#pers_滝兵右衛門\">\n<surname> 滝 </surname>\n<forename> 兵右衛門 </forename>\n</persname> 氏来話ス、朝飧後、 <placename corresp=\"#place_麻布\"> 麻布 </placename>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ヲ訪ヒ種々ノ要務ヲ談シ、更ニ <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 統監ヲ訪ヒ <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 行ノ事ヲ談話シ、 <persname corresp=\"#pers_古谷\">\n<surname> 古谷 </surname>\n</persname>\n<persname corresp=\"#pers_児玉\">\n<surname> 児玉 </surname>\n</persname> 二氏ト談話ス、 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 外務大臣ヲ訪問シ、 <persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 総理大臣ヲ訪問シ、各少時間ノ談話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ於テ午飧シ、食後要務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ事務ヲ処理ス、畢テ事務所ニ於テ要務ヲ談シ夜ニ入リテ <placename corresp=\"#place_飛鳥山邸\"> 王子別荘\n       </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

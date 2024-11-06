@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-10-24",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝より天気朗晴、軽風ニて波高からす、〓行頗随意なり、午後帆前船の〓行を見る <lb></lb> 此夜 <placename corresp=\"#place_アレクサンドリア\"> 阿歴散大\n       </placename> 到着之筈なれは、午後より〓行稍緩かなり、夜に入て蒸気船の〓行を見る <lb></lb> 一　弐拾九フランク　　船中シヤンハン其外代 <lb></lb>\n       一　四十フランク　　　小遣一同被下 <lb></lb> 此日重陽なれはとて、夜饌にシヤンパンを一同江被下 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 31.198,
+                    "lon": 29.9192,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

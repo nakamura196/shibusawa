@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-01-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、宿痾全愈セス、静坐シテ後半身浴ヲ為ス、畢テ朝飧ヲ食ス、 <persname corresp=\"#pers_北原峰子\">\n<surname> 北原 </surname>\n<forename> 峰子 </forename>\n</persname> 、 <placename corresp=\"#place_石部\"> 石部 </placename> 定来リ皇道会ニ関スル依頼アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<persname corresp=\"#pers_樺山愛輔\">\n<surname> 樺山 </surname>\n<forename> 愛輔 </forename>\n</persname> 米人 <persname corresp=\"#pers_ケネジー\">\n<surname> ケネジー </surname>\n</persname> 氏等来リ、国際通信業ノ件ニ関シ、 <persname corresp=\"#pers_ケネジー\">\n<surname> ケネジー </surname>\n</persname> 氏昨年 <date evidence=\"year inferenced, day\" when=\"1913-06\"> 六月 </date>\n       本邦発途以降欧米各地ニテ尽力セシ大要ヲ述ヘ、且、ロイテル社トノ通信契約ニ関スル顚末ヲ詳述ス、依テ当方爾来ノ手配ヲモ略述シ、書類ハ速ニ弁護士ニ命シテ翻訳セシムル事ヲ托ス、午飯後御伝記ヲ熟読ス、\n        <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス <lb></lb>\n<pb corresp=\"#pageB1770\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/796/full/max/0/default.jpg\" n=\"B1770\" source=\"#pageB1770\"></pb>\n<lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 氏来リ病ヲ訪ヒ、且、 <placename corresp=\"#place_日本橋\"> 日本橋 </placename>\n       区会議員撰出ノ事ニ付内話アリ、夜飧後、家人等ト種々ノ談話アリ、 <persname corresp=\"#pers_明石愛子\">\n<surname> 明石 </surname>\n<forename> 愛子 </forename>\n</persname> モ来会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 就寝 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

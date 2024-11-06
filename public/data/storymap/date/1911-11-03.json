@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-11-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、後、学友会幹事 <persname corresp=\"#pers_若山\">\n<surname> 若山 </surname>\n</persname> 氏ノ来訪ニ接ス、 <persname corresp=\"#pers_今井清彦\">\n<surname> 今井 </surname>\n<forename> 清彦 </forename>\n</persname> 氏来リテ皇典講究所ノ事ヲ談ス、 <persname corresp=\"#pers_風祭甚三郎\">\n<surname> 風祭 </surname>\n<forename> 甚三郎 </forename>\n</persname> 氏来リ教育会ニ於テ講演ノ事ヲ依頼セラル、 <persname corresp=\"#pers_神田鐳蔵\">\n<surname> 神田 </surname>\n<forename> 鐳蔵 </forename>\n</persname> 氏来リ結婚披露会ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 事務所ニ抵リ、 <persname corresp=\"#pers_久米良作\">\n<surname> 久米 </surname>\n<forename> 良作 </forename>\n</persname> 氏来訪ニ接シ瓦斯会社ノ事ヲ談ス、 <persname corresp=\"#pers_服部金太郎\">\n<surname> 服部 </surname>\n<forename> 金太郎 </forename>\n</persname> 氏来リ、其五女ノ婚儀ニ付種々ノ談話ヲ為ス、共ニ午飧ヲ為シテ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:30:00",
+                    "text": "<time when=\"13:30:00\"> 午後一時半 </time>\n<persname corresp=\"#pers_原胤昭\">\n<surname> 原 </surname>\n<forename> 胤昭 </forename>\n</persname> 氏ノ家ニ抵リ、出獄人保護ノ現況ヲ視察シ、天長節ニ付一同 <persname corresp=\"#pers_原\">\n<surname> 原 </surname>\n</persname> 氏ノ家ニ会同スルヲ以テ一場ノ訓示ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 午後二時半 </time>\n<persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢秀雄\">\n<forename> 秀雄 </forename>\n</persname> ト共ニ文部省ノ絵画展覧会ヲ一覧ス（ <placename corresp=\"#place_上野\"> 上野 </placename> 公園ニ開催セラレタルモノ）、\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 過帰宅、庭園ヲ散歩ス、 <persname corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persname> 氏来話ス、夜飧後、外務大臣開催ノ夜会ニ出席シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿ス、 <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> 寄宿舎ノ件ニ付、 <persname corresp=\"#pers_横山\">\n<surname> 横山 </surname>\n</persname> 、 <persname corresp=\"#pers_明石\">\n<surname> 明石 </surname>\n</persname> 二氏来議ス、夜会集合中ニ於テ種々ノ人ト各様ノ談話ヲ為ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

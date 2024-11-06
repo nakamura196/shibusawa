@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-09-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time>\n<placename corresp=\"#place_麻布\"> 麻布 </placename>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ヲ訪フ、九鉄会社紛議調停ノ為ナリ、参会スル者ハ <persname corresp=\"#pers_尾崎三郎\">\n<surname> 尾崎 </surname>\n<forename> 三郎 </forename>\n</persname> 《（ <persname corresp=\"#pers_尾崎三良\">\n<surname> 尾崎 </surname>\n<forename> 三良 </forename>\n</persname> ）》、 <persname corresp=\"#pers_堀部直臣\">\n<surname> 堀部 </surname>\n<forename> 直臣 </forename>\n</persname> 、 <persname corresp=\"#pers_山中隣之助\">\n<surname> 山中 </surname>\n<forename> 隣之助 </forename>\n</persname> 、 <persname corresp=\"#pers_根津嘉一郎\">\n<surname> 根津 </surname>\n<forename> 嘉一郎 </forename>\n</persname> 、 <persname corresp=\"#pers_今村清之助\">\n<surname> 今村 </surname>\n<forename> 清之助 </forename>\n</persname> 、 <persname corresp=\"#pers_麻生太吉\">\n<surname> 麻生 </surname>\n<forename> 太吉 </forename>\n</persname> 、 <persname corresp=\"#pers_山崎隆篤\">\n<surname> 山崎 </surname>\n<forename> 隆篤 </forename>\n</persname> 、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 、 <persname corresp=\"#pers_雨宮敬次郎\">\n<surname> 雨宮 </surname>\n<forename> 敬次郎 </forename>\n</persname> ノ十人トス、依テ伯ヨリ双方ヘ対スル忠告的意見ヲ述ヘラレ、種々談話ノ末仲裁ノ事ヲ了シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n       過帰宿ス、此夜、 <persname corresp=\"#pers_野崎廣太\">\n<surname> 野崎 </surname>\n<forename> 広太 </forename>\n</persname> 、 <persname corresp=\"#pers_高見亀\">\n<surname> 高見 </surname>\n<forename> 亀 </forename>\n</persname> 両氏来ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

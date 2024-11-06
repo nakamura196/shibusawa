@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-03-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、半身浴ヲ為シテ、朝飧ヲ食ス、後、日記ヲ編成ス、 <persname corresp=\"#pers_中村千代松\">\n<surname> 中村 </surname>\n<forename> 千代松 </forename>\n</persname> 氏来訪、 <orgname> 報知新聞 </orgname> 紙ニ於テ <placename corresp=\"#place_日本橋\"> 日本橋\n       </placename> 新成ノ事ニ付記載スヘキ意見ヲ求メラル、 <persname corresp=\"#pers_高松\">\n<surname> 高松 </surname>\n</persname> 、 <persname corresp=\"#pers_渡部\">\n<surname> 渡部 </surname>\n</persname> 其他ノ諸氏来リテ絵具及陶器原料製造会社ノ事ニ付種々ノ談話アリ、又、 <persname corresp=\"#pers_中野\">\n<surname> 中野 </surname>\n</persname> 、 <persname corresp=\"#pers_柿沼\">\n<surname> 柿沼 </surname>\n</persname> 二氏来リテセメント工場移転問題ニ付内談セラル、 <persname corresp=\"#pers_安達\">\n<surname> 安達 </surname>\n</persname> 氏来リ労働紹介所ノ事ニ関シテ協議ス、 <persname corresp=\"#pers_岩崎\">\n<surname> 岩崎 </surname>\n</persname> 男爵来訪セラル、 <persname corresp=\"#pers_栗木\">\n<surname> 栗木 </surname>\n</persname> 氏来話ス、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏来リセメント工場ノ事ニ関シ協議スル所アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ <placename corresp=\"#place_上野\"> 上野 </placename>\n<orgname> 精養軒 </orgname> ニ抵リ <persname corresp=\"#pers_山中隣之助\">\n<surname> 山中 </surname>\n<forename> 隣之助 </forename>\n</persname> 氏ノ婚儀披露会ニ出席ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 過帰宿ス、夜、新聞紙ヲ一覧ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

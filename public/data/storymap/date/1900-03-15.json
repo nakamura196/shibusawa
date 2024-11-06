@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-03-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前数多ノ来人アリ、午後 <orgname> 第一銀行 </orgname> 重役会ニ列ス、畢テ銀行集会所ニ出席ノ筈ナリシモ、 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ来人ノ約アルヲ以テ出席ヲ謝絶ス、夜 <persname corresp=\"#pers_広沢安宅\">\n<surname> 広沢 </surname>\n<forename> 安宅 </forename>\n</persname> 、同 <persname corresp=\"#pers_広沢弁治\">\n<forename> 弁治 </forename>\n</persname> 両氏来ル、三本木開墾会社ノ将来ニ付テ協議ス、此夜 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 、 <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> 来訪アリシモ面会スルヲ得サリシ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

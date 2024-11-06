@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-07-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前本邦留守宅、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_大橋\">\n<surname> 大橋 </surname>\n</persname> 氏等ノ五名ヘ書状ヲ発ス、 <persname corresp=\"#pers_大橋\">\n<surname> 大橋 </surname>\n</persname> ヘハ更ニ一書ノ公信ヲ発ス、又商業会議所ノ事ニ関シテハ <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 両氏ヘ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       各地商業会議所訪問ノ顚末即商工業界意志疎通ノ事ヲ報告ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> ヲ伴ヘ森村組商店及生糸合名会社ニ抵リ告別ノ辞ヲ述ヘ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> ヱクイテーブル性命保険会社ニ抵リ\n        <persname corresp=\"#pers_マユツク\">\n<surname> マユツク </surname>\n</persname> 氏ニ面会シ、社長 <persname corresp=\"#pers_アレキサンドル\">\n<surname> アレキサンドル </surname>\n</persname> 氏ト会話シ、共ニ午飧シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n       領事館ニ抵リ、夫ヨリ堀越商会、三井物産会社、同伸会社等ヲ歴訪シ、更ニホテル・エンパイルニテ <persname corresp=\"#pers_高峰\">\n<surname> 高峰 </surname>\n</persname> 氏ヲ訪ヒ、 <persname corresp=\"#pers_スチルマン\">\n<surname> スチルマン </surname>\n</persname> 氏 <pb corresp=\"#pageB1251\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/277/full/max/0/default.jpg\" n=\"B1251\" source=\"#pageB1251\"></pb> ノ留守宅ヲ訪問シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 過帰宿シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<persname corresp=\"#pers_内田\">\n<surname> 内田 </surname>\n</persname> 領事ノ宅ヲ訪ヒ本邦料理ノ饗宴ヲ享ク、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

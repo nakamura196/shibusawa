@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1904-04-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、朝飧後新聞紙ヲ読ム、 <placename corresp=\"#place_東京\"> 東京\n       </placename> 養育院 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 、 <persname corresp=\"#pers_山本徳尚\">\n<surname> 山本 </surname>\n<forename> 徳尚 </forename>\n</persname> 二氏ヨリ書状来ル、院内ノ近況ヲ報シ来ル、感化部ノ事ヲモ委シク申越サル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 、 <persname corresp=\"#pers_穂積陳重\">\n<surname> 穂積 </surname>\n<forename> 陳重 </forename>\n</persname> 夫妻同伴来訪セラル、横浜支店 <persname corresp=\"#pers_石井健吾\">\n<surname> 石井 </surname>\n<forename> 健吾 </forename>\n</persname> 夫婦来ル、 <orgname> 東京商業会議所 </orgname> 書記長 <persname corresp=\"#pers_萩原源太郎\">\n<surname> 萩原 </surname>\n<forename> 源太郎 </forename>\n</persname> 来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯来訪セラル、蓋シ伯ハ少シク咽喉ヲ損セシニヨリ昨日ヨリ蔦屋ニ来泊セラルヽニヨル、談話後帰寓ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時\n       </time> 過キ <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 帰京ス、 <persname corresp=\"#pers_萩原源太郎\">\n<surname> 萩原 </surname>\n<forename> 源太郎 </forename>\n</persname> 同行ス、養育院 <persname corresp=\"#pers_安達\">\n<surname> 安達 </surname>\n</persname> 、 <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 二氏ヘノ返書ヲ <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ニ托シテ遣ス、 <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 夫妻ハ此夜当地《（宿泊脱カ）》ニ付夜種々ノ談話ニテ時ヲ移ス、 <persname corresp=\"#pers_穂積陳重\">\n<forename> 陳重 </forename>\n</persname>\n<placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 行ノ談アリ、又 <persname corresp=\"#pers_堀越角次郎\">\n<surname> 堀越 </surname>\n<forename> 角次郎 </forename>\n</persname> ノ姉ヘ入夫ノ談ニ関シ、 <persname corresp=\"#pers_三宅\">\n<surname> 三宅 </surname>\n</persname> 、 <persname corresp=\"#pers_高木\">\n<surname> 高木 </surname>\n</persname> 二氏ヘノ内話ヲ托シ遣ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

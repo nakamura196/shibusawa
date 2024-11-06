@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-05-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_荒井達弥\">\n<surname> 荒井 </surname>\n<forename> 達弥 </forename>\n</persname> 氏来リ、来国 <placename corresp=\"#place_シアトル\"> シヤトル </placename>\n       港ニ於テ絹業開設ノ事ニ付談話ス、職工其他ノ供給ニ不便ノ理由ヲ以テ賛同シ難キ旨ヲ答フ、 <persname corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persname> 氏来リ <persname corresp=\"#pers_神谷新吾\">\n<surname> 神谷 </surname>\n<forename> 新吾 </forename>\n</persname> 生ノ身上ニ付談話ス、 <persname corresp=\"#pers_斎藤福之助\">\n<surname> 斎藤 </surname>\n<forename> 福之助 </forename>\n</persname> 氏来リ昨夜 <placename corresp=\"#place_日本橋\"> 日本橋 </placename> 倶楽部ニ出席ノ挨拶アリ <lb></lb>\n<persname corresp=\"#pers_明石照男\">\n<surname> 明石 </surname>\n<forename> 照男 </forename>\n</persname> 来リテ家事ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 47.60972,
+                    "lon": -122.33306,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 事務所ニ抵リ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、後、再ヒ事務所ニ抵リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、此日、昔夢会ヲ開キ <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 老公ヲ始メ編輯局員悉ク来会ス、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname>\n<persname corresp=\"#pers_三上\">\n<surname> 三上 </surname>\n</persname> 、 <persname corresp=\"#pers_稲葉\">\n<surname> 稲葉 </surname>\n</persname> 、 <persname corresp=\"#pers_三島\">\n<surname> 三島 </surname>\n</persname> 、 <persname corresp=\"#pers_猪飼\">\n<surname> 猪飼 </surname>\n</persname> ノ諸氏モ来会ス、愛蓮堂ニテ会談シ、畢リテ囲碁会アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 頃夜飧ヲ了リテ再ヒ囲碁会アリ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 頃散会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

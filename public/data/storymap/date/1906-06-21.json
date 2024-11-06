@@ -1,0 +1,89 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-06-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後日誌ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ畢リ来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 午前十時半 </time>\n<persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 氏ヲ伴ヒ <persname corresp=\"#pers_鶴原\">\n<surname> 鶴原 </surname>\n</persname> 総務長官ヲ訪ヒ、 <orgname> 第一銀行 </orgname> ニ関スル詳細ノ談話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時\n       </time> 過帰寓、午飧ス、食後数多ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> ヨリ昌徳宮ヲ一覧ス、 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 氏以下各支店員随行ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 過帰寓、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時\n       </time> 日本人倶楽部ニ抵リ、今夕開催スル京城諸官憲、韓国大官其他貴紳ノ招宴ニ出席シ一場ノ謝辞演説ヲ為ス、 <persname corresp=\"#pers_長谷川\">\n<surname> 長谷川 </surname>\n</persname> 大将及韓国参政 <persname corresp=\"#pers_朴斉純\">\n<surname> 朴 </surname>\n<forename> 斉純 </forename>\n</persname> 二氏答辞アリ、庭中種々ノ余興アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time> 過ヨリ食堂及摸擬店ヲ開ク、賓客悉ク歓ヲ尽シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会ス、来会者凡弐百人、頗ル盛宴ナリキ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

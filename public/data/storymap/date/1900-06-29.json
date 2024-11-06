@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-06-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇夕雨、此日ハ静岡商工会発会式ニ招宴セラレタルニヨリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:20:00",
+                    "text": "<time when=\"06:20:00\"> 午前六時二十分 </time> ノ汽車ニテ <placename corresp=\"#place_新橋\"> 新橋 </placename> ヲ発シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n<placename corresp=\"#place_静岡\"> 静岡 </placename> ニ着ス、 <persname corresp=\"#pers_森理七\">\n<surname> 森 </surname>\n<forename> 理七 </forename>\n</persname> 、 <persname corresp=\"#pers_松平隼太郎\">\n<surname> 松平 </surname>\n<forename> 隼太郎 </forename>\n</persname> 同行ス、大東館ニ入リテ休憩ス、汽車場ニハ商工会員数十名来リ迎フ、且 <placename corresp=\"#place_沼津\"> 沼津 </placename>\n       マテ幹事三名出張セリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 午後二時半 </time>\n<orgname> 浮月楼 </orgname>\n       ニ抵ル、会スル者五百名余、楼ノ上下来集会員ニテ充塡ス、幹事其他ノ披露演説アリタル後、壇上ニ於テ一場ノ演説ヲ為ス、（商工業ノ前途ト題スル趣旨ヲ以テ既往将来ニ渉ルノ経歴ト企望トヲ述ヘ、且地方人士ノ敢為気象ヲ有セラルヽ事ヲ奨励ス）畢テ園遊会ヲ開ク、降雨至ルヲ以テ庭上ノ散歩意ノ如クナル能ハス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<orgname> 求友楼 </orgname> ニ抵リ静岡銀行者及商業会議所員ノ催シタル宴会ニ出席ス、席上商業ト学問ノ関係ニ付テ一場ノ演説ヲ為ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 宴散シテ大東館ニ帰宿ス、此日 <persname corresp=\"#pers_大川平三郎\">\n<surname> 大川 </surname>\n<forename> 平三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_荒木民三郎\">\n<surname> 荒木 </surname>\n<forename> 民三郎 </forename>\n</persname> 二氏各其会社ノ公務ニテ <placename corresp=\"#place_静岡\"> 静岡 </placename> ニ来ルニ会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

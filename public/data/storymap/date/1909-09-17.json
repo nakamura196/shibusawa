@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-09-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、車中ニテ支度ヲ整ヒ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 七時半 </time> 朝飧ヲ食ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time> 頃 <placename corresp=\"#place_ヒビツク\"> ヒビツク </placename>\n       ニ着ス、直ニ下車シテ鉄鉱ヲ見ル、スチビンソント称スル鉱ナリ産額五十万噸余、極力産出セハ百五十万噸ヲ得ヘシト云フ、費額及利益等ノ割合ハ壱噸概算三弗ヲ要シ、 <placename corresp=\"#place_クリーブランド_(オハイオ州)\"> クリヒランド </placename>\n       ニ於テ四弗ニ売却スレハ壱弗ノ利益アリト云フ、尋テマホニングト称スル鉄鉱ヲ一覧シ、又、ハルト云フ鉄鉱ヲ見ル、共ニ前者ト同方法ノ採堀ナリ、而シテハルト云フハ一年凡三百万噸ヲ産出スト云フ、其仕掛ノ広大ナル只驚クニ堪ヘタリ、午飧後車中ニテ同行中ノ米人ヨリ一場ノ演説アリ、又、\n        <orgname> セントホール新聞 </orgname> 記者ノ訪問ニ接シテ一場ノ談話ヲ為ス、夕方ダルーズニ着シ、鉱石ヲ湖水運搬ノ船舶ニ積込ノ桟橋ヲ見ル、実ニ愕クヘキ大規模ナリ、畢テ\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 41.48222,
+                    "lon": -81.66972,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 七時半 </time> ダルーズノ客舎ニ投宿ス <lb></lb> 但夜飧後ナレハ、単ニ入浴シテ後、日記ヲ編成ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-05-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ、朝飧ヲ食ス、後、来人ニ接ス <lb></lb>\n<placename corresp=\"#place_白河\"> 白河 </placename>\n<persname corresp=\"#pers_楽翁\"> 楽翁 </persname>\n       公ノ起誓文ヲ浄写ス、蓋シ養育院ニ寄附スル為メナリ、且、其添書ヲ作リテ本院ト分院トニ各一通宛ヲ作リタリ、午飧後ヨリ天気稍晴レテ <orgname> 竜門社 </orgname>\n       員続々来会ス、 <persname corresp=\"#pers_丘\">\n<forename> 丘 </forename>\n</persname> 博士進化的衛生説アリテ一同興味ヲ覚フ、終ニ余ノ一場ノ訓示演説アリテ後園遊会ニ移リ、各処ニ露店又ハ種々ノ余興アリ、一同歓ヲ尽シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 散会ス、夜、新聞紙又ハ雑誌類ヲ読ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-07-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "04:00:00",
+                    "text": "<time when=\"04:00:00\"> 午前四時 </time> 過起床、直ニ朝飧ヲ喫シ旅装ヲ整ヒ、一行旅宿ヲ発シテ <placename corresp=\"#place_長野\">\n        長野 </placename> 停車場ニ抵リ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:50:00",
+                    "text": "<time when=\"05:50:00\"> 五時五十分 </time> 発ノ一番汽車ニ搭シ、 <placename corresp=\"#place_豊野\"> 豊野 </placename> 、 <placename corresp=\"#place_高田\"> 高田 </placename>\n       等ノ各停車場ヲ経テ <placename corresp=\"#place_直江津市\"> 直江津 </placename> ニ抵ル、 <persname corresp=\"#pers_岸宇吉\">\n<surname> 岸 </surname>\n<forename> 宇吉 </forename>\n</persname> 、 <persname corresp=\"#pers_長部松太郎\">\n<surname> 長部 </surname>\n<forename> 松太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_小畔亀太郎\">\n<surname> 小畔 </surname>\n<forename> 亀太郎 </forename>\n</persname> 三氏来リ迎フ、一行ニ加ハリテ <placename corresp=\"#place_直江津市\"> 直江津 </placename>\n       ヲ発シ、是ヨリ北越鉄道会社ノ線路ニテ <placename corresp=\"#place_柏崎\"> 柏崎 </placename>\n       ニ抵ル、日本石油会社重役等、柏崎銀行重役等モ来リ迎フ、 <persname corresp=\"#pers_牧口義矩\">\n<surname> 牧口 </surname>\n<forename> 義矩 </forename>\n</persname> 氏来リ汽車中ニテ午飧ヲ饗セラル、調理頗ル佳ナリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 37.17492,
+                    "lon": 138.24525,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時三十分 </time>\n<placename corresp=\"#place_長岡\"> 長岡 </placename> ニ抵ル、同地銀行者、商業会議所議員等多数来リ迎フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_長岡\"> 長岡 </placename> ヲ発シ、久住、 <persname corresp=\"#pers_朝比奈\">\n<surname> 朝比奈 </surname>\n</persname> 等ノ諸氏又一行ニ加ハリ、送リテ <placename corresp=\"#place_新潟\"> 新潟 </placename> ニ抵ル "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<placename corresp=\"#place_新潟\"> 新潟 </placename>\n       着、停車場（万代橋）ニハ本県知事始高等官其他多人数来リ迎フ、夫ヨリ車ヲ馳テ三ノ町会津屋ニ投宿ス、入浴後来訪人数多ニ接シ、銀行員ニ向テ一場ノ訓示ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 過鍋茶屋ニ抵リ地方有志者ノ招宴ニ出席シ、一場ノ挨拶且経済上ニ関ス意見《（ル脱カ）》ノ概略ヲ述ヘ、酒間数番ノ余興アリテ夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 宴散シテ、旅宿ニ帰ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

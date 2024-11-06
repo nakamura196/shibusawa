@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-01-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、感冒ノ気未愈ナルニヨリ入浴ヲ廃ス、朝来日記ヲ編成シ書類ヲ整理ス、今朝 <persname corresp=\"#pers_塙忠雄\">\n<surname> 塙 </surname>\n<forename> 忠雄 </forename>\n</persname>\n<placename corresp=\"#place_大阪\"> 大坂 </placename> ヨリ帰京スルトテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n       頃訪問セラレシモ、面会セス、午前、 <placename corresp=\"#place_東京\"> 東京 </placename>\n<orgname> 第一銀行 </orgname> 文書課ヨリ来状アリ、本季営業景況ノ原稿ヲ寄《（マヽ）》セル、依テ直ニ修正シ、且、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ヘ要務ヲ申送ル為メ一書ヲ添ヘ、 <persname corresp=\"#pers_原一郎\">\n<surname> 原 </surname>\n<forename> 一郎 </forename>\n</persname> 氏ノ幸便ニ托シテ返却ス、 <persname corresp=\"#pers_松下軍次\">\n<surname> 松下 </surname>\n<forename> 軍次 </forename>\n</persname> 氏《（ <persname corresp=\"#pers_松下軍治\">\n<surname> 松下 </surname>\n<forename> 軍治 </forename>\n</persname> 氏）》ヨリ浦賀船渠会社ノ事ニ関シテ電話アリ、 <date evidence=\"year inferenced, month\" when=\"1913-01-12\">\n        十二日 </date> 同氏帰京後面会談話ノ事ヲ約ス、 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師ヨリ電話ニテ <persname corresp=\"#pers_渋沢敬三\">\n<forename> 敬三 </forename>\n</persname> ノ病症ヲ申来ル、 <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 氏帰京スルトテ訪来ル、午飧後、 <persname corresp=\"#pers_山川逸郎\">\n<surname> 山川 </surname>\n<forename> 逸郎 </forename>\n</persname> 氏来訪ス、病ノ為メ此日旧里ニ帰省スルトノ事ナリ、 <persname corresp=\"#pers_渋沢秀雄\">\n<forename> 秀雄 </forename>\n</persname> ハ <persname corresp=\"#pers_竹田\">\n<surname> 竹田 </surname>\n</persname> 氏ト同行シテ帰京ス、夕方ヨリ武蔵武士及 <persname corresp=\"#pers_矢野二郎\">\n<surname> 矢野 </surname>\n<forename> 二郎 </forename>\n</persname> 伝ノ序文ヲ修正ス、起稿ヨリ最後ノ修正ニ至ルマテ都合三回ノ浄写ヲ為ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1913-01-09T00:00+0900\"> 十二時\n       </time> ニ脱稿スルヲ得タリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1913-01-09T00:30+0900\"> 十二時半 </time> 就寝ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

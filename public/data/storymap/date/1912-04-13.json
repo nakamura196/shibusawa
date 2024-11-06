@@ -1,0 +1,114 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-04-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_畑弥右衛門\">\n<surname> 畑 </surname>\n<forename> 弥右衛門 </forename>\n</persname> 、 <persname corresp=\"#pers_横山三蔵\">\n<surname> 横山 </surname>\n<forename> 三蔵 </forename>\n</persname> 、 <persname corresp=\"#pers_井上元吉\">\n<surname> 井上 </surname>\n<forename> 元吉 </forename>\n</persname> 等ノ諸氏来訪、各請求ノ事項ヲ申出ラル、畢テ日記ヲ編成ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_巣鴨\"> 巣鴨 </placename> 養育院分院ニ抵リ貧児ヲ一覧ス、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 、 <persname corresp=\"#pers_高田慎吾\">\n<surname> 高田 </surname>\n<forename> 慎吾 </forename>\n</persname> 二氏来会ス、畢テ <placename corresp=\"#place_大塚\"> 大塚 </placename> 本院ニ抵リ、 <persname corresp=\"#pers_安達\">\n<surname> 安達 </surname>\n</persname> 、 <persname corresp=\"#pers_高畠\">\n<surname> 高畠 </surname>\n</persname> 、 <persname corresp=\"#pers_桜井\">\n<surname> 桜井 </surname>\n</persname> 氏等ト院務ヲ談シ尋テ院内ヲ一覧ス、院ニテ午飧ヲ為シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7337972,
+                    "lon": 139.7390889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 女子大学校 </orgname> ニ抵リ卒業証書授与式ニ出席ス、一場ノ訓示ト会計報告ヲ為シテ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<orgname> 三井銀行 </orgname> ニ抵リ、更ニ <placename corresp=\"#place_芝\"> 芝 </placename>\n<orgname> 福住楼 </orgname> ニテ東沢潟氏《（ <persname corresp=\"#pers_東沢瀉\">\n<surname> 東沢瀉 </surname>\n</persname> 氏）》ノ贈位祝賀会ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_枕橋\"> 枕橋 </placename>\n<orgname> 八百松楼 </orgname> ニテ <placename corresp=\"#place_深川\"> 深川 </placename>\n       鷗盟会ノ集会ニ出席シ一場ノ挨拶ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> ニテ夜飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_日本橋蛎殻町\"> 蠣殻町 </placename> 商業夜学校ニ抵リ一場ノ演説ヲ為ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6818139,
+                    "lon": 139.7835056,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:30:00",
+                    "text": "<time when=\"20:30:00\">\n        八時半 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ於テ帝劇ノ為歌劇ノ演習ヲ聴ク、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-01-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝、帰省支度相整、四ツ半頃明神下発、此日 <persname corresp=\"#pers_大村昇之助\">\n<surname> 大村 </surname>\n<forename> 昇之助 </forename>\n</persname> といふ者召抱但 <persname corresp=\"#pers_須永伝蔵\">\n<surname> 須永 </surname>\n<forename> 於莵之助 </forename>\n</persname> より被相頼ニ付召連る、外ニ <persname corresp=\"#pers_幸蔵\">\n<forename> 幸蔵 </forename>\n</persname> といふをも相随ひ、夕方 <placename corresp=\"#place_浦和\"> 浦和 </placename> 宿に至一泊 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

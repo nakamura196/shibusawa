@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-10-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝より風強く〓行速かなり、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:30:00",
+                    "text": "<time when=\"21:30:00\"> 九時半 </time>\n<placename corresp=\"#place_メッシーナ\"> メシーナ </placename> 着、暫時投錨休息いたす <placename corresp=\"#place_マルセイユ\"> 馬港 </placename> より此に至る六百八十八里、五十時間ニ而到着せり、船行の順にして速なる可知也、 <placename corresp=\"#place_メッシーナ\"> メシーナ </placename> ニ而御上陸、海岸の市街御遊歩、一同御供いたす、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 38.183,
+                    "lon": 15.55,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:30:00",
+                    "text": "<time when=\"23:30:00\">\n        十一時半 </time> 同所発釘《（〓）》 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

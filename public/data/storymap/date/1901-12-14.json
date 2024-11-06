@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-12-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<date evidence=\"year inferenced\" when=\"1901-12-14\"> 十二月十四日 </date> 、 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 邸ニ於テ <orgname> 竜門社 </orgname>\n       月次会アリ、席上我邦近代ノ歴史ニ関シ鎖国開港ノ原因ニ付意見ヲ述ヘ、且ツ <persname corresp=\"#pers_ケンプル\">\n<surname> ケンプル </surname>\n</persname> 氏著鎖国論、 <persname corresp=\"#pers_グリヒース\">\n<surname> グ <pb corresp=\"#pageB1214\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/240/full/max/0/default.jpg\" n=\"B1214\" source=\"#pageB1214\"></pb> リヒース </surname>\n</persname> 氏著皇国、及米国公使 <persname corresp=\"#pers_タウンゼント_ハリス\">\n<forename> タウンセント </forename> ・ <surname> ハルリス </surname>\n</persname> 氏奉使日記等ノ事ヲ談話ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

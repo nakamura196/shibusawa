@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-06-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後昨夜到来セル書状ヲ点撿ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 七時半 </time> 朝飧、畢テ応接所ニテ数多ノ来人ニ接ス、 <persname corresp=\"#pers_長谷川\">\n<surname> 長谷川 </surname>\n</persname> 大将、 <persname corresp=\"#pers_目賀田\">\n<surname> 目賀田 </surname>\n</persname> 顧問、 <persname corresp=\"#pers_鶴原\">\n<surname> 鶴原 </surname>\n</persname> 長官、 <persname corresp=\"#pers_加藤\">\n<surname> 加藤 </surname>\n</persname> 顧問等モ来訪セラル、 <persname corresp=\"#pers_目賀田\">\n<surname> 目賀田 </surname>\n</persname> 、 <persname corresp=\"#pers_鶴原\">\n<surname> 鶴原 </surname>\n</persname> 両氏トハ種々ノ要務ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 支店員一同ト共ニ午飧シ、 <date evidence=\"year inferenced, month\" when=\"1906-06-23\"> 廿三日 </date> ヲ以テ支店会開催ノ事及其他ノ要務ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 過ヨリ来客ニ接シ、又 <placename corresp=\"#place_東京\"> 東京 </placename>\n<persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏、 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 其他ヘノ書状ヲ作リ之ヲ発ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 午後八時 </time> ヨリ <orgname> 掬翠楼 </orgname>\n       ニ抵リ、地方有志者ノ催シタル歓迎会ニ出席ス、一場ノ演説ヲ為ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿就寝 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

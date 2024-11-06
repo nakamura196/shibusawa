@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-08-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1204\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/230/full/max/0/default.jpg\" n=\"B1204\" source=\"#pageB1204\"></pb>\n<lb></lb> 晴、午前 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ来客ニ接シ且事務ヲ処理ス、午後 <orgname>\n        第一銀行 </orgname> 重役会ヲ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ開ク、畢テ <placename corresp=\"#place_深川\"> 深川 </placename> 宅ニ帰宿ス、此夜 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 未亡人ヲ招テ将来ノ事ヲ懇諭ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

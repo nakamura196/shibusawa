@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-01-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後来人ニ接シ、且朝飧ヲ為ス、 <persname corresp=\"#pers_中井三郎兵衛\">\n<surname> 中井 </surname>\n<forename> 三郎兵衛 </forename>\n</persname> 、 <persname corresp=\"#pers_島田蕃根\">\n<surname> 島田 </surname>\n<forename> 蕃根 </forename>\n</persname> 、 <persname corresp=\"#pers_松本新三郎\">\n<surname> 松本 </surname>\n<forename> 新三郎 </forename>\n</persname> 氏等来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <orgname> 人造肥料会社 </orgname>\n       重役会ヲ開ク、 <persname corresp=\"#pers_竹田\">\n<surname> 竹田 </surname>\n</persname> 、 <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 、 <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 、技師数名、 <persname corresp=\"#pers_犬丸\">\n<surname> 犬丸 </surname>\n</persname> 氏モ来会ス、畢テ旧日鉄社員 <persname corresp=\"#pers_大藪\">\n<surname> 大藪 </surname>\n</persname> 、 <persname corresp=\"#pers_堀江\">\n<surname> 堀江 </surname>\n</persname> 二氏ト種々ノ談話ヲ為ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> ヨリ日本汽船会社設立ノ事ニ関シ <persname corresp=\"#pers_内田\">\n<surname> 内田 </surname>\n</persname> 局長及船主数名来会シ、書類ヲ審議シ発起人総会ニ関スル手続ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n       銀行集会所総会ニ出席シ、畢テ晩飧ヲ為シ、帰路番町ニ一友人ヲ訪ヒ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ヘ別宿《（帰）》ス <lb></lb> 此日少シク感冒ノ気味ナリキ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

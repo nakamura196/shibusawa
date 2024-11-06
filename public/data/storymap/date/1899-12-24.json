@@ -1,0 +1,65 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-12-24",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前日報社員来ル、経済上ノ意見ヲ談ス、午後 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宅ス、 <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 、 <persname corresp=\"#pers_船坂\">\n<surname> 船坂 </surname>\n</persname> 二氏来ル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename> 香雪軒ニ抵リ <persname corresp=\"#pers_田中源太郎\">\n<surname> 田中 </surname>\n<forename> 源太郎 </forename>\n</persname> 氏ト共ニ <persname corresp=\"#pers_藤田\">\n<surname> 藤田 </surname>\n</persname> 農商務次官、 <persname corresp=\"#pers_木内\">\n<surname> 木内 </surname>\n</persname> 、 <persname corresp=\"#pers_美濃部\">\n<surname> 美濃部 </surname>\n</persname> 、 <persname corresp=\"#pers_崎川\">\n<surname> 崎川 </surname>\n</persname> 、 <persname corresp=\"#pers_手島精一\">\n<surname> 手島 </surname>\n<forename> 精一 </forename>\n</persname> ノ諸氏ヲ招宴ス、 <persname corresp=\"#pers_船坂八郎\">\n<surname> 船坂 </surname>\n<forename> 八郎 </forename>\n</persname>\n<placename corresp=\"#place_フランス\"> 仏蘭西 </placename> ヨリ帰朝セシニヨリ其修業中ノ事ヲ報告スル為ナリ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九 <pb corresp=\"#pageB1116\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/142/full/max/0/default.jpg\" n=\"B1116\" source=\"#pageB1116\"></pb> 時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 宅ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

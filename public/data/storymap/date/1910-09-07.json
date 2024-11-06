@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-09-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シテ、朝飧ヲ食ス、朝来 <placename corresp=\"#place_高崎\"> 高崎\n       </placename> 知事其他 <placename corresp=\"#place_大阪\"> 大坂 </placename> 人士多ク来訪ス、 <persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 氏等ト寄附金勧募ノ事ヲ協議シ、午飧後 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time> 発ノ汽車ニテ <placename corresp=\"#place_神戸\"> 神戸 </placename> ニ抵ル、 <placename corresp=\"#place_大阪\"> 大坂 </placename>\n       ノ諸士来リテ送別ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<placename corresp=\"#place_神戸\"> 神戸 </placename> ニ着ス、 <persname corresp=\"#pers_岸崎昌\">\n<surname> 岸崎 </surname>\n<forename> 昌 </forename>\n</persname> 氏来リ迎フ、先ツ <orgname> 第一銀行 </orgname> 支店ニ抵リ、夫ヨリ、 <persname corresp=\"#pers_岸崎\">\n<surname> 岸崎 </surname>\n</persname> 、 <persname corresp=\"#pers_岡崎\">\n<surname> 岡崎 </surname>\n</persname> 氏ト共ニ <persname corresp=\"#pers_服部\">\n<surname> 服部 </surname>\n</persname> 知事ヲ訪ヒ、更ニ市長ノ家ヲ訪ヒ、 <placename corresp=\"#place_湊川\"> 湊川 </placename> ニ抵リ、 <placename corresp=\"#place_川崎\"> 川崎 </placename> 、 <persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 二氏ヲ訪フ、又、市役所ニテ <placename corresp=\"#place_鹿島\"> 鹿島 </placename> 市長ト寄附金勧募ノ事ヲ談ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 過商業会議所ニ抵リ、此日来会セル <placename corresp=\"#place_神戸\"> 神戸\n       </placename> 人ニ水害救済会寄附金勧募ノ次第ヲ演説ス、畢テ知事ヨリ尚ホ助力ヲ請フ旨ヲ述ヘラレ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 午後六時半 </time> ヨリ\n        <placename corresp=\"#place_兵庫\"> 兵庫 </placename> 常盤花壇ニテ <persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 氏ヨリ招宴アリ、此夜、雨強ク <placename corresp=\"#place_神戸\"> 神戸 </placename>\n       近傍川々水増シテ汜濫ノ警報アリタリ、此夜、常盤花壇ニ止宿ス <lb></lb> （欄外） <lb></lb> ［ <persname corresp=\"#pers_伊藤与七\">\n<surname> 伊藤 </surname>\n<forename> 与七 </forename>\n</persname> 氏ニ書状ヲ付シテ <placename corresp=\"#place_名古屋\"> 名古屋 </placename> ニ赴カシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-04-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ後、朝飧ヲ食ス、揮毫ノ依頼ニヨリ数十枚ヲ書ス、又、来人ニ接ス、此日ハ <placename corresp=\"#place_東山\"> 東山 </placename> ヲ跋渉スヘキ事ヲ <persname corresp=\"#pers_中井三郎兵衛\">\n<surname> 中井 </surname>\n<forename> 三郎兵衛 </forename>\n</persname> 氏ト約シテ轎輿ノ用意セシ由ナレトモ雨ノ為メニ之ヲ果スヲ得ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_円山\"> 円山 </placename> ニ <persname corresp=\"#pers_村井吉兵衛\">\n<surname> 村井 </surname>\n<forename> 吉兵衛 </forename>\n</persname> 氏ノ別荘ヲ訪ヒ午飧ノ饗応アリ、 <placename corresp=\"#place_イギリス\"> 英国 </placename> 人数名来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<persname corresp=\"#pers_中川\">\n<surname> 中川 </surname>\n</persname> 氏、 <persname corresp=\"#pers_松井\">\n<surname> 松井 </surname>\n</persname> 氏等ト <placename corresp=\"#place_京阪\"> 京阪 </placename> 電車ニ搭シテ伏水ニ抵リ、 <orgname> 第一銀行\n       </orgname> 出張所ヲ一覧ス、 <persname corresp=\"#pers_小林秀明\">\n<surname> 小林 </surname>\n<forename> 秀明 </forename>\n</persname> 来リ迎ヘテ種々ノ説明ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n       再ヒ電車ニテ五条ノ起点ニ帰リ、夫ヨリ銀行集会所ニ抵リ地方銀行者ヨリノ歓迎ヲ受ク、講習所ニ於テ徒弟ニ対シ一場ノ演説ヲ為ス、宴会畢テ <placename corresp=\"#place_岡崎村\"> 岡崎村 </placename>\n<persname corresp=\"#pers_中井\">\n<surname> 中井 </surname>\n</persname> 氏別業ニ抵ル、 <placename corresp=\"#place_東山\"> 東山 </placename> ニ沿フテ構造清雅、水アリ秀清ナリ、\n        <placename corresp=\"#place_京都\"> 京都 </placename> 織物会社ヨリノ饗宴ニテ接待頗ル鄭重ナリ、夜飧後数番ノ余興アリ、 <persname corresp=\"#pers_片山\">\n<surname> 片山 </surname>\n</persname> 老婦ノ舞技尤モ其妙ヲ極ム、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散宴、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

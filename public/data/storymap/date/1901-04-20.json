@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-04-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇又ハ雨、午前、 <persname corresp=\"#pers_大橋新太郎\">\n<surname> 大橋 </surname>\n<forename> 新太郎 </forename>\n</persname> 来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 、 <persname corresp=\"#pers_末松\">\n<surname> 末松 </surname>\n</persname> 内務大臣ヲ訪ヒ瓦斯製造ノ事ニ関シテ請願ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<persname corresp=\"#pers_渡辺洪基\">\n<surname> 渡辺 </surname>\n<forename> 洪基 </forename>\n</persname> 氏ヲ赤十字社病院ニ訪フ、 <pb corresp=\"#pageB1188\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/214/full/max/0/default.jpg\" n=\"B1188\" source=\"#pageB1188\"></pb> 親戚ニ面会シテ病症ヲ詳悉ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 警視庁ニ抵リ総監\n        <persname corresp=\"#pers_安楽\">\n<surname> 安楽 </surname>\n</persname> 氏及 <persname corresp=\"#pers_松井\">\n<surname> 松井 </surname>\n</persname> 部長ニ面会シテ水性瓦斯工場設置ノ許可ヲ請求ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_小石川\"> 小石川 </placename>\n<placename corresp=\"#place_豊川町\"> 豊川町 </placename>\n<orgname> 女子大学 </orgname> ニ抵リ開校式ニ列シ一場ノ演説ヲ為ス、来会者賓客及生徒等ニテ概算千五六百人ニシテ頗ル盛会ナリ、祝辞又ハ奏楽及演説等数席アリテ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7137833,
+                    "lon": 139.7487556,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 散会ス、 <persname corresp=\"#pers_成瀬\">\n<surname> 成瀬 </surname>\n</persname> 校長ト共ニ寄宿舎ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 去テ <placename corresp=\"#place_向島\"> 向島 </placename> 大倉別邸ニ抵ル、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯来会ス、主人ト三人静談、夜深クシテ辞シ去テ <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

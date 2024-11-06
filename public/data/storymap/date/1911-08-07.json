@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-08-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_新渡戸\">\n<surname> 新渡戸 </surname>\n</persname> 氏 <placename corresp=\"#place_軽井沢\"> 軽井沢 </placename> ノ別荘ヘ書状ヲ発シテ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 行ノ事ヲ打合ハス、又、 <persname corresp=\"#pers_島田三郎\">\n<surname> 島田 </surname>\n<forename> 三郎 </forename>\n</persname> 氏ヘモ同様ノ事ニテ一書ヲ発ス、 <persname corresp=\"#pers_石井\">\n<surname> 石井 </surname>\n</persname> 次官ヘモ亦同シ、留守宅 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ヘ <placename corresp=\"#place_サンフランシスコ\"> 桑港 </placename>\n       電報ノ件、沖商会出資会譲替《（分カ）》ノ件ニ付書状ヲ発ス、朝飧前、 <persname corresp=\"#pers_白石\">\n<forename> 白石 </forename>\n</persname> ノ鬼神論ヲ読ム、 <persname corresp=\"#pers_渋沢市郎\">\n<surname> 渋沢 </surname>\n<forename> 市郎 </forename>\n</persname> 今日帰郷ノ由ニテ来話ス、午前ヨリ百話ノ筆記ヲ修正ス、 <persname corresp=\"#pers_原六郎\">\n<surname> 原 </surname>\n<forename> 六郎 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_河崎覚太郎\">\n<surname> 河崎 </surname>\n<forename> 覚太郎 </forename>\n</persname> 氏来話ス、晩飧後、 <persname corresp=\"#pers_渋沢秀雄\">\n<forename> 秀雄 </forename>\n</persname> ニ益軒全集ヲ読マシム "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 37.76667,
+                    "lon": -122.43333,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

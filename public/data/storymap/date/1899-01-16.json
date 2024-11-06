@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-01-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、朝数人ノ来客ニ接シ銀行ニ於テ事務ヲ見ル、此日 <orgname> 人造肥料会社 </orgname> 重役会ヲ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 宅ニ開ク、 <persname corresp=\"#pers_谷\">\n<surname> 谷 </surname>\n</persname> 、 <persname corresp=\"#pers_竹田\">\n<surname> 竹田 </surname>\n</persname> 、 <persname corresp=\"#pers_堀江\">\n<surname> 堀江 </surname>\n</persname> 、 <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 、 <persname corresp=\"#pers_渋沢成一郎\">\n<surname> 渋沢 </surname>\n<forename> 喜作 </forename>\n</persname> 等来会ス <lb></lb> 午後 <persname corresp=\"#pers_青木\">\n<surname> 青木 </surname>\n</persname> 外務ヲ官邸ニ訪フ、ベレスフオールト卿歓迎ノ事ヲ談話ス、此夜 <placename corresp=\"#place_浜町\"> 浜町 </placename>\n       ノ家ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

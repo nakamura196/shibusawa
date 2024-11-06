@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-01-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シテ朝飧ス、後、 <placename corresp=\"#place_川越\"> 川越\n       </placename> 喜多院住職ノ来訪ニ接ス東上鉄道停車場位地ニ付談話アリ、養育院副幹事 <persname corresp=\"#pers_高畠\">\n<surname> 高畠 </surname>\n</persname> 登代作氏来リ院務ヲ談ス、後、書類ヲ整理ス、午飧後事務所ニ抵リ来書ヲ点撿ス、新聞紙社員数名ノ来訪ニ接ス、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> ヨリノ来状ニ付 <persname corresp=\"#pers_増田\">\n<surname> 増田 </surname>\n</persname> ニ回答案ノ作成ヲ指示ス、 <placename corresp=\"#place_朝鮮\"> 朝鮮 </placename>\n<persname corresp=\"#pers_梁在衡\">\n<surname> 梁 </surname>\n<forename> 在衡 </forename>\n</persname> 氏ヨリ請願ノ稷山金鉱稼業ノ事ハ <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ヲシテ同会社重役会ニ協議セシムル事トス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 過 <orgname> 第一銀行\n       </orgname> ニ抵リ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏 <placename corresp=\"#place_大阪\"> 大坂 </placename> ヨリノ来状ヲ一覧シ、 <persname corresp=\"#pers_日下\">\n<surname> 日下 </surname>\n</persname> 、 <persname corresp=\"#pers_石井\">\n<surname> 石井 </surname>\n</persname> 二氏ト協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 五時半 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename>\n<orgname> 精養軒 </orgname> ニ抵リ <orgname> 石川島造船所 </orgname> ノ宴会ニ出席ス、 <persname corresp=\"#pers_内田\">\n<surname> 内田 </surname>\n</persname> 氏帰朝ヲ祝スルノ宴ナリ食卓上一場ノ演説ヲ為ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:30:00",
+                    "text": "<time when=\"22:30:00\"> 十時半 </time> 帰宿、後、日記ヲ編成ス <lb></lb>\n<persname corresp=\"#pers_久万俊泰\">\n<surname> 久万 </surname>\n<forename> 俊泰 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_長谷川正五\">\n<surname> 長谷川 </surname>\n<forename> 正五 </forename>\n</persname> 氏来話ス <lb></lb> 銀行集会所事務ヲ談ス、汽車会社ノ事ヲ談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

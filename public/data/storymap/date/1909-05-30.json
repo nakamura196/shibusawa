@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-05-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床入浴シ、畢テ <persname corresp=\"#pers_成瀬\">\n<surname> 成瀬 </surname>\n</persname> 氏其他来訪人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ食ス後、書類ヲ撿閲ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 講道館ニ抵リ、 <persname corresp=\"#pers_嘉納\">\n<surname> 嘉納 </surname>\n</persname> 氏ノ依頼ニ応シテ館ノ維持ニ関スル寄附行為ノ事ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏ノ催ニ係ル米国人ドクトル・ <persname corresp=\"#pers_グリン\">\n<surname> グリン </surname>\n</persname> 氏饗宴ノ午飧会ニ出席シ種々ノ談話ヲ為ス、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 午後二時半 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 発ノ汽車ニテ <placename corresp=\"#place_大磯町\"> 大磯\n       </placename> ニ抵リ、 <persname corresp=\"#pers_高田慎蔵\">\n<surname> 高田 </surname>\n<forename> 慎蔵 </forename>\n</persname> 氏ノ饗宴ニ出席ス、 <persname corresp=\"#pers_高田\">\n<surname> 高田 </surname>\n</persname> 氏ノ別荘ハ <placename corresp=\"#place_大磯町\"> 大磯 </placename> ナル <persname corresp=\"#pers_岩崎\">\n<surname> 岩崎 </surname>\n</persname> 氏ノ別荘ノ隣ニ在リ、構造華麗庭園モ亦可ナリ、 <persname corresp=\"#pers_曾禰\">\n<surname> 曾禰 </surname>\n</persname> 子爵、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 、 <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 、其他数名来会ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 午後九時 </time> 辞シ去リテ帰京ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1909-05-31T00:00+0900\"> 午後十二時 </time> 過 <placename corresp=\"#place_王子\"> 王子\n       </placename> ニ帰宿ス、此日好天、夜ニ入ルモ月明ニシテ風静カナリ <lb></lb> 朝、 <persname corresp=\"#pers_東敬治\">\n<surname> 東 </surname>\n<forename> 敬治 </forename>\n</persname> 氏来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

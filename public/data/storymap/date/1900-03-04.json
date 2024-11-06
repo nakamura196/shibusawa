@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-03-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前 <placename corresp=\"#place_茅町\"> 茅町 </placename>\n<persname corresp=\"#pers_岩崎\">\n<surname> 岩崎 </surname>\n</persname> 邸ニ抵リ老母ノ病ヲ訪フ、後 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 氏ヲ訪フ、午餐後牛込 <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 氏ヲ訪フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<placename corresp=\"#place_猿楽町\"> 猿楽町 </placename> ニ抵リ <persname corresp=\"#pers_皆川\">\n<surname> 皆川 </surname>\n</persname> 氏ヲ訪フ、此夜同邸ニ一泊ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

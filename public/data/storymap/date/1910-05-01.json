@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-05-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、庭園ヲ散歩シ、種々ノ来客ニ接ス、午飧後、 <placename corresp=\"#place_三田\"> 三田 </placename>\n<orgname> 慶応義塾 </orgname> ニ抵リ、商業学校ノ紀念祭大会ニ於テ一場ノ演説ヲ為ス、曾テ其学生石山某ヨリ依頼ニヨレルナリ、畢テ <placename corresp=\"#place_麻布\"> 麻布 </placename>\n<placename corresp=\"#place_白金\"> 白金 </placename> 《（ <placename corresp=\"#place_芝\"> 芝\n       </placename> ）》ニ於テ <persname corresp=\"#pers_渋沢作太郎\">\n<surname> 渋沢 </surname>\n<forename> 作太郎 </forename>\n</persname> 氏ノ病ヲ訪ヒ、家人ト種々ノ談話ヲ為ス又、 <placename corresp=\"#place_高輪\"> 高輪 </placename> ニ <persname corresp=\"#pers_北脇久尾\">\n<surname> 北脇 </surname>\n<forename> 久尾 </forename>\n</persname> ヲ訪ヒ談話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6385306,
+                    "lon": 139.737167,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 午後六時半 </time> 頃 <placename corresp=\"#place_王子\"> 王子\n       </placename> ニ帰宿シテ夜飧ス、朝、 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏、 <persname corresp=\"#pers_渡辺得男\">\n<surname> 渡辺 </surname>\n<forename> 得男 </forename>\n</persname> 氏、 <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 氏其他種々ノ来客アリテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time> 頃マテ客室ヲ離レス接客ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

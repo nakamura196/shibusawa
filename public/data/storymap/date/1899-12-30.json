@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-12-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前二三ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<placename corresp=\"#place_巣鴨\"> 巣鴨 </placename>\n<persname corresp=\"#pers_徳川慶喜\"> 一位公 </persname> ノ邸ヲ訪フテ年末ノ賀詞ヲ述フ、 <persname corresp=\"#pers_新村猛雄\">\n<surname> 新村 </surname>\n<forename> 猛雄 </forename>\n</persname> ト談話シテ去ル、 <placename corresp=\"#place_本郷\"> 本郷 </placename> ニテ <persname corresp=\"#pers_中野武営\">\n<surname> 中野 </surname>\n<forename> 武営 </forename>\n</persname> 氏ノ宅ヲ訪ヒ京釜鉄道ノ事及 <persname corresp=\"#pers_大江\">\n<surname> 大江 </surname>\n</persname> 氏ノ身上ニ関スル事情ヲ談話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7337972,
+                    "lon": 139.7390889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 偕楽園ニ抵リ <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 、 <persname corresp=\"#pers_斎藤精一\">\n<surname> 斎藤 </surname>\n<forename> 精一 </forename>\n</persname> 二氏ト共ニ <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 鉱山ノ事ヲ談ス、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏来ル、京釜鉄道ノ事ニ関スル証書文案ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 銀行集会所ニ抵リ <persname corresp=\"#pers_山中\">\n<surname> 山中 </surname>\n</persname> 、 <persname corresp=\"#pers_戸田\">\n<surname> 戸田 </surname>\n</persname> 二氏増給ノ事ヲ指示シ、并テ将来ノ執務ニ関スル心得方ヲ訓示ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<orgname> 第一銀行 </orgname> ニ出勤ス、 <persname corresp=\"#pers_竹内綱\">\n<surname> 竹内 </surname>\n<forename> 綱 </forename>\n</persname> 氏来ル、京釜鉄道実測費貸付ニ関スル証書文案ヲ交付ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 過 <placename corresp=\"#place_築地\"> 築地 </placename> 瓢屋ニ抵リ <persname corresp=\"#pers_井上勝\">\n<surname> 井上 </surname>\n<forename> 勝 </forename>\n</persname> 氏ノ忘年会ニ列ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

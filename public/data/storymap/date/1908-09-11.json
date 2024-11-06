@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-09-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴ノ後二三ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       朝飧ヲ食シ、新聞紙ヲ一覧シ又書類ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <persname corresp=\"#pers_辻新次\">\n<surname> 辻 </surname>\n<forename> 新次 </forename>\n</persname> 氏ノ来訪 <pb corresp=\"#pageB1536\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/562/full/max/0/default.jpg\" n=\"B1536\" source=\"#pageB1536\"></pb> ニ接シ <orgname> 高等商業学校 </orgname> ノ事ヲ談ス、畢テ来書ヲ調査シ事務ヲ処理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ午飧シ、食後、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 氏等ト行務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏来リテ稷山金鉱ノ事ヲ協議ス、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 、 <persname corresp=\"#pers_前原\">\n<surname> 前原 </surname>\n</persname> 二氏来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 瓢屋ニ抵リ、 <placename corresp=\"#place_大阪\">\n        大坂 </placename> ヨリ来レル同業者 <persname corresp=\"#pers_小山\">\n<surname> 小山 </surname>\n</persname> 、 <persname corresp=\"#pers_志立\">\n<surname> 志立 </surname>\n</persname> 、 <persname corresp=\"#pers_町田\">\n<surname> 町田 </surname>\n</persname> 其他各交換所ノ人々ヨリ招宴セラルヽ慰労会ニ出席ス、 <placename corresp=\"#place_東京\"> 東京 </placename>\n       同業者モ亦数名来会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:30:00",
+                    "text": "<time when=\"22:30:00\"> 十時半 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス <lb></lb> （欄外） <lb></lb> ［朝、 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 首相ヨリ <persname corresp=\"#pers_長島隆二\">\n<surname> 長島 </surname>\n<forename> 隆二 </forename>\n</persname> 氏ヲ以テ電話ニテ昨夜ノ会同ニ於ル景状ヲ問合ハセラル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

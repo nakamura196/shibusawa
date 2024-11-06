@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-12-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝、老人発足す、小川街会計方江 <placename corresp=\"#place_静岡\"> 静岡 </placename>\n<persname corresp=\"#pers_平岡四郎\">\n<surname> 平岡 </surname>\n<forename> 四郎 </forename>\n</persname> 及留守宅へ書状托し遣す、拝借紙幣返納之儀ニ付、調書 <persname corresp=\"#pers_小田又蔵\">\n<surname> 小田 </surname>\n<forename> 又蔵 </forename>\n</persname> へ送遣す、午後 <placename corresp=\"#place_和泉町\"> 和泉町 </placename> にて大六お訪ひ、夫より <placename corresp=\"#place_伊勢崎町\"> 伊勢崎町 </placename> 御蔵敷江罷越、行方、 <persname corresp=\"#pers_山口\">\n<surname> 山口 </surname>\n</persname> 面会、御用向逐次談判し、帰路 <placename corresp=\"#place_久松町\"> 久松町 </placename> にて <persname corresp=\"#pers_平岡庄七\">\n<surname> 平岡 </surname>\n<forename> 庄七 </forename>\n</persname> を訪へ、夜に入帰宿 <lb></lb>\n<persname corresp=\"#pers_加藤成\">\n<surname> 加藤 </surname>\n<forename> 成 </forename>\n</persname> 来泊、深更迄談話す "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 36.32089,
+                    "lon": 139.19817,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-11-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床直ニ入浴シ、畢テ朝飧ヲ食ス、食後、 <persname corresp=\"#pers_島田俊雄\">\n<surname> 島田 </surname>\n<forename> 俊雄 </forename>\n</persname> ノ来報《（訪）》ニ接シ、又 <persname corresp=\"#pers_諸井\">\n<surname> 諸井 </surname>\n</persname> 母子来リテ <persname corresp=\"#pers_六郎\">\n<forename> 六郎 </forename>\n</persname> 婚姻ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 午前十時半 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、東京 <orgname> 人造肥料会社 </orgname>\n       重役会ヲ開キ要件ヲ議決ス、日本鉄道会社 <persname corresp=\"#pers_久米\">\n<surname> 久米 </surname>\n</persname> 、 <persname corresp=\"#pers_山田\">\n<surname> 山田 </surname>\n</persname> 二氏来話ス、米人 <persname corresp=\"#pers_デシユラル\"> デシユラル </persname> 氏来リ稷山金鉱ノ事ヲ談ス、\n        <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏来会ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ重役会ヲ開キ要件ヲ議決ス、畢テ <persname corresp=\"#pers_原田勘七郎\">\n<surname> 原田 </surname>\n<forename> 勘七郎 </forename>\n</persname> 、 <persname corresp=\"#pers_西野恵之助\">\n<surname> 西野 </surname>\n<forename> 恵之助 </forename>\n</persname> 氏等ノ来訪ニ接シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 事務所ニ抵リ事務ヲ処理シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\">\n        六時 </time> 過 <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<persname corresp=\"#pers_橋本明六\">\n<surname> 橋本 </surname>\n<forename> 明六 </forename>\n</persname> ヲ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ遣シ、仏人フイナリー氏ニ書類ヲ送リ、又外務省ニ <persname corresp=\"#pers_畑\">\n<surname> 畑 </surname>\n</persname> 書記官ヲ訪ハシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

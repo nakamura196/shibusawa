@@ -1,0 +1,79 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-04-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前、 <persname corresp=\"#pers_鈴木省作\">\n<surname> 鈴木 </surname>\n<forename> 省作 </forename>\n</persname> 、 <persname corresp=\"#pers_進経太\">\n<surname> 進 </surname>\n<forename> 経太 </forename>\n</persname> 来ル、 <placename corresp=\"#place_ウラジオストク\"> 浦塩斯徳 </placename> 航路ノ事ヲ談話ス、 <persname corresp=\"#pers_鹿島善寿\">\n<surname> 鹿島 </surname>\n<forename> 善寿 </forename>\n</persname> 計来ル、家政ニ関スル内話アリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 43.117,
+                    "lon": 131.917,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 東京海上保険会社重役会ニ列ス、議事了テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<placename corresp=\"#place_小石川\"> 小石川 </placename>\n<placename corresp=\"#place_豊川町\"> 豊川町 </placename>\n<orgname> 女子大学 </orgname> 新築場ニ抵リ、 <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 、 <persname corresp=\"#pers_児島\">\n<surname> 児島 </surname>\n</persname> 、 <persname corresp=\"#pers_嘉納\">\n<surname> 嘉納 </surname>\n</persname> 、 <persname corresp=\"#pers_成瀬\">\n<surname> 成瀬 </surname>\n</persname> 氏ト共ニ開校式ニ関スル手続ヲ協議ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7137833,
+                    "lon": 139.7487556,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 過 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰ル、児童ノ教師タル <persname corresp=\"#pers_棚橋源太郎\">\n<surname> 棚橋 </surname>\n<forename> 源太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persname> 二氏来ル、 <persname corresp=\"#pers_横山\">\n<surname> 横山 </surname>\n</persname> 氏ノ将来ニ付テ種々協議スル所アリ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

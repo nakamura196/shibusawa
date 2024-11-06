@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-10-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、朝来風涼ク復暑熱ヲ感セス、浪高クシテ船ノ動揺甚シト云トモ一行別ニ船暈ニ苦ムモノナシ、想フニ航海ニ馴レテ幾分ノ感応ヲ減セシモノナラン、終日左舷ニ <placename corresp=\"#place_南清\"> 南清 </placename> 地方ノ島嶼ヲ見ル、甲板上ニ散歩シ、又ハ読書ニ閑ヲ消ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

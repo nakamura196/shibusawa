@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-06-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シ、畢テ雑誌成功社主 <persname corresp=\"#pers_村山\">\n<surname> 村山 </surname>\n</persname> 氏ノ来訪ニ接ス、又、 <persname corresp=\"#pers_山崎寛猛\">\n<surname> 山崎 </surname>\n<forename> 寛猛 </forename>\n</persname> 氏来リ <persname corresp=\"#pers_矢野二郎\">\n<surname> 矢野 </surname>\n<forename> 二郎 </forename>\n</persname> 氏ノ事蹟ニ付種々往事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ食シ、後、 <persname corresp=\"#pers_野崎廣太\">\n<surname> 野崎 </surname>\n<forename> 広太 </forename>\n</persname> 氏、 <persname corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persname> 氏ノ来訪ニ接ス、午飧中 <persname corresp=\"#pers_吉岡新五郎\">\n<surname> 吉岡 </surname>\n<forename> 新五郎 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_巣鴨\"> 巣鴨 </placename> 養育院分院ニ抵リ、 <persname corresp=\"#pers_安達\">\n<surname> 安達 </surname>\n</persname> 、 <persname corresp=\"#pers_高畠\">\n<surname> 高畠 </surname>\n</persname> 、 <persname corresp=\"#pers_吉藤\">\n<surname> 吉藤 </surname>\n</persname> 、 <persname corresp=\"#pers_高田\">\n<surname> 高田 </surname>\n</persname> 諸氏ト済貧恤救ニ関スル方法ヲ談ス、労働紹介所ノ事ヲ協議ス、後、院内ヲ一覧ス、畢テ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7337972,
+                    "lon": 139.7390889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<placename corresp=\"#place_本所\"> 本所 </placename> 相撲常設館ニ抵リ角力ヲ一覧ス、 <orgname> 清水組 </orgname>\n       ヨリ案内セラレタルナリ、観覧中腹痛強ク、坐ニ堪ヘサルニヨリ直 <pb corresp=\"#pageB1577\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/603/full/max/0/default.jpg\" n=\"B1577\" source=\"#pageB1577\"></pb> ニ退場シ、 <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ立寄リ、\n        <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師ノ来診ヲ請フ、急性腸胃カタルト診断セラレ、種々ノ手当ヲ施ス、此夜、病ノ為帰宅スルヲ得ス、 <placename corresp=\"#place_浜町\"> 浜町\n       </placename> ニ一泊ス、下痢数行アリテ時々腹痛甚シ、夜ニ入リテ聊カ下痢ノ減スルヲ覚フ <lb></lb> 午前、 <persname corresp=\"#pers_明石照男\">\n<surname> 明石 </surname>\n<forename> 照男 </forename>\n</persname>\n<placename corresp=\"#place_ドイツ\"> 独乙 </placename> 留学先ヘ書状ヲ発ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

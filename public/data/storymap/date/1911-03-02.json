@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-03-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シ畢テ朝飧ヲ食ス、後、数多ノ来客ニ接ス、中央公論社 <persname corresp=\"#pers_相馬由也\">\n<surname> 相馬 </surname>\n<forename> 由也 </forename>\n</persname> 氏来リ経済上ノ談話ヲ為ス、 <persname corresp=\"#pers_成瀬仁蔵\">\n<surname> 成瀬 </surname>\n<forename> 仁蔵 </forename>\n</persname> 氏来リ <orgname> 女子大学 </orgname> ノ事ヲ談ス、 <persname corresp=\"#pers_助川正誠\">\n<surname> 助川 </surname>\n<forename> 正誠 </forename>\n</persname> 氏来リ <placename corresp=\"#place_日本橋\"> 日本橋 </placename> ニ関スル懐旧談ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 事務所ニ抵リ事務ヲ処理シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、後、 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 、 <persname corresp=\"#pers_土岐\">\n<surname> 土岐 </surname>\n</persname> 二氏ト <placename corresp=\"#place_朝鮮\"> 朝鮮 </placename> 事業ヲ談シ、又、 <persname corresp=\"#pers_戸田宇八\">\n<surname> 戸田 </surname>\n<forename> 宇八 </forename>\n</persname> 、 <persname corresp=\"#pers_川田鉄弥\">\n<surname> 川田 </surname>\n<forename> 鉄弥 </forename>\n</persname> 氏等ト談話シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 午後二時半 </time> 彰明会ニ出席シ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯ト時事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:30:00",
+                    "text": "<time when=\"15:30:00\"> 三時半 </time> 劇場会社ニ抵リ、開場式ニ出席シテ昨日ト同シク式辞ヲ述フ、余興演劇畢テ大\n        <pb corresp=\"#pageB1661\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/687/full/max/0/default.jpg\" n=\"B1661\" source=\"#pageB1661\"></pb> 食堂ニ男女新旧ノ俳優其他数十人ヲ会シテ一場ノ訓示演説ヲ為シ、又 <persname corresp=\"#pers_西野\">\n<surname> 西野 </surname>\n</persname> 、 <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 氏等ニ営業ニ付テノ注意ヲ与ヘ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1911-03-03T00:00+0900\"> 十二時 </time> 過 <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス <persname corresp=\"#pers_佐竹音次郎\">\n<surname> 佐竹 </surname>\n<forename> 音次郎 </forename>\n</persname> 氏来リ揮毫ヲ委托セラル <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:30:00",
+                    "text": "<time when=\"13:30:00\"> 午後一時半 </time> ヨリ <orgname> 第一銀行 </orgname> 重役会ヲ開キ要件ヲ議決ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

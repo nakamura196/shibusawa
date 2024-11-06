@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-09-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 九時半 </time>\n<persname corresp=\"#pers_井上金治郎\">\n<surname> 井上 </surname>\n<forename> 金治郎 </forename>\n</persname> 氏来ル、相伴フテ同氏ノ寓居ニ抵リ堀越商会営業ニ関スル要務ヲ談シ、紐克 <persname corresp=\"#pers_堀越\">\n<surname> 堀越 </surname>\n</persname> 氏ヨリノ来状数通ヲ一読シ、将来ノ方針ニ付 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 氏ヘ説示スル所アリタリ、畢テ <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ノ来会スルアリテ、共ニ午飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 氏夫妻同伴ニテ <placename corresp=\"#place_ループル\"> ループル </placename>\n       街ノ一商店即マガザン・デ・ループルニ抵リ、其支配人ニ面会シテ従来堀越商会即 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 氏ト種々商品ノ取引アル事ヲ悦フ旨ノ謝詞ヲ述ヘ、夫ヨリ旅宿ニ抵リテ一行ト共ニ馬車ニテ市街ヲ通過シ、プラス・ド・ラ・コンコルド、 <placename corresp=\"#place_シヤンゼリゼー\"> シヤンゼリゼー </placename> ヲ経テ凱旋門ノ傍ナル本邦公使館ニ抵リ、 <persname corresp=\"#pers_安達\">\n<surname> 安達 </surname>\n</persname> 書記官ニ面会シテ公使ニ来意ヲ告ケ、去テ <placename corresp=\"#place_ボワ_デ_ブロンギユ\"> ボワ・デ・ブロンギユ\n       </placename> ニ抵リ大瀑布ニテ馬車ヲ下リ一小茶店ニ休憩シ、更ニ馬車ニテ公園内ヲ巡遊シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 午後七時半 </time> 再ヒ\n        <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 氏寓居ニ抵リ、一同日本食ノ夜飧ヲ饗セラル、 <persname corresp=\"#pers_林忠正\">\n<surname> 林 </surname>\n<forename> 忠正 </forename>\n</persname> 氏来リテ明日ヨリ諸方巡遊及歴訪ノ順序ヲ協議ス、 <persname corresp=\"#pers_本野\">\n<surname> 本野 </surname>\n</persname> 公使ヨリ書状ニテ明夕招宴ノ事ヲ申越サル、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 一同相伴フテ市街ヲ徒歩シテ旅宿ニ帰ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

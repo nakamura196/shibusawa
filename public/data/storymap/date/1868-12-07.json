@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-12-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝来美晴軟風、〓行随意なり、終日船の左に <placename corresp=\"#place_支那\"> 支那 </placename>\n       地方を見る、洋中静かなれば多く漁舟の洋中に碇泊して漁するを見る、帆前船の <placename corresp=\"#place_香港\"> 香港 </placename>\n       に航するを見る、夕方蒸気船の〓行を見る、 <placename corresp=\"#place_アメリカ合衆国\"> 亜米利加 </placename> の飛船なるよし <lb></lb>\n       終日風穏に船の動揺なし "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 22.267,
+                    "lon": 114.188,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

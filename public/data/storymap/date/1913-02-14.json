@@ -1,0 +1,89 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-02-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シテ朝飧ヲ食ス、後、蚕糸会書記 <persname corresp=\"#pers_加藤知正\">\n<surname> 加藤 </surname>\n<forename> 知正 </forename>\n</persname> 氏来リ、余カ製糸ニ関係セシ年来ノ経歴ヲ問ハル、依テ青年ノ頃ハ旧郷里ニテ養蚕又ハ製種ニ従事シ、明治ノ初官途ニ在リテ <placename corresp=\"#place_富岡\"> 富岡 </placename> 製糸場ノ設立ニ尽力シ、 <orgname> 第一銀行 </orgname>\n       ニ入リテ後、生糸為替又ハ其売込等ニ努力シ、且十四年ニハ荷預リ所設立ニ助力セシ事ヲ詳話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 午前十時半 </time> 林野局ニ抵リ、\n        <persname corresp=\"#pers_有松\">\n<surname> 有松 </surname>\n</persname> 長官ニ面会シテ <placename corresp=\"#place_井ノ頭\"> 井ノ頭 </placename> 御料地拝借ノ事ヲ請願ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time> 事務所ニ抵リ、 <persname corresp=\"#pers_根津\">\n<surname> 根津 </surname>\n</persname> 氏其他ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、後、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト行務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<persname corresp=\"#pers_山田昌邦\">\n<surname> 山田 </surname>\n<forename> 昌邦 </forename>\n</persname> 氏ヘ書状ヲ認メ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 二時半 </time>\n<persname corresp=\"#pers_近藤廉平\">\n<surname> 近藤 </surname>\n<forename> 廉平 </forename>\n</persname> 氏ヲ訪ヘ夫人ノ死去ヲ慰問ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:30:00",
+                    "text": "<time when=\"15:30:00\"> 三時半 </time>\n       後楽会ニ出席シ、陸海軍人ト軍費ト経済ニ関スル種々ノ討議ヲ為ス、夜飧後、 <persname corresp=\"#pers_中野\">\n<surname> 中野 </surname>\n</persname> 氏ト同シク <persname corresp=\"#pers_孫文\">\n<surname> 孫 </surname>\n<forename> 逸仙 </forename>\n</persname> 氏ノ来着ヲ迎フル為メ <placename corresp=\"#place_新橋\"> 新橋 </placename> 停車場ニ抵リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 頃帰宿ス後、新聞紙ヲ一読ス <lb></lb> （欄外） <lb></lb> ［ <orgname> 第一銀行 </orgname> ニ於テ\n        <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 身上ノ事ヲ内話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

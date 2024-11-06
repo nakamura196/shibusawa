@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-02-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:15:00",
+                    "text": "<time when=\"07:15:00\"> 午前七時十五分 </time>\n<placename corresp=\"#place_上野\"> 上野 </placename> 発汽車ニテ旧里 <placename corresp=\"#place_八基村\"> 八基村\n       </placename> ニ抵ル、蓋シ <persname corresp=\"#pers_吉岡\">\n<surname> 吉岡 </surname>\n</persname> 老夫人　○ <persname corresp=\"#pers_渋沢栄一\">\n<forename> 栄一 </forename>\n</persname> 姉 <persname corresp=\"#pers_なか\">\n<forename> なか </forename>\n</persname> ノ病ヲ訪フ為ナリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<persname corresp=\"#pers_淵上\">\n<surname> 淵上 </surname>\n</persname> 旧宅ニ於テ休憩シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 新田 <persname corresp=\"#pers_吉岡\">\n<surname> 吉岡 </surname>\n</persname> 氏ヲ訪フ、病者衰弱甚シ、想フニ回復ノ望ナシ、医師 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> ヲ同伴スルヲ以テ之ヲ診セシメ、薬餌ノ事ヲ <persname corresp=\"#pers_新五郎\">\n<forename> 新五郎 </forename>\n</persname> ニ談シテ去ル、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 過 <placename corresp=\"#place_東京\"> 東京\n       </placename> ニ帰ル、 <placename corresp=\"#place_坂本町\"> 坂本町 </placename> 銀行集会所ニ於テ開ク処ノ会議ニ列ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過 <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

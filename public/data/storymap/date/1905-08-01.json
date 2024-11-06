@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-08-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、 <persname corresp=\"#pers_吉田七郎\">\n<surname> 吉田 </surname>\n<forename> 七郎 </forename>\n</persname> 来ル、頃日 <placename corresp=\"#place_欧洲\"> 欧洲 </placename> ヨリ帰朝セシ旨ヲ告ケ各地ノ状況ヲ述ヘラル、越後人\n        <persname corresp=\"#pers_長谷川\">\n<surname> 長谷川 </surname>\n</persname> 某来訪ス、庭園一覧ヲ企望ス、依テ案内ヲ付シテ縦覧セシム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<orgname> 日本銀行 </orgname> ヲ訪ヒ <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 総裁ニ面会シテ米国貴賓歓迎ノ費途分担ノ方法ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 大蔵大臣官舎ヲ訪ヒ更ニ\n        <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 総理ノ官舎ヲ訪ヒ明後日ノ饗宴ニ出席ノ事ヲ請フ、又外務省ニ抵リ <persname corresp=\"#pers_珍田\">\n<surname> 珍田 </surname>\n</persname> 次官ニ面話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、食後行務ヲ処理シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 事務所ニ於テ\n        <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 其他ヘノ書状ヲ裁ス、 <persname corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persname> 来訪ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ立寄リ <persname corresp=\"#pers_常盤屋正吉\">\n<surname> 常盤屋 </surname>\n<forename> 正吉 </forename>\n</persname> ニ来ル <date when=\"1905-08-07\"> 七日 </date> 招客ノ事ヲ談シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時\n       </time> 過帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

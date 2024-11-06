@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-09-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ、朝飧ヲ食ス、後、 <persname corresp=\"#pers_蓮沼\">\n<surname> 蓮沼 </surname>\n</persname> 氏等修養団員ノ訪問ヲ受ケ陸羽旅行ノ景況ヲ聞ク、 <persname corresp=\"#pers_川田鉄弥\">\n<surname> 川田 </surname>\n<forename> 鉄弥 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_巣鴨\"> 巣鴨 </placename> 養育院分院ニ抵リ、尋テ本院ヲ巡視ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7337972,
+                    "lon": 139.7390889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_本郷\"> 本郷 </placename> ニ於テ午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time>\n       事務所ニ抵リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<placename corresp=\"#place_深川\"> 深川 </placename>\n<placename corresp=\"#place_西町\"> 西町 </placename> ニ抵リ、第二無料宿泊所開所式ニ列席シ一場ノ祝詞ヲ述フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename>\n       ニ帰宿シ、此日催フシタル児童等修学ニ付関係シタル小学校以来ノ教員諸氏其他ノ関係者及親戚ヲ会シテ一宴会ヲ開ク、席上一場ノ挨拶ヲ為ス、来賓中、 <persname corresp=\"#pers_嘉納\">\n<surname> 嘉納 </surname>\n</persname> 氏、 <persname corresp=\"#pers_小泉\">\n<surname> 小泉 </surname>\n</persname> 氏、 <persname corresp=\"#pers_横山\">\n<surname> 横山 </surname>\n</persname> 氏等ノ演説アリ、賓主款ヲ尽シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会ス <lb></lb>\n<persname corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persname> ニ修学上ノ訓戒ヲ為ス、 <persname corresp=\"#pers_佐々木慎思郎\">\n<surname> 佐々木 </surname>\n<forename> 慎思郎 </forename>\n</persname> 氏来リ <orgname> 二十銀行 </orgname> ノ事ヲ談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

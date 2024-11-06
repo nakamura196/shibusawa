@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-06-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ後、朝飧ヲ食ス、 <persname corresp=\"#pers_桜井義肇\">\n<surname> 桜井 </surname>\n<forename> 義肇 </forename>\n</persname> 氏ノ来訪ニ接ス、印度王来着ノ事ヲ告ク、又、 <persname corresp=\"#pers_中村\">\n<surname> 中村 </surname>\n</persname> 氏来リ <orgname> 報知新聞 </orgname> 社ヨリ依頼ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<placename corresp=\"#place_三田\"> 三田 </placename>\n<persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 侯爵邸ヲ訪ヘ、 <orgname> 汽車製造会社 </orgname> ノ件ヲ談話ス、 <persname corresp=\"#pers_平岡熙\">\n<surname> 平岡 </surname>\n<forename> 熙 </forename>\n</persname> 氏同伴ス、又、他ニ二三ノ要件ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_千住\"> 千住 </placename> 毛織物会社ニ抵リ、 <persname corresp=\"#pers_鈴木純一郎\">\n<surname> 鈴木 </surname>\n<forename> 純一郎 </forename>\n</persname> 氏、 <persname corresp=\"#pers_日比谷\">\n<surname> 日比谷 </surname>\n</persname> 、 <persname corresp=\"#pers_諸井\">\n<surname> 諸井 </surname>\n</persname> 、 <persname corresp=\"#pers_町田\">\n<surname> 町田 </surname>\n</persname> 諸氏ト共ニ工場ヲ一覧シ、会社員一同ニ面会シ一言ノ訓示ヲ為ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7500222,
+                    "lon": 139.8037722,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 過キ <placename corresp=\"#place_三谷\"> 三谷 </placename> 八百善《（山）》ニテ午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 過\n        <orgname> 第一銀行 </orgname> ニ抵リ、重役会ヲ開キ要件ヲ議決ス、畢テ事務所ニ於テ来人ニ接シ書類ヲ調査シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 午後五時半 </time>\n<orgname> 銀行倶楽部 </orgname> ニ抵リ晩飧会ニ出席ス、 <persname corresp=\"#pers_中村\">\n<surname> 中村 </surname>\n</persname> 満鉄総裁、同 <persname corresp=\"#pers_久保田\">\n<surname> 久保田 </surname>\n</persname> 理事、 <persname corresp=\"#pers_荒井賢太郎\">\n<surname> 荒井 </surname>\n<forename> 賢太郎 </forename>\n</persname> 氏、 <persname corresp=\"#pers_今西兼二\">\n<surname> 今西 </surname>\n<forename> 兼二 </forename>\n</persname> 氏来会ス卓上一場ノ謝詞ヲ述ヘ、来賓三名ノ演説アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過散会、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

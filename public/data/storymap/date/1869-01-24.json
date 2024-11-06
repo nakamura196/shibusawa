@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-01-24",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝、 <persname corresp=\"#pers_栗本治兵衛\">\n<surname> 栗本 </surname>\n<forename> 治兵衛 </forename>\n</persname> を訪ふ、御入用仕上之儀申談す、夫より出殿、三ツ井より調達金差出す、 <persname corresp=\"#pers_森川\">\n<surname> 森川 </surname>\n</persname> 面会、仏行御用骨折ニ付時服二ツ拝領被仰付、此日勤仕並御請普入被仰付《（普請）》、直ニ大目付附属被仰付、尤御書付ニ而申達今朝、 <persname corresp=\"#pers_加太八兵衛\">\n<surname> 加太 </surname>\n<forename> 八兵衛 </forename>\n</persname> 代人来、調達金延期之儀申立ニ付、厳重理解申遣す <lb></lb> 午後右代人御殿に出る、明日尚又罷出る旨申立引取る、此日請取りし御手当金持参、夕方より\n        <placename corresp=\"#place_和泉町\"> 和泉丁 </placename> 大黒屋店罷越し、金子引渡し預書請取商法之儀品々申談す、帰路 <persname corresp=\"#pers_梅田\">\n<surname> 梅田 </surname>\n</persname> へ立寄、郷里へ書翰差出す "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

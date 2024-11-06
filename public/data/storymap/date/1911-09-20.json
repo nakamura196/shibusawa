@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-09-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time>\n       臥床ヲ離レ半身浴ヲ為シ、後、褥中ニテ朝飧ス、風邪気少ク快方ニ向フ、食後五桜田義挙録ヲ読ミ、又、新聞紙ヲ一覧ス、青渊百話ノ原稿修正ニ勉ム <lb></lb> 朝、 <persname corresp=\"#pers_中村千代松\">\n<surname> 中村 </surname>\n<forename> 千代松 </forename>\n</persname> 氏来話ス、慈恵院ニ入院患者ノ事ヲ談ス、 <persname corresp=\"#pers_神田鐳蔵\">\n<surname> 神田 </surname>\n<forename> 鐳蔵 </forename>\n</persname> 氏来リ婚儀ニ付相談アリタリ、 <persname corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persname> 氏来リ、電気鉄道ノ件、 <placename corresp=\"#place_荒川\"> 荒川 </placename> 水力ノ件、毛織物会社ノ件、\n        <orgname> 埼玉学生誘掖会 </orgname> ノ件等ヲ談ス、午飧後、 <persname corresp=\"#pers_畑弥右衛門\">\n<surname> 畑 </surname>\n<forename> 弥右衛門 </forename>\n</persname> 氏来リ <placename corresp=\"#place_朝鮮\"> 朝鮮 </placename>\n       ノ事業ニ付種々ノ談話アリ、且、当代ノ人物評論ヲ為ス、夜飧後、家人ト共ニ遊戯ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

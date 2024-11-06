@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-04-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、児童等ト共ニ庭園ヲ散歩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<persname corresp=\"#pers_三島中洲\">\n<surname> 三島 </surname>\n<forename> 中洲 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n<persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 、 <persname corresp=\"#pers_明石愛子\">\n<forename> 愛子 </forename>\n</persname> ト共ニ歌舞伎座ニ抵リ演劇ヲ観ル、 <orgname> 清水組 </orgname> ヨリ <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 男爵洋行送別ノ為メ催ス処ナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> ヨリ開演、仙台萩、醍醐花見及鈴ケ森等ノ演題ニテ、\n        <persname corresp=\"#pers_市川團蔵_(7代目)\">\n<surname> 市川 </surname>\n<forename> 団蔵 </forename>\n</persname>\n<persname corresp=\"#pers_中村芝翫\">\n<surname> 中村 </surname>\n<forename> 芝翫 </forename>\n</persname> 、 <persname corresp=\"#pers_尾上梅幸_(6代目)\">\n<surname> 尾上 </surname>\n<forename> 梅幸 </forename>\n</persname> 、 <persname corresp=\"#pers_市川高麗蔵\">\n<surname> 市川 </surname>\n<forename> 高麗蔵 </forename>\n</persname> 、 <persname corresp=\"#pers_市村羽左衛門_(15代目)\">\n<surname> 市村 </surname>\n<forename> 羽左衛門 </forename>\n</persname> 等ノ技芸観ルヘキモノアリキ、此日ハ <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 等ノ諸氏来会シ頗ル盛宴ナリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

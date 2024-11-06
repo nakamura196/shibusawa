@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-07-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<persname corresp=\"#pers_モリス\">\n<surname> モリス </surname>\n</persname> 氏来ル、氏ハ <orgname> モーニンク・ポストト称スル新聞 </orgname> 紙 <pb corresp=\"#pageB1257\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/283/full/max/0/default.jpg\" n=\"B1257\" source=\"#pageB1257\"></pb> ニ関係アル由ニテ余カ <placename corresp=\"#place_イギリス\"> 英国 </placename>\n       観察ノ意見ヲ問ハル、依テ本日午後当地商業会議所ニ於テ陳述スヘキ意見書ノ英訳ヲ送付スル事ヲ約ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 過\n        <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname>\n       同行倫敦商業会議所ニ抵リ、当日ノ会頭ケスウエツク氏、書記長モーレー氏ニ面会シ誘レテ会場ニ抵ル、会員参会スル約四十人余席定リテ会頭ヨリ余ヲ会員ニ紹介ス、依テ一揖シテ後一場ノ演説ヲ為ス、畢テ会頭会員等種々ノ意見ヲ述ヘ\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 頃散会ス、当日ノ手続ハ記録シテ別ニ存ス、散会後サミユール商会ニ抵リ <persname corresp=\"#pers_ミツチヨル\">\n<surname> ミツチヨル </surname>\n</persname> ニ面会シテ京釜鉄道会社々債ノ件ヲ談ス、然レトモ妥議ニ至ラス、再会ヲ約シテ去ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:30:00",
+                    "text": "<time when=\"16:30:00\"> 午後四時三十分 </time>\n       帰宿、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<persname corresp=\"#pers_ホーナー\">\n<surname> ホーナー </surname>\n</persname> 氏来ル、ベヤリング銀行談判ノ事ヲ協議ス、明日内談シテ其模様ヲ通知スル筈ニテ分袂ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time> 、\n        <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 、 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 同行、倫敦市長ノ案内ニ係ル宴会ニ出席ス、来会スル者三百十八人ナリト云フ、市長来客接待ノ手続、食事中酒盃献酬ノ方法等頗ル古風ヲ存ス、而シテ割烹ハ美善ヲ尽セリ、夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散会帰宿ス、此夜重ナル来賓トシテ大蔵事務宰相ヒツクスビーチ氏及コーシヨン子爵、英蘭銀行総裁其他二三ノ演説アリ\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

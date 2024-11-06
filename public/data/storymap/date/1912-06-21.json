@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-06-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ後、 <orgname> 日本新聞 </orgname> 社員 <persname corresp=\"#pers_皆川\">\n<surname> 皆川 </surname>\n</persname> 氏ノ来訪ニ接シ特別号発刊ニ付援助ヲ乞フノ詳話アリタリ、 <orgname> 報知新聞 </orgname> 社 <persname corresp=\"#pers_中村\">\n<surname> 中村 </surname>\n</persname> 氏来リ <date evidence=\"year inferenced, month\" when=\"1912-07-07\"> 来月七日 </date>\n       ノ案内アリ、 <orgname> 台湾銀行 </orgname>\n<persname corresp=\"#pers_柳生一義\">\n<surname> 柳生 </surname>\n<forename> 一義 </forename>\n</persname> 氏来リ <placename corresp=\"#place_支那\"> 支那 </placename> 事業ニ付放資ニ関シテ談話アリ、 <persname corresp=\"#pers_清野長太郎\">\n<surname> 清野 </surname>\n<forename> 長太郎 </forename>\n</persname> 氏来リ <placename corresp=\"#place_南満\"> 南満 </placename> 鉄道会社監事推薦ノ事ニ付談話ス、 <persname corresp=\"#pers_成瀬仁蔵\">\n<surname> 成瀬 </surname>\n<forename> 仁蔵 </forename>\n</persname> 氏来リ昨夜 <orgname> 精養軒 </orgname> 会同ノ事ニ関シ種々ノ協議ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n       頃漸ク朝飧ヲ食ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time>\n<persname corresp=\"#pers_土田右馬太郎\">\n<surname> 土田 </surname>\n<forename> 右馬太郎 </forename>\n</persname> 氏来訪シ <persname corresp=\"#pers_田辺太一\">\n<surname> 田辺 </surname>\n<forename> 太一 </forename>\n</persname> 氏ノ添書持参、揮毫ヲ乞ハル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 事務所ニ抵リ来人ニ接シ庶務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧ス、後、事務所ニ於テ書類ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ <placename corresp=\"#place_品川\"> 品川 </placename> ナル <placename corresp=\"#place_東京\"> 東京 </placename> 市長 <persname corresp=\"#pers_尾崎行雄\">\n<surname> 尾崎 </surname>\n<forename> 行雄 </forename>\n</persname> 氏ノ宴会ニ出席ス、 <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 公爵、 <persname corresp=\"#pers_松浦\">\n<surname> 松浦 </surname>\n</persname> 、 <persname corresp=\"#pers_藤波\">\n<surname> 藤波 </surname>\n</persname> 、 <persname corresp=\"#pers_福沢\">\n<surname> 福沢 </surname>\n</persname> 、 <persname corresp=\"#pers_望月\">\n<surname> 望月 </surname>\n</persname> 諸氏来会ス、夜飧後、余興トシテ骨相学家 <persname corresp=\"#pers_田中熊蔵\">\n<surname> 田中 </surname>\n<forename> 熊蔵 </forename>\n</persname> 来リ来賓ノ骨想《（相）》ヲ観ル、着々其実ヲ得ルヲ以テ頗ル興味アリタリ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

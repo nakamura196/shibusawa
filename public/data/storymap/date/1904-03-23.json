@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1904-03-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、室内運動ヲ試ム、朝飧後日誌ヲ編成シ新聞紙ヲ読ム、午飧後海辺ヲ散歩ス、 <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname>\n<placename corresp=\"#place_大韓民国\"> 韓国 </placename> 旅行先長門国□□《（ <placename corresp=\"#place_小串\">\n        小串 </placename> カ）》ヨリ発信ヲ落手ス、深川 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ヨリノ書状到来ス、直ニ回答書ヲ発ス、且電話ヲ以テ <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 、 <persname corresp=\"#pers_土岐\">\n<surname> 土岐 </surname>\n</persname> 両氏出 <placename corresp=\"#place_津\"> 津 </placename>\n       ノ事ニ関スル回答ヲ為ス、此日モ家法ノ浄書ヲ為シ、夜食後ハ読書ニ消閑ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

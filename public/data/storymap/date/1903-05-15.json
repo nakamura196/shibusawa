@@ -1,0 +1,94 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-05-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 午前雨午後晴、朝 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 朝飧ヲ畢リテ書類ヲ調査シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time>\n<persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 総理大臣ヲ官邸ニ訪ヒ京釜鉄道会社々債ノ事ヲ談話シ、 <persname corresp=\"#pers_小村\">\n<surname> 小村 </surname>\n</persname> 外務大臣来会セシヲ以テ同件ヲ告ケ且 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 電気鉄道ノ事ヲ談ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 京釜鉄道会社ニ抵リ <persname corresp=\"#pers_竹内\">\n<surname> 竹内 </surname>\n</persname> 、 <persname corresp=\"#pers_日下\">\n<surname> 日下 </surname>\n</persname> 二氏ト面会シテ社債ノ件、工事進行ノ件、重役 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 在勤ノ件ヲ談ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ諸方ヘ発スル書状ヲ認ム、午飧後日本鉄道会社重役会ニ出席ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰リテ、再ヒ書類ヲ調査ス <lb></lb>\n<persname corresp=\"#pers_山田昌邦\">\n<surname> 山田 </surname>\n<forename> 昌邦 </forename>\n</persname> 来リテ製綱会社ノ事ヲ談ス、 <persname corresp=\"#pers_早速\">\n<surname> 早速 </surname>\n</persname> 、 <persname corresp=\"#pers_土肥\">\n<surname> 土肥 </surname>\n</persname> 二氏来リ帽子会社ノ <pb corresp=\"#pageB1309\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/335/full/max/0/default.jpg\" n=\"B1309\" source=\"#pageB1309\"></pb> 事ヲ談ス <lb></lb>\n<persname corresp=\"#pers_浅野三郎\">\n<surname> 浅野 </surname>\n<forename> 三郎 </forename>\n</persname> 来話ス、 <persname corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persname> 来リテ京仁鉄道会社ノコトヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 過 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname>\n<placename corresp=\"#place_王子\"> 王子 </placename> ヨリ来会シテ共ニ <placename corresp=\"#place_小網町\"> 小網町 </placename>\n<persname corresp=\"#pers_柿沼\">\n<surname> 柿沼 </surname>\n</persname> 氏ノ招宴ニ出席ス、一昨日ノ婚儀完成セシニヨリ里還リノ宴ヲ開キタルナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 午後十一時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

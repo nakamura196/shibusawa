@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1886-12-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:40:00",
+                    "text": "<time when=\"06:40:00\"> 午前六時四十分 </time>\n<placename corresp=\"#place_深川邸\"> 深川邸 </placename> ヲ発シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 駐車場ニ抵リテ汽車ニ搭ス <lb></lb>\n<persname corresp=\"#pers_渋沢成一郎\">\n<surname> 渋沢 </surname>\n<forename> 喜作 </forename>\n</persname> 、 <persname corresp=\"#pers_西園寺公成\">\n<surname> 西園寺 </surname>\n<forename> 公成 </forename>\n</persname> 、 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 、 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 、 <persname corresp=\"#pers_大沢\">\n<surname> 大沢 </surname>\n</persname> 、 <persname corresp=\"#pers_藤井\">\n<surname> 藤井 </surname>\n</persname> 、 <persname corresp=\"#pers_大井\">\n<surname> 大井 </surname>\n</persname> 其他銀行員数名、 <orgname> 石川島造船所 </orgname> 役員等来テ送別ス、家眷数名亦来テ行ヲ送ル <lb></lb>\n<persname corresp=\"#pers_浅野宗一郎\">\n<surname> 浅野 </surname>\n<forename> 宗一郎 </forename>\n</persname> 《（ <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> ）》氏ハ、殊ニ車中談話ノ為メ <placename corresp=\"#place_横浜\"> 横浜 </placename> マテ同行ス <lb></lb> 行員\n        <persname corresp=\"#pers_小林\">\n<surname> 小林 </surname>\n</persname> 外一名、 <placename corresp=\"#place_石川県\"> 石川県 </placename>\n<placename corresp=\"#place_金沢市\"> 金沢 </placename> ヘ送金ノ為メ同行ス <lb></lb>\n"
+                },
+                "location": {
+                    "line": true,
+                    "lat": 36.594611,
+                    "lon": 136.625639,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n<placename corresp=\"#place_横浜\"> 横浜 </placename> 着、支店ニ抵リテ小憩ス、 <persname corresp=\"#pers_原六郎\">\n<surname> 原 </surname>\n<forename> 六郎 </forename>\n</persname> 氏汽車場ニ来迎ス、第二国立銀行 <persname corresp=\"#pers_下田\">\n<surname> 下田 </surname>\n</persname> 氏支店ニ来話ス、同行増株ノ時払込実況ヲ検スル為メ、 <persname corresp=\"#pers_下田\">\n<surname> 下田 </surname>\n</persname> 氏ト共ニ同行ニ抵リテ帳簿ス《（ヲ）》検ス <lb></lb>\n<orgname> 正金銀行 </orgname> ニ抵リ <persname corresp=\"#pers_原六郎\">\n<surname> 原 </surname>\n<forename> 六郎 </forename>\n</persname> 氏ニ面晤シ、蚕糸中央部ノ事及演劇改良会社ノ事ヲ話ス、再ヒ支店ニ抵リテ <persname corresp=\"#pers_本山\">\n<surname> 本山 </surname>\n</persname> 氏ニ行務ヲ話シ、新築ニ関シ留守宅 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> ヘ一書ヲ裁ス、 <persname corresp=\"#pers_高山豊治\">\n<surname> 高山 </surname>\n<forename> 豊治 </forename>\n</persname> 来テ生糸売込ノ景況ヲ話ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 十時半 </time>\n<placename corresp=\"#place_横浜\"> 横浜 </placename> ヲ発シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_藤沢\"> 藤沢 </placename> 駅若松屋ニ於テ午餐シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時\n       </time> 、 <placename corresp=\"#place_湯本\"> 湯本 </placename> 福住ヘ投宿 <lb></lb>\n       此日、朝来快晴無風小春ノ候アリ、午後西南ノ風強ク、薄暮西風トナリテ寒威頗ル凛〓《（冽）》ナリ <lb></lb> 此夜、 <placename corresp=\"#place_湯本\"> 湯本\n       </placename> ニ於テ <persname corresp=\"#pers_陸奥宗光\">\n<surname> 陸奥 </surname>\n<forename> 宗光 </forename>\n</persname> 氏、 <persname corresp=\"#pers_原善三郎\">\n<surname> 原 </surname>\n<forename> 善三郎 </forename>\n</persname> 氏ニ書状ヲ裁ス、蓋シ曾テ嘱托セラレタル第二銀行増株ニ関スル紛議調停ノ意見ヲ書送セシナリ <lb></lb>\n<persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> ヘ古河銅ノ事、 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 氏ヘ横浜倉庫会社家屋ノ事、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 氏ヘ仏書反訳ノ事等ニ付郵書ヲ発ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

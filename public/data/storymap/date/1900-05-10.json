@@ -1,0 +1,101 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-05-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、此日ハ兼テ待チ居タル御慶事当日ニシテ殊ニ天気モ晴朗ナレハ、朝ヨリ殿下ノ鹵簿ヲ拝観セントテ皇城近傍ニ群聚スル人絡繹トシテ路ニ充テリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\">\n        午前九時半 </time> 大礼服ニテ <placename corresp=\"#place_馬場先門\"> 馬場先門 </placename>\n       前ナル商業会議所ニ抵ル、議員ノ多数既ニ来会スルヲ以テ、相携テ <placename corresp=\"#place_馬場先門\"> 馬場先門 </placename>\n       ヲ入リ、徒歩シテ二重橋外ナル芝生ニ抵ル、時ニ数万ノ拝観人芝生ニ充満シテ奉祝会員ノ区域ニ侵入シ、之ヲ制止スルヲ得サルニヨリ、商業会議所議員ノ為ニ設クル奉迎所ノ区域ニ入リテ鹵簿ノ来ルヲ待ツ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 過皇太子及妃同乗ニテ鹵簿二重橋ヲ出テ <placename corresp=\"#place_桜田門\"> 桜田門\n       </placename> ニ通過ス、奉迎畢テ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.678556,
+                    "lon": 139.753944,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 式場ヨリ徒歩シテ <placename corresp=\"#place_馬場先\"> 馬場先 </placename>\n       ヲ出テ商業会議所ニ抵ル、此間群聚ノ為歩行ヲ妨ケラレ容易ニ進ムヲ得ス、辛苦困頓漸クニシテ商業会議所ニ抵リ来会者ト共ニ祝杯ヲ挙テ、両殿下ノ万歳ヲ三唱ス、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time> 東京府庁ヲ訪ヒ府知事、市長ト共ニ青山御所ニ抵リ奉祝会ヨリ奉呈スル賀牋ヲ上ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\">\n        午後二時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宅ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n       再ヒ大礼服ヲ着用シテ今夕宮城内ニ開カルヽ饗宴ニ赴ク、二重橋正門ヨリ入リテ御車寄ニテ下乗ス、宮城内正殿ニ於テ天皇、皇后、皇太子及妃出座セラレテ群臣ノ拝賀ヲ受ケサセラル、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 過立食ノ宴ヲ開ク、食堂ハ豊明殿ヲ以テ之ニ充ツ、此夜 <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 一位、同公爵、同 <persname corresp=\"#pers_徳川昭武\">\n<forename> 昭武 </forename>\n</persname> ノ諸公ニ面話ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

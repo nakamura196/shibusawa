@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-03-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 腹部ノ病未タ愈ヘス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、半身浴ヲ為シ、病褥ニテ朝飧ヲ食ス、後、諸方ヘ書状ヲ作リ、 <persname corresp=\"#pers_光五郎\">\n<forename> 光五郎 </forename>\n</persname> ヲシテ送付ス、 <persname corresp=\"#pers_井口正之\">\n<surname> 井口 </surname>\n<forename> 正之 </forename>\n</persname> 氏外一名来訪アリシモ病ヲ以テ謝絶ス、 <persname corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persname> 氏来リ、 <placename corresp=\"#place_荒川\"> 荒川 </placename> 水力ノ件、 <orgname> 日本煉瓦会社\n       </orgname> ノ件其他ノ要務ヲ談ス、青渊百話ノ修正ニ勉ム、又、日記ヲ編成ス、午飧後、揮毫ト書状トヲ裁ス、新聞紙雑誌類ヲ読ム、又、諸方ヨリ電話ニテ種々ノ事務ヲ申来ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

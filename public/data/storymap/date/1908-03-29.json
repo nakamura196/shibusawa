@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-03-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、 <persname corresp=\"#pers_大野栄三\">\n<surname> 大野 </surname>\n<forename> 栄三 </forename>\n</persname> 、 <persname corresp=\"#pers_神田礼二\">\n<surname> 神田 </surname>\n<forename> 礼二 </forename>\n</persname> 、 <persname corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_那和靖\">\n<surname> 那和 </surname>\n<forename> 靖 </forename>\n</persname> 氏等《（ <persname corresp=\"#pers_名和靖\">\n<surname> 名和 </surname>\n<forename> 靖 </forename>\n</persname> カ）》ノ来訪ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 頃ヨリ <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 夫妻、 <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 夫妻其他ノ招客来リ会ス、 <orgname> 第一銀行 </orgname> 重役一同来リ会シ、親戚ノ幼童多ク来ル、蓋シ <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 男爵ノ <placename corresp=\"#place_欧洲\"> 欧洲 </placename>\n       行ヲ送別スル為メ親戚間ノ宴会ヲ催シタルニヨル、此日ハ囲碁アリ、支那人ノ手品、 <persname corresp=\"#pers_園喬\">\n<forename> 園喬 </forename>\n</persname> 《（ <persname corresp=\"#pers_円喬\">\n<forename> 円喬 </forename>\n</persname> ）》ノ落語等ニテ午飧中種々ノ余興ヲ演シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 頃ヨリ一同散会ス、夜、読書ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

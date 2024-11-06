@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-02-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、風邪気ニテ入浴ヲ止メ、褥中ニ在テ保養ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       朝飧ヲ食ス、 <persname corresp=\"#pers_高田早苗\">\n<surname> 高田 </surname>\n<forename> 早苗 </forename>\n</persname> 、 <persname corresp=\"#pers_市島謙吉\">\n<surname> 市島 </surname>\n<forename> 謙吉 </forename>\n</persname> 二氏来訪セシモ、病ノ為メ面会セス、 <persname corresp=\"#pers_村井弥兵衛\">\n<surname> 村井 </surname>\n<forename> 弥兵衛 </forename>\n</persname> 、 <persname corresp=\"#pers_太田総六\">\n<surname> 太田 </surname>\n<forename> 総六 </forename>\n</persname> 二氏来訪モ、同シク謝絶ス <lb></lb>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ電話ヲ通シ、東鉄会社ノ事ヲ <persname corresp=\"#pers_近藤\">\n<surname> 近藤 </surname>\n</persname> 、 <persname corresp=\"#pers_福原\">\n<surname> 福原 </surname>\n</persname> 二氏ヘ申シ遣ス <pb corresp=\"#pageB1565\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/591/full/max/0/default.jpg\" n=\"B1565\" source=\"#pageB1565\"></pb> 終日褥上ニ於テ読書ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

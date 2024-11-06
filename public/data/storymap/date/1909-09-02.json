@@ -1,0 +1,89 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-09-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time>\n       起床、入浴シ畢テ旅館ノ集会室ニ赴キ、本日取扱フヘキ公務及招待ニ関スル事ヲ処理ス、此地到着以来諸方ヨリ報知アリシ祝電ノ事及当地諸向ヨリノ案内状ニ対シ回答書ヲ発スル事ヲ、 <persname corresp=\"#pers_頭本元貞\">\n<surname> 頭本 </surname>\n</persname> 、 <persname corresp=\"#pers_堀越善重郎\">\n<surname> 堀越 </surname>\n</persname> 諸氏ト談ス <lb></lb> 幹部ノ事務不整頓ニ付、 <persname corresp=\"#pers_水野幸吉\">\n<surname> 水野 </surname>\n</persname> 総領事ノ注意ニヨリ <persname corresp=\"#pers_中野武営\">\n<surname> 中野 </surname>\n</persname> 氏ト協議シ、事務員二名ヲ雇傭ス、其一ハ外国人ナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ食ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 昼飧シ、後、防火ノ手配ヲ一覧セシムルトテ、 <persname corresp=\"#pers_ローマン\">\n<surname> ローマン </surname>\n</persname> 、 <persname corresp=\"#pers_ブレーンバーク\">\n<surname> ブレーンバーク </surname>\n</persname>\n       ノ諸氏ヨリ一行ヲ案内セラレ、自働車ニテ其元営ニ抵ル、消防隊長ヨリ詳細ノ説明アリ、後、実地ノ演習ヲ見ル、其迅速ニシテ水力ノ強盛ナル実ニ一覧ノ価値アリト云フヘシ、二十三ケ所ニテ其経費年額五十万弗ニ近シト云フ、一覧畢リテ一行自働車ニテ\n        <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 領事ノ宅ヲ訪問ス、其庭中ニテ茶菓ノ饗アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 過旅館ニ帰リ、処務ヲ弁理ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<persname corresp=\"#pers_ブレン\">\n<surname> ブレン </surname>\n</persname> 氏ノ案内ニテ旅館ニテ晩飧ス、 <persname corresp=\"#pers_水野幸吉\">\n<surname> 水野 </surname>\n</persname> 総領事同伴ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time> 当地ノ商業会議所ニ抵リ、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 側ノ人々ト会同シテ通商ニ関スル打合ヲ発ス、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 側ノ人々ヨリ種々ノ意見ヲ述ヘラル、最後ニ一場ノ意見ヲ演説シテ将来調査ノ方法ヲ定ム、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰館、就寝ス <lb></lb> （欄外） <lb></lb> ■■[img図]〓■此日午前市役所ニ抵リ、市長 <persname corresp=\"#pers_ミラー\">\n<surname> ミラー </surname>\n</persname> 氏ニ会見シテ昨日ノ謝詞ヲ述フ又、商業会議所ニ抵リ事務員ニ会見ス、又、領事館ヲ訪問ス、但 <persname corresp=\"#pers_ローマン\">\n<surname> ローマン </surname>\n</persname> 氏、 <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 領事同伴、 <persname corresp=\"#pers_中野武営\">\n<surname> 中野 </surname>\n</persname> 氏ト同行ナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1909-09-03T00:00+0900\"> 十二時 </time> 頃帰館ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

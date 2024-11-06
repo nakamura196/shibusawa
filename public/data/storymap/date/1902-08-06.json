@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-08-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時半 </time> 旅宿ヲ発シ、直ニ汽車ニ搭シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n       過セヒルドニ着シ、ビクトリヤ・ホテルニ投宿ス、午飧後オーカー会社ノ銀細工製造所ヲ一覧ス、其地金切断工場ヨリ各種ノ細工ヲ経テ之ヲ鍍金スルニ至ルマテ、工事ノ順序緻密ニシテ巧妙ナル驚クニ堪ヘタリ、一覧畢テ種々ノ買入物ヲ為シ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 過帰宿ス <lb></lb> 此日 <placename corresp=\"#place_ニューカッスル_アポン_タイン\"> ニユーカツソル </placename>\n       ニ於テ汽車ニ搭スル際、停車場ニ備ヘ置ケル古式ノ機関車ヲ一覧ス、此機関車ハ当市ニ於テ著名ナルスチビンソン氏ナルモノ始メテ製造セシモノニテ、実ニ機関車ノ嚆矢ナリト云フ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 54.96667,
+                    "lon": -1.6,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

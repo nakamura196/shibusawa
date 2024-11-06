@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-01-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 大雪、朝、 <orgname> 石川島造船所 </orgname> 重役会ヲ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       宅ニ開キ、当季株主配当ノ事其他ノ要件ヲ議定ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 東京市役所ニ於テ養育院 <date when=\"1899\">\n        明治三十二年 </date> 度ノ予算ノ事ヲ議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<orgname> 石川島造船所 </orgname> ニ抵リ株主総会ニ列シ配当其他ノ事ヲ決定ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ株主総会ヲ開クヘキノ処、来会者少キヲ以テ <persname corresp=\"#pers_横山\">\n<surname> 横山 </surname>\n</persname> 氏ニ托シテ去ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 過 <placename corresp=\"#place_築地\"> 築地\n       </placename> 瓢屋ニ於テ若松築港会社拡張工事ノ議ニ列ス、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯、 <persname corresp=\"#pers_岩崎弥之助\">\n<surname> 岩崎 </surname>\n<forename> 弥之助 </forename>\n</persname> 、 <persname corresp=\"#pers_古市公威\">\n<surname> 古市 </surname>\n<forename> 公威 </forename>\n</persname> 、 <persname corresp=\"#pers_和田維四郎\">\n<surname> 和田 </surname>\n<forename> 維四郎 </forename>\n</persname> 、 <persname corresp=\"#pers_仙石貢\">\n<surname> 仙石 </surname>\n<forename> 貢 </forename>\n</persname> 、 <persname corresp=\"#pers_安川敬一郎\">\n<surname> 安川 </surname>\n<forename> 敬一郎 </forename>\n</persname> 等ノ諸氏ト会話ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散会ス <lb></lb> （欄外） <lb></lb>\n       ［此日郵船会社重役会アリシモ多忙ニ付欠席ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

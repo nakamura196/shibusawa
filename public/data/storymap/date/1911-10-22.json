@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-10-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:15:00",
+                    "text": "<time when=\"07:15:00\"> 午前七時十五分 </time> 起床、風邪気ナルヲ以テ、半身浴ヲ為シ、畢テ朝飧ヲ食シ、後、修養団員 <persname corresp=\"#pers_日野鶴吉\">\n<surname> 日野 </surname>\n<forename> 鶴吉 </forename>\n</persname> 氏ニ面話シ <date evidence=\"year inferenced, month\" when=\"1911-10-29\"> 二十九日 </date>\n       茶話会開催ノ事ヲ談ス、 <persname corresp=\"#pers_相川豊三\">\n<surname> 相川 </surname>\n<forename> □三 </forename>\n</persname> 氏来話《（豊カ・ <persname corresp=\"#pers_相川豊三\">\n<surname> 相川 </surname>\n<forename> 豊三 </forename>\n</persname> ）》ス、身上ノ依頼ニ係ル、 <persname corresp=\"#pers_相馬由也\">\n<surname> 相馬 </surname>\n<forename> 由也 </forename>\n</persname> 氏来リ、中央公論社ノ為メ物価騰貴ニ関スル説ヲ問ハル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

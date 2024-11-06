@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-10-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time>\n       起テ書類ヲ整理ス、蓋シ昨日此地ニ来着セシ留守宅又ハ銀行其他ノ書信、及ヒ報告書ハ之ヲ熟読スルノ暇ナカリシニヨリ今朝之ヲ調査セリ、又上海総領事 <persname corresp=\"#pers_小田切\">\n<surname> 小田切 </surname>\n</persname> 氏及湖南汽船会社 <persname corresp=\"#pers_白岩竜平\">\n<surname> 白岩 </surname>\n<forename> 竜平 </forename>\n</persname> 氏ニ書状ヲ認メテ発送ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 朝飧ヲ畢リ、一行寄宿舎ヲ発シテ領事館ヲ訪問シ、更ニ三井物産会社、\n        <orgname> 日本郵船会社 </orgname> 等ヲ訪問シ、又 <orgname> 東洋汽船会社 </orgname> 事務所ヲ訪ヒ、夫ヨリ小蒸気船ニテ本船ニ抵ル、在\n        <placename corresp=\"#place_香港\"> 香港 </placename> ノ各商店ノ人々本船ニ来リテ行ヲ送ル者数十名アリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 22.267,
+                    "lon": 114.188,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 過出帆、港湾ヲ迂回シ小島嶼ヲ巡リテ大洋ニ出ツ、風強ク船動揺セリ、午後 <placename corresp=\"#place_南清\"> 南清 </placename> 地方ノ諸山ヲ左舷ニ見ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

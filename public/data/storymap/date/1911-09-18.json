@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-09-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 頃臥床ヲ離レタレトモ朝来風邪気ニテ入浴スルヲ得ス、書院ニ病褥ヲ設ケテ起臥ス、朝飧後、 <persname corresp=\"#pers_中井三之助\">\n<surname> 中井 </surname>\n<forename> 三之助 </forename>\n</persname> 、 <persname corresp=\"#pers_畑長三郎\">\n<surname> 畑 </surname>\n<forename> 長三郎 </forename>\n</persname> 二氏来訪ス、中井 <placename corresp=\"#place_上海市\"> 上海 </placename> ノ支店閉鎖ノ事及 <persname corresp=\"#pers_畑\">\n<surname> 畑 </surname>\n</persname> 氏之ヲ継承ノ事ヲ報セラル、 <persname corresp=\"#pers_玉利\">\n<surname> 玉利 </surname>\n</persname> 、南二氏ハ病気ノ旨ヲ以テ面会ヲ謝絶ス、午飧後、 <persname corresp=\"#pers_嘉納治五郎\">\n<surname> 嘉納 </surname>\n<forename> 治五郎 </forename>\n</persname> 氏来リ、世界的運動競技会開設ノ事ニ付種々ノ談話アリ、 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診セラル、 <persname corresp=\"#pers_明石愛子\">\n<surname> 明 <pb corresp=\"#pageB1698\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/724/full/max/0/default.jpg\" n=\"B1698\" source=\"#pageB1698\"></pb> 石 </surname>\n<forename> 愛子 </forename>\n</persname> 来話ス、此日ハ終日褥中ニ在テ各新聞紙及雑誌類ヲ一覧シ、後桜田義挙録ヲ読ム、夜飧後モ読書ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 31.16667,
+                    "lon": 121.48333,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

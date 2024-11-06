@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-03-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床、室内ヲ散歩シ書類ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ畢リ、新聞紙ヲ一覧シ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 師範学校内ニ催フセシ孔子祭ノ協議会ニ出席シ中坐シテ <placename corresp=\"#place_渋谷\"> 渋谷\n       </placename> ナル廃兵院ニ抵ル、 <persname corresp=\"#pers_閑院宮\">\n<surname> 閑院宮 </surname>\n</persname> 殿下、 <persname corresp=\"#pers_大山\">\n<surname> 大山 </surname>\n</persname> 、 <persname corresp=\"#pers_野津\">\n<surname> 野津 </surname>\n</persname> 其他各大将来会ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.65985,
+                    "lon": 139.7029222,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 之ヲ辞シテ <placename corresp=\"#place_芝山内\"> 芝山内 </placename> ナル <persname corresp=\"#pers_若尾民造\">\n<surname> 若尾 </surname>\n<forename> 民造 </forename>\n</persname> 氏寓居ニ抵リ新婚ノ媒酌ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time> 過ヨリ新婦ヲ伴フテ <persname corresp=\"#pers_大橋\">\n<surname> 大橋 </surname>\n</persname> 氏ノ家ニ抵リ新婚ノ式ヲ挙ク、種々ノ手続アリテ後、饗宴ヲ開ク、宴散シテ帰宅セシハ翌 <date evidence=\"year inferenced, month\" when=\"1907-03-18\"> 十八日 </date>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:00:00",
+                    "text": "<time when=\"05:00:00\"> 午前五時 </time> ナリキ <lb></lb> 午前、 <persname corresp=\"#pers_留岡\">\n<surname> 留岡 </surname>\n</persname> 、 <persname corresp=\"#pers_山室\">\n<surname> 山室 </surname>\n</persname> 、 <persname corresp=\"#pers_安達\">\n<surname> 安達 </surname>\n</persname> 氏等来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

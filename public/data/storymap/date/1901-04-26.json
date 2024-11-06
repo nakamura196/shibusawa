@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-04-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇大風、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:20:00",
+                    "text": "<time when=\"06:20:00\"> 午前六時二十分 </time>\n<placename corresp=\"#place_長野\"> 長野 </placename> ヲ発シ <placename corresp=\"#place_信越地方\"> 信越\n       </placename> 各地ヲ経過シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_柏崎\"> 柏崎 </placename> ニ抵ル、浅野石油精練所ヲ一覧シテ後日本石油会社ノ案内ニテ一割烹店 <pb corresp=\"#pageB1189\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/215/full/max/0/default.jpg\" n=\"B1189\" source=\"#pageB1189\"></pb> ニテ午餐ス、食事後日本石油会社製油所ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time>\n<placename corresp=\"#place_柏崎\"> 柏崎 </placename> 発ノ汽車ニ搭シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<placename corresp=\"#place_長岡\"> 長岡 </placename> 着、停車場ニハ地方各銀行諸会社ノ人数多来リ迎フ、 <persname corresp=\"#pers_松井吉太郎\">\n<surname> 松井 </surname>\n<forename> 吉太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_岸宇吉\">\n<surname> 岸 </surname>\n<forename> 宇吉 </forename>\n</persname> 其他数十人ノ案内ニテ若松亭ニ投宿ス、入浴後 <orgname> 常盤楼 </orgname>\n       ニ抵リ、地方銀行及諸会社員催ス処ノ招宴ニ出席シ、経済ニ関スル一場ノ演説ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 頃散会帰寓ス、此日、韓国\n        <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 公使、 <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> ニ一書ヲ認メ本店 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ヘ宛発送ス、留守宅 <persname corresp=\"#pers_尾高幸五郎\">\n<surname> 尾高 </surname>\n<forename> 幸五郎 </forename>\n</persname> ヘ一書ヲ送付ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-08-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 一行ハ <persname corresp=\"#pers_ハウスト\">\n<surname> ハウスト </surname>\n</persname> 氏及我陸軍省ヨリ派遣セラレテクルツプ鉄工場ニ注文セシ兵器類ノ製造監督役ナル <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 、 <persname corresp=\"#pers_原口\">\n<surname> 原口 </surname>\n</persname>\n       ノ両氏同行シテクルツプ工場ニ使役セル職工寄宿所ニ抵ル、寄宿所ハ市街ニ接続スル土地ニアリテ其設備頗ル完全ナリ、クルツプ鉄工場ニ於テ使用スル職工ノ総数ハ弐万四千人余ノ多数ヲ要シ、其寄宿所ノ場処モ七ケ所ニ分設セラレ、何レモコロニート称シテ各区域ニ寺院、小学校等ノ設マテモアリテ実ニ至レリ尽セリト云フヘシ、殊ニ其家屋ノ構造モ各家其趣ヲ異ニシテ殆ント小別荘ノ観アリ、各戸皆清潔ニシテ庭前ニ花卉又ハ野菜等ヲ培栽シ花園ノ態ヲ備フ、実ニ欧米各工場ニ於テ未タ曾テ夢ニタモ見ル能ハサル美観ト云フヘシ、蓋シクルツプ鉄工場ノ起原ハ今ヲ去ル凡ソ百年余ニシテ、現在ノ\n        <persname corresp=\"#pers_クルツプ\">\n<surname> クルツプ </surname>\n</persname> 氏ノ祖父ナル人始テ斯業ヲ経始シ、刻苦精励セシモ、時機宜ヲ得サル為メ資金窮乏シテ大ニ困難セシカ、其子ノ <persname corresp=\"#pers_クルツプ\">\n<surname> クルツプ </surname>\n</persname>\n       奇才アリテ技術ニ練熟シ、且人ヲ用フルニ巧ニシテ、殊ニ当時鉄道ノ発達ニ際シテ其車輛ノ製造ニ新発明ノ工夫アリシト、銃砲、鉄板等ノ製作、時運ニ応セシトニテ一時ニ其利益倍蓰シ <pb corresp=\"#pageB1269\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/295/full/max/0/default.jpg\" n=\"B1269\" source=\"#pageB1269\"></pb> テ終ニ今日ノ盛大ヲ見ルニ至レリト云フ、而シテ現今ノ <persname corresp=\"#pers_クルツプ\">\n<surname> クルツプ </surname>\n</persname> 氏ハ工務督励ノ余力勉テ工夫保護ノ事ニ尽力シ、前ニ述ル如キ設備ヲ其寄宿所ニ施スヲ以テ終身ノ娯楽ト為スト云フ、真ニ美事ト称スヘキナリ午飧後 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 、 <persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> 、 <persname corresp=\"#pers_萩原\">\n<surname> 萩原 </surname>\n</persname> 等ヲ伴ヒ、陸軍士官両氏及 <persname corresp=\"#pers_ハウスト\">\n<surname> ハウスト </surname>\n</persname> 氏ノ案内ニテクルツプ鉄工場ヲ一覧ス、其施設曾テ <placename corresp=\"#place_イギリス\"> 英国 </placename>\n       アルムストロング又ハビカス及 <placename corresp=\"#place_ベルギー\"> 白耳義 </placename>\n       コクリール等ノモノニ比シテ一層壮大ニシテ整頓セリト思ハル、一覧後旅宿ニ帰リテ衣服ヲ改メ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 午後八時 </time>\n<persname corresp=\"#pers_クルツプ\">\n<surname> クルツプ </surname>\n</persname> 氏ノ招宴ニ応シテ其邸ニ抵ル、此日ノ晩飧会ハ余ト <placename corresp=\"#place_ブラジル\"> ブラジル </placename>\n       ヨリ来レル陸軍将官ノ為ニ設ケタルモノニシテ、接客ノ間及食堂ノ粧飾等善美ヲ尽シタリ、食後 <placename corresp=\"#place_イタリア\"> 伊太里\n       </placename> 風ノ音楽数番アリ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": -15.783,
+                    "lon": -47.867,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 宴散シテ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

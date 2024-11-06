@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-12-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 昨夜より熱気ハ稍消すれとも咳嗽甚しく、胸膈をせり上ル、難堪ければ <persname corresp=\"#pers_伊東\">\n<surname> 伊東 </surname> 大典医 </persname> に書状を遣し、病之よしを報し、来訪を請ふ、夕方同人来る、散薬水薬等を送る、此日 <placename corresp=\"#place_静岡\"> 静岡 </placename> に書状を遣、 <persname corresp=\"#pers_平岡\">\n<surname> 平岡 </surname>\n</persname> 、 <persname corresp=\"#pers_小栗\">\n<surname> 小栗 </surname>\n</persname> 、其外常平倉掛附御用達并宅状等遣す、爾来之手続委細申遣す <lb></lb> 明日出勤之儀、 <persname corresp=\"#pers_伊東\">\n<surname> 伊東 </surname>\n</persname> より切ニ被差留 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

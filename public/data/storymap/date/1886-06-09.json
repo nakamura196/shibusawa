@@ -1,0 +1,66 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1886-06-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:00:00",
+                    "text": "<time when=\"05:00:00\"> 午前五時 </time> 大聖寺ヲ発シ、 <persname corresp=\"#pers_小松\">\n<surname> 小松 </surname>\n</persname> 、 <placename corresp=\"#place_松任\"> 松任 </placename> 等ノ諸駅ヲ経、手取川ヲ航シ <placename corresp=\"#place_金沢\"> 金沢 </placename> ニ達ス、駅頭 <persname corresp=\"#pers_石川巌\">\n<surname> 石川 </surname>\n<forename> 巌 </forename>\n</persname> 、及 <orgname> 北陸銀行 </orgname> 諸子、 <placename corresp=\"#place_高岡\"> 高岡 </placename>\n       、 <placename corresp=\"#place_伏木\"> 伏木 </placename> ノ諸估来リ迎ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 36.56106,
+                    "lon": 136.6565,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時\n       </time> 相伴テ <placename corresp=\"#place_金沢市\"> 金沢 </placename>\n       ニ抵リ、此花亭ニ投宿ス、食後公園ニ至リ博物場ヲ一覧シ、更ニ尾山神社ヲ詣シ、市街ヲ遊覧シ、又製糸所ヲ一覧ス、夜、 <persname corresp=\"#pers_岩村\">\n<surname> 岩村 </surname>\n</persname> 県令ト <persname corresp=\"#pers_石川巌\">\n<surname> 石川 </surname>\n<forename> 巌 </forename>\n</persname> ノ寓居ニ会シテ <orgname> 北陸銀行 </orgname> ノ事ヲ議ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 36.56106,
+                    "lon": 136.6565,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n       高岡人等ノ請ニ応シ、鶯谷酒楼ニ飲ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-12-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_阪東宣雄\">\n<surname> 阪東 </surname>\n<forename> 宣雄 </forename>\n</persname> 、 <persname corresp=\"#pers_堀田賢三\">\n<surname> 堀田 </surname>\n<forename> 賢三 </forename>\n</persname> 二氏ノ来訪ニ接シテ <persname corresp=\"#pers_堀田\">\n<surname> 堀田 </surname>\n</persname> 氏塗料事業ノ事ヲ談ス、 <persname corresp=\"#pers_都倉義一\">\n<surname> 都倉 </surname>\n<forename> 義一 </forename>\n</persname> 氏来リテ財政ニ関スル意見ヲ詳話ス、 <persname corresp=\"#pers_田中保次郎\">\n<surname> 田中 </surname>\n<forename> 保次郎 </forename>\n</persname> 氏来リ <orgname> 山陽新聞 </orgname> 紙ノ事ヲ談ス、 <persname corresp=\"#pers_西山悊治\">\n<surname> 西山 </surname>\n<forename> 悊治 </forename>\n</persname> 氏来リ学校設立ノ事ヲ談ス、 <persname corresp=\"#pers_山下弥七郎\">\n<surname> 山下 </surname>\n<forename> 弥七郎 </forename>\n</persname> 氏来リ身上ニ付談話ス、十二帝国劇場ニ抵リ慰労会ヲ開キ、文芸協会ノ人々ト会食シテ卓上一場ノ演説ヲ為ス、畢テ <persname corresp=\"#pers_岩崎久弥\">\n<surname> 岩崎 </surname>\n<forename> 久弥 </forename>\n</persname> 氏ヲ事務所ニ訪ヘ日露協会寄附金ノ事ヲ談ス、又、 <persname corresp=\"#pers_近藤廉平\">\n<surname> 近藤 </surname>\n<forename> 廉平 </forename>\n</persname> 氏ヲ訪ヘ <persname corresp=\"#pers_堀田\">\n<surname> 堀田 </surname>\n</persname> 氏塗料事業ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 事務所ニ於テ来人ニ接ス、 <persname corresp=\"#pers_中村\">\n<surname> 中村 </surname>\n</persname> 氏来リ故 <persname corresp=\"#pers_岩崎弥太郎\">\n<surname> 岩崎 </surname>\n<forename> 弥太郎 </forename>\n</persname> 氏ニ対スル感想ヲ述フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リ <persname corresp=\"#pers_郷誠之助\">\n<surname> 郷 </surname>\n<forename> 誠之助 </forename>\n</persname> 氏ノ招宴ニ出席ス、 <persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 、 <persname corresp=\"#pers_土方\">\n<surname> 土方 </surname>\n</persname> 、 <persname corresp=\"#pers_芳川\">\n<surname> 芳川 </surname>\n</persname> 、沖、其他ノ諸氏来会ス、余興数番アリ、散会後、 <placename corresp=\"#place_浜町\"> 浜町 </placename>\n       宅ニ立寄リ女児ノ病ヲ訪フ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 帰宿、後、新聞紙ヲ読マシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

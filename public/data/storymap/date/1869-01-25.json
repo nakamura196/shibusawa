@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-01-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝より旅装を整ふ、 <persname corresp=\"#pers_田中清三郎\">\n<surname> 田中 </surname>\n<forename> 清三郎 </forename>\n</persname> 来、 <persname corresp=\"#pers_王屋忠四郎\">\n<surname> 王屋 </surname>\n<forename> 忠四郎 </forename>\n</persname> 来 <lb></lb> 午後、 <persname corresp=\"#pers_加太八兵衛\">\n<surname> 加太 </surname>\n<forename> 八兵衛 </forename>\n</persname> 代人来、預金書面認直し、金三百八十両余之口上納いたす、大黒屋へ書翰遣し、預ケ金之儀申遣す、三ツ井へ呉服代之儀申遣す、大黒屋代人来る、預金四百両相渡ス、三ツ井呉服代\n        <persname corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persname> 方ニ而請取、夕方 <persname corresp=\"#pers_川勝\">\n<surname> 川勝 </surname>\n</persname> へ <persname corresp=\"#pers_川路寛堂\">\n<surname> 川路 </surname>\n<forename> 太郎 </forename>\n</persname> 英生徒御手当差引残相渡す、夜、 <persname corresp=\"#pers_梅田\">\n<surname> 梅田 </surname>\n</persname> 方へ罷越、おひさ来る、浄瑠璃を聴聞す "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

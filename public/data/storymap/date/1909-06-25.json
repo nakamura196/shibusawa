@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-06-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シ、畢テ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 朝飧ヲ食シ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <orgname> 人造肥料会社 </orgname>\n       重役会ヲ開キ、 <persname corresp=\"#pers_犬丸\">\n<surname> 犬丸 </surname>\n</persname> 氏身上ニ関スル事ヲ談ス、畢テ <orgname> 第一銀行 </orgname> ニ抵リテ午飧シ、後、 <persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> 氏ト種々ノ要件ヲ談ス、蓋シ同氏今日 <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n       ニ帰任スルヲ以テ、銀行事務、其他瓦斯電気、鉱山、水力等ニ関スル要務ヲ談話ス、又、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト事務ヲ談シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 再ヒ事務所ニ抵リテ雑務ヲ処理シ文書ヲ整理ス、 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 氏来リ <orgname> 石川島造船所 </orgname> ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 永代町\n        <orgname> 日本銀行 </orgname> 集会所ニ抵リ <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 首相以下、内務、農商務、逓信三省大臣、次官及実業家二十余名ノ会同ニ列席ス、種々ノ経済財政談アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時\n       </time> 散会、帰宿ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<persname corresp=\"#pers_岡崎遠光\">\n<surname> 岡崎 </surname>\n<forename> 遠光 </forename>\n</persname> 氏来リ、日韓瓦斯会社ノ事及電気事業買収ノ顚末 <pb corresp=\"#pageB1580\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/606/full/max/0/default.jpg\" n=\"B1580\" source=\"#pageB1580\"></pb> ヲ報告セラル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

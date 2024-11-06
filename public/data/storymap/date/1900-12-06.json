@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-12-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 過 <placename corresp=\"#place_岡山\"> 岡山 </placename>\n       発汽車ニ搭シ <placename corresp=\"#place_姫路\"> 姫路 </placename> ニ抵リテ午餐シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時\n       </time> 過 <placename corresp=\"#place_神戸\"> 神戸 </placename>\n       ニ達ス、常盤花壇ニ投宿ス、停車場ニ来リ迎フ者数十人、大坂商業会議所員、三重 <persname corresp=\"#pers_伊藤伝七\">\n<surname> 伊藤 </surname>\n<forename> 伝七 </forename>\n</persname> 氏、神戸貿易調査会員等来訪ス、頃日来ノ感冒全愈ニ至ラサルヲ以テ、夕方ヨリ褥ニ就テ発汗ス、夜、大坂店 <persname corresp=\"#pers_伊藤与七\">\n<surname> 伊藤 </surname>\n<forename> 与七 </forename>\n</persname> 、 <orgname> 台湾銀行 </orgname>\n<persname corresp=\"#pers_土岐〓\">\n<surname> 土岐 </surname>\n<forename> 〓 </forename>\n</persname> 等来訪ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

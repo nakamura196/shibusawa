@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-03-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、半身浴ヲナシテ朝飧ヲ食ス、後、 <placename corresp=\"#place_山梨県\"> 山梨県\n       </placename> ヨリ来訪セシ <persname corresp=\"#pers_大森\">\n<surname> 大森 </surname>\n</persname> ト称スル婦人ノ来訪ニ接ス、此日ハ揮毫ノ心算ニテ午前ハ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯ノ寿像ヲ書ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.664139,
+                    "lon": 138.568417,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 過キ畢リテ午飧ヲ食ス、後、再ヒ額面幅物等四十余枚ヲ揮毫ス、夕方\n        <persname corresp=\"#pers_古賀廉蔵\">\n<surname> 古賀 </surname>\n<forename> 廉蔵 </forename>\n</persname> 氏ヨリ電話来ル、明 <date when=\"1912-03-09\"> 九日 </date> ノ会見ヲ約ス、又、 <persname corresp=\"#pers_福原\">\n<surname> 福原 </surname>\n</persname> 文部次官ト電話ヲ交換シ明日 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 往訪ノ事ヲ約ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\">\n        六時 </time> 頃揮毫ヲ止メ、日記ヲ編成シ、又、百話ノ原稿ヲ修正ス、夜飧後モ同シク草稿ノ修正ニ努ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

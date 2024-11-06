@@ -1,0 +1,66 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-02-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、朝来訪問ノ客ニ接シ午後 <orgname> 第一銀行 </orgname> ニテ重役会ヲ開キ要件ヲ議決ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<placename corresp=\"#place_赤坂_(東京都港区)\"> 赤坂 </placename>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 子ノ邸ニ抵リ、 <orgname> 汽車製造会社 </orgname> ノ重役会ニ列シ諸規則ヲ議決ス、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏、 <persname corresp=\"#pers_田島\">\n<surname> 田島 </surname>\n</persname> 氏来会ス <lb></lb>\n"
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6723722,
+                    "lon": 139.7365389,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<orgname> 花月楼 </orgname> ニ於テ <placename corresp=\"#place_天津市\"> 天津 </placename> 在留仏商 <persname corresp=\"#pers_ヒリポツト\">\n<surname> ヒリポツト </surname>\n</persname> 氏及 <persname corresp=\"#pers_林権助\">\n<surname> 林 </surname>\n<forename> 権助 </forename>\n</persname> 、 <persname corresp=\"#pers_木内重四郎\">\n<surname> 木内 </surname>\n<forename> 重四郎 </forename>\n</persname> 、商業会議所役員 <persname corresp=\"#pers_萩原\">\n<surname> 萩原 </surname>\n</persname> 、 <persname corresp=\"#pers_小崎\">\n<surname> 小崎 </surname>\n</persname> 数氏ヲ饗宴ス、席上 <persname corresp=\"#pers_ヒリホツト\">\n<surname> ヒリホツト </surname>\n</persname> 氏陳列館ノ事ヲ演説ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 39.12361,
+                    "lon": 117.19806,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

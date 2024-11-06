@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-08-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、昨夜腹部悪シクシテ僅ニ朝飧ヲ為ス、食後褥中ニテ <pb corresp=\"#pageB1640\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/666/full/max/0/default.jpg\" n=\"B1640\" source=\"#pageB1640\"></pb>\n       保養ス、水害救済会ヨリ出勤ノ電話アリシモ病ヲ以テ之ヲ辞ス、水災善後会モ会合ノ通知アルモ同シク謝絶セリ、終日褥ニ在テ書状ヲ認メ又、読書ス <lb></lb>\n<persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス、夜ニ入テ新聞紙ヲ一覧ス、 <persname corresp=\"#pers_林認\">\n<surname> 林 </surname>\n<forename> 認 </forename>\n</persname> 氏来訪《（林訒氏）》ス、添書シテ <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 銀行 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 氏ヲ訪問セシム、其任用ヲ企望スルヲ以テナリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

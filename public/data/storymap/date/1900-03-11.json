@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-03-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、此日養育院ニ於テ委員会ヲ開キ、且午後ニハ本願寺ヨリ院内ノ窮民ニ説教アル筈ナルニ付出席ノ事ヲ約セシモ、病ノ為ニ之ヲ謝シ書状ヲ送テ要務ヲ弁ス、午後 <persname corresp=\"#pers_斎藤峰三郎\">\n<surname> 斎藤 </surname>\n<forename> 峰三郎 </forename>\n</persname> 来ル、海上保険会社ノ計算ノ事ヲ話ス、此夕 <placename corresp=\"#place_熊ノ沢\"> 熊ノ沢 </placename> 硫黄坑ノ事ニ付\n        <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏ト共ニ、 <persname corresp=\"#pers_坪田佐平太\">\n<surname> 坪田 </surname>\n<forename> 佐平太 </forename>\n</persname> 、 <persname corresp=\"#pers_古河市兵衛\">\n<surname> 古河 </surname>\n<forename> 市兵衛 </forename>\n</persname> 及坑業関係ノ人々ヲ会シテ饗宴ヲ開ク "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

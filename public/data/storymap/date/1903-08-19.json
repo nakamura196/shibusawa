@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-08-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起テ海水ニ入ル、朝気清爽、加フルニ紅日波間ニ映シテ眺望頗ル壮快ナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢リ、 <placename corresp=\"#place_東京\"> 東京 </placename>\n       ヘノ書状ヲ裁シテ郵送ス、畢テ日記ヲ調理シ且読書ス <lb></lb> 午後 <placename corresp=\"#place_東京\"> 東京 </placename>\n<persname corresp=\"#pers_早川千吉郎\">\n<surname> 早川 </surname>\n<forename> 千吉郎 </forename>\n</persname> ヨリ電報アリテ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ヨリ会見ノ事ヲ通シ来ル、夜ニ入リテ隣家ナル <persname corresp=\"#pers_伏見宮\"> 伏見宮 </persname>\n       御僑居ニ於テ地方ニ行ハルヽ田舎踊ヲ催フサレ村内ノ婦女子多人数来リ聚ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 午後八時 </time> 頃ヨリ雷鳴強ク驟雨来ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

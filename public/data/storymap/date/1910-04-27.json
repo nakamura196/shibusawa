@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-04-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、種々ノ来客ニ接ス、今日出発帰京スル筈ナルニヨリ、朝ヨリ旅装ヲ理ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 旅宿ヲ発シ、七条停車場ニ抵ル、数多ノ送別人アリテ室内ニ塡ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 九時三十分 </time>\n<placename corresp=\"#place_京都\"> 京都 </placename> 発ノ急行列車ニ搭シ、 <placename corresp=\"#place_大垣市\">\n        大垣 </placename> 駅ニテ午飧ス、 <placename corresp=\"#place_名古屋\"> 名古屋 </placename> 駅ニ抵レハ、 <persname corresp=\"#pers_伊藤与七\">\n<surname> 伊藤 </surname>\n<forename> 与七 </forename>\n</persname> 、 <persname corresp=\"#pers_斎藤恒三\">\n<surname> 斎藤 </surname>\n<forename> 恒三 </forename>\n</persname> 其他数名来リテ行ヲ送ル、 <placename corresp=\"#place_駿河\"> 駿河 </placename> ニ入リテ空晴レ、富峰全形ヲ見ル、\n        <placename corresp=\"#place_箱根\"> 箱根 </placename> ニ抵ル頃ヨリ日既ニ没シテ山暗ク水稍白シ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.35994,
+                    "lon": 136.61269,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:30:00",
+                    "text": "<time when=\"20:30:00\">\n        八時半 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> ニ着ス、留守宅及近親又ハ友人等多ク来リ迎フ、一々之ニ応シテ自働車ニテ <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宅ス、夜、家人ニ《（マヽ）》留守中ニアリシ要務ノ報告アリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

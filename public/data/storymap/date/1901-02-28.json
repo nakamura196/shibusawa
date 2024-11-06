@@ -1,0 +1,59 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-02-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前、 <persname corresp=\"#pers_清水釘吉\">\n<surname> 清水 </surname>\n<forename> 釘吉 </forename>\n</persname> 、同 <persname corresp=\"#pers_清水一雄\">\n<forename> 一雄 </forename>\n</persname> 二氏来リ家政ノ事ニ付テ談話ス、 <persname corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persname> 氏来リ京仁鉄道ノ事ヲ談ス、 <persname corresp=\"#pers_福島覚四郎\">\n<surname> 福島 </surname>\n<forename> 覚四郎 </forename>\n</persname> 来リ <placename corresp=\"#place_秋田県\"> 秋田県 </placename> 下硫黄山ノ事ヲ談ス、 <persname corresp=\"#pers_羽野\">\n<surname> 羽野 </surname>\n</persname> 氏来リ洲先養魚会社《（ <placename corresp=\"#place_洲崎\"> 洲崎 </placename> ）》ノ事ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 39.718611111111,
+                    "lon": 140.1025,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n       商業会議所臨時会ニ出席ス、役員改撰ヲ行ヒ会頭ノ再撰ヲ受ク、尋テ他ノ役員ノ撰挙ヲ為シ、其他ノ議事決了ノ上更ニ新役員会ヲ開キ、経済ニ関スル協議ヲ為シ、直ニ <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 総理大臣訪問ノ事ヲ定メ <persname corresp=\"#pers_大倉喜八郎\">\n<surname> 大倉 </surname>\n<forename> 喜八郎 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢成一郎\">\n<surname> 渋沢 </surname>\n<forename> 喜作 </forename>\n</persname> 、 <persname corresp=\"#pers_井上角五郎\">\n<surname> 井上 </surname>\n<forename> 角五郎 </forename>\n</persname> ト共ニ大臣邸ヲ訪ヒ、面会ノ上種々ノ談話ヲ為シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-08-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 小雨、午前 <placename corresp=\"#place_東京\"> 東京 </placename> ヘノ妻状ヲ裁ス、午後 <persname corresp=\"#pers_児玉少介\">\n<surname> 児玉 </surname>\n<forename> 少介 </forename>\n</persname> 来ル、小野田セメント会社ノ事ニ関シ大坂店 <persname corresp=\"#pers_長谷川\">\n<surname> 長谷川 </surname>\n</persname> ヘノ書状ヲ請ハル、依テ一書ヲ附ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-07-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ、朝飧ヲ食ス、畢テ <persname corresp=\"#pers_木村\">\n<surname> 木村 </surname>\n</persname> 某来リ醸造酒ノ事ヲ談ス、又、実業ノ世界記者来リ談ス、人ノ事業ニ成功スルハ其心事ト適合如何ニ付種々ノ意見ヲ述フ、後、 <persname corresp=\"#pers_井口\">\n<surname> 井口 </surname>\n</persname> 氏ヨリ請求セラルル百話ノ草稿ヲ閲覧シテ之ヲ修正ス、午飧後、 <persname corresp=\"#pers_島田三郎\">\n<surname> 島田 </surname>\n<forename> 三郎 </forename>\n</persname> 氏来リ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 行ニ関シテ種々ノ談話ヲ為ス、\n        <placename corresp=\"#place_川越\"> 川越 </placename> 喜多院住職 <persname corresp=\"#pers_遠賀亮中\"> 遠賀\n       </persname> 師来話ス、後、再ヒ百話草稿ノ修正ニ勉ム、夜ニ至ルモ閲了スルヲ得ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 庭園ヲ散歩シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 頃ヨリ <persname corresp=\"#pers_皆川晃雄\">\n<surname> 皆川 </surname>\n<forename> 晃雄 </forename>\n</persname> 氏来リ、夜飧後、新約全書ヲ会読ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

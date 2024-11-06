@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-01-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シテ朝飧ヲ食ス、畢テ <persname corresp=\"#pers_安田久之助\">\n<surname> 安田 </surname>\n<forename> 久之助 </forename>\n</persname> 氏来リ帽子会社営業ノ状態ヲ談話ス、 <persname corresp=\"#pers_野依秀市\">\n<surname> 野依 </surname>\n<forename> 秀一 </forename>\n</persname> 氏来リ <persname corresp=\"#pers_朝吹英二\">\n<surname> 朝吹 </surname>\n<forename> 英二 </forename>\n</persname> 氏トノ交際ニ付テ往事ヲ談ス、 <persname corresp=\"#pers_森肇_(愛媛県の政治家)\">\n<surname> 森 </surname>\n<forename> 肇 </forename>\n</persname> 氏及 <persname corresp=\"#pers_森律子\">\n<forename> 律子 </forename>\n</persname> 来訪シ <persname corresp=\"#pers_森律子\">\n<forename> 律子 </forename>\n</persname> 海外行ノ企望ヲ内話セラル、 <orgname> 報知新聞 </orgname> 記者 <persname corresp=\"#pers_内山正居\">\n<surname> 内山 </surname>\n<forename> 正居 </forename>\n</persname> 氏来ル、午飧後、 <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢秀雄\">\n<forename> 秀雄 </forename>\n</persname> 、帰山氏及 <persname corresp=\"#pers_竹田\">\n<surname> 竹田 </surname>\n</persname> 嬢等ヲ同伴シテ <placename corresp=\"#place_神田\"> 神田 </placename> 錦輝館ニ抵リ活動写真ヲ見ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> ニ至リテ止ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半 </time> 帰宿、夜飧後、新聞紙雑誌類ヲ読ム\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

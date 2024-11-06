@@ -1,0 +1,108 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-01-24",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、直ニ入浴シ、畢テ朝飧ヲ食ス、 <placename corresp=\"#place_北海道\"> 北海道\n       </placename> 人 <persname corresp=\"#pers_遠藤\">\n<surname> 遠藤 </surname>\n</persname> 某来リ請フコトアリシモ之ヲ謝絶ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 43.064333,
+                    "lon": 141.346889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時半 </time>\n<persname corresp=\"#pers_東儀鉄笛\">\n<surname> 東儀 </surname>\n<forename> 季治 </forename>\n</persname> 氏来リ、試演所建設ノ事ニ関シ談話アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 養育院ニ抵リ、常設委員会ニ出席シテ <date evidence=\"year inferenced\" when=\"1908\"> 四十一年 </date> 度ノ予算ヲ議決ス、并テ本院医務其他ノ企望ヲ述フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n<orgname> 日本銀行 </orgname> ニ抵リ、 <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 総裁ニ面会シテ <orgname> 帝商銀行 </orgname> ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、 <persname corresp=\"#pers_伊藤幹一\">\n<surname> 伊藤 </surname>\n<forename> 幹一 </forename>\n</persname> 氏ノ来訪ニ接シ、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト要務ヲ談ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯爵ヲ <placename corresp=\"#place_麻布\"> 麻布 </placename> 邸ニ訪ヒ、 <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 氏ト共ニ <orgname> 汽車製造会社 </orgname> ノ事ヲ談ス、更ニ各鉄道会社ノ事ニ関シ、 <persname corresp=\"#pers_仙石\">\n<surname> 仙石 </surname>\n</persname> 、 <persname corresp=\"#pers_片岡\">\n<surname> 片岡 </surname>\n</persname> 二氏ト共ニ侯爵ニ会談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 侯ヲ其邸ニ訪ヒ、 <orgname> 帝商銀行 </orgname> ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename> ニ抵リ夜飧ヲ食ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n       過帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-12-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 午前八時半 </time> 広島発、宇品ニテ小蒸気船ニ搭シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n       頃呉港ニ達ス、同港上陸ノ後市街ヲ通過シテ吉川旅館ニ抵リ腕車ヲ雇ヒ、広村水力電気器械及用水取入口一覧ノ為メ出発ス、一行略十余人、行程三里ニシテ広村発電所ニ抵リ午餐ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n       頃発電所ヨリ山ニ登リテ有名ノ広村瀑布ヲ一覧シ、山上ニ達シテ行クコト半里許ニテ用水取入口ニ抵ル、更ニ伏樋及墜道等《（隧）》ヲ一覧シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時\n       </time> 過呉港ニ帰リ吉川旅館ニ一泊ス、此夜、 <persname corresp=\"#pers_松本\">\n<surname> 松本 </surname>\n</persname> 、 <persname corresp=\"#pers_海塚\">\n<surname> 海塚 </surname>\n</persname> 氏等ヨリ同旅館ニ於テ招宴セラル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

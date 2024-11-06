@@ -1,0 +1,72 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-08-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、朝 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 宅ニテ <persname corresp=\"#pers_成瀬\">\n<surname> 成瀬 </surname>\n</persname> ニ面会ス、午後銀行ニ於テ事務ヲ視ル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename> 瓢屋ニ九州鉄道会社ノ事ニ関シテ同志者ノ集会アリ、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 、 <persname corresp=\"#pers_今村清之助\">\n<surname> 今村 </surname>\n<forename> 清之助 </forename>\n</persname> 、 <persname corresp=\"#pers_松本重太郎\">\n<surname> 松本 </surname>\n<forename> 重太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_阿部泰蔵\">\n<surname> 阿部 </surname>\n<forename> 泰蔵 </forename>\n</persname> 、 <persname corresp=\"#pers_田島信夫\">\n<surname> 田島 </surname>\n<forename> 信夫 </forename>\n</persname> 、 <persname corresp=\"#pers_福沢捨次郎\">\n<surname> 福沢 </surname>\n<forename> 捨次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_志立鉄次郎\">\n<surname> 志立 </surname>\n<forename> 鉄次郎 </forename>\n</persname>\n<persname corresp=\"#pers_山崎\">\n<surname> 山崎 </surname>\n</persname> 某ノ諸氏ト会話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 午後七時三十分 </time> ノ汽車ニ搭シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\">\n        九時半 </time> 過 <placename corresp=\"#place_大磯町\"> 大磯 </placename> ニ着ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

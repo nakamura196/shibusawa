@@ -1,0 +1,100 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-10-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後 <persname corresp=\"#pers_桜井義肇\">\n<surname> 桜井 </surname>\n<forename> 義肇 </forename>\n</persname> 氏外一人ノ来訪ニ接ス、 <persname corresp=\"#pers_桜井\">\n<surname> 桜井 </surname>\n</persname> 氏ハ <placename corresp=\"#place_インド\"> 印度 </placename> 貿易ニ関スル件ニ付一会ヲ開催スル為メ来議セラレシナリ、\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 21.0,
+                    "lon": 78.0,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 朝飧ヲ食シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 十時半 </time>\n<orgname> 人造肥料会社 </orgname> ニ抵リ重役会ヲ開ク、 <placename corresp=\"#place_小松川\"> 小松川 </placename>\n       工場建築ノ現状ヲ一覧スル為メ、重役諸氏一同ト共ニ同所ニ抵リテ工事其他ノ模様ヲ視察ス畢リテ本社ニ帰リ午飧ヲ為シ、食後要件ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時\n       </time> 大日本製糖会社ニ抵リ、重役会ニ出席シテ同会社将来ノ経営ニ関シ意見ヲ陳述ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ書類ヲ調理シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename> 瓢屋ニ抵リ銀行者間ノ招宴ニ出席ス、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯、 <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 男等来会ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 帰宿ス、 <persname corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persname> 氏 <placename corresp=\"#place_鹿児島\"> 鹿児島 </placename> ヨリ帰来シ、 <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> 身上ニ付種々ノ協議ヲ為ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1907-10-30T02:00+0900\"> 二時 </time> 就寝 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

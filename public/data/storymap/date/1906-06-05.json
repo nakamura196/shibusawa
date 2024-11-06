@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-06-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後身体摩擦ヲ為シ庭園ヲ散歩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 七時半 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時\n       </time> 事務所ニ抵リテ要務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 銀行倶楽部 </orgname> ニ於テ、 <persname corresp=\"#pers_福沢\">\n<surname> 福沢 </surname>\n</persname> 、 <persname corresp=\"#pers_高橋\">\n<surname> 高橋 </surname>\n</persname> 、 <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname>\n<persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 、 <persname corresp=\"#pers_手塚\">\n<surname> 手塚 </surname>\n</persname> ノ諸氏ト劇場ノ事ヲ談ス、畢テ <orgname> 女子大学 </orgname> ニ抵リテ毎月会ニ出席シ、地所買入ノ事ヲ協議ス、 <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯、 <persname corresp=\"#pers_久保田\">\n<surname> 久保田 </surname>\n</persname> 、 <persname corresp=\"#pers_森村\">\n<surname> 森村 </surname>\n</persname> 二氏《（ <persname corresp=\"#pers_森村\">\n<surname> 森村 </surname>\n</persname> 三氏）》来会ス、畢テ再ヒ事務所ニ抵ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 午後五時半 </time> ヨリ <orgname> 銀行倶楽部\n       </orgname> ニ抵リ宴会ニ出席ス、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 統監、林外務大臣、 <persname corresp=\"#pers_小村\">\n<surname> 小村 </surname>\n</persname> 、高平、 <persname corresp=\"#pers_内田\">\n<surname> 内田 </surname>\n</persname> 、 <persname corresp=\"#pers_加藤高明\">\n<surname> 加藤 </surname>\n<forename> 高明 </forename>\n</persname> 、 <persname corresp=\"#pers_林権助\">\n<surname> 林 </surname>\n<forename> 権助 </forename>\n</persname> 氏等来会ス、食卓上一場ノ挨拶ヲ述フ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-08-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time>\n       起床、船室内ニテ入浴シ、畢テ甲板上ニ出テ散歩ス、朝来炎熱堪ヘカタキモ、時々驟雨アリテ涼風来ル、日米ト題スル雑誌ヲ読ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半\n       </time> 朝飧ヲ食ス、後又読書シ又ハ甲板上ヲ散歩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n       午飧ス、食後一行ヲ会シテ、各地ヨリ撰出ノ人士各相紹介シテ一般ノ行動及挙措ニ関スル打合ヲ為ス、予ハ団長ノ資格ヲ以テ一場ノ演説ヲ為ス、且委員撰挙ノ事ヲ定ム、午後雨歇ミテ冷気頓ニ加ハリ亦炎熱ヲ覚ヘス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time> 夜飧、其前甲板上ヲ散歩ス、食後一行ト喫煙室ニテ談話ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時\n       </time> 就寝、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 過ヨリ雷雨頻リニ至ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

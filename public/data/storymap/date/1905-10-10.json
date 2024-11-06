@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-10-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、風邪未タ全快セス、故ニ入浴スル能ハス、朝 <persname corresp=\"#pers_皆川\">\n<surname> 皆川 </surname>\n</persname> 氏ノ <pb corresp=\"#pageB1388\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/414/full/max/0/default.jpg\" n=\"B1388\" source=\"#pageB1388\"></pb> 依頼ニ応シテ <persname corresp=\"#pers_茂木\">\n<surname> 茂木 </surname>\n</persname> 、 <persname corresp=\"#pers_牧口\">\n<surname> 牧口 </surname>\n</persname> 二氏ヘノ添書ヲ裁ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,121 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-06-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢リ書状数通ヲ裁シ且書類ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時\n       </time> 日本鉄道会社ニ抵リ去ル金曜日ノ重役会ニ欠席セシニ付テ当日ノ議案ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ数多ノ来人ニ接ス、新聞記者多ク来リテ時事ヲ問ハル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<persname corresp=\"#pers_千家尊福\">\n<surname> 千家 </surname>\n</persname> 府知事ト共ニ東京電車鉄道ト市街鉄道トノ合併ニ関シ覚書ヲ両会社重役ニ交付ス、電車ヨリ <persname corresp=\"#pers_牟田口\">\n<surname> 牟田口 </surname>\n</persname> 、 <persname corresp=\"#pers_中野\">\n<surname> 中野 </surname>\n</persname> 、市街ヨリハ <persname corresp=\"#pers_藤山\">\n<surname> 藤山 </surname>\n</persname> 、 <persname corresp=\"#pers_野中\">\n<surname> 野中 </surname>\n</persname> 、 <persname corresp=\"#pers_吉田\">\n<surname> 吉田 </surname>\n</persname> 三氏来会ス、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 深川区役所ニ抵リ区会ヲ開ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time> 閉会、 <placename corresp=\"#place_清澄_(江東区)\"> 清澄町 </placename>\n<persname corresp=\"#pers_臼井\">\n<surname> 臼井 </surname>\n</persname> 氏宅ニ抵リ浦賀船渠会社重役会ニ参列ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6827111,
+                    "lon": 139.797333,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ <persname corresp=\"#pers_渋沢作太郎\">\n<surname> 渋沢 </surname>\n<forename> 作太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_書上\">\n<surname> 書上 </surname>\n</persname> 、 <persname corresp=\"#pers_桃井\">\n<surname> 桃井 </surname>\n</persname> 二氏《（三）》ニ会話シテ <placename corresp=\"#place_白金\"> 白金 </placename> ノ不都合行為ニ付処分方法ヲ協議ス、\n        <persname corresp=\"#pers_和田格太郎\">\n<surname> 和田 </surname>\n<forename> 格太郎 </forename>\n</persname> 来リ同シク <placename corresp=\"#place_白金\"> 白金 </placename> 身上ノ事ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> ヨリ同族会ヲ開キ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 散会、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

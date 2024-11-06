@@ -1,0 +1,101 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-07-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シテ後朝飧ヲ食ス、 <persname corresp=\"#pers_矢野由次郎\">\n<surname> 矢野 </surname>\n<forename> 由次郎 </forename>\n</persname> 氏来リ、 <persname corresp=\"#pers_カーネギー\">\n<surname> カーネギー </surname>\n</persname> 氏著述ノ勤倹ノ教訓ニ関シテ一場ノ意見ヲ述フ、 <persname corresp=\"#pers_長谷川福平\">\n<surname> 長谷川 </surname>\n<forename> 福平 </forename>\n</persname> 氏来リ、商業道徳ニ関スル談話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ来人ニ接ス <persname corresp=\"#pers_加藤政之助\">\n<surname> 加藤 </surname>\n<forename> 政之助 </forename>\n</persname> 、 <persname corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persname> 、 <persname corresp=\"#pers_河東田\">\n<surname> 河東田 </surname>\n</persname> 某氏等来訪ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time>\n<placename corresp=\"#place_麻布\"> 麻布 </placename>\n<placename corresp=\"#place_白金\"> 白金 </placename> 《（ <placename corresp=\"#place_芝\"> 芝\n       </placename> ）》ニ抵リ <persname corresp=\"#pers_渋沢作太郎\">\n<forename> 作太郎 </forename>\n</persname> ノ葬儀ニ列ス、 <placename corresp=\"#place_目黒\"> 目黒 </placename> 村 <placename corresp=\"#place_祐天寺\"> 祐天寺 </placename> ニ抵リ葬式ヲ行フ、埋葬畢テ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.636333,
+                    "lon": 139.696639,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 永代橋畔ノ\n        <orgname> 日本銀行 </orgname> 集会所ニ抵リ鰻会ニ出席ス、 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 首相モ来会ス、種々ノ談話アリ、帰途 <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ立寄リ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス <lb></lb>\n<persname corresp=\"#pers_渋沢作太郎\">\n<forename> 作太郎 </forename>\n</persname> 葬儀ハ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 出棺、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n       埋葬ヲ終ル、会スル者内外人士頗ル多ク盛式ナリキ <lb></lb>\n<persname corresp=\"#pers_頭本元貞\">\n<surname> 頭本 </surname>\n<forename> 元貞 </forename>\n</persname> 氏来話ス、氏ハ一昨日韓国ヨリ帰着セシ由ナリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

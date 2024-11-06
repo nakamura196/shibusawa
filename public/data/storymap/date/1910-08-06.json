@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-08-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、朝飧後、揮毫ノ請求ニ応シ十数枚ヲ認ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n       過 <placename corresp=\"#place_日本\"> 日本 </placename> 石油会社ニ抵リテ工場ヲ一覧ス、 <persname corresp=\"#pers_内藤\">\n<surname> 内藤 </surname>\n</persname> 、 <persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 及専任技師案内ス、畢テ天京旅亭ニ休憩ス、午飧後小学校ニ抵リ講演会ニ出席シ女子教育ノ必要ニ付一場ノ演説ヲ為ス、畢テ汽車ニ搭シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 頃 <placename corresp=\"#place_長岡\"> 長岡 </placename>\n       ニ着ス、来リ迎フ者頗ル多シ、若松亭ニ投宿ス、入浴後種々ノ来人ニ接シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 午後五時半 </time>\n<orgname> 六十九銀行 </orgname> ニ抵リ行員ニ一場ノ訓示ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n       過長岡館ニ抵リ、地方有志者ノ歓迎会ニ出席シ、経済ニ関スル一場ノ演説ヲ為ス、畢テ酒席ニ於テ数十人ノ献酬アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n       散宴、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

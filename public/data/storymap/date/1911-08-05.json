@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-08-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴後朝飧ヲ食ス、今日ハ <placename corresp=\"#place_伊香保\"> 伊香保\n       </placename> 旅行ノ筈ナリシモ昨夜 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       日本人会ヨリノ電報ニ接シテ余儀ナク一日ヲ延引シタルナリ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 自働車ニテ外務省 <persname corresp=\"#pers_石井\">\n<surname> 石井 </surname>\n</persname> 次官ヲ訪問スルモ途中事故ヲ生シタルニヨリ人力車ニテ外務省ニ抵リ、 <persname corresp=\"#pers_石井\">\n<surname> 石井 </surname>\n</persname> 、 <persname corresp=\"#pers_倉地\">\n<surname> 倉地 </surname>\n</persname> 二氏《（ <persname corresp=\"#pers_倉知\">\n<surname> 倉知 </surname>\n</persname> 二氏）》ト <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 来電ノ事ヲ協議シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト行務ヲ談ス、午飧後、事務所ニ抵リ、 <persname corresp=\"#pers_新渡戸\">\n<surname> 新渡戸 </surname>\n</persname> 氏ヘ <placename corresp=\"#place_軽井沢\"> 軽井沢 </placename> ニ向ヘ詳細ノ書状ヲ発ス、又、 <persname corresp=\"#pers_蓮沼\">\n<surname> 蓮沼 </surname>\n</persname> 、 <persname corresp=\"#pers_川田\">\n<surname> 川田 </surname>\n</persname> 其他ノ人々ヘ書状ヲ発ス、数多ノ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 過帰宿、夜飧後、新聞紙雑誌類ヲ読マシム、\n        <persname corresp=\"#pers_明石\">\n<surname> 明石 </surname>\n</persname> 夫妻来話ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 過 <persname corresp=\"#pers_島田三郎\">\n<surname> 島田 </surname>\n<forename> 三郎 </forename>\n</persname> 氏来リ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 行ノ事ニ関シテ種々ノ談話ヲ為ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-09-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前 <orgname> 第一銀行 </orgname> 、 <orgname> 東京商業会議所 </orgname> 其他各所ヘノ書状及調査書ヲ送付ス、 <persname corresp=\"#pers_桜井亀二\">\n<surname> 桜井 </surname>\n<forename> 亀二 </forename>\n</persname> 来リ両船渠会社合併談不調ノ事ヲ報シ来ル、夜、七社神社ノ祭典ヲ見ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

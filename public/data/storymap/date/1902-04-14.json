@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-04-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ終ル、散歩シテ <persname corresp=\"#pers_溝口\">\n<surname> 溝口 </surname>\n</persname> 氏ヲ訪フ、逢ハス、帰途庭中ヲ歩行シ帰後、韓国 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 公使、 <persname corresp=\"#pers_竹内綱\">\n<surname> 竹内 </surname>\n<forename> 綱 </forename>\n</persname> 、 <persname corresp=\"#pers_前川益以\">\n<surname> 前川 </surname>\n<forename> 益以 </forename>\n</persname> 等ヘノ書状ヲ裁ス、 <persname corresp=\"#pers_添田壽一\">\n<surname> 添田 </surname>\n<forename> 寿一 </forename>\n</persname> 、 <persname corresp=\"#pers_尾崎三良\">\n<surname> 尾崎 </surname>\n<forename> 三良 </forename>\n</persname> 其他当用ノ書状ヲ発送ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 午後十二時半 </time>\n<placename corresp=\"#place_小石川\"> 小石川 </placename>\n<orgname> 女子大学 </orgname> ニ抵ル、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 同伴ス、英米公使夫妻、 <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 、 <persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 、 <persname corresp=\"#pers_蜂須賀\">\n<surname> 蜂須賀 </surname>\n</persname> 其他十数名ノ来賓アリ、午飧後校内ヲ一覧シ畢テ <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯ヨリ本校ノ今日ニ至レル経歴ト将来ノ企望トニ関シ一場ノ演説アリ、後、 <persname corresp=\"#pers_成瀬\">\n<surname> 成瀬 </surname>\n</persname> 氏ノ教務ニ関スル演説アリ、最後ニ米国公使バツク氏謝詞的ノ演説ヲ為シ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7137833,
+                    "lon": 139.7487556,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 散会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:30:00",
+                    "text": "<time when=\"16:30:00\"> 四時半 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ抵リ北越鉄道会社 <persname corresp=\"#pers_渡邊嘉一\">\n<surname> 渡辺 </surname>\n<forename> 嘉一 </forename>\n</persname> 氏、 <persname corresp=\"#pers_岸精一\">\n<surname> 岸 </surname>\n<forename> 精一 </forename>\n</persname> 氏《（ <persname corresp=\"#pers_岸清一\">\n<surname> 岸 </surname>\n<forename> 清一 </forename>\n</persname> 氏）》ニ面会シテ鉄道ニ関スル法律ノ事ヲ談ス、 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 氏来リ <orgname> 第一銀行 </orgname>\n<pb corresp=\"#pageB1232\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/258/full/max/0/default.jpg\" n=\"B1232\" source=\"#pageB1232\"></pb> 員進退ノ事及 <persname corresp=\"#pers_清水\">\n<surname> 清水 </surname>\n</persname>\n<placename corresp=\"#place_欧洲\"> 欧洲 </placename> 行ノ事ヲ談ス、事務所員ニ書類ノ整理ヲ命ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\">\n        九時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス、此日ハ深川区会開会ノ筈ナリシモ時間遅引セシヲ以テ断リ遣ス、又経新倶楽部ヲ\n        <placename corresp=\"#place_向島\"> 向島 </placename>\n<persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏邸ニ開キタルモ出席スルヲ得サルヲ以テ電話ニテ謝絶ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

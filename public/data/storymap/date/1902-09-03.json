@@ -1,0 +1,52 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-09-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 <placename corresp=\"#place_ロンドン\"> 倫敦 </placename> 着後公使館又ハ三井物産会社等ヨリ届来レル郷書其他ノ書類ヲ検閲シ、且来ル\n        <date when=\"1902-09-07\"> 七日 </date> ニ当地出立 <placename corresp=\"#place_パリ\"> 巴里 </placename>\n       ニ赴キ同地一覧ノ後、 <placename corresp=\"#place_里昂\"> 里昂 </placename> ヲ経 <placename corresp=\"#place_イタリア\"> 伊太里 </placename> ニ抵リ、 <placename corresp=\"#place_ミラン\"> ミラン\n       </placename> 、 <placename corresp=\"#place_羅馬府\"> 羅馬府 </placename> 等ヲ巡遊シテ <date when=\"1902-09-24\"> 廿四日 </date>\n<placename corresp=\"#place_ホルトセード\"> ホルトセード </placename> 出帆ノ <orgname> 日本郵船会社 </orgname>\n       船神奈川丸ニ乗組ノ事ニ決定セシヲ以テ、 <placename corresp=\"#place_ロンドン\"> 倫敦 </placename> ニ於ケル公私ノ用向ハ <date evidence=\"year inferenced, month\" when=\"1902-09-06\"> 六日 </date>\n       マデニ整理ヲ要スルニヨリ、一同ニモ之ヲ示シ、従来ノ引合先ナル <persname corresp=\"#pers_ベヤリング\">\n<surname> ベヤリング </surname>\n</persname> 、 <persname corresp=\"#pers_ホーナー\">\n<surname> ホーナー </surname>\n</persname> 、サミユール商会、 <persname corresp=\"#pers_シヤンド\">\n<surname> シヤンド </surname>\n</persname> 氏等ヘモ通達ス、又本邦ヨリ出張セル各商店ノ人々ヘモ之ヲ通シ、郵船会社ニ向テハ神奈川丸乗組ノ約束及 <placename corresp=\"#place_イタリア\"> 伊国 </placename>\n<placename corresp=\"#place_ブリンヂシ\"> ブリンヂシ </placename> ヨリ <placename corresp=\"#place_ホルトセード\">\n        ホルトセード </placename> マテノ便船ノ手配ヲ托ス、午後 <persname corresp=\"#pers_根岸練次郎\">\n<surname> 根岸 </surname>\n<forename> 練次郎 </forename>\n</persname> 来リテ乗組船ノ事ニ関シ詳細ノ手続ヲ協議ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 51.50778,
+                    "lon": -0.12806,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<persname corresp=\"#pers_岩崎\">\n<surname> 岩崎 </surname>\n</persname> 男爵昨日 <placename corresp=\"#place_フランス\"> 仏国 </placename> ヨリ <placename corresp=\"#place_ロンドン\"> 倫敦 </placename> ニ来リ同旅舎ニ止宿セラルヽヲ以テ訪問セラル、別後東西旅行ノ景況ヲ話ス、 <persname corresp=\"#pers_小室三吉\">\n<surname> 小室 </surname>\n<forename> 三吉 </forename>\n</persname> 来ル、夜 <persname corresp=\"#pers_岩崎\">\n<surname> 岩崎 </surname>\n</persname> 男ヲ其室ニ訪ヒ相共ニ市中ヲ散歩ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 51.50778,
+                    "lon": -0.12806,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

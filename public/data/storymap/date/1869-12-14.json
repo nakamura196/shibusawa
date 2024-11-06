@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-12-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 不快ニ付出勤断之儀、 <persname corresp=\"#pers_吉川\">\n<surname> 吉川 </surname>\n</persname> 江申遣す、 <persname corresp=\"#pers_斎藤六蔵\">\n<surname> 斎藤 </surname>\n<forename> 六蔵 </forename>\n</persname> 来る、 <persname corresp=\"#pers_阿部祐三\">\n<surname> 阿部 </surname>\n<forename> 祐三 </forename>\n</persname> 来 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

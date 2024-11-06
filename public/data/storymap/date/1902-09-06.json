@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-09-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前種々ノ来人アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 寸暇ヲ以テ <placename corresp=\"#place_ハイデパーク\">\n        ハイデパーク </placename> ヲ散歩ス、蓋シ明日発足スルニ付最終ノ一覧ヲ試ムル為ナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 帰宿ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<persname corresp=\"#pers_ステツト\">\n<surname> ステツト </surname>\n</persname> 氏来ル、共ニ午飧シテ種々ノ談話ヲ為ス、食後 <persname corresp=\"#pers_シヤンド\">\n<surname> シヤンド </surname>\n</persname> 夫妻来ル、告別ノ為ナリ、 <persname corresp=\"#pers_青木鉄太郎\">\n<surname> 青木 </surname>\n<forename> 鉄太郎 </forename>\n</persname> 氏ノ夫人モ来訪セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 過 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 氏ヲ伴ヒ <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 公使ヲ郊外ノ寓居ニ訪ヒ、着英来ノ要務ニ付テ其成行ヲ告ケ且京釜鉄道会社々債ニ関スル顚末ヲ公使ヨリ外務大臣ニ文通セラレン事ヲ依頼シ、公使之ヲ領諾ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 過別ヲ告テ辞シ去リ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n       帰宿ス、夜当地公債仲買人ノ一人ナルヒル氏ニ面会ス、蓋シヒル氏ハゴルトン氏組合ノ一人ニテ曩ニ我政府ノ募集セシ四分利公債ニ付テモ種々尽力セシ人ナリ、依テ軍事公債ト整理公債トノ価格ニ大ニ相違アル事ニ付テ質問ヲ試ミ、又大蔵省証券ノ発行ニ関シ其意見ヲ問ヒ、更ニ政府保証ノ会社々債ニ関シ其考案ヲ叩キタリシニ種々ノ説明ヲ為シ、他日実際必要ノ事アラハ同氏ハ充分ニ尽力スヘキ事ヲ述フ\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

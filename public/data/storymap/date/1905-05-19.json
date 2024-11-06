@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-05-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 夜来雷雨アリシモ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:00:00",
+                    "text": "<time when=\"05:00:00\"> 午前五時 </time> 頃ヨリ快晴ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 六時 </time>\n       起床、室内ノ運動ヲ為ス、然レトモ風邪気全快セサルヲ以テ褥中ニテ朝飧ヲ畢リ新聞紙ヲ閲ス、又ハ来書ヲ整理ス、 <persname corresp=\"#pers_皆川四郎\">\n<surname> 皆川 </surname>\n<forename> 四郎 </forename>\n</persname> 氏来話ス <lb></lb> 此日 <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ役員アルヲ《（会脱）》以テ <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> ヲ遣シテ其議ニ参セシム <persname corresp=\"#pers_日下義雄\">\n<surname> 日下 </surname>\n<forename> 義雄 </forename>\n</persname> 氏来話、明日 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 発途ノ事ヲ告ケ要務ヲ談ス <lb></lb>\n<persname corresp=\"#pers_西川太郎一\">\n<surname> 西川 </surname>\n<forename> 太郎一 </forename>\n</persname> 氏来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

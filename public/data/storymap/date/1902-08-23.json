@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-08-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、此日モ <persname corresp=\"#pers_コロネル_タイス\">\n<forename> コロネル </forename> ・ <surname> タイス </surname>\n</persname> トノ約アリテ硝子製造所一覧ノ為、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 南停車場ニ抵リ汽車ニ搭シ、行程二時間ニシテ\n        <placename corresp=\"#place_ジユメー\"> ジユメー </placename>\n       ニ着シ硝子製造工場ヲ一覧ス、此工場ハ鏡又ハ大板硝子ノ製造ナリ、其方法頗ル緻密ニシテ且ツ精巧ナリ、一覧畢テ工場ノ支配人ノ宅ニ抵リテ午飧ス、食後再ヒ汽車ニ搭シテ［　　　　　　］《（○欠字。\n        <placename corresp=\"#place_ジユメー\"> ジユメー </placename>\n       ）》ト云フ所ニ抵リ、瓶及板硝子ノ製造工場ヲ一覧ス、工業ノ手続、前ニ一覧セシモノト異リテ極テ簡易ナリ、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 過\n        <placename corresp=\"#place_ブリュッセル\"> ブラツセル </placename> ニ帰着ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 50.84361,
+                    "lon": 4.3575,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time>\n<persname corresp=\"#pers_コロネル_タイス\">\n<forename> コロネル </forename> ・ <surname> タイス </surname>\n</persname> 宅ニ抵リ其招宴ニ応ス、 <persname corresp=\"#pers_加藤\">\n<surname> 加藤 </surname>\n</persname> 公使、 <persname corresp=\"#pers_亀山\">\n<surname> 亀山 </surname>\n</persname> 、 <persname corresp=\"#pers_松村\">\n<surname> 松村 </surname>\n</persname> 両書記官、 <persname corresp=\"#pers_諸井\">\n<surname> 諸井 </surname>\n</persname> 、 <persname corresp=\"#pers_木島\">\n<surname> 木島 </surname>\n</persname> 及 <persname corresp=\"#pers_タンヌタン\">\n<surname> タンヌタン </surname>\n</persname> 男爵等相会シテ其宴頗ル盛ナリ、食後 <persname corresp=\"#pers_タイス\">\n<surname> タイス </surname>\n</persname> 及 <persname corresp=\"#pers_フランキー\">\n<surname> フランキー </surname>\n</persname> 氏ト種々ノ用務ヲ談シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

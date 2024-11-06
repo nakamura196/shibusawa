@@ -1,0 +1,107 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-10-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 六時 </time> 御発汽車御乗組、此日は雨なれは眺望も少しく車中甚鬱陶たり第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\">\n        十二時 </time>\n<placename corresp=\"#place_ナルボンヌ\"> ナルボンヌ </placename> といふ地ニ而午饌、第 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 43.1836,
+                    "lon": 3.0042,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時\n       </time> 過 <placename corresp=\"#place_セツト\"> セツト </placename>\n       といふ地に至る、此辺は既に地中海に添ふて土地は至而荒廃せしか海岸ニ而ハ多く塩を製す、其製頗軽便なるよし、処々に堆く積並へしさま、其製作の容易なる推計るへく思わる、 <placename corresp=\"#place_セツト\"> セツト </placename> といふ地ニ而汽車御乗替のため "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time>\n       余御休息、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:20:00",
+                    "text": "<time when=\"15:20:00\"> 三時二十分 </time> 御発、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 過\n        <placename corresp=\"#place_アルル\"> アルル </placename> といふ地ニ而夜饌、又汽車御乗替、此地よりして <placename corresp=\"#place_パリ\"> 巴里 </placename> より <placename corresp=\"#place_マルセイユ\"> 馬港 </placename>\n       の鉄道に出る汽車漸く速なり、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 43.67665,
+                    "lon": 4.627803,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:30:00",
+                    "text": "<time when=\"22:30:00\"> 十時半 </time>\n<placename corresp=\"#place_マルセイユ\"> 馬港 </placename> 御着、ガランド・ポテル・マルセヱイルといふ客舎御投館、 <placename corresp=\"#place_パリ\"> 巴里 </placename> に相残り候者五人は昨日 <placename corresp=\"#place_パリ\"> 巴里\n       </placename> 出立、今朝 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 43.2975,
+                    "lon": 5.377222,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 頃当地着、同客舎に止宿し居りたれは御出迎申上る <lb></lb>\n       此日夕方より雨歇みて空稍晴たれとも、風強く雲多く、風洋は至嶮なるへく一同心安からざりし "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

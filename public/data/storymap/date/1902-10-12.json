@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-10-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n       曇、風少クシテ熱気稍加ハルヲ覚フ、時々汽船ノ〓行ヲ見ル、終日読書散歩ノ外為スヘキ事ナシ、日没前、月ト星トヲ見ル、蓋シ洋中空気清澄ニシテ、日光未タ全ク海ニ沈セサルモ月ト星ト其光ヲ見ルヲ得ル為ナリ\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

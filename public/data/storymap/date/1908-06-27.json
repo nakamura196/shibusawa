@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-06-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床入浴シ、畢テ朝飧ヲ食ス、 <persname corresp=\"#pers_曾禰\">\n<surname> 曾禰 </surname>\n</persname> 子爵ニ電話ヲ通シ、今日 <pb corresp=\"#pageB1519\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/545/full/max/0/default.jpg\" n=\"B1519\" source=\"#pageB1519\"></pb> ノ往訪ヲ止メ、来ル <date evidence=\"year inferenced, month\" when=\"1908-06-29\"> 廿九日 </date> 頃ニセン事ヲ申告ス、日記ヲ調査シ書類ヲ整理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 発ノ汽車ニテ <placename corresp=\"#place_大森\"> 大森\n       </placename> ニ抵リ、 <orgname> 東京瓦斯会社 </orgname>\n<placename corresp=\"#place_大森\"> 大森 </placename> 工場新創ノ地鎮祭ニ出席ス、雨中式ヲ終リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\">\n        十一時 </time> 過八景園ニ抵リ午飧ス、食後園遊会ヲ開キ一場ノ挨拶ヲ為ス、余興場ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 過ノ汽車ニテ\n        <placename corresp=\"#place_大磯町\"> 大磯 </placename> ニ抵リ、 <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 氏ノ別荘ヲ訪フ、此夜別荘ニ一泊ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

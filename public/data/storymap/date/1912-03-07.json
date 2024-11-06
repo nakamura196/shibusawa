@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-03-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、半身浴ヲナシテ朝飧ヲ食ス、後、 <orgname> 朝鮮銀行 </orgname> 理事\n        <persname corresp=\"#pers_木村雄次\">\n<surname> 木村 </surname>\n<forename> 雄次 </forename>\n</persname> 氏ノ来訪ニ接シ、同銀行経営ノ模様及 <placename corresp=\"#place_朝鮮\"> 朝鮮 </placename> 経済界ノ事情ヲ談話ス\n        <persname corresp=\"#pers_高田慎吾\">\n<surname> 高田 </surname>\n<forename> 慎吾 </forename>\n</persname> 氏来リテ近日辞職シテ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 行ノ事ヲ談ス、\n        <placename corresp=\"#place_巣鴨\"> 巣鴨 </placename> 分院ニ関スル将来ノ施設ヲ討議ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7337972,
+                    "lon": 139.7390889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時\n       </time> 事務所ニ抵リテ来書ヲ点撿ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、後、来人ニ接シ、又、重役会ヲ開キ要件ヲ議決ス、畢テ再ヒ事務所ニ抵リ、 <persname corresp=\"#pers_久摩俊泰\">\n<surname> 久摩 </surname>\n<forename> 俊泰 </forename>\n</persname> 氏、 <persname corresp=\"#pers_宇野\">\n<surname> 宇野 </surname>\n</persname> 氏等来話ス、各地ヘノ書状ヲ裁シテ発送セシム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 午後六時半 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿シテ、夜飧後、新聞紙及雑誌類ヲ一覧ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 過鉄道院 <persname corresp=\"#pers_木下淑夫\">\n<surname> 木下 </surname>\n<forename> 淑夫 </forename>\n</persname> 氏外一名来リテ外賓款待ノ方法ニ付談話ス又、運送ノ業務ニ関シテ種々談話ヲ交換ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

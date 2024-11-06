@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-09-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 頃ヨリ汽車進行ヲ始メ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 七時半 </time>\n<placename corresp=\"#place_タコマ\"> タコマ </placename> ニ抵ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       支度ヲ整ヒ、汽車中ノ寝室ヲ出テ汽車中ニテ朝飧ス、汽車 <placename corresp=\"#place_タコマ\"> タコマ </placename>\n       ヲ過キ森林中ノ停車場ニ抵ル、是ヨリ先キ水力電気工場ヲ一覧ス、弐万八千馬力ヲ得ルト云フ、一覧畢テ更ニ森林中ヲ進行シ、 <placename corresp=\"#place_レニヤ山\">\n        レニヤ山 </placename> 行ノ小汽車ニ乗替ヘ、山中ノ氷塊一覧ノ筈ナリシモ、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname>\n       昨日ヨリ少シク所労ナルヲ以テ氷塊一覧ノ事ヲ見合ハセ停車場ニ休憩ス、夜食後、車中ニテ山林伐木ノ事ニ関シ種々ノ質問ヲ為ス、此夜汽車中ニ於テ就寝、此夜ハ一行多ク氷塊一覧ノ為メニ山中ニ行キタルニヨリ、汽車中僅ニ数人ヲ止ムルノミニテ頗ル寂然タリキ\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-07-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:00:00",
+                    "text": "<time when=\"05:00:00\"> 午前五時 </time> 起床、朝飧ヲ喫シ、旅装ヲ整ヒ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:15:00",
+                    "text": "<time when=\"06:15:00\"> 六時十五分 </time>\n       王子発ノ汽車ニテ <placename corresp=\"#place_北越\"> 北越 </placename> 行ノ途ニ上ル、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 同伴ス、日本鉄道会社々長 <persname corresp=\"#pers_曾我\">\n<surname> 曾我 </surname>\n</persname> 氏同車ス、 <persname corresp=\"#pers_久住秀三郎\">\n<surname> 久住 </surname>\n<forename> 秀三郎 </forename>\n</persname> 氏同行ス、 <placename corresp=\"#place_高崎\"> 高崎 </placename> ニ抵リテ汽車ヲ替ヘ <placename corresp=\"#place_碓氷\"> 碓氷 </placename> ノ険ヲ登ル、 <placename corresp=\"#place_軽井沢\"> 軽井沢\n       </placename> ニテ小憩ス、 <placename corresp=\"#place_小諸市\"> 小諸 </placename> 、 <placename corresp=\"#place_上田\"> 上田 </placename> 、 <placename corresp=\"#place_篠井\"> 篠井 </placename>\n       等ノ数停車場ヲ超ヘ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 36.3275,
+                    "lon": 138.4258,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<placename corresp=\"#place_長野\"> 長野 </placename> ニ達ス、北越鉄道会社長 <persname corresp=\"#pers_渡邊嘉一\">\n<surname> 渡辺 </surname>\n<forename> 嘉一 </forename>\n</persname> 、 <orgname> 第一銀行 </orgname> 支店長 <persname corresp=\"#pers_松井吉太郎\">\n<surname> 松井 </surname>\n<forename> 吉太郎 </forename>\n</persname> 二氏来リ迎フ、藤屋本店ニ投宿ス、休足後善光寺ヲ参詣シ寺内各所ヲ順拝シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n       帰宿、夜飧後種々ノ雑談ヲ為シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 就寝 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

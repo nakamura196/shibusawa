@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-01-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 快晴、昨日ニ引替ヘテ春喧ノ候ノ如シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<persname corresp=\"#pers_山縣有朋\">\n<surname> 山県 </surname>\n</persname> 侯爵来ル、偶雨夜譚ヲ浄書シ居リタルニヨリ其序文ヲ侯ニ示シ且往事ノ履歴ヲ話ス、尋テ興山公ノ事ヲ詳話シ其伝記編纂ノ挙ヲ告ク、侯ハ大ニ之ヲ賛成セラル、\n        <orgname> 東京商業会議所 </orgname>\n<persname corresp=\"#pers_小崎懋\">\n<surname> 小崎 </surname>\n<forename> 懋 </forename>\n</persname> 氏来ル、臨時会議ヲ開クノ請求書会員ヨリ申出テタルニヨル、依テ来 <date when=\"1899-01-11\"> 十一日 </date> ニ役員会ヲ開キ\n        <date when=\"1899-01-13\"> 十三日 </date> 午後臨時会ヲ開クヘキ旨ヲ示ス、午後 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 氏夫人トモ来訪ス、 <orgname> 石川島造船所 </orgname> 株主総会ニ於テ増資案提出ニ付テノ事ヲ商議ス、 <persname corresp=\"#pers_西村勝三\">\n<surname> 西村 </surname>\n<forename> 勝三 </forename>\n</persname> 氏来ル、 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> ヨリ書状来ル、 <persname corresp=\"#pers_モールス\">\n<surname> モールス </surname>\n</persname> ヨリノ来書ヲ報シ来ル <lb></lb> 三重紡績会社ヘ書状ヲ発シ総会ノ委任状ヲ送ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

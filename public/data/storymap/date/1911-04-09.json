@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-04-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、半身浴ヲ為シテ後朝飧ヲ食ス、 <persname corresp=\"#pers_桜井義肇\">\n<surname> 桜井 </surname>\n<forename> 義肇 </forename>\n</persname> 、 <persname corresp=\"#pers_後藤牧太\">\n<surname> 後藤 </surname>\n<forename> 牧太 </forename>\n</persname> 氏来リテ <placename corresp=\"#place_ローマ\"> 羅馬 </placename> 字会ノ事ヲ談ス、 <date evidence=\"year inferenced, month\" when=\"1911-04-18\"> 十八日 </date> ノ集会ニ出席ノ事ヲ依頼セラル、今日ハ\n        <persname corresp=\"#pers_明石照男\">\n<surname> 明石 </surname>\n<forename> 照男 </forename>\n</persname> ト <persname corresp=\"#pers_明石愛子\">\n<forename> 愛子 </forename>\n</persname> トノ結婚披露ノ為メ園遊会ヲ開催スル筈ニテ朝来庭園室内共ニ準備ニ忙シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 41.89306,
+                    "lon": 12.48278,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time> 食事ヲ為シ衣服ヲ更メ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 前ヨリ <pb corresp=\"#pageB1667\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/693/full/max/0/default.jpg\" n=\"B1667\" source=\"#pageB1667\"></pb> 洋室ニ於テ来客ヲ迎フ、会スル者六百名余、女優演劇、太神楽等ノ余興アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\">\n        午後五時 </time> 一同立食場ニ入リ、食事畢テ媒妁 <persname corresp=\"#pers_岩崎\">\n<surname> 岩崎 </surname>\n</persname> 男ヨリ披露ノ詞アリ、次テ余モ一場ノ謝詞ヲ述ヘ、 <persname corresp=\"#pers_高橋\">\n<surname> 高橋 </surname>\n</persname> 男爵ヨリ一同ヲ代表シテ丁寧ナル答辞アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 過宴散シテ一同散会セリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

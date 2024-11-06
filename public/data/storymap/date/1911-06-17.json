@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-06-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ、朝飧ヲ食ス、後、老公伝記初稿ヲ読ム、又新論語、孟子等ノ諸書ヲ読ム、新聞紙ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<persname corresp=\"#pers_渋沢兼子\">\n<surname> 兼子 </surname>\n</persname> ト共ニ午飧シ畢テ尚読書ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 過長生館ヲ発シ、徒歩停車場ニ抵リ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:40:00",
+                    "text": "<time when=\"14:40:00\"> 二時四十分 </time> 発ノ汽車ニ搭シテ帰京ス、 <persname corresp=\"#pers_渋沢兼子\">\n<surname> 兼子 </surname>\n</persname> ハ来ル <date evidence=\"year inferenced, month\" when=\"1911-06-01\"> 廿一日 </date>\n       ヲ以テ帰京ノ事トス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> ニ着シ、自働車ニテ事務所ニ抵リ来書類ヲ撿閲シ事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<orgname> 日本銀行 </orgname> 集会所ニ抵リ、 <persname corresp=\"#pers_高橋\">\n<surname> 高橋 </surname>\n</persname> 総裁ノ開催スル <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 氏慰労会ニ出席シ其饗宴ニ応ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散宴、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

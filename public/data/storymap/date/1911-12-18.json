@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-12-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、半身浴ヲ為シテ朝飧ヲ食ス、後、 <orgname> 毎日新聞 </orgname> 記者ニ接 <pb corresp=\"#pageB1715\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/741/full/max/0/default.jpg\" n=\"B1715\" source=\"#pageB1715\"></pb> シテ時事ヲ談ス、 <persname corresp=\"#pers_渋沢敦子\">\n<forename> 敦子 </forename>\n</persname> 及 <persname corresp=\"#pers_阪谷琴子\">\n<surname> 阪谷 </surname>\n<forename> 琴子 </forename>\n</persname> 来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 事務所ニ抵リ、 <placename corresp=\"#place_ドイツ\">\n        独乙 </placename> 人ロバート・ウヰルブラント氏夫妻ノ来訪ニ接ス、其企望ニヨリテ諸方ヘノ書状ヲ添付ス、後《※》、行務ヲ談ス、午後再ヒ事務所ニ於テ来人ニ接シ又書類ヲ整理ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 午後六時半 </time> 帰宿、夜飧後、演説筆記ノ修正ニ勉ム、又、新聞紙ヲ読マシム <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<persname corresp=\"#pers_伏見宮\"> 伏見宮 </persname> 邸ニ抵リ午飧会ニ出席ス、宮内大臣ノ外実業家数十名参会ス、食後、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 旅行ノ顚末ヲ言上ス、 <persname corresp=\"#pers_和田豊治\">\n<surname> 和田 </surname>\n<forename> 豊治 </forename>\n</persname> 氏紡績ノ事、 <persname corresp=\"#pers_河東田経清\">\n<surname> 河東田 </surname>\n<forename> 経清 </forename>\n</persname> 氏製紙ノ事、 <persname corresp=\"#pers_植村澄三郎\">\n<surname> 植村 </surname>\n<forename> 澄三郎 </forename>\n</persname> 氏麦酒ノ事ヲ言上ス <lb></lb> ○※「書状ヲ添付ス」ノ次ニ「 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午餐ス」ト記シ抹消シアリ。 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

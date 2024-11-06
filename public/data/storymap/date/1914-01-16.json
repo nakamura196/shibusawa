@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-01-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、静坐シテ半身浴ヲ為シ畢テ朝飧ヲ食ス、後、二三ノ来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\">\n        午前九時 </time> 図書館ニ救済会ノ委員諸氏ト寄附金募集ノ手続ヲ協議ス、後、 <orgname> 日本銀行 </orgname> ニ抵リ、 <persname corresp=\"#pers_木村\">\n<surname> 木村 </surname>\n</persname> 氏ニ面会シテ応募ノ事ヲ依頼ス其前、内閣ニ抵リテ <persname corresp=\"#pers_高橋\">\n<surname> 高橋 </surname>\n</persname> 大蔵大臣ニ面会シテ種々ノ談話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 陸軍省ニ抵リ、 <persname corresp=\"#pers_辻村\">\n<surname> 辻村 </surname>\n</persname> 経理局長ニ面会シテ <placename corresp=\"#place_千住\"> 千住 </placename> 軍絨製造工場払下ノ事ヲ協議ス、\n        <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_日比谷\">\n<surname> 日比谷 </surname>\n</persname> 、 <persname corresp=\"#pers_諸井\">\n<surname> 諸井 </surname>\n</persname> 三氏同行ス、後、 <placename corresp=\"#place_支那\"> 支那 </placename> 公使館ニ抵リ、通訳官ニ面会シ <persname corresp=\"#pers_劉\">\n<surname> 劉 </surname>\n</persname> 氏来朝ノ事ヲ談ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7500222,
+                    "lon": 139.8037722,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 事務所ニ抵リ庶務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\">\n        午後五時半 </time> 紅葉館ニ抵リ <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 市長ノ新年宴会ニ出席ス、一場ノ挨拶ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

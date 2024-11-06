@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-06-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<placename corresp=\"#place_番町\"> 番町 </placename>\n<persname corresp=\"#pers_青木\">\n<surname> 青木 </surname>\n</persname> 外務大臣私邸ヲ訪ヒ、白耳義人ノ発起スル東洋会社ノ事、 <placename corresp=\"#place_釜山広域市\"> 釜山 </placename>\n       海面埋立ノ事、 <orgname> 第一銀行 </orgname> ニ関スル外資輸入ノ事等ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.1,
+                    "lon": 129.033,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_枕橋\"> 枕橋 </placename>\n<orgname> 八百松楼 </orgname> ニ抵リ <orgname> 竜門社 </orgname>\n       員二十四回総会ニ列ス、此日ハ余ノ授爵ト還暦トヲ祝スル為ニ社員ニ於テ寿言ト名クル祝辞ヲ作リ幹事之ヲ朗読ス、依テ其答詞トシテ一場ノ演説ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\">\n        午後一時 </time> ヨリ札幌麦酒会社ノ分工場ニ宛タル庭園ニ於テ園遊会ヲ開ク、余興数番アリテ頗ル盛会ナリ、此日会スル者四百五十人余ナリト云フ、畢テ小梅村 <persname corresp=\"#pers_大川平三郎\">\n<surname> 大川 </surname>\n<forename> 平三郎 </forename>\n</persname> 宅ヲ訪ヒ、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

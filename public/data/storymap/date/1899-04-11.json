@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-04-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、朝数名ノ来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 過京坂鉄道創立委員会ヲ開キ、 <persname corresp=\"#pers_加東徳三\">\n<surname> 加東 </surname>\n<forename> 徳三 </forename>\n</persname> 、 <persname corresp=\"#pers_岡部広\">\n<surname> 岡部 </surname>\n<forename> 広 </forename>\n</persname> 、 <persname corresp=\"#pers_河村隆実\">\n<surname> 河村 </surname>\n<forename> 隆実 </forename>\n</persname> 、 <persname corresp=\"#pers_佐分利一嗣\">\n<surname> 佐分利 </surname>\n<forename> 一嗣 </forename>\n</persname> 、 <persname corresp=\"#pers_林策一郎\">\n<surname> 林 </surname>\n<forename> 策一郎 </forename>\n</persname> 諸氏来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 畢テ瓦斯会社ニ抵リ評議書ヲ一覧ス、 <persname corresp=\"#pers_古河市兵衛\">\n<surname> 古河 </surname>\n<forename> 市兵衛 </forename>\n</persname> 氏ノ病ヲ訪フ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 帰宅ス、此夜亡児　○六男 <persname corresp=\"#pers_渋沢忠雄\">\n<forename> 忠雄 </forename>\n</persname> ノ忌日ナルヲ以テ仏事ヲ営ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-02-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後直ニ入浴シ、畢テ朝飧ヲ喫シ、食後新聞紙ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時半 </time>\n       青年会館ニ抵リ旧日本鉄道会社株主総会ニ出席ス、開会前重立タル株主ヲ会シテ種々ノ協議ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n       開会、質問、駁撃等ニテ議場頗ル喧噪ス、依テ一場ノ演説ヲ為シテ下級使用人慰藉ノ方法ヲ案出シ満場ノ同意ヲ得テ漸ク無事閉会スルヲ得タリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時\n       </time> 商業会議所ニ抵リ帝国劇場会社創立総会ニ出席シ、要項ヲ議決シ、取締役等ノ撰挙畢リテ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 過\n        <orgname> 第一銀行 </orgname> ニ抵リ重役会ヲ開キ要務ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_木挽町\"> 木挽町 </placename> 花屋ニ抵リテ、 <placename corresp=\"#place_京城府\"> 京城\n       </placename> 、 <placename corresp=\"#place_仁川\"> 仁川 </placename> 人ノ招宴ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 午後九時 </time> 過ヨリ <placename corresp=\"#place_番町\"> 番町 </placename>\n       ニ抵リ一友人ヲ訪ヒ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

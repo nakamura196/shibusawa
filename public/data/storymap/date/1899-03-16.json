@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-03-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 暴風雨、宿痾快方ニ赴カサルニヨリ医師 <persname corresp=\"#pers_吉鶴\">\n<surname> 吉鶴 </surname>\n</persname> 某ヲ聘シテ診察ヲ乞フ、軽症喘息ノ由ニテ所方ヲ示ス、午後 <persname corresp=\"#pers_北垣国道\">\n<surname> 北垣 </surname>\n<forename> 国道 </forename>\n</persname> 氏来リテ函樽鉄道ノ事ヲ話ス、 <persname corresp=\"#pers_唐崎恭二\">\n<surname> 唐崎 </surname>\n<forename> 恭二 </forename>\n</persname> 来リテ、岩城炭坑会社《（磐）》《（礦）》ノ事及長門無煙炭会社ノ事ヲ話ス、且 <persname corresp=\"#pers_唐崎\">\n<surname> 唐崎 </surname>\n</persname> 身上ノ事ニ関シ請求アレトモ承諾シ難キニ付拒絶ス、此日モ褥中ニ在テ養痾ス、明 <date when=\"1899-03-17\"> 十七日 </date>\n<orgname> 花月楼 </orgname> ニ於テ法典調査会ノ諸氏招宴ノ案内ヲ為セシモ、病気ニヨリ延会ノ事ヲ通知セシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

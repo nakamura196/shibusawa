@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-06-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 過起床、入浴シテ、 <persname corresp=\"#pers_奥山\">\n<surname> 奥山 </surname>\n</persname>\n<persname corresp=\"#pers_本山\">\n<surname> 本山 </surname>\n</persname> 管長、 <persname corresp=\"#pers_長山虎壑\">\n<surname> 長山 </surname>\n<forename> 虎壑 </forename>\n</persname> 師及 <persname corresp=\"#pers_鮫島武之助\">\n<surname> 鮫島 </surname>\n<forename> 武之助 </forename>\n</persname> 氏等来訪ニ接ス、半僧房再建ニ付寄附金勧誘ノ事ヲ依頼スル為ナリ、又、 <placename corresp=\"#place_高岡\"> 高岡 </placename>\n       人 <persname corresp=\"#pers_木津太郎平\">\n<surname> 木津 </surname>\n<forename> 太郎平 </forename>\n</persname> 氏ノ来訪ニ接ス、実業家ノ国政ニ参与スルニ付テノ注意ヲ縷述ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時半 </time>\n<placename corresp=\"#place_巣鴨\"> 巣鴨 </placename> 養育院分院ニ抵リ、 <persname corresp=\"#pers_安達\">\n<surname> 安達 </surname>\n</persname> 氏、 <persname corresp=\"#pers_小沢\">\n<surname> 小沢 </surname>\n</persname> 氏ト院務ヲ談ス、 <persname corresp=\"#pers_成瀬仁蔵\">\n<surname> 成瀬 </surname>\n<forename> 仁蔵 </forename>\n</persname> 氏来話ス、後、分院内ヲ一覧シ、 <persname corresp=\"#pers_小沢\">\n<surname> 小沢 </surname>\n</persname> 氏ニ執務上ノ注意ヲ与フ夫ヨリ <placename corresp=\"#place_大塚\"> 大塚 </placename> 本院ニ抵リ、 <persname corresp=\"#pers_安達\">\n<surname> 安達 </surname>\n</persname> 、 <persname corresp=\"#pers_高島\">\n<surname> 高島 </surname>\n</persname> 、 <persname corresp=\"#pers_桜井\">\n<surname> 桜井 </surname>\n</persname> 、 <persname corresp=\"#pers_大橋\">\n<surname> 大橋 </surname>\n</persname> ノ諸氏ト院務ヲ評議 <pb corresp=\"#pageB1743\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/769/full/max/0/default.jpg\" n=\"B1743\" source=\"#pageB1743\"></pb> ス、避病院新設ノ事、 <placename corresp=\"#place_井頭\"> 井頭 </placename>\n       公園ノ事、其他ノ要務ヲ指示ス <lb></lb> 午飧後、 <placename corresp=\"#place_有楽町\"> 有楽町 </placename> 内務大臣官舎ニ抵リ\n        <persname corresp=\"#pers_原\">\n<surname> 原 </surname>\n</persname> 大臣ニ面会シテ <orgname> 国学院 </orgname> ニ補助費支給ノ事、 <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ土地引渡ノ事、鉄道発着地ニ於ル小運送ニ関スル方法ノ事等ヲ談話ス、畢テ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 氏ト面話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7337972,
+                    "lon": 139.7390889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ重役会ヲ開キ要件ヲ議決ス、後、事務所ニ於テ来人ニ接シ事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半\n       </time> 帰宅、夜飧後、演説筆記ノ修正ニ勉ム "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1912-06-14T01:00+0900\"> 午後一時 </time> 就寝《（午前）》 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

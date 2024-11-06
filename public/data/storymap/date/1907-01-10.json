@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-01-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後入浴シ、了テ新聞紙ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ為シ、食後 <placename corresp=\"#place_東京\"> 東京 </placename> ヨリ転送セル三重 <persname corresp=\"#pers_伊藤伝七\">\n<surname> 伊藤 </surname>\n<forename> 伝七 </forename>\n</persname> 氏来状ヲ一覧シ、直ニ其返書ヲ作リテ発送ス <lb></lb>\n<persname corresp=\"#pers_大川平三郎\">\n<surname> 大川 </surname>\n<forename> 平三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_田中栄八郎\">\n<surname> 田中 </surname>\n<forename> 栄八郎 </forename>\n</persname> 来話ス、 <persname corresp=\"#pers_八巻道成\">\n<surname> 八巻 </surname>\n<forename> 道成 </forename>\n</persname> 来話ス、午後、 <persname corresp=\"#pers_成瀬仁蔵\">\n<surname> 成瀬 </surname>\n<forename> 仁蔵 </forename>\n</persname> 来話ス、添書シテ <placename corresp=\"#place_箱根\"> 箱根 </placename>\n<persname corresp=\"#pers_岩崎\">\n<surname> 岩崎 </surname>\n</persname> 氏ヲ訪問セシム <lb></lb> 此日午前ヨリ引続キ来人多ク終日読書又ハ揮毫ノ暇ナシ、夜ニ入テ夏ノ夢ヲ読ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

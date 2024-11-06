@@ -1,0 +1,96 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-07-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ、日記ヲ編成ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time>\n       朝飧ヲ食ス、後、誘掖会学生ノ来訪ニ接ス、 <persname corresp=\"#pers_成瀬仁蔵\">\n<surname> 成瀬 </surname>\n<forename> 仁蔵 </forename>\n</persname> 氏来話ス、近日 <placename corresp=\"#place_信越地方\"> 信越 </placename> 地方旅行ノ事ヲ談ス、 <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 氏来リ紡織会社創設ノ事ヲ談ス、 <persname corresp=\"#pers_川田鉄弥\">\n<surname> 川田 </surname>\n<forename> 鉄弥 </forename>\n</persname> 氏来話ス、粕 <pb corresp=\"#pageB1634\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/660/full/max/0/default.jpg\" n=\"B1634\" source=\"#pageB1634\"></pb> 川廩女来リ柔道ノ事ヲ依頼セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 事務所ニ抵リ\n        <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 人 <persname corresp=\"#pers_ヘンリー\"> ヘンリー\n       </persname> 、 <persname corresp=\"#pers_テイラー\">\n<surname> テーラー </surname>\n</persname> 二氏ト稷山金鉱ノ事ヲ談ス <lb></lb>\n<persname corresp=\"#pers_根津嘉一郎\">\n<surname> 根津 </surname>\n<forename> 嘉一郎 </forename>\n</persname> 、 <persname corresp=\"#pers_松下軍次\">\n<surname> 松下 </surname>\n<forename> 軍次 </forename>\n</persname> 等来話《（ <persname corresp=\"#pers_松下軍治\">\n<surname> 松下 </surname>\n<forename> 軍治 </forename>\n</persname> ）》ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time>\n       農商務省ニ抵リ、生産調査会特別委員会ニ出席ス、管船局長、電気局長、鉄道院ノ当任者来会シ、各担当ノ事務ニ付テ、鄭寧懇切ニ委員ノ質問ニ答弁ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:30:00",
+                    "text": "<time when=\"13:30:00\">\n        一時半 </time> ヨリ始テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> ニ至ル、畢テ散会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ、 <persname corresp=\"#pers_岡部真吾\">\n<surname> 岡部 </surname>\n<forename> 真吾 </forename>\n</persname> 氏ノ招宴ニ出席ス、来会スル者三十人許リナリ、食卓上謝詞ヲ述ヘ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:30:00",
+                    "text": "<time when=\"21:30:00\"> 九時半 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿、此夜、克己学寮学生悉ク来会ス、 <persname corresp=\"#pers_横山\">\n<surname> 横山 </surname>\n</persname> 氏モ来リ会シテ、 <persname corresp=\"#pers_渋沢秀雄\">\n<forename> 秀雄 </forename>\n</persname> 高等学校入学受験ノ顚末ヲ報告セラル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

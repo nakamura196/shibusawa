@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-06-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<persname corresp=\"#pers_中村\">\n<surname> 中村 </surname>\n</persname> 書記官来ル、謁見ハ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:45:00",
+                    "text": "<time when=\"12:45:00\"> 十二時四十五分 </time> 白宮即チホワイトハウスニ於テスル事ヲ告ケ来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> スチービンス来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<persname corresp=\"#pers_高平\">\n<surname> 高平 </surname>\n</persname> 公使来ル、 <persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> ヲ随ヒ相伴フテ大蔵省ニ抵リ長官 <persname corresp=\"#pers_シヨーウ\">\n<surname> シヨーウ </surname>\n</persname> 氏ニ会見ス、更ニ国務省ニ抵リ長官ヘー氏ニ面会シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:45:00",
+                    "text": "<time when=\"12:45:00\"> 十二時四十五分 </time> ニ大統領ニ謁見ス、\n        <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 、 <persname corresp=\"#pers_萩原\">\n<surname> 萩原 </surname>\n</persname>\n       ノ二氏同伴ス、謁見ノ際ニ於ケル談話及国務、大蔵長官会見ノ手続トモ別ニ記載スル処アリ、畢テホテルニ帰リ午飧シ、食後直ニ議院ニ抵リ上下両院会議ノ景況ヲ一覧ス、上院ハ人員少ク議場寂寥タリシト云トモ、下院ハ二三ノ議員熱心ニ演説中ナリキ、暫クシテ議院ニ隣レル書籍館ニ抵リ一覧ス、畢テ電車ヲ僦フテ\n        <placename corresp=\"#place_ワシントン\"> 華盛頓 </placename>\n       ノ墓所ニ抵ル、墓所ハ都府ノ南方［　　　　　　］《（○欠字。十四哩）》哩ノ地ニアリ河川邱ヲ繞リテ眺望佳絶ナリ、往時ワシトンノ居住セシ家屋及家具其他ノ什器悉ク室内ニ陳列シテ行人ノ一覧ニ供ス、蓋シ各都府ノ富家ノ婦人等醵金シテ此設備ヲ為スモノナリト云フ、夕\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 帰宿、直ニ公使 <pb corresp=\"#pageB1246\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/272/full/max/0/default.jpg\" n=\"B1246\" source=\"#pageB1246\"></pb> 館ニ抵リ此夜余カ為メニ設ケラレタル晩飧ノ宴ニ列ス、食卓上公使ノ挨拶ニ対シ一場ノ謝詞ヲ述フ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1902-06-17T00:00+0900\"> 十二時 </time> 発ノ汽車ニ乗組ミ <placename corresp=\"#place_ワシントン\">\n        ワシントン </placename> ヲ発シ <placename corresp=\"#place_紐克\"> 紐克 </placename> ニ赴ク "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

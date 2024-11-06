@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-09-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、洗面シテ直ニ朝飧ヲ食ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 前\n        <persname corresp=\"#pers_渋沢市郎\">\n<forename> 市郎 </forename>\n</persname> 宅ヲ辞シテ <placename corresp=\"#place_深谷\"> 深谷 </placename> 停車場ニ抵リ汽車ニ搭シテ帰京ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> 着、直ニ衣服ヲ更メテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n       帝国劇場ニ抵リ俳優慰労会ニ出席ス、食卓上一場ノ謝詞ヲ述フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 事務所ニ抵リ来人ニ接シ又事務ヲ処理ス、\n        <orgname> 第一銀行 </orgname> ニ於 <pb corresp=\"#pageB1700\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/726/full/max/0/default.jpg\" n=\"B1700\" source=\"#pageB1700\"></pb> テ重役会ヲ開キ要件ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_木挽町\"> 木挽町 </placename>\n<orgname> 山口楼 </orgname> ニ抵リ、 <persname corresp=\"#pers_塩原又策\">\n<surname> 塩原 </surname>\n<forename> 又策 </forename>\n</persname> 氏ノ開催スル、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 人 <persname corresp=\"#pers_ラツセル\">\n<surname> ラツセル </surname>\n</persname> 、 <persname corresp=\"#pers_ホルト\">\n<surname> ホルト </surname>\n</persname> 二氏招宴ニ列席ス、 <persname corresp=\"#pers_金子\">\n<surname> 金子 </surname>\n</persname> 子爵、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏等来会ス、種々余興アリ、賓主歓ヲ尽シテ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散会、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

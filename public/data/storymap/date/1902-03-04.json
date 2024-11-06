@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-03-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、此日ハ <placename corresp=\"#place_大磯町\"> 大磯 </placename>\n       行ヲ思ヒ立シモ雨ナルヲ以テ止ム、夕方常盤屋ニ抵リ鉄道抵当法案ニ関スル集会ヲ開ク、 <persname corresp=\"#pers_浅田徳則\">\n<surname> 浅田 </surname>\n<forename> 徳則 </forename>\n</persname> 、 <persname corresp=\"#pers_奥田義人\">\n<surname> 奥田 </surname>\n<forename> 義人 </forename>\n</persname> 、 <persname corresp=\"#pers_寺尾亨\">\n<surname> 寺尾 </surname>\n<forename> 亨 </forename>\n</persname> 、 <persname corresp=\"#pers_岡野敬次郎\">\n<surname> 岡野 </surname>\n<forename> 敬次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_犬塚勝太郎\">\n<surname> 犬塚 </surname>\n<forename> 勝太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_菊地\">\n<surname> 菊地 </surname>\n</persname> 、 <persname corresp=\"#pers_岸\">\n<surname> 岸 </surname>\n</persname> 両弁護士、 <persname corresp=\"#pers_南清\">\n<surname> 南 </surname>\n<forename> 清 </forename>\n</persname> 、 <persname corresp=\"#pers_渡邊嘉一\">\n<surname> 渡辺 </surname>\n<forename> 嘉一 </forename>\n</persname> ノ諸氏来会ス、種々ノ討議アリテ決局 <persname corresp=\"#pers_奥田\">\n<surname> 奥田 </surname>\n</persname> 氏ニ於テ一委員会組織ノ事ヲ約シテ散会ス、夜 <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

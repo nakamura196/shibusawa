@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-02-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧シ、後、日記ヲ編成ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n       事務所ニ抵リ <orgname> 十勝開墾会社 </orgname> ノ社員会ヲ開キ報告書ヲ一覧ス <lb></lb> 編輯局ニテ <persname corresp=\"#pers_萩野\">\n<surname> 萩野 </surname>\n</persname> 、 <persname corresp=\"#pers_江間\">\n<surname> 江間 </surname>\n</persname> 二氏等ト談話ス、 <persname corresp=\"#pers_由井彦太郎\">\n<surname> 由井 </surname>\n<forename> 彦太郎 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯寿像碑ノ原稿ヲ交付ス、午飧後、 <placename corresp=\"#place_千駄ヶ谷\"> 千駄ケ谷 </placename> ニテ <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 公爵ヲ訪ヒ、家令 <persname corresp=\"#pers_渡瀬\">\n<surname> 渡瀬 </surname>\n</persname> 、 <persname corresp=\"#pers_滝村\">\n<surname> 滝村 </surname>\n</persname> 氏等ト <placename corresp=\"#place_鶴見\"> 鶴見 </placename> 埋築会社ノ事ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6807861,
+                    "lon": 139.7111611,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 二時半 </time> 慈恵会ニ抵リ理事会ニ出席ス、 <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 公、 <persname corresp=\"#pers_高木\">\n<surname> 高木 </surname>\n</persname> 、 <persname corresp=\"#pers_実吉\">\n<surname> 実吉 </surname>\n</persname> 、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_近藤\">\n<surname> 近藤 </surname>\n</persname> 、 <persname corresp=\"#pers_早川\">\n<surname> 早川 </surname>\n</persname> ノ諸氏来会ス、畢テ事務所ニ抵リ書類ヲ整理ス、又、事務ヲ処理ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リ、 <placename corresp=\"#place_石原\"> 石原 </placename>\n<placename corresp=\"#place_北海道\"> 北海道 </placename> 長官、 <persname corresp=\"#pers_床次\">\n<surname> 床次 </surname>\n</persname> 内務次官等ト <placename corresp=\"#place_北海道\"> 北海道 </placename> 行政ニ付談話ス、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏ノ招宴ニ係ル関係者十名計会合ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 43.064333,
+                    "lon": 141.346889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:30:00",
+                    "text": "<time when=\"20:30:00\"> 八時半 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

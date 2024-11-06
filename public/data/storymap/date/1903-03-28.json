@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-03-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢庭園《（リ脱）》ヲ散歩シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ノ事ニ関シ <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏ニ書状ヲ送ル、又喜賓会ノ寄附金勧募ノ事ニ付書面ヲ修正シテ <persname corresp=\"#pers_弘岡\">\n<surname> 弘岡 </surname>\n</persname> 氏ニ送付ス、三重 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 、 <placename corresp=\"#place_大阪\"> 大坂 </placename>\n<persname corresp=\"#pers_山辺\">\n<surname> 山辺 </surname>\n</persname> 両氏ヘ書状ヲ発送ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ馬車ニテ <persname corresp=\"#pers_前島\">\n<surname> 前島 </surname>\n</persname> 氏ヲ訪ヘ浦賀船渠会社ノ事ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 女子大 <pb corresp=\"#pageB1301\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/327/full/max/0/default.jpg\" n=\"B1301\" source=\"#pageB1301\"></pb> 学校ニ抵リ卒業証書授与式ニ参列ス、一場ノ演説ヲ為ス、畢テ <placename corresp=\"#place_新橋\">\n        新橋 </placename> 停車場ニ抵リ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:20:00",
+                    "text": "<time when=\"17:20:00\"> 五時二十分 </time> ノ汽車ニテ <placename corresp=\"#place_横浜\"> 横浜 </placename> ニ抵リ同地郷友会ノ招宴ニ列ス <persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> 、 <persname corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persname> 、 <persname corresp=\"#pers_清水\">\n<surname> 清水 </surname>\n</persname> 領事等来会ス、酒間一場ノ演説ヲ為ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:50:00",
+                    "text": "<time when=\"21:50:00\"> 九時五十分 </time> ノ汽車ニテ帰京、此夜 <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

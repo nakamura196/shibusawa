@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-09-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前、 <persname corresp=\"#pers_萩原源太郎\">\n<surname> 萩原 </surname>\n<forename> 源太郎 </forename>\n</persname> 氏、 <persname corresp=\"#pers_戸波留郎\">\n<surname> 戸波 </surname>\n<forename> 留郎 </forename>\n</persname> 氏、 <persname corresp=\"#pers_大原春次郎\">\n<surname> 大原 </surname>\n<forename> 春次郎 </forename>\n</persname> 氏等来話ス、 <persname corresp=\"#pers_戸波\">\n<surname> 戸波 </surname>\n</persname> 氏ハ養育院感化部ヨリ軍事体操ノ事ヲ托スルニ関シテ来話スルモノナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_神保町\"> 神保町 </placename>\n<persname corresp=\"#pers_皆川四郎\">\n<surname> 皆川 </surname>\n<forename> 四郎 </forename>\n</persname> ヲ訪フ、其招宴ニ列スル為メナリ、 <persname corresp=\"#pers_浅香克孝\">\n<surname> 浅香 </surname>\n<forename> 克孝 </forename>\n</persname> 、 <persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 、 <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 夫妻来リ会ス、夜 <persname corresp=\"#pers_皆川\">\n<surname> 皆川 </surname>\n</persname> 氏ニ一泊ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

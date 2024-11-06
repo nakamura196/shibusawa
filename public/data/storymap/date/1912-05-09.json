@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-05-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シテ朝飧ヲ食ス、 <persname corresp=\"#pers_成瀬仁蔵\">\n<surname> 成瀬 </surname>\n<forename> 仁蔵 </forename>\n</persname> 氏来リテ過日会合ノ際ニ協議セシ意見書ノ原稿ヲ示サル、 <persname corresp=\"#pers_井口正之\">\n<surname> 井口 </surname>\n<forename> 正之 </forename>\n</persname> 氏来訪、百話ノ成本ニ付種々ノ談話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ <orgname> 汽車製造会社 </orgname> 々員会ヲ開ク、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_高田\">\n<surname> 高田 </surname>\n</persname> 、 <persname corresp=\"#pers_羽野\">\n<surname> 羽野 </surname>\n</persname> ノ諸氏来会ス、会社将来ノ経営ニ関シテ種々ノ協議ヲ為ス、明後 <date evidence=\"year inferenced, month\" when=\"1912-05-11\"> 十一日 </date> ヲ以テ更ニ余ト <persname corresp=\"#pers_瓜生\">\n<surname> 瓜生 </surname>\n</persname> 、 <persname corresp=\"#pers_長谷川\">\n<surname> 長谷川 </surname>\n</persname> 、 <persname corresp=\"#pers_門野\">\n<surname> 門野 </surname>\n</persname> 諸氏会同シテ株式会社組織ニ付原案作成ノ事トシ、畢テ午飧ヲ共ニス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 事務所ニ抵リ、更ニ\n        <orgname> 第一銀行 </orgname> ニ於テ重役会ヲ開キ要件ヲ議決ス、畢リテ事務所ニテ来人ニ接シ庶務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ <persname corresp=\"#pers_豊川良平\">\n<surname> 豊川 </surname>\n<forename> 良平 </forename>\n</persname> 氏ノ招宴ニ出席ス、来会者三百名許リニテ頗ル大会ナリ、食卓上一場ノ演説ヲ為シテ <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 氏ノ還暦寿ヲ祝ス、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 過帰宿ス <lb></lb>\n       此日、自働車ニ故障アリ、馬車ニテ途中ノ時間長キヲ覚フ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

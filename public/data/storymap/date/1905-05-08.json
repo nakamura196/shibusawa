@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-05-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、庭園中ヲ散歩シ、掃除向ノ指揮ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time>\n       朝飧ヲ畢ル、食後新聞紙ヲ閲ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> ヨリ兼テ招請セシ <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 両公爵、 <placename corresp=\"#place_松戸\"> 松戸 </placename> 二位殿、 <persname corresp=\"#pers_田安\">\n<surname> 田安 </surname>\n</persname> 、 <persname corresp=\"#pers_一橋\">\n<surname> 一橋 </surname>\n</persname> 及 <persname corresp=\"#pers_徳川厚\">\n<surname> 徳川 </surname>\n<forename> 厚 </forename>\n</persname>\n       男公爵其他ノ令夫人并随従ノ人々トモ合計十五名、外ニ同族一同八名通計二十三名ニテ、先ツ牡丹園ヲ一覧セラレ、向庭ノ巨松ヲ見更ニ園中ヲ散歩シ、崖下ニ抵リ再ヒ上リテ月見台ニ抵リ抹茶亭ニテ休憩セラレ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 過書院ニ於テ午飧ヲ饗ス、余興ニハ落語及元禄踊アリ、食後庭中ニテ写真ヲ為シ、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 過散会ス <lb></lb>\n<pb corresp=\"#pageB1366\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/392/full/max/0/default.jpg\" n=\"B1366\" source=\"#pageB1366\"></pb>\n<lb></lb> 此日曇リタレトモ終日雨降ラス、故ニ庭中ノ散歩殊ニ塵埃ナク新緑陰ヲ成シテ尤モ眺望ニ佳ナリ、賓主各歓ヲ尽シタリ <lb></lb>\n<persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 公爵を迎ひまつりて庭園の牡丹を見たるとき <lb></lb> 雨降りけれは <lb></lb> 降りかゝる雨はなミたか深見草花もむかしをしのふなるらむ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

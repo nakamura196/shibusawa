@@ -1,0 +1,94 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-08-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、庭園ヲ散歩シ、後、入浴シ、畢テ朝飧ヲ食ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<orgname> 東京瓦斯会社 </orgname> ニ抵リ <persname corresp=\"#pers_高松豊吉\">\n<surname> 高松 </surname>\n<forename> 豊吉 </forename>\n</persname> 氏ニ面話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 内蔵寮ニ抵リ <persname corresp=\"#pers_阪本\">\n<surname> 阪本 </surname>\n</persname> 内蔵助《（ <persname corresp=\"#pers_坂本内蔵助\">\n<surname> 坂本 </surname>\n<forename> 内蔵助 </forename>\n</persname> ）》《（主事）》ニ面会シテ、 <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> 敷地ノ事、日韓瓦斯会社株式御引受ノ事ニ付 <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> 内蔵頭ニ請願ノ旨ヲ述フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 首相ヲ <placename corresp=\"#place_三田\"> 三田 </placename>\n       ノ私邸ニ訪ヒ財政ニ関スル要務及鉄道国有ニ関スル事等ヲ談話ス、 <placename corresp=\"#place_大船渡市\"> 大船渡 </placename> 築港ノ事\n        <orgname> 宮城屋銀行 </orgname> 整理ノ事ヲモ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 39.08189,
+                    "lon": 141.70856,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time> 、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ノ家ニテ午飧シ、後、三井物産会社ニ抵リ、 <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 氏及 <persname corresp=\"#pers_藤野\">\n<surname> 藤野 </surname>\n</persname> 大坂支店長ニ面会シテ <orgname> 人造肥料会社 </orgname> ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、 <persname corresp=\"#pers_穂積八束\">\n<surname> 穂積 </surname>\n<forename> 八束 </forename>\n</persname> 、 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 、 <persname corresp=\"#pers_久米良作\">\n<surname> 久米 </surname>\n<forename> 良作 </forename>\n</persname> 、 <persname corresp=\"#pers_岡崎遠光\">\n<surname> 岡崎 </surname>\n<forename> 遠光 </forename>\n</persname> 氏等ノ来訪ニ接シ要務ヲ談シ、且旅行ニ関スル事務ヲ <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 、 <persname corresp=\"#pers_橋本\">\n<surname> 橋本 </surname>\n</persname> 二氏ニ指示シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 過 <placename corresp=\"#place_王子\"> 王子\n       </placename> ニ帰宿シ、直ニ庭園ヲ散歩シ又接骨医ノ治療ヲ受ケ、夜、雑誌ヲ読ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

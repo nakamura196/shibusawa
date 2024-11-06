@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-11-24",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、半身浴ヲ為シテ後、 <placename corresp=\"#place_大阪\"> 大阪 </placename>\n<orgname> 毎日新聞社 </orgname>\n<persname corresp=\"#pers_佐藤\">\n<surname> 佐藤 </surname>\n</persname> 氏来リ財政経済ノ事ヲ談話ス、 <persname corresp=\"#pers_中野武営\">\n<surname> 中野 </surname>\n<forename> 武営 </forename>\n</persname> 氏来リテ株式取引所ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 事務所ニ抵リ書類ヲ整理ス、又、雑務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、畢テ重役会ヲ開キ要件ヲ決ス、 <persname corresp=\"#pers_堀田連太郎\">\n<surname> 堀田 </surname>\n<forename> 連太郎 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 午後二時半 </time>\n<orgname> 東京瓦斯会社 </orgname> ニ抵リ、重役会ニ参列シテ <placename corresp=\"#place_東京\"> 東京 </placename>\n       市ト契約ノ要項ヲ論議ス、 <persname corresp=\"#pers_高根義人\">\n<surname> 高根 </surname>\n<forename> 義人 </forename>\n</persname> 等来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 午後五時半 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename>\n<orgname> 精養軒 </orgname> ニ抵リ <placename corresp=\"#place_ローマ\"> 羅馬 </placename> 字会秋季会ニ出席ス、\n        <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 伯、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 男、其他六七十名ノ会員集会ス、食卓上一ノ演説ヲ為ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会、帰宿ス、後、新聞紙ヲ読マシム\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

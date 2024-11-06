@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-11-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_横浜\"> 横浜 </placename> ニ抵リ <orgname> 第一銀行 </orgname> 支店ニ於テ <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 氏ト会話シ、共ニ英 <pb corresp=\"#pageB1288\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/314/full/max/0/default.jpg\" n=\"B1288\" source=\"#pageB1288\"></pb> 壱番、二十七番、 <placename corresp=\"#place_アメリカ合衆国\"> 米国\n       </placename> 貿易商会社及 <placename corresp=\"#place_ドイツ\"> 独乙 </placename>\n<orgname> イリス商会 </orgname> 等ヲ訪問シ、更ニ支店ニ於テ午飧ス、 <persname corresp=\"#pers_渋沢成一郎\">\n<surname> 渋沢 </surname>\n<forename> 喜作 </forename>\n</persname> 、 <persname corresp=\"#pers_書上順四郎\">\n<surname> 書上 </surname>\n<forename> 順四郎 </forename>\n</persname> 等来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 帰京、 <orgname> 第一銀行 </orgname>\n       本店ニ於テ重役会ヲ開ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 銀行集会所ニ抵リ歓迎会ニ臨席ス、 <persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 伯、 <persname corresp=\"#pers_岩崎\">\n<surname> 岩崎 </surname>\n</persname> 男モ来会ス、一場ノ欧米銀行業ニ関スル視察談ヲ為シテ立食ノ饗応ヲ受ケ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過\n        <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

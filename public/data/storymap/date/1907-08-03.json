@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-08-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 熱気ハ減スレトモ疲労強キヲ以テ、起床後病褥ヲ設ケテ摂養ス、朝、 <persname corresp=\"#pers_志岐信太郎\">\n<surname> 志岐 </surname>\n<forename> 信太郎 </forename>\n</persname> 来話ス、又 <persname corresp=\"#pers_大川平三郎\">\n<surname> 大川 </surname>\n<forename> 平三郎 </forename>\n</persname> 、 <persname corresp=\"#pers_大沢\">\n<surname> 大沢 </surname>\n</persname> 某来リ <placename corresp=\"#place_木曾\"> 木曾 </placename> 御料森林ノ事ヲ談ス、朝飧後褥中ニ在テ此等来客ト談話ス\n       <lb></lb> 午飧後 <persname corresp=\"#pers_高木\">\n<surname> 高木 </surname>\n</persname> 博士、 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診セラル、 <persname corresp=\"#pers_高木\">\n<surname> 高木 </surname>\n</persname> 博士トハ慈恵会ノ要務ヲ談ス、夕方ニ至リ夜飧ヲ共ニス、夜、 <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> 来リ <persname corresp=\"#pers_尾高惇忠\">\n<forename> 藍香 </forename>\n</persname> 翁碑銘ノ事ヲ談ス、 <persname corresp=\"#pers_佐々木清麿\">\n<surname> 佐々木 </surname>\n<forename> 清麿 </forename>\n</persname> 氏来リ韓国倉庫会社ノ事ヲ談ス <lb></lb> 此日帝国劇場会社ノ重役会、自働車会社創立委員会アリシモ、病ノ為メ之ヲ謝絶ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

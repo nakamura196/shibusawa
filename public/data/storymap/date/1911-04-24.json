@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-04-24",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、半身浴ヲ為シテ、朝飧ヲ食ス、後、 <persname corresp=\"#pers_関博直\">\n<surname> 関 </surname>\n<forename> 博直 </forename>\n</persname> 氏来リ商業道徳ノ事ヲ談ス、 <persname corresp=\"#pers_北川\">\n<surname> 北川 </surname>\n</persname> 女史来リ其管理スル育児院ニ一覧ノ事ヲ請求セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 事務所ニ抵リ要務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 自働車ニテ <placename corresp=\"#place_井ノ頭\"> 井ノ頭 </placename> 学校ニ抵リ、\n        <persname corresp=\"#pers_安達\">\n<surname> 安達 </surname>\n</persname> 、 <persname corresp=\"#pers_桜井\">\n<surname> 桜井 </surname>\n</persname> 氏等ト院内ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 過 <persname corresp=\"#pers_尾崎\">\n<surname> 尾崎 </surname>\n</persname> 市長来リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 二時三十分 </time>\n<persname corresp=\"#pers_伏見宮\"> 伏見宮 </persname> 殿下及 <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> 宮内大臣来着セラル、校内ヲ御案内シテ、後、井頭弁天境内ニ御誘引シテ御一覧ヲ請ヘ、夫ヨリ <placename corresp=\"#place_大塚\"> 大塚\n       </placename> 本院ニ抵リ各室御巡覧アリ、処々ニテ御説明申上ル、更ニ <placename corresp=\"#place_巣鴨\"> 巣鴨 </placename>\n       分院ニ抵リ同シク御巡視アリ、畢テ養育院ノ発端ヨリ今日ニ至ル迄ノ経歴ヲ言上シ、且、院務執行ニ関スル三点ノ要件ヲ陳上ス、一、施薬救療等総テ済貧事業ハ実況ニ適スルヲ要スル事《（一脱）》、医師ノ治療ハ勉メテ試験ニ傾カサル事、一、従事者ハ自己ノ奏効ヲ後ニシテ其事業ニ宜キヲ得ルヲ本務トスル事\n      "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7337972,
+                    "lon": 139.7390889,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

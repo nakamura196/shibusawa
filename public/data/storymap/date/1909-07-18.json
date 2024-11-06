@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-07-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、 <placename corresp=\"#place_桐生\"> 桐生\n       </placename> 地方ヨリ来訪セラレタル人々ニ面会ス、 <placename corresp=\"#place_東京\"> 東京 </placename>\n       経済雑誌記者ノ紹介ニヨルナリ、 <placename corresp=\"#place_桐生\"> 桐生 </placename>\n       地方ニ高等工業学校設立ノ事ニ関シ種々談話アリ、畢テ他ノ二三ノ来客ニ接ス、又、演説筆記ヲ修正ス、午後ニ至ルモ之ヲ継続シタ方ニ及フ、 <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 氏来話ス <lb></lb> 此日、午前ハ <orgname> 女子大学 </orgname> ニ於テ毎月会ヲ開カレ、午後ハ <persname corresp=\"#pers_高田\">\n<surname> 高田 </surname>\n</persname> 氏婚儀披露会、又、 <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏宅ニハセメント会社ノ社員会アリシモ、朝来腹部下痢スルヲ以テ之ヲ謝絶シ、家ニ在テ療養ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

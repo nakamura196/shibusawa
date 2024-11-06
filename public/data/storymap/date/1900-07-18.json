@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-07-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<placename corresp=\"#place_千駄ヶ谷\"> 千駄ケ谷 </placename> 三位公ノ邸ニ抵リ贈与品ノ謝詞ヲ述フ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6807861,
+                    "lon": 139.7111611,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\">\n        十時 </time> 外務省ニ抵リ <persname corresp=\"#pers_内田\">\n<surname> 内田 </surname>\n</persname> 政務局長ニ面会シテ京仁鉄道 <placename corresp=\"#place_仁川\"> 仁川 </placename>\n       停車場地所ノ事ヲ談話ス、畢テ宮内省ニ抵リ <persname corresp=\"#pers_渡辺千秋\">\n<surname> 渡辺 </surname>\n<forename> 千秋 </forename>\n</persname> 氏ニ面会シテ東洋会社ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 銀行集会所ニ於テ有楽会委員会ヲ開ク、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 、 <persname corresp=\"#pers_高橋是清\">\n<surname> 高橋 </surname>\n<forename> 是清 </forename>\n</persname> 、 <persname corresp=\"#pers_阿部泰蔵\">\n<surname> 阿部 </surname>\n<forename> 泰蔵 </forename>\n</persname> 諸氏来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ抵リ、 <persname corresp=\"#pers_松浦\">\n<surname> 松浦 </surname>\n</persname> 伯爵、 <persname corresp=\"#pers_佐藤進_(軍医)\">\n<surname> 佐藤 </surname>\n<forename> 進 </forename>\n</persname> 、 <persname corresp=\"#pers_加藤正義\">\n<surname> 加藤 </surname>\n<forename> 正義 </forename>\n</persname> 、 <persname corresp=\"#pers_瓜生震\">\n<surname> 瓜生 </surname>\n<forename> 震 </forename>\n</persname> 、 <persname corresp=\"#pers_伊集院兼常\">\n<surname> 伊集院 </surname>\n<forename> 兼常 </forename>\n</persname> 諸氏ヲ会シテ茶事ヲ催ス、雨中田園ノ眺望最モ佳ナリ、来賓各歓ヲ尽シテ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:30:00",
+                    "text": "<time when=\"21:30:00\"> 九時半 </time> 散会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

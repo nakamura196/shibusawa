@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-06-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、後、来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n       農商務省ニ抵リ、生産調査会ノ特別委員会ヲ開キ調査要項ヲ議了シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time> ニ至リテ閉会ス、午飧後、 <orgname> 第一銀行\n       </orgname> ニ抵リ要務ヲ談シ、更ニ事務所ニ於テ来人ニ接シ、又、書類ヲ処理シ書状ヲ裁ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 午後五時半 </time>\n       工業協会ニ抵リ、同会ニ於テ組織セシ鉄道調査委員会ニ出席シテ鉄道ニ関スル経歴ト目下ノ要務タル調査ノ項目ヲ縷述ス、夜食前後ニ於テ三時間ニ渉ル談話ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 頃 <placename corresp=\"#place_王子\"> 王子 </placename>\n       ニ帰宿ス、後、新聞紙、又、紀料ヲ一覧ス <lb></lb> 此夜、印度王歓迎会ヲ日印協会ニ於テ開会スルニ付出席ヲ求メラレシモ之ヲ謝絶ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

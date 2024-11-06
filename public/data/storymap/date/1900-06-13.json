@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-06-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前 <orgname> 第一銀行 </orgname> ニ出勤ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n       三井集会所ニ於テ催シタル台湾糖業会社創立ノ談話会ニ出席ス、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 氏ヨリ兼テ案内セラレタレハナリ、 <persname corresp=\"#pers_児玉\">\n<surname> 児玉 </surname>\n</persname> 総督モ出席セラレシヲ以テ彼ノ京坂鉄道ノ事ニ関シ <placename corresp=\"#place_大阪\"> 大坂 </placename>\n       停車場ノ土地譲与ニ付テノ配意ヲ托ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰ル、此日 <placename corresp=\"#place_ベルギー\">\n        白耳義 </placename> 公使ヲ <placename corresp=\"#place_永田町\"> 永田町 </placename>\n       ノ公館ニ訪ヒ時事ヲ談シテ去ル、此日ハ郵船会社重役会当日ナルモ議事ナキヲ以流会ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

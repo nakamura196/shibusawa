@@ -1,0 +1,88 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-11-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ朝飧ヲ食ス、此日ハ旧里ニ仏事アルニ付、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:25:00",
+                    "text": "<time when=\"08:25:00\">\n        午前八時二十五分 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> 発ノ汽車ニテ罷越ス、 <placename corresp=\"#place_王子\"> 王子\n       </placename> ヨリ <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 夫妻同行ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_深谷\"> 深谷 </placename> ニ抵リ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n<placename corresp=\"#place_八基村\"> 八基村 </placename> ニ達ス、先ツ仏前ノ回香《（向）》アリ、畢テ午飧ノ会食アリ、食後墓参ヲ為シ、今回落成セシ\n        <persname corresp=\"#pers_清光院\"> 清光院 </persname> ノ墓碑ヲ一覧ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 36.23331,
+                    "lon": 139.26167,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n       旧里ノ家ヲ辞シ、 <placename corresp=\"#place_手計\"> 手計 </placename> ニ抵リ <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 氏ノ墓所ヲ参拝ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:30:00",
+                    "text": "<time when=\"15:30:00\"> 午後三時半 </time>\n<placename corresp=\"#place_深谷\"> 深谷 </placename> 発ノ汽車ニテ帰京ノ途ニ就ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> 着、直ニ帰宅ス夜食後、新聞紙其他ノ雑誌類ヲ一覧ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

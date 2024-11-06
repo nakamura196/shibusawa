@@ -1,0 +1,73 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-01-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、例ノ如ク室内運動ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       朝飧ヲ畢リ、直ニ旅行ノ為メ書類ヲ整頓ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 午前十時半 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ重役会ヲ開キ株式増加ノ件其他ノ要件ヲ議決ス、午飧後 <placename corresp=\"#place_日本橋兜町\"> 兜町\n       </placename> 事務所ニ於テ留守中ノ事務ヲ指示シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:50:00",
+                    "text": "<time when=\"13:50:00\"> 午後一時五十分 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 発汽車ニテ <placename corresp=\"#place_大磯町\"> 大磯\n       </placename> ニ抵リ長生館ニ投宿ス、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 及家人数名同行ス汽車中 <persname corresp=\"#pers_神鞭知常\">\n<surname> 神鞭 </surname>\n<forename> 知常 </forename>\n</persname> 氏ト種々ノ談話ヲ為ス <lb></lb> 此日 <persname corresp=\"#pers_伊藤伝七\">\n<surname> 伊藤 </surname>\n<forename> 伝七 </forename>\n</persname> 三重紡績、 <persname corresp=\"#pers_佐々木清麿\">\n<surname> 佐々木 </surname>\n<forename> 清麿 </forename>\n</persname> 大坂紡績二氏ノ書状ヲ落手ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

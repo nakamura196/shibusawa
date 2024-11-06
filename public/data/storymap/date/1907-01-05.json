@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-01-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後直ニ入浴シ、了テ朝飧ヲ為ス、食後種々ノ揮毫ヲ試ム、 <persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 伯七十ノ賀ニ一詩ヲ送ル、 <persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> 夫妻来訪ス、談話中尚揮毫ス <lb></lb>\n<persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> ノ帰京ニ托シテ <placename corresp=\"#place_東京\"> 東京 </placename> ニ書状及書類ヲ送付ス <lb></lb>\n<persname corresp=\"#pers_山田昌邦\">\n<surname> 山田 </surname>\n<forename> 昌邦 </forename>\n</persname> 来話ス、頃日来浄書セシ演説筆記全ク成ル、依テ事由ヲ附記ス、蓋シ客臘天賞堂ニ於テ蓄音器ニ吹入レタルモノナリ、 <persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname>\n<placename corresp=\"#place_東京\"> 東京 </placename> ヨリ書状ヲ持参ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n       頃ヨリ散策シテ滝前ニ到リ、 <persname corresp=\"#pers_大鳥\">\n<surname> 大鳥 </surname>\n</persname> 氏別荘ニテ梅花一枝ヲ購ヒ得テ帰ル <lb></lb> 夜、読書又ハ遊戯ニ消閑ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<persname corresp=\"#pers_加藤政之助\">\n<surname> 加藤 </surname>\n<forename> 政之助 </forename>\n</persname> 、 <persname corresp=\"#pers_横山一平\">\n<surname> 横山 </surname>\n<forename> 一平 </forename>\n</persname> 、 <persname corresp=\"#pers_森秀次\">\n<surname> 森 </surname>\n<forename> 秀次 </forename>\n</persname> 、 <persname corresp=\"#pers_皆川四郎\">\n<surname> 皆川 </surname>\n<forename> 四郎 </forename>\n</persname> 四氏来リ自働車事業ニ関シテ会社設立ノ事ヲ談シ、且其会社ニ加入ノ事ヲ切望セラル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-02-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後数多ノ来客ニ接ス、 <persname corresp=\"#pers_渡辺精吉郎\">\n<surname> 渡辺 </surname>\n<forename> 精吉郎 </forename>\n</persname> 来リ日鉄会社関係ノ件ヲ詳話ス <persname corresp=\"#pers_犬丸貞吉\">\n<surname> 犬丸 </surname>\n<forename> 貞吉 </forename>\n</persname> 、 <persname corresp=\"#pers_二宮行雄\">\n<surname> 二宮 </surname>\n<forename> 行雄 </forename>\n</persname> 、 <persname corresp=\"#pers_田中精一\">\n<surname> 田中 </surname>\n<forename> 精一 </forename>\n</persname> 、 <persname corresp=\"#pers_高橋鼎\">\n<surname> 高橋 </surname>\n<forename> 鼎 </forename>\n</persname> 諸氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 過朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時\n       </time> 過ヨリ曾我子爵ヲ <placename corresp=\"#place_駿河台\"> 駿河台 </placename> ニ訪ヒ日鉄会社ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<persname corresp=\"#pers_嘉納治五郎\">\n<surname> 嘉納 </surname>\n<forename> 治五郎 </forename>\n</persname> 氏ヲ訪ヒ聖廟保存会ノ事ヲ談ス、又 <persname corresp=\"#pers_谷\">\n<surname> 谷 </surname>\n</persname> 子爵ヲ訪ヒ同シク保存会ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 帰宿、 <persname corresp=\"#pers_緒明菊三郎\">\n<surname> 緒明 </surname>\n<forename> 菊三郎 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_皆川四郎\">\n<surname> 皆川 </surname>\n<forename> 四郎 </forename>\n</persname> 夫妻来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

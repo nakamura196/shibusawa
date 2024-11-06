@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-03-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、後、揮毫ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n       家人 <pb corresp=\"#pageB1727\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/753/full/max/0/default.jpg\" n=\"B1727\" source=\"#pageB1727\"></pb> ヲ伴フテ高等学校ノ紀念祭ヲ参観ス、 <persname corresp=\"#pers_渋沢秀雄\">\n<forename> 秀雄 </forename>\n</persname> 、学校ノ正門ニ来リ迎ヘテ各寮ヲ歴覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 大学病院ニ抵リ <persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> 氏ノ病ヲ訪フ、面会シテ近状ヲ話ス、去リテ <placename corresp=\"#place_本郷\"> 本郷 </placename> ニ於テ午飧ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 午後二時半 </time> 事務所ニ抵リ事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n       同気倶楽部ニ抵リ、 <persname corresp=\"#pers_清浦\">\n<surname> 清浦 </surname>\n</persname> 、 <persname corresp=\"#pers_松平\">\n<surname> 松平 </surname>\n</persname> 、 <persname corresp=\"#pers_今井清彦\">\n<surname> 今井 </surname>\n<forename> 清彦 </forename>\n</persname> 氏等ト <orgname> 国学院 </orgname> ノ事ヲ協議ス、過日来神宮奉祭会 <persname corresp=\"#pers_藤岡\">\n<surname> 藤岡 </surname>\n</persname> 、 <persname corresp=\"#pers_今泉\">\n<surname> 今泉 </surname>\n</persname> 二氏ヨリ申出ラレタル顚末ヲ談話ス、審議畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 五時半 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿シ、夜飧後、演説筆記ノ修正ニ勉メ、雑誌又ハ新聞紙ヲ読マシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

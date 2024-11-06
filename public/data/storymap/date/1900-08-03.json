@@ -1,0 +1,73 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-08-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏来ル、 <placename corresp=\"#place_秋田県\"> 秋田県 </placename> 下硫黄坑業ノ事ヲ報告セラル、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n<persname corresp=\"#pers_石井\">\n<surname> 石井 </surname>\n</persname> ヨリノ来状及 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 両氏ヨリノ書状ニ関シテ処分ノ事ヲ協議ス、此日ハ日本鉄道会社重役会当日ナルモ差支アルヲ以テ出席ヲ謝絶ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 39.718611111111,
+                    "lon": 140.1025,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 第一銀行 </orgname> ニ出勤ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<placename corresp=\"#place_深川\"> 深川 </placename> ニ抵リ <placename corresp=\"#place_巣鴨\"> 巣鴨 </placename>\n<persname corresp=\"#pers_徳川慶喜\"> 一位公 </persname> 及 <persname corresp=\"#pers_徳川昭武\">\n<surname> 徳川 </surname>\n<forename> 昭武 </forename>\n</persname> 、 <persname corresp=\"#pers_徳川達孝\">\n<surname> 徳川 </surname>\n<forename> 達孝 </forename>\n</persname> 、 <persname corresp=\"#pers_一橋\">\n<surname> 一橋 </surname>\n</persname>\n<persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 厚ノ諸公、洲先養魚場《（ <placename corresp=\"#place_洲崎\"> 洲崎 </placename> ）》ニ来会セラルヽニ付、行テ之ヲ迎フ、\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7337972,
+                    "lon": 139.7390889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 頃ヨリ洲先養魚会社一覧、夫ヨリ <placename corresp=\"#place_深川\"> 深川\n       </placename> 宅ニ於テ夜餐ヲ饗ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 頃散会ス、此日ハ養魚場ニ於テ垂釣ノ事アリテ終日歓ヲ尽ス、夜\n        <placename corresp=\"#place_深川\"> 深川 </placename> 宅ニ宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

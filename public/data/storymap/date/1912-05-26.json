@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-05-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_山川逸郎\">\n<surname> 山川 </surname>\n<forename> 逸郎 </forename>\n</persname> 氏来リ身上ノ依頼アリ、 <persname corresp=\"#pers_松岡子誠\">\n<surname> 松岡 </surname>\n<forename> 子誠 </forename>\n</persname> 、 <persname corresp=\"#pers_粟田\">\n<surname> 粟田 </surname>\n</persname> 父子同行ス、其女子ハ <persname corresp=\"#pers_蓮沼門三\">\n<surname> 蓮沼 </surname>\n<forename> 門三 </forename>\n</persname> 氏ニ婚約ヲ為スヘキ筈ナリ、 <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 氏ノ事ニ関シテ <persname corresp=\"#pers_伊藤真之\">\n<surname> 伊藤 </surname>\n<forename> 真之 </forename>\n</persname> 氏来話ス、 <orgname> 二十銀行 </orgname> ノ事ニ関シテ <persname corresp=\"#pers_佐々木慎思郎\">\n<surname> 佐々木 </surname>\n<forename> 慎思郎 </forename>\n</persname> 、 <persname corresp=\"#pers_山口荘吉\">\n<surname> 山口 </surname>\n<forename> 荘吉 </forename>\n</persname> 、 <persname corresp=\"#pers_船山曄知\">\n<surname> 船山 </surname>\n<forename> 曄知 </forename>\n</persname> 三氏来話ス、 <persname corresp=\"#pers_蓮沼門三\">\n<surname> 蓮沼 </surname>\n<forename> 門三 </forename>\n</persname> 氏、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 氏等来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 来客ト共ニ午飧ヲ食ス、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\">\n        午後一時 </time> ヨリ <orgname> 竜門社 </orgname> 春季総会アリ、来会者約五百名許リナリ、 <persname corresp=\"#pers_瀬川\">\n<surname> 瀬川 </surname>\n</persname> 総領事 <placename corresp=\"#place_広東省\"> 広東 </placename> 地方及 <placename corresp=\"#place_支那\"> 支那 </placename> 革命ニ関スル見聞談アリ、 <persname corresp=\"#pers_原熙\">\n<surname> 原 </surname>\n<forename> 熙 </forename>\n</persname> 氏花ノ配色ニ関スル講演アリ、最後宗教統一ノ事ニ付意見ヲ述フ、畢テ余興アリ、又、園遊会ヲ開キ、一同歓ヲ尽シ、夕 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 23.4,
+                    "lon": 113.5,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時\n       </time> 頃散会ス、夜飧後、百話中ニ加フヘキ小伝ノ原稿修正ニ勉ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

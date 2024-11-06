@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-05-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 昨夜雷雨アリシ為メ朝来殊ニ清爽ヲ覚フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 六時 </time> 起床、入浴シテ支度ヲ整フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\">\n        七時半 </time>\n<placename corresp=\"#place_北京市\"> 北京 </placename>\n       城壁ノ上ニ抵リテ四方ヲ展望ス、此辺外国居留地ニ接近スルヲ以テ城壁上石ニテ散歩道ヲ設ケアリテ歩行自由ナリ、一覧畢リテ帰宿、朝飧ヲ食ス、後、 <persname corresp=\"#pers_水野\">\n<surname> 水野 </surname>\n</persname> 氏ノ病ヲ訪フ、手術後ノ経過不良ニシテ危篤ニ陥リタリト主治医ヨリ詳細ノ説明アリ、 <persname corresp=\"#pers_尾崎\">\n<surname> 尾崎 </surname>\n</persname> 氏ト中日実業会社ノ件ニ付協議ス、蓋シ今日午後 <persname corresp=\"#pers_楊士琦\">\n<surname> 楊 </surname>\n<forename> 士琦 </forename>\n</persname> 氏会見ノ際ニ於テ交渉スヘキ要件ヲ議定スル為メナリ、協議後、 <persname corresp=\"#pers_水野\">\n<surname> 水野 </surname>\n</persname> ノ家ニテ <persname corresp=\"#pers_山座\">\n<surname> 山座 </surname>\n</persname> 公使公使ト会談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 39.90556,
+                    "lon": 116.39139,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n       過ヨリ旧宮廷ヲ一覧ス、壮大ニシテ精緻ナリ、只、修理少キヲ以テ漸ク荒廃ニ委セントスルノ観アリ、惜ムヘキノ至リナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n       、 <persname corresp=\"#pers_熊希齢\">\n<surname> 熊 </surname>\n<forename> 希齢 </forename>\n</persname> 、 <persname corresp=\"#pers_汪大燮\">\n<surname> 汪 </surname>\n<forename> 大燮 </forename>\n</persname> 、 <persname corresp=\"#pers_梁啓張\">\n<surname> 梁 </surname>\n<forename> 啓張 </forename>\n</persname> 三人《（ <persname corresp=\"#pers_梁啓超\">\n<surname> 梁 </surname>\n<forename> 啓超 </forename>\n</persname> ）》ヨリ招宴ノ午飧会ニ出席ス、食卓上 <persname corresp=\"#pers_熊\">\n<surname> 熊 </surname>\n</persname> 氏ノ詳細ナル演説アリタルニヨリ、之ニ答ヘテ一場ノ謝詞ヲ述フ、宴散シテ再ヒ <persname corresp=\"#pers_水野\">\n<surname> 水野 </surname>\n</persname> 氏ノ病ヲ訪フ、益重症ニシテ今夕ヲ限ルトノ事ナリ、 <persname corresp=\"#pers_山座\">\n<surname> 山座 </surname>\n</persname> 公使公使、 <persname corresp=\"#pers_小田切\">\n<surname> 小田切 </surname>\n</persname> 氏等ト談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 中日公司事務所ニ抵リ <persname corresp=\"#pers_楊\">\n<surname> 楊 </surname>\n</persname> 氏ト会談ス、 <persname corresp=\"#pers_尾崎\">\n<surname> 尾崎 </surname>\n</persname> 氏同伴ス、一ノ覚書ヲ交付シテ其要ヲ詳話ス畢テ宴会アリ、席上主人ノ挨拶ニ応シテ一場ノ答詞ヲ為ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時\n       </time> 散会、帰途又 <persname corresp=\"#pers_水野\">\n<surname> 水野 </surname>\n</persname> ヲ訪フ、既ニ死去ノ後ナリ、慨歎ノ至ナリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

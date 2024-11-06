@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-05-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、夕少雨、昨日ト同シク "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> ヨリ甲板上ニ出ツ、午後 <placename corresp=\"#place_ハワイ諸島\"> 布哇群島 </placename> ノ一ナルニーホー島ヲ見ル、夫ヨリカワイ、 <placename corresp=\"#place_マウイ\"> マウイ </placename> 等ノ島嶼接続ス、甘蔗田ヲ遠見ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n       ホノルヽ港ニ着ス、夕餐後地方商人同志会ノ人々余カ寄港ヲ歓迎スルトテ総代トシテ <orgname> 横浜正金銀行 </orgname> 支店長 <persname corresp=\"#pers_今西\">\n<surname> 今西 </surname>\n</persname> 某其他五六名本船ニ来リテ上陸其席ニ臨マレン事ヲ請ハル、依テ一行上陸シテ、港口ヨリ馬車ニテ <persname corresp=\"#pers_今西\">\n<surname> 今西 </surname>\n</persname> 氏ノ先導ニヨリ <placename corresp=\"#place_脇木\"> 脇木 </placename> ト称スル地ニ抵リ <persname corresp=\"#pers_今西\">\n<surname> 今西 </surname>\n</persname> 氏ノ寓ニ投ス、蓋シ同志会ノ人々ハ此家ニ開宴シテ余ノ来臨ヲ待ツヲ以テナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 午後九時 </time> 過ヨリ開宴シ、\n        <persname corresp=\"#pers_今西\">\n<surname> 今西 </surname>\n</persname> 氏総代トシテ歓迎ノ辞ヲ述フ、次ニ領事 <persname corresp=\"#pers_斎藤幹\">\n<surname> 斎藤 </surname>\n<forename> 幹 </forename>\n</persname> 氏 <placename corresp=\"#place_ハワイ州\"> 布哇 </placename> 移住民及同地方商業上ノ大体ニ就テ一場ノ演説アリ、余モ\n        <placename corresp=\"#place_ハワイ州\"> 布哇 </placename>\n       商人同志会ニ望ムノ趣旨ヲ以テ一場ノ挨拶演説ヲ為ス、畢テ一同盃ヲ挙テ賓主ノ健康ヲ祝シ、且食卓上撮影等ノ事アリテ宴ヲ散セシハ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 21.467,
+                    "lon": -157.983,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時\n       </time> 過《（午前）》ナリキ、宴罷テ海岸ヲ散歩シ、煙火ノ余興ヲ一覧ス、時ニ天晴レテ月明カナリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1902-05-24T02:00+0900\">\n        二時 </time> 寝ニ就ク "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

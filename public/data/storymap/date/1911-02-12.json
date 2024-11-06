@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-02-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、風邪気ナルニヨリ半身浴ヲ為シ、後、朝飧ヲ食シ、 <orgname> 埼玉学生誘掖会 </orgname>\n       生徒二人ニ面話ス、畢テ <persname corresp=\"#pers_穂積仲子\">\n<surname> 穂積 </surname>\n<forename> 仲子 </forename>\n</persname> 《（ <persname corresp=\"#pers_穂積ナカ子\">\n<surname> 穂積 </surname>\n<forename> ナカ子 </forename>\n</persname> ）》、 <persname corresp=\"#pers_渋沢孝子\">\n<surname> 渋沢 </surname>\n<forename> 孝子 </forename>\n</persname> 等ノ来訪ニ接ス、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏来リ、 <placename corresp=\"#place_深川\"> 深川 </placename> セメント工場煙害ノ事ニ付種々協議スル所アリ <lb></lb>\n<orgname> 朝日新聞 </orgname> 記者来リテ貧民施療ニ関スル詔勅ニ付テ意見ヲ諮問セラル、依テ詳細ニ陳述シ遣ス、中外商業新報記者来リ同様ノ事ヲ諮問セラル午飧後、\n        <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 氏来話ス、夜、新聞紙雑誌類ヲ読マシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

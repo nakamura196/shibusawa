@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-06-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後直ニ朝飧ヲ喫シ、食後、 <persname corresp=\"#pers_竹山\">\n<surname> 竹山 </surname>\n</persname> 氏ト共ニ <placename corresp=\"#place_南大門\"> 南大門 </placename> 内ノ支店候補地ヲ一覧ス、帰寓後 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 、 <persname corresp=\"#pers_竹山\">\n<surname> 竹山 </surname>\n</persname> 氏ト其土地ニ関スル処置方法ヲ協議ス、午 <pb corresp=\"#pageB1427\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/453/full/max/0/default.jpg\" n=\"B1427\" source=\"#pageB1427\"></pb> 前 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 十時半 </time>\n<persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 氏同伴 <persname corresp=\"#pers_目賀田\">\n<surname> 目賀田 </surname>\n</persname> 顧問ヲ訪ヒ、 <orgname> 第一銀行 </orgname> 事務及貨幣整理其他ノ要務ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時\n       </time> 帰寓、午飧ス、食後来客ニ接シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 過キ <persname corresp=\"#pers_宇都曾一\">\n<surname> 宇都 </surname>\n<forename> 曾一 </forename>\n</persname> 同伴、東大門外ノ帝室所属荒蕪地ヲ一覧ス、 <placename corresp=\"#place_京城府\"> 京城 </placename>\n       ヲ去ル約二里ノ外、一川ニ沿フタル地ナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n       帰寓、更ニ日本人倶楽部ニ抵リ、園遊会ニ出席シ一場ノ演説ヲ為ス、此日来会スル者約二百名、多ク <placename corresp=\"#place_京城府\"> 京城\n       </placename> ニ在ル邦人及韓人、支那人等ノ取引先ナリ、種々ノ余興アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time>\n       過ヨリ食堂ヲ開キ各杓雑沓歓《（マヽ）》ヲ尽シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 帰寓ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

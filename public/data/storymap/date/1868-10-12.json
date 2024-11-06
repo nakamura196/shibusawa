@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-10-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 午後 <placename corresp=\"#place_ホワンブロン\"> ホワンブロン </placename> 御遊歩、 <persname corresp=\"#pers_菊池平八郎\">\n<forename> 平八郎 </forename>\n</persname> 、 <persname corresp=\"#pers_小出涌之助\">\n<forename> 涌之助 </forename>\n</persname> 御供、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 御帰館、仏帝帰巴延引ニ付為問合 <persname corresp=\"#pers_コロネル\">\n<surname> コロネル </surname>\n</persname> 外国局江御遣し、外国局より早々 <placename corresp=\"#place_ビアリッツ\"> ビヤリイト </placename>\n       帝滞留所江問合、挨拶可有之旨申答候由ニ而罷帰る、 <persname corresp=\"#pers_栗本貞次郎\">\n<surname> 栗本 </surname>\n<forename> 貞次郎 </forename>\n</persname> 罷出る "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 43.481667,
+                    "lon": -1.556111,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

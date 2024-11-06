@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-08-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ後読書シ、又、 <persname corresp=\"#pers_穂積歌子\">\n<surname> 穂積 </surname>\n<forename> 歌子 </forename>\n</persname> ヘ静浦宛ノ一書ヲ発送ス、 <persname corresp=\"#pers_清光院\"> 清光院 </persname> ノ墓誌作文ニ関スル往答ナリ <lb></lb>\n<persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師及地方医師 <persname corresp=\"#pers_豊永\">\n<surname> 豊永 </surname>\n</persname> 氏等 <persname corresp=\"#pers_渋沢秀雄\">\n<forename> 秀雄 </forename>\n</persname> ノ病ヲ来診ス、次第ニ快方ニ赴ク旨申居レリ <lb></lb> 午飧後 <placename corresp=\"#place_湯本\"> 湯本 </placename>\n       マテノ散歩ヲ試ム、帰寓後扇面十数本ノ揮毫ヲ為ス、明日ハ帰京ノ筈ナルニ付夕方ヨリ書類ヲ整理ス <lb></lb>\n<persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> 今朝 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> ノ汽車ニテ帰京ス、又、 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師午後ノ汽車ニテ帰京ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

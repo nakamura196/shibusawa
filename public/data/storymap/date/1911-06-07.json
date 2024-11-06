@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-06-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ、朝飧ヲ食ス、後、 <persname corresp=\"#pers_大井台司\">\n<placename corresp=\"#place_大井\"> 大井 </placename>\n<forename> 台司 </forename>\n</persname> 氏来リ <placename corresp=\"#place_埼玉\"> 埼玉 </placename> 学生 <pb corresp=\"#pageB1676\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/702/full/max/0/default.jpg\" n=\"B1676\" source=\"#pageB1676\"></pb> 誘掖会ノ事ヲ談シ書類ヲ調印シ遣ス、 <persname corresp=\"#pers_杉浦義通\">\n<surname> 杉浦 </surname>\n<forename> 義通 </forename>\n</persname> 氏来リ、出獄人感化及救済事業ノ談アリ、時代公論社 <persname corresp=\"#pers_田口\">\n<surname> 田口 </surname>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 事務所ニ抵リ来人ニ接シ又事務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、直ニ自働車ニテ慈恵会ニ抵リ、皇后陛下ノ着御ヲ奉待ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n       過キ着御、直ニ評議員総会ヲ開キテ <date evidence=\"year inferenced\" when=\"1910\"> 四十三年 </date> 度ノ会計決算ヲ報告ス、拝謁畢リテ\n        <placename corresp=\"#place_芝\"> 芝 </placename> 離宮ニ於テ茶菓ノ下賜アル筈ナリシモ、曾テ <placename corresp=\"#place_福岡\"> 福岡 </placename> 日々新聞紙ニ於テ <orgname> 帝国座 </orgname>\n       ニ開催セル紀念会ニ出席シテ祝詞ヲ述フルノ約アリシニヨリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 頃 <orgname> 帝国座 </orgname>\n       ニ抵リ、 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 公爵、 <persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 侯爵ト共ニ一場ノ祝辞ヲ演説ス、後余興トシテ演劇アルヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 午後九時 </time> 帰宿ス、此夜、\n        <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persname> 修学ノ事ニ関シテ <persname corresp=\"#pers_矢作\">\n<surname> 矢作 </surname>\n</persname> 博士、 <persname corresp=\"#pers_古仁所\">\n<surname> 古仁所 </surname>\n</persname> 、 <persname corresp=\"#pers_横山\">\n<surname> 横山 </surname>\n</persname> 三氏来会シテ種々評議ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-07-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<persname corresp=\"#pers_渡辺専次郎\">\n<surname> 渡辺 </surname>\n<forename> 専次郎 </forename>\n</persname> 氏来ル、 <persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> ヲ伴フテ <persname corresp=\"#pers_渡辺\">\n<surname> 渡辺 </surname>\n</persname> 氏ヲ嚮道ニヨリ市中ニ出テ郵船会社、三井物産会社、 <orgname> 大倉組 </orgname>\n       、高田商会、領事館等ヲ歴訪シ種々ノ事務ヲ弁ス、郵船会社ニ於テハゼイムス氏誘引シテ各事務室ヲ案内シ其執務ノ順序ヲ説明セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時\n       </time> 市中ニ於テ午飧シ、更ニジヨンボルチ会社ヲ訪ヒ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n       頃帰宿ス、此日ホテルヨリ市中ニ往復スルニ地下電気鉄道ニ搭ス、其設備極テ完全シテ乗客賃ノ低廉ナル感スルニ堪ヘタリ、午後 <persname corresp=\"#pers_ステツト\">\n<surname> ステツト </surname>\n</persname> 氏夫妻来ル、明夕慈善会ノ出品陳列アルニ付 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ニ同伴ヲ勧ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> ヲ約シテ去ル、 <persname corresp=\"#pers_根岸練次郎\">\n<surname> 根岸 </surname>\n<forename> 練次郎 </forename>\n</persname> 氏来ル、夜、公使館一等書記 <persname corresp=\"#pers_松井\">\n<surname> 松井 </surname>\n</persname> 氏来話《（官脱）》ス <lb></lb> 今朝 <persname corresp=\"#pers_サミユール_サミユール\">\n<forename> サミユール </forename> ・ <surname> サミユール </surname>\n</persname> 、 <persname corresp=\"#pers_シヤンド\">\n<surname> シヤンド </surname>\n</persname>\n       、ケスウエツキ、ジオレー倫敦商業会議所会頭等ヘ名刺ヲ送リテ来着ノ事ヲ通ス、又英国公使ヨリ本邦ニテ受取タル外務大臣、市長、商業会議所会頭及ロードレブル・ストツク氏ヘノ添書ヲ送付ス\n       <lb></lb> （欄外） <lb></lb> ［此 <placename corresp=\"#place_日本\"> 日本 </placename> 邦留守宅及 <persname corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persname> ヘ書状ヲ発ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

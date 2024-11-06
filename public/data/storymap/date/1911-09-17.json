@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-09-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ、朝飧ヲ食ス、後、 <persname corresp=\"#pers_土岐善太郎\">\n<surname> 土岐 </surname>\n<forename> 善太郎 </forename>\n</persname> 氏ノ来訪ニ接シテ其身上ノ事ヲ依頼セラル、大陽記者 <persname corresp=\"#pers_綾部致\">\n<surname> 綾部 </surname>\n<forename> 致 </forename>\n</persname> 来《（太）》リ新内閣ニ対スル意見ヲ問ハル、 <persname corresp=\"#pers_上田碩三\">\n<surname> 上田 </surname>\n<forename> 碩三 </forename>\n</persname> 、 <placename corresp=\"#place_小川\"> 小川 </placename> 某等来リ新聞紙記載ノ事ニ関シテ意見ヲ問ハル、\n        <persname corresp=\"#pers_都倉義一\">\n<surname> 都倉 </surname>\n<forename> 義一 </forename>\n</persname> 氏来リテ実業ノ <placename corresp=\"#place_日本\"> 日本 </placename> 雑誌ニ関スル談話アリ、 <persname corresp=\"#pers_渡辺六尺\">\n<surname> 渡辺 </surname>\n<forename> 六尺 </forename>\n</persname> 氏来話ス、三重紡績会社 <persname corresp=\"#pers_真野愛三郎\">\n<surname> 真野 </surname>\n<forename> 愛三郎 </forename>\n</persname> 氏来訪セラル、 <persname corresp=\"#pers_韮塚次郎\">\n<surname> 韮塚 </surname>\n<forename> 次郎 </forename>\n</persname> 氏来リ、ワニシ塗料製造ノ事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time> ヨリ <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ <orgname> 女子大学 </orgname> ニ抵リ、 <persname corresp=\"#pers_ジヨルダン\">\n<surname> ジヨルダン </surname>\n</persname> 博士同夫人其他ノ来会者ト共ニ午飧シ、後、博士ハ講堂ニテ一場ノ女子教育ニ関スル演説アリ、畢テ教育会ノ多人数ニ接見ノ為メ別室ニ茶話会ヲ開ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 頃散会、帰宅ス、夜飧後、新聞紙ヲ読マシム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

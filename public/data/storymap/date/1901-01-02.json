@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-01-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前各種ノ新聞ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 過 <placename corresp=\"#place_東京\"> 東京\n       </placename> ヨリ電報アリテ、 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 老人　○ <persname corresp=\"#pers_尾高惇忠\">\n<forename> 惇忠 </forename>\n</persname> 病気危篤ノ事ヲ通シ来ル、依テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 過ノ汽車ニテ <placename corresp=\"#place_大磯町\"> 大磯 </placename> ヲ発シ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 過 <placename corresp=\"#place_東京\"> 東京 </placename> 着、直ニ <placename corresp=\"#place_深川\"> 深川 </placename>\n       宅ニ抵リ老人ノ病ヲ訪フモ既ニ死去ノ後ナリシ、家人親戚等ト共ニ葬儀ニ関スル手続ヲ談シテ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1901-01-03T01:00+0900\"> 一時\n       </time> 帰宅ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

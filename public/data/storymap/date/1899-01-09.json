@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-01-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、朝、 <persname corresp=\"#pers_押川包義\">\n<surname> 押川 </surname>\n<forename> 包義 </forename>\n</persname> 、 <persname corresp=\"#pers_本多庸一\">\n<surname> 本多 </surname>\n<forename> 庸一 </forename>\n</persname> 二氏ノ書状来ル、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 侯爵ヲ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ訪ヒシモ不在面晤ヲ得サル事ヲ報シ来ル、 <persname corresp=\"#pers_阪谷芳郎\">\n<surname> 阪谷 </surname>\n<forename> 芳郎 </forename>\n</persname> ヨリ来書、 <date when=\"1872\"> 明治五年 </date> 外国人ニ関シ地所抵当ヲ禁スル事ノ布告文ノ写ヲ送リ越ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<persname corresp=\"#pers_山縣有朋\">\n<surname> 山県 </surname>\n</persname> 侯爵ヲ訪ヒ、郵船会社特定航路ノ事、商工業者間着実ノ団体組織ノ事、興山公身上ニ関スル事等ヲ請願ス <lb></lb> 昨日来雨夜譚ノ浄書ニ従事ス、夜、 <persname corresp=\"#pers_沢田俊三\">\n<surname> 沢田 </surname>\n<forename> 俊三 </forename>\n</persname> 氏来ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-09-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 頃ヨリ汽車進行シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 頃 <placename corresp=\"#place_モンタナ州\"> モンタナ州 </placename> ナルアナコンダ精煉所ニ抵リ、工場ヲ一覧ス、規模宏大ニシテ機械整頓セリ、畢テ汽車ニテ\n        <placename corresp=\"#place_ビーテ\"> ビーテ </placename> ニ抵リ鉱山採堀ノ実況ヲ一覧ス、蓋シ <placename corresp=\"#place_ビーテ\"> ビーテ </placename> ハ銅ノ原鉱ヲ出シ <placename corresp=\"#place_アナコンダ_(モンタナ州)\">\n        アナコンダ </placename> ハ之ヲ精煉スル所ナリ、一覧畢テ其地ノ商業倶楽部ニ於テ地方人ノ催セル歓迎会ニ出席シ、食卓上一場ノ答辞ヲ述ヘ、宴畢テ亦汽車ニ帰リ、夜半頃ヨリ進行ヲ始ム <lb></lb>\n<persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname>\n<placename corresp=\"#place_シアトル\"> シヤトル </placename> 領事ハ此地ニテ一行ト離レテ任地ニ帰ル "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 47.0,
+                    "lon": -110.0,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

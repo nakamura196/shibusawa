@@ -1,0 +1,86 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-06-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、二三ノ来客ニ接見ス、朝飧後支度ヲ整ヘテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n       旅宿ヲ発シ、自働車ニテ停車場ニ抵リ <placename corresp=\"#place_旅順口区\"> 旅順 </placename> ニ赴ク、 <persname corresp=\"#pers_白仁\">\n<surname> 白仁 </surname>\n</persname> 長官ヨリ特ニ <persname corresp=\"#pers_白須\">\n<surname> 白須 </surname>\n</persname> 秘書官ヲ送リテ嚮導セシム、特別列車ニテ一行 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 38.8125,
+                    "lon": 121.24167,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 過 <placename corresp=\"#place_旅順口区\"> 旅順 </placename> ニ抵リ《（ルカ）》、此辺古戦場ナラサルナシ、 <persname corresp=\"#pers_白須\">\n<surname> 白須 </surname>\n</persname> 氏説明甚タ勉ム、 <placename corresp=\"#place_旅順口区\"> 旅順 </placename>\n       ニ抵レハ長官来リ迎ヘ、共ニ馬車ヲ駆リテ工業学校ヲ一覧セシム、途中各所ヲ指点シテ戦争当時ノ事ヲ説ク、学校ノ一覧畢リテ大和ホテルニ於テ午飧ノ饗応アリ、畢テ海軍水交支所、陸軍陳列所、\n        <placename corresp=\"#place_白玉山\"> 白玉山 </placename> 等ヲ一覧シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 38.8125,
+                    "lon": 121.24167,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 過\n        <placename corresp=\"#place_旅順口区\"> 旅順 </placename> 発ノ汽車ニテ <placename corresp=\"#place_大連市\"> 大連\n       </placename>\n       ニ帰リ、停車場ヨリ満鉄会社員ニ誘ハレテ星カ浦ニ抵リ、星ノ屋ニ於テ夜飧ス、星カ浦ハ満鉄会社ノ経営ニ係リ海ニ瀕シテ眺望絶佳ナリ、和洋共ニ旗亭ノ設備完全ニシテ其調理モ亦可ナリ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 38.8125,
+                    "lon": 121.24167,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 頃旅宿ニ帰ル、此夜、雨大ニ風亦強シ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

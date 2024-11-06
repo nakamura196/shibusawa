@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-07-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> セントポール寺院ニ抵リ日曜日ノ例祭ヲ見ル、此日ハ伝 <pb corresp=\"#pageB1253\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/279/full/max/0/default.jpg\" n=\"B1253\" source=\"#pageB1253\"></pb> 教師任命ノ事アル由ニテ別段ノ儀式アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n       帰宿、暫時休息シテ午飧ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n       ヨリハイデ・パークヲ馬車ニテ巡遊シテ後ブリチス・ミユゼームニ抵リ宇宙各国ノ古器物ヲ見ル、此博物館ハ英国政府ノ管理ニ属シ、其家屋ノ構造壮大ナルノミナラス、器物ノ収集陳列ニ至ルマテ頗ル博ク且整頓セリ、別ニ書籍室アリテ万巻ノ書ヲ貯フ、実ニ其設備ノ壮大ニシテ具備スル只敬服ノ外ナキナリ、一覧後リゼント・パークニ抵リ動物園ヲ一覧ス、園中ノ花卉紅白各妍ヲ呈ス、鳥獣各種ノ動物中、獅子、虎、象、海象、海馬一名ヒポボタムス、麒麟、縞ノ斑紋アル馬、又ハ蛇、鰐ノ類頗ル珍奇ノ観アリ、一覧畢テ\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 過旅宿ニ帰ル、此日同行セシハ <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 、 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 、 <persname corresp=\"#pers_萩原\">\n<surname> 萩原 </surname>\n</persname> 、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 及 <persname corresp=\"#pers_西河\">\n<surname> 西河 </surname>\n</persname> 女ノ五名ナリキ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

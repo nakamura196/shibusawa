@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-11-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、 <persname corresp=\"#pers_角田竹冷\">\n<surname> 角田 </surname>\n<forename> 真平 </forename>\n</persname> 、 <persname corresp=\"#pers_星野錫\">\n<surname> 星野 </surname>\n<forename> 錫 </forename>\n</persname> 氏ノ <pb corresp=\"#pageB1549\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/575/full/max/0/default.jpg\" n=\"B1549\" source=\"#pageB1549\"></pb> 来訪ニ接ス、跡見学校ノ事ニ関シ談話ス、 <persname corresp=\"#pers_小野慶蔵\">\n<surname> 小野 </surname>\n<forename> □蔵 </forename>\n</persname> 氏来話《（ <persname corresp=\"#pers_小野慶蔵\">\n<surname> 小野 </surname>\n<forename> 慶蔵 </forename>\n</persname> カ <persname corresp=\"#pers_小野徳蔵\">\n<surname> 小野 </surname>\n<forename> 徳蔵 </forename>\n</persname> カ）》ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、来人ニ接シ事務ヲ処理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\">\n        正午 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<placename corresp=\"#place_日比谷\"> 日比谷 </placename> 大神宮ニ抵リ、 <persname corresp=\"#pers_石黒\">\n<surname> 石黒 </surname>\n</persname> 、 <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 両家ノ婚儀ニ参席ス、畢テ華族会館ニ抵リテ其祝宴ニ出席ス、来会者四五十人計ナリ、食卓上 <persname corresp=\"#pers_石黒\">\n<surname> 石黒 </surname>\n</persname> 氏ノ挨拶アリ、余モ一言ノ祝詞ヲ述ヘ、賓主歓ヲ尽シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会、帰宿ス、夜、新聞紙ヲ一読ス\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

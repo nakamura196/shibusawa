@@ -1,0 +1,73 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-05-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床入浴シ、畢テ朝飧ヲ食ス、食後新聞紙ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時\n       </time> 養育院ニ抵リ、事務ヲ処理シ院内ヲ巡覧ス、此日ハ <persname corresp=\"#pers_楽翁\"> 楽翁 </persname>\n       公忌日ナルヲ以テ、院内ニ其遺物ヲ奠シ供物ヲ供ヘテ拝礼ス、畢テ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ニ抵リ事務ヲ処理ス、 <persname corresp=\"#pers_岡崎遠光\">\n<surname> 岡崎 </surname>\n<forename> 遠光 </forename>\n</persname> 氏、 <persname corresp=\"#pers_犬丸鉄太郎\">\n<surname> 犬丸 </surname>\n<forename> 鉄太郎 </forename>\n</persname> 氏等来話ス、午後 <orgname> 日本銀行 </orgname> ノ集会所ニ抵リ、コアン氏送別会招宴ニ陪席ス、午飧畢テ再ヒ事務所ニ抵リ書状ヲ裁ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename> 水交社ニ <persname corresp=\"#pers_楽翁\"> 楽翁\n       </persname>\n       公追弔ノ集会ニ出席シ一場ノ演説ヲ為ス、此日ハ公ノ遺物諸方ヨリ多ク集リ、室内ニ陳列シテ来会者ノ縦覧ニ供ス、且公ノ遺跡タル春風池、秋風池等ヲ来会者ヲシテ縦覧セシム、演説畢テ\n        <placename corresp=\"#place_築地\"> 築地 </placename> ニ一友人ヲ訪ヒ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1908-05-14T00:00+0900\"> 十二時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

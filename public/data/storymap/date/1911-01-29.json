@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-01-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ、朝飧ヲ食ス、後、書類ヲ点検ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n       過 <persname corresp=\"#pers_明石\">\n<surname> 明 <pb corresp=\"#pageB1657\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/683/full/max/0/default.jpg\" n=\"B1657\" source=\"#pageB1657\"></pb> 石 </surname>\n</persname> ノ家ヲ訪フ、蓋シ老夫人今日出立シテ <placename corresp=\"#place_岡山\"> 岡山 </placename>\n       ニ赴クヲ以テ之ヲ送別シタルナリ、帰宅後同文館 <persname corresp=\"#pers_江口\">\n<surname> 江口 </surname>\n</persname> 氏来訪ス、東洋性命保険会社《（生）》 <persname corresp=\"#pers_古田\">\n<surname> 古田 </surname>\n</persname> 氏来リ添書ヲ請ハル、 <persname corresp=\"#pers_木内荒治\">\n<surname> 木内 </surname>\n<forename> 荒治 </forename>\n</persname> 氏依頼ノ額面ニ附記ヲ為ス、又、 <placename corresp=\"#place_備後国\"> 備後 </placename>\n<persname corresp=\"#pers_重政\">\n<surname> 重政 </surname>\n</persname> 氏ヨリ寄セラレタル額面附記ノ文案ヲ作リ <persname corresp=\"#pers_大沢\">\n<surname> 大沢 </surname>\n</persname> 氏ヘ書通ス、午飧後、演説筆記ヲ修正シテ夫々ヘ交付ス、夕方 <persname corresp=\"#pers_大沢\">\n<surname> 大沢 </surname>\n</persname> 氏ヨリ返書来ル <lb></lb> 諸方ノ依頼ニ係ル揮毫ヲ試ム、夜飧後モ亦揮毫ヲ為シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.5631333,
+                    "lon": 133.3938611,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 過寝ニ就ク\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

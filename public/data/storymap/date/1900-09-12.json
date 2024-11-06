@@ -1,0 +1,59 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-09-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、風邪気稍愈ルヲ以テ褥ヲ離レ <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 老人ノ病ヲ訪ヒ午餐後 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 邸ニ <pb corresp=\"#pageB1154\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/180/full/max/0/default.jpg\" n=\"B1154\" source=\"#pageB1154\"></pb> 帰ル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n       三井集会所ニ於テ曾テ書ヲ以テ市内実業家四拾有余人ニ政友会ニ関スル協議会ヲ開ク事ヲ通シ置キタルヲ以テ之ニ会ス、来会者三十二名、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯モ参席セラル、依テ冒頭ニ此会ヲ催シタル趣旨ヲ述ヘ且一同ノ意見陳述ヲ乞フ、 <persname corresp=\"#pers_原六郎\">\n<surname> 原 </surname>\n<forename> 六郎 </forename>\n</persname> 氏口ヲ開テ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯身上ノ都合ヲ問ハル、是ニ於テ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ハ爾来政友会特ニ <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 侯トノ情誼ヨリ従来ノ関係ヲ縷述セラレ政友会ニ付テ述ヘラレタル企望ヲ詳話ス、 <persname corresp=\"#pers_雨宮敬次郎\">\n<surname> 雨宮 </surname>\n<forename> 敬次郎 </forename>\n</persname> 氏ハ一同袖連ネテ入会スルヲ得策トスルト論シ、 <persname corresp=\"#pers_末延道成\">\n<surname> 末延 </surname>\n<forename> 道成 </forename>\n</persname> 、 <persname corresp=\"#pers_加藤正義\">\n<surname> 加藤 </surname>\n<forename> 正義 </forename>\n</persname> 、 <persname corresp=\"#pers_高橋是清\">\n<surname> 高橋 </surname>\n<forename> 是清 </forename>\n</persname> 、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 氏等ハ政友会モシクハ <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 侯ノ政略ニ同意ヲ表スルハ無論ナルモ、党籍ニ入名スルハ自己管理ノ事務ニ害アルノ恐アルヲ以テ入会ハ同意セストノ主旨ヲ述フ、其他各員種々ノ談話討議アリテ\n        <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ハ強テ之ヲ勧誘セス、又此政友会ノ成立ヲ熟視スレハ経済界トノ関係頗ル必要ノ点アルヲ示シテ一同ノ考慮ヲ注意セラル、依テ最終ノ決案ハ来会者一同ハ政友会即\n        <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname>\n       侯ノ政略ニ於テハ全然之ニ同意賛成シ勉テ其関係ノ密着ヲ謀ルヘシ、去リ乍ラ銀行会社従事ノ者ハ従来ノ党派ノ弊習ニ鑑ミ、自身入籍スルヲ以テ其管理ノ業務ニ害アリト顧念スルニ於テ強テ其入会ヲ要求セス、只可成同会賛襄ノ趣旨貫徹ヲ務ムヘキ事トシテ一同夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過散会セリ、此夜 <placename corresp=\"#place_日本橋兜町\"> 兜町\n       </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-01-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝、 <persname corresp=\"#pers_浜中義左衛門\">\n<surname> 浜中 </surname>\n<forename> 義左衛門 </forename>\n</persname> 来、同行ニ而 <placename corresp=\"#place_大塚\"> 大塚 </placename> 、 <persname corresp=\"#pers_栗本\">\n<surname> 栗本 </surname>\n</persname> を訪ふ、明日同人出殿諸事可申談旨相約す、午飯等相調へ、 <persname corresp=\"#pers_浜中\">\n<surname> 浜中 </surname>\n</persname> と別れ、駕を命し <placename corresp=\"#place_両国\"> 両国 </placename> 吉田屋に至る <lb></lb>\n<persname corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persname> 面会、同行ニ而 <placename corresp=\"#place_番場町\"> 番場町 </placename>\n<persname corresp=\"#pers_田辺\">\n<surname> 田辺 </surname>\n</persname> を訪ひ、 <persname corresp=\"#pers_卯三郎\">\n<forename> 卯三郎 </forename>\n</persname> 邂逅、四人打連て、 <persname corresp=\"#pers_河津\">\n<surname> 河津 </surname>\n</persname> 伊豆の住居せる元 <persname corresp=\"#pers_酒井\">\n<surname> 酒井 </surname>\n</persname> 左衛門尉別業を尋問、庭園を一覧、夜に入 <persname corresp=\"#pers_河津\">\n<surname> 河津 </surname>\n</persname> の娘に洋服試験の挙を遂 <lb></lb> 夜半過より <placename corresp=\"#place_深川\"> 深川 </placename> に至り一泊\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

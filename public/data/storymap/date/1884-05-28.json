@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1884-05-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<lb></lb>\n<placename corresp=\"#place_大阪\"> 大阪 </placename> 、西京、 <placename corresp=\"#place_神戸\"> 神戸\n       </placename> 、 <placename corresp=\"#place_四日市\"> 四日市 </placename> 及 <placename corresp=\"#place_敦賀\"> 敦賀 </placename> 等ノ各地ヲ巡回シ、各支店営業ノ実際ヲ視察シ、行務ノ各項ヲ撿閲スヘキ為メ東京本店ヲ発セシハ <date evidence=\"year inferenced\" when=\"1884-05-28\"> 五月二十八日 </date>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時三十分 </time> ナリ <lb></lb> 此口晴、 <placename corresp=\"#place_新橋\"> 新橋\n       </placename> 駐車場ニテ送別ノ諸友ニ別ヲ告ケ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> ノ汽車ニ駕シ、同四十五分 <placename corresp=\"#place_神奈川\"> 神奈川 </placename> ニ達ス、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 、 <persname corresp=\"#pers_矢野二郎\">\n<surname> 矢野 </surname>\n<forename> 二郎 </forename>\n</persname> ハ殊ニ談話ノ事アリテ送テ此ニ到ル、横浜支店 <persname corresp=\"#pers_本山\">\n<surname> 本山 </surname>\n</persname> 及丸キ店 <persname corresp=\"#pers_書上\">\n<surname> 書上 </surname>\n</persname> 等モ送別ノ為メ来会ス、談話数刻ニシテ別ヲ告ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_神奈川\"> 神奈川 </placename> ヲ発シ馬車ニ駕シ藤沢駅ニ至リテ午餐シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\">\n        午後五時 </time>\n<placename corresp=\"#place_湯本\"> 湯本 </placename>\n<orgname> 金泉楼 </orgname> ニ投宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,94 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-01-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<placename corresp=\"#place_永田町\"> 永田丁 </placename>\n<persname corresp=\"#pers_島津\">\n<surname> 島津 </surname>\n</persname> 公爵邸ヲ訪フ、 <persname corresp=\"#pers_近衛\">\n<surname> 近衛 </surname>\n</persname> 公爵来会シ朝鮮協会ノ事ヲ談ス、畢テ <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 総理ノ官舎ヲ訪ヒ <persname corresp=\"#pers_曾禰\">\n<surname> 曾禰 </surname>\n</persname> 大蔵大臣ニ面会シテ銀行法ノ事ヲ談話ス、更ニ <persname corresp=\"#pers_小村\">\n<surname> 小村 </surname>\n</persname> 外務ニ面会シテ <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 借款ノ事ヲ談ス、又、 <persname corresp=\"#pers_芳川\">\n<surname> 芳川 </surname>\n</persname> 逓信ニ鉄道抵当ニ関スル手続ヲ話シ、 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 総理ニハ <placename corresp=\"#place_足尾町\"> 足尾 </placename> 鉱毒ニ付テ調査会設置ノ手続ヲ承リ合ハス、畢テ\n        <persname corresp=\"#pers_松本\">\n<surname> 松本 </surname>\n</persname> 作業局長《（官脱）》ヲ其役所ニ訪ヒ岩越鉄道線路ニ関スル意見ヲ諮詢ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6768472,
+                    "lon": 139.7399139,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 商業会議所ニ抵リ\n        <persname corresp=\"#pers_萩原\">\n<surname> 萩原 </surname>\n</persname> 氏ニ朝鮮協会ニ関スル書類ノ修正ヲ托シ、且明日商工局長訪 <pb corresp=\"#pageB1220\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/246/full/max/0/default.jpg\" n=\"B1220\" source=\"#pageB1220\"></pb> 問ノ手続ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<orgname> 第一銀行 </orgname> ニ出勤シ三十九銀行ヨリ請願ニ関スル貸金ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename> 香雪軒ニ抵リ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 海軍大将、 <persname corresp=\"#pers_角田\">\n<surname> 角田 </surname>\n</persname> 、左宗《（左双）》、 <persname corresp=\"#pers_石黒\">\n<surname> 石黒 </surname>\n</persname> 、 <persname corresp=\"#pers_松本\">\n<surname> 松本 </surname>\n</persname> 諸氏ヲ招宴ス、蓋シ <orgname> 石川島造船所 </orgname> ノ為ニ昨年来種々添心セラレシヲ謝スルナリ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会シテ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-05-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:25:00",
+                    "text": "<time when=\"07:25:00\"> 午前七時二十五分 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 発ノ汽車ニテ <placename corresp=\"#place_浦賀\"> 浦賀\n       </placename> 石川島分工場ニ抵ル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.2475,
+                    "lon": 139.713972,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 同所着、事務所ニ於テ <persname corresp=\"#pers_福地\">\n<surname> 福地 </surname>\n</persname> 、 <persname corresp=\"#pers_栗田\">\n<surname> 栗田 </surname>\n</persname> 、小川ノ諸氏ニ面話ス、 <placename corresp=\"#place_東京\"> 東京 </placename> ヨリハ <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 、 <persname corresp=\"#pers_平沢\">\n<surname> 平沢 </surname>\n</persname> 二氏同伴ス、午餐後各工場ヲ一覧シ畢テ事務所ニ抵リ向後事務技術ノ実施ニ関スル手続ヲ協議シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<placename corresp=\"#place_浦賀\"> 浦賀 </placename> ヲ発シ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.2475,
+                    "lon": 139.713972,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> 帰京、\n        <placename corresp=\"#place_浜町\"> 浜町 </placename>\n       常盤屋ニ於テ開キタル偕楽会ニ出席ス、蓋シ此会ハ毎月十日開会ノ例ナリシモ、昨日ハ御慶事当日ナルヲ以テ今日ニ延引シタル <pb corresp=\"#pageB1136\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/162/full/max/0/default.jpg\" n=\"B1136\" source=\"#pageB1136\"></pb> ナリ、畢テ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過 <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス、此夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1900-05-12T03:00:00\"> 三時\n       </time> 頃地震アリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

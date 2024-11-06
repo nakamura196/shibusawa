@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-02-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝、 <placename corresp=\"#place_紺屋町\"> 紺屋町 </placename>\n       御役所へ罷越す、御用筋取扱ふ御用達之者九人へ会所御用達申渡、商法会所御取開之旨申聞る、小遣之者手代之者御普請之事等申談し、一同見込書可差出儀等申談し、夫より出殿取扱候御用向\n        <persname corresp=\"#pers_大久保一翁\">\n<forename> 一翁 </forename>\n</persname> 殿へ申立る、開成所雑物請取方いたし御勘定所へ預置、御勘定下役之者両人会所御用掛申渡 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

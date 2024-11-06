@@ -1,0 +1,73 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-01-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、例ニヨリテ室内運動ヲ為シ、畢テ新衣ヲ着シテ椒酒ヲ挙テ新年ヲ祝ス、家人ノ慶賀ヲ請ク、畢リテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time> 過 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ馬車ニテ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ニ抵リ、家人及新戚等《（親）》ノ来会祝賀ヲ受ク、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ行員一同ノ新年祝賀ヲ受ケ祝盃ヲ挙ク、 <placename corresp=\"#place_大韓民国\"> 韓国\n       </placename> ノ電報、各支店利益ノ報知等ヲ了知シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 帰宅ス、 <persname corresp=\"#pers_坂谷\">\n<surname> 坂谷 </surname>\n</persname> 夫妻《（ <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> ）》、 <persname corresp=\"#pers_大川\">\n<surname> 大川 </surname>\n</persname> 、 <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 、 <persname corresp=\"#pers_仲田\">\n<surname> 仲田 </surname>\n</persname> 其他近親ノ諸氏数十人来リテ新年ヲ賀ス、 <persname corresp=\"#pers_西園寺公毅\">\n<surname> 西園寺 </surname>\n<forename> 公毅 </forename>\n</persname> 来ル夜、家人ノ歌加留多遊ヲ見ル、後読書ス、畢テ室内運動ヲ為ス <lb></lb> 此日 <placename corresp=\"#place_旅順口区\"> 旅順\n       </placename> 松樹山砲台占領ノ報アリ <lb></lb> 新年山といふ御題にてよめる <lb></lb> けふといへはまたあたらしく見ゆるかなはつ日にほへるゆきの不二のね <lb></lb> 同\n       <lb></lb> あけわたる年の光の初日影まつ見えそむるゆきの富士の根 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 38.8125,
+                    "lon": 121.24167,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

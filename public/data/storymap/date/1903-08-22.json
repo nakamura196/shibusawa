@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-08-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床海水ニ浴ス、朝飧後 <persname corresp=\"#pers_野田\">\n<surname> 野田 </surname>\n</persname> 氏及 <placename corresp=\"#place_東京\"> 東京 </placename>\n<persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 等ヘ書状、電報ヲ発シテ <persname corresp=\"#pers_ヱブリー\">\n<surname> ヱブリー </surname>\n</persname> 氏招宴ノ事、先方ニ <date evidence=\"year inferenced, month\" when=\"1903-08-24\"> 廿四日 </date>\n       差支アレハ已ムヲ得ス見合スヘキ旨申遣ス、午後 <persname corresp=\"#pers_郷隆三郎\">\n<surname> 郷 </surname>\n<forename> 隆三郎 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<persname corresp=\"#pers_野田\">\n<surname> 野田 </surname>\n</persname> 男爵ヲ <placename corresp=\"#place_銚子\"> 銚子 </placename> 別荘ニ訪フ、夜ニ入リテ帰寓ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

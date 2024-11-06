@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-03-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 伯ヲ <placename corresp=\"#place_三田\"> 三田 </placename> 本邸ニ訪ヒ要件ヲ談話ス（京釜鉄道ノ事及 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> 金地金取入ノ事等）、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname> 銀行倶楽部 </orgname> ニ抵リ興信所評議員会ヲ開ク、 <persname corresp=\"#pers_波多野\">\n<surname> 波多野 </surname>\n</persname> 、 <persname corresp=\"#pers_池田\">\n<surname> 池田 </surname>\n</persname> 、 <persname corresp=\"#pers_森下\">\n<surname> 森下 </surname>\n</persname> ノ諸氏来会ス、畢テ <orgname> 第一銀行 </orgname> ニ出勤シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<orgname> 日本郵船会社 </orgname> ニ抵リ重役会ニ列ス、此夜 <placename corresp=\"#place_浜町\"> 浜町 </placename>\n       宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

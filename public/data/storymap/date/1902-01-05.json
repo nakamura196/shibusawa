@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-01-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起テ海岸ヲ散歩ス、 <persname corresp=\"#pers_竹田\">\n<surname> 竹田 </surname>\n</persname> 、 <persname corresp=\"#pers_吉岡\">\n<surname> 吉岡 </surname>\n</persname> 同伴ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝餐ヲ畢リ古文真宝ヲ読ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時\n       </time> 頃ヨリ曾テ諸方ヨリノ依頼ニ係ル紙〓ニ揮毫ス <persname corresp=\"#pers_桃井可雄\">\n<surname> 桃井 </surname>\n<forename> 可雄 </forename>\n</persname> 、 <persname corresp=\"#pers_石井健吾\">\n<surname> 石井 </surname>\n<forename> 健吾 </forename>\n</persname> 来訪、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 一同午飧シ、畢テ再ヒ揮毫ヲ試ム、前後数十枚ヲ揮毫ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_東京\"> 東京 </placename> ヨリ書状来ル、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ヨリ明 <date when=\"1902-01-06\"> 六日 </date>\n<persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 駐韓公使会見ノ事ヲ報シ来ル、 <persname corresp=\"#pers_桂太郎\">\n<surname> 桂 </surname>\n<forename> 太郎 </forename>\n</persname> 氏ヨリ来ル <date when=\"1902-01-08\"> 八日 </date>\n<placename corresp=\"#place_葉山\"> 葉山 </placename> 別荘ニ於テ小催ノ事ヲ告ケ来ル、 <persname corresp=\"#pers_萩原源太郎\">\n<surname> 萩原 </surname>\n<forename> 源太郎 </forename>\n</persname> 氏来状アリ、外十数通ヲ <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ヨリ封シテ送致ス、夕方揮毫ヲ止メ読書遊戯ニ消閑ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-11-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、半身浴ヲ為シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_谷川義勇\">\n<surname> 谷川 </surname>\n<forename> 義勇 </forename>\n</persname> 、 <persname corresp=\"#pers_楠原竜誓\">\n<surname> 楠原 </surname>\n<forename> 竜誓 </forename>\n</persname> 二氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<persname corresp=\"#pers_明石\">\n<surname> 明石 </surname>\n</persname> ノ家ヲ訪問ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 中央亭ニ抵リ午飧ス、食後、 <orgname> 東洋汽船会社\n       </orgname> 重役会ニ参列シテ種々ノ訓示ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ、重役会ヲ開キ要件ヲ議決ス、畢テ事務所ニ抵リ浦賀船渠会社重役ノ諸氏ニ面会ス、同会社ノ近況ヲ縷述セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 帝国劇場ニ抵リ、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢秀雄\">\n<forename> 秀雄 </forename>\n</persname> 等ト観劇ス、 <placename corresp=\"#place_早稲田\"> 早稲田 </placename>\n       文芸協会ノ主催ニ係ル演劇ニシテ、人形ノ家及舞踏劇、史劇等ナリ、総テ勉強ノ効アリテ上進ヲ覚フ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n       帰宿ス、後、新聞紙ヲ読ム <lb></lb>\n<persname corresp=\"#pers_井口正之\">\n<surname> 井口 </surname>\n<forename> 正之 </forename>\n</persname> 氏来リ青渊百話ノ事ヲ談シ、雨夜譚一帙ヲ貸与ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

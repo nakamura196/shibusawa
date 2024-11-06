@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-02-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_畑弥右衛門\">\n<surname> 畑 </surname>\n<forename> 弥右衛門 </forename>\n</persname> 氏ノ来訪ニ接ス <persname corresp=\"#pers_相馬由也\">\n<surname> 相馬 </surname>\n<forename> 由也 </forename>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 十時半 </time> 養育院ニ抵リ、 <date evidence=\"year inferenced\" when=\"1912\"> 四十五年 </date> 度予算編成ノ事ニ付常設委員諸氏ト談話シ、幹事以下ニ要旨ヲ訓示ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ、浅野セメント会社ニ関スル <placename corresp=\"#place_鶴見\"> 鶴見 </placename> 埋築事業ニ付協議会ヲ開ク、\n        <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 、 <persname corresp=\"#pers_安田\">\n<surname> 安田 </surname>\n</persname> 、 <persname corresp=\"#pers_大川\">\n<surname> 大川 </surname>\n</persname> 、 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 、 <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname>\n       家ノ家令等来会、種々評議ノ上埋築事業ハ創設ノ事ニ決ス、但資本ヲ三百五拾万円トシ、株式組織ト為シテ、発起ハセメント会社ノ人々トシ、各引受高ヲ定メテ負担スル事トス、畢テ一同午飧ヲ共ニシ、後、\n        <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏ト <orgname> 東洋汽船会社 </orgname> ノ事ヲ談ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n       帝国劇場会社ニ抵リ、 <persname corresp=\"#pers_西野\">\n<surname> 西野 </surname>\n</persname> 、 <persname corresp=\"#pers_手塚\">\n<surname> 手塚 </surname>\n</persname> 二氏ト会話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 過キ事務所ニ抵リテ書類ヲ点撿シ又書状ヲ裁ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ抵リ児童ニ訓示ス、夜飧後、 <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、 <persname corresp=\"#pers_皆川\">\n<surname> 皆川 </surname>\n</persname> 氏来リ新約全書ノ講義ヲ聞ク <lb></lb> 夕方 <persname corresp=\"#pers_相馬由也\">\n<surname> 相馬 </surname>\n<forename> 由也 </forename>\n</persname> 氏来リ、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_安田\">\n<surname> 安田 </surname>\n</persname> 二氏ノ人物評ヲ為ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

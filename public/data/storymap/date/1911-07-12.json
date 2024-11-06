@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-07-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ、朝飧ヲ食ス、後、同文館員 <persname corresp=\"#pers_江口正之\">\n<surname> 江口 </surname>\n<forename> 正之 </forename>\n</persname> 氏来《（ <persname corresp=\"#pers_井口正之\">\n<surname> 井口 </surname>\n<forename> 正之 </forename>\n</persname> 氏）》リ理想婦人問題ニテ意見ヲ述フ、実業ノ <placename corresp=\"#place_日本\"> 日本 </placename> 記者\n        <persname corresp=\"#pers_都倉\">\n<surname> 都倉 </surname>\n</persname> 氏来リ、明治ノ始官途ニ在リシ時ノ懐旧談ヲ乞ハル、 <persname corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persname> 氏来リ要務数件ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n       偕楽園ニ抵リ沖商会ノ半季決算会ニ出席ス、畢テ将来ノ経営ニ付注意ヲ与フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:30:00",
+                    "text": "<time when=\"13:30:00\"> 午後一時半 </time> 事務所ニ抵リ、 <persname corresp=\"#pers_森村市左衛門\">\n<surname> 森村 </surname>\n<forename> 市左衛門 </forename>\n</persname> 氏ノ来訪ニ接シ済生会寄附金ノ事ヲ談ス、 <persname corresp=\"#pers_諸井四郎\">\n<surname> 諸井 </surname>\n<forename> 四郎 </forename>\n</persname> 氏来リ <placename corresp=\"#place_埼玉\"> 埼玉 </placename> 誘掖会ノ事ヲ談ス、後、事務ヲ処理シ、 <persname corresp=\"#pers_北脇友吉\">\n<surname> 北脇 </surname>\n<forename> 友吉 </forename>\n</persname> ニ訓戒シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<placename corresp=\"#place_築地\"> 築地 </placename>\n<placename corresp=\"#place_東京\"> 東京 </placename>\n       市施療病院ニ抵ル、其評議員ニ列スルヲ以テナリ、要件ヲ議了シ後ニ院内ヲ一覧シ各病室其他一切ノ設備ヲ見テ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6629889,
+                    "lon": 139.7691083,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 午後六時半 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿、後、園庭ヲ散歩ス今朝、 <persname corresp=\"#pers_伊藤太郎右衛門\">\n<surname> 伊藤 </surname>\n<forename> 太郎右衛門 </forename>\n</persname> 氏ヨリ申出ラレタル火葬場ノ事ニ付テハ、事務 <pb corresp=\"#pageB1684\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/710/full/max/0/default.jpg\" n=\"B1684\" source=\"#pageB1684\"></pb> 所ニテ <persname corresp=\"#pers_明石\">\n<surname> 明石 </surname>\n</persname> ニ内示シテ尽力セシムル事トス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

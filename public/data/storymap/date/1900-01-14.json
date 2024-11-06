@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-01-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴大風、朝、 <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> ト人造肥造会社半季計算報告、利益分配案其他ノ要件ヲ協議ス、留守宅 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> ヨリ持参セル諸方ノ来状及諸計算書類ヲ一覧シ、且処分案ヲ指示シ返翰ヲ発ス、 <persname corresp=\"#pers_伊藤伝七\">\n<surname> 伊藤 </surname>\n<forename> 伝七 </forename>\n</persname> 氏ヘ返書ヲ出ス、大坂 <persname corresp=\"#pers_大川英太郎\">\n<surname> 大川 </surname>\n<forename> 英太郎 </forename>\n</persname> ヘ返書ヲ出ス、本店 <persname corresp=\"#pers_清水泰吉\">\n<surname> 清水 </surname>\n<forename> 泰吉 </forename>\n</persname> 氏ヘ営業報告書其他ノ事ヲ回答シ遣ス <lb></lb> 午後、 <persname corresp=\"#pers_柏原文太郎\">\n<surname> 柏原 </surname>\n<forename> 文太郎 </forename>\n</persname> 、清国人 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname>\n<persname corresp=\"#pers_北泉\">\n<surname> 北泉 </surname>\n</persname> 二氏来ル、亜州通商協和会設立ノ事ヲ談ス、 <placename corresp=\"#place_大阪\"> 大坂 </placename> 、 <placename corresp=\"#place_神戸\"> 神戸 </placename> 両地ノ商業会議所会頭ニ添書ヲ交付ス、 <persname corresp=\"#pers_渡邊嘉一\">\n<surname> 渡辺 </surname>\n<forename> 嘉一 </forename>\n</persname> 氏来ル、北越鉄道会社 <placename corresp=\"#place_沼垂\"> 沼垂 </placename> ヨリ万代橋マテノ線路延長ノ事ヲ談ス、\n        <persname corresp=\"#pers_成瀬仁蔵\">\n<surname> 成瀬 </surname>\n<forename> 仁蔵 </forename>\n</persname> 来ル、 <orgname> 女子大学 </orgname> ノ設立ニ関シ奨励会ト合併ノ事ヲ談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

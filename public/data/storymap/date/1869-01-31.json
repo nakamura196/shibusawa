@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-01-31",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 頃発、 <placename corresp=\"#place_江尻\"> 江尻 </placename>\n       宿ニ而午飯、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 頃 <placename corresp=\"#place_府中\"> 府中 </placename>\n       東陲の松原ニ而 <persname corresp=\"#pers_浅野次郎八\">\n<surname> 浅野 </surname>\n<forename> 次郎八 </forename>\n</persname> に逢ふ、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 頃 <placename corresp=\"#place_府中\"> 府中\n       </placename> 着、問屋場ニ而旅宿を談し、 <persname corresp=\"#pers_油屋吉五郎\"> 油屋 <forename> 吉五郎 </forename>\n</persname> といふ旗亭投宿、 <persname corresp=\"#pers_脇阪米次郎\">\n<surname> 脇阪 </surname>\n<forename> 米次郎 </forename>\n</persname> 来、 <persname corresp=\"#pers_鵜飼弥一\">\n<surname> 鵜飼 </surname>\n<forename> 弥一 </forename>\n</persname> 来、同行ニ而七軒町天麩羅やに罷越、夫より <placename corresp=\"#place_上石町\"> 上石町 </placename>\n       汁粉屋に至る、夜、帰宿 <lb></lb>\n<persname corresp=\"#pers_梅沢\">\n<surname> 梅沢 </surname>\n</persname> 旅宿 <lb></lb>\n<placename corresp=\"#place_伝馬丁\"> 伝馬丁 </placename> 裏 <placename corresp=\"#place_鷹匠町\"> 鷹匠町 </placename>\n<lb></lb> 安在五丁目黄村旅宿 <lb></lb>\n<persname corresp=\"#pers_今村惣右衛門\">\n<surname> 今村 </surname>\n<forename> 惣右衛門 </forename>\n</persname> 宅 <lb></lb> 明後 <date type=\"旧暦\" when=\"1869-02-03\"> 廿二日 </date> 朝 <lb></lb>\n<placename corresp=\"#place_神田小柳町\"> 神田小柳町 </placename>\n<persname corresp=\"#pers_梅田慎之助\">\n<surname> 梅田 </surname>\n<forename> 慎之助 </forename>\n</persname> 方ニ而川村刀金物請取持参之事 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

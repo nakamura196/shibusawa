@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-07-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床入浴シ、畢テ朝飧ヲ食ス、食後、 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 、 <persname corresp=\"#pers_管沼\">\n<surname> 管沼 </surname>\n</persname> 二氏《（ <persname corresp=\"#pers_菅沼\">\n<surname> 菅沼 </surname>\n</persname> カ）》ノ来訪ニ接ス、又 <persname corresp=\"#pers_浅田正文\">\n<surname> 浅田 </surname>\n<forename> 正文 </forename>\n</persname> 氏ノ来訪ニ接ス、 <orgname> 帝商銀行 </orgname> ニ関スル取引上ノ事ヲ談ス、後、克己学寮ナル <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> ニ一書ヲ送リテ、高等学校受験ノ事ヲ注意シ遣ス、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n<persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> 、 <persname corresp=\"#pers_荒井賢太郎\">\n<surname> 荒井 </surname>\n<forename> 賢太郎 </forename>\n</persname> 二氏ニ書送《（状）》ヲ送リ、中央銀行改正案ノ事ニ関シ詳細ニ申遣ス、午飧後、 <placename corresp=\"#place_品川\"> 品川\n       </placename> 海晏寺ニ抵リ、 <persname corresp=\"#pers_児島惟謙\">\n<surname> 児島 </surname>\n<forename> 惟謙 </forename>\n</persname> 氏ノ葬儀ニ会ス、畢テ <orgname> 二十銀行 </orgname> 員等ト要務ヲ談シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿シ、後、庭園ヲ散歩ス、夜、新聞紙及雑誌ヲ読ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

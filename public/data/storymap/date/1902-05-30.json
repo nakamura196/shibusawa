@@ -1,0 +1,107 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-05-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "04:00:00",
+                    "text": "<time when=\"04:00:00\"> 午前四時 </time> 頃本船 <placename corresp=\"#place_サンフランシスコ\"> 桑港\n       </placename> 安着ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 37.76667,
+                    "lon": -122.43333,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 六時 </time> ヨリ起テ甲板上ニ出ツ、十数日ニシテ始テ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> ノ山ヲ視ル、頗ル快ヲ覚フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 頃\n        <persname corresp=\"#pers_上野\">\n<surname> 上野 </surname>\n</persname> 領事、 <orgname> 東洋汽船会社 </orgname> 員 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 氏ト共ニ来リテ安着ヲ祝ス、 <placename corresp=\"#place_サンフランシスコ\"> 桑港 </placename>\n       税関吏来リテ船中ヲ検査ス、朝飧後本船ヲ下リ埠頭ヨリ馬車ニテ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 37.76667,
+                    "lon": -122.43333,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_サンフランシスコ\"> 桑港 </placename> パレースホテルニ投宿ス、 <persname corresp=\"#pers_上野\">\n<surname> 上野 </surname>\n</persname> 領事夫妻、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 氏夫妻及三井物産会社支店長 <persname corresp=\"#pers_御酒本\">\n<surname> 御酒本 </surname>\n</persname> 氏等来リ迎フ、 <orgname> 東洋汽船会社 </orgname> 雇米人 <persname corresp=\"#pers_エブリー\">\n<surname> エブリー </surname>\n</persname> 氏等来リテ携帯ノ荷物税関通過ノ為メ尽力セラル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 37.76667,
+                    "lon": -122.43333,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 荷物ノ調査畢リテ一行ホテルニ来ル、依テ\n        <persname corresp=\"#pers_上野\">\n<surname> 上野 </surname>\n</persname> 領事及一行ト共ニホテルニ於テ午飧ス、畢テ <orgname> 正金銀行 </orgname> 支店長 <persname corresp=\"#pers_戸沢\">\n<surname> 戸沢 </surname>\n</persname> 氏来話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 馬車ヲ駆テ <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 氏宅ニ抵ル、其饗宴ニ応スル為メナリ、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 同伴ス、一行悉ク招宴セラル、 <persname corresp=\"#pers_上野\">\n<surname> 上野 </surname>\n</persname> 領事夫妻モ来会ス、此夜ハ日本料理ノ饗応ニテ一同歓ヲ尽ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 室内ニ於テ写真ヲ為《（写カ）》シ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> ホテルニ帰宿ス、 <placename corresp=\"#place_東京\"> 東京 </placename>\n       ヲ発シテヨリ十七日ヲ経テ始テ陸上ノ安眠ヲ得テ各旅中ノ労苦ヲ慰スルヲ得タリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-08-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 昨夜モ中宵発熱アリシヲ以テ、起床後同シク病褥ニ在テ安静ニ摂養ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ喫ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<persname corresp=\"#pers_高木\">\n<surname> 高木 </surname>\n</persname> 博士、 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診セラル、 <persname corresp=\"#pers_高木\">\n<surname> 高木 </surname>\n</persname> 氏ハ今日発途 <placename corresp=\"#place_北海道\"> 北海道 </placename> 行ノ筈ナリシモ余ノ為メニ特ニ来診セラレシナリキ、\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 43.064333,
+                    "lon": 141.346889,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 午飧、 <persname corresp=\"#pers_江間政発\">\n<surname> 江間 </surname>\n<forename> 政発 </forename>\n</persname> 来話ス <lb></lb> 夕方 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師再ヒ来診ス、夜、 <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> 小説《（ノ脱カ）》ヲ読ムヲ聴ク <lb></lb> 朝来熱気ハナキモ身体疲労ヲ覚ユ、午後ヨリ漸次ニ回復ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-05-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、 <placename corresp=\"#place_船形観音堂\"> 船形観音堂 </placename>\n       ニ詣ス、後、分院ニ抵リテ各室ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 朝飧ヲ食シ、直ニ <persname corresp=\"#pers_山口\">\n<surname> 山口 </surname>\n</persname> 氏ノ家ヲ発シ、馬車ニテ <placename corresp=\"#place_富浦\"> 富浦 </placename> ニ抵リ、 <persname corresp=\"#pers_川合\">\n<surname> 川合 </surname>\n</persname> 氏ノ案内ニテ枇杷酒醸造所ヲ一覧ス、 <placename corresp=\"#place_船形\"> 船形 </placename> 町長 <persname corresp=\"#pers_正木清一郎\">\n<surname> 正木 </surname>\n<forename> 清一郎 </forename>\n</persname> 、 <persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname>\n<pb corresp=\"#pageB1571\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/597/full/max/0/default.jpg\" n=\"B1571\" source=\"#pageB1571\"></pb>\n       氏等此地マテ送リ来ル、醸造所一覧後諸氏ニ分袂シ、海岸ニ沿フテ湊町ニ抵リ午飧シ、夫ヨリ分岐シテ鹿能山《（野）》ニ登ル、山路険悪僅ニ馬車ヲ通ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\">\n        五時 </time> 鹿能山ニ抵ル、本堂ヲ拝シ更ニ九十九谷ヲ眺望シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n       過下山ノ途ニ就ク、路狭ク崖険ニシテ馬車殆ント転覆セントスル事幾回夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:30:00",
+                    "text": "<time when=\"20:30:00\"> 八時半 </time>\n<placename corresp=\"#place_木更津市\"> 木更津 </placename> ニ抵リ、旅亭 <placename corresp=\"#place_鳥飼\"> 鳥飼\n       </placename> 某ニ投宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.37597,
+                    "lon": 139.91683,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

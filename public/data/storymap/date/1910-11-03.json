@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-11-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ、朝飧ヲ食ス、後、 <persname corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persname> 氏ノ来訪ニ接シテ要務ヲ談ス、畢テ愛蓮堂移建記ヲ浄写ス、又、祭枯松文ヲ揮洒ス此日ハ天長節ニテ参内スヘキ筈ナリシモ書面ニテ之ヲ辞シ、家ニ在テ書類ヲ整理ス、午後\n        <persname corresp=\"#pers_石黒忠悳\">\n<surname> 石黒 </surname>\n<forename> 忠悳 </forename>\n</persname> 氏ノ家ヲ訪ヘ、曾孫タル小児ヲ一覧ス、又、 <placename corresp=\"#place_神田\"> 神田 </placename> ニ <persname corresp=\"#pers_原胤昭\">\n<surname> 原 </surname>\n<forename> 胤昭 </forename>\n</persname>\n       氏ヲ訪ヘ、出獄人保護会ノ紀念日ヲ祝ス、夕方帰宿シテ又書類ヲ調査ス、演説筆記ノ修正、来翰ノ検閲及新聞紙雑誌等ノ閲覧ニテ終日多忙ナリキ、此夜開カルヽ外務大臣ノ夜会ニモ出席セス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

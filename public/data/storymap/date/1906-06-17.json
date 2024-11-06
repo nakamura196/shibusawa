@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-06-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後朝飧ヲ喫シ、送別ノ為メニ来会セシ数多ノ人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 臨江ホテルヲ発シ、庭前ナル <placename corresp=\"#place_大同江\"> 大同江 </placename> ニ浮ヘル小舟ニテ平安丸ト命名セル小蒸気船ニ搭ス、 <persname corresp=\"#pers_菊地\">\n<surname> 菊地 </surname>\n</persname> 理事官、 <persname corresp=\"#pers_山田\">\n<surname> 山田 </surname>\n</persname> 財務、馬場民長、其他軍人商業者共三四十人来リテ行ヲ送ル、平安丸ニテ大同江ヲ航シ、舟中囲碁音曲等ニテ歓楽多シ、船兼二浦ニ抵リテ少憩シ、更ニ航シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<pb corresp=\"#pageB1426\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/452/full/max/0/default.jpg\" n=\"B1426\" source=\"#pageB1426\"></pb>\n<placename corresp=\"#place_南浦特別市\"> 鎮南浦 </placename> ニ抵ル、 <persname corresp=\"#pers_染谷\">\n<surname> 染谷 </surname>\n</persname> 理事官、 <persname corresp=\"#pers_小川\">\n<surname> 小川 </surname>\n</persname> 民長及守備隊長、地方商業者等二三十人来リ迎フ、共ニ小舟ニテ上陸シ、同地 <persname corresp=\"#pers_麻生\">\n<surname> 麻生 </surname>\n</persname> 支配人ノ社宅ニ投宿ス休憩後 <placename corresp=\"#place_東京\"> 東京 </placename>\n       発《（宛）》ノ書状六通ヲ裁ス、畢テ入浴シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 38.733,
+                    "lon": 125.4,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time> ヨリ <orgname> 明月楼 </orgname>\n       ニ於テ開催セラルヽ地方有志者ノ歓迎会ニ出席ス、席上一場ノ演説ヲ為シ、畢テ余興ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 午後十時 </time> 帰寓、夜飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1906-06-18T00:00+0900\"> 十二時 </time> 就寝 <lb></lb> （欄外） <lb></lb> ［（ <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 、 <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 、 <persname corresp=\"#pers_竹田\">\n<surname> 竹田 </surname>\n</persname> 、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> ） "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

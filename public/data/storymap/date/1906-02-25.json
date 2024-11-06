@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-02-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後直ニ朝飧ヲ為シ、 <persname corresp=\"#pers_北垣国道\">\n<surname> 北垣 </surname>\n<forename> 国道 </forename>\n</persname> 氏ノ来訪ニ接シ種々ノ談話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 頃ヨリ新聞紙ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 霞ケ関離宮ニ抵リ、英国皇族殿下ヨリ招宴セラルヽ午飧会ニ出席ス、殿下及附添武官数名、接伴掛其他 <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 両公爵、 <persname corresp=\"#pers_鍋島\">\n<surname> 鍋島 </surname>\n</persname> 、 <persname corresp=\"#pers_小村\">\n<surname> 小村 </surname>\n</persname> 等ノ来会アリ、午飧畢テ <persname corresp=\"#pers_西園寺\">\n<surname> 西園寺 </surname>\n</persname> 総理ヲ訪ヒシモ不在ニテ面会ヲ得ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 頃 <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、夜、 <persname corresp=\"#pers_皆川\">\n<surname> 皆川 </surname>\n</persname> 、 <persname corresp=\"#pers_竹田\">\n<surname> 竹田 </surname>\n</persname> 氏等来ル、 <orgname> 人造肥料会社 </orgname> ノ要務ヲ談ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

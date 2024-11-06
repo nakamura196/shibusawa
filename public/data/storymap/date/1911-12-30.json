@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-12-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time>\n       起床、半身浴ヲ為シテ、朝飧ヲ食ス、後、来人ニ接ス、又、書類ヲ調査ス、午飧後事務所ニ抵リ事務ヲ処理シ諸方ヘ書状ヲ裁ス、種々ノ来客アリテ之レニ接ス、 <orgname> 第一銀行\n       </orgname> ニ抵リテ行務ヲ見ル、再ヒ事務所ニ抵リテ来状類ヲ撿閲ス、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 過 <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、後、新聞紙雑誌類ヲ一覧ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

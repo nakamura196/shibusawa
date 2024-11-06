@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-10-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前二三ノ来人ニ接ス（ <placename corresp=\"#place_静岡\"> 静岡 </placename>\n<persname corresp=\"#pers_宮崎\">\n<surname> 宮崎 </surname>\n</persname> 某及サミユール商会員 <persname corresp=\"#pers_安藤\">\n<surname> 安藤 </surname>\n</persname> 氏等来ル）、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 桜川町 <persname corresp=\"#pers_馬越恭平\">\n<surname> 馬越 </surname>\n<forename> 恭平 </forename>\n</persname> 氏ノ茶事ニ会ス、 <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 兄弟、 <persname corresp=\"#pers_山澄力三\">\n<surname> 山澄 </surname>\n<forename> 力三 </forename>\n</persname> 等 <pb corresp=\"#pageB1159\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/185/full/max/0/default.jpg\" n=\"B1159\" source=\"#pageB1159\"></pb> 来会ス、器具及饗応頗ル注意ヲ尽セリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n       富士見軒ニ抵リ養育院感化部事業ニ関シ同好ノ諸士会談ノ席ニ列ス、蓋シ <persname corresp=\"#pers_三好退蔵\">\n<surname> 三好 </surname>\n<forename> 退蔵 </forename>\n</persname> 氏ノ催ス処ナリ、軍人ニハ <persname corresp=\"#pers_佐藤\">\n<surname> 佐藤 </surname>\n</persname> 少将、医師ニハ <persname corresp=\"#pers_三浦\">\n<surname> 三浦 </surname>\n</persname> 、 <persname corresp=\"#pers_片山\">\n<surname> 片山 </surname>\n</persname> 其他 <persname corresp=\"#pers_古賀\">\n<surname> 古賀 </surname>\n</persname> 、 <persname corresp=\"#pers_久保田\">\n<surname> 久保田 </surname>\n</persname> 等ノ諸氏来会シテ海外感化事業ノ実験談アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

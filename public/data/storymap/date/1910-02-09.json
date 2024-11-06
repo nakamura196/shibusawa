@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-02-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、風邪快方セサルニヨリ褥中ニ在テ書類ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半\n       </time> 朝飧ヲ食ス、後、種々ノ雑誌又ハ新聞紙ヲ読マシム、伊藤公実録ハ両三日来 <persname corresp=\"#pers_明石愛子\">\n<forename> 愛子 </forename>\n</persname>\n       ノ読ミ続ケタルモノナルカ、今夕ニ至リテ終了スルヲ得タリ、公ノ家系ヨリ筆ヲ起シテ幼時、青年時代又ハ壮年、老後ニ至ルマテ一挙一動総テ国家ニ関係セサルナキハ実ニ得難キノ大偉人ト云フヘシ、\n        <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス、午飧後少ク揮毫ヲ試ム、夜、 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 氏又 <persname corresp=\"#pers_福島甲子三\">\n<surname> 福島 </surname>\n<forename> 甲子三 </forename>\n</persname> 氏来話ス、午前、 <persname corresp=\"#pers_鹿島岩蔵\">\n<surname> 鹿島 </surname>\n<forename> 岩蔵 </forename>\n</persname> 氏来話ス <lb></lb>\n<persname corresp=\"#pers_早速\">\n<surname> 早速 </surname>\n</persname> 、 <persname corresp=\"#pers_土肥\">\n<surname> 土肥 </surname>\n</persname> 二氏来リ、帽子会社ノ会計ニ関シ報告スル所アリシモ、尚ホ重役会ニ協議シテ後、申来ルヘキ旨ヲ示シテ書類ヲ返却ス <lb></lb>\n<persname corresp=\"#pers_福島\">\n<surname> 福島 </surname>\n</persname> 氏ハ瓦斯会社ニ関スル種々ノ談話アリタリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

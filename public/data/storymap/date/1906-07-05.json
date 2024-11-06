@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-07-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後直ニ朝飧ヲ喫シ、海岸ヨリ八頭司某ノ廻漕セシ小蒸気船三韓丸ニ搭シテ鎮海湾ニ抵ル、 <placename corresp=\"#place_馬山浦\"> 馬山浦\n       </placename> ヨリ海上七八哩ナルヘシ、風波穏カニシテ四望佳絶ナリ、猪島、月影浦等ヲ経過シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n       過湾内ニ入ル、軍艦一艘駆逐艦数隻碇泊ス、一覧後船ヲ還シテ帰路ヲ取リ、旧 <placename corresp=\"#place_馬山浦\"> 馬山浦 </placename>\n       ニ近ク船ヲ馳セテ海岸ニ達シ上陸ス、直ニ <orgname> 第一銀行 </orgname> 出張所及理事官庁ヲ訪ヒ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時\n       </time> 再ヒ旅寓ニ小憩シ、銀行敷地、社宅建築等ヲ一覧シ、畢テ <orgname> 望月楼 </orgname> ニ抵リ、地方有志者催ス処ノ歓迎会ニ出席シ一場ノ講話ヲ為ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 過 <placename corresp=\"#place_馬山\"> 馬山 </placename> 発ノ汽車ニテ\n        <placename corresp=\"#place_三浪津\"> 三浪津 </placename> ニ抵リ、汽車ヲ乗替ヘテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半 </time>\n<placename corresp=\"#place_釜山広域市\"> 釜山 </placename> ニ抵リ、小憩後 <orgname> 第一銀行 </orgname>\n       支店ニ於テ催シタル此地官民数十人ノ招宴席ニ抵ル、席上一場ノ謝辞ヲ述ヘ、賓主歓ヲ尽シテ夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.1,
+                    "lon": 129.033,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散会、帰寓ス <lb></lb>\n<placename corresp=\"#place_馬山浦\"> 馬山浦 </placename> 発車ノ際、理事、鉄道班長其他地方人士数十名来リテ行ヲ送ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

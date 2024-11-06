@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-10-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝風なくして海油のことし、船の右に鯨魚の潮を噴を見る、又鮫魚の数多頭を並へて躍飛するを見る、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n       頃舟中の僕奴雉毛色なる大き鷺を捕へ来る、蓋、風に疲れ船中に入て食《（マヽ）》めしなるよし <lb></lb> 速二百三十六里、 <placename corresp=\"#place_アデン\">\n        亜丁 </placename> 迄五百九十五里 <lb></lb> 風静にして〓行随意なり、逆風なれとも烈しからされバ、夜に入ては涼気其快を覚ゆ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

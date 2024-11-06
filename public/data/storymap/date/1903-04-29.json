@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-04-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:45:00",
+                    "text": "<time when=\"06:45:00\"> 六時四十五分 </time>\n       七条発ノ汽車ニテ <placename corresp=\"#place_京都\"> 京都 </placename> ヲ発シ <placename corresp=\"#place_四日市\">\n        四日市 </placename> ニ向フ、途中雨強クシテ車中寂寥タリ、柘植ニ抵リテ <placename corresp=\"#place_四日市\"> 四日市 </placename>\n       ヨリ <persname corresp=\"#pers_斎藤恒三\">\n<surname> 斎藤 </surname>\n<forename> 恒三 </forename>\n</persname> 氏来リ迎フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:40:00",
+                    "text": "<time when=\"10:40:00\"> 午前十時四十分 </time>\n<placename corresp=\"#place_四日市\"> 四日市 </placename> 着、常盤館ニテ休憩シ午飧後金州丸歓迎会式場ニ臨席ス、三重県、愛知県知事、\n        <persname corresp=\"#pers_古荘\">\n<surname> 古荘 </surname>\n</persname> 、 <persname corresp=\"#pers_深野\">\n<surname> 深野 </surname>\n</persname> 二氏来会ス、来賓会員等ニテ来会スル者二百名余、雨中ナカラ盛況ナリ、式場ニ於テ市長ヲ始トシテ <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 氏、知事其他ノ演説又ハ祝詞報告等アリ、余モ亦一場ノ演説ヲ為ス、畢テ <orgname> 第一銀行 </orgname> 支店ニ抵リ行員ニ面会シ行務ヲ視ル、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n<orgname> 松茂楼 </orgname> ニ抵リ宴会ニ列ス、歌妓ノ舞踏数番アリ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 昌栄館ニ帰宿シ、\n        <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 、 <persname corresp=\"#pers_九鬼\">\n<surname> 九鬼 </surname>\n</persname> 其他ノ諸氏ト要務ヲ協議ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

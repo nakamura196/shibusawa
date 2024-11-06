@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-10-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食シ、後、 <persname corresp=\"#pers_川村花菱\">\n<surname> 川村 </surname>\n<forename> 花菱 </forename>\n</persname> 、 <persname corresp=\"#pers_桜井義肇\">\n<surname> 桜井 </surname>\n<forename> 義肇 </forename>\n</persname> 、 <persname corresp=\"#pers_小野直\">\n<surname> 小野 </surname>\n<forename> 直 </forename>\n</persname> 等ノ諸氏ニ面話ス、 <persname corresp=\"#pers_大川平三郎\">\n<surname> 大川 </surname>\n<forename> 平三郎 </forename>\n</persname> 氏来リ <orgname> 東洋汽船会社 </orgname> ニ関スル談話ヲ為ス、 <persname corresp=\"#pers_久米良作\">\n<surname> 久米 </surname>\n<forename> 良作 </forename>\n</persname> 氏来リ瓦斯会社合併問題ニ付種々ノ談話アリ、 <persname corresp=\"#pers_神田鐳蔵\">\n<surname> 神田 </surname>\n<forename> 鐳蔵 </forename>\n</persname> 氏及新夫人来訪ス、共ニ午飧ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:30:00",
+                    "text": "<time when=\"13:30:00\"> 午後一時半 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ、重役会ヲ開キ要件ヲ議決ス、畢テ事務所ニ於テ事務ヲ処理シ来書ヲ点撿シ又来人ニ接見ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リ <persname corresp=\"#pers_古河\">\n<surname> 古河 </surname>\n</persname> 氏ノ招宴ニ出席ス、叙勲祝賀ノ為メナリ、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 、 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 、 <persname corresp=\"#pers_原敬\">\n<surname> 原 </surname>\n<forename> 敬 </forename>\n</persname> 、 <persname corresp=\"#pers_小松原\">\n<surname> 小松原 </surname>\n</persname> ノ諸氏来会ス、余興アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過散会、帰宿ス、後、新聞紙ヲ読マシム <lb></lb>\n<persname corresp=\"#pers_菊地武徳\">\n<surname> 菊地 </surname>\n<forename> 武徳 </forename>\n</persname> 氏来話シ、昨日ノ集会ニ関シテ来会者ヘ会社株式勧誘ノ事ヲ依頼セラル、 <persname corresp=\"#pers_星野錫\">\n<surname> 星野 </surname>\n<forename> 錫 </forename>\n</persname> 氏来リ、 <placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ノ事ニ付種々ノ談話アリタリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

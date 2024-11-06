@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-08-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:30:00",
+                    "text": "<time when=\"05:30:00\"> 午前五時半 </time> 起床、 <placename corresp=\"#place_長岡\"> 長岡 </placename>\n       師団長ヘ昨日ノ返書ヲ作ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 朝飧ヲ食シ、旅装ヲ理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時\n       </time> 前高陽館ヲ発シ停車場ニ抵リ、送別ノ為メ来レル数十人ニ謝意ヲ述ヘ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:15:00",
+                    "text": "<time when=\"08:15:00\"> 八時十五分 </time> 発車ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n<placename corresp=\"#place_長野\"> 長野 </placename> ニ達ス、 <placename corresp=\"#place_長野\"> 長野\n       </placename> 有志者停車場ニ迎フル者頗ル多シ、藤屋ニ投宿シテ午飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n       城山館ニ抵リ、有志者ノ開催セル講演会場ニ於テ、商工業ト教育トノ関係ニ付テ一場ノ演説ヲ為シ、畢テ更ニ同所ニ於テ有志者ノ催セル歓迎会ニ出席ス、謝詞トシテ一場ノ演説ヲ為シ、酒間種々ノ談話アリ、夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:30:00",
+                    "text": "<time when=\"20:30:00\"> 八時半 </time> 帰宿ス <lb></lb>\n<placename corresp=\"#place_長野\"> 長野 </placename> ニテハ <persname corresp=\"#pers_大山\">\n<surname> 大山 </surname>\n</persname> 知事始銀行者、名誉職ノ人々多数来リ迎フ、 <persname corresp=\"#pers_大沢辰次郎\">\n<surname> 大沢 </surname>\n<forename> 辰次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_飯島正治\">\n<surname> 飯島 </surname>\n<forename> 正治 </forename>\n</persname> 其他ノ諸氏周旋甚タ勉ム、講演後、大学寄附金ノ事ヲ諸氏ニ依頼ス <lb></lb> 朝、 <persname corresp=\"#pers_阿部\">\n<surname> 阿部 </surname>\n</persname> 郡長ノ需ニ応シテ揮毫ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

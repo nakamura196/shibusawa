@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-02-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、朝来数人ノ客ニ接シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 貴族院ニ抵リ、 <persname corresp=\"#pers_辻新次\">\n<surname> 辻 </surname>\n<forename> 新次 </forename>\n</persname> 氏ニ面会シ岩越鉄道株主総会ノ事ヲ談話ス、 <persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 大蔵大臣、 <persname corresp=\"#pers_田尻\">\n<surname> 田尻 </surname>\n</persname> 次官ニ京仁鉄道組合ノ事ヲ請求ス、 <persname corresp=\"#pers_田尻\">\n<surname> 田尻 </surname>\n</persname> 氏ヨリ <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 氏ト協議ノ事ヲ約シテ去ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 商業会議所ニ於テ役員会ヲ開キ要件数項ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 過 <placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ於テ、\n        <persname corresp=\"#pers_谷\">\n<surname> 谷 </surname>\n</persname> 、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 外数十名ノ催ス処ノ宴会ニ列ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

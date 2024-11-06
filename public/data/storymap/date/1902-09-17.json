@@ -1,0 +1,95 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-09-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前 <persname corresp=\"#pers_山田\">\n<surname> 山田 </surname>\n</persname> 領事及留学生来リテ一行ヲ誘ヒ、先ツ <persname corresp=\"#pers_ブーシヤル\">\n<surname> ブーシヤル </surname>\n</persname> 氏ノ織物工場及ソシエテー・セネラール・ド・タンチユールノ染工整理工場ヲ一覧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n<persname corresp=\"#pers_井上金治郎\">\n<surname> 井上 </surname>\n<forename> 金治郎 </forename>\n</persname> 氏ト共ニ <orgname> 正金銀行 </orgname> 支店ニ抵リ、 <persname corresp=\"#pers_小野\">\n<surname> 小野 </surname>\n</persname> 支店長ニ面会シ、相伴フテ里昂ノ倶楽部ニ於テ午飧シ、堀越商会営業見込及金融ノ事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<persname corresp=\"#pers_小野\">\n<surname> 小野 </surname>\n</persname> 氏ニ分レ、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname>\n       氏ト共ニ里昂商業会議所ニ抵リ、書記ニ面会シテ来意ヲ告ケ、更ニ其楼上ニ設置セル織物沿革ヲ一覧スル為メ設ケタル博物館ヲ見ル、紀元前ヨリ千九百年代ニ至ルマテ歴々観ルヘキモノアリ、畢テ一行ノ来会ヲ待テ\n        <persname corresp=\"#pers_山田\">\n<surname> 山田 </surname>\n</persname> 領事ノ案内ニテ <persname corresp=\"#pers_ホンセイ\">\n<surname> ホンセイ </surname>\n</persname> 父子会社ニ抵リ、製織物ヲ一覧シ、夫ヨリ家内的織物工業一覧ノ為某織物家ニ抵リ、数台ヲ以テ一家経営ノ現況ヲ見、更ニ下等織物工業ヲ覧テ後一商店ニ於テ一二ノ製品ヲ購入シ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 旅宿ニ帰リテ旅装ヲ整ヒ、直ニ <persname corresp=\"#pers_小野政吉\">\n<surname> 小野 </surname>\n<forename> 政吉 </forename>\n</persname> 氏ノ招宴ニ抵ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 午後八時 </time> 食事畢リテ、同家ヲ辞シ <placename corresp=\"#place_テリオン\"> テリオン </placename> ノ停車場ニ抵リ <placename corresp=\"#place_イタリア\"> 伊国 </placename>\n<placename corresp=\"#place_ローマ\"> 羅馬 </placename> 行ノ汽車ニ搭シ夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 41.89306,
+                    "lon": 12.48278,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_里昂\"> 里昂 </placename> ヲ発ス、 <persname corresp=\"#pers_山田\">\n<surname> 山田 </surname>\n</persname> 領事、 <persname corresp=\"#pers_小野政吉\">\n<surname> 小野 </surname>\n<forename> 政吉 </forename>\n</persname> 領事館員、練習生等一同来リテ行ヲ送ル、 <persname corresp=\"#pers_井上金治郎\">\n<surname> 井上 </surname>\n<forename> 金治郎 </forename>\n</persname> 氏ハ <placename corresp=\"#place_イタリア\"> 伊国 </placename>\n       ヘ随行スルトテ一行ト共ニ発ス此夜天気朗晴ニシテ月色清絶時々遠山ヲ見ル、田圃ノ夜景殊ニ佳麗ナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n       頃山間ニ入リテ時々墜道《（隧）》ヲ通過ス、蓋シモンスニー山脈ヲ超ユルナラン、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午前三時 </time>\n<placename corresp=\"#place_モダン\"> モダン </placename> ト云フ地ニ於テ <placename corresp=\"#place_イタリア\">\n        伊国 </placename> 税関吏出張シテ荷物ヲ検査ス、 <date evidence=\"year inferenced, month\" when=\"1902-09-18\">\n        十八日 </date>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time>\n<placename corresp=\"#place_イタリア\"> 伊国 </placename>\n<placename corresp=\"#place_チユラン\"> チユラン </placename> ニ到着ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

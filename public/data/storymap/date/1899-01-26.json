@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-01-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前二三ノ来客ニ接シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 過 <placename corresp=\"#place_東京市\"> 東京市\n       </placename> ニ於テ養育院 <date evidence=\"year inferenced\" when=\"1899\"> 三十二年 </date> 度ノ予算ヲ議決ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<placename corresp=\"#place_紺屋町\"> 紺屋町 </placename> 地学協会ニ於テ函館船渠会社株主総会ニ列シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 銀行ニ於テ重役会ヲ開キ要件数項ヲ議決ス、新潟県債引受ノ事ヲ決シテ <persname corresp=\"#pers_松井\">\n<surname> 松井 </surname>\n</persname> 支店長ニ示シ并テ <persname corresp=\"#pers_勝間田\">\n<surname> 勝間田 </surname>\n</persname> 知事ニ書状ヲ托ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

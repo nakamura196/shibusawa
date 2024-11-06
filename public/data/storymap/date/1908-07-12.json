@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-07-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床入浴シ、畢テ朝飧ヲ食ス、後、来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時\n       </time> 家ヲ発シ、 <placename corresp=\"#place_飯田町\"> 飯田町 </placename> 停車場ニ抵リ、汽車既ニ発セシニヨリ電車ニテ\n        <placename corresp=\"#place_中野\"> 中野 </placename> ニ抵ル、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 、 <persname corresp=\"#pers_明石愛子\">\n<forename> 愛子 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persname> 及 <persname corresp=\"#pers_飯塚\">\n<surname> 飯塚 </surname>\n</persname> 女史等同伴ス、 <placename corresp=\"#place_中野\"> 中野 </placename> ヨリ汽車ニ搭シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 過 <placename corresp=\"#place_立川\"> 立川 </placename>\n       駅ニ抵リ、汽車ヲ下リテ立川亭ニ抵リ、蓋シ此日ハ克己学寮生徒及親戚共ニ <placename corresp=\"#place_多摩川\"> 多摩川 </placename>\n       ニ於テ鮎漁ヲ催シタルニヨル、立川亭ヨリ徒歩シテ水辺ニ抵リ、終日舟中ニ於テ遊戯シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.521784,
+                    "lon": 139.798333,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_立川\"> 立川 </placename> ヲ発シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_飯田町\"> 飯田町 </placename> ニ抵リ、夫ヨリ人車ニテ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ夜飧ス、食卓上一場ノ訓示演説ヲ為シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散会、 <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

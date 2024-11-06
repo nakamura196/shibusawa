@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-01-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後入浴シ、浴後朝飧ヲ喫ス、食事畢テ新聞紙ヲ一覧ス、午前 <persname corresp=\"#pers_岡部\">\n<surname> 岡部 </surname>\n</persname> 老母来話ス、 <placename corresp=\"#place_小田原\"> 小田原 </placename>\n       牛乳店ノ現況ヲ縷述セラル、午飧後教育勅語ノ清書ニ努ム、書ニ入リテ <placename corresp=\"#place_東京\"> 東京 </placename>\n<persname corresp=\"#pers_平岡熙\">\n<surname> 平岡 </surname>\n<forename> 熙 </forename>\n</persname> 氏ヨリ来状アリ、 <orgname> 汽車製造会社 </orgname> ノ事ニ関シ通知アリタリ、依テ直ニ返書ヲ発ス、又 <placename corresp=\"#place_名古屋\"> 名古屋 </placename>\n<persname corresp=\"#pers_奥田正香\">\n<surname> 奥田 </surname>\n<forename> 正香 </forename>\n</persname> 氏ヘ一書ヲ発ス <lb></lb> 午前 <persname corresp=\"#pers_大川英太郎\">\n<surname> 大川 </surname>\n<forename> 英太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_三好退蔵\">\n<surname> 三好 </surname>\n<forename> 退蔵 </forename>\n</persname> 等ヘノ書状ヲ発付ス <lb></lb> 夜、紀料ヲ読ム、 <placename corresp=\"#place_越中\"> 越中 </placename>\n<placename corresp=\"#place_高岡\"> 高岡 </placename>\n<persname corresp=\"#pers_大橋半七郎\">\n<surname> 大橋 </surname>\n<forename> 半七郎 </forename>\n</persname> ヨリ来状アリタレハ其回答書状ヲ発ス <lb></lb> 朝、 <placename corresp=\"#place_鹿児島\"> 鹿児島 </placename>\n       第七高等学校ヘ向ケ <persname corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persname> ヘ書状ヲ発ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

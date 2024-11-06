@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1904-03-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、朝飧後室内運動ヲ為ス、 <persname corresp=\"#pers_斎藤峰三郎\">\n<surname> 斎藤 </surname>\n<forename> 峰三郎 </forename>\n</persname>\n<placename corresp=\"#place_静岡\"> 静岡 </placename> ヨリ帰途ノ由ニテ来訪ス、 <persname corresp=\"#pers_山中譲三\">\n<surname> 山中 </surname>\n<forename> 譲三 </forename>\n</persname> 氏来ル、午後 <persname corresp=\"#pers_日下義雄\">\n<surname> 日下 </surname>\n<forename> 義雄 </forename>\n</persname> 氏来話ス、朝鮮協会ノ事及京釜鉄道等ノ事ヲ談ス、午前後ニ於テ家法ノ浄写ヲ為ス、夕方 <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 夫妻来ル、蓋同氏モ大患後ノ転地療養ノ為メ同宿セルナリ、夜雑談ニ閑ヲ消ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

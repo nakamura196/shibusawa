@@ -1,0 +1,66 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-03-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時三十分 </time> ノ汽車ニテ <placename corresp=\"#place_大磯町\"> 大磯\n       </placename> ヲ発ス、大船マテ <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 侯爵ト同車ス、 <persname corresp=\"#pers_波多野承五郎\">\n<surname> 波多野 </surname>\n<forename> 承五郎 </forename>\n</persname> 氏同車、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_東京\"> 東京 </placename> 着、直ニ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ <persname corresp=\"#pers_下城正雄\">\n<surname> 下城 </surname>\n<forename> 正雄 </forename>\n</persname> 氏 <placename corresp=\"#place_フランス\"> 仏国 </placename> 行《（ <persname corresp=\"#pers_下条正雄\">\n<surname> 下条 </surname>\n<forename> 正雄 </forename>\n</persname> ）》ニ関スル送別ノ宴ニ列ス、博覧会出品組合ノ事ヲ托ス、 <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 兄弟、 <persname corresp=\"#pers_伊藤半次郎\">\n<surname> 伊藤 </surname>\n<forename> 半次郎 </forename>\n</persname> 来会ス、午餐後東京府庁ニ抵リ御慶事奉祝ノ事ニ関シ内会議ヲ開ク、畢テ <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏ヲ <placename corresp=\"#place_赤坂葵町\"> 赤阪葵町 </placename> ニ訪ヒ学校創立ノ事ヲ談ス、 <persname corresp=\"#pers_石黒忠悳\">\n<surname> 石黒 </surname>\n<forename> 忠悳 </forename>\n</persname> 、 <persname corresp=\"#pers_末松謙澄\">\n<surname> 末松 </surname>\n<forename> 謙澄 </forename>\n</persname> 両氏来会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

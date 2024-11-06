@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-07-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<persname corresp=\"#pers_ステレー\">\n<surname> ステレー </surname>\n</persname> 氏来話ス、氏ハ先年 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 、 <persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 等来遊ノ時、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ニ英語ヲ教ヘシ因故アル人ナリ、閑談一時間計ニシテ去ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<persname corresp=\"#pers_ミツチヨル\">\n<surname> ミツチヨル </surname>\n</persname> 氏来ル、過日内話セシ京釜鉄道会社々債ノ事ニ関シ種々ノ談話ヲ為シ、明日中ニ同氏ヨリ必要ノ条件ヲ記載シテ送付スヘキ事ヲ約シテ帰ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 前旅宿ヲ出テ <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 、 <persname corresp=\"#pers_市原\">\n<surname> 市原 </surname>\n</persname> 、 <persname corresp=\"#pers_西河\">\n<surname> 西河 </surname>\n</persname> 嬢ヲ伴ヒ、 <persname corresp=\"#pers_シヤンド\">\n<surname> シヤンド </surname>\n</persname> 氏ノ宅ヲ訪問ス、氏ハ <placename corresp=\"#place_ロンドン\"> 倫敦 </placename>\n       在ニアル、クリスタル・ハレースノ近傍ニ居住ス、ビクトリヤ停車場ニ於テ汽車ニ搭シ、行程七八哩ニシテ達ス、 <persname corresp=\"#pers_シヤンド\">\n<surname> シヤンド </surname>\n</persname> 停車場ニ迎ヘテ共ニ其家ニ抵ル、午飧後銀行業務ニ関シ種々ノ質問ヲ為シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 51.50778,
+                    "lon": -0.12806,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 過ヨリ更ニ\n        <persname corresp=\"#pers_シヤンド\">\n<surname> シヤンド </surname>\n</persname> ト共ニ徒歩クリストル・ハレースニ抵リ、曩ニ <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 等馬車ニテ市街ヲ遊歩シテ後ハレ <pb corresp=\"#pageB1256\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/282/full/max/0/default.jpg\" n=\"B1256\" source=\"#pageB1256\"></pb> ース中ノ一室ニ休憩スルニ会シ、是ニ於テ <persname corresp=\"#pers_シヤンド\">\n<surname> シヤンド </surname>\n</persname> 夫妻ト分袂シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:30:00",
+                    "text": "<time when=\"17:30:00\"> 五時半 </time> 発ノ汽車ニ搭シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半\n       </time> 頃帰宿ス <lb></lb> 此夜来ル <date when=\"1902-07-25\"> 廿五日 </date>\n       倫敦市長ノ宴会及商業会議所会員ノ集会席ニ於テ演説スヘキ趣旨ノ筆記ヲ調査ス、外国事務宰相ランスタウン侯ヨリ各地商業会議所ヘノ添書ヲ寄送セラル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-08-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴ス、畢テ日記ヲ編成ス、楼前青山連亘シテ樹木鬱叢、朝嵐掬ス可シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ食シ、直ニ旅宿ヲ発シ馬車ニテ停車場ニ抵ル、此途中崔路頗《（崖カ）》ル険ナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\">\n        十一時 </time>\n<placename corresp=\"#place_室蘭\"> 室蘭 </placename> ニ達ス、 <persname corresp=\"#pers_宇野鶴太\">\n<surname> 宇野 </surname>\n<forename> 鶴太 </forename>\n</persname> 氏始地方人士多ク停車場ニ来リ迎フ、着後先ツ岩礦会社《（炭）》ノ接客ニ設ケラレタル家屋ニ抵リテ午飧シ、後、 <persname corresp=\"#pers_岩本\">\n<surname> 岩本 </surname>\n</persname> 少将、 <persname corresp=\"#pers_宇野鶴太\">\n<surname> 宇野 </surname>\n<forename> 鶴太 </forename>\n</persname> 及 <persname corresp=\"#pers_植村\">\n<surname> 植村 </surname>\n</persname> 氏等ノ案内ニテ小蒸気船ニテ湾内各所ヲ巡覧ス、 <placename corresp=\"#place_日本\"> 日本 </placename>\n       製鋼所ノ起業ニ係ル湾内埋立桟橋築造、工場設置等ノ事ヲ詳細ニ一覧シ、又製鉄所経営ノ事ヲ説明セラル、更ニ港内ノ大勢ヲ通観スル為メ船ヲ諸方ニ廻転ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 船ヨリ上リテ岩礦会社内ニ於テ地方人士ニ一場ノ講話ヲ為ス、畢テ市街ヲ散歩シ、夕方岩礦会社ノ家ニ帰ル、此日会社ニテ捕魚ノ余興アリ魚ヲ得ルコト頗ル多カリキ\n       <lb></lb> （欄外） <lb></lb> ［たのしさにおしむ《うつす》日影にくらへてはうきにたつ日のなかくもあるかな "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

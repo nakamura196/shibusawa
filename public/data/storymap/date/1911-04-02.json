@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-04-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、半身浴ヲ為シテ、朝飧ヲ食ス、後、 <persname corresp=\"#pers_徳久米蔵\">\n<surname> 徳久 </surname>\n<forename> 米蔵 </forename>\n</persname> 、 <persname corresp=\"#pers_釘本藤次郎\">\n<surname> 釘本 </surname>\n<forename> 藤次郎 </forename>\n</persname> 氏ノ来訪ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<placename corresp=\"#place_葵町\"> 葵町 </placename> ニ <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏ヲ訪ヘ其病床ニ就テ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯内田山邸ニ抵リ、施薬救療ニ関スル詔勅ニ対スル件ヲ協議ス、会スル者二十名許リ、種々ノ意見アリシモ結局七名ノ立案委員ヲ定ム、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯、余、 <persname corresp=\"#pers_高橋\">\n<surname> 高橋 </surname>\n</persname> 男、 <persname corresp=\"#pers_添田\">\n<surname> 添田 </surname>\n</persname> 、 <persname corresp=\"#pers_近藤\">\n<surname> 近藤 </surname>\n</persname> 、 <persname corresp=\"#pers_豊川\">\n<surname> 豊川 </surname>\n</persname> 、 <persname corresp=\"#pers_団\">\n<surname> 団 </surname>\n</persname> 、外ニ <persname corresp=\"#pers_井上友一\">\n<surname> 井上 </surname>\n<forename> 友一 </forename>\n</persname> 氏ヲ助手トス、協議畢テ午飧ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<persname corresp=\"#pers_松崎蔵之助\">\n<surname> 松崎 </surname>\n<forename> 蔵之助 </forename>\n</persname> 氏ヲ訪ヘ、帰途 <placename corresp=\"#place_小日向\"> 小日向 </placename> ニ <persname corresp=\"#pers_徳川\">\n<surname> 徳川 </surname>\n</persname> 老公邸ニ伺候シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7140083,
+                    "lon": 139.7347139,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 過 <placename corresp=\"#place_王子\"> 王子\n       </placename> ニ帰宿ス、 <persname corresp=\"#pers_明石照男\">\n<surname> 明石 </surname>\n<forename> 照男 </forename>\n</persname> 夫妻、 <persname corresp=\"#pers_渋沢元治\">\n<surname> 渋沢 </surname>\n<forename> 元治 </forename>\n</persname> 等来訪、夜、 <persname corresp=\"#pers_明石\">\n<surname> 明石 </surname>\n</persname> 等ト談話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,504 @@
+{
+    "title": {
+        "text": {
+            "headline": "1904"
+        }
+    },
+    "events": [
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "01"
+            },
+            "text": {
+                "headline": "\n 明治三十七年三月一日 \n",
+                "text": "<p> 曇、 <time when=\"07:00:00\"> 午前七時 </time>\n       起床、病稍愈ルヲ以テ此日始テ病牀ヲ離レテ平常ノ居間ニ起臥スルヲ得タリ、然レトモ未タ執筆等ノ自由ヲ得ス、午後ハ <persName corresp=\"#pers_加古\">\n<surname> 加古 </surname>\n</persName>\n<persName corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persName> ノ二医師来リテ中耳ト身体トノ診察ヲ受ク </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "02"
+            },
+            "text": {
+                "headline": "\n 三月二日 \n",
+                "text": "<p> 曇、 <time when=\"07:00:00\"> 午前七時 </time> 起床、昨日ト同シク病牀ヲ離レテ居間ニ起臥ス、午前ト午後ト各十分間許ノ室内運動ヲ為ス、午後\n        <persName corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persName> 来リテ煉瓦会社ノ営業方針ヲ協議ス、 <persName corresp=\"#pers_吉岡新五郎\">\n<surname> 吉岡 </surname>\n<forename> 新五郎 </forename>\n</persName> 来リテ <orgName> 人造肥料会社 </orgName> ノ事ヲ談ス、 <persName corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persName> 医師来診ス、 <persName corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persName> 、 <persName corresp=\"#pers_渋沢敦子\">\n<forename> 敦子 </forename>\n</persName> 等来ル </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "03"
+            },
+            "text": {
+                "headline": "\n 三月三日 \n",
+                "text": "<p> 曇、 <time when=\"07:00:00\"> 午前七時 </time> 起床、昨日ト同シク居間ニ於テ起臥ス、午後室内ノ運動ヲ試ム、 <persName corresp=\"#pers_大川照子\">\n<surname> 大川 </surname>\n<forename> 照子 </forename>\n</persName> 来話ス、 <persName corresp=\"#pers_石井健吾\">\n<surname> 石井 </surname>\n<forename> 健吾 </forename>\n</persName> 来談ス、 <persName corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persName> 氏、 <persName corresp=\"#pers_渋沢武之助\">\n<forename> 武 </forename>\n</persName> 、 <persName corresp=\"#pers_渋沢正雄\">\n<forename> 正 </forename>\n</persName> 二児ト共ニ来ル、修学上ノ事二児ニ諭示ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "04"
+            },
+            "text": {
+                "headline": "\n 三月四日 \n",
+                "text": "<p> 雨又曇、 <time when=\"07:00:00\"> 午前七時 </time> 起床、起臥昨日ト同シ、午前後ニ於テ室内ノ運動ヲ試ム、日々気力ノ回復ヲ覚フ </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "05"
+            },
+            "text": {
+                "headline": "\n 三月五日 \n",
+                "text": "<p> 雨、 <time when=\"07:00:00\"> 午前七時 </time> 起床、起臥昨日ト異ナラス、明日 <placeName corresp=\"#place_国府津\">\n        国府津 </placeName> ニ転地スヘキヲ以テ、旅中ニ要スル書籍等ヲ撰択ス、午後 <persName corresp=\"#pers_穂積歌子\">\n<forename> 歌子 </forename>\n</persName> 、 <persName corresp=\"#pers_阪谷琴子\">\n<forename> 琴子 </forename>\n</persName> 、 <persName corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persName> 父子等来話ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "06"
+            },
+            "text": {
+                "headline": "\n 三月六日 \n",
+                "text": "<p> 半晴、 <time when=\"07:00:00\"> 午前七時 </time> 起床、今日 <placeName corresp=\"#place_国府津\"> 国府津\n       </placeName> ヘ転地ノ予定ナルヲ以テ家人旅装ニ忙シ、午飧後 <placeName corresp=\"#place_飛鳥山邸\"> 王子別荘 </placeName>\n       ヲ出テ馬車ニテ <placeName corresp=\"#place_新橋\"> 新橋 </placeName> ニ抵ル、 <time when=\"14:30:00\"> 二時三十分\n       </time> 発ノ汽車ニ搭ス、 <persName corresp=\"#pers_穂積陳重\">\n<surname> 穂積 </surname>\n<forename> 陳重 </forename>\n</persName> 、 <persName corresp=\"#pers_清水\">\n<surname> 清水 </surname>\n</persName> 兄弟 、 <persName corresp=\"#pers_吉岡\">\n<surname> 吉岡 </surname>\n</persName> 、 <persName corresp=\"#pers_諸井\">\n<surname> 諸井 </surname>\n</persName> 等数十名停車場ニ来ル、発車後天気朗晴ナリ、且車中客少クシテ雑沓ノ事ナシ、 <placeName corresp=\"#place_大森\"> 大森\n       </placeName> ヨリ <persName corresp=\"#pers_中田敬義\">\n<surname> 中田 </surname>\n<forename> 敬義 </forename>\n</persName> 同乗ス、 <time when=\"18:00:00\"> 午後六時 </time>\n<placeName corresp=\"#place_国府津\"> 国府津 </placeName> 着、国府館《（津脱）》ニ投宿ス、 <persName corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persName> 及久尾其他ノ婢僕三人随従ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "07"
+            },
+            "text": {
+                "headline": "\n 三月七日 \n",
+                "text": "<p> 晴、 <time when=\"06:00:00\"> 午前六時 </time> 起床朝飧後日々恪守スヘキ衛生小則ヲ定メテ之ヲ記載ス <lb/>\n<time when=\"06:00:00\"> 午前六時 </time> 起床、 <time when=\"07:30:00\"> 七時半 </time> 朝飧、 <time when=\"11:00:00\"> 十一時 </time> ヨリ <time when=\"12:00:00\"> 十二時 </time> 迄海辺散歩 <lb/> 正午 <time when=\"12:00:00\"> 十二時 </time> 午飧、 <time when=\"13:00:00\"> 午後一時 </time> ヨリ <time when=\"14:30:00\"> 二時半 </time> 迄散歩 <lb/>\n<time when=\"15:00:00\"> 三時 </time> ヨリ <time when=\"16:00:00\"> 四時 </time> ノ間入浴、 <time when=\"18:00:00\"> 六時 </time> 晩飧、 <time when=\"22:00:00\"> 十時 </time> 就寝 <lb/>\n       午前ヨリ午後ニ於テ法帖ノ臨池又ハ家訓ノ浄書ヲ為シ、且海辺ト街上ノ散歩ヲ為ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "08"
+            },
+            "text": {
+                "headline": "\n 三月八日 \n",
+                "text": "<p> 曇、 <time when=\"06:00:00\"> 午前六時 </time> 起床、朝飧後家訓ノ浄写ヲ為ス、新聞紙及雑書ヲ覧閲ス午後 <persName corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persName>\n<placeName corresp=\"#place_東京\"> 東京 </placeName> ヨリ来訪ス、風寒キヲ以テ海辺ノ散歩ヲ止メ室内ニ於テ運動ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "09"
+            },
+            "text": {
+                "headline": "\n 三月九日 \n",
+                "text": "<p> 曇、 <time when=\"06:00:00\"> 午前六時 </time> 起床、昨夜ヨリ風邪気ナルニヨリ朝飧後褥中ニ起臥ス、 <persName corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persName> ノ来書ニ対シテ明日来 <placeName corresp=\"#place_津\"> 津 </placeName> ノ事ヲ電話ニテ申シ遣ス、 <placeName corresp=\"#place_大韓民国\"> 韓国 </placeName> 殖産 <pb corresp=\"#pageB1334\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/360/full/max/0/default.jpg\" n=\"B1334\" source=\"#pageB1334\"/> 会社発起ニ関スル書類ヲ検閲シテ其修正ヲ試ム、午後臥床、発汗剤ヲ服シテ冒感ノ治療ニ勉ム、 <persName corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persName>\n<placeName corresp=\"#place_京都\"> 京都 </placeName> ヨリノ書状ヲ落手ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "10"
+            },
+            "text": {
+                "headline": "\n 三月十日 \n",
+                "text": "<p> 曇、 <time when=\"07:00:00\"> 午前七時 </time> 起床、風邪気稍快方ナルヲ以テ書類ヲ検閲ス、午前 <persName corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persName> 来談ス、 <placeName corresp=\"#place_大韓民国\"> 韓国 </placeName> 殖産会社創立ノ件ヲ詳話シ、且 <persName corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persName> 公使、 <persName corresp=\"#pers_萩原\">\n<surname> 萩原 </surname>\n</persName> 書記官又 <persName corresp=\"#pers_都筑馨六\">\n<surname> 都築 </surname>\n<forename> 馨六 </forename>\n</persName> 氏ニ添書ヲ裁シテ <persName corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persName> ニ交付ス <lb/>\n<persName corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persName> 夫人来話ス、午後聊熱気加ハルヲ以テ臥床発汗ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "11"
+            },
+            "text": {
+                "headline": "\n 三月十一日 \n",
+                "text": "<p> 曇、 <time when=\"07:00:00\"> 午前七時 </time> 起床、 <persName corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persName> 夫妻 <placeName corresp=\"#place_京都\"> 京都 </placeName> ヨリノ帰途来訪ス、 <persName corresp=\"#pers_中井三郎兵衛\">\n<surname> 中井 </surname>\n<forename> 三郎兵衛 </forename>\n</persName> ノ女結婚ノ事ヲ話ス、頃日来ノ風邪気尚全愈セサルヲ以テ褥中ニ起臥ス <persName corresp=\"#pers_中井\">\n<surname> 中井 </surname>\n</persName> 氏ヨリ書状来ル、 <placeName corresp=\"#place_東京\"> 東京 </placeName>\n<persName corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persName> ヨリ書状落手ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "12"
+            },
+            "text": {
+                "headline": "\n 三月十二日 \n",
+                "text": "<p> 曇、 <time when=\"07:00:00\"> 午前七時 </time> 起床、昨日ト同ク褥中ニ起臥シテ新聞紙又ハ雑書ヲ閲ス <time when=\"14:00:00\">\n        午後二時 </time>\n<persName corresp=\"#pers_堀越常七\">\n<surname> 堀越 </surname>\n<forename> 常七 </forename>\n</persName> 、同 <persName corresp=\"#pers_堀越勘治\">\n<forename> 勘治 </forename>\n</persName> 、 <persName corresp=\"#pers_三宅秀\">\n<surname> 三宅 </surname>\n<forename> 秀 </forename>\n</persName> 三氏来ル、 <persName corresp=\"#pers_堀越美代子\">\n<forename> 美代子 </forename>\n</persName> ノ婚儀ニ関スル依頼ヲ告ケ来ル、 <time when=\"17:00:00\"> 午後五時 </time>\n<persName corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persName> 氏来話ス、 <persName corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persName> ヨリ来書アリ </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "13"
+            },
+            "text": {
+                "headline": "\n 三月十三日 \n",
+                "text": "<p> 雪、 <time when=\"07:00:00\"> 午前七時 </time> 起床、昨日ト同シク褥中ニ起臥シテ、書類ヲ閲ス、午前 <persName corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persName> 氏来話ス、 <persName corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persName> 同伴ス、 <placeName corresp=\"#place_大韓民国\"> 韓国 </placeName>\n       ニ関スル貸借上ノ件、殖産会社発起ノ件、電気鉄道ノ件其他 <persName corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persName> 派遣ニ付テノ要務ヲ協議ス <time when=\"14:00:00\"> 午後二時 </time> 過帰京ス、 <persName corresp=\"#pers_小宮三保松\">\n<surname> 小宮 </surname>\n<forename> 三保松 </forename>\n</persName> 氏ヨリ書状来ル </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "14"
+            },
+            "text": {
+                "headline": "\n 三月十四日 \n",
+                "text": "<p> 曇、午前起床《（マヽ）》、昨日ノ雪後寒威殊ニ強シ、頃日来ノ感冒ハ稍愈タルモ尚褥中ニ在テ新聞紙其他ノ書類ヲ覧閲ス、 <time when=\"08:00:00\"> 午前八時\n       </time> 過 <persName corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persName> 医師来診ス <placeName corresp=\"#place_東京\"> 東京 </placeName> ヨリ三四ノ書状送リ来ル、午後 <persName corresp=\"#pers_須永伝蔵\">\n<surname> 須永 </surname>\n<forename> 伝蔵 </forename>\n</persName> 来話ス、夜ニ入テ一泊ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "15"
+            },
+            "text": {
+                "headline": "\n 三月十五日 \n",
+                "text": "<p> 晴、 <time when=\"07:00:00\"> 午前七時 </time> 起床、昨日ト同ク褥中ニ在テ新聞紙ヲ閲シ、且病中ヨリノ日記ヲ調査編成ス、 <lb/>\n<placeName corresp=\"#place_駿河国\"> 駿河国 </placeName>\n<placeName corresp=\"#place_興津\"> 興津 </placeName> 駅ナル松ノ下庵 <persName corresp=\"#pers_中村秋香\">\n<surname> 中村 </surname>\n<forename> 秋香 </forename>\n</persName> 氏ヘ書状ヲ郵送シ、且此程出詠セシ和歌数十首ヲ添削ヲ乞フ為ニ封送ス、又 <placeName corresp=\"#place_東京\"> 東京\n       </placeName> 事務所宛 <persName corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persName> ヘ一書ヲ送リ遣ス、 <persName corresp=\"#pers_福地源一郎\">\n<surname> 福地 </surname>\n<forename> 源一郎 </forename>\n</persName> 、 <persName corresp=\"#pers_小宮三保松\">\n<surname> 小宮 </surname>\n<forename> 三保松 </forename>\n</persName> 二氏ヘノ返書、 <persName corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persName> ヘ送ル一書ヲ封入ス、午後読書ト臨池ノ技ニ消閑ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "16"
+            },
+            "text": {
+                "headline": "\n 三月十六日 \n",
+                "text": "<p> 晴、 <time when=\"07:00:00\"> 午前七時 </time> 起床、昨日ト同シク褥中ニ於テ読書ス、興津 <persName corresp=\"#pers_中村秋香\">\n<surname> 中村 </surname>\n<forename> 秋香 </forename>\n</persName> 氏ヘ再応書状ヲ発シ且西洋菓子ヲ送ル、 <persName corresp=\"#pers_穂積歌子\">\n<surname> 穂積 </surname>\n<forename> 歌子 </forename>\n</persName> ヨリ来書アリ、 <persName corresp=\"#pers_中村\">\n<surname> 中村 </surname>\n</persName> 氏ノ書状及詠草等送リ来ル、即日返書ヲ発送シテ詳細ニ申シ遣ス <lb/>\n<persName corresp=\"#pers_坂本守太郎\">\n<surname> 坂本 </surname>\n<forename> 守太郎 </forename>\n</persName> 来訪セシモ謝絶シテ面会セス、 <persName corresp=\"#pers_浅野幸兵衛\">\n<surname> 浅野 </surname>\n<forename> 幸兵衛 </forename>\n</persName> 来訪ス、 <persName corresp=\"#pers_古河潤吉\">\n<surname> 古河 </surname>\n<forename> 潤吉 </forename>\n</persName> 氏其他ノ代理トシテ余ノ病ヲ慰問ス、午後 <placeName corresp=\"#place_東京\"> 東京 </placeName>\n<persName corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persName> ヨリノ書状ヲ落手ス、午後ヨリ家訓ノ浄写ヲ為ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "17"
+            },
+            "text": {
+                "headline": "\n 三月十七日 \n",
+                "text": "<p> 曇、 <time when=\"07:00:00\"> 午前七時 </time> 起床、朝飧後新聞紙ヲ閲ス、午前後共ニ家訓ヲ浄写ス、 <persName corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persName> 、 <persName corresp=\"#pers_尾高幸五郎\">\n<surname> 尾高 </surname>\n<forename> 幸五郎 </forename>\n</persName> 等ヨリ書状来ル、 <persName corresp=\"#pers_周布\">\n<surname> 周布 </surname>\n</persName> 神奈川県知事、 <persName corresp=\"#pers_坂本栄次郎\">\n<surname> 坂本 </surname>\n<forename> 栄次郎 </forename>\n</persName> 等来ル、病ヲ以テ面会ヲ謝絶ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "18"
+            },
+            "text": {
+                "headline": "\n 三月十八日 \n",
+                "text": "<p> 朝雪降ル、 <time when=\"08:00:00\"> 午前八時 </time> 起床、室内運動ヲ試ム、朝飧後新聞紙ヲ閲ス、 <persName corresp=\"#pers_中村秋香\">\n<surname> 中 <pb corresp=\"#pageB1335\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/361/full/max/0/default.jpg\" n=\"B1335\" source=\"#pageB1335\"/> 村 </surname>\n<forename> 秋香 </forename>\n</persName> 氏ヨリ書状及詠草来ル、 <placeName corresp=\"#place_東京\"> 東京 </placeName>\n<persName corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persName> ヨリ書状来ル、 <time when=\"10:00:00\"> 十時 </time>\n<persName corresp=\"#pers_須永伝蔵\">\n<surname> 須永 </surname>\n<forename> 伝蔵 </forename>\n</persName> 来訪ス、 <persName corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persName> 来リ <persName corresp=\"#pers_六郎\">\n<forename> 六郎 </forename>\n</persName> 縁談ノ事ヲ商議ス、午後家訓ヲ浄写ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "19"
+            },
+            "text": {
+                "headline": "\n 三月十九日 \n",
+                "text": "<p> 曇、 <time when=\"07:00:00\"> 午前七時 </time> 起床、室内運動ヲ為ス、朝飧後新聞紙ヲ閲ス、家訓家法等ヲ浄写ス、午後 <orgName> 石川島造船所 </orgName>\n<persName corresp=\"#pers_平沢道次\">\n<surname> 平沢 </surname>\n<forename> 道次 </forename>\n</persName> 氏来訪ス、 <placeName corresp=\"#place_東京\"> 東京 </placeName> 事務所ニ書状ヲ発ス、 <persName corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persName> 氏ヘ一書ヲ送リテ、 <persName corresp=\"#pers_渋沢武之助\">\n<forename> 武 </forename>\n</persName> 、 <persName corresp=\"#pers_渋沢正雄\">\n<forename> 正 </forename>\n</persName> 等ノ来 <placeName corresp=\"#place_津\"> 津 </placeName> ヲ答ヘ遣ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "20"
+            },
+            "text": {
+                "headline": "\n 三月廿日 \n",
+                "text": "<p> 半晴、 <time when=\"07:00:00\"> 午前七時 </time> 起床、朝飧後室内運動ヲ為ス、畢テ家法ヲ浄写ス、 <time when=\"12:00:00\"> 十二時 </time>\n<placeName corresp=\"#place_東京\"> 東京 </placeName> ヨリ <persName corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persName> 及 <persName corresp=\"#pers_伊藤半次郎\">\n<surname> 伊藤 </surname>\n<forename> 半次郎 </forename>\n</persName> 来ル、午飧中種々ノ談話ヲ為シ、食後共ニ海辺又ハ停車場辺ヲ散歩ス、 <persName corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persName> 、 <persName corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persName> ハ <time when=\"16:00:00\"> 午後四時 </time> 過ノ汽車ニテ帰京ス、夕方更ニ海辺ヲ散歩ス、夜読書ニ消閑ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "21"
+            },
+            "text": {
+                "headline": "\n 三月廿一日 \n",
+                "text": "<p> 晴、 <time when=\"07:00:00\"> 午前七時 </time> 起床、朝飧前室内運動ヲ為ス、朝飧後家法ヲ浄写ス、 <time when=\"12:00:00\"> 十二時 </time>\n<placeName corresp=\"#place_東京\"> 東京 </placeName> ヨリ <persName corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persName> 、 <persName corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persName> 、 <persName corresp=\"#pers_渋沢秀雄\">\n<forename> 秀雄 </forename>\n</persName> 等来ル、 <persName corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persName> 氏同行ス、 <persName corresp=\"#pers_尾高幸五郎\">\n<surname> 尾高 </surname>\n<forename> 幸五郎 </forename>\n</persName> 、 <persName corresp=\"#pers_柴崎角次郎\">\n<surname> 柴崎 </surname>\n<forename> 角次郎 </forename>\n</persName> 二氏来話ス、午飧後 <persName corresp=\"#pers_横山\">\n<surname> 横山 </surname>\n</persName> 氏、 <persName corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persName> 、 <persName corresp=\"#pers_柴崎\">\n<surname> 柴崎 </surname>\n</persName> 等ノ帰京ヲ送リテ停車場ニ抵リ更ニ海岸ヲ散歩ス、夜読書ニ閑ヲ消ス、 <persName corresp=\"#pers_尾高幸五郎\">\n<surname> 尾高 </surname>\n<forename> 幸五郎 </forename>\n</persName> ノ帰便ニ托シテ同族会ニ関スル伝言ヲ <placeName corresp=\"#place_東京\"> 東京 </placeName>\n<persName corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persName> 方ヘ申遣ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "22"
+            },
+            "text": {
+                "headline": "\n 三月廿二日 \n",
+                "text": "<p> 晴、 <time when=\"07:00:00\"> 午前七時 </time> 起床、朝飧後室内運動ヲ為ス、 <persName corresp=\"#pers_斎藤峰三郎\">\n<surname> 斎藤 </surname>\n<forename> 峰三郎 </forename>\n</persName>\n<placeName corresp=\"#place_静岡\"> 静岡 </placeName> ヨリ帰途ノ由ニテ来訪ス、 <persName corresp=\"#pers_山中譲三\">\n<surname> 山中 </surname>\n<forename> 譲三 </forename>\n</persName> 氏来ル、午後 <persName corresp=\"#pers_日下義雄\">\n<surname> 日下 </surname>\n<forename> 義雄 </forename>\n</persName> 氏来話ス、朝鮮協会ノ事及京釜鉄道等ノ事ヲ談ス、午前後ニ於テ家法ノ浄写ヲ為ス、夕方 <persName corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persName> 夫妻来ル、蓋同氏モ大患後ノ転地療養ノ為メ同宿セルナリ、夜雑談ニ閑ヲ消ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "23"
+            },
+            "text": {
+                "headline": "\n 三月廿三日 \n",
+                "text": "<p> 晴、 <time when=\"06:30:00\"> 午前六時半 </time> 起床、室内運動ヲ試ム、朝飧後日誌ヲ編成シ新聞紙ヲ読ム、午飧後海辺ヲ散歩ス、 <persName corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persName>\n<placeName corresp=\"#place_大韓民国\"> 韓国 </placeName> 旅行先長門国□□《（ <placeName corresp=\"#place_小串\">\n        小串 </placeName> カ）》ヨリ発信ヲ落手ス、深川 <persName corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persName> ヨリノ書状到来ス、直ニ回答書ヲ発ス、且電話ヲ以テ <persName corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persName> 、 <persName corresp=\"#pers_土岐\">\n<surname> 土岐 </surname>\n</persName> 両氏出 <placeName corresp=\"#place_津\"> 津 </placeName>\n       ノ事ニ関スル回答ヲ為ス、此日モ家法ノ浄書ヲ為シ、夜食後ハ読書ニ消閑ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "24"
+            },
+            "text": {
+                "headline": "\n 三月廿四日 \n",
+                "text": "<p> 雨、 <time when=\"07:00:00\"> 午前七時 </time> 起床、室内運動ヲ試ム、朝飧後新聞紙ヲ閲シ畢テ家法ヲ浄写ス、午飧後 <persName corresp=\"#pers_田中源太郎\">\n<surname> 田中 </surname>\n<forename> 源太郎 </forename>\n</persName> 氏、 <persName corresp=\"#pers_土岐〓\">\n<surname> 土岐 </surname>\n<forename> 〓 </forename>\n</persName> 氏来訪シ、北海道製麻会社整理ニ関シテ種々ノ談話ヲ為ス、夜飧後児等一同ヲ集メテ、雨夜譚ノ講読ヲ為ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "25"
+            },
+            "text": {
+                "headline": "\n 三月廿五日 \n",
+                "text": "<p> 半晴、 <time when=\"07:00:00\"> 午前七時 </time> 起床、室内運動ヲ為ス、朝飧後新聞紙ヲ閲ス、午後 <persName corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persName>\n<placeName corresp=\"#place_東京\"> 東京 </placeName> ニ帰宅ス、 <persName corresp=\"#pers_北脇久尾\">\n<surname> 北脇 </surname>\n<forename> 久尾 </forename>\n</persName>\n<placeName corresp=\"#place_東京\"> 東京 </placeName> ヨリ来ル、 <persName corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persName> ヨリノ書状ヲ持参ス <persName corresp=\"#pers_大川\">\n<surname> 大川 </surname>\n</persName> 老母ノ再度ノ溢血ノ事ヲ報シ来ル、此日モ午前後ニ於テ家法ノ浄書ヲ為シ、夜ニ入テ雨夜譚ヲ講読ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "26"
+            },
+            "text": {
+                "headline": "\n 三月廿六日 \n",
+                "text": "<p> 晴、 <time when=\"07:00:00\"> 午前七時 </time> 起床、室内運動ヲ試ム、朝飧後、 <placeName corresp=\"#place_東京\"> 東京\n       </placeName> ナル <persName corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persName> 及 <persName corresp=\"#pers_添田壽一\">\n<surname> 添田 </surname>\n<forename> 寿一 </forename>\n</persName> 氏ヘ一書ヲ発ス、 <persName corresp=\"#pers_中村秋香\">\n<surname> 中村 </surname>\n<forename> 秋香 </forename>\n</persName> 氏ヘ一書ヲ送リテ詠草ノ添削ヲ乞フ、又過日落手セシ <persName corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persName> ノ書状ニ回答スル為メ <placeName corresp=\"#place_大韓民国\"> 韓国 </placeName>\n<placeName corresp=\"#place_京城府\"> 京城 </placeName> ヘ向ケテ一書ヲ発送ス、午飧後 <persName corresp=\"#pers_三好退蔵\">\n<surname> 三好 </surname>\n<forename> 退蔵 </forename>\n</persName> 氏ヲ訪ヘシモ不在ナリシ、 <persName corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persName> 、 <persName corresp=\"#pers_明石愛子\">\n<forename> 愛子 </forename>\n</persName> 、 <persName corresp=\"#pers_渋沢秀雄\">\n<forename> 秀雄 </forename>\n</persName>\n<pb corresp=\"#pageB1336\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/362/full/max/0/default.jpg\" n=\"B1336\" source=\"#pageB1336\"/> 等ト共ニ <placeName corresp=\"#place_国府津\"> 国府津 </placeName>\n       ノ向フ山ニ登ル、往返凡ソ半里程ヲ超ヘ頗ル疲労ヲ覚フ、夕方ニ至リテ入浴ス、夜、 <persName corresp=\"#pers_中村\">\n<surname> 中村 </surname>\n</persName> 氏ヨリ古今集詳解一冊ヲ寄送セラレ、且余カ当地滞留ノ時日ヲ問合セ来ル、依テ来月初旬マテハ止宿ノ事ヲ回答ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "27"
+            },
+            "text": {
+                "headline": "\n 三月廿七日 \n",
+                "text": "<p> 曇、 <time when=\"07:00:00\"> 午前七時 </time> 起床、室内運動ヲ試ム、朝飧後新聞紙ヲ閲ス、 <time when=\"12:00:00\"> 十二時 </time>\n<persName corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persName>\n<placeName corresp=\"#place_東京\"> 東京 </placeName> ヨリ来訪ス、 <time when=\"13:00:00\"> 一時 </time>\n<persName corresp=\"#pers_桃井\">\n<surname> 桃井 </surname>\n</persName> 老母及ヒ可雄、 <persName corresp=\"#pers_辰雄\">\n<forename> 辰雄 </forename>\n</persName> 等来訪ス、午後家法ヲ浄写ス、此日ハ天候寒ク且朝来少シク風邪気アルヲ以テ散歩ト入浴ヲ止メ、読書又ハ揮毫ニ閑ヲ消ス <lb/>\n<persName corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persName> ハ <time when=\"08:30:00\"> 午前八時半 </time> ノ汽車ニテ <persName corresp=\"#pers_渋沢秀雄\">\n<forename> 秀雄 </forename>\n</persName> ヲ伴ヒ <placeName corresp=\"#place_東京\"> 東京 </placeName> ニ抵リテ <persName corresp=\"#pers_大川\">\n<surname> 大川 </surname>\n</persName> 老母ノ病ヲ訪フ、 <time when=\"14:30:00\"> 午後二時半 </time>\n<persName corresp=\"#pers_明石愛子\">\n<forename> 愛子 </forename>\n</persName>\n<placeName corresp=\"#place_東京\"> 東京 </placeName> ニ帰ル、 <time when=\"17:00:00\"> 午後五時 </time> 過\n        <persName corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persName>\n<placeName corresp=\"#place_東京\"> 東京 </placeName> ヨリ帰来ス、 <persName corresp=\"#pers_大川\">\n<surname> 大川 </surname>\n</persName> 老母ノ訃ヲ伝フ <lb/> ○ <persName corresp=\"#pers_大川\">\n<surname> 大川 </surname>\n</persName> 老母ハ <persName corresp=\"#pers_みつ子\">\n<forename> みつ子 </forename>\n</persName> 。 <persName corresp=\"#pers_尾高惇忠\">\n<surname> 尾高 </surname>\n<forename> 惇忠 </forename>\n</persName> ノ妹。 </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "28"
+            },
+            "text": {
+                "headline": "\n 三月廿八日 \n",
+                "text": "<p> 曇、 <time when=\"07:00:00\"> 午前七時 </time> 起床、室内運動ヲ試ム、朝飧後家法ヲ浄書ス、 <placeName corresp=\"#place_東京\"> 東京 </placeName>\n<persName corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persName> ヨリ書状来ル、 <persName corresp=\"#pers_堀越善重郎\">\n<surname> 堀越 </surname>\n<forename> 善重郎 </forename>\n</persName> 氏ヨリモ一書来ル、午後 <persName corresp=\"#pers_土屋\">\n<surname> 土屋 </surname>\n</persName> 医師熱海行ノ途次来診ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "29"
+            },
+            "text": {
+                "headline": "\n 三月廿九日 \n",
+                "text": "<p> 晴、 <time when=\"06:30:00\"> 午前六時半 </time> 起床、室内運動ヲ為ス、朝飧後 <persName corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persName> 等ト共ニ海辺ヲ散歩ス、午飧後再ヒ山手ノ散歩ヲ試ム、 <placeName corresp=\"#place_東京\"> 東京 </placeName> ヨリ\n        <persName corresp=\"#pers_江沢\">\n<surname> 江沢 </surname>\n</persName> 来ル、 <persName corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persName> ヨリノ使トシテ <persName corresp=\"#pers_大川\">\n<surname> 大川 </surname>\n</persName> 家ノ葬儀ニ対スル事ヲ申越サレシナリ、依テ一書ヲ裁シテ回答ス、別ニ <persName corresp=\"#pers_横山徳次郎\">\n<surname> 横山 </surname>\n<forename> 徳次郎 </forename>\n</persName> 氏ニ一書ヲ送付ス、 <persName corresp=\"#pers_大川\">\n<surname> 大川 </surname>\n</persName> ノ葬儀ニ会スル能ハサルヲ以テ <persName corresp=\"#pers_大川平三郎\">\n<forename> 平三郎 </forename>\n</persName> ヘ一書ヲ送ル、夜読書雑談ニ閑ヲ消ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "30"
+            },
+            "text": {
+                "headline": "\n 三月三十日 \n",
+                "text": "<p> 曇、 <time when=\"06:30:00\"> 午前六時半 </time> 起床、室内運動ヲ為ス、朝飧後、 <persName corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persName>\n<persName corresp=\"#pers_大川\">\n<surname> 大川 </surname>\n</persName> ノ家ヲ見舞フ為メニ <placeName corresp=\"#place_東京\"> 東京 </placeName> ニ抵ル、 <persName corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persName> 氏ヨリ書状来ル、 <persName corresp=\"#pers_土屋\">\n<surname> 土屋 </surname>\n</persName> 医師 <placeName corresp=\"#place_熱海\"> 熱海 </placeName>\n       ヨリノ帰途来診ス、帰京ノ後所方《（処）》ヲ調合セシ薬剤ヲ送ル事ヲ示サル、旧里ノ人々来リ訪フ、（ <persName corresp=\"#pers_吉岡新五郎\">\n<surname> 吉岡 </surname>\n<forename> 新五郎 </forename>\n</persName> 来話ス）、午後 <persName corresp=\"#pers_中村秋香\">\n<surname> 中村 </surname>\n<forename> 秋香 </forename>\n</persName> 氏ヘ書状ヲ送リ詠草ヲ封入ス、来月初旬同氏帰京ノ途次来泊ノ事ヲ申シ遣ハス、 <time when=\"15:00:00\"> 三時 </time> 海辺ヲ散歩シテ途上\n        <persName corresp=\"#pers_三好退蔵\">\n<surname> 三好 </surname>\n<forename> 退蔵 </forename>\n</persName> 氏ニ邂逅ス、午後 <persName corresp=\"#pers_梅謙次郎\">\n<surname> 梅 </surname>\n<forename> 謙次郎 </forename>\n</persName> 氏来訪、法律学校ノ商議員タラン事ヲ依頼セラルニヨリ《（ル脱カ）》、宿痾全快ノ後回答スヘキ旨ヲ答フ、夜 <time when=\"19:30:00\"> 七時半 </time>\n<persName corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persName>\n<placeName corresp=\"#place_東京\"> 東京 </placeName> ヨリ帰リ来ル、夜旅宿ノ主人等ノ義太夫ノ曲ヲ聞ク </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "03",
+                "day": "31"
+            },
+            "text": {
+                "headline": "\n 三月三十一日 \n",
+                "text": "<p> 曇、 <time when=\"06:30:00\"> 午前六時半 </time> 起床、室内運動ヲ為ス、朝飧後新聞紙ヲ閲シ <time when=\"09:00:00\"> 九時\n       </time> 海辺ヲ散歩ス、午前 <persName corresp=\"#pers_中村秋香\">\n<surname> 中村 </surname>\n<forename> 秋香 </forename>\n</persName> 氏ヘ再応書状ヲ発シ詠草ヲ送ル、午飧後再ヒ海辺ヲ散歩ス、帰後家法ヲ浄写ス、夜ニ入テ読書ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "04",
+                "day": "01"
+            },
+            "text": {
+                "headline": "\n 四月一日 \n",
+                "text": "<p> 晴、 <time when=\"06:30:00\"> 午前六時半 </time> 起床、室内運動ヲ試ム、朝飧後新聞紙ヲ閲シ畢テ家法ヲ浄写ス、午飧後 <time when=\"13:40:00\"> 一時四十分 </time> 発ノ電車ニテ <placeName corresp=\"#place_小田原\"> 小田原 </placeName> ニ抵ル、\n        <persName corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persName> 、 <persName corresp=\"#pers_八木安五郎\">\n<surname> 八木 </surname>\n<forename> 安五郎 </forename>\n</persName> 、館ノ主人等同伴ス、小田原ナル小峰公園ヲ一覧ス、旧城内ヲ通行シテ行程五六丁アリ、梅樹多シ、然レトモ花既ニ散リテ観ルヘキモノナシ、茶店ニ小憩シテ <time when=\"15:30:00\"> 三時半 </time> 同地発ノ電車ニテ帰宿ス、夜読書ニ消閑ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "04",
+                "day": "02"
+            },
+            "text": {
+                "headline": "\n 四月二日 \n",
+                "text": "<p> 曇、 <time when=\"07:00:00\"> 午前七時 </time> 起床、室内運動ヲ為ス、朝飧後新聞紙ヲ閲ス、 <persName corresp=\"#pers_中村\">\n<surname> 中村 </surname>\n</persName> 氏ヨリ返書来ル、詠草ヲ封入ス、昨夜 <persName corresp=\"#pers_阪谷芳郎\">\n<surname> 阪谷 </surname>\n<forename> 芳郎 </forename>\n</persName> 、 <persName corresp=\"#pers_仲又七郎\">\n<surname> 仲又 </surname>\n<forename> 七郎 </forename>\n</persName> 等ノ書状ヲ落手ス、 <time when=\"11:00:00\"> 午前十一時 </time>\n<persName corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persName> 及 <persName corresp=\"#pers_安五郎\">\n<forename> 安五郎 </forename>\n</persName> ヲ伴フテ鉄道線路ヲ超ヘ山手ヲ散歩ス、又午後家法ヲ浄写ス、 <time when=\"16:00:00\"> 四時 </time> 頃ヨリ <persName corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persName> 、 <persName corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persName> 其他ノ奴婢ト共ニ又山手ノ散歩ヲ試ム、 <time when=\"17:00:00\"> 五時 </time> 旅宿ニ帰ル、夜読書ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "04",
+                "day": "03"
+            },
+            "text": {
+                "headline": "\n 四月三日 \n",
+                "text": "<p> 曇、 <time when=\"06:30:00\"> 午前六時半 </time> 起床、室内運動ヲ為ス、朝飧後新聞紙ヲ閲ス、昨日到手セシ <persName corresp=\"#pers_仲又七郎\">\n<surname> 仲又 </surname>\n<forename> 七郎 </forename>\n</persName> 来状ノ回答ヲ発ス <lb/>\n<persName corresp=\"#pers_永田清三郎\">\n<surname> 永田 </surname>\n<forename> 清三郎 </forename>\n</persName> 死後家産分配ノ件ニ関シ、 <persName corresp=\"#pers_尾高定四郎\">\n<surname> 尾高 </surname>\n<forename> 定四郎 </forename>\n</persName> 、 <persName corresp=\"#pers_永田市左衛門\">\n<surname> 永田 </surname>\n<forename> 市左衛門 </forename>\n</persName> 、 <persName corresp=\"#pers_向井\">\n<surname> 向井 </surname>\n</persName> 某来訪ス、依テ其来意ヲ聴キ且注意スヘキ件々ヲ示シ遣ス、 <persName corresp=\"#pers_竹内綱\">\n<surname> 竹内 </surname>\n<forename> 綱 </forename>\n</persName>\n<persName corresp=\"#pers_尾崎三良\">\n<surname> 尾崎 </surname>\n<forename> 三良 </forename>\n</persName> 二氏来リ京釜鉄道ノ事ヲ談話ス <lb/>\n<persName corresp=\"#pers_福岡健良\">\n<surname> 福岡 </surname>\n<forename> 健良 </forename>\n</persName> 夫妻 <placeName corresp=\"#place_熱海\"> 熱海 </placeName> ヨリノ帰途来訪セラル、 <persName corresp=\"#pers_三好退蔵\">\n<surname> 三好 </surname>\n<forename> 退蔵 </forename>\n</persName> 氏来リテ養育院感化部ノ事ヲ談話ス <lb/>\n<persName corresp=\"#pers_岡部\">\n<surname> 岡部 </surname>\n</persName> 夫人 <placeName corresp=\"#place_小田原\"> 小田原 </placeName> ヨリ来訪セラル、 <placeName corresp=\"#place_東京\"> 東京 </placeName> ヨリ <persName corresp=\"#pers_上田彦次郎\">\n<surname> 上田 </surname>\n<forename> 彦次郎 </forename>\n</persName> 来ル、 <persName corresp=\"#pers_森理七\">\n<surname> 森 </surname>\n<forename> 理七 </forename>\n</persName> 来話ス、各一泊ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "04",
+                "day": "04"
+            },
+            "text": {
+                "headline": "\n 四月四日 \n",
+                "text": "<p> 曇又雨、昨日ヨリ又少シク熱気アルヲ覚フルニヨリ <time when=\"08:00:00\"> 午前八時 </time> 起床、朝飧後褥中ニ在テ読書又ハ新聞紙ヲ閲ス、\n        <persName corresp=\"#pers_添田壽一\">\n<surname> 添田 </surname>\n<forename> 寿一 </forename>\n</persName> 氏ヨリ書状来ル、 <time when=\"12:00:00\"> 十二時 </time>\n<persName corresp=\"#pers_渋沢正雄\">\n<forename> 正雄 </forename>\n</persName> 帰京ス、 <persName corresp=\"#pers_上田彦次郎\">\n<surname> 上田 </surname>\n<forename> 彦次郎 </forename>\n</persName> 同行ス、 <placeName corresp=\"#place_東京\"> 東京 </placeName>\n<persName corresp=\"#pers_湯浅\">\n<surname> 湯浅 </surname>\n</persName> 氏ヨリ送ラレタル歌切ヲ <persName corresp=\"#pers_上田\">\n<surname> 上田 </surname>\n</persName> 帰便ニ返却シ、且医師来診ノ事ヲ申含メ遣ス、午後 <persName corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persName>\n<placeName corresp=\"#place_東京\"> 東京 </placeName> ヨリ来ル </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "04",
+                "day": "05"
+            },
+            "text": {
+                "headline": "\n 四月五日 \n",
+                "text": "<p> 曇、 <time when=\"07:00:00\"> 午前七時 </time> 起床、朝飧後新聞紙ヲ閲ス、室内運動ヲ試ミタル後家法ヲ浄写ス、 <time when=\"15:00:00\"> 三時 </time> 頃海辺ノ散歩ヲ為ス、 <persName corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persName> 医師 <placeName corresp=\"#place_東京\"> 東京 </placeName> ヨリ来診ス、夜読書ス、此日 <persName corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persName> 氏帰京便ニ托シテ <placeName corresp=\"#place_東京\"> 東京 </placeName>\n<persName corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persName> 及 <persName corresp=\"#pers_堀越\">\n<surname> 堀越 </surname>\n</persName> 氏等ヘ書状ヲ遣ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "04",
+                "day": "06"
+            },
+            "text": {
+                "headline": "\n 四月六日 \n",
+                "text": "<p> 曇、 <time when=\"06:30:00\"> 午前六時半 </time> 起床、朝飧後新聞紙ヲ閲ス、 <persName corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persName> 夫妻来訪ス、 <placeName corresp=\"#place_四日市\"> 四日市 </placeName> 三重紡績会社 <persName corresp=\"#pers_真野愛三郎\">\n<surname> 真野 </surname>\n<forename> 愛三郎 </forename>\n</persName> 来訪ス、 <persName corresp=\"#pers_仲又七郎\">\n<surname> 仲又 </surname>\n<forename> 七郎 </forename>\n</persName> ヨリ書状来ル、夜読書ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "04",
+                "day": "07"
+            },
+            "text": {
+                "headline": "\n 四月七日 \n",
+                "text": "<p> 晴、 <time when=\"06:30:00\"> 午前六時半 </time> 起床、朝飧後新聞紙ヲ閲シ、且 <persName corresp=\"#pers_中村秋香\">\n<surname> 中村 </surname>\n<forename> 秋香 </forename>\n</persName> 氏ヘ一書ヲ以テ詠草ト共ニ <placeName corresp=\"#place_興津\"> 興津 </placeName> ニ発送ス、 <placeName corresp=\"#place_東京\"> 東京 </placeName>\n<persName corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persName> ヨリ書状来ル、同時ニ其返書ヲ発ス、 <persName corresp=\"#pers_足立太郎\">\n<surname> 足立 </surname>\n<forename> 太郎 </forename>\n</persName> 曾テ書状ヲ寄セラルタルニヨリ返書ヲ遣ス、又 <persName corresp=\"#pers_村田俊彦\">\n<surname> 村田 </surname>\n<forename> 俊彦 </forename>\n</persName> （ <orgName> 日本興業銀行 </orgName> 員）ヨリ <placeName corresp=\"#place_東京\"> 東京\n       </placeName> ノ花信ヲ報シ且歌ヲ寄セラレタレハ、返書ニ添ヘテ歌二首ヲ遣ス、 <persName corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persName> 氏ヘ養育院ノ事ニ関シ一書ヲ発ス、 <persName corresp=\"#pers_三好退蔵\">\n<surname> 三好 </surname>\n<forename> 退蔵 </forename>\n</persName> 氏ヘ書状ヲ発ス、午後 <persName corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persName> 帰京ス、送リテ停車場ニ抵リ更ニ海辺ヲ散歩ス、夕方再ヒ海辺ヲ散歩ス、 <persName corresp=\"#pers_大川英太郎\">\n<surname> 大川 </surname>\n<forename> 英太郎 </forename>\n</persName> 来リ大坂紡績会社ノ近況ヲ談ス、 <persName corresp=\"#pers_小畔亀太郎\">\n<surname> 小畔 </surname>\n<forename> 亀太郎 </forename>\n</persName> 来話ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "04",
+                "day": "08"
+            },
+            "text": {
+                "headline": "\n 四月八日 \n",
+                "text": "<p> 晴、 <time when=\"07:00:00\"> 午前七時 </time>\n       起床、朝飧後新聞紙ヲ一読ス、頃日来ノ寒冒未《（感）》タ愈ヘス悪寒ノ気アルヲ以テ褥中ニ在テ保養ス、大坂紡績会社 <persName corresp=\"#pers_山辺丈夫\">\n<surname> 山辺 </surname>\n<forename> 丈夫 </forename>\n</persName> 氏ヘ書状ヲ発シ <persName corresp=\"#pers_大川\">\n<surname> 大川 </surname>\n</persName> ノ身上ヲ申遣ハス、午後 <persName corresp=\"#pers_中村秋香\">\n<surname> 中村 </surname>\n<forename> 秋香 </forename>\n</persName> 氏来訪ス、臥床中ニ接見シテ国歌ニ関スル歴史談ヲ聴ク、夕方 <persName corresp=\"#pers_土屋\">\n<surname> 土屋 </surname>\n</persName> 、 <persName corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persName> 両医師 <placeName corresp=\"#place_東京\"> 東京 </placeName> ヨリ来診セラル、蓋シ午前電話ヲ以テ来診ヲ請ヘタルナリ、夜\n        <persName corresp=\"#pers_中村\">\n<surname> 中村 </surname>\n</persName> 氏及 <persName corresp=\"#pers_土屋\">\n<surname> 土屋 </surname>\n</persName>\n<pb corresp=\"#pageB1338\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/364/full/max/0/default.jpg\" n=\"B1338\" source=\"#pageB1338\"/>\n<persName corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persName> 、 <persName corresp=\"#pers_竹内\">\n<surname> 竹内 </surname>\n</persName> 氏等来会雑談ス、 <placeName corresp=\"#place_東京\"> 東京 </placeName>\n<persName corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persName> 及 <persName corresp=\"#pers_尾高幸五郎\">\n<surname> 尾高 </surname>\n<forename> 幸五郎 </forename>\n</persName> 、 <persName corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persName> 等ヨリ来書アリ、共ニ寒冒ノ事ヲ問ヒ来ル </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "04",
+                "day": "09"
+            },
+            "text": {
+                "headline": "\n 四月九日 \n",
+                "text": "<p> 晴、 <time when=\"06:30:00\"> 午前六時半 </time> 起床、朝飧後 <persName corresp=\"#pers_土屋\">\n<surname> 土屋 </surname>\n</persName> 医師ノ診察ヲ受ク、 <persName corresp=\"#pers_中村\">\n<surname> 中村 </surname>\n</persName> 氏来話ス、皆 <time when=\"09:39:00\"> 九時三十九分 </time> 発ノ列車ヲ以テ帰京セラル、 <persName corresp=\"#pers_堀越善重郎\">\n<surname> 堀越 </surname>\n<forename> 善重郎 </forename>\n</persName> 氏ヨリ書状来ル、午後 <placeName corresp=\"#place_東京\"> 東京 </placeName>\n<persName corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persName> 宛ノ書状ヲ発送ス、 <persName corresp=\"#pers_堀越\">\n<surname> 堀越 </surname>\n</persName> 氏ヘノ返書ヲ封入ス、 <time when=\"14:00:00\"> 二時 </time> 市街及海辺ヲ散歩ス、夕方法帖ノ習字ヲ試ム </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "04",
+                "day": "10"
+            },
+            "text": {
+                "headline": "\n 四月十日 \n",
+                "text": "<p> 晴、 <time when=\"07:00:00\"> 午前七時 </time> 起床、朝飧後新聞紙ヲ読ム、 <placeName corresp=\"#place_東京\"> 東京\n       </placeName> 養育院 <persName corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persName> 、 <persName corresp=\"#pers_山本徳尚\">\n<surname> 山本 </surname>\n<forename> 徳尚 </forename>\n</persName> 二氏ヨリ書状来ル、院内ノ近況ヲ報シ来ル、感化部ノ事ヲモ委シク申越サル、 <time when=\"12:00:00\"> 十二時 </time>\n<persName corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persName> 、 <persName corresp=\"#pers_穂積陳重\">\n<surname> 穂積 </surname>\n<forename> 陳重 </forename>\n</persName> 夫妻同伴来訪セラル、横浜支店 <persName corresp=\"#pers_石井健吾\">\n<surname> 石井 </surname>\n<forename> 健吾 </forename>\n</persName> 夫婦来ル、 <orgName> 東京商業会議所 </orgName> 書記長 <persName corresp=\"#pers_萩原源太郎\">\n<surname> 萩原 </surname>\n<forename> 源太郎 </forename>\n</persName> 来話ス、 <time when=\"14:00:00\"> 午後二時 </time>\n<persName corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persName> 伯来訪セラル、蓋シ伯ハ少シク咽喉ヲ損セシニヨリ昨日ヨリ蔦屋ニ来泊セラルヽニヨル、談話後帰寓ス、 <time when=\"18:00:00\"> 午後六時\n       </time> 過キ <persName corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persName> 帰京ス、 <persName corresp=\"#pers_萩原源太郎\">\n<surname> 萩原 </surname>\n<forename> 源太郎 </forename>\n</persName> 同行ス、養育院 <persName corresp=\"#pers_安達\">\n<surname> 安達 </surname>\n</persName> 、 <persName corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persName> 二氏ヘノ返書ヲ <persName corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persName> ニ托シテ遣ス、 <persName corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persName> 夫妻ハ此夜当地《（宿泊脱カ）》ニ付夜種々ノ談話ニテ時ヲ移ス、 <persName corresp=\"#pers_穂積陳重\">\n<forename> 陳重 </forename>\n</persName>\n<placeName corresp=\"#place_アメリカ合衆国\"> 米国 </placeName> 行ノ談アリ、又 <persName corresp=\"#pers_堀越角次郎\">\n<surname> 堀越 </surname>\n<forename> 角次郎 </forename>\n</persName> ノ姉ヘ入夫ノ談ニ関シ、 <persName corresp=\"#pers_三宅\">\n<surname> 三宅 </surname>\n</persName> 、 <persName corresp=\"#pers_高木\">\n<surname> 高木 </surname>\n</persName> 二氏ヘノ内話ヲ托シ遣ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "04",
+                "day": "11"
+            },
+            "text": {
+                "headline": "\n 四月十一日 \n",
+                "text": "<p> 晴、 <time when=\"06:30:00\"> 午前六時半 </time> 起床、浴場ニ抵リテ海水ヲ以テ身体ヲ摩擦ス、朝飧後新聞紙ヲ閲シ、 <time when=\"09:00:00\"> 九時 </time>\n<persName corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persName> 伯ヲ蔦屋ニ訪フ、 <time when=\"09:19:00\"> 九時十九分 </time>\n       ノ発車ヲ以テ同伯当地ヲ去リ帰京セルニヨリ、停車場マテ同行シテ時事ニ関スル種々ノ談話ヲ為ス、 <persName corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persName> 伯ヲ送リシ帰途家人ト共ニ海辺ヲ散歩ス、午飧後 <persName corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persName> 夫妻ト雑談ス、 <time when=\"14:39:00\"> 午後二時三十九分 </time>\n       其帰京ヲ送リテ再ヒ停車場ニ抵ル、帰途又海辺ヲ散歩ス、帰後読書ニ閑ヲ消ス <lb/> 夜、 <placeName corresp=\"#place_東京\"> 東京 </placeName>\n<persName corresp=\"#pers_中村秋香\">\n<surname> 中村 </surname>\n<forename> 秋香 </forename>\n</persName> 氏ヨリ書状来ル、詠草ノ添削ヲモ封入ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "04",
+                "day": "12"
+            },
+            "text": {
+                "headline": "\n 四月十二日 \n",
+                "text": "<p> 曇、 <time when=\"06:30:00\"> 午前六時半 </time> 起床、直ニ海浜ヲ散歩ス、 <time when=\"07:00:00\"> 七時 </time>\n       海水摩擦ヲ為ス、朝飧後新聞紙ヲ閲ス、 <placeName corresp=\"#place_東京\"> 東京 </placeName>\n<persName corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persName> 宛ノ書状ヲ発ス、 <persName corresp=\"#pers_三好退蔵\">\n<surname> 三好 </surname>\n<forename> 退蔵 </forename>\n</persName> 氏ヘ書状ヲ遣シ養育院ノ近況ヲ通知ス、午後 <persName corresp=\"#pers_小田信樹\">\n<surname> 小田 </surname>\n<forename> 信樹 </forename>\n</persName> 、 <persName corresp=\"#pers_松平隼太郎\">\n<surname> 松平 </surname>\n<forename> 隼太郎 </forename>\n</persName> 来ル、 <orgName> 十勝開墾会社 </orgName> ノ現況ヲ詳知ス、 <time when=\"15:00:00\"> 三時 </time> 過\n        <persName corresp=\"#pers_小田\">\n<surname> 小田 </surname>\n</persName> 、 <persName corresp=\"#pers_松平\">\n<surname> 松平 </surname>\n</persName> ノ帰京ヲ送ツテ停車場ニ抵リ夫ヨリ村内ヲ散歩シテ山際ナル滝ヲ観ル、 <time when=\"17:00:00\"> 午後五時 </time> 帰宿揮毫ヲ試ム、夜読書ス\n      </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "04",
+                "day": "13"
+            },
+            "text": {
+                "headline": "\n 四月十三日 \n",
+                "text": "<p> 曇、 <time when=\"05:00:00\"> 午前五時 </time> 頃ヨリ熱気加ハリ、且頭痛強キヲ以テ起床スルヲ得ス、 <time when=\"07:00:00\"> 七時\n       </time> 過褥ヲ更メテ発汗ニ勉ム、 <placeName corresp=\"#place_東京\"> 東京 </placeName> ニ電話シテ医師ノ来診ヲ請フ、午後\n        <persName corresp=\"#pers_土屋\">\n<surname> 土屋 </surname>\n</persName> 、 <persName corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persName> 両氏来診ス </p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1904",
+                "month": "04",
+                "day": "14"
+            },
+            "text": {
+                "headline": "\n 四月十四日 \n",
+                "text": "<p> 曇、病猶未タ愈ヘス、然レトモ昨日来多ク発汗セシヲ以テ聊快方ヲ覚フ、午前 <persName corresp=\"#pers_菊地市太郎\">\n<surname> 菊地 </surname>\n<forename> 市太郎 </forename>\n</persName> 来ル、其請求ニ応シテ <placeName corresp=\"#place_京都\"> 京都 </placeName>\n<persName corresp=\"#pers_中川知一\">\n<surname> 中川 </surname>\n<forename> 知一 </forename>\n</persName> 氏ヘ書状ヲ附托ス、 <persName corresp=\"#pers_八十島信親\">\n<surname> 八十島 </surname>\n<forename> 信親 </forename>\n</persName> 来《（マヽ）》ル、 <placeName corresp=\"#place_東京\"> 東京 </placeName> ノ近況ヲ談話ス、 <time when=\"17:00:00\"> 午後五時 </time> 頃ヨリ又悪寒ノ気アリテ発熱ス、依テ再ヒ服薬シテ発汗ニ勉ム <lb/>\n<date when=\"1904-04-15\"> 四月十五日 </date> 病尚愈ヘス、 <date when=\"1904-04-24\"> 廿四日 </date>\n       ニ至リ、病ヲ犯シテ帰京シ、 <date when=\"1904-04-27\"> 廿七日 </date> ヨリ熱気漸ク増加シ、 <date when=\"1904-04-29\"> 廿九日\n       </date> ニハ終ニ肺炎症トナリテ一時死ヌヘク思ハ <pb corresp=\"#pageB1339\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/365/full/max/0/default.jpg\" n=\"B1339\" source=\"#pageB1339\"/> レシモ、医師ノ処方宜ヲ得、家人ノ看護ニ尽セルヲ以テ、 <date evidence=\"year inferenced, day\" when=\"1904-06\"> 六月 </date> 中旬ヨリ稍快方ニ赴キ、 <date evidence=\"year inferenced, day\" when=\"1904-07\"> 七月 </date> 初ヨリ起床、庭中ノ散歩ヲ試ムルニ至ル、爾後次第ニ回復シテ、\n        <date when=\"1904-08-11\"> 八月十一日 </date>\n<placeName corresp=\"#place_東京\"> 東京 </placeName> ヲ発シ、 <placeName corresp=\"#place_箱根\"> 箱根\n       </placeName> 蘆ノ湯ニ入浴シ、 <date when=\"1904-09-03\"> 九月三日 </date> ヲ以テ帰京ス、此間時々風邪気ノ事アリシモ両三日ニシテ快愈セリ、\n        <date when=\"1904-09-10\"> 九月十日 </date> 夜眩暈症ニテ一時懸念セシ事アリシモ数日ニシテ平愈シ <date when=\"1904-09-27\"> 廿七日\n       </date> ヨリ出勤、先ツ宮内省ニ抵リテ大臣ニ謝意ヲ述ヘ、夫ヨリ総理大臣其他ヲ廻勤シ爾来日々出勤執務セリ <lb/>\n<date evidence=\"year inferenced, day\" when=\"1904-04\"> 四月 </date> 以後ノ日誌ハ病ノ為メ記載スルヲ得サリシニヨリ、\n        <date evidence=\"year inferenced\" when=\"1904\"> 三十七年 </date> ハ殆ント之ヲ廃シ、新年ヲ迎ヘテ更始スヘキ事トセリ </p>"
+            }
+        }
+    ]
+}

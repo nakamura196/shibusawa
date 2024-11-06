@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-08-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、髪ヲ理シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ食ス、\n        <persname corresp=\"#pers_阿部\">\n<surname> 阿部 </surname>\n</persname> 中頸城郡長来話ス、 <persname corresp=\"#pers_新井幸吉\">\n<surname> 新井 </surname>\n<forename> 幸吉 </forename>\n</persname> 氏来リ羽二重会社ノ景況ヲ説明ス、 <orgname> 長岡銀行 </orgname> 支店長来話ス、 <persname corresp=\"#pers_佐藤\">\n<surname> 佐藤 </surname>\n</persname> 某来訪ス、 <persname corresp=\"#pers_成瀬\">\n<surname> 成瀬 </surname>\n</persname> 、 <persname corresp=\"#pers_堤\">\n<surname> 堤 </surname>\n</persname> 氏等来話《（塘氏）》ス、 <orgname> 女子大学 </orgname> 卒業生数名来訪、依テ将来ノ心掛ニ付テ種々ノ訓戒ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 午飧ヲ食シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n       過ヨリ町内大漁座ニ抵リ、実業者ノ道徳修養ニ関スル一場ノ講演ヲ為ス畢テ羽二重会社ヲ一覧ス、 <persname corresp=\"#pers_新井幸吉\">\n<surname> 新井 </surname>\n<forename> 幸吉 </forename>\n</persname> 氏ノ案内ニヨル、一覧畢テ <persname corresp=\"#pers_金子\">\n<surname> 金子 </surname>\n</persname> 水力電気会社取締役及 <persname corresp=\"#pers_新井\">\n<surname> 新井 </surname>\n</persname> 氏等ト <placename corresp=\"#place_上越\"> 上越 </placename> 倶楽部ニ抵ル、今夕ノ歓迎会場ナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n       ヨリ開会シ、町長歓迎ノ辞アリ、依テ之ニ答ヘ且女子教育ニ関シテ各地講演セシ事、又ハ大学ノ内容等ヲ演説ス、此日会スル者約七八十人名《（衍）》、宴畢リテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 帰寓ス <lb></lb> 午前、歩兵大佐 <persname corresp=\"#pers_堀内文次郎\">\n<surname> 堀内 </surname>\n<forename> 文次郎 </forename>\n</persname> 氏来訪、朝、 <placename corresp=\"#place_長岡\"> 長岡 </placename> 師団長ヨリ来書アリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

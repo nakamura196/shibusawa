@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-11-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝より東北の風吹て〓行甚随意ならす、尤風故暑気は稍凌よし、時々船の左に <placename corresp=\"#place_アラビア\"> 亜剌比亜 </placename>\n       地方を見る、夜に入て風殊に涼し "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 19.49139,
+                    "lon": 47.449028,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

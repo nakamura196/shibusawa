@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-07-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前銀行ニ出勤シテ事務ヲ視ル、午後 <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ於テ抹茶ノ会ヲ催フス、\n        <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 、 <persname corresp=\"#pers_下城正雄\">\n<surname> 下城 </surname>\n<forename> 正雄 </forename>\n</persname> 《（ <persname corresp=\"#pers_下条正雄\">\n<surname> 下条 </surname>\n<forename> 正雄 </forename>\n</persname> ）》、 <persname corresp=\"#pers_馬越恭平\">\n<surname> 馬越 </surname>\n<forename> 恭平 </forename>\n</persname> 、 <persname corresp=\"#pers_益田英作\">\n<surname> 益田 </surname>\n<forename> 英作 </forename>\n</persname> 、 <persname corresp=\"#pers_浅田正文\">\n<surname> 浅田 </surname>\n<forename> 正文 </forename>\n</persname> ノ五氏来ル、主客歓ヲ尽シ、夜納凉台ニ於テ再ヒ宴ヲ開キ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過散会ス、此夜 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-04-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:00:00",
+                    "text": "<time when=\"05:00:00\"> 午前五時 </time> 起床、直ニ朝飧ヲ食シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 六時 </time>\n       旅亭ヲ発シ、人力ニテ山ヲ下ル途中一目千本ヲ過ク、桜花昨日ヨリ更ニ爛熳タリ、山ヲ下ルコト一里ニシテ六田ニ抵リ <placename corresp=\"#place_芳野川\"> 芳野川\n       </placename> ヲ渡リ、川ニ沿フテ <placename corresp=\"#place_下市\"> 下市 </placename> ニ抵リ再ヒ川ヲ超ヘテ酢屋ニ少憩ス、家ハ\n        <placename corresp=\"#place_下市町\"> 下市町 </placename> ノ中央ニ在リ、仮山アリ、眺望ニ佳ナリ数十代酢屋ヲ業トシ、 <persname corresp=\"#pers_平維盛\">\n<surname> 平 </surname> 三位 <forename> 維盛 </forename>\n</persname> ノ遺跡ヲ存スト云フ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.361,
+                    "lon": 135.79192,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<placename corresp=\"#place_吉野口\"> 芳野口 </placename> ニ抵リテ汽車ニ搭ス、四日市支店 <persname corresp=\"#pers_西条\">\n<surname> 西条 </surname>\n</persname> 氏ハ此地ニテ分レテ帰店ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n<placename corresp=\"#place_高野口\"> 高野口 </placename> ニ抵リテ下車シ、茶亭ニ休憩シテ午飧ス、後、人車ニテ権出ニ抵リ、更ニ山轎ヲ僦フテ\n        <placename corresp=\"#place_高野\"> 高野 </placename> 山ニ登ル、全山杉檜鬱叢トシテ良材多シ、途中数回休憩シテ <placename corresp=\"#place_高野山\"> 高野山 </placename>\n       顚《（巓）》ニ達ス、常喜院ニ投宿ス、院主及山僧数名来リ迎フ、少憩後、金堂其他ノ諸建築及宝物タル諸仏身等ヲ参拝ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.2125,
+                    "lon": 135.58639,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n       帰院、夜飧ス、此夜、参詣者多ク来宿シテ院内喧噪タリキ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

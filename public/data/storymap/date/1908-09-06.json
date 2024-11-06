@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-09-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 七時半 </time> 旅亭ヲ発シ、\n        <persname corresp=\"#pers_八木久兵衛\">\n<surname> 八木 </surname>\n<forename> 久兵衛 </forename>\n</persname> 別荘ニ抵ル、蓋シ別荘ハ新築ニ係リ、且 <placename corresp=\"#place_仙台\"> 仙台 </placename>\n       ニ有名ナル埋木ヲ以テ建造セシモノナリト云フ、一覧後直ニ停車場ニ抵ル、 <persname corresp=\"#pers_寺田\">\n<surname> 寺田 </surname>\n</persname> 知事、 <persname corresp=\"#pers_和達\">\n<surname> 和達 </surname>\n</persname> 市長、 <persname corresp=\"#pers_早川知寛\">\n<surname> 早川 </surname>\n<forename> 知寛 </forename>\n</persname> 、其他市人数十名送リ来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 発ノ汽車ニ搭シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\">\n        午後二時 </time> 過 <placename corresp=\"#place_磐城国\"> 磐城国 </placename>\n<placename corresp=\"#place_湯本\"> 湯本 </placename> 駅ニ抵ル、 <persname corresp=\"#pers_郷隆三郎\">\n<surname> 郷 </surname>\n<forename> 隆三郎 </forename>\n</persname> （白煉瓦会社）、 <persname corresp=\"#pers_倉田\">\n<surname> 倉田 </surname>\n</persname> 、 <persname corresp=\"#pers_岡部\">\n<surname> 岡部 </surname>\n</persname> 二氏（ <placename corresp=\"#place_磐城\"> 磐城 </placename>\n       炭礦会社）等来リ迎フ、昨日ハ電報ヲ以テ下車ノ事ヲ要請セラレシモ、帰京ヲ急ク為メ其意ニ応シ難キ旨回答シタレハ、両会社ハ多数ノ社員ヲシテ停車場ニ集メテ車中ナカラノ会見ヲ望マル、依テ一言ヲ述ヘテ厚意ヲ謝ス、汽車\n        <placename corresp=\"#place_水戸\"> 水戸 </placename> ニ達スル頃ヨリ夜ニ入リテ四顧寂寥タリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\">\n        十時 </time>\n<placename corresp=\"#place_上野\"> 上野 </placename> 停車場着、 <placename corresp=\"#place_東京\"> 東京\n       </placename> ヨリ多数ノ人迎ノ為メ来会セラル、悉ク之ヲ謝シテ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7089139,
+                    "lon": 139.7742361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

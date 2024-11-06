@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-04-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time>\n       起床、半身浴ヲ為シテ、朝飧ヲ食ス、感冒未タ愈ヘス、褥中ニ在テ事務ヲ処理ス、又、来人ニ接ス、午前ヨリ紀料ヲ読ミ、午飧後モ之ヲ継続ス、畢テ銀行史ヲ一読シ、又、益軒全集ヲ読ム、時々吸入ノ治療ヲ為ス、夜飧後モ亦益軒全集ヲ読ム\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

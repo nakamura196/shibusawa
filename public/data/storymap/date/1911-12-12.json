@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-12-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、先ツ半身浴ヲ為シテ朝飧ヲ食ス、後、 <persname corresp=\"#pers_吉田清太郎\">\n<surname> 吉田 </surname>\n<forename> 清太郎 </forename>\n</persname> 氏来リ <persname corresp=\"#pers_荒木\">\n<surname> 荒木 </surname>\n</persname> 氏ノ著書ニ序文ノ事ヲ托セラル、 <persname corresp=\"#pers_栗田\">\n<surname> 栗田 </surname>\n</persname> 某来リテ <placename corresp=\"#place_水戸\"> 水戸 </placename> 亡名士塑像ノ事ヲ談ス、修養団 <persname corresp=\"#pers_遠藤賢次郎\">\n<surname> 遠藤 </surname>\n<forename> 賢次郎 </forename>\n</persname> 氏来リ向上雑誌ニ記載ノ意見ヲ徴セラル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_牛込\"> 牛込 </placename>\n<persname corresp=\"#pers_穂積陳重\">\n<surname> 穂積 </surname>\n<forename> 陳重 </forename>\n</persname> 氏ヲ訪ヒ種々ノ談話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time> 事務所ニ抵リ、 <persname corresp=\"#pers_平岡熙\">\n<surname> 平岡 </surname>\n<forename> 熙 </forename>\n</persname> 氏、 <persname corresp=\"#pers_長谷川\">\n<surname> 長谷川 </surname>\n</persname> 、 <persname corresp=\"#pers_角野\">\n<surname> 角野 </surname>\n</persname> 二氏等ト共ニ汽車会社ノ事ヲ談ス後、新聞記者数名ノ来訪アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧シ、食後 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 氏ト行務及他ノ要件ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 再ヒ事務所ニ於テ書類ヲ点撿シ事務ヲ処理ス、又、種々ノ来客ニ接ス、\n        <persname corresp=\"#pers_鏑木誠\">\n<surname> 鏑木 </surname>\n<forename> 誠 </forename>\n</persname> 氏来リ喜賓会ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リ、 <persname corresp=\"#pers_猪苗代\">\n<surname> 猪苗代 </surname>\n</persname> 水電会社ノ宴会ニ出席ス、 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 、林、 <persname corresp=\"#pers_原\">\n<surname> 原 </surname>\n</persname> 、 <persname corresp=\"#pers_後藤\">\n<surname> 後藤 </surname>\n</persname> 、其他ノ関係官庁ノ人々来会ス、一場ノ謝詞ヲ述フ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過散会、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

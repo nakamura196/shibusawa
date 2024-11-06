@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-09-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1211\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/237/full/max/0/default.jpg\" n=\"B1211\" source=\"#pageB1211\"></pb>\n<lb></lb> 晴、午前銀行ニ出勤ス、午後、清国専使那桐氏招宴ニ付 <orgname> 銀行倶楽部 </orgname> ニ抵ル、 <persname corresp=\"#pers_小村\">\n<surname> 小村 </surname>\n</persname> 、 <persname corresp=\"#pers_内田\">\n<surname> 内田 </surname>\n</persname> 、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 、 <persname corresp=\"#pers_山本達雄_(政治家)\">\n<surname> 山本 </surname>\n<forename> 達雄 </forename>\n</persname> 氏来会ス、会員来リテ食卓ニ就ク者凡七十人余、席上一場ノ演説ヲ為ス、夜 <placename corresp=\"#place_深川\"> 深川\n       </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

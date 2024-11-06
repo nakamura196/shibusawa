@@ -1,0 +1,59 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-04-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<placename corresp=\"#place_目白\"> 目白 </placename> 椿山荘ニ抵リ <persname corresp=\"#pers_山縣有朋\">\n<surname> 山県 </surname>\n</persname> 総理ヲ訪フ、京釜鉄道会社ニ関スル要件及経済上ノ事ヲ談話ス、畢テ <placename corresp=\"#place_下谷\"> 下谷 </placename>\n       ナル岩越鉄道会社ニ抵リ重役会ニ列ス、 <persname corresp=\"#pers_二橋\">\n<surname> 二橋 </surname>\n</persname> 、 <persname corresp=\"#pers_日下\">\n<surname> 日下 </surname>\n</persname> 、 <persname corresp=\"#pers_佐治\">\n<surname> 佐治 </surname>\n</persname> 、 <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 及監査役諸氏来会ス、会社将来ノ事業興廃ニ関スル要件ヲ熟議ス、各位ノ意見統一スルヲ得サルヲ以テ更ニ後会ヲ約シテ散会ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7208528,
+                    "lon": 139.7095194,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\">\n        午後二時 </time> 東京市役所ニ抵リ御慶事奉祝会常議会ニ列シ要件数項ヲ協議ス、夜 <placename corresp=\"#place_日本橋兜町\"> 兜町\n       </placename> 宅ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

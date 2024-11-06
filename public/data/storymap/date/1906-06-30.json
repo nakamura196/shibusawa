@@ -1,0 +1,89 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-06-30",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後書類ヲ撿閲ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 七時半 </time> 朝飧、畢テ来人ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時半\n       </time> 弓場ヲ伴フテ先ツ李根沢ヲ訪ヒ、東大門外ノ荒蕪地ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<persname corresp=\"#pers_閔泳綺\">\n<surname> 閔 </surname>\n<forename> 泳綺 </forename>\n</persname> ヲ訪ヒ懇話ヲ為シ且謝物ヲ贈付ス、畢テ <persname corresp=\"#pers_権重顕\">\n<surname> 権 </surname>\n<forename> 重顕 </forename>\n</persname> ヲ訪ヒ同シク親密ノ談ヲ為シ謝物ヲ交付ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 帰寓、中原、 <persname corresp=\"#pers_和田\">\n<surname> 和田 </surname>\n</persname> 二氏来リテ水力電気ノ事ヲ談ス、共ニ午飧シテ将来ノ調査手続ヲ示ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n       漢城銀行ニ抵リ行務ヲ一覧ス、更ニ倉庫会社ニ抵リテ同シク事務ヲ視ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 帰寓、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time> ヨリ <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 統監、 <persname corresp=\"#pers_長谷川\">\n<surname> 長谷川 </surname>\n</persname> 大将、 <persname corresp=\"#pers_朴斉純\">\n<surname> 朴 </surname>\n<forename> 斉純 </forename>\n</persname> 、 <persname corresp=\"#pers_閔泳綺\">\n<surname> 閔 </surname>\n<forename> 泳綺 </forename>\n</persname> 、 <persname corresp=\"#pers_権重顕\">\n<surname> 権 </surname>\n<forename> 重顕 </forename>\n</persname> 其他数多来会ス、此日ヲ以テ留別ノ宴ヲ設ケタルナリ、深更マテ談話シテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1906-07-01T00:00+0900\"> 十二時\n       </time> 頃散会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

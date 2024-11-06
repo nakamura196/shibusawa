@@ -1,0 +1,87 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-10-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time> 過客舎御発、馬車ニ而市街御覧、夫より港口を御通行ニ而 <placename corresp=\"#place_ビアリッツ\"> ビヤリイト </placename> への汽車場ニ至る、第 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 43.481667,
+                    "lon": -1.556111,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time>\n       発軔、市街の南辺は松林多く松根の皮を剥て松汁を取る、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 十時半 </time>\n<placename corresp=\"#place_モルサンス\"> モルサンス </placename> 御昼食、Morcenx第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\">\n        十二時半 </time>\n<placename corresp=\"#place_バヨンヌ\"> バヨンヌ </placename> 御着、暫時御休息、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time>\n<placename corresp=\"#place_ビアリッツ\"> ビヤリイト </placename>\n       御着、汽車場迄礼式懸之者罷出、国帝御逢之手続申聞る、汽車場より馬車ニ而客舎御越、直様御洋服ニ而帝居御越、 <persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤太夫 </forename>\n</persname> 、 <persname corresp=\"#pers_コロネル\">\n<surname> コロネル </surname>\n</persname>\n       御供、帝居は海浜ニ而いと狭小なる休息所様の家作なり、玄関を入りたる広間迄帝及后妃共御迎申上る、夫より帝の居間御越、帝后妃とも暫時御閑話、御暇之御詞等御述、御書翰御渡、直ニ御引取、\n        <persname corresp=\"#pers_渋沢栄一\">\n<forename> 篤太夫 </forename>\n</persname> 、 <persname corresp=\"#pers_コロネル\"> コロネル </persname>\n       は次の間ニ扣御待申上る、御帰之節帝后妃共次の間迄御送、太子は玄関まて御送申上る、御逢も御滞なく相済ぬれは直ニ客舎御発し、馬車ニ而市街御遊覧、海浜を御行過、 <placename corresp=\"#place_バヨンヌ\"> バヨンヌ </placename> より流て海に入る川口御越、 <placename corresp=\"#place_ジンギユ\">\n        ジンギユ </placename> といふ川口の海に接せし処、築出し波塘を作る場処御一覧、河に沿ふて <placename corresp=\"#place_バヨンヌ\"> バヨンヌ\n       </placename> 御越、第 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 43.481667,
+                    "lon": -1.556111,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 御着、ホテル・サンテチヤンといふ客舎御投宿、御着後市中御一覧、 <persname corresp=\"#pers_菊池平八郎\">\n<forename> 平八郎 </forename>\n</persname> 、 <persname corresp=\"#pers_コロネル\">\n<surname> コロネル </surname>\n</persname> 御供いたすHotelSaintEtienne "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

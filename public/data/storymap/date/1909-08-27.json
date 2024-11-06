@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-08-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴後室内ニテ喫茶ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time>\n       朝飧ヲ食ス、後、船室内ニテ <persname corresp=\"#pers_中野武営\">\n<surname> 中野 </surname>\n</persname> 、 <persname corresp=\"#pers_岩原謙三\">\n<surname> 岩原 </surname>\n</persname> 、 <persname corresp=\"#pers_堀越善重郎\">\n<surname> 堀越 </surname>\n</persname> 諸氏ト一行ノ分課及其人撰ノ事ヲ内議シ、更ニ各商業会議所会頭ト会議シテ原案ヲ示シテ分掌ノ順序ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時\n       </time> 午飧ス、後、各商業会議所其他ノ委員ヲ会シテ一行ノ各課分掌ノ順序及其人撰等ノ事ヲ談ス、同船ノ <placename corresp=\"#place_アメリカ合衆国\"> 米国\n       </placename> 人ヨリ明日船中ニ於テ祝盃ヲ挙クルノ催アル事ヲ聞知セシニヨリ、之レニ答礼スル為メ、 <persname corresp=\"#pers_神田乃武\">\n<surname> 神田 </surname>\n</persname>\n<persname corresp=\"#pers_岩原謙三\">\n<surname> 岩原 </surname>\n</persname> 、 <persname corresp=\"#pers_松方幸次郎\">\n<surname> 松方 </surname>\n</persname> 、 <persname corresp=\"#pers_堀越善重郎\">\n<surname> 堀越 </surname>\n</persname> 四氏ヲ委員トシテ其方法ヲ調査セシム《（ル脱）》事トス、夕 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n       晩飧シ、後、喫煙室ニテ一行ノ囲碁ヲ観、又、遊戯ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

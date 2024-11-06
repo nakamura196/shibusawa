@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-08-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後身体ヲ摩擦シ、畢テ新聞紙ヲ一覧ス、二三ノ来人ニ接シ、午飧後 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ニ抵リ、日本汽船会社創立委員会ヲ開キ、 <persname corresp=\"#pers_岡崎\">\n<surname> 岡崎 </surname>\n</persname> 、 <persname corresp=\"#pers_岸本\">\n<surname> 岸本 </surname>\n</persname> 、 <persname corresp=\"#pers_浜政弘\">\n<surname> 浜 </surname>\n<forename> 政弘 </forename>\n</persname> 、 <persname corresp=\"#pers_西川荘三\">\n<surname> 西川 </surname>\n<forename> 荘三 </forename>\n</persname> 、 <persname corresp=\"#pers_高根義人\">\n<surname> 高根 </surname>\n<forename> 義人 </forename>\n</persname> 諸氏来会ス、種々議論ノ末追テ発起人《（会脱）》ヲ開ク事ニ決定シテ散会ス <lb></lb>\n<persname corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_市原盛宏\">\n<surname> 市原 </surname>\n<forename> 盛宏 </forename>\n</persname> 氏 <placename corresp=\"#place_大韓民国\"> 韓国 </placename> ヨリ帰着ス、面会ノ上種々ノ要務ヲ談話ス <lb></lb>\n"
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<persname corresp=\"#pers_加藤政之助\">\n<surname> 加藤 </surname>\n<forename> 政之助 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_藤村義苗\">\n<surname> 藤村 </surname>\n<forename> 義苗 </forename>\n</persname> 、 <persname corresp=\"#pers_宇野\">\n<surname> 宇野 </surname>\n</persname> 氏等来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

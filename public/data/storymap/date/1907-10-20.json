@@ -1,0 +1,61 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-10-20",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後入浴シ、畢テ児童等ト朝飧ヲ共ニス、食後庭園及郊外ヲ散歩ス "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<persname corresp=\"#pers_村井義寛\">\n<surname> 村井 </surname>\n<forename> 義寛 </forename>\n</persname> 父子ノ来訪ニ接ス、 <persname corresp=\"#pers_石神\">\n<surname> 石神 </surname>\n</persname> 某ノ来訪ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 早稲田大学 </orgname> 二十五年紀念祝典ニ出席ス、来会者、各国大使、公使、元老、大臣、実業者、新聞記者、学生等無慮二万人ト称ス、頗ル大会ナリ、\n        <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯、銅像ノ石壇上ニ於テ一場ノ祝詞演説ヲ為ス、種々ノ演説又ハ祝文朗読アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n       式畢テ伯爵邸ニ園遊会ヲ開ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:30:00",
+                    "text": "<time when=\"16:30:00\"> 午後四時半 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、帰宅後 <placename corresp=\"#place_飛鳥山邸\">\n        飛鳥山 </placename> ヲ散歩ス、夜、読書ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

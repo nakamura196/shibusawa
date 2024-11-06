@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-12-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝、 <persname corresp=\"#pers_上田閑江\">\n<surname> 上田 </surname>\n<forename> 閑江 </forename>\n</persname> に恵借の轎を戻し遣す <lb></lb> 新屋敷の老人 ○ <persname corresp=\"#pers_文左衛門\">\n<forename> 文左衛門 </forename>\n</persname>\n<persname corresp=\"#pers_渋沢栄一\">\n<forename> 栄一 </forename>\n</persname> ノ伯父阿女の迎ひとていまた滞留せしかは、朝来過訪せられ、旧話頗る鬱胸を慰めり <lb></lb> 午後 <placename corresp=\"#place_小川街\">\n        小川街 </placename> に罷出、到着を御届申上、公用局江手続申談、其他知音之者面会、夕方退出、夜老人、阿ひさ其外来り、深更迄談話頗る故態を為し、痴心を生す <lb></lb> 朝、\n        <persname corresp=\"#pers_平岡庄七\">\n<surname> 平岡 </surname>\n<forename> 庄七 </forename>\n</persname> 、 <persname corresp=\"#pers_川村三介\">\n<surname> 川村 </surname>\n<forename> 三介 </forename>\n</persname> 来、景情を問、暫時談話にて帰る <lb></lb>\n<placename corresp=\"#place_静岡\"> 静岡 </placename> より書状来る、封中郷書あり "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-05-10",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇午後雨、朝来二三ノ来客ニ接シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time>\n<placename corresp=\"#place_麻布\"> 麻布 </placename> 内田山 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ノ邸ヲ訪ヒ時事ヲ談ス、午餐後内務省ニ抵リ <persname corresp=\"#pers_大森\">\n<surname> 大森 </surname>\n</persname> 総務長官ニ面会シテ瓦斯工場建設ノ事ヲ依頼ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宅シ更ニ馬車ヲ馳テ日本鉄道会社重役会ニ列ス、議事畢テ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ抵ル、蓋シ同所ノ新築漸ク落成セシヲ以テ今日ヲ卜シテ移転スルヲ以テナリ、\n        <persname corresp=\"#pers_尾高幸五郎\">\n<surname> 尾高 </surname>\n<forename> 幸五郎 </forename>\n</persname> 、 <persname corresp=\"#pers_岩永尚作\">\n<surname> 岩永 </surname>\n<forename> 尚作 </forename>\n</persname> 等ト共ニ室内及庭園ヲ巡視ス、雨中ノ新樹最モ佳絶ナリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

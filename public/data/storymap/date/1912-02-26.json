@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-02-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、風邪気ニテ、半身浴ヲ為シ、朝飧ヲ食ス、後、諸方ノ電話ニ答ヘ又日記ヲ編成ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 帝国劇場ニ抵リテ女優ヲ会シテ懇切ノ訓誡ヲ与フ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ <persname corresp=\"#pers_西野\">\n<surname> 西野 </surname>\n</persname> 氏ノ送別会ヲ開ク、帝国劇場会社重役、顧問及男女ノ俳優其他関係者会スル者五十名許リナリ、食卓上一場ノ送別ノ辞ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\">\n        午後三時 </time> 頃散会、事務所ニ抵リテ当務ヲ処理ス、 <persname corresp=\"#pers_西野\">\n<surname> 西野 </surname>\n</persname> 氏ヘノ添書、米英独ニテ八通ヲ認ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_神田\"> 神田 </placename>\n       教育会ニ抵リ、中央慈善協会幹事会ヲ開キ、恤窮ニ関スル種々ノ議案及本会維持ノ方法等ヲ協議ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会ス、\n        <persname corresp=\"#pers_久米\">\n<surname> 久米 </surname>\n</persname> 、 <persname corresp=\"#pers_窪田\">\n<surname> 窪田 </surname>\n</persname> 、 <persname corresp=\"#pers_桑田\">\n<surname> 桑田 </surname>\n</persname>\n<persname corresp=\"#pers_留岡\">\n<surname> 留岡 </surname>\n</persname> 、 <persname corresp=\"#pers_安達\">\n<surname> 安達 </surname>\n</persname> 、 <persname corresp=\"#pers_生江\">\n<surname> 生江 </surname>\n</persname> 、 <persname corresp=\"#pers_中川\">\n<surname> 中川 </surname>\n</persname> 、 <persname corresp=\"#pers_原\">\n<surname> 原 </surname>\n</persname> ノ諸氏来会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

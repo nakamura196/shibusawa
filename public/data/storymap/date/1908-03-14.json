@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-03-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<placename corresp=\"#place_三田\"> 三田 </placename> ニ <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 侯爵ヲ訪ヒ、 <orgname> 帝商銀行 </orgname> ノ事ニ関シ爾来ノ経過ヲ述ヘ助言ヲ乞フ、更ニ <persname corresp=\"#pers_松方\">\n<surname> 松方 </surname>\n</persname> 侯爵ヲ訪ヒ種々ノ談話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname> 第一銀行 </orgname> ニ抵リテ午飧シ、後、要務ヲ談ス、 <orgname> 日本銀行 </orgname>\n<persname corresp=\"#pers_井上準之助\">\n<surname> 井上 </surname>\n<forename> 準之助 </forename>\n</persname> 来リ、 <orgname> 帝商銀行 </orgname> ノ事ニ関シ <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 総裁ヨリノ伝言アリ、依テ <persname corresp=\"#pers_郷\">\n<surname> 郷 </surname>\n</persname> 、 <persname corresp=\"#pers_薄井\">\n<surname> 薄井 </surname>\n</persname> 二氏ト協議シテ再考ノ後最後ノ一案ヲ定メ、月曜日ヲ以テ <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 総裁ニ請願スヘキ事トス、 <persname corresp=\"#pers_植村澄三郎\">\n<surname> 植村 </surname>\n<forename> 澄三郎 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_岩原謙三\">\n<surname> 岩原 </surname>\n<forename> 謙三 </forename>\n</persname> 氏来リ京坂電気鉄道器械買入ノ事ニ関シ談話アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n       中央亭ニ抵リ、帝国劇場会社ノ重役会ヲ開キ要件ヲ決シ、更ニ <persname corresp=\"#pers_横河\">\n<surname> 横河 </surname>\n</persname> 技師欧米行ノ送別ノ為メ小宴ヲ開キ、在外中調査スヘキ要項ニ付種々ノ談話ヲ為ス、来会者十四人、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n       散会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

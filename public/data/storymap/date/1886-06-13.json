@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1886-06-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、此日、 <placename corresp=\"#place_伏木富山港\"> 伏木港 </placename> ヲ一覧スル為メ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\">\n        午前九時 </time> 旅寓ヲ発シ、 <persname corresp=\"#pers_原田\">\n<surname> 原田 </surname>\n</persname> 氏ノ誘引ニ従テ <placename corresp=\"#place_高岡\"> 高岡 </placename> 街頭ヨリ小舟ヲ僦フテ <placename corresp=\"#place_荒川\"> 荒川 </placename> ヲ下ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n<placename corresp=\"#place_伏木\"> 伏木 </placename> ニ達ス、郵船会社ノ倉庫及市街ヲ一覧シ、郵船会社支店ニ休憩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_伏木\"> 伏木 </placename> 、 <placename corresp=\"#place_高岡\"> 高岡\n       </placename> 両地ノ商估同社ニ来会ス、蓋シ余カ来遊ヲ饗スル為、同社ニ於テ此宴ヲ設クルモノナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n       頃、更ニ伏木商估ノ請ニ応シテ臥竜閣ニ抵ル、又一宴ヲ設ケテ余ヲ饗ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 、 <persname corresp=\"#pers_藤井能三\">\n<surname> 藤井 </surname>\n<forename> 能三 </forename>\n</persname> 氏ヲ訪フ、又開宴饗応ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 午後九時 </time> 、 <persname corresp=\"#pers_藤井\">\n<surname> 藤井 </surname>\n</persname> 氏ヲ辞シ、腕車 <placename corresp=\"#place_高岡\"> 高岡 </placename> ニ帰リテ、更ニ <persname corresp=\"#pers_正村五平\">\n<surname> 正村 </surname>\n<forename> 五平 </forename>\n</persname> ノ開宴ニ赴ク、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1886-06-14T02:00+0900\"> 二時 </time>\n<persname corresp=\"#pers_正村\">\n<surname> 正村 </surname>\n</persname> ヲ辞シ、 <persname corresp=\"#pers_原田\">\n<surname> 原田 </surname>\n</persname> 、 <persname corresp=\"#pers_山本\">\n<surname> 山本 </surname>\n</persname> 、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 諸氏ト某楼ニ投宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

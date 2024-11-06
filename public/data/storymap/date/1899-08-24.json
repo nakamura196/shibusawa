@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-08-24",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前 <persname corresp=\"#pers_成瀬仁蔵\">\n<surname> 成瀬 </surname>\n<forename> 仁蔵 </forename>\n</persname> 来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<placename corresp=\"#place_大磯町\"> 大磯 </placename> 発ノ汽車ニテ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_東京\"> 東京 </placename> 着、直ニ <placename corresp=\"#place_深川\"> 深川 </placename>\n<persname corresp=\"#pers_岩崎\">\n<surname> 岩崎 </surname>\n</persname> 氏別邸ニ抵リ九州鉄道ニ関スル株主ノ会合ニ列ス、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯、 <persname corresp=\"#pers_岩崎弥之助\">\n<surname> 岩崎 </surname>\n<forename> 弥之助 </forename>\n</persname> 及 <persname corresp=\"#pers_岩崎久弥\">\n<forename> 久弥 </forename>\n</persname> 、 <persname corresp=\"#pers_阿部泰蔵\">\n<surname> 阿部 </surname>\n<forename> 泰蔵 </forename>\n</persname> 、 <persname corresp=\"#pers_中上川彦次郎\">\n<surname> 中上川 </surname>\n<forename> 彦次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 、 <persname corresp=\"#pers_毛利五郎\">\n<surname> 毛利 </surname>\n<forename> 五郎 </forename>\n</persname> 、 <persname corresp=\"#pers_今村清之助\">\n<surname> 今村 </surname>\n<forename> 清之助 </forename>\n</persname> 、 <persname corresp=\"#pers_志立鉄次郎\">\n<surname> 志立 </surname>\n<forename> 鉄次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_山崎\">\n<surname> 山崎 </surname>\n</persname> 某、 <persname corresp=\"#pers_豊川良平\">\n<surname> 豊川 </surname>\n<forename> 良平 </forename>\n</persname> 等数氏来会ス、夜食後現重役ノ身上ニ関シ及反対者ニ応スル所置ニ関シ種々協議セシモ <persname corresp=\"#pers_中上川\">\n<surname> 中上川 </surname>\n</persname> 、 <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 等ニ充分ノ同意ナキヲ以テ、其要領ヲ得ルニ至ラスシテ散会ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

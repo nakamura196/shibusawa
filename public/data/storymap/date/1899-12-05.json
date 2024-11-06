@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-12-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、朝、 <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n<placename corresp=\"#place_京城府\"> 京城 </placename>\n<persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 公使、 <persname corresp=\"#pers_佐々木清麿\">\n<surname> 佐々木 </surname>\n<forename> 清麿 </forename>\n</persname> 、 <placename corresp=\"#place_仁川\"> 仁川 </placename>\n<persname corresp=\"#pers_西脇\">\n<surname> 西脇 </surname>\n</persname> 、 <persname corresp=\"#pers_足立\">\n<surname> 足立 </surname>\n</persname> 等ヘ書状ヲ発ス、午前大蔵省ニ抵リテ <persname corresp=\"#pers_目賀田\">\n<surname> 目賀田 </surname>\n</persname> 氏ヲ訪フ、逢ハス、逓信省ニ於テ大臣ト <persname corresp=\"#pers_山縣有朋\">\n<surname> 山県 </surname>\n</persname> 氏ニ面会ス、午後日本鉄道会社ニ抵リ <persname corresp=\"#pers_曾我\">\n<surname> 曾我 </surname>\n</persname> 氏ニ面会シテ貯蓄銀行ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n       銀行集会所ニ於テ開ク処ノ手形交換所会ニ列ス、畢テ偕楽園ニ開キタル博覧会出品組合委員会ニ列ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

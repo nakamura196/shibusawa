@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-02-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 例刻会所出勤、御案類取調、御普請向 <persname corresp=\"#pers_坂本柳左衛門\">\n<surname> 坂本 </surname>\n<forename> 柳左衛門 </forename>\n</persname> へ申談大工へ申付る、畳屋へ表替申付る、 <persname corresp=\"#pers_重五郎\">\n<forename> 重五郎 </forename>\n</persname> 宿所之儀 <persname corresp=\"#pers_四郎\">\n<forename> 四郎 </forename>\n</persname> へ申立る、会所内へ引移 <pb corresp=\"#pageB1038\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/64/full/max/0/default.jpg\" n=\"B1038\" source=\"#pageB1038\"></pb> 之積申付る、御触案 <persname corresp=\"#pers_大久保一翁\">\n<forename> 一翁 </forename>\n</persname> 殿へ差出す、見込申上之書類御入用仕上書とも御下御催促申上る、 <persname corresp=\"#pers_大塚市左衛門\">\n<surname> 大塚 </surname>\n<forename> 市左衛門 </forename>\n</persname> 儀和泉殿へ申立る <lb></lb> 夜、紙幣差引御利益調いたす "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

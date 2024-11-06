@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-09-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 氏来リ一行ヲ誘引シテ先ツ <placename corresp=\"#place_ボワ_テ_ブロンキユ\"> ボワ・テ・ブロンキユ </placename>\n       ニ抵リ夫ヨリ動植園《（物脱）》ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_シヤンゼリゼー\"> シヤンゼリゼー </placename> ノ一茶店ニ於テ午飧ス、此日 <persname corresp=\"#pers_シーボルト\">\n<surname> シーホルト </surname>\n</persname> 氏モ同行ス、午飧ハ巴里風ノ尤モ高尚ナル調理ナリキ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> ホテル・デビルノ建築ヲ一覧シ、更ニ\n        <placename corresp=\"#place_ノートルダム\"> ノートルダム </placename>\n<placename corresp=\"#place_パンテオン\"> パンテオン </placename>\n       等一覧ノ筈ナリシモ、土曜日ナルヲ以テ之ヲ止メ、一ノ古博物覧《（館）》ニ抵リ庭中ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 帰宿、再ヒ理装シテ\n        <persname corresp=\"#pers_林忠正\">\n<surname> 林 </surname>\n<forename> 忠正 </forename>\n</persname> 氏ヲ其家ニ訪ヒ、一行共ニ日本料理ノ夜飧ヲ饗セラル、種々ノ注意ニテ其味頗ル美ナリ、宴終テ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n       帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

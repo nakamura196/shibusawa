@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-01-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、静坐シテ、半身浴ヲ為ス、畢テ朝飧ヲ食ス、食後、 <persname corresp=\"#pers_水上\">\n<surname> 水上 </surname>\n</persname> 、 <persname corresp=\"#pers_渡部\">\n<surname> 渡部 </surname>\n</persname> 二氏来リ、 <placename corresp=\"#place_日本\"> 日本 </placename>\n       酒醸造会社新設ノ事ニ関シ種々爾後ノ景況ヲ陳述シ引受株ノ事ヲ請求セラル、依テ不日其額ヲ定メテ回答スヘキ事ヲ約ス、 <persname corresp=\"#pers_横山一平\">\n<surname> 横山 </surname>\n<forename> 一平 </forename>\n</persname> 氏来リ漁業ニ関スル談話アリ、 <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 氏来リ <orgname> 第一銀行 </orgname> 決算ニ付賞与金分配方、及有終会基金ノ事又ハ <persname corresp=\"#pers_古河\">\n<surname> 古河 </surname>\n</persname> 家ニ関スル事等ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 事務所ニ抵リ、 <persname corresp=\"#pers_竹内\">\n<surname> 竹内 </surname>\n</persname> 、 <persname corresp=\"#pers_松下\">\n<surname> 松下 </surname>\n</persname> 、 <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 、 <persname corresp=\"#pers_脇田\">\n<surname> 脇田 </surname>\n</persname> 及 <persname corresp=\"#pers_磯部\">\n<surname> 磯部 </surname>\n</persname> 氏等来リテ栄銀行ニ関スル談話アリ、畢テ <orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、後、 <persname corresp=\"#pers_門野重九郎\">\n<surname> 門野 </surname>\n<forename> 重九郎 </forename>\n</persname> 、 <persname corresp=\"#pers_白岩竜平\">\n<surname> 白岩 </surname>\n<forename> 竜平 </forename>\n</persname> 二氏ノ来訪ニ面話ス、 <persname corresp=\"#pers_門野\">\n<surname> 門野 </surname>\n</persname> 氏ハ近々 <placename corresp=\"#place_支那\"> 支那 </placename> 行ノ事アルヲ以テナリ、 <persname corresp=\"#pers_松井吉太郎\">\n<surname> 松井 </surname>\n<forename> 吉太郎 </forename>\n</persname> 氏ニ面話ス、午飧中 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏等ト行務ヲ談ス、 <orgname> 朝鮮銀行 </orgname>\n<persname corresp=\"#pers_三島太郎\">\n<surname> 三島 </surname>\n<forename> 太郎 </forename>\n</persname> 氏ト談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 事務所ニ抵リ庶務ヲ処理ス、 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<placename corresp=\"#place_春樹街\"> 春樹街 </placename> ニ一友人ヲ訪ヒ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time>\n       帰宿ス、夜、 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 、 <persname corresp=\"#pers_大川\">\n<surname> 大川 </surname>\n</persname> 夫人等来ル、夜食後新聞紙ヲ一覧シ日記ヲ編成ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

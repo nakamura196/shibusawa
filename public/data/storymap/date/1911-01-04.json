@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-01-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 午前八時半 </time>\n       起床、腰湯ヲ為シテ後、褥中ニテ朝飧ヲ食ス、蓋シ腹部ノ病未タ愈ヘサルニヨル、朝飧後書状ヲ裁ス、又、書類ヲ整理ス、公爵伝記ノ初稿ヲ読ミテ修正ヲ要スル処ニハ意見ヲ記入ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 午飧シ、後、 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス、又、種々ノ年賀客アリテ褥中ニ接見ス、 <persname corresp=\"#pers_穂積歌子\">\n<surname> 穂積 </surname>\n<forename> 歌子 </forename>\n</persname> 来リ <persname corresp=\"#pers_穂積律之助\">\n<forename> 律之助 </forename>\n</persname> 縁談ノ事ヲ内話ス、夜飧後モ新聞紙雑誌等ノ閲覧ニ勉ム、但シ下痢ハ尚未タ平愈セス、夜ニ入テ数行アリ、就寝後モ二三行ヲ常トスルヲ以テ頗ル困難ヲ覚フ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

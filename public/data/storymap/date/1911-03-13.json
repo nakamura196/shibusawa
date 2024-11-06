@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-03-13",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ、朝飧ヲ食ス、後、 <persname corresp=\"#pers_里見\">\n<surname> 里見 </surname>\n</persname> 某ノ来訪ニ接ス、養育院幹事ニ電話ヲ通シテ今日巡回ノ事ヲ見合ハセ、明 <date evidence=\"year inferenced, month\" when=\"1911-03-14\"> 十四日 </date> ニ繰替ヘ度ト申遣ハス、 <persname corresp=\"#pers_里見常次郎\">\n<surname> 里見 </surname>\n<forename> 常次郎 </forename>\n</persname> 氏来リ孔釈道話会ノ事ヲ話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 事務所ニ抵リ、 <persname corresp=\"#pers_中村\">\n<surname> 中村 </surname>\n</persname> 、 <persname corresp=\"#pers_山崎\">\n<surname> 山崎 </surname>\n</persname> 二氏ノ来訪ニ接シテセメント工場ノ事ヲ談ス後、要務ヲ処理シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<orgname> 第一銀行 </orgname> ニ於テ午飧ス、後、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ト行務ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<persname corresp=\"#pers_ヘンリー\"> ヘンリー </persname> 、 <persname corresp=\"#pers_テイラー\">\n<surname> テーラー </surname>\n</persname> 二氏来訪、稷山金鉱ノ事ヲ談ス <persname corresp=\"#pers_森久保作蔵\">\n<surname> 森久保 </surname>\n<forename> 作蔵 </forename>\n</persname> 氏来リセメント工場ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time>\n<persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏 <placename corresp=\"#place_新堀\"> 新堀 </placename> 事務所ニ抵リテセメント粉害ニ関シテ <placename corresp=\"#place_深川\"> 深川 </placename> 区青年団員等ト談話ス、来訪 <pb corresp=\"#pageB1663\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/689/full/max/0/default.jpg\" n=\"B1663\" source=\"#pageB1663\"></pb> 者六名ニシテ、各頑強、其主旨ヲ主張シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散会ス\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-11-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 朝より逆風〓行甚あしし、午後蒸気船の東より来るを見る、時々船の右に小島を見る、風故暑気ハ稍凌よきを覚ゆ、第 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 頃\n        <placename corresp=\"#place_アラビア\"> 亜剌比亜 </placename> 洲の地方を左に見る、一箇の市街白壁の海岸に映するを見る、 <placename corresp=\"#place_モツカア\"> モツカア </placename>\n       といふ市街なり、カツフヘイの名所なりといふ、市街もいと繁華なるへく見ゆ、追々風穏かに〓行随意なり、時々両沿の島嶼を見る <lb></lb> 夜に入ては清風涼しく、甲板上の夕涼尤清絶なり "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 19.49139,
+                    "lon": 47.449028,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-12-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 暁 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 六時 </time> 前より出帆、天気よく風強からされば〓行随意なり、濤路島嶼多 <pb corresp=\"#pageB1016\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/42/full/max/0/default.jpg\" n=\"B1016\" source=\"#pageB1016\"></pb> く、時々漁人の釣し、又は網するを見る、風波少なけれハ漁船多く頗風景よし、終日 <placename corresp=\"#place_広東省\"> 広東 </placename> の地方に添ふて〓行す、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 23.4,
+                    "lon": 113.5,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n       頃より器械破せしとて〓行をとゝむ、夜に入ては月明微風、尤良夜を覚ゆ <lb></lb> 夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n       頃《（衍文）》より器械破損せしとて〓行をとゞむ、頻りに修繕に取掛り、終夜洋中に碇舶せり "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

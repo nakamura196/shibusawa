@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-01-31",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後朝飧ヲ為ス、風邪全愈セサルヲ以テ褥中ニ在テ書類ヲ検閲シ、且諸方ヘ書状ヲ認ム、事務所員 <persname corresp=\"#pers_橋本明六\">\n<surname> 橋本 </surname>\n<forename> 明六 </forename>\n</persname> ニ命シテ之ヲ発送セシム、 <persname corresp=\"#pers_曾我祐準\">\n<surname> 曾我 </surname>\n<forename> 祐準 </forename>\n</persname> 氏来話ス、 <persname corresp=\"#pers_皆川四郎\">\n<surname> 皆川 </surname>\n<forename> 四郎 </forename>\n</persname> 、 <persname corresp=\"#pers_岡本善七\">\n<surname> 岡本 </surname>\n<forename> 善七 </forename>\n</persname> 二氏来リ自働車株式会社ノ事ヲ談ス、 <persname corresp=\"#pers_萩原源太郎\">\n<surname> 萩原 </surname>\n<forename> 源太郎 </forename>\n</persname> 来話ス、午後 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師来診ス <lb></lb> 終日褥中ニテ来人ニ接シ且書類ヲ整理ス <lb></lb> あさひさす御はたのひかりとつ国にてりわたるまてみかけあきひと <lb></lb>\n       商人のうりてひろめて四つの海のはてもとなりと思ふけふかな <lb></lb> 僑居好在半江湾。偸得春晴一日閑。笑我経綸談罷後。机辺書債積如山。 "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

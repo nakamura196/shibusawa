@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-12-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 昌栄館ヲ発シ、三重紡績工場ヲ一覧シ、畢テ <orgname> 第一銀行 </orgname>\n       支店ニ抵リ行員ヲ会シテ一場ノ演説ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:50:00",
+                    "text": "<time when=\"10:50:00\"> 午前十時五十分 </time>\n<placename corresp=\"#place_四日市\"> 四日市 </placename> 発ノ汽車ニテ <placename corresp=\"#place_名古屋\"> 名古屋\n       </placename> ニ抵ル、 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 、 <persname corresp=\"#pers_斎藤\">\n<surname> 斎藤 </surname>\n</persname> 、 <persname corresp=\"#pers_真野\">\n<surname> 真野 </surname>\n</persname> 諸氏随行ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_名古屋\"> 名古屋 </placename>\n       着、停車場ニハ同地商業会議所員及経済会員等十数名来リ迎フ、直ニ名古屋ホテルニ抵リテ午餐ノ饗宴アリ、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n       商業会議所ニ於テ一場ノ演説ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<orgname> 丸文楼 </orgname> ニ投宿ス、此夜、 <persname corresp=\"#pers_湯浅\">\n<surname> 湯浅 </surname>\n</persname> 、 <persname corresp=\"#pers_西条\">\n<surname> 西条 </surname>\n</persname> 諸氏ノ招宴ニ応シテ <orgname> 河文楼 </orgname> ニ抵ル、賓主興ヲ尽シテ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n       帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

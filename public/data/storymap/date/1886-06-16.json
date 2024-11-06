@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1886-06-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、昧爽 <placename corresp=\"#place_糸魚川市\"> 糸魚川 </placename> ヲ発シ、 <placename corresp=\"#place_直江津市\"> 直江津 </placename> ニ於テ午餐ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 37.03903,
+                    "lon": 137.86267,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n<placename corresp=\"#place_柏崎\"> 柏崎 </placename> ニ抵リ、天屋京兵衛ニ投宿ス、此夜 <placename corresp=\"#place_柏崎\"> 柏崎 </placename> 広信社員来リテ一宴ヲ開テ余ヲ饗スル事ヲ乞フ、依テ其宴ニ赴ク、高田銀行支店役員来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1886-06-17T00:00+0900\"> 十二時 </time> 帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

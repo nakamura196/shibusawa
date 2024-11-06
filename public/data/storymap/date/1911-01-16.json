@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-01-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 昨夜又腹瀉セシニヨリ、朝来、半身浴ヲ為シ褥中ニ於テ摂養ス、今日ハ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 十時半 </time> ニ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯訪問ノ約アリシモ果スヲ得ス、依テ <persname corresp=\"#pers_平岡熙\">\n<surname> 平岡 </surname>\n<forename> 熙 </forename>\n</persname> 氏ニ電話シテ同人ヲシテ代理セシム、又、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n       劇場会社ノ重役会アリシカ同シク之ヲ断ル、夕方二松学舎ノ事ニ関シ <persname corresp=\"#pers_小松原\">\n<surname> 小松原 </surname>\n</persname> 文相ヨリ会同ノ筈ナリシモ電話ヲ以テ之ヲ謝ス、終日臥床中ニ在テ伝記ヲ読ム、午後 <placename corresp=\"#place_八基村\"> 八基村\n       </placename> 総代六名来リテ、昨年水害ノ際学校及病院ノ為寄附金セシヲ謝スル旨申来ル、 <persname corresp=\"#pers_渋沢市郎\">\n<surname> 渋沢 </surname>\n<forename> 市郎 </forename>\n</persname> モ同伴ス、夜、遊戯ニ消閑ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 36.23331,
+                    "lon": 139.26167,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

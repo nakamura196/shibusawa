@@ -1,0 +1,100 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-06-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、先ツ園内ヲ散歩シ、後、入浴ス、畢テ朝飧ヲ食シ、 <persname corresp=\"#pers_皆川\">\n<surname> 皆川 </surname>\n</persname> 氏ト電話ノ談ヲ為ス、来書、新聞紙等ヲ撿閲ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ書類ヲ整理シ事務ヲ処理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\">\n        午前十一時 </time>\n<persname corresp=\"#pers_中野武営\">\n<surname> 中野 </surname>\n<forename> 武営 </forename>\n</persname> 氏、関、 <persname corresp=\"#pers_佐野\">\n<surname> 佐野 </surname>\n</persname> 、 <persname corresp=\"#pers_滝本\">\n<surname> 滝本 </surname>\n</persname> ノ三教授等ト <orgname> 高等商業学校 </orgname> ノ事ヲ談シ、午飧ヲ共ニス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ、日清起業調査会ニ出席ス、 <persname corresp=\"#pers_石井\">\n<surname> 石井 </surname>\n</persname> 外務次官、 <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_近藤\">\n<surname> 近藤 </surname>\n</persname> 諸氏来会ス、 <persname corresp=\"#pers_仙石貢\">\n<surname> 仙石 </surname>\n<forename> 貢 </forename>\n</persname> 氏来リ、コールブラン氏ニ照会中ノ電鉄事業ニ関シ意見ヲ示サル、 <persname corresp=\"#pers_深井英吾\">\n<surname> 深井 </surname>\n<forename> 英吾 </forename>\n</persname> 氏来《（ <persname corresp=\"#pers_深井英五\">\n<surname> 深井 </surname>\n<forename> 英五 </forename>\n</persname> 氏）》リ、 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> フエーヤバンク氏招宴ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、来人ニ接シ事務ヲ処理ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\">\n        六時 </time>\n<placename corresp=\"#place_本所\"> 本所 </placename>\n<placename corresp=\"#place_横網\"> 横網 </placename> ナル <persname corresp=\"#pers_安田\">\n<surname> 安田 </surname>\n</persname> 氏邸ニ抵リ其招宴ニ応ス、種々ノ饗応且余興数番アリ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6969639,
+                    "lon": 139.794972,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 散会帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

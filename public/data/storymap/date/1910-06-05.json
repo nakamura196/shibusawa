@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-06-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シ、畢テ朝飧ヲ食シ、日記ヲ編成ス、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏来話ス、 <placename corresp=\"#place_桐生\"> 桐生 </placename> 、 <placename corresp=\"#place_足利\"> 足利 </placename> 、 <placename corresp=\"#place_館林\"> 館林 </placename>\n       地方ノ人々昨日余ノ帰京ヲ送リシ諸氏来訪ス、庭園ヲ散歩シテ後、午飧ヲ饗ス、又、 <persname corresp=\"#pers_成瀬仁蔵\">\n<surname> 成瀬 </surname>\n<forename> 仁蔵 </forename>\n</persname> 、 <persname corresp=\"#pers_川田鉄弥\">\n<surname> 川田 </surname>\n<forename> 鉄弥 </forename>\n</persname> ノ諸氏来話ス、 <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> 、 <persname corresp=\"#pers_松井吉太郎\">\n<surname> 松井 </surname>\n<forename> 吉太郎 </forename>\n</persname> 二氏来ル、要務ヲ談ス <lb></lb>\n<persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> 来リ過日葬儀ノ跡始末ニ付種々ノ談アリ、 <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 氏来話ス、 <placename corresp=\"#place_大垣市\"> 大垣 </placename>\n       水力電気ヲ以テ紡績工場創設ノ談アリ、夜、新聞紙雑誌等ヲ読ム "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.35994,
+                    "lon": 136.61269,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

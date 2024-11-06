@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-01-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、例ニヨリテ直ニ入浴シ浴後朝飧ヲ喫シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:25:00",
+                    "text": "<time when=\"08:25:00\"> 八時二十五分 </time>\n<placename corresp=\"#place_国府津\"> 国府津 </placename> 発ノ汽車ニテ <persname corresp=\"#pers_渋沢秀雄\">\n<forename> 秀雄 </forename>\n</persname> ノ帰京スルヲ送リテ停車場ニ抵リ、夫ヨリ鉄道線路ニ沿フテ <placename corresp=\"#place_前川村\"> 前川村 </placename>\n       ニ抵リ、帰路 <persname corresp=\"#pers_三好退蔵\">\n<surname> 三好 </surname>\n<forename> 退蔵 </forename>\n</persname> 氏ノ僑居ヲ訪問ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.280139,
+                    "lon": 139.2116278,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 帰寓後満洲要覧又ハ新聞紙ヲ一覧ス、午飧後揮毫ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 五時 </time> 頃歇ム <lb></lb>\n<pb corresp=\"#pageB1398\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/424/full/max/0/default.jpg\" n=\"B1398\" source=\"#pageB1398\"></pb> 夜飧後ハ遊戯ニ閑ヲ消ス <lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 横浜支店主任 <persname corresp=\"#pers_石井健吾\">\n<surname> 石井 </surname>\n<forename> 健吾 </forename>\n</persname> 氏来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

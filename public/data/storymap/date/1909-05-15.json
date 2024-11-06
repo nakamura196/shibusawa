@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-05-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time> 起床、朝飧ヲ食シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 七時 </time>\n       旅宿ヲ発シ、馬車ニテ誕生寺ニ抵リ別院ニ於テ住職 <persname corresp=\"#pers_金塚日梵\">\n<surname> 金塚 </surname>\n<forename> 日梵 </forename>\n</persname> 上人ニ面会シ、祖師ノ経歴ニ関シテ種々ノ談話アリ、後、寺内ノ宝物ヲ一覧ス、 <persname corresp=\"#pers_加藤清正\">\n<surname> 加藤 </surname>\n<forename> 清正 </forename>\n</persname> ノ詩歌、祖師ノ書翰等アリ、畢テ有栖川宮建立ノ釈伽堂《（迦）》ヲ拝シ、更ニ本堂ニ抵リテ拝礼ス、後船ニテ鯛ノ浦ニ抵ルモ、天候ノ為ナルヤ魚ハ見ヘサリキ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\"> 十時半 </time> 馬車ニテ <placename corresp=\"#place_小湊\"> 小湊 </placename> ヲ発シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<placename corresp=\"#place_鴨川\"> 鴨川 </placename> ニ抵リテ午飧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<placename corresp=\"#place_鴨川\"> 鴨川 </placename> ヲ発シ、途中 <placename corresp=\"#place_仁右衛門島\">\n        仁右衛門島 </placename> ニ抵ル、 <placename corresp=\"#place_仁右衛門島\"> 仁右衛門島 </placename> ハ <persname corresp=\"#pers_源頼朝\">\n<forename> 頼朝 </forename>\n</persname> 石橋山ノ戦敗レテ <placename corresp=\"#place_房州\"> 房州 </placename>\n       ニ遁レタル時ノ故事アリト云フモ、俗説信シ難キニ似タリ、砲台アリ、百年以内ノモノナラン、一覧畢テ途中 <placename corresp=\"#place_北条\"> 北条\n       </placename> ヨリ迎ノ為メニ来レル人々ニ会シ、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.07667,
+                    "lon": 140.10444,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time>\n<placename corresp=\"#place_北条\"> 北条 </placename> 着、吉野庵ニ投宿ス、夜、煙火ヲ打揚ケテ余等ノ来着ヲ祝ス、地方人士数名来リ迎フ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

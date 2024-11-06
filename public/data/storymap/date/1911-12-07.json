@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-12-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 夜、 <persname corresp=\"#pers_林桂\">\n<surname> 林 </surname>\n<forename> 桂 </forename>\n</persname> 氏 <placename corresp=\"#place_ドイツ\"> 独乙 </placename> 行ヲ送ル為 <placename corresp=\"#place_飛鳥山邸\"> 王子宅 </placename> ニ小宴ヲ開ク、 <persname corresp=\"#pers_阪谷芳郎\">\n<surname> 阪谷 </surname>\n<forename> 芳郎 </forename>\n</persname> 、 <persname corresp=\"#pers_中野武営\">\n<surname> 中野 </surname>\n<forename> 武営 </forename>\n</persname>\n<persname corresp=\"#pers_成瀬\">\n<surname> 成瀬 </surname>\n</persname> 、 <persname corresp=\"#pers_堤\">\n<surname> 堤 </surname>\n</persname> 《（ <persname corresp=\"#pers_塘\">\n<surname> 塘 </surname>\n</persname> ）》、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> ノ諸氏来会ス、夜食中落語ノ余興アリ、送別ノ詩ヲ賦ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

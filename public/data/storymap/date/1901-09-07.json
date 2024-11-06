@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-09-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:25:00",
+                    "text": "<time when=\"07:25:00\"> 午前七時二十五分 </time> ノ汽車ニテ <placename corresp=\"#place_横須賀\"> 横須賀\n       </placename> ニ抵リ <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 長官ニ面会シテ両船渠会社合併ニ関スル爾来ノ状況ヲ話説シ、且石川島ニ関スル意見ヲ縷陳ス、艦政部長モ同席ニ参ラレ種々頼願ノ事ヲ述ヘ両氏トモニ領意ノ回答アリタリ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<placename corresp=\"#place_浦賀\"> 浦賀 </placename>\n       ニ赴キ新造船ノ大体ヲ視察シ、畢テ各課長ヲ集メテ爾来両会社合併ニ関スル顚末ヲ詳話シ、且当方ノ決意ヲ示ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.2475,
+                    "lon": 139.713972,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 過同所ヲ発シ\n        <placename corresp=\"#place_横須賀\"> 横須賀 </placename>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:15:00",
+                    "text": "<time when=\"16:15:00\"> 四時十五分 </time> 発ノ汽車ニテ帰京ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:00:00",
+                    "text": "<time when=\"20:00:00\"> 八時 </time> 過\n        <placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ着ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-02-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢リ曾テ諸方ヨリ依頼セラレタル題字又ハ額面ノ類ヲ揮毫ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 日本鉄道会社重役会ニ出席ス、畢テ <placename corresp=\"#place_日本橋兜町\"> 兜町\n       </placename> 事務所ニ抵ル、 <persname corresp=\"#pers_渡邊嘉一\">\n<surname> 渡辺 </surname>\n<forename> 嘉一 </forename>\n</persname> 、 <persname corresp=\"#pers_南清\">\n<surname> 南 </surname>\n<forename> 清 </forename>\n</persname> 両氏来リ鉄道抵当法律ニ関スル事ヲ談ス、 <persname corresp=\"#pers_南貞助\">\n<surname> 南 </surname>\n<forename> 貞助 </forename>\n</persname> 氏来話ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_新橋\"> 新橋 </placename> 発ノ汽車ニテ <placename corresp=\"#place_横浜\"> 横浜\n       </placename> ニ抵ル、 <orgname> 正金銀行 </orgname> ヨリ招宴セラルヽヲ以テナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 六時半 </time>\n       同地着、 <persname corresp=\"#pers_高田慎蔵\">\n<surname> 高田 </surname>\n<forename> 慎蔵 </forename>\n</persname> 、 <persname corresp=\"#pers_高島小金次\">\n<surname> 高島 </surname>\n<forename> 小金次 </forename>\n</persname> 同伴ス、 <placename corresp=\"#place_野毛山公園\"> 野毛山 </placename> ニアル正金 <orgname> 銀行倶楽部\n       </orgname> ニ於テ晩餐ノ饗宴アリ、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯、外国商人数人来会ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.44583,
+                    "lon": 139.62361,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_飛鳥山邸\"> 王子別荘 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

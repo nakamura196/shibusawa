@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1907-09-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床直ニ <placename corresp=\"#place_高崎\"> 高崎 </placename> ヨリ来訪セラレシ <persname corresp=\"#pers_小板橋\">\n<surname> 小板橋 </surname>\n</persname> 氏ニ面会シテ、今日同地出張ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 六時 </time> 朝飧ヲ畢リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:07:00",
+                    "text": "<time when=\"07:07:00\"> 七時七分 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> 発ノ汽車ニテ <placename corresp=\"#place_高崎市\"> 高崎市\n       </placename> ニ抵ル <persname corresp=\"#pers_小島弥平\">\n<surname> 小島 </surname>\n<forename> 弥平 </forename>\n</persname> 、 <persname corresp=\"#pers_小板橋彦次郎\">\n<surname> 小板橋 </surname>\n<forename> 彦次郎 </forename>\n</persname> 迎ノ為来京同車ス、中野商業会議所会頭、 <persname corresp=\"#pers_小野金六\">\n<surname> 小野 </surname>\n<forename> 金六 </forename>\n</persname> 氏等同行ス、此日天気朗晴田園稍秋色ヲ催シ汽車中ノ眺望佳良ナリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 36.32311,
+                    "lon": 139.00236,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:50:00",
+                    "text": "<time when=\"09:50:00\"> 九時五十分 </time>\n<placename corresp=\"#place_高崎\"> 高崎 </placename> ニ着ス、同地人士数十名来リテ停車場ニ迎フ一茶店ニテ小憩シ、後、 <persname corresp=\"#pers_小島\">\n<surname> 小島 </surname>\n</persname> 氏宅ニ誘引セラル、宅ハ <placename corresp=\"#place_烏川\"> 烏川 </placename>\n       ノ東涯ニアリテ四望山色水様佳絶ナリ、午飧後高盛座ニ於テ一場ノ演説ヲ為ス（国家ノ富強ハ地方経済ノ発達ニアリト題ニ由ル）、畢テ岡源ト云フ料理店ニ抵リテ饗宴アリ、夜ハ市人ヨリ懇親会ヲ開クノ懇望アリシモ、腹部ノ工合完全ナラサルヲ以テ、辞シテ\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 発ノ汽車ニテ帰京ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ着ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

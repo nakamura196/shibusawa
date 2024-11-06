@@ -1,0 +1,93 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-05-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、後、朝飧ヲ食ス、 <persname corresp=\"#pers_猪飼\">\n<surname> 猪飼 </surname>\n</persname> 氏ト往事ヲ談話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時半 </time> 日清汽船会社ニ抵リ、重役会ニ出席シ要件ヲ議決ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リ、日清起業調査会ニ出席シ、 <persname corresp=\"#pers_近藤\">\n<surname> 近藤 </surname>\n</persname> 、 <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 、 <persname corresp=\"#pers_白岩\">\n<surname> 白岩 </surname>\n</persname> 、 <placename corresp=\"#place_成田\"> 成田 </placename> ノ諸氏ト共ニ <persname corresp=\"#pers_小田切\">\n<surname> 小田切 </surname>\n</persname> 氏ヨリ <placename corresp=\"#place_北京市\"> 北京 </placename> 滞在中 <persname corresp=\"#pers_伊集院\">\n<surname> 伊集院 </surname>\n</persname> 公使トノ協議顚末ヲ聞ク、英独人ノ <placename corresp=\"#place_清\"> 清国 </placename>\n       鉄道事業ニ関スル経営ヲ詳説セラル、更ニ <placename corresp=\"#place_清\"> 清国 </placename> 政務ノ近状ヲ話ス、畢テ <persname corresp=\"#pers_大倉\">\n<surname> 大倉 </surname>\n</persname> 氏ト共ニホテル支配人ニ要務ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 39.90556,
+                    "lon": 116.39139,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ事務ヲ処理シ、又、諸方ヘ書状ヲ発ス、 <persname corresp=\"#pers_植村\">\n<surname> 植村 </surname>\n</persname> 、 <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 二氏来リ、 <orgname> 人造肥料会社 </orgname> 合同ノ事ヲ談ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> ニ抵リ夜飧シ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス <lb></lb>\n<persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 氏来リ、養育院 <placename corresp=\"#place_安房国\"> 安房 </placename> 分院ノ事ヲ談ス、 <persname corresp=\"#pers_皆川四郎\">\n<surname> 皆川 </surname>\n<forename> 四郎 </forename>\n</persname> 、 <persname corresp=\"#pers_松村辰次郎\">\n<surname> 松村 </surname>\n<forename> 辰次郎 </forename>\n</persname> 二氏来話ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.9935306,
+                    "lon": 139.88955,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

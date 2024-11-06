@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-04-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ新聞紙ヲ一覧ス、種々ノ来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時\n       </time> 過朝飧ヲ食ス、渡米実業団誌ヲ一覧シテ、 <persname corresp=\"#pers_増田明六\">\n<surname> 増田 </surname>\n<forename> 明六 </forename>\n</persname> ニ要旨ヲ口授シテ編纂ニ注意セシム、又、 <placename corresp=\"#place_東京\"> 東京 </placename> ヨリノ電報ニ対シテ\n        <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏ニ一書ヲ裁シテ伝達セシメ、且口頭ニ於テモ之ヲ通告ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 旅亭ヲ出テ <placename corresp=\"#place_名古屋\"> 名古屋 </placename>\n       天守閣ニ抵ル、閣ハ旧城内ニ在リ、所謂金鯱魚ノ燦然タルモノナリ、五層楼アリテ其高サ三十間アリ、最下層ノ坪数千坪余ナリト云フ、楼上ノ瞻望尤モ佳絶ナリ、一覧畢テ更ニ宮殿ヲ一覧ス、各室ノ絵画総テ\n        <persname corresp=\"#pers_狩野\">\n<surname> 狩野 </surname>\n</persname> 、 <persname corresp=\"#pers_土佐\">\n<surname> 土佐 </surname>\n</persname> ノ名筆ナリキ、畢テ旅宿ニ帰リ、午飧後旅亭ヲ発シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:40:00",
+                    "text": "<time when=\"13:40:00\"> 一時四十分 </time> 発ノ汽車ニテ <placename corresp=\"#place_美濃\"> 美濃 </placename>\n<placename corresp=\"#place_中津町\"> 中津町 </placename> ニ赴ク、多数ノ人士来リテ行ヲ送 <pb corresp=\"#pageB1615\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/641/full/max/0/default.jpg\" n=\"B1615\" source=\"#pageB1615\"></pb> ル、 <placename corresp=\"#place_名古屋\"> 名古屋 </placename> 駅ヨリ\n        <placename corresp=\"#place_中津\"> 中津 </placename> マテハ初度ノ経過ナルニヨリ、汽車中ノ眺望興味アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_中津\"> 中津 </placename>\n       ニ抵ル、多数ノ地方人来リ迎フ、近又楼ニ投宿ス、夜、中央製紙会社ノ主催ニ係ル宴会アリ、地方有力ノ人士三十人余来会ス、席上一場ノ演説ヲ為ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1910-04-13T00:00+0900\"> 十二時 </time> 寝ニ就ク "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

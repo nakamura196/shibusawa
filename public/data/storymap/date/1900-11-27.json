@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-11-27",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<placename corresp=\"#place_木浦\"> 木浦 </placename> 着、直ニ出張所員及地方有志総代数名本船ニ来リ迎フ、税関ノ小船ニテ上陸ス、埠頭ニハ\n        <persname corresp=\"#pers_森川\">\n<surname> 森川 </surname>\n</persname> 領事始商業会議所員等数十 <pb corresp=\"#pageB1168\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/194/full/max/0/default.jpg\" n=\"B1168\" source=\"#pageB1168\"></pb> 人来リ迎フ、共ニ銀行出張所前ニ抵リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n       ヲ期シ領事官舎ニ於テ開宴ノ事ヲ約シテ去ル、 <persname corresp=\"#pers_西川\">\n<surname> 西川 </surname>\n</persname> 氏ノ案内ニテ出張所ニ抵リ小憩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time> 領事官舎ニ於テ歓迎会ノ招宴アリ、出席者二十名許、\n        <persname corresp=\"#pers_森川\">\n<surname> 森川 </surname>\n</persname> 領事ヨリ開宴ノ趣旨ヲ述ヘラレ、且余ノ演説ヲ乞フ、依テ在外商業者ノ態度ト云フ趣旨ヲ以テ演説ヲ為シ且歓迎ノ厚意ヲ謝ス、宴畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 本船ニ帰ル、直ニ出帆ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n       頃鎮洞ノ瀬戸ヲ通過ス、船長余等ヲ船橋上ニ誘引シテ其操縦ノ実況ヲ示ス、極テ巧妙ナリキ、夜半ヨリ風起リ船動揺ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

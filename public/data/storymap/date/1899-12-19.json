@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-12-19",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前海辺ヲ散歩シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:20:00",
+                    "text": "<time when=\"15:20:00\"> 午後三時二十分 </time>\n<placename corresp=\"#place_大磯町\"> 大磯 </placename> 発ノ汽車ニテ帰京ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_山谷\"> 山谷 </placename>\n<orgname> 八百善楼 </orgname> ニテ開キタル台湾鉄道会社ノ宴会ニ列ス、 <persname corresp=\"#pers_西郷\">\n<surname> 西郷 </surname>\n</persname> 侯爵、 <persname corresp=\"#pers_高島\">\n<surname> 高島 </surname>\n</persname> 子、 <persname corresp=\"#pers_清浦\">\n<surname> 清浦 </surname>\n</persname> 氏、 <persname corresp=\"#pers_岡部長職\">\n<surname> 岡部 </surname>\n<forename> 長職 </forename>\n</persname> 、 <persname corresp=\"#pers_堀田正養\">\n<surname> 堀田 </surname>\n<forename> 正養 </forename>\n</persname> 、 <persname corresp=\"#pers_小野\">\n<surname> 小野 </surname>\n</persname> 、 <persname corresp=\"#pers_河村\">\n<surname> 河村 </surname>\n</persname> 、松木ノ諸氏来会ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

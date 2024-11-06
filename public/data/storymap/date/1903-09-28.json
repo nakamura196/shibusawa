@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1903-09-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床書類ヲ整理ス、三重紡績会社ノ <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 氏、 <orgname> 第一銀行 </orgname> 支店 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏、大坂紡績ノ <persname corresp=\"#pers_山辺\">\n<surname> 山辺 </surname>\n</persname> 氏、 <persname corresp=\"#pers_大川\">\n<surname> 大川 </surname>\n</persname> 又ハ <persname corresp=\"#pers_熊谷\">\n<surname> 熊谷 </surname>\n</persname> 等ノ諸氏ニ大坂紡績会社ノ事ニ関シ書状ヲ発ス、其他 <persname corresp=\"#pers_早崎\">\n<surname> 早崎 </surname>\n</persname> 、 <persname corresp=\"#pers_浦田\">\n<surname> 浦田 </surname>\n</persname> ノ諸氏ヘモ発状ス、此日ハ銀行集会所ニ於テ倶楽部ノ晩飧会アリテ出席ノ約アリシモ電話ヲ以テ断リ遣ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

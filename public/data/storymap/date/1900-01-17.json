@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-01-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、朝、新潟支店 <persname corresp=\"#pers_松井吉太郎\">\n<surname> 松井 </surname>\n<forename> 吉太郎 </forename>\n</persname> 及 <persname corresp=\"#pers_浜政弘\">\n<surname> 浜 </surname>\n<forename> 政弘 </forename>\n</persname> 両氏ヘ北越鉄道会社ニ於テ本月ノ株主総会ニ <placename corresp=\"#place_沼垂\"> 沼垂 </placename>\n       線路変換ノ事、万代橋附近マテ延長ノ事及車輛増加ノ議案提出ニ関シ委細事情申遣ス <lb></lb>\n<persname corresp=\"#pers_梅浦精一\">\n<surname> 梅浦 </surname>\n<forename> 精一 </forename>\n</persname> 氏来ル、 <orgname> 広島水力電気会社 </orgname> ノ事及 <orgname> 石川島造船所 </orgname> 重役増員ノ事ヲ協議ス\n      "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

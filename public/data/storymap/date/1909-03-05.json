@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-03-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、発明協会雑誌記者ノ来訪ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:30:00",
+                    "text": "<time when=\"10:30:00\">\n        午前十時半 </time>\n<persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 統監ヲ <placename corresp=\"#place_霊南坂\"> 霊南阪《（坂）》 </placename> 官舎ニ訪ヒ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時 </time>\n<persname corresp=\"#pers_近藤廉平\">\n<surname> 近藤 </surname>\n<forename> 廉平 </forename>\n</persname> 氏ヲ <placename corresp=\"#place_市谷\"> 市ケ谷 </placename> ニ訪ヒ、午飧会ニ列席ス、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 同気倶楽部ニ抵リ <orgname> 石川島造船所 </orgname> 株主総会ニ出席ス、会議畢テ後、 <persname corresp=\"#pers_梅浦\">\n<surname> 梅浦 </surname>\n</persname> 、 <persname corresp=\"#pers_小野沢\">\n<surname> 小野沢 </surname>\n</persname> 、其他ノ人々ト将来ノ処務ニ関スル協議ヲ為ス、 <persname corresp=\"#pers_副島道正\">\n<surname> 副島 </surname>\n<forename> 道正 </forename>\n</persname> 氏来リ、日英水力会社ノ事ヲ談ス、各新聞記者来リ東鉄ニ関スル質問アリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> 常盤屋ニ抵リ、 <persname corresp=\"#pers_岩下清周\">\n<surname> 岩下 </surname>\n<forename> 清周 </forename>\n</persname> 氏ノ催ニ係ル <persname corresp=\"#pers_原敬\">\n<surname> 原 </surname>\n<forename> 敬 </forename>\n</persname> 氏帰国歓迎会ニ出席ス、帰途 <placename corresp=\"#place_本郷\"> 本郷 </placename> ニ知人ヲ訪ヒ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

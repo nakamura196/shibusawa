@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-12-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 一　散弾　　大小取交　　　三袋計 <lb></lb> 一　西洋墨　　　　　　　　壱壷 <lb></lb> 一　沓塗油　　　　　　　　壱壷 <lb></lb> 一　銀時計　　　　　　　　五ツ計 <lb></lb>\n       一　ヒストル　　　　　　　三挺程 <lb></lb> 一　シヤスポウ之弾　　　　四挺分 <lb></lb> 一　牛肉 <persname corresp=\"#pers_森川荘次郎\">\n<surname> 森川 </surname>\n<forename> 荘次郎 </forename>\n</persname> 分塩田へ引合之事 <lb></lb> 朝、 <persname corresp=\"#pers_小出涌之助\">\n<surname> 小出 </surname>\n<forename> 涌之助 </forename>\n</persname> 家来 <persname corresp=\"#pers_木村忠三\">\n<surname> 木村 </surname>\n<forename> 忠三 </forename>\n</persname> 罷出、諸荷物勘定書及金子等相渡、引続き <persname corresp=\"#pers_山高信離\">\n<surname> 山高 </surname>\n</persname> 石見来る、荷物金子勘定書等相渡 <lb></lb>\n<persname corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n<forename> 愛蔵 </forename>\n</persname> 来、博覧会残品同人立会取調、 <placename corresp=\"#place_浅草\"> 浅草 </placename>\n<placename corresp=\"#place_森田町\"> 森田丁 </placename> 瑞穂や <persname corresp=\"#pers_清水卯三郎\">\n<forename> 卯三郎 </forename>\n</persname> 方差立る、但荷数十箇、此車代金四両弐分相払 <lb></lb>\n<placename corresp=\"#place_横浜\"> 横浜 </placename> 行之儀ニ付 <persname corresp=\"#pers_井坂泉太郎\">\n<surname> 井坂 </surname>\n<forename> 泉太郎 </forename>\n</persname> より同行之者召連面会いたす、第 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.7118833,
+                    "lon": 139.7966806,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 頃、 <persname corresp=\"#pers_杉浦譲\">\n<forename> 愛蔵 </forename>\n</persname> 同行田安御殿に出 <lb></lb> 御印章之儀 <persname corresp=\"#pers_森田荘次郎\">\n<surname> 森田 </surname>\n<forename> 荘次郎 </forename>\n</persname> へ申立、御留守居方引合およふ、明朝受取可相渡旨申聞る、夫より <placename corresp=\"#place_駿河台\"> 駿河台 </placename>\n<persname corresp=\"#pers_川勝\">\n<surname> 川勝 </surname>\n</persname> 近江尋問面会、帰路 <placename corresp=\"#place_柳原\"> 柳原 </placename>\n<persname corresp=\"#pers_梅田\">\n<surname> 梅田 </surname>\n</persname> を訪ふ、夫より明神下に罷越、 <persname corresp=\"#pers_杉浦譲\">\n<surname> 杉浦 </surname>\n</persname> 面会、同所一泊いたす "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

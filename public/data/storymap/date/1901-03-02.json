@@ -1,0 +1,81 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-03-02",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_麻布\"> 麻布 </placename>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯ヲ訪フ、経済上ニ関スル意見ヲ談話シ且貴族院停会ニ関スル情況ヲ談ス、 <persname corresp=\"#pers_平岡熙\">\n<surname> 平岡 </surname>\n<forename> 熙 </forename>\n</persname> 氏来会セルヲ以テ <orgname> 汽車製造会社 </orgname> ノ事ヲ詳話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n       商業会議所ニ抵リ <persname corresp=\"#pers_大倉喜八郎\">\n<surname> 大倉 </surname>\n<forename> 喜八郎 </forename>\n</persname> 、 <persname corresp=\"#pers_渋沢成一郎\">\n<surname> 渋沢 </surname>\n<forename> 喜作 </forename>\n</persname> 、 <persname corresp=\"#pers_井上角五郎\">\n<surname> 井上 </surname>\n<forename> 角五郎 </forename>\n</persname> 三氏ヲ会シテ議会ニ関スル事項ヲ協議シ、来ル <date when=\"1901-03-04\"> 四日 </date>\n       ヲ以テ本会議所ニ於テ臨時協議会ヲ開ク事ヲ決定ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<persname corresp=\"#pers_近衛\">\n<surname> 近衛 </surname>\n</persname> 公爵ヲ官邸ニ訪ヒシモ不在ニテ面会ヲ得ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 過 <persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 侯爵ヲ <placename corresp=\"#place_芝山内\"> 芝山内 </placename>\n       ノ宅ニ訪ヒ、過夕訪問談話セシ経済救治ノ件ニ関シ更ニ意見ヲ陳ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> 有楽会ニ出席ス、 <persname corresp=\"#pers_梅田\">\n<surname> 梅田 </surname>\n</persname> 横浜市長来リ京釜鉄道株式募集ノ事ヲ談ス、埼玉学友会 <persname corresp=\"#pers_長島隆二\">\n<surname> 長島 </surname>\n<forename> 隆二 </forename>\n</persname> 、 <persname corresp=\"#pers_吉田市十郎\">\n<surname> 吉田 </surname>\n<forename> 市十郎 </forename>\n</persname> 、 <persname corresp=\"#pers_本多静六\">\n<surname> 本多 </surname>\n<forename> 静六 </forename>\n</persname> ノ三氏来ル、有楽会ノ議事ハ銀行法ニ関スル問題ニシテ <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 氏来リテ議案ノ詳細ヲ演説セラル、畢テ本議ニ入リシモ時間少キヲ以テ更ニ来ル <date evidence=\"year inferenced, month\" when=\"1900-03-06\"> 六日 </date> 開会ヲ約シテ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過散会シ <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 邸ニ帰ル、 <persname corresp=\"#pers_阪谷芳郎\">\n<surname> 阪谷 </surname>\n<forename> 芳郎 </forename>\n</persname> 来ル、大蔵省ヨリ提出スル増税案ノ詳細ヲ説明セラル "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

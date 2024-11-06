@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-03-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、新聞紙及雑誌類ヲ一覧シ、又、実業団誌ノ原稿其他演説筆記類ノ修正ヲ為ス、\n        <persname corresp=\"#pers_生島勝成\">\n<surname> 生島 </surname>\n<forename> 勝成 </forename>\n</persname> 氏来リ身上ノ依頼アリ、 <persname corresp=\"#pers_宮本源之助\">\n<surname> 宮本 </surname>\n<forename> 源之助 </forename>\n</persname> 氏来リ、運輸ノ事ニ関シテ種々ノ談話ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 正午 </time>\n<persname corresp=\"#pers_西田敬止\">\n<surname> 西田 </surname>\n<forename> 敬止 </forename>\n</persname> 氏来ル、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ内事ヲ依頼ス、午飧後近郊ノ地所一覧ノ為メ、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 、 <persname corresp=\"#pers_明石愛子\">\n<forename> 愛子 </forename>\n</persname> 等ト共ニ散策ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_麻布\"> 麻布 </placename>\n<persname corresp=\"#pers_本野一郎\">\n<surname> 本野 </surname>\n<forename> 一郎 </forename>\n</persname> 氏ヲ訪ヒ、 <placename corresp=\"#place_ロシア\"> 露国 </placename> ニ出立スルヲ送ル、既ニ <placename corresp=\"#place_新橋\"> 新橋 </placename> 停車場ニ赴カレシニヨリ停車場ニ抵リテ送別ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時\n       </time> 交詢社ニ抵リ、各新聞社ノ催ニ係ル春秋会ニ出席ス、 <persname corresp=\"#pers_桂\">\n<surname> 桂 </surname>\n</persname> 侯爵、 <persname corresp=\"#pers_大隈\">\n<surname> 大隈 </surname>\n</persname> 伯爵其他政治界ノ来賓アリ、食卓上一場ノ演説ヲ為ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 帰宿ス、後、読書ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

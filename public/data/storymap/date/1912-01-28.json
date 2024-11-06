@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1912-01-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シテ朝飧ヲ食ス、後、遺言書ノ草案ヲ作ル、今日同族会ニ於テ内示スル為メナリ、 <persname corresp=\"#pers_川田鉄弥\">\n<surname> 川田 </surname>\n<forename> 鉄弥 </forename>\n</persname> 氏来リ <orgname> 高千穂学校 </orgname> ノ事ヲ談ス、 <persname corresp=\"#pers_相川豊三\">\n<surname> 相川 </surname>\n<forename> 豊三 </forename>\n</persname> 氏来ル、修養団員二名来リ、昨日大会ニ出席ノ事ヲ謝スル旨ヲ申出ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time>\n<persname corresp=\"#pers_内田\">\n<surname> 内田 </surname>\n</persname> 外務大臣官舎ニ抵リ、 <persname corresp=\"#pers_珍田\">\n<surname> 珍田 </surname>\n</persname> 大使其他外務ノ官僚ト共ニ <persname corresp=\"#pers_島田三郎\">\n<surname> 島田 </surname>\n<forename> 三郎 </forename>\n</persname> 氏 <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> ニ於テ各地ヲ巡回セシ視察談ヲ聞ク、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time> ヨリ午飧ヲ共ニシ、食後、 <persname corresp=\"#pers_珍田\">\n<surname> 珍田 </surname>\n</persname> 大使ト <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> 談ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 二時半 </time>\n       帰宅、夫ヨリ同族会ヲ開キ諸計算書ヲ閲覧点撿シテ悉ク之ヲ承認ス、畢テ家法家訓ヲ朗読シ且之ヲ講演ス、最後ニ遺言書ヲ朗読シテ其趣旨ヲ内訓ス、右ニテ同族会全ク畢リ一同晩飧ヲ共ニス、余興トシテ軍談アリ、夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 一同散会、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

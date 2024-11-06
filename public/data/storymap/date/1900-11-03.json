@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-11-03",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<placename corresp=\"#place_釜山浦\"> 釜山浦 </placename> ニ着ス、 <orgname> 第一銀行 </orgname>\n       員数名及居留地総代、商業会議所員、郵船会社支店主任等来リ迎フ、朝餐後小蒸気船ニテ <placename corresp=\"#place_釜山鎮区\"> 釜山鎮 </placename>\n       ニ抵リ京釜鉄道停車場ヲ一覧ス、鎮ハ <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n       往年ノ政府ニ於テ、東方ノ一要塞トシテ建設セシモノト思ハル、然レトモ城塁陣営共ニ頽敗シテ見ルヘキモノナシ、城塁ヲ去ル数百武小邱ノ上ニ古城壁アリ、謂フ文禄ノ役 <persname corresp=\"#pers_小西行長\">\n<surname> 小西 </surname>\n<forename> 行長 </forename>\n</persname> ノ築成スルモノナリト、眺望久シクシテ歩ヲ回シ更ニ小蒸気船ニ搭シテ <placename corresp=\"#place_釜山浦\"> 釜山浦\n       </placename> ニ抵リ、 <orgname> 第一銀行 </orgname> 支店 <persname corresp=\"#pers_荒井栄蔵\">\n<surname> 荒井 </surname>\n<forename> 栄蔵 </forename>\n</persname> 氏ノ宅ニ小憩ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time> 領事 <persname corresp=\"#pers_能勢辰五郎\">\n<surname> 能勢 </surname>\n</persname> 氏ヲ其官舎ニ訪フ、一行領事夫妻及 <persname corresp=\"#pers_萩野\">\n<surname> 萩野 </surname>\n</persname> 少佐ト共ニ領事ノ饗宴ヲ享ケ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 市中ヲ徘徊シテ <orgname> 第一銀行\n       </orgname> 支店ニ抵リ行員ニ面会シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time> 前本船ニ抵ル、 <persname corresp=\"#pers_能勢辰五郎\">\n<surname> 能勢 </surname>\n</persname> 領事、居留民総代、銀行会社ノ諸員行ヲ送ル者船中ニ雑沓ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n       過開帆ス、此夜月明昼ノ如ク風静ニ浪少ク船中安寧ナリ、 <placename corresp=\"#place_釜山浦\"> 釜山浦 </placename>\n       到着ノ日ハ恰モ天長節ノ佳辰ナルヲ以テ、市中家毎ニ球灯ヲ点シ国籏ヲ掲ケ老幼群集セリ、歌妓ハ途上ニ於テ歌ヒ且ツ舞ヒ酔漢高ク叫ヒ頗ル紛冗ヲ極メタリ、此夜領事館ニ於テ夜会アルニヨリ一行ヘモ招状ヲ送ラレシモ、本船碇泊セサルヲ以テ之ヲ謝絶ス <lb></lb>\n<placename corresp=\"#place_長崎\"> 長崎 </placename>\n       なる平戸の埋立地を見て再ひ浚渫器械を見んとてたんべいてふ小船に乗りしに如何しけん船の底より水入りて乗組の人々ひたぬれにぬれたりけれハ戯によめる <lb></lb>\n       ともにぬれて浮名がさきに立にけり見る人ハさぞわろふたんべい "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

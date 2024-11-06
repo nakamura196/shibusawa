@@ -1,0 +1,66 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-05-31",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 宅ニ於テ米国人 <persname corresp=\"#pers_ミレツト\">\n<surname> ミレツト </surname>\n</persname> 氏来訪面会ス、 <persname corresp=\"#pers_岸精一\">\n<surname> 岸 </surname>\n<forename> 精一 </forename>\n</persname> 氏来ル、岩越鉄道線路ノ事ニ関スル <persname corresp=\"#pers_唐橋左源次\">\n<surname> 唐橋 </surname>\n<forename> 左源次 </forename>\n</persname> 来書ノ法律意見ヲ諮問ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<orgname> 第一銀行 </orgname> 重役会ヲ開ク、畢テ東京府庁ニ抵リ知事、市長ト共ニ <persname corresp=\"#pers_片山\">\n<surname> 片山 </surname>\n</persname> 技師ニ面会シテ美術館設計ノ事ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宅ス、此夜 <persname corresp=\"#pers_西脇長太郎\">\n<surname> 西脇 </surname>\n<forename> 長太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_西川太郎一\">\n<surname> 西川 </surname>\n<forename> 太郎一 </forename>\n</persname> ノ二氏来リテ <placename corresp=\"#place_大韓民国\"> 韓国 </placename>\n<placename corresp=\"#place_仁川\"> 仁川 </placename> 、 <placename corresp=\"#place_木浦\"> 木浦\n       </placename> ノ銀行営業ノ現況ヲ談話ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

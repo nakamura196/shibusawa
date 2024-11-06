@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-01-21",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、病尚愈ヘス、静坐シテ、洗面シ、褥中ニ在テ朝飧ヲ為ス、 <persname corresp=\"#pers_増田明六\">\n<surname> 増田 </surname>\n<forename> 明六 </forename>\n</persname> 来リ庶務ヲ処理ス、 <persname corresp=\"#pers_清水一雄\">\n<surname> 清水 </surname>\n<forename> 一雄 </forename>\n</persname> 氏来リ <persname corresp=\"#pers_松野\">\n<surname> 松野 </surname>\n</persname> 氏会見ノ要領ヲ説示ス、 <persname corresp=\"#pers_入江幾三郎\">\n<surname> 入江 </surname>\n<forename> 幾三郎 </forename>\n</persname> 氏来リ其子一郎ノ身上ニ付談話アリ、救済会ノ事ニ関シテ <persname corresp=\"#pers_広瀬吉郎\">\n<surname> 広瀬 </surname>\n<forename> 吉郎 </forename>\n</persname> 氏来リ、 <persname corresp=\"#pers_大岡\">\n<surname> 大岡 </surname>\n</persname> 、 <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 氏等ノ伝言ヲ述フ、依テ <persname corresp=\"#pers_増田\">\n<surname> 増田 </surname>\n</persname> ニ命シテ事務所ニ回答セシム、 <persname corresp=\"#pers_尾高次郎\">\n<surname> 尾高 </surname>\n<forename> 次郎 </forename>\n</persname> 来話ス、 <persname corresp=\"#pers_平岡八重子\">\n<surname> 平岡 </surname>\n<forename> 八重子 </forename>\n</persname> 来リ <placename corresp=\"#place_朝鮮\"> 朝鮮 </placename> 米ノ事ニ付其夫ヨリノ伝言ヲ申聞ラル、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 、 <persname corresp=\"#pers_朝山\">\n<surname> 朝山 </surname>\n</persname> ノ夫人等来話ス、夜食後御伝記ヲ熟読ス、夜ニ入リテ <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> モ病ニ罹リ、 <persname corresp=\"#pers_堀井\">\n<surname> 堀井 </surname>\n</persname> 医師前後二回来診ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 過就寝ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

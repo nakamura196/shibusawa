@@ -1,0 +1,82 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-09-07",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、支度ヲ整ヒ汽車中ノ観覧室ニ抵リ、 <persname corresp=\"#pers_堀越善重郎\">\n<surname> 堀越 </surname>\n</persname> 、 <persname corresp=\"#pers_増田明六\">\n<surname> 増田 </surname>\n</persname>\n       等ト共ニ車中ノ食堂ニテ朝飧ス、後、車ヲ下リ、近傍ニ石炭山ノ採堀事務アルヲ聞キ、小邱ヲ上リテ一覧ス、東部資本家ノ経営ニ係ルト云フ、目下試堀中ニテ一日六七噸ヲ出スモ他日ハ数百噸ヲ採堀シコークスヲ製造スル見込ナリト云フ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 午前十一時 </time> 頃昨日 <placename corresp=\"#place_レーニヤ氷山\"> レーニヤ氷山\n       </placename> 一覧ノ為メ出向キタル一行帰着シ、余等ノ下車セシヲ知ラスシテ発車ス、依テ電報ニテ汽車ヲ其地ノ停車場ニ呼戻シテ乗車ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\">\n        午後一時 </time> 午飧、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time> 過 <placename corresp=\"#place_タコマ\"> タコマ\n       </placename> 市到着ス、ホテル・ <placename corresp=\"#place_タコマ\"> タコマ </placename>\n       ニ投宿ス、小休後、商業会議所ニ抵リ会頭、会員十数名及市長モ来会シテ歓迎ノ挨拶アリ、依テ一言ノ答詞ヲ為ス、畢テホテルニ帰リテ夜飧ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:30:00",
+                    "text": "<time when=\"19:30:00\"> 七時半\n       </time> 此地ニ在住スル日本人ヨリ一場ノ演説ヲ乞ハレタルニヨリ音楽堂ニ抵リ演説ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "20:30:00",
+                    "text": "<time when=\"20:30:00\"> 八時半 </time> ホテルニ帰リ、\n        <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> ト共ニ当地ノ有志者 <persname corresp=\"#pers_ハイド\">\n<surname> ハイド </surname>\n</persname> 氏ノ催ニ係ル接伴会ニ出席ス、 <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> モ同伴ス、来会者頗ル多ク、音楽ノ余興、茶菓、氷菓等ノ饗応アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 散会、帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

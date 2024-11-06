@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1900-05-29",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、午前 <persname corresp=\"#pers_大原春次郎\">\n<surname> 大原 </surname>\n<forename> 春次郎 </forename>\n</persname> ヘ書状ヲ発ス、 <placename corresp=\"#place_京都\"> 京都 </placename>\n<persname corresp=\"#pers_田中源太郎\">\n<surname> 田中 </surname>\n<forename> 源太郎 </forename>\n</persname> ヘ織物会社ノ事ニ関スル書状ヲ発ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 宮内省ニ抵リ <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 大臣ニ面会シテ美術館建築位地ノ事ヲ内話ス、東京府庁ニ抵リ知事及市長ニ面会シテ <persname corresp=\"#pers_田中\">\n<surname> 田中 </surname>\n</persname> 大臣トノ談話ヲ伝ヘ且明後 <date when=\"1900-05-31\"> 三十一日 </date> ヲ以テ <persname corresp=\"#pers_片山\">\n<surname> 片山 </surname>\n</persname> 技師会話ノ事ヲ約ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:00:00",
+                    "text": "<time when=\"13:00:00\"> 午後一時 </time>\n<orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵リテ午餐シ、畢テ <orgname> 汽車製造会社 </orgname> ノ事ニ関シ社員会ヲ開ク、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯来会ス、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time> ヨリ <placename corresp=\"#place_浜町\"> 浜町\n       </placename> 常盤屋ニ抵リ <persname corresp=\"#pers_佐々木勇之助\">\n<surname> 佐々木 </surname>\n<forename> 勇之助 </forename>\n</persname> 氏ノ招宴ニ参会ス、蓋シ其長女 <persname corresp=\"#pers_岡實\">\n<surname> 岡 </surname>\n<forename> 実 </forename>\n</persname> ト結婚セシニ付披露ノ為ニ催シタル宴会ナリ、数番ノ余興アリテ夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> ニ帰宿ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

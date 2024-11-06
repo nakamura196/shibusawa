@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-09-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1274\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/300/full/max/0/default.jpg\" n=\"B1274\" source=\"#pageB1274\"></pb>\n<lb></lb> 雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 忠正氏来ル、同行シテクレヂリヨネニ抵リ <persname corresp=\"#pers_ジヤルマン\">\n<surname> ジヤルマン </surname>\n</persname> 氏ニ面会ス、談東邦経済ノ事ニ及フ、氏ハ <placename corresp=\"#place_日本\"> 日本 </placename>\n       ノ財政ニ付テ種々論難スル所アリ、談話ノ後行内ヲ一覧ス、其諸調査ノ手続ト金庫ノ設備トハ殊ニ整備ヲ尽シ感服スヘキモノ多シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:00:00",
+                    "text": "<time when=\"12:00:00\"> 十二時\n       </time> 帰宿、午飧後 <persname corresp=\"#pers_井上金治郎\">\n<surname> 井上 </surname>\n<forename> 金治郎 </forename>\n</persname> 案内ニテ煙草製造所ヲ一覧ス、此製造所ハ政府ノ管理ニ属シテ規模大ナラサルニアラサルモ器械職工ノ配置等所謂御役所事業ノ有様アリ、畢テ初代 <persname corresp=\"#pers_ナホレオン\">\n<surname> ナホレオン </surname>\n</persname> ノ墓所ニ抵リテ墳墓ヲ拝ス、墓所ハ <placename corresp=\"#place_セーヌ\"> セーヌ </placename>\n       ノ河辺ニアリ、構造頗ル壮大ナリ、堂宇広クシテ其中央ニ大理石ヲ以テ墳墓ヲ構成ス、実ニ美観ト云フヘシ、堂宇ノ後部ニ武器ノ沿革ヲ一目スルタメ種々ノ器品ヲ陳列ス、且此陳列所ハ独リ\n        <placename corresp=\"#place_欧洲\"> 欧洲 </placename>\n       ノモノノミナラス世界ノ武器悉ク具備ス、我邦ノ甲冑其他ノ兵器モ多ク見ルヲ得タリ、一覧畢テ旅宿ニ帰リ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time>\n<persname corresp=\"#pers_アルベルト_カン\">\n<forename> アルベルト </forename> ・ <surname> カン </surname>\n</persname> 氏来ル、蓋シ此日ハ同氏ヨリオートモビルヲ《自動車》以テ其家ニ一行ヲ招宴スルノ約アレハナリ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:30:00",
+                    "text": "<time when=\"16:30:00\"> 四時半 </time>\n       一行二台ノオートモビルニテ旅宿ヲ出テ、 <placename corresp=\"#place_シヤンゼリゼー\"> シヤンゼリゼー </placename> 、 <placename corresp=\"#place_アルクデ_トリヨンフ\"> アルクデ・トリヨンフ </placename> ヲ経テ <placename corresp=\"#place_ボワ_ド_ブロンギユ\"> ボワ・ド・ブロンギユ </placename> ヲ通過シ、 <placename corresp=\"#place_グラント_カスカード\"> グラント・カスカード </placename> ヨリ左折シテ <placename corresp=\"#place_セーヌ\">\n        セーヌ </placename> 河辺ニ出テ、橋ヲ渡リ <placename corresp=\"#place_サン_クルー\"> サン・クルー </placename>\n       ニ抵リテ其旧宮殿ニ属スル公園内ヲ馳セ、更ニ <placename corresp=\"#place_ウイルサイユ\"> ウイルサイユ </placename> ニ抵リテ再ヒ帰途同シク\n        <placename corresp=\"#place_ウイルサイユ\"> ウイルサイユ </placename> 及 <placename corresp=\"#place_サン_クルー\"> サン・クルー </placename> ヲ経テ同氏ノ家ニ抵ル、家ハ <placename corresp=\"#place_セーヌ\"> セーヌ </placename>\n       河ニ沿フテ極テ閑静ナル地ニアリ、庭園ノ設備尤モ愛スヘキモノアリ、広大ナル玻璃造ノ温室アリ、種々ノ植物ヲ培養ス、別ニ日本風ノ茶席及小庭園アリ、百般ノ器具及風致皆本邦ヨリ移シ来レルナリ一覧畢リテ夜飧ヲ饗セラレ、夜\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 過再ヒオートモヒルニテ旅宿ニ帰ル、此日一行ノ外 <persname corresp=\"#pers_林忠正\">\n<surname> 林 </surname>\n<forename> 忠正 </forename>\n</persname> 氏同行ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,72 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1901-05-01",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time>\n<placename corresp=\"#place_新潟\"> 新潟 </placename> ヲ発シテ <placename corresp=\"#place_新発田市\"> 新発田\n       </placename> ニ抵ル、新潟人ノ行ヲ送ル者五六名及一行五人ヲ合シテ腕車絡繹タリ、行程七里、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 37.94792,
+                    "lon": 139.32728,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n<placename corresp=\"#place_新発田市\"> 新発田 </placename> ニ達シテ午餐ス、途中 <placename corresp=\"#place_阿賀野川\"> 阿賀川 </placename> ノ末流ヲ渡リ松ケ崎ヲ遠見ス、食事後新潟人ニ告別シ <placename corresp=\"#place_新発田市\"> 新発田 </placename> ヲ発シテ水原ニ抵リ小憩ス、夫レヨリ道路山間ニ入リ <placename corresp=\"#place_阿賀野川\"> 阿賀川 </placename> ニ添ヘ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 37.94792,
+                    "lon": 139.32728,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_津川町\"> 津川町 </placename> ニ抵ル、此日ノ行程ハ都テ腕車ニシテ終日休時ナキニヨリ大ニ疲労ヲ覚フ、\n        <placename corresp=\"#place_津川\"> 津川 </placename> ニ近キ処ニテ草倉鉱山主任 <persname corresp=\"#pers_蒲生\">\n<surname> 蒲生 </surname>\n</persname> 氏来リ迎フテ <persname corresp=\"#pers_平田治三郎\">\n<surname> 平田 </surname>\n<forename> 治三郎 </forename>\n</persname> ノ家ニ一泊ス、夜、主人ノ依頼ニヨリテ揮毫ス、此日 <placename corresp=\"#place_若松市\"> 若松市 </placename>\n       ヨリ歓迎会ヲ開クトテ総代 <persname corresp=\"#pers_大須賀\">\n<surname> 大須賀 </surname>\n</persname> 、 <persname corresp=\"#pers_星野\">\n<surname> 星野 </surname>\n</persname> ノ二氏来リ迎フ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 37.6755,
+                    "lon": 139.45878,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1886-12-11",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "05:30:00",
+                    "text": "<time when=\"05:30:00\"> 午前五時半 </time>\n<placename corresp=\"#place_藤枝\"> 藤枝 </placename> ヲ発ス、 <placename corresp=\"#place_掛川\"> 掛川\n       </placename> 見付ニテ小憩、 <placename corresp=\"#place_浜松\"> 浜松 </placename> 花屋ニ於テ午餐 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 過、 <placename corresp=\"#place_豊橋\"> 豊橋 </placename> 小島屋ニ投宿ス\n       <lb></lb> 此夕、四日市支店 <persname corresp=\"#pers_八巻道成\">\n<surname> 八巻 </surname>\n<forename> 道成 </forename>\n</persname> ニ電報シテ、明日宮駅ニ来迎ノ事ヲ促ス <lb></lb> 金沢出張所 <persname corresp=\"#pers_青山利恭\">\n<surname> 青山 </surname>\n<forename> 利恭 </forename>\n</persname> ニ一書ヲ裁ス、蓋シ <persname corresp=\"#pers_小林藤太郎\">\n<surname> 小林 </surname>\n<forename> 藤太郎 </forename>\n</persname> 送金ヲ護シテ同地ニ赴クニ托スル為メナリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

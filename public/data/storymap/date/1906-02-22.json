@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-02-22",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後腹部全愈ニ至ラサルヲ以テ、昨日ト同シク褥中ニ於テ新聞紙ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:30:00",
+                    "text": "<time when=\"08:30:00\"> 八時半 </time> 朝飧ヲ喫ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 頃 <persname corresp=\"#pers_諸井恒平\">\n<surname> 諸井 </surname>\n<forename> 恒平 </forename>\n</persname> 来訪、 <placename corresp=\"#place_荒川\"> 荒川 </placename> 水力ノ事ヲ談話ス、終日七年史ヲ読テ当時ノ形勢ヲ追想ス <lb></lb>\n<persname corresp=\"#pers_福田又一\">\n<surname> 福田 </surname>\n<forename> 又一 </forename>\n</persname> 、 <persname corresp=\"#pers_今井喜八\">\n<surname> 今井 </surname>\n<forename> 喜八 </forename>\n</persname> 二氏来訪セシモ、病ヲ以テ面会ヲ謝絶ス <lb></lb>\n<pb corresp=\"#pageB1407\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/433/full/max/0/default.jpg\" n=\"B1407\" source=\"#pageB1407\"></pb>\n<lb></lb> 貴賓歓迎準備ノ件ニ関シ諸方ヨリ電話ニテ種々ノ要務ヲ報シ来ル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

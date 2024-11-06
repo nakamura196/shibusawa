@@ -1,0 +1,53 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-01-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、先ツ入浴シ、畢テ朝飧ヲ為ス、 <persname corresp=\"#pers_成瀬仁蔵\">\n<surname> 成瀬 </surname>\n<forename> 仁蔵 </forename>\n</persname> 氏来リテ <orgname> 女子大学 </orgname> ノ財政上ニ関シ種々ノ協議ヲ為ス、 <persname corresp=\"#pers_佐藤耕一\">\n<surname> 佐藤 </surname>\n<forename> 耕一 </forename>\n</persname> 来話ス、 <persname corresp=\"#pers_横山\">\n<surname> 横山 </surname>\n</persname> 某来リテ薪炭会社ノ事ニ関シ談話ス <lb></lb>\n<persname corresp=\"#pers_渋沢武之助\">\n<forename> 武之助 </forename>\n</persname> 学友 <persname corresp=\"#pers_篠原\">\n<surname> 篠原 </surname>\n</persname> 氏来話ス <lb></lb> 午飧後、 <placename corresp=\"#place_日本橋兜町\"> 兜町 </placename>\n       事務所ニ抵リ、更ニ株式取引所新年宴会ニ出席シ、 <persname corresp=\"#pers_中野\">\n<surname> 中野 </surname>\n</persname>\n<persname corresp=\"#pers_伊藤\">\n<surname> 伊藤 </surname>\n</persname> 、其他来会者ノ多数ニ面会ス、種々ノ談話ヲ為ス、 <persname corresp=\"#pers_馬越\">\n<surname> 馬越 </surname>\n</persname> 氏ニ托スルニ <persname corresp=\"#pers_松尾\">\n<surname> 松尾 </surname>\n</persname> 氏ヘノ書状ヲ以テス、蓋シ同氏 <placename corresp=\"#place_葉山\"> 葉山 </placename>\n       別荘ニ在ルヲ以テ特ニ使者ヲ以テ送致セシナリ、其事 <orgname> 帝商銀行 </orgname> ニ関スルニヨリ <persname corresp=\"#pers_馬越\">\n<surname> 馬越 </surname>\n</persname> 氏ノ手ヲ仮リタルナリ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿、夜、新聞紙其他ノ書ヲ読ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

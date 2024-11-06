@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-01-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、静坐ト入浴トヲ畢リ朝飧ス、後、日記ヲ編成ス、又来客ニ接ス、 <persname corresp=\"#pers_日下\">\n<surname> 日下 </surname>\n</persname> 氏ヨリ <placename corresp=\"#place_東北地方\"> 東北 </placename> 凶荒救済会ノ事ニ関シテ電話アリ、本日 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 衆議院図書館ニ会合ノ事ヲ告ケ来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n       事務所ニ抵リ庶務ヲ処理ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n<orgname> 東京商業会議所 </orgname> ニ抵リ、 <persname corresp=\"#pers_中野\">\n<surname> 中野 </surname>\n</persname> 、 <persname corresp=\"#pers_添田\">\n<surname> 添田 </surname>\n</persname> 氏等ト共ニ <persname corresp=\"#pers_末広重雄\">\n<surname> 末広 </surname>\n<forename> 重雄 </forename>\n</persname> 氏ノ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename> ヨリ帰朝セシ旅行談ヲ聞ク、畢テ午飧ヲ食ス、後\n        <persname corresp=\"#pers_今西兼二\">\n<surname> 今西 </surname>\n<forename> 兼二 </forename>\n</persname> 氏来リ日米通商銀行設立ノ事ヲ協議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 衆議院図書館ニ抵リ、 <placename corresp=\"#place_東北地方\"> 東北 </placename> 凶作救済会設立ノ準備ニ付相談会ヲ開ク、 <persname corresp=\"#pers_大岡\">\n<surname> 大岡 </surname>\n</persname> 、 <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname>\n<persname corresp=\"#pers_林田\">\n<surname> 林田 </surname>\n</persname> 及地方ノ代議士数名来会ス、趣意書及規約又ハ発状案、其人名等ヲ協議決定ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿、夜食後新聞紙類ヲ一覧ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

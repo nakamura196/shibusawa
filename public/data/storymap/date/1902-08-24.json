@@ -1,0 +1,54 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-08-24",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 雨、此日ハ当地ヲ発シ <placename corresp=\"#place_ドイツ\"> 独乙 </placename> ニ赴ク筈ナリシニヨリ朝来旅装ヲ理シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:50:00",
+                    "text": "<time when=\"09:50:00\"> 午前九時五十分 </time> ノ発車ニ搭ス、 <persname corresp=\"#pers_加藤\">\n<surname> 加藤 </surname>\n</persname> 公使、 <persname corresp=\"#pers_諸井\">\n<surname> 諸井 </surname>\n</persname> 、 <persname corresp=\"#pers_木島\">\n<surname> 木島 </surname>\n</persname> 其他ノ本邦人及 <persname corresp=\"#pers_コロネル_タイス\">\n<forename> コロネル </forename> ・ <surname> タイス </surname>\n</persname> 父子等送リテ停車場ニ抵ル、発車後鉄路山間ニ入リ、又ハ広野ニ出テ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 頃 <placename corresp=\"#place_ドイツ\"> 独乙国 </placename>\n<placename corresp=\"#place_コロン\"> コロン </placename> 市ヲ経テ <placename corresp=\"#place_ライン河\"> ライン河\n       </placename> ヲ躋ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 過 <placename corresp=\"#place_ヱツセン\"> ヱツセン\n       </placename> 市ニ着シ、旅館ヱツセンナルホフニ投宿ス、此夜停車場ニクルツプ鉄工場ヨリハウスト云《（ト脱カ）》フ人ヲ以テ余ノ一行ヲ迎ヒ種々ノ周旋ヲ為ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

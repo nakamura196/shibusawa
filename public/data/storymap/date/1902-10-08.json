@@ -1,0 +1,52 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-10-08",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、風候昨日ト同ク航行平寧ナリ、此日ハ午前後ニ <placename corresp=\"#place_コロンボ港\"> コロンボ港 </placename>\n       到着ノ予定ナリシモ頃日来ノ航行速力充分ナラサルヲ以テ、夜ニ入リテ漸ク遠ク <placename corresp=\"#place_コロンボ\"> コロンボ </placename>\n       ノ灯台ヲ見ルヲ得ル、而シテ夕方ヨリ空曇リテ小雨頻リニ来リシモ、 <placename corresp=\"#place_コロンボ\"> コロンボ </placename>\n       入港ノ頃ニハ雨歇ミテ風強シ、殊ニ <placename corresp=\"#place_コロンボ\"> コロンボ </placename> 近傍ハ波濤高クシテ防波堤外船頗ル動揺ス、夜\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 6.95278,
+                    "lon": 79.84472,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "21:00:00",
+                    "text": "<time when=\"21:00:00\"> 九時 </time> 過水先案内来リテ防波堤内ニ入リテ碇舶ス、然レトモ此夜ハ上陸スルヲ得サリキ <lb></lb> 夜ニ入リテ\n        <placename corresp=\"#place_ロンドン\"> 倫敦 </placename>\n<persname corresp=\"#pers_清水泰吉\">\n<surname> 清水 </surname>\n<forename> 泰吉 </forename>\n</persname> 、 <persname corresp=\"#pers_根岸練次郎\">\n<surname> 根岸 </surname>\n<forename> 練次郎 </forename>\n</persname> 、 <placename corresp=\"#place_ドイツ\"> 独乙 </placename> 滞在ノ <persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> ヘ書状ヲ裁ス明朝コロンボヨリ発送スル為メナリ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 51.50778,
+                    "lon": -0.12806,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

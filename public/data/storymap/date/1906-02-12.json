@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1906-02-12",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 起床後少シク風邪ノ気味ナルヲ以テ出勤ヲ見合ハセ、褥中ニ在テ新聞紙及書籍ヲ読ム <lb></lb> 製綱会社株主総会、東京市役所ニ於ル養育院歳出入ノ予算委員会モ電 <pb corresp=\"#pageB1405\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/431/full/max/0/default.jpg\" n=\"B1405\" source=\"#pageB1405\"></pb> 話ニテ出席ヲ謝絶ス <lb></lb> 此夜常盤屋ニ於テ三麦酒会社ニテ <persname corresp=\"#pers_清浦\">\n<surname> 清浦 </surname>\n</persname> 氏其他ノ招宴ヲ催フシ、合併ニ関シ種々世話セラレシ労ヲ謝スルノ宴アリシモ病ノ為メ出席ヲ謝絶ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

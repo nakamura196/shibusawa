@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-10-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴夕方ヨリ雨、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 東京興行銀行 <persname corresp=\"#pers_添田\">\n<surname> 添田 </surname>\n</persname> 氏《（業）》ヨリノ電報ヲ落手ス、又留守宅 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 及 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 氏等ノ書状ヲ落手一覧ス、依テ <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ニ一書ヲ作リ昨夜ノ書状ト共ニ発送セシム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝飧ヲ畢リ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 上陸ス、但シ在同港ノ <orgname> 日本郵船会社 </orgname>\n       代理店ヨリ案内トシテ手代一名ヲ送ラレ、且小蒸気船ヲ以テ迎ヘラレタルニヨリ一行共ニ同港ノ桟橋ニ上陸シ、馬車ヲ僦フテ市中ヲ通行シ、郊外ナル一博物館ニ抵リ水陸動物ノ剥制《（製）》ヲ一覧ス、畢テ又馬車ヲ駆テ一海岸ノ眺望佳絶ナル土地ニ抵リ、一旅館ニ投シテ午飧ス、午飧後土人ノ戯曲ヲ見又馬車ニテ帰途一寺院ニ詣ス、蓋シ此地ハ釈尊ニ縁故多キヲ以テ仏教尚遺存スルヲ以テナリ、然レトモ一覧セシ寺院ノ如キハ極テ近代ノ構造ニシテ聊モ古色ノ観ルヘキモノナクシテ鄙俗厭フヘキモノノミナリキ、一覧畢テ\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n       埠頭ニ抵リ直ニ小蒸気船ニテ本船ニ帰ル、本船ニ帰リテ後更ニ船長ノ好意ヲ以テ小蒸気船ニテ本港内ヲ一巡ス、時ニ風浪高クシテ小蒸気船防波堤ニ接近セシトキハ頗ル動揺セリ、夜ニ入リテ風雨強ク本船ハ\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 頃出帆セシガ港外ニ出テ頗ル動揺セリ <lb></lb> （欄外） <lb></lb>\n<pb corresp=\"#pageB1280\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/306/full/max/0/default.jpg\" n=\"B1280\" source=\"#pageB1280\"></pb>\n<lb></lb> ■■[img図]〓■三十六年前ニ余カ此 <placename corresp=\"#place_セイロン島\"> 錫蘭島 </placename> ニ碇泊セシハ\n        <placename corresp=\"#place_ポワントテゴール\"> ポワントテゴール </placename>\n       ト云フ地ナリシガ、其後古侖母ニ港ヲ転シテ未タ三十年ニ過キスト云トモ、而モ市街繁盛ナル、水道又ハ瓦斯灯、電気鉄道等総テ土地ニ必要ナル設備尽ク備ハレリ、以テ英国人ノ殖民地ニ関スル用意ヲ見ルヘシ\n      "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 7.0,
+                    "lon": 81.0,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

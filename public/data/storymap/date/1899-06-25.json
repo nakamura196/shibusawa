@@ -1,0 +1,67 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-06-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time>\n<placename corresp=\"#place_越生\"> 越生 </placename> ヲ発シ腕車ヲ僦テ黒山ニ抵ル、雨後ノ道路殊ニ山間陝隘《（狭）》ニシテ頗ル険悪ナリ、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 午前九時 </time>\n<placename corresp=\"#place_黒山村\"> 黒山村 </placename>\n<persname corresp=\"#pers_渋沢平九郎\">\n<forename> 平九郎 </forename>\n</persname> 戦没ノ地ニ達ス、寺院ニ於テ仏事ヲ営ム、村人来リ会スル者三四十人許リナリ、且 <persname corresp=\"#pers_渋沢平九郎\">\n<forename> 平九郎 </forename>\n</persname> 戦没当時ノ状況ヲ知ル者来リテ其詳細ヲ話説ス、頗ル明亮ニシテ且確実ト認ムルモノ多シ、僧侶ノ読経畢テ一同霊壇ニ向テ香ヲ炷ス、仏事 <pb corresp=\"#pageB1093\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/119/full/max/0/default.jpg\" n=\"B1093\" source=\"#pageB1093\"></pb> 畢テ再ヒ腕車ニテ <placename corresp=\"#place_越生\"> 越生 </placename>\n       ニ抵リテ午餐シ、直ニ車ヲ馳テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 前 <placename corresp=\"#place_川越\"> 川越\n       </placename> ニ抵リ、川越鉄道線ノ列車ニ搭シ、 <placename corresp=\"#place_国分寺\"> 国分寺 </placename>\n       ニ抵リテ更ニ甲武鉄道線ニ移リ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time> 過 <placename corresp=\"#place_日本橋兜町\"> 兜町\n       </placename> ニ帰宅ス <lb></lb>\n<placename corresp=\"#place_黒山村\"> 黒山村 </placename> にて悼亡の二首 <lb></lb>\n       なきたまをとふ黒山の墓のうゐに《（へ）》夕栄赤くさくあふひかな <lb></lb> 咲もあへす夜半のあらしに花ちりて香をとゝめぬる梅園の里 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

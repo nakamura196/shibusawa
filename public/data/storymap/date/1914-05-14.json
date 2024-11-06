@@ -1,0 +1,60 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-05-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1781\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/807/full/max/0/default.jpg\" n=\"B1781\" source=\"#pageB1781\"></pb>\n<lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、朝飧ヲ食シ、甲板上ヲ散歩シテ <placename corresp=\"#place_長江\"> 長江\n       </placename> 両岸ノ景色ヲ眺望シ、且、 <persname corresp=\"#pers_角田\">\n<surname> 角田 </surname>\n</persname> 氏其他土地通暁ノ人ヨリ説明ヲ聞ク、時々両岸ニ村落洲渚等ヲ見ル、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 32.60389,
+                    "lon": 94.51222,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 過 <placename corresp=\"#place_大冶市\"> 大冶 </placename> ニ着、直ニ上陸シテ <persname corresp=\"#pers_西沢\">\n<surname> 西沢 </surname>\n</persname> 氏ノ家ニ休憩ス但、氏ハ船ノ着岸ヲ待テ迎ノ為メ来訪セラレタリ、其他此地居住ノ邦人及支那人モ多人数来リ迎フ、休足後朝飧ヲ食シ、畢テ汽車ニテ <placename corresp=\"#place_大冶市\"> 大冶 </placename>\n       鉄山ヲ一覧ス、河岸ヨリ山麓マテ十六哩ナリト云フ、運鉱車ナレトモ客車ノ体ヲ備フ、鉱山ノ景況ハ別ニ記載スヘキモ、実ニ稀ニ見ルノ大鉄山ニテ、曾テ <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       ビユーテニ於テ一覧セシモノヨリモ更ニ便ニシテ大ナルノ感アリ、只採堀ノ方法、運搬ノ設備未タ以テ完全ト云フヘカラサルモノアリ、 <persname corresp=\"#pers_西沢\">\n<surname> 西沢 </surname>\n</persname> 氏同行詳細ノ説明アリ、インクラインニテ山ノ中腹ニ抵リ、採堀ノ現状ヲ視察ス、畢テ帰途旧採堀ノ跡ヲ一覧ス、唐時代ノ由言伝フ、一覧畢テ <persname corresp=\"#pers_西沢\">\n<surname> 西沢 </surname>\n</persname> 氏ノ家ニテ入浴シ且充分休息ス、此夜地方日支人集合ノ晩飧会ヲ開カル、食卓上一場ノ謝辞ヲ述フ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n       大貞丸来着、直ニ上船出帆セリ "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

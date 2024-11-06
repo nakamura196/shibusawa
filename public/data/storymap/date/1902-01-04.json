@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-01-04",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 朝餐ヲ畢リ興山公伝記ノ草案ヲ読ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time>\n       、 <persname corresp=\"#pers_村井吉兵衛\">\n<surname> 村井 </surname>\n<forename> 吉兵衛 </forename>\n</persname> 来訪ス、蓋シ同氏モ此館ニ滞在スルヲ以テ久濶ヲ叙スル為メ来レルナリ、 <persname corresp=\"#pers_キルビー\">\n<surname> キルビー </surname>\n</persname> 氏 <placename corresp=\"#place_東京\"> 東京 </placename> ヨリ来訪ス、英国公使 <persname corresp=\"#pers_マクドナード\">\n<surname> マクドナード </surname>\n</persname> 氏ノ内意ヲ述ヘラル、且ホーナー来状ヲ示ス、談話一時間余ニテ去ル、午後再ヒ興山公伝記ノ草案ヲ読ム、夜ニ入テ游嬉ニ消閑ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

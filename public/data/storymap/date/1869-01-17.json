@@ -1,0 +1,33 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1869-01-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 午時より近隣を訪ひ、 <placename corresp=\"#place_新田\"> 新田 </placename>\n<placename corresp=\"#place_吉岡\"> 吉岡 </placename> に至る、伊勢崎 <persname corresp=\"#pers_細野\">\n<surname> 細野 </surname>\n</persname> の妻来りしより帰宿面会、夫より <persname corresp=\"#pers_新宅市五郎\">\n<surname> 新宅 </surname>\n<forename> 市五郎 </forename>\n</persname> の宅を訪ひ、前の内ニ而午飯、隠居に至り老叔父に逢ひ旧を話す "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

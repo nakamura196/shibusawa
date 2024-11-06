@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-12-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、 <persname corresp=\"#pers_安部幸之助\">\n<surname> 安部 </surname>\n<forename> 幸之助 </forename>\n</persname> 、 <persname corresp=\"#pers_中村房次郎\">\n<surname> 中村 </surname>\n<forename> 房次郎 </forename>\n</persname> 二氏来リ営業上ノ件ニ付依頼アリ、 <persname corresp=\"#pers_石黒\">\n<surname> 石黒 </surname>\n</persname> 男爵来訪セラル、婚儀結了セシニ付其悦ヲ告クル為ナリ、 <persname corresp=\"#pers_三島中洲\">\n<surname> 三島 </surname>\n<forename> 中洲 </forename>\n</persname> 父子及 <persname corresp=\"#pers_細田\">\n<surname> 細田 </surname>\n</persname> 氏来訪、種々ノ談話ヲ為ス、午飧後庭園ヲ散歩ス、後、 <persname corresp=\"#pers_古河虎之助\">\n<surname> 古河 </surname>\n<forename> 虎之助 </forename>\n</persname> 夫妻来訪、昨日ノ披露会ニ於テ演説セシ事ヲ謝ス、其前 <persname corresp=\"#pers_葛西重雄\">\n<surname> 葛西 </surname>\n<forename> 重雄 </forename>\n</persname> モ来リテ厚ク謝詞ヲ述ヘ、且 <persname corresp=\"#pers_中島\">\n<surname> 中島 </surname>\n</persname> 男爵ヨリノ来状アリ <lb></lb>\n<persname corresp=\"#pers_安達憲忠\">\n<surname> 安達 </surname>\n<forename> 憲忠 </forename>\n</persname> 氏来リ養育院慈善会ノ事ヲ談ス、後、演説筆記ヲ修正シ、新聞紙ヲ一読ス、夕方ヨリ <persname corresp=\"#pers_竹田政智\">\n<surname> 竹田 </surname>\n<forename> 政智 </forename>\n</persname> 氏来話ス <lb></lb> 夜、 <persname corresp=\"#pers_岡崎藤吉\">\n<surname> 岡崎 </surname>\n<forename> 藤吉 </forename>\n</persname> 、 <persname corresp=\"#pers_岸本兼太郎\">\n<surname> 岸本 </surname>\n<forename> 兼太郎 </forename>\n</persname> 、 <persname corresp=\"#pers_尾城満友\">\n<surname> 尾城 </surname>\n<forename> 満友 </forename>\n</persname> 三氏来リテ、汽船会社組織ニ付尽力セシ謝礼トシテ銀器茶具ヲ送《（贈）》ラル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

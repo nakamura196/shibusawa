@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-07-28",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time> 台湾協会ニ於テ開会スル北越鉄道会社株主総会ニ列ス、畢テ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\">\n        十一時 </time>\n<placename corresp=\"#place_東京市\"> 東京市 </placename>\n       ニ於テ参事会席ニ列シ、昨日府知事ヨリ談話アリシ祝賀会ノ事ヲ議ス、然レトモ炎暑中ナルヲ以テ他日ノ議決ヲ待ツモノトシテ決定ニ至ラス、郵船会社 <persname corresp=\"#pers_岩永省一\">\n<surname> 岩永 </surname>\n<forename> 省一 </forename>\n</persname> 来リテ紡績聯合会ヨリ発スル書面ノ文案ヲ議ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 銀行ニ出勤ス、 <persname corresp=\"#pers_郷誠之助\">\n<surname> 郷 </surname>\n<forename> 誠之助 </forename>\n</persname> 来ル、鉛管ノ事 <pb corresp=\"#pageB1098\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/124/full/max/0/default.jpg\" n=\"B1098\" source=\"#pageB1098\"></pb> ヲ話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_日本橋茅場町\"> 茅場町 </placename>\n<persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 別邸ニ於テ催ス処ノ抹茶ノ宴ニ列ス、 <persname corresp=\"#pers_鳥尾小弥太\">\n<surname> 鳥尾 </surname>\n<forename> 小弥太 </forename>\n</persname> 、 <persname corresp=\"#pers_朝吹英二\">\n<surname> 朝吹 </surname>\n<forename> 英二 </forename>\n</persname> 、 <persname corresp=\"#pers_高橋義雄_(茶人)\">\n<surname> 高橋 </surname>\n<forename> 義雄 </forename>\n</persname> 、 <persname corresp=\"#pers_加納鉄斎\">\n<surname> 加納 </surname>\n<forename> 鉄斎 </forename>\n</persname> ト同飲ス、夜 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6787639,
+                    "lon": 139.7780111,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time>\n<placename corresp=\"#place_柳橋\"> 柳橋 </placename> 升田屋ニ抵ル、此夜 <placename corresp=\"#place_浜町\"> 浜町\n       </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

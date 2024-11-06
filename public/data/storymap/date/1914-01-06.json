@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-01-06",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n<pb corresp=\"#pageB1766\" facs=\"https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/792/full/max/0/default.jpg\" n=\"B1766\" source=\"#pageB1766\"></pb>\n<lb></lb>\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、静坐入浴畢テ朝飧ヲ食シ、後、 <placename corresp=\"#place_川越\"> 川越\n       </placename> 喜多院住職 <persname corresp=\"#pers_遠賀亮中\">\n<surname> 遠賀 </surname>\n</persname> 師ノ来訪ニ接ス、又、試験制度改正企望者総代二名ト面話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:30:00",
+                    "text": "<time when=\"09:30:00\"> 午前九時半 </time>\n<placename corresp=\"#place_日比谷\"> 日比谷 </placename> 公園ニ抵リ消防隊出初ノ式ニ列ス、 <persname corresp=\"#pers_安楽\">\n<surname> 安楽 </surname>\n</persname> 警視総監及 <persname corresp=\"#pers_室田\">\n<surname> 室田 </surname>\n</persname> 本部長、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 市長、 <persname corresp=\"#pers_中野\">\n<surname> 中野 </surname>\n</persname> 会頭等来会ス、式ハ公園ノ広場ニ於テ開カレ、種々ノ余興アリ、梯子乗リ、刺又乗及急火救助等尤モ興味アリ、隊ノ老功者及勤労アリシ者ニ賞品ヲ与フ、式畢テ\n        <orgname> 松本楼 </orgname> ニ小憩シ、午時 <orgname> 第一銀行 </orgname> ニ抵リテ午飧ス、後、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏其他ト行務ヲ談シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "13:30:00",
+                    "text": "<time when=\"13:30:00\"> 一時半 </time> 事務所ニ抵リ、 <persname corresp=\"#pers_山室軍平\">\n<surname> 山室 </surname>\n<forename> 軍平 </forename>\n</persname> 氏来訪ニ接ス、 <persname corresp=\"#pers_神健夫\">\n<surname> 神 </surname>\n<forename> 健夫 </forename>\n</persname> ト云フ学生ヲ伴フテ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 三時 </time> 三友倶楽部ニ抵リ、 <placename corresp=\"#place_東北地方\"> 東北 </placename> 救済会発起ノ事ヲ議ス、振興会員及 <placename corresp=\"#place_東北地方\"> 東北\n       </placename> 代議士数名来会ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 散会、帰宿、夜食後揮毫ニ勉ム、畢テ遊戯ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

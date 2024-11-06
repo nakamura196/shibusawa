@@ -1,0 +1,47 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1899-12-23",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 曇、午前磐城炭坑会社重役会ニ列ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time> 深川区役所ニ抵リ□員慰労会《（欠）》ニ出席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 午後四時 </time> 三井集会所ニ於テ経済上ノ談話ニ関スル第二回ノ集会ヲ開ク、 <persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 伯出席シテ種々ノ問題ヲ議ス、会スル者凡四十人、各其意見ヲ討議ス、衆議此会ヲ有楽会ト称スル事ニ定ム、且来年 <date evidence=\"year inferenced, day\" when=\"1900-01\"> 一月 </date> ノ会日ハ二十日後トスル事トシ、其規程ノ草案ヲ余ト\n        <persname corresp=\"#pers_益田\">\n<surname> 益田 </surname>\n</persname> 氏トニ托セラル、此夜雷雨、 <placename corresp=\"#place_深川\"> 深川 </placename> 宅ニ帰宿ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

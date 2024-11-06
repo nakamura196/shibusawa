@@ -1,0 +1,75 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1914-01-09",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、静坐入浴ヲ畢テ朝飧ヲ食ス、後、来客ニ接ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時\n       </time> 帝国劇場ニ抵リ、郵便電信等ノ集配ニ従事スル人々千六七百余名ヲ時事新報ノ主催ニテ劇場ニ案内シテ一日ノ慰労ヲ為スニ付、来衆ニ対シテ一場ノ訓諭ヲ依托セラレ、 <persname corresp=\"#pers_元田\">\n<surname> 元田 </surname>\n</persname> 逓信大臣、 <persname corresp=\"#pers_棟居\">\n<surname> 棟居 </surname>\n</persname> 局長ト共ニ一言ヲ述ヘ、後、演劇ヲ観ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time>\n<orgname> 東京商業会議所 </orgname> ニ於テ、 <persname corresp=\"#pers_中野\">\n<surname> 中野 </surname>\n</persname> 氏ト <placename corresp=\"#place_アメリカ合衆国\"> 米国 </placename>\n       ニ於テ啓発運動ニ付外務省ノ意見ニ関スル協議ヲ為ス、畢テ <orgname> 第一銀行 </orgname> ニ抵リ行務ヲ談シ又揮毫ヲ為ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\">\n        四時 </time> 過事務所ニ抵リ庶務ヲ処理ス、 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 市長来リ市内電灯電車ノ問題ニ付縷々ノ説明アリ、 <persname corresp=\"#pers_植村澄三郎\">\n<surname> 植村 </surname>\n<forename> 澄三郎 </forename>\n</persname> 氏来リ三百年祭ノ事ヲ協議ス、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 過 <persname corresp=\"#pers_明石\">\n<surname> 明石 </surname>\n</persname> ヲ同伴シテ <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宅ス、夜食後新聞紙及雑誌類ヲ一覧ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "23:00:00",
+                    "text": "<time when=\"23:00:00\"> 十一時 </time> 過就寝 <lb></lb> （欄外） <lb></lb> ［朝、 <persname corresp=\"#pers_犬丸鉄太郎\">\n<surname> 犬丸 </surname>\n<forename> 鉄太郎 </forename>\n</persname> 氏来話ス、夕、 <persname corresp=\"#pers_平田久\">\n<surname> 平田 </surname>\n<forename> 久 </forename>\n</persname> 氏来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

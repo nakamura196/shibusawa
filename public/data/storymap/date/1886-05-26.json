@@ -1,0 +1,94 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1886-05-26",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:00:00",
+                    "text": "<time when=\"06:00:00\"> 午前六時 </time>\n<placename corresp=\"#place_深川邸\"> 深川邸 </placename> ヲ発シ、 <placename corresp=\"#place_新橋\"> 新橋\n       </placename> 駐車場ニ到リ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:45:00",
+                    "text": "<time when=\"06:45:00\"> 六時四十五分 </time> 発ノ汽車ニ搭ス、送別ノ人十数人汽車場ニ来ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 七時半 </time>\n<placename corresp=\"#place_神奈川\"> 神奈川 </placename> 着、 <persname corresp=\"#pers_本山\">\n<surname> 本山 </surname>\n</persname> 、 <persname corresp=\"#pers_書上\">\n<surname> 書上 </surname>\n</persname> 等 <placename corresp=\"#place_横浜\"> 横浜 </placename> ヨリ来テ送別ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\">\n        八時 </time>\n<placename corresp=\"#place_神奈川\"> 神奈川 </placename> ヲ発シ、馬車ヲ僦フテ <placename corresp=\"#place_神奈川\">\n        神奈川 </placename> 《（マヽ）》ヲ発シ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 十一時半 </time>\n<placename corresp=\"#place_大磯町\"> 大磯 </placename> ニテ午餐シ、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<placename corresp=\"#place_小田原\"> 小田原 </placename> ニ抵リ、三枚橋ニテ山轎ヲ僦ヒ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 午後七時 </time>\n<placename corresp=\"#place_仙石原\"> 仙石原 </placename> 着、万屋ニ投宿ス、此日 <persname corresp=\"#pers_須永伝蔵\">\n<surname> 須永 </surname>\n<forename> 伝蔵 </forename>\n</persname> 来リテ牧場ノ近況ヲ話ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.269639,
+                    "lon": 139.01025,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

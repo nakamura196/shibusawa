@@ -1,0 +1,80 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1910-02-18",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:30:00",
+                    "text": "<time when=\"07:30:00\"> 午前七時半 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、後、昔夢会ニ於テ談話セシ筆記ヲ修正ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:30:00",
+                    "text": "<time when=\"11:30:00\"> 午前十一時半 </time>\n<orgname> 第一銀行 </orgname> ニ抵リ <persname corresp=\"#pers_大沢\">\n<surname> 大沢 </surname>\n</persname> 氏ト談話ス、又、書類ヲ点撿ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "12:30:00",
+                    "text": "<time when=\"12:30:00\"> 十二時半 </time> 午飧ス、後、 <placename corresp=\"#place_大阪\"> 大阪 </placename>\n<persname corresp=\"#pers_藤江章夫\">\n<surname> 藤江 </surname>\n<forename> 章夫 </forename>\n</persname> 氏ノ来訪ニ接シ、 <orgname> 人造肥料会社 </orgname> ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 二時 </time>\n<placename corresp=\"#place_日本橋兜町\"> 兜町 </placename> 事務所ニ抵リ、高等学校教授 <persname corresp=\"#pers_大関\">\n<surname> 大関 </surname>\n</persname> 氏ノ来訪ニ接ス、商業地理ニ関シ種々ノ質問アリ、公債仲買 <persname corresp=\"#pers_林\">\n<surname> 林 </surname>\n</persname> 氏来リ再下請ノ事ヲ請フ、 <persname corresp=\"#pers_益田孝\">\n<surname> 益田 </surname>\n<forename> 孝 </forename>\n</persname> 氏来リ人造肥料合同ノ事ヲ談ス、後、書類ヲ整理シ、又、諸方ヘ書状ヲ認メテ之ヲ発送セシム、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.6814833,
+                    "lon": 139.7777861,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 午後六時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス <lb></lb> 夜、蘆川生ヨリ依頼アリシ父の書簡ニ序文ヲ書ス、 <persname corresp=\"#pers_渋沢市郎\">\n<surname> 渋沢 </surname>\n<forename> 市郎 </forename>\n</persname> 来訪ス、 <placename corresp=\"#place_深谷\"> 深谷 </placename> 駅ヨリノ依頼ノ件其他 <placename corresp=\"#place_八基村\"> 八基村 </placename> 教育会及 <orgname> 上武鉄道 </orgname> ノ事ヲ談話ス "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 36.23331,
+                    "lon": 139.26167,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

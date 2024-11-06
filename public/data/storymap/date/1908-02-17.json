@@ -1,0 +1,46 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1908-02-17",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 午前八時 </time> 起床、入浴シ、畢テ朝飧ヲ食ス、 <placename corresp=\"#place_三田\"> 三田\n       </placename> 邸 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> ヘ電話ヲ通シテ <orgname> 第一銀行 </orgname> ヘノ伝言ヲ托ス、 <persname corresp=\"#pers_水町\">\n<surname> 水町 </surname>\n</persname> 大蔵次官、 <persname corresp=\"#pers_北垣\">\n<surname> 北垣 </surname>\n</persname> 男爵ヘ書状ヲ以テ砂糖消費税率ノ事、 <placename corresp=\"#place_北海道\"> 北海道 </placename>\n       鉄道ノ事ニ関シ要件ヲ申遣ハス、 <persname corresp=\"#pers_川田鉄弥\">\n<surname> 川田 </surname>\n<forename> 鉄弥 </forename>\n</persname> 氏ヘ伝言ヲ通ス <lb></lb> 昨日来ノ腹部ノ下痢全愈セス、褥中ニ在テ新聞紙ヲ一覧シ要務ヲ処理ス <lb></lb> 此夜、 <placename corresp=\"#place_日本橋\"> 日本橋 </placename> 倶楽部ニ於テ <persname corresp=\"#pers_大江卓\">\n<surname> 大江 </surname>\n<forename> 卓 </forename>\n</persname> 氏 <placename corresp=\"#place_清\"> 清国 </placename> 行送別会ノ催アリシモ、病ノ為出席ヲ得ス、電話ニテ断リ遣ス\n      "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 43.064333,
+                    "lon": 141.346889,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

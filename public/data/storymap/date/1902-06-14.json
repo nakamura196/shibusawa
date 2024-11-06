@@ -1,0 +1,40 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1902-06-14",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 晴、午前 <persname corresp=\"#pers_内田\">\n<surname> 内田 </surname>\n</persname> 領事夫妻来ル、朝来各種ノ本邦人及新聞記者等続々来訪ス、 <persname corresp=\"#pers_吋田\">\n<surname> 吋田 </surname>\n</persname> 領事ト当地ニ於テ取扱フヘキ事務ニ付テ打合セヲ為シ添書類ヲ交付ス、終日来人アリテ外出スルヲ得ス、夕方 <persname corresp=\"#pers_堀越\">\n<surname> 堀越 </surname>\n</persname> 氏ノ案内ニテ日本料理ノ饗宴アリ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:00:00",
+                    "text": "<time when=\"22:00:00\"> 十時 </time> 帰宿ス、同伴者ハ <persname corresp=\"#pers_渋沢兼子\">\n<forename> 兼子 </forename>\n</persname> 外一行皆招宴セラル "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

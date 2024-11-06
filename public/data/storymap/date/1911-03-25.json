@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1911-03-25",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、半身浴ヲ為シテ、朝飧ヲ食ス、後、日記ヲ編成ス、 <persname corresp=\"#pers_徳久\">\n<surname> 徳久 </surname>\n</persname> 、 <persname corresp=\"#pers_釘本\">\n<surname> 釘本 </surname>\n</persname> 二氏来リテ、 <placename corresp=\"#place_朝鮮\"> 朝鮮 </placename> ニテ製麻会社設立ノ事ヲ談ス、 <persname corresp=\"#pers_川田鉄弥\">\n<surname> 川田 </surname>\n<forename> 鉄弥 </forename>\n</persname> 氏 <orgname> 高千穂学校 </orgname> ノ教員及生徒同伴来訪ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 十時 </time> 過\n        <placename corresp=\"#place_本郷\"> 本郷 </placename> ニ抵リ、午飧後、事務所ニテ、 <persname corresp=\"#pers_渋沢篤二\">\n<forename> 篤二 </forename>\n</persname> 、 <persname corresp=\"#pers_尾高\">\n<surname> 尾高 </surname>\n</persname> 、 <persname corresp=\"#pers_八十島\">\n<surname> 八十島 </surname>\n</persname> 等ト事務ヲ談ス、 <persname corresp=\"#pers_佐々木\">\n<surname> 佐々木 </surname>\n</persname> 氏来話ス、神苑会ノ事ニ関シ <persname corresp=\"#pers_安井\">\n<surname> 安井 </surname>\n</persname> 氏来訪セラル、計算書ノ事ヲ談ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<persname corresp=\"#pers_井上\">\n<surname> 井上 </surname>\n</persname> 侯爵ヲ内田山邸ニ訪ヘ、施療方法ニ関シ種々ノ談話ヲ為ス、又、特種銀行条例ノ事ニ付爾後ノ経過ヲ報告ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:30:00",
+                    "text": "<time when=\"16:30:00\"> 四時半\n       </time> ノ汽車ニテ <placename corresp=\"#place_横浜\"> 横浜 </placename> ニ抵リ渋沢商店代替リノ披露会ニ出席ス、 <placename corresp=\"#place_横浜\"> 横浜 </placename> 市人会スル者二十有余人、 <persname corresp=\"#pers_小野光景\">\n<surname> 小野 </surname>\n<forename> 光景 </forename>\n</persname> 氏種々斡旋セラル、食事中一場ノ謝辞ヲ述ヘ、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "22:30:00",
+                    "text": "<time when=\"22:30:00\"> 十時半 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、 <persname corresp=\"#pers_明石\">\n<surname> 明石 </surname>\n</persname> 夫妻来話ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

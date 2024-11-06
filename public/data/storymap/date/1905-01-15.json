@@ -1,0 +1,68 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1905-01-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、室内運動ヲ為シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ畢ル、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:00:00",
+                    "text": "<time when=\"10:00:00\"> 午前十時 </time>\n<orgname> 埼玉学生誘掖会 </orgname>\n       ニ抵リ寄宿舎要義発表ノ式ヲ挙ク、要義ヲ講演シテ一場ノ訓示演説ヲ為ス、学生会スル者四十名計、畢テ午飧ヲ為シ、庭中ニ於テ撮影シ更ニ学生ノ催ニ係ル茶話会ニ列席ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "15:00:00",
+                    "text": "<time when=\"15:00:00\"> 午後三時 </time>\n<persname corresp=\"#pers_穂積\">\n<surname> 穂積 </surname>\n</persname> 邸ヲ訪問シ、 <persname corresp=\"#pers_穂積陳重\">\n<forename> 陳重 </forename>\n</persname> 、 <persname corresp=\"#pers_穂積歌子\">\n<forename> 歌子 </forename>\n</persname> 其他ノ女孫ト談話ス、去テ又 <persname corresp=\"#pers_阪谷\">\n<surname> 阪谷 </surname>\n</persname> 邸ヲ訪フ、老未亡人、 <persname corresp=\"#pers_阪谷琴子\">\n<forename> 琴子 </forename>\n</persname> 及女孫悉ク会シテ暫時談話シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス <lb></lb> 夜、甲子夜話ヲ読ム "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

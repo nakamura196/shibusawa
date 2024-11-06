@@ -1,0 +1,95 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1913-01-05",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "06:30:00",
+                    "text": "<time when=\"06:30:00\"> 午前六時半 </time> 起床、入浴シテ朝飧ヲ食ス、今日ハ <placename corresp=\"#place_東京\"> 東京\n       </placename> ニ用務アルニヨリ朝来支度ヲ整ヘ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:27:00",
+                    "text": "<time when=\"08:27:00\"> 午前八時二十七分 </time> ノ発車ニテ <placename corresp=\"#place_東京\"> 東京 </placename> ニ抵ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "10:50:00",
+                    "text": "<time when=\"10:50:00\"> 午前十時五十分 </time> 頃\n        <placename corresp=\"#place_新橋\"> 新橋 </placename> 着、直ニ自働車ニテ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ニ抵ル、 <persname corresp=\"#pers_八十島親徳\">\n<surname> 八十島 </surname>\n<forename> 親徳 </forename>\n</persname> 氏同行ス、 <placename corresp=\"#place_鶴見\"> 鶴見 </placename> 埋築会社株主協議会ニ出席シ、 <persname corresp=\"#pers_浅野総一郎\">\n<surname> 浅野 </surname>\n<forename> 総一郎 </forename>\n</persname> 氏ヨリ会社設立ニ付テノ爾後ノ経過ヲ演説セラレ、向後ノ施設及金融等ニ付協議アリ後、 <persname corresp=\"#pers_山県\">\n<surname> 山県 </surname>\n</persname> 技師《（ヨリ）》ノ埋立工事ニ関スル設計ノ大要ヲ演説セラル、余ハ <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname>\n<persname corresp=\"#pers_山県\">\n<surname> 山県 </surname>\n</persname> 二氏ニ対シ種々ノ質問ヲ為シテ詳細ノ説明ヲ求ム、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:00:00",
+                    "text": "<time when=\"14:00:00\"> 午後二時 </time> 頃協議畢リテ午飧ス、後、更ニ\n        <persname corresp=\"#pers_浅野\">\n<surname> 浅野 </surname>\n</persname> 氏ヨリ水力電気施設ノ建議アリシモ、尚 <persname corresp=\"#pers_安田\">\n<surname> 安田 </surname>\n</persname> 氏トノ協議アリテ後附議スヘシト答ヘテ散会シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "16:00:00",
+                    "text": "<time when=\"16:00:00\"> 四時 </time>\n<placename corresp=\"#place_三田\"> 三田 </placename> 邸ニ <persname corresp=\"#pers_渋沢敬三\">\n<forename> 敬三 </forename>\n</persname> ノ病ヲ看ル、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "17:00:00",
+                    "text": "<time when=\"17:00:00\"> 午後五時 </time>\n<placename corresp=\"#place_浜町\"> 浜町 </placename> ノ家ヲ訪ヒ <persname corresp=\"#pers_八郎\">\n<forename> 八郎 </forename>\n</persname> ト会話ス、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "19:00:00",
+                    "text": "<time when=\"19:00:00\"> 七時 </time>\n<placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿ス、夜飧後、雑誌類ヲ読ム、夜 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": null,
+                    "text": "<time when-iso=\"1913-01-06T00:00+0900\"> 十二時 </time> 就寝ス、此日ハ <orgname>\n<orgname> 帝国ホテル </orgname>\n</orgname> ノ会議畢ルノ後 <placename corresp=\"#place_大磯町\"> 大磯 </placename> ニ抵ルノ予定ナリシモ、明朝 <persname corresp=\"#pers_渋沢元治\">\n<forename> 元治 </forename>\n</persname> ト会見ノ要務生シタルニヨリ <placename corresp=\"#place_王子\"> 王子 </placename> ニ帰宿シタルナリキ "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 35.30689,
+                    "lon": 139.31131,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

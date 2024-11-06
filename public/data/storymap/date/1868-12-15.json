@@ -1,0 +1,39 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1868-12-15",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": " 暁より <placename corresp=\"#place_四国\"> 四国 </placename>\n       辺の諸島を見る、風静なれとも逆風となりて舟行昨日より遅し、夕方に至り、風洋よく <placename corresp=\"#place_紀州\"> 紀州 </placename>\n       辺の諸山を見る "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 34.40028,
+                    "lon": 134.13639,
+                    "zoom": 8
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}

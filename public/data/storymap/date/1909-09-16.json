@@ -1,0 +1,94 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "slides": [
+            {
+                "date": "",
+                "text": {
+                    "headline": "1909-09-16",
+                    "text": ""
+                },
+                "location": {
+                    "line": true
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "",
+                    "text": "\n"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "07:00:00",
+                    "text": "<time when=\"07:00:00\"> 午前七時 </time> 起床、車中ニテ支度ヲ整ヘ "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "08:00:00",
+                    "text": "<time when=\"08:00:00\"> 八時 </time> 朝飧ヲ食ス、\n        "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "09:00:00",
+                    "text": "<time when=\"09:00:00\"> 九時 </time> 頃 <placename corresp=\"#place_ファーゴ_(ノースダコタ州)\"> ハルゴ\n       </placename> ニ抵リ、地方人士ノ案内ニテ合衆国政府及州政府合力ニテ設置セル大学及農事試験場ヲ一覧ス、 "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 46.87722,
+                    "lon": -96.78944,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "11:00:00",
+                    "text": "<time when=\"11:00:00\"> 十一時 </time>\n       汽車ニ帰リ午飧シ、 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "14:30:00",
+                    "text": "<time when=\"14:30:00\"> 午後二時半 </time>\n<placename corresp=\"#place_グランドフォークス_(ノースダコタ州)\"> グラントホーク </placename>\n       ニ抵リ、歓迎員ノ案内ニテ自働車ニテ地方ノ農場ヲ一覧シ、収獲《（穫）》ノ実況ヲ見ル、又農学校ヲ一覧シ、商業倶楽部ニ抵リ茶菓ノ饗応アリ、歓迎委員長ノ挨拶ニ対シテ一場ノ答詞ヲ述フ、此日、市中遊覧中学校児童男女数百名ノ唱歌歓迎ハ尤モ一行ヲ感セシム、\n        "
+                },
+                "location": {
+                    "line": true,
+                    "lat": 47.92528,
+                    "lon": -97.0325,
+                    "zoom": 8
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:30:00",
+                    "text": "<time when=\"18:30:00\"> 午後六時半 </time> 汽車ニ帰リ終夜進行ス、夜飧後、接伴員 <persname corresp=\"#pers_ギルマン\">\n<surname> ギルマン </surname>\n</persname> 氏ト談話ス、翌暁 "
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "18:00:00",
+                    "text": "<time when=\"18:00:00\"> 六時 </time> 過汽車ヒビツクニ到着ス "
+                }
+            }
+        ],
+        "zoomify": false,
+        "map_type": "osm:standard",
+        "map_subdomains": "",
+        "attribution": "",
+        "language": "jp"
+    },
+    "font_css": "stock:opensans-gentiumbook"
+}
