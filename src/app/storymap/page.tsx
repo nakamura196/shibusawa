@@ -1,6 +1,6 @@
 // app/page.tsx
 import Link from "next/link";
-import dates from "../../data/storymap/list.json";
+import dates from "@/data/storymap/list.json";
 
 export default function Home() {
   return (
